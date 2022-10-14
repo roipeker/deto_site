@@ -1,0 +1,152 @@
+[
+  {
+    "city": "Accra",
+    "admin": "Greater Accra",
+    "sort": "2291352"
+  },
+  {
+    "city": "Kumasi",
+    "admin": "Ashanti",
+    "sort": "2069350"
+  },
+  {
+    "city": "Tamale",
+    "admin": "Northern",
+    "sort": "1095808"
+  },
+  {
+    "city": "Sekondi",
+    "admin": "Western",
+    "sort": "286248"
+  },
+  {
+    "city": "Obuase",
+    "admin": "Ashanti",
+    "sort": "180460"
+  },
+  {
+    "city": "Tema",
+    "admin": "Greater Accra",
+    "sort": "161612"
+  },
+  {
+    "city": "Cape Coast",
+    "admin": "Central",
+    "sort": "143015"
+  },
+  {
+    "city": "Koforidua",
+    "admin": "Eastern",
+    "sort": "127334"
+  },
+  {
+    "city": "Ho",
+    "admin": "Volta",
+    "sort": "83715"
+  },
+  {
+    "city": "Wa",
+    "admin": "Upper West",
+    "sort": "78107"
+  },
+  {
+    "city": "Sunyani",
+    "admin": "Brong-Ahafo",
+    "sort": "70299"
+  },
+  {
+    "city": "Bolgatanga",
+    "admin": "Upper East",
+    "sort": "66685"
+  },
+  {
+    "city": "Techiman",
+    "admin": "Brong-Ahafo",
+    "sort": ""
+  },
+  {
+    "city": "Sefwi Wiawso",
+    "admin": "Western",
+    "sort": ""
+  },
+  {
+    "city": "Dambai",
+    "admin": "Volta",
+    "sort": ""
+  },
+  {
+    "city": "Goaso",
+    "admin": "Brong-Ahafo",
+    "sort": ""
+  },
+  {
+    "city": "Nalerigu",
+    "admin": "Northern",
+    "sort": ""
+  },
+  {
+    "city": "Damongo",
+    "admin": "Northern",
+    "sort": ""
+  },
+  {
+    "city": "Bawku",
+    "admin": "Upper East",
+    "sort": "73594"
+  },
+  {
+    "city": "Aflao",
+    "admin": "Volta",
+    "sort": "66546"
+  },
+  {
+    "city": "Nkawkaw",
+    "admin": "Eastern",
+    "sort": "62667"
+  },
+  {
+    "city": "Hohoe",
+    "admin": "Volta",
+    "sort": "56202"
+  },
+  {
+    "city": "Winneba",
+    "admin": "Central",
+    "sort": "55331"
+  },
+  {
+    "city": "Berekum",
+    "admin": "Brong-Ahafo",
+    "sort": "46287"
+  },
+  {
+    "city": "Yendi",
+    "admin": "Northern",
+    "sort": "42972"
+  },
+  {
+    "city": "Keta",
+    "admin": "Volta",
+    "sort": "22739"
+  },
+  {
+    "city": "Gumani",
+    "admin": "Northern",
+    "sort": "12506"
+  },
+  {
+    "city": "Diari",
+    "admin": "Northern",
+    "sort": "12666"
+  },
+  {
+    "city": "Sang",
+    "admin": "Northern",
+    "sort": "7278"
+  },
+  {
+    "city": "Kanvile",
+    "admin": "Northern",
+    "sort": "5506"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "city": "Lomé",
+    "admin": "Maritime",
+    "sort": "837437"
+  },
+  {
+    "city": "Sokodé",
+    "admin": "Centrale",
+    "sort": "113000"
+  },
+  {
+    "city": "Kpalimé",
+    "admin": "Plateaux",
+    "sort": "100479"
+  },
+  {
+    "city": "Atakpamé",
+    "admin": "Plateaux",
+    "sort": "80683"
+  },
+  {
+    "city": "Dapaong",
+    "admin": "Savanes",
+    "sort": ""
+  },
+  {
+    "city": "Kara",
+    "admin": "Kara",
+    "sort": ""
+  },
+  {
+    "city": "Sansanné-Mango",
+    "admin": "Savanes",
+    "sort": "42626"
+  },
+  {
+    "city": "Bassar",
+    "admin": "Kara",
+    "sort": "23181"
+  },
+  {
+    "city": "Sotouboua",
+    "admin": "Centrale",
+    "sort": "21054"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "city": "Baghdad",
+    "admin": "Baghdād",
+    "sort": "6107000"
+  },
+  {
+    "city": "Mosul",
+    "admin": "Nīnawá",
+    "sort": "1694000"
+  },
+  {
+    "city": "Al Başrah",
+    "admin": "Al Başrah",
+    "sort": "1326564"
+  },
+  {
+    "city": "Kirkuk",
+    "admin": "Kirkūk",
+    "sort": "975000"
+  },
+  {
+    "city": "Ar Ramādī",
+    "admin": "Al Anbār",
+    "sort": "874543"
+  },
+  {
+    "city": "Erbil",
+    "admin": "Arbīl",
+    "sort": "846000"
+  },
+  {
+    "city": "An Najaf",
+    "admin": "An Najaf",
+    "sort": "724700"
+  },
+  {
+    "city": "Karbalā’",
+    "admin": "Karbalā’",
+    "sort": "690100"
+  },
+  {
+    "city": "As Sulaymānīyah",
+    "admin": "As Sulaymānīyah",
+    "sort": "676500"
+  },
+  {
+    "city": "An Nāşirīyah",
+    "admin": "Dhī Qār",
+    "sort": "541600"
+  },
+  {
+    "city": "Al Ḩillah",
+    "admin": "Bābil",
+    "sort": "541034"
+  },
+  {
+    "city": "Al ‘Amārah",
+    "admin": "Maysān",
+    "sort": "511500"
+  },
+  {
+    "city": "Ba‘qūbah",
+    "admin": "Diyālá",
+    "sort": "467900"
+  },
+  {
+    "city": "Ad Dīwānīyah",
+    "admin": "Al Qādisīyah",
+    "sort": "391600"
+  },
+  {
+    "city": "Az Zubayr",
+    "admin": "Al Başrah",
+    "sort": "370000"
+  },
+  {
+    "city": "Dahūk",
+    "admin": "Dahūk",
+    "sort": "330600"
+  },
+  {
+    "city": "Al Fallūjah",
+    "admin": "Al Anbār",
+    "sort": "326471"
+  },
+  {
+    "city": "Al Kūt",
+    "admin": "Wāsiţ",
+    "sort": "321521"
+  },
+  {
+    "city": "Zākhū",
+    "admin": "Dahūk",
+    "sort": "219006"
+  },
+  {
+    "city": "As Samāwah",
+    "admin": "Al Muthanná",
+    "sort": "215000"
+  },
+  {
+    "city": "Al Kūfah",
+    "admin": "An Najaf",
+    "sort": "166100"
+  },
+  {
+    "city": "Ash Shaţrah",
+    "admin": "Dhī Qār",
+    "sort": "161949"
+  },
+  {
+    "city": "Sāmarrā’",
+    "admin": "Şalāḩ ad Dīn",
+    "sort": "158508"
+  },
+  {
+    "city": "Umm Qaşr",
+    "admin": "Al Başrah",
+    "sort": "107620"
+  },
+  {
+    "city": "Tikrīt",
+    "admin": "Şalāḩ ad Dīn",
+    "sort": "105700"
+  },
+  {
+    "city": "Al Fāw",
+    "admin": "Al Başrah",
+    "sort": "105080"
+  },
+  {
+    "city": "Nāḩiyat al Karmah",
+    "admin": "Al Anbār",
+    "sort": "95000"
+  },
+  {
+    "city": "Sinjār",
+    "admin": "Nīnawá",
+    "sort": "88023"
+  },
+  {
+    "city": "Al Ḩayy",
+    "admin": "Wāsiţ",
+    "sort": "82900"
+  },
+  {
+    "city": "Tall ‘Afar",
+    "admin": "Nīnawá",
+    "sort": "80000"
+  },
+  {
+    "city": "Balad",
+    "admin": "Şalāḩ ad Dīn",
+    "sort": "80000"
+  },
+  {
+    "city": "Al Musayyib",
+    "admin": "Bābil",
+    "sort": "76454"
+  },
+  {
+    "city": "Az Zubaydīyah",
+    "admin": "Wāsiţ",
+    "sort": "70000"
+  },
+  {
+    "city": "Hīt",
+    "admin": "Al Anbār",
+    "sort": "66700"
+  },
+  {
+    "city": "Ḩalabjah",
+    "admin": "As Sulaymānīyah",
+    "sort": "65200"
+  },
+  {
+    "city": "Bayjī",
+    "admin": "Şalāḩ ad Dīn",
+    "sort": "60000"
+  },
+  {
+    "city": "Qalādizay",
+    "admin": "As Sulaymānīyah",
+    "sort": "36792"
+  },
+  {
+    "city": "Mandalī",
+    "admin": "Diyālá",
+    "sort": "29785"
+  },
+  {
+    "city": "Shaqlāwah",
+    "admin": "Arbīl",
+    "sort": "25000"
+  },
+  {
+    "city": "Ar Ruţbah",
+    "admin": "Al Anbār",
+    "sort": "22370"
+  },
+  {
+    "city": "Kūysinjaq",
+    "admin": "Arbīl",
+    "sort": "19878"
+  },
+  {
+    "city": "Rāwah",
+    "admin": "Al Anbār",
+    "sort": "19629"
+  },
+  {
+    "city": "Ḩammām al ‘Alīl",
+    "admin": "Nīnawá",
+    "sort": "15985"
+  },
+  {
+    "city": "Al ‘Amādīyah",
+    "admin": "Dahūk",
+    "sort": "11000"
+  }
+]

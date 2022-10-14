@@ -1,0 +1,227 @@
+[
+  {
+    "city": "Kabul",
+    "admin": "Kābul",
+    "sort": "4273156"
+  },
+  {
+    "city": "Kandahār",
+    "admin": "Kandahār",
+    "sort": "614254"
+  },
+  {
+    "city": "Herāt",
+    "admin": "Herāt",
+    "sort": "556205"
+  },
+  {
+    "city": "Mazār-e Sharīf",
+    "admin": "Balkh",
+    "sort": "469247"
+  },
+  {
+    "city": "Jalālābād",
+    "admin": "Nangarhār",
+    "sort": "263312"
+  },
+  {
+    "city": "Tāluqān",
+    "admin": "Takhār",
+    "sort": "263800"
+  },
+  {
+    "city": "Kunduz",
+    "admin": "Kunduz",
+    "sort": "259809"
+  },
+  {
+    "city": "Lashkar Gāh",
+    "admin": "Helmand",
+    "sort": "201546"
+  },
+  {
+    "city": "Maīmanah",
+    "admin": "Fāryāb",
+    "sort": "199795"
+  },
+  {
+    "city": "Shibirghān",
+    "admin": "Jowzjān",
+    "sort": "175599"
+  },
+  {
+    "city": "Khōst",
+    "admin": "Khōst",
+    "sort": "160214"
+  },
+  {
+    "city": "Ghaznī",
+    "admin": "Ghaznī",
+    "sort": "143379"
+  },
+  {
+    "city": "Pul-e Khumrī",
+    "admin": "Baghlān",
+    "sort": "113500"
+  },
+  {
+    "city": "Farāh",
+    "admin": "Farāh",
+    "sort": "73647"
+  },
+  {
+    "city": "Gardēz",
+    "admin": "Paktiyā",
+    "sort": "70000"
+  },
+  {
+    "city": "Faīẕābād",
+    "admin": "Badakhshān",
+    "sort": "64704"
+  },
+  {
+    "city": "Bāmyān",
+    "admin": "Bāmyān",
+    "sort": "61863"
+  },
+  {
+    "city": "Chārīkār",
+    "admin": "Parwān",
+    "sort": "53676"
+  },
+  {
+    "city": "Sar-e Pul",
+    "admin": "Sar-e Pul",
+    "sort": "51075"
+  },
+  {
+    "city": "Zaranj",
+    "admin": "Nīmrōz",
+    "sort": "49851"
+  },
+  {
+    "city": "Asadābād",
+    "admin": "Kunaṟ",
+    "sort": "48400"
+  },
+  {
+    "city": "Maīdān Shahr",
+    "admin": "Wardak",
+    "sort": "35008"
+  },
+  {
+    "city": "Mehtar Lām",
+    "admin": "Laghmān",
+    "sort": "17345"
+  },
+  {
+    "city": "Fayrōz Kōh",
+    "admin": "Ghōr",
+    "sort": "15000"
+  },
+  {
+    "city": "Qalāt",
+    "admin": "Zābul",
+    "sort": "12191"
+  },
+  {
+    "city": "Tarīn Kōṯ",
+    "admin": "Uruzgān",
+    "sort": "10000"
+  },
+  {
+    "city": "Maḩmūd-e Rāqī",
+    "admin": "Kāpīsā",
+    "sort": "7407"
+  },
+  {
+    "city": "Qal‘ah-ye Now",
+    "admin": "Bādghīs",
+    "sort": "5340"
+  },
+  {
+    "city": "Aībak",
+    "admin": "Samangān",
+    "sort": "4938"
+  },
+  {
+    "city": "Pul-e ‘Alam",
+    "admin": "Lōgar",
+    "sort": ""
+  },
+  {
+    "city": "Sharan",
+    "admin": "Paktīkā",
+    "sort": ""
+  },
+  {
+    "city": "Nīlī",
+    "admin": "Dāykundī",
+    "sort": ""
+  },
+  {
+    "city": "Bāzārak",
+    "admin": "Panjshir",
+    "sort": ""
+  },
+  {
+    "city": "Pārūn",
+    "admin": "Nūristān",
+    "sort": ""
+  },
+  {
+    "city": "Balkh",
+    "admin": "Balkh",
+    "sort": "77000"
+  },
+  {
+    "city": "Baghlān",
+    "admin": "Baghlān",
+    "sort": "39228"
+  },
+  {
+    "city": "Andkhōy",
+    "admin": "Fāryāb",
+    "sort": "37887"
+  },
+  {
+    "city": "Kōṯah-ye ‘As̲h̲rō",
+    "admin": "Wardak",
+    "sort": "35008"
+  },
+  {
+    "city": "Khulm",
+    "admin": "Balkh",
+    "sort": "28078"
+  },
+  {
+    "city": "Khānābād",
+    "admin": "Kunduz",
+    "sort": "26803"
+  },
+  {
+    "city": "Barakī Barak",
+    "admin": "Lōgar",
+    "sort": "22305"
+  },
+  {
+    "city": "Qal‘ah-ye Zāl",
+    "admin": "Kunduz",
+    "sort": "18000"
+  },
+  {
+    "city": "Karukh",
+    "admin": "Herāt",
+    "sort": "17484"
+  },
+  {
+    "city": "Zarghūn Shahr",
+    "admin": "Paktīkā",
+    "sort": "13737"
+  },
+  {
+    "city": "Buynī Qarah",
+    "admin": "Balkh",
+    "sort": "5842"
+  }
+]

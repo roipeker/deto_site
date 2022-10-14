@@ -1,0 +1,207 @@
+[
+  {
+    "city": "Tripoli",
+    "admin": "Ţarābulus",
+    "sort": "1126000"
+  },
+  {
+    "city": "Benghazi",
+    "admin": "Banghāzī",
+    "sort": "631555"
+  },
+  {
+    "city": "Mişrātah",
+    "admin": "Mişrātah",
+    "sort": "259056"
+  },
+  {
+    "city": "Al Bayḑā’",
+    "admin": "Al Jabal al Akhḑar",
+    "sort": "250000"
+  },
+  {
+    "city": "Al Khums",
+    "admin": "Al Marqab",
+    "sort": "201943"
+  },
+  {
+    "city": "Az Zāwīyah",
+    "admin": "Az Zāwiyah",
+    "sort": "200000"
+  },
+  {
+    "city": "Gharyān",
+    "admin": "Al Jabal al Gharbī",
+    "sort": "187854"
+  },
+  {
+    "city": "Al Marj",
+    "admin": "Al Marj",
+    "sort": "169540"
+  },
+  {
+    "city": "Ajdābiyā",
+    "admin": "Al Wāḩāt",
+    "sort": "143833"
+  },
+  {
+    "city": "Tobruk",
+    "admin": "Al Buţnān",
+    "sort": "135832"
+  },
+  {
+    "city": "Darnah",
+    "admin": "Darnah",
+    "sort": "127974"
+  },
+  {
+    "city": "Sabhā",
+    "admin": "Sabhā",
+    "sort": "116016"
+  },
+  {
+    "city": "Şabrātah",
+    "admin": "An Nuqāţ al Khams",
+    "sort": "102038"
+  },
+  {
+    "city": "Zuwārah",
+    "admin": "An Nuqāţ al Khams",
+    "sort": "80310"
+  },
+  {
+    "city": "Surt",
+    "admin": "Surt",
+    "sort": "76788"
+  },
+  {
+    "city": "Nālūt",
+    "admin": "Nālūt",
+    "sort": "66609"
+  },
+  {
+    "city": "Murzuq",
+    "admin": "Murzuq",
+    "sort": "43732"
+  },
+  {
+    "city": "Al Jawf",
+    "admin": "Al Kufrah",
+    "sort": "24132"
+  },
+  {
+    "city": "Ghāt",
+    "admin": "Ghāt",
+    "sort": "22000"
+  },
+  {
+    "city": "Hūn",
+    "admin": "Al Jufrah",
+    "sort": "18878"
+  },
+  {
+    "city": "Al ‘Azīzīyah",
+    "admin": "Al Jafārah",
+    "sort": ""
+  },
+  {
+    "city": "Awbārī",
+    "admin": "Wādī al Ḩayāt",
+    "sort": ""
+  },
+  {
+    "city": "Idrī",
+    "admin": "Wādī ash Shāţi’",
+    "sort": ""
+  },
+  {
+    "city": "Yafran",
+    "admin": "Al Jabal al Gharbī",
+    "sort": "72662"
+  },
+  {
+    "city": "Banī Walīd",
+    "admin": "Mişrātah",
+    "sort": "50824"
+  },
+  {
+    "city": "Tājūrā’",
+    "admin": "Ţarābulus",
+    "sort": "48836"
+  },
+  {
+    "city": "Birāk",
+    "admin": "Wādī ash Shāţi’",
+    "sort": "45421"
+  },
+  {
+    "city": "Shaḩḩāt",
+    "admin": "Al Jabal al Akhḑar",
+    "sort": "45000"
+  },
+  {
+    "city": "Mizdah",
+    "admin": "Al Jabal al Gharbī",
+    "sort": "26107"
+  },
+  {
+    "city": "Ghadāmis",
+    "admin": "Nālūt",
+    "sort": "6623"
+  },
+  {
+    "city": "Awjilah",
+    "admin": "Al Wāḩāt",
+    "sort": "6610"
+  },
+  {
+    "city": "Qamīnis",
+    "admin": "Banghāzī",
+    "sort": "5348"
+  },
+  {
+    "city": "Tajarhī",
+    "admin": "Murzuq",
+    "sort": "1500"
+  },
+  {
+    "city": "Al ‘Uqaylah",
+    "admin": "Al Wāḩāt",
+    "sort": "100"
+  },
+  {
+    "city": "Marādah",
+    "admin": "Al Wāḩāt",
+    "sort": "2500"
+  },
+  {
+    "city": "Al Jaghbūb",
+    "admin": "Al Buţnān",
+    "sort": "1744"
+  },
+  {
+    "city": "Daraj",
+    "admin": "Nālūt",
+    "sort": "931"
+  },
+  {
+    "city": "Tmassah",
+    "admin": "Murzuq",
+    "sort": "500"
+  },
+  {
+    "city": "Umm al ‘Abīd",
+    "admin": "Wādī ash Shāţi’",
+    "sort": "300"
+  },
+  {
+    "city": "As Sidrah",
+    "admin": "Surt",
+    "sort": "50"
+  },
+  {
+    "city": "Zillah",
+    "admin": "Al Jufrah",
+    "sort": "10"
+  }
+]

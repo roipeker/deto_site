@@ -1,0 +1,202 @@
+[
+  {
+    "city": "Riyadh",
+    "admin": "Ar Riyāḑ",
+    "sort": "6889000"
+  },
+  {
+    "city": "Jeddah",
+    "admin": "Makkah al Mukarramah",
+    "sort": "3976000"
+  },
+  {
+    "city": "Mecca",
+    "admin": "Makkah al Mukarramah",
+    "sort": "1675368"
+  },
+  {
+    "city": "Medina",
+    "admin": "Al Madīnah al Munawwarah",
+    "sort": "1180770"
+  },
+  {
+    "city": "Ad Dammām",
+    "admin": "Ash Sharqīyah",
+    "sort": "903312"
+  },
+  {
+    "city": "Al Hufūf",
+    "admin": "Ash Sharqīyah",
+    "sort": "660788"
+  },
+  {
+    "city": "Al Ḩillah",
+    "admin": "Ar Riyāḑ",
+    "sort": "594605"
+  },
+  {
+    "city": "Aţ Ţā’if",
+    "admin": "Makkah al Mukarramah",
+    "sort": "579970"
+  },
+  {
+    "city": "Tabūk",
+    "admin": "Tabūk",
+    "sort": "547957"
+  },
+  {
+    "city": "Buraydah",
+    "admin": "Al Qaşīm",
+    "sort": "467410"
+  },
+  {
+    "city": "Ḩā’il",
+    "admin": "Ḩā’il",
+    "sort": "385257"
+  },
+  {
+    "city": "Al Qaţīf",
+    "admin": "Ash Sharqīyah",
+    "sort": "368892"
+  },
+  {
+    "city": "Al Mubarraz",
+    "admin": "Ash Sharqīyah",
+    "sort": "298562"
+  },
+  {
+    "city": "Al Kharj",
+    "admin": "Ar Riyāḑ",
+    "sort": "298428"
+  },
+  {
+    "city": "Yanbu‘",
+    "admin": "Al Madīnah al Munawwarah",
+    "sort": "267590"
+  },
+  {
+    "city": "Ḩafr al Bāţin",
+    "admin": "Ash Sharqīyah",
+    "sort": "249194"
+  },
+  {
+    "city": "Al Jubayl",
+    "admin": "Ash Sharqīyah",
+    "sort": "237274"
+  },
+  {
+    "city": "Abhā",
+    "admin": "‘Asīr",
+    "sort": "236157"
+  },
+  {
+    "city": "Al Khubar",
+    "admin": "Ash Sharqīyah",
+    "sort": "219679"
+  },
+  {
+    "city": "Sakākā",
+    "admin": "Al Jawf",
+    "sort": "128332"
+  },
+  {
+    "city": "Jāzān",
+    "admin": "Jāzān",
+    "sort": "127743"
+  },
+  {
+    "city": "Najrān",
+    "admin": "Najrān",
+    "sort": "72038"
+  },
+  {
+    "city": "Arar",
+    "admin": "Al Ḩudūd ash Shamālīyah",
+    "sort": "27449"
+  },
+  {
+    "city": "Al Bāḩah",
+    "admin": "Al Bāḩah",
+    "sort": "21983"
+  },
+  {
+    "city": "Khamīs Mushayţ",
+    "admin": "‘Asīr",
+    "sort": "99213"
+  },
+  {
+    "city": "Qal‘at Bīshah",
+    "admin": "‘Asīr",
+    "sort": "88291"
+  },
+  {
+    "city": "Rafḩā",
+    "admin": "Al Ḩudūd ash Shamālīyah",
+    "sort": "64755"
+  },
+  {
+    "city": "Al Wajh",
+    "admin": "Tabūk",
+    "sort": "43237"
+  },
+  {
+    "city": "Dhahran",
+    "admin": "Ash Sharqīyah",
+    "sort": "32067"
+  },
+  {
+    "city": "As Sulayyil",
+    "admin": "Ar Riyāḑ",
+    "sort": "24097"
+  },
+  {
+    "city": "Dawmat al Jandal",
+    "admin": "Al Jawf",
+    "sort": "22583"
+  },
+  {
+    "city": "Ad Dir‘īyah",
+    "admin": "Ar Riyāḑ",
+    "sort": "19143"
+  },
+  {
+    "city": "Al Ḩawīyah",
+    "admin": "Makkah al Mukarramah",
+    "sort": "18468"
+  },
+  {
+    "city": "Al Majma‘ah",
+    "admin": "Ar Riyāḑ",
+    "sort": "12065"
+  },
+  {
+    "city": "Ḑurumā",
+    "admin": "Ar Riyāḑ",
+    "sort": "11461"
+  },
+  {
+    "city": "Laylá",
+    "admin": "Ar Riyāḑ",
+    "sort": "7920"
+  },
+  {
+    "city": "Turabah",
+    "admin": "Makkah al Mukarramah",
+    "sort": "5324"
+  },
+  {
+    "city": "Al Qurayyāt",
+    "admin": "Al Jawf",
+    "sort": "10000"
+  },
+  {
+    "city": "Al Quway‘īyah",
+    "admin": "Ar Riyāḑ",
+    "sort": "8712"
+  },
+  {
+    "city": "Al Qunfudhah",
+    "admin": "Makkah al Mukarramah",
+    "sort": "157"
+  }
+]

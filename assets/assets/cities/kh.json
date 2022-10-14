@@ -1,0 +1,137 @@
+[
+  {
+    "city": "Phnom Penh",
+    "admin": "Phnom Penh",
+    "sort": "2129371"
+  },
+  {
+    "city": "Siem Reap",
+    "admin": "Siem Reap",
+    "sort": "147866"
+  },
+  {
+    "city": "Battambang",
+    "admin": "Battambang",
+    "sort": "130000"
+  },
+  {
+    "city": "Kampong Cham",
+    "admin": "Kampong Cham",
+    "sort": "118242"
+  },
+  {
+    "city": "Prey Veng",
+    "admin": "Prey Veng",
+    "sort": "74000"
+  },
+  {
+    "city": "Kratie",
+    "admin": "Kratie",
+    "sort": "60000"
+  },
+  {
+    "city": "Pursat",
+    "admin": "Pursat",
+    "sort": "52476"
+  },
+  {
+    "city": "Takeo",
+    "admin": "Takeo",
+    "sort": "52000"
+  },
+  {
+    "city": "Sisophon",
+    "admin": "Banteay Meanchey",
+    "sort": "50302"
+  },
+  {
+    "city": "Kampong Chhnang",
+    "admin": "Kampong Chhnang",
+    "sort": "41700"
+  },
+  {
+    "city": "Kampot",
+    "admin": "Kampot",
+    "sort": "39186"
+  },
+  {
+    "city": "Krong Kep",
+    "admin": "Kep",
+    "sort": "35990"
+  },
+  {
+    "city": "Kampong Thom",
+    "admin": "Kampong Thom",
+    "sort": "31871"
+  },
+  {
+    "city": "Kampong Speu",
+    "admin": "Kampong Speu",
+    "sort": "33231"
+  },
+  {
+    "city": "Koh Kong",
+    "admin": "Koh Kong",
+    "sort": "33591"
+  },
+  {
+    "city": "Stung Treng",
+    "admin": "Stung Treng",
+    "sort": "29665"
+  },
+  {
+    "city": "Svay Rieng",
+    "admin": "Svay Rieng",
+    "sort": "23956"
+  },
+  {
+    "city": "Tbeng Meanchey",
+    "admin": "Preah Vihear",
+    "sort": "24380"
+  },
+  {
+    "city": "Sen Monorom",
+    "admin": "Mondolkiri",
+    "sort": "7500"
+  },
+  {
+    "city": "Banlung",
+    "admin": "Ratanakiri",
+    "sort": ""
+  },
+  {
+    "city": "Ta Khmau",
+    "admin": "Kandal",
+    "sort": ""
+  },
+  {
+    "city": "Sihanoukville",
+    "admin": "Sihanoukville",
+    "sort": ""
+  },
+  {
+    "city": "Suong",
+    "admin": "Tbong Khmum",
+    "sort": ""
+  },
+  {
+    "city": "Samraong",
+    "admin": "Oddar Meanchey",
+    "sort": ""
+  },
+  {
+    "city": "Pailin",
+    "admin": "Pailin",
+    "sort": ""
+  },
+  {
+    "city": "Kampong Thum",
+    "admin": "Kampong Thom",
+    "sort": "19951"
+  },
+  {
+    "city": "Lumphat",
+    "admin": "Ratanakiri",
+    "sort": "19205"
+  }
+]

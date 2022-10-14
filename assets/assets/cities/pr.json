@@ -1,0 +1,282 @@
+[
+  {
+    "city": "San Juan",
+    "admin": "Puerto Rico",
+    "sort": "323279"
+  },
+  {
+    "city": "Bayamón",
+    "admin": "Puerto Rico",
+    "sort": "161034"
+  },
+  {
+    "city": "Carolina",
+    "admin": "Puerto Rico",
+    "sort": "136771"
+  },
+  {
+    "city": "Ponce",
+    "admin": "Puerto Rico",
+    "sort": "113401"
+  },
+  {
+    "city": "Caguas",
+    "admin": "Puerto Rico",
+    "sort": "73322"
+  },
+  {
+    "city": "Guaynabo",
+    "admin": "Puerto Rico",
+    "sort": "68024"
+  },
+  {
+    "city": "Trujillo Alto",
+    "admin": "Puerto Rico",
+    "sort": "43703"
+  },
+  {
+    "city": "Levittown",
+    "admin": "Puerto Rico",
+    "sort": "25121"
+  },
+  {
+    "city": "Guayama",
+    "admin": "Puerto Rico",
+    "sort": "20913"
+  },
+  {
+    "city": "Yauco",
+    "admin": "Puerto Rico",
+    "sort": "16585"
+  },
+  {
+    "city": "Cayey",
+    "admin": "Puerto Rico",
+    "sort": "14347"
+  },
+  {
+    "city": "Manatí",
+    "admin": "Puerto Rico",
+    "sort": "12683"
+  },
+  {
+    "city": "Río Grande",
+    "admin": "Puerto Rico",
+    "sort": "12492"
+  },
+  {
+    "city": "Coamo",
+    "admin": "Puerto Rico",
+    "sort": "11012"
+  },
+  {
+    "city": "Pájaros",
+    "admin": "Puerto Rico",
+    "sort": "9713"
+  },
+  {
+    "city": "Sabana Grande",
+    "admin": "Puerto Rico",
+    "sort": "9174"
+  },
+  {
+    "city": "Juncos",
+    "admin": "Puerto Rico",
+    "sort": "7607"
+  },
+  {
+    "city": "Luquillo",
+    "admin": "Puerto Rico",
+    "sort": "7599"
+  },
+  {
+    "city": "Gurabo",
+    "admin": "Puerto Rico",
+    "sort": "7511"
+  },
+  {
+    "city": "Sabana Seca",
+    "admin": "Puerto Rico",
+    "sort": "7309"
+  },
+  {
+    "city": "San Lorenzo",
+    "admin": "Puerto Rico",
+    "sort": "7134"
+  },
+  {
+    "city": "Yabucoa",
+    "admin": "Puerto Rico",
+    "sort": "7070"
+  },
+  {
+    "city": "San Isidro",
+    "admin": "Puerto Rico",
+    "sort": "7046"
+  },
+  {
+    "city": "Las Piedras",
+    "admin": "Puerto Rico",
+    "sort": "6835"
+  },
+  {
+    "city": "Puerto Real",
+    "admin": "Puerto Rico",
+    "sort": "6621"
+  },
+  {
+    "city": "Arroyo",
+    "admin": "Puerto Rico",
+    "sort": "6076"
+  },
+  {
+    "city": "Cidra",
+    "admin": "Puerto Rico",
+    "sort": "5835"
+  },
+  {
+    "city": "Añasco",
+    "admin": "Puerto Rico",
+    "sort": "5355"
+  },
+  {
+    "city": "Santa Isabel",
+    "admin": "Puerto Rico",
+    "sort": "5248"
+  },
+  {
+    "city": "Naguabo",
+    "admin": "Puerto Rico",
+    "sort": "5210"
+  },
+  {
+    "city": "Peñuelas",
+    "admin": "Puerto Rico",
+    "sort": "5142"
+  },
+  {
+    "city": "Salinas",
+    "admin": "Puerto Rico",
+    "sort": "5051"
+  },
+  {
+    "city": "Mayagüez",
+    "admin": "Puerto Rico",
+    "sort": "61361"
+  },
+  {
+    "city": "Arecibo",
+    "admin": "Puerto Rico",
+    "sort": "39176"
+  },
+  {
+    "city": "Fajardo",
+    "admin": "Puerto Rico",
+    "sort": "24950"
+  },
+  {
+    "city": "Cataño",
+    "admin": "Puerto Rico",
+    "sort": "24271"
+  },
+  {
+    "city": "Vega Baja",
+    "admin": "Puerto Rico",
+    "sort": "22211"
+  },
+  {
+    "city": "Humacao",
+    "admin": "Puerto Rico",
+    "sort": "17939"
+  },
+  {
+    "city": "Candelaria",
+    "admin": "Puerto Rico",
+    "sort": "15193"
+  },
+  {
+    "city": "Dorado",
+    "admin": "Puerto Rico",
+    "sort": "12695"
+  },
+  {
+    "city": "Hormigueros",
+    "admin": "Puerto Rico",
+    "sort": "11190"
+  },
+  {
+    "city": "San Germán",
+    "admin": "Puerto Rico",
+    "sort": "10781"
+  },
+  {
+    "city": "Aguadilla",
+    "admin": "Puerto Rico",
+    "sort": "10739"
+  },
+  {
+    "city": "Isabela",
+    "admin": "Puerto Rico",
+    "sort": "10052"
+  },
+  {
+    "city": "Vega Alta",
+    "admin": "Puerto Rico",
+    "sort": "9788"
+  },
+  {
+    "city": "Corozal",
+    "admin": "Puerto Rico",
+    "sort": "9031"
+  },
+  {
+    "city": "Cabo Rojo",
+    "admin": "Puerto Rico",
+    "sort": "8861"
+  },
+  {
+    "city": "San Sebastián",
+    "admin": "Puerto Rico",
+    "sort": "8640"
+  },
+  {
+    "city": "Aibonito",
+    "admin": "Puerto Rico",
+    "sort": "7820"
+  },
+  {
+    "city": "San Antonio",
+    "admin": "Puerto Rico",
+    "sort": "7655"
+  },
+  {
+    "city": "Canóvanas",
+    "admin": "Puerto Rico",
+    "sort": "7377"
+  },
+  {
+    "city": "Utuado",
+    "admin": "Puerto Rico",
+    "sort": "7177"
+  },
+  {
+    "city": "Guánica",
+    "admin": "Puerto Rico",
+    "sort": "6763"
+  },
+  {
+    "city": "Juana Díaz",
+    "admin": "Puerto Rico",
+    "sort": "6636"
+  },
+  {
+    "city": "Ceiba",
+    "admin": "Puerto Rico",
+    "sort": "5551"
+  },
+  {
+    "city": "Coco",
+    "admin": "Puerto Rico",
+    "sort": "5108"
+  }
+]

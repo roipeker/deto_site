@@ -1,0 +1,57 @@
+[
+  {
+    "city": "Bandar Seri Begawan",
+    "admin": "Brunei and Muara",
+    "sort": "50000"
+  },
+  {
+    "city": "Kuala Belait",
+    "admin": "Belait",
+    "sort": "4259"
+  },
+  {
+    "city": "Bangar",
+    "admin": "Temburong",
+    "sort": "626"
+  },
+  {
+    "city": "Tutong",
+    "admin": "Tutong",
+    "sort": ""
+  },
+  {
+    "city": "Seria",
+    "admin": "Belait",
+    "sort": "21082"
+  },
+  {
+    "city": "Kampong Tunah Jambu",
+    "admin": "Brunei and Muara",
+    "sort": "8809"
+  },
+  {
+    "city": "Kampong Lambak",
+    "admin": "Brunei and Muara",
+    "sort": "7293"
+  },
+  {
+    "city": "Kampong Mata Mata",
+    "admin": "Brunei and Muara",
+    "sort": "6126"
+  },
+  {
+    "city": "Kampong Beribi",
+    "admin": "Brunei and Muara",
+    "sort": "5679"
+  },
+  {
+    "city": "Kampong Mulaut",
+    "admin": "Brunei and Muara",
+    "sort": "5846"
+  },
+  {
+    "city": "Kampong Rimba",
+    "admin": "Brunei and Muara",
+    "sort": "5013"
+  }
+]

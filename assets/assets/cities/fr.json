@@ -1,0 +1,10097 @@
+[
+  {
+    "city": "Paris",
+    "admin": "Île-de-France",
+    "sort": "11027000"
+  },
+  {
+    "city": "Marseille",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "868277"
+  },
+  {
+    "city": "Lyon",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "518635"
+  },
+  {
+    "city": "Toulouse",
+    "admin": "Occitanie",
+    "sort": "486828"
+  },
+  {
+    "city": "Nice",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "341032"
+  },
+  {
+    "city": "Nantes",
+    "admin": "Pays de la Loire",
+    "sort": "314138"
+  },
+  {
+    "city": "Montpellier",
+    "admin": "Occitanie",
+    "sort": "290053"
+  },
+  {
+    "city": "Strasbourg",
+    "admin": "Grand Est",
+    "sort": "284677"
+  },
+  {
+    "city": "Bordeaux",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "257068"
+  },
+  {
+    "city": "Lille",
+    "admin": "Hauts-de-France",
+    "sort": "233098"
+  },
+  {
+    "city": "Rennes",
+    "admin": "Bretagne",
+    "sort": "217728"
+  },
+  {
+    "city": "Reims",
+    "admin": "Grand Est",
+    "sort": "182211"
+  },
+  {
+    "city": "Toulon",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "176198"
+  },
+  {
+    "city": "Saint-Étienne",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "173089"
+  },
+  {
+    "city": "Le Havre",
+    "admin": "Normandie",
+    "sort": "169733"
+  },
+  {
+    "city": "Grenoble",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "157650"
+  },
+  {
+    "city": "Villeurbanne",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "150659"
+  },
+  {
+    "city": "Dijon",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "156854"
+  },
+  {
+    "city": "Angers",
+    "admin": "Pays de la Loire",
+    "sort": "154508"
+  },
+  {
+    "city": "Nîmes",
+    "admin": "Occitanie",
+    "sort": "149633"
+  },
+  {
+    "city": "Clermont-Ferrand",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "146734"
+  },
+  {
+    "city": "Le Mans",
+    "admin": "Pays de la Loire",
+    "sort": "143252"
+  },
+  {
+    "city": "Aix-en-Provence",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "143097"
+  },
+  {
+    "city": "Brest",
+    "admin": "Bretagne",
+    "sort": "139602"
+  },
+  {
+    "city": "Boulogne-Billancourt",
+    "admin": "Île-de-France",
+    "sort": "121334"
+  },
+  {
+    "city": "Tours",
+    "admin": "Centre-Val de Loire",
+    "sort": "136463"
+  },
+  {
+    "city": "Amiens",
+    "admin": "Hauts-de-France",
+    "sort": "133891"
+  },
+  {
+    "city": "Limoges",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "131479"
+  },
+  {
+    "city": "Annecy",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "128199"
+  },
+  {
+    "city": "Montreuil",
+    "admin": "Île-de-France",
+    "sort": "109914"
+  },
+  {
+    "city": "Saint-Denis",
+    "admin": "Île-de-France",
+    "sort": "112091"
+  },
+  {
+    "city": "Perpignan",
+    "admin": "Occitanie",
+    "sort": "119188"
+  },
+  {
+    "city": "Orléans",
+    "admin": "Centre-Val de Loire",
+    "sort": "116238"
+  },
+  {
+    "city": "Besançon",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "117912"
+  },
+  {
+    "city": "Metz",
+    "admin": "Grand Est",
+    "sort": "116581"
+  },
+  {
+    "city": "Argenteuil",
+    "admin": "Île-de-France",
+    "sort": "110213"
+  },
+  {
+    "city": "Rouen",
+    "admin": "Normandie",
+    "sort": "111360"
+  },
+  {
+    "city": "Mulhouse",
+    "admin": "Grand Est",
+    "sort": "108942"
+  },
+  {
+    "city": "Nancy",
+    "admin": "Grand Est",
+    "sort": "104885"
+  },
+  {
+    "city": "Caen",
+    "admin": "Normandie",
+    "sort": "105512"
+  },
+  {
+    "city": "Courbevoic",
+    "admin": "Île-de-France",
+    "sort": "82198"
+  },
+  {
+    "city": "Roubaix",
+    "admin": "Hauts-de-France",
+    "sort": "98089"
+  },
+  {
+    "city": "Nanterre",
+    "admin": "Île-de-France",
+    "sort": "96807"
+  },
+  {
+    "city": "Tourcoing",
+    "admin": "Hauts-de-France",
+    "sort": "97442"
+  },
+  {
+    "city": "Vitry-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "94649"
+  },
+  {
+    "city": "Créteil",
+    "admin": "Île-de-France",
+    "sort": "92265"
+  },
+  {
+    "city": "Aubervilliers",
+    "admin": "Île-de-France",
+    "sort": "87572"
+  },
+  {
+    "city": "Colombes",
+    "admin": "Île-de-France",
+    "sort": "86052"
+  },
+  {
+    "city": "Levallois-Perret",
+    "admin": "Île-de-France",
+    "sort": "65817"
+  },
+  {
+    "city": "Aulnay-sous-Bois",
+    "admin": "Île-de-France",
+    "sort": "86278"
+  },
+  {
+    "city": "Poitiers",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "88665"
+  },
+  {
+    "city": "Versailles",
+    "admin": "Île-de-France",
+    "sort": "85205"
+  },
+  {
+    "city": "Clichy",
+    "admin": "Île-de-France",
+    "sort": "62485"
+  },
+  {
+    "city": "Issy-les-Moulineaux",
+    "admin": "Île-de-France",
+    "sort": "68260"
+  },
+  {
+    "city": "Champigny-sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "77039"
+  },
+  {
+    "city": "Rueil-Malmaison",
+    "admin": "Île-de-France",
+    "sort": "77986"
+  },
+  {
+    "city": "Saint-Maur-des-Fossés",
+    "admin": "Île-de-France",
+    "sort": "75298"
+  },
+  {
+    "city": "Drancy",
+    "admin": "Île-de-France",
+    "sort": "72109"
+  },
+  {
+    "city": "La Rochelle",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "76114"
+  },
+  {
+    "city": "Pau",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "76275"
+  },
+  {
+    "city": "Cannes",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "73965"
+  },
+  {
+    "city": "Montrouge",
+    "admin": "Île-de-France",
+    "sort": "48734"
+  },
+  {
+    "city": "Antibes",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "72915"
+  },
+  {
+    "city": "Vincennes",
+    "admin": "Île-de-France",
+    "sort": "49635"
+  },
+  {
+    "city": "Calais",
+    "admin": "Hauts-de-France",
+    "sort": "72929"
+  },
+  {
+    "city": "Ivry-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "63309"
+  },
+  {
+    "city": "Neuilly-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "59940"
+  },
+  {
+    "city": "Noisy-le-Grand",
+    "admin": "Île-de-France",
+    "sort": "68126"
+  },
+  {
+    "city": "Cergy",
+    "admin": "Île-de-France",
+    "sort": "66322"
+  },
+  {
+    "city": "Ajaccio",
+    "admin": "Corsica",
+    "sort": "70817"
+  },
+  {
+    "city": "Vénissieux",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "67129"
+  },
+  {
+    "city": "Pantin",
+    "admin": "Île-de-France",
+    "sort": "59060"
+  },
+  {
+    "city": "Antony",
+    "admin": "Île-de-France",
+    "sort": "62858"
+  },
+  {
+    "city": "Épinay-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "54771"
+  },
+  {
+    "city": "Troyes",
+    "admin": "Grand Est",
+    "sort": "61996"
+  },
+  {
+    "city": "Maisons-Alfort",
+    "admin": "Île-de-France",
+    "sort": "55899"
+  },
+  {
+    "city": "Sarcelles",
+    "admin": "Île-de-France",
+    "sort": "58811"
+  },
+  {
+    "city": "La Seyne-sur-Mer",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "62888"
+  },
+  {
+    "city": "Villejuif",
+    "admin": "Île-de-France",
+    "sort": "54964"
+  },
+  {
+    "city": "Le Blanc-Mesnil",
+    "admin": "Île-de-France",
+    "sort": "57150"
+  },
+  {
+    "city": "Bondy",
+    "admin": "Île-de-France",
+    "sort": "54055"
+  },
+  {
+    "city": "Cherbourg",
+    "admin": "Normandie",
+    "sort": "60991"
+  },
+  {
+    "city": "Suresnes",
+    "admin": "Île-de-France",
+    "sort": "48763"
+  },
+  {
+    "city": "Saint-Ouen",
+    "admin": "Île-de-France",
+    "sort": "50670"
+  },
+  {
+    "city": "Bobigny",
+    "admin": "Île-de-France",
+    "sort": "54272"
+  },
+  {
+    "city": "Chambéry",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "58833"
+  },
+  {
+    "city": "Fontenay-sous-Bois",
+    "admin": "Île-de-France",
+    "sort": "52256"
+  },
+  {
+    "city": "Puteaux",
+    "admin": "Île-de-France",
+    "sort": "44837"
+  },
+  {
+    "city": "Lorient",
+    "admin": "Bretagne",
+    "sort": "57084"
+  },
+  {
+    "city": "Évry",
+    "admin": "Île-de-France",
+    "sort": "53641"
+  },
+  {
+    "city": "Alfortville",
+    "admin": "Île-de-France",
+    "sort": "44287"
+  },
+  {
+    "city": "Meaux",
+    "admin": "Île-de-France",
+    "sort": "55416"
+  },
+  {
+    "city": "Clamart",
+    "admin": "Île-de-France",
+    "sort": "52926"
+  },
+  {
+    "city": "Chelles",
+    "admin": "Île-de-France",
+    "sort": "55148"
+  },
+  {
+    "city": "Sartrouville",
+    "admin": "Île-de-France",
+    "sort": "52269"
+  },
+  {
+    "city": "Sevran",
+    "admin": "Île-de-France",
+    "sort": "51225"
+  },
+  {
+    "city": "Saint-Quentin",
+    "admin": "Hauts-de-France",
+    "sort": "53856"
+  },
+  {
+    "city": "Massy",
+    "admin": "Île-de-France",
+    "sort": "50632"
+  },
+  {
+    "city": "Corbeil-Essonnes",
+    "admin": "Île-de-France",
+    "sort": "50954"
+  },
+  {
+    "city": "Choisy-le-Roi",
+    "admin": "Île-de-France",
+    "sort": "46154"
+  },
+  {
+    "city": "Cagnes-sur-Mer",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "51411"
+  },
+  {
+    "city": "Rosny-sous-Bois",
+    "admin": "Île-de-France",
+    "sort": "46043"
+  },
+  {
+    "city": "Bayonne",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "51411"
+  },
+  {
+    "city": "Vaulx-en-Velin",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "50823"
+  },
+  {
+    "city": "Noisy-le-Sec",
+    "admin": "Île-de-France",
+    "sort": "44223"
+  },
+  {
+    "city": "La Garenne-Colombes",
+    "admin": "Île-de-France",
+    "sort": "29430"
+  },
+  {
+    "city": "Gennevilliers",
+    "admin": "Île-de-France",
+    "sort": "47702"
+  },
+  {
+    "city": "Livry-Gargan",
+    "admin": "Île-de-France",
+    "sort": "45012"
+  },
+  {
+    "city": "Garges-lès-Gonesse",
+    "admin": "Île-de-France",
+    "sort": "42956"
+  },
+  {
+    "city": "Bagneux",
+    "admin": "Île-de-France",
+    "sort": "40812"
+  },
+  {
+    "city": "Bastia",
+    "admin": "Corsica",
+    "sort": "48044"
+  },
+  {
+    "city": "Meudon",
+    "admin": "Île-de-France",
+    "sort": "45748"
+  },
+  {
+    "city": "La Courneuve",
+    "admin": "Île-de-France",
+    "sort": "43946"
+  },
+  {
+    "city": "Belfort",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "46954"
+  },
+  {
+    "city": "Bagnolet",
+    "admin": "Île-de-France",
+    "sort": "35442"
+  },
+  {
+    "city": "Châtillon",
+    "admin": "Île-de-France",
+    "sort": "37010"
+  },
+  {
+    "city": "Mantes-la-Jolie",
+    "admin": "Île-de-France",
+    "sort": "44227"
+  },
+  {
+    "city": "Malakoff",
+    "admin": "Île-de-France",
+    "sort": "30711"
+  },
+  {
+    "city": "Talence",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "42701"
+  },
+  {
+    "city": "Chalon-sur-Saône",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "44810"
+  },
+  {
+    "city": "Charenton-le-Pont",
+    "admin": "Île-de-France",
+    "sort": "30053"
+  },
+  {
+    "city": "Caluire-et-Cuire",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "42847"
+  },
+  {
+    "city": "Le Cannet",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "41471"
+  },
+  {
+    "city": "Valenciennes",
+    "admin": "Hauts-de-France",
+    "sort": "43405"
+  },
+  {
+    "city": "Bron",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "42216"
+  },
+  {
+    "city": "Bois-Colombes",
+    "admin": "Île-de-France",
+    "sort": "28468"
+  },
+  {
+    "city": "Saint-Brieuc",
+    "admin": "Bretagne",
+    "sort": "44170"
+  },
+  {
+    "city": "Vanves",
+    "admin": "Île-de-France",
+    "sort": "27466"
+  },
+  {
+    "city": "Stains",
+    "admin": "Île-de-France",
+    "sort": "38666"
+  },
+  {
+    "city": "Boulogne-sur-Mer",
+    "admin": "Hauts-de-France",
+    "sort": "40664"
+  },
+  {
+    "city": "Rezé",
+    "admin": "Pays de la Loire",
+    "sort": "42368"
+  },
+  {
+    "city": "Gagny",
+    "admin": "Île-de-France",
+    "sort": "39618"
+  },
+  {
+    "city": "Tarbes",
+    "admin": "Occitanie",
+    "sort": "42426"
+  },
+  {
+    "city": "Arras",
+    "admin": "Hauts-de-France",
+    "sort": "41555"
+  },
+  {
+    "city": "Melun",
+    "admin": "Île-de-France",
+    "sort": "39947"
+  },
+  {
+    "city": "Nogent-sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "32922"
+  },
+  {
+    "city": "Wattrelos",
+    "admin": "Hauts-de-France",
+    "sort": "40885"
+  },
+  {
+    "city": "Le Kremlin-Bicêtre",
+    "admin": "Île-de-France",
+    "sort": "24850"
+  },
+  {
+    "city": "Annemasse",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "36250"
+  },
+  {
+    "city": "Franconville",
+    "admin": "Île-de-France",
+    "sort": "37010"
+  },
+  {
+    "city": "Saint-Martin-d’Hères",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "38398"
+  },
+  {
+    "city": "Le Perreux-Sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "33793"
+  },
+  {
+    "city": "Le Pré-Saint-Gervais",
+    "admin": "Île-de-France",
+    "sort": "17485"
+  },
+  {
+    "city": "Cachan",
+    "admin": "Île-de-France",
+    "sort": "30884"
+  },
+  {
+    "city": "Savigny-sur-Orge",
+    "admin": "Île-de-France",
+    "sort": "36734"
+  },
+  {
+    "city": "Douai",
+    "admin": "Hauts-de-France",
+    "sort": "39634"
+  },
+  {
+    "city": "Échirolles",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "36961"
+  },
+  {
+    "city": "Marcq-en-Baroeul",
+    "admin": "Hauts-de-France",
+    "sort": "38570"
+  },
+  {
+    "city": "Poissy",
+    "admin": "Île-de-France",
+    "sort": "38313"
+  },
+  {
+    "city": "Neuilly-sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "35680"
+  },
+  {
+    "city": "Villepinte",
+    "admin": "Île-de-France",
+    "sort": "37280"
+  },
+  {
+    "city": "Chartres",
+    "admin": "Centre-Val de Loire",
+    "sort": "38426"
+  },
+  {
+    "city": "Villefranche-sur-Saône",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "36288"
+  },
+  {
+    "city": "Sainte-Geneviève-des-Bois",
+    "admin": "Île-de-France",
+    "sort": "36015"
+  },
+  {
+    "city": "Pierrefitte-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "30828"
+  },
+  {
+    "city": "Houilles",
+    "admin": "Île-de-France",
+    "sort": "32449"
+  },
+  {
+    "city": "Les Lilas",
+    "admin": "Île-de-France",
+    "sort": "23402"
+  },
+  {
+    "city": "Châtenay-Malabry",
+    "admin": "Île-de-France",
+    "sort": "34170"
+  },
+  {
+    "city": "L’Haÿ-les-Roses",
+    "admin": "Île-de-France",
+    "sort": "31417"
+  },
+  {
+    "city": "Conflans-Sainte-Honorine",
+    "admin": "Île-de-France",
+    "sort": "35656"
+  },
+  {
+    "city": "Athis-Mons",
+    "admin": "Île-de-France",
+    "sort": "35101"
+  },
+  {
+    "city": "Creil",
+    "admin": "Hauts-de-France",
+    "sort": "35800"
+  },
+  {
+    "city": "Palaiseau",
+    "admin": "Île-de-France",
+    "sort": "35590"
+  },
+  {
+    "city": "Villeneuve-Saint-Georges",
+    "admin": "Île-de-France",
+    "sort": "34607"
+  },
+  {
+    "city": "Le Plessis-Robinson",
+    "admin": "Île-de-France",
+    "sort": "29665"
+  },
+  {
+    "city": "Bezons",
+    "admin": "Île-de-France",
+    "sort": "30484"
+  },
+  {
+    "city": "Villemomble",
+    "admin": "Île-de-France",
+    "sort": "30005"
+  },
+  {
+    "city": "Thonon-les-Bains",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "35241"
+  },
+  {
+    "city": "Schiltigheim",
+    "admin": "Grand Est",
+    "sort": "33069"
+  },
+  {
+    "city": "Saint-Mandé",
+    "admin": "Île-de-France",
+    "sort": "22248"
+  },
+  {
+    "city": "Romainville",
+    "admin": "Île-de-France",
+    "sort": "28536"
+  },
+  {
+    "city": "Clichy-sous-Bois",
+    "admin": "Île-de-France",
+    "sort": "28992"
+  },
+  {
+    "city": "Chatou",
+    "admin": "Île-de-France",
+    "sort": "30330"
+  },
+  {
+    "city": "Fresnes",
+    "admin": "Île-de-France",
+    "sort": "28230"
+  },
+  {
+    "city": "Roanne",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "34004"
+  },
+  {
+    "city": "Ermont",
+    "admin": "Île-de-France",
+    "sort": "29079"
+  },
+  {
+    "city": "Agen",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "33012"
+  },
+  {
+    "city": "Pontoise",
+    "admin": "Île-de-France",
+    "sort": "31422"
+  },
+  {
+    "city": "Viry-Châtillon",
+    "admin": "Île-de-France",
+    "sort": "30706"
+  },
+  {
+    "city": "Les Mureaux",
+    "admin": "Île-de-France",
+    "sort": "32949"
+  },
+  {
+    "city": "Fontenay-aux-Roses",
+    "admin": "Île-de-France",
+    "sort": "25342"
+  },
+  {
+    "city": "Montigny-le-Bretonneux",
+    "admin": "Île-de-France",
+    "sort": "32575"
+  },
+  {
+    "city": "Villiers-sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "28592"
+  },
+  {
+    "city": "Vigneux-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "31463"
+  },
+  {
+    "city": "Gentilly",
+    "admin": "Île-de-France",
+    "sort": "18577"
+  },
+  {
+    "city": "Trappes",
+    "admin": "Île-de-France",
+    "sort": "32120"
+  },
+  {
+    "city": "Thiais",
+    "admin": "Île-de-France",
+    "sort": "29806"
+  },
+  {
+    "city": "Lens",
+    "admin": "Hauts-de-France",
+    "sort": "31606"
+  },
+  {
+    "city": "Le Chesnay",
+    "admin": "Île-de-France",
+    "sort": "27683"
+  },
+  {
+    "city": "Grigny",
+    "admin": "Île-de-France",
+    "sort": "28265"
+  },
+  {
+    "city": "Saint-Cloud",
+    "admin": "Île-de-France",
+    "sort": "30038"
+  },
+  {
+    "city": "Goussainville",
+    "admin": "Île-de-France",
+    "sort": "30642"
+  },
+  {
+    "city": "Vandœuvre-lès-Nancy",
+    "admin": "Grand Est",
+    "sort": "30009"
+  },
+  {
+    "city": "Périgueux",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "30060"
+  },
+  {
+    "city": "Ris-Orangis",
+    "admin": "Île-de-France",
+    "sort": "29589"
+  },
+  {
+    "city": "Sotteville-lès-Rouen",
+    "admin": "Normandie",
+    "sort": "28958"
+  },
+  {
+    "city": "Liévin",
+    "admin": "Hauts-de-France",
+    "sort": "30423"
+  },
+  {
+    "city": "Bègles",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "29669"
+  },
+  {
+    "city": "Oullins",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "26583"
+  },
+  {
+    "city": "Rillieux-la-Pape",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "30410"
+  },
+  {
+    "city": "Menton",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "30231"
+  },
+  {
+    "city": "Aix-les-Bains",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "29993"
+  },
+  {
+    "city": "Yerres",
+    "admin": "Île-de-France",
+    "sort": "29338"
+  },
+  {
+    "city": "Savigny-le-Temple",
+    "admin": "Île-de-France",
+    "sort": "29792"
+  },
+  {
+    "city": "Montfermeil",
+    "admin": "Île-de-France",
+    "sort": "27201"
+  },
+  {
+    "city": "Les Pavillons-sous-Bois",
+    "admin": "Île-de-France",
+    "sort": "23960"
+  },
+  {
+    "city": "Sannois",
+    "admin": "Île-de-France",
+    "sort": "26484"
+  },
+  {
+    "city": "Bourg-la-Reine",
+    "admin": "Île-de-France",
+    "sort": "20769"
+  },
+  {
+    "city": "Villiers-le-Bel",
+    "admin": "Île-de-France",
+    "sort": "28041"
+  },
+  {
+    "city": "Lambersart",
+    "admin": "Hauts-de-France",
+    "sort": "27415"
+  },
+  {
+    "city": "Limeil-Brévannes",
+    "admin": "Île-de-France",
+    "sort": "27684"
+  },
+  {
+    "city": "Guyancourt",
+    "admin": "Île-de-France",
+    "sort": "29332"
+  },
+  {
+    "city": "Villeneuve-la-Garenne",
+    "admin": "Île-de-France",
+    "sort": "24023"
+  },
+  {
+    "city": "Saint-Laurent-du-Var",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "28511"
+  },
+  {
+    "city": "Arcueil",
+    "admin": "Île-de-France",
+    "sort": "21721"
+  },
+  {
+    "city": "Lomme",
+    "admin": "Hauts-de-France",
+    "sort": "28006"
+  },
+  {
+    "city": "Dieppe",
+    "admin": "Normandie",
+    "sort": "28561"
+  },
+  {
+    "city": "Soissons",
+    "admin": "Hauts-de-France",
+    "sort": "28522"
+  },
+  {
+    "city": "Eaubonne",
+    "admin": "Île-de-France",
+    "sort": "25139"
+  },
+  {
+    "city": "Cenon",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "25292"
+  },
+  {
+    "city": "Saint-Sébastien-sur-Loire",
+    "admin": "Pays de la Loire",
+    "sort": "27383"
+  },
+  {
+    "city": "La Madeleine",
+    "admin": "Hauts-de-France",
+    "sort": "21968"
+  },
+  {
+    "city": "Villeparisis",
+    "admin": "Île-de-France",
+    "sort": "26471"
+  },
+  {
+    "city": "Sucy-en-Brie",
+    "admin": "Île-de-France",
+    "sort": "26974"
+  },
+  {
+    "city": "Saint-Gratien",
+    "admin": "Île-de-France",
+    "sort": "20893"
+  },
+  {
+    "city": "Sèvres",
+    "admin": "Île-de-France",
+    "sort": "23251"
+  },
+  {
+    "city": "Brunoy",
+    "admin": "Île-de-France",
+    "sort": "25354"
+  },
+  {
+    "city": "Vallauris",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "27072"
+  },
+  {
+    "city": "Taverny",
+    "admin": "Île-de-France",
+    "sort": "26576"
+  },
+  {
+    "city": "Vichy",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "24854"
+  },
+  {
+    "city": "Champs-Sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "25610"
+  },
+  {
+    "city": "Bussy-Saint-Georges",
+    "admin": "Île-de-France",
+    "sort": "26806"
+  },
+  {
+    "city": "Armentières",
+    "admin": "Hauts-de-France",
+    "sort": "24778"
+  },
+  {
+    "city": "Élancourt",
+    "admin": "Île-de-France",
+    "sort": "25575"
+  },
+  {
+    "city": "Le Bouscat",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "23924"
+  },
+  {
+    "city": "Mons-en-Baroeul",
+    "admin": "Hauts-de-France",
+    "sort": "21017"
+  },
+  {
+    "city": "Alençon",
+    "admin": "Normandie",
+    "sort": "25775"
+  },
+  {
+    "city": "Le Grand-Quevilly",
+    "admin": "Normandie",
+    "sort": "25771"
+  },
+  {
+    "city": "Deuil-la-Barre",
+    "admin": "Île-de-France",
+    "sort": "22165"
+  },
+  {
+    "city": "Joinville-le-Pont",
+    "admin": "Île-de-France",
+    "sort": "19516"
+  },
+  {
+    "city": "Béthune",
+    "admin": "Hauts-de-France",
+    "sort": "25193"
+  },
+  {
+    "city": "Biarritz",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "25532"
+  },
+  {
+    "city": "Cormeilles-en-Parisis",
+    "admin": "Île-de-France",
+    "sort": "24681"
+  },
+  {
+    "city": "Orly",
+    "admin": "Île-de-France",
+    "sort": "23853"
+  },
+  {
+    "city": "Le Petit-Quevilly",
+    "admin": "Normandie",
+    "sort": "22291"
+  },
+  {
+    "city": "Maisons-Laffitte",
+    "admin": "Île-de-France",
+    "sort": "23611"
+  },
+  {
+    "city": "Neuilly-Plaisance",
+    "admin": "Île-de-France",
+    "sort": "20915"
+  },
+  {
+    "city": "Montigny-lès-Cormeilles",
+    "admin": "Île-de-France",
+    "sort": "21638"
+  },
+  {
+    "city": "Chaville",
+    "admin": "Île-de-France",
+    "sort": "20702"
+  },
+  {
+    "city": "Rodez",
+    "admin": "Occitanie",
+    "sort": "24319"
+  },
+  {
+    "city": "Fontaine",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "22906"
+  },
+  {
+    "city": "Lormont",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "23128"
+  },
+  {
+    "city": "Eysines",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "24109"
+  },
+  {
+    "city": "Torcy",
+    "admin": "Île-de-France",
+    "sort": "22361"
+  },
+  {
+    "city": "Montgeron",
+    "admin": "Île-de-France",
+    "sort": "23775"
+  },
+  {
+    "city": "Croix",
+    "admin": "Hauts-de-France",
+    "sort": "21087"
+  },
+  {
+    "city": "Montmorency",
+    "admin": "Île-de-France",
+    "sort": "21647"
+  },
+  {
+    "city": "Loos",
+    "admin": "Hauts-de-France",
+    "sort": "22426"
+  },
+  {
+    "city": "Sainte-Foy-lès-Lyon",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "22141"
+  },
+  {
+    "city": "Morsang-sur-Orge",
+    "admin": "Île-de-France",
+    "sort": "20619"
+  },
+  {
+    "city": "Longjumeau",
+    "admin": "Île-de-France",
+    "sort": "20964"
+  },
+  {
+    "city": "Tassin-la-Demi-Lune",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "22403"
+  },
+  {
+    "city": "Vélizy-Villacoublay",
+    "admin": "Île-de-France",
+    "sort": "22649"
+  },
+  {
+    "city": "Sceaux",
+    "admin": "Île-de-France",
+    "sort": "19606"
+  },
+  {
+    "city": "Le Mée-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "21071"
+  },
+  {
+    "city": "Montigny-lès-Metz",
+    "admin": "Grand Est",
+    "sort": "21749"
+  },
+  {
+    "city": "Hérouville-Saint-Clair",
+    "admin": "Normandie",
+    "sort": "22638"
+  },
+  {
+    "city": "Le Plessis-Trévise",
+    "admin": "Île-de-France",
+    "sort": "20025"
+  },
+  {
+    "city": "Juvisy-sur-Orge",
+    "admin": "Île-de-France",
+    "sort": "17007"
+  },
+  {
+    "city": "Chevilly-Larue",
+    "admin": "Île-de-France",
+    "sort": "19863"
+  },
+  {
+    "city": "Saint-Pol-sur-Mer",
+    "admin": "Hauts-de-France",
+    "sort": "20479"
+  },
+  {
+    "city": "La Celle-Saint-Cloud",
+    "admin": "Île-de-France",
+    "sort": "20830"
+  },
+  {
+    "city": "Garches",
+    "admin": "Île-de-France",
+    "sort": "17762"
+  },
+  {
+    "city": "Dammarie-lè-Lys",
+    "admin": "Île-de-France",
+    "sort": "22177"
+  },
+  {
+    "city": "Hellemmes-Lille",
+    "admin": "Hauts-de-France",
+    "sort": "18437"
+  },
+  {
+    "city": "Le Bourget",
+    "admin": "Île-de-France",
+    "sort": "16139"
+  },
+  {
+    "city": "Mantes-la-Ville",
+    "admin": "Île-de-France",
+    "sort": "20499"
+  },
+  {
+    "city": "Saint-Maurice",
+    "admin": "Île-de-France",
+    "sort": "14001"
+  },
+  {
+    "city": "Villeneuve-le-Roi",
+    "admin": "Île-de-France",
+    "sort": "21214"
+  },
+  {
+    "city": "Saint-Michel-sur-Orge",
+    "admin": "Île-de-France",
+    "sort": "19965"
+  },
+  {
+    "city": "Wasquehal",
+    "admin": "Hauts-de-France",
+    "sort": "20485"
+  },
+  {
+    "city": "Chilly-Mazarin",
+    "admin": "Île-de-France",
+    "sort": "19858"
+  },
+  {
+    "city": "Achères",
+    "admin": "Île-de-France",
+    "sort": "21098"
+  },
+  {
+    "city": "Coudekerque-Branche",
+    "admin": "Hauts-de-France",
+    "sort": "20925"
+  },
+  {
+    "city": "Fleury-les-Aubrais",
+    "admin": "Centre-Val de Loire",
+    "sort": "21070"
+  },
+  {
+    "city": "Ronchin",
+    "admin": "Hauts-de-France",
+    "sort": "19477"
+  },
+  {
+    "city": "Nogent-sur-Oise",
+    "admin": "Hauts-de-France",
+    "sort": "20298"
+  },
+  {
+    "city": "Montereau-faut-Yonne",
+    "admin": "Île-de-France",
+    "sort": "20712"
+  },
+  {
+    "city": "Soisy-sous-Montmorency",
+    "admin": "Île-de-France",
+    "sort": "18243"
+  },
+  {
+    "city": "Saint-Cyr-l’École",
+    "admin": "Île-de-France",
+    "sort": "19011"
+  },
+  {
+    "city": "Saint-Fons",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "19254"
+  },
+  {
+    "city": "Lingolsheim",
+    "admin": "Grand Est",
+    "sort": "18930"
+  },
+  {
+    "city": "Cran-Gévrier",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "18330"
+  },
+  {
+    "city": "Fâches-Thumesnil",
+    "admin": "Hauts-de-France",
+    "sort": "18165"
+  },
+  {
+    "city": "Éragny",
+    "admin": "Île-de-France",
+    "sort": "18162"
+  },
+  {
+    "city": "Bry-sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "16919"
+  },
+  {
+    "city": "Moulins",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "19563"
+  },
+  {
+    "city": "Chamalières",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "17210"
+  },
+  {
+    "city": "Mont-Saint-Aignan",
+    "admin": "Normandie",
+    "sort": "19262"
+  },
+  {
+    "city": "Chennevières-sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "18142"
+  },
+  {
+    "city": "Le Pecq",
+    "admin": "Île-de-France",
+    "sort": "15949"
+  },
+  {
+    "city": "Vauréal",
+    "admin": "Île-de-France",
+    "sort": "16575"
+  },
+  {
+    "city": "Bonneuil-sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "18045"
+  },
+  {
+    "city": "Le Raincy",
+    "admin": "Île-de-France",
+    "sort": "14708"
+  },
+  {
+    "city": "Viroflay",
+    "admin": "Île-de-France",
+    "sort": "16406"
+  },
+  {
+    "city": "Bischheim",
+    "admin": "Grand Est",
+    "sort": "17137"
+  },
+  {
+    "city": "Écully",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "18587"
+  },
+  {
+    "city": "Les Clayes-sous-Bois",
+    "admin": "Île-de-France",
+    "sort": "17560"
+  },
+  {
+    "city": "Maurepas",
+    "admin": "Île-de-France",
+    "sort": "18019"
+  },
+  {
+    "city": "Floirac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "17882"
+  },
+  {
+    "city": "Lons-le-Saunier",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "17320"
+  },
+  {
+    "city": "Arnouville-lès-Gonesse",
+    "admin": "Île-de-France",
+    "sort": "14329"
+  },
+  {
+    "city": "Noisiel",
+    "admin": "Île-de-France",
+    "sort": "15676"
+  },
+  {
+    "city": "Saint-Jean-de-la-Ruelle",
+    "admin": "Centre-Val de Loire",
+    "sort": "16445"
+  },
+  {
+    "city": "Le Vésinet",
+    "admin": "Île-de-France",
+    "sort": "15865"
+  },
+  {
+    "city": "Montmagny",
+    "admin": "Île-de-France",
+    "sort": "14145"
+  },
+  {
+    "city": "Hendaye",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "16805"
+  },
+  {
+    "city": "Saint-Leu-la-Forêt",
+    "admin": "Île-de-France",
+    "sort": "15829"
+  },
+  {
+    "city": "Marly-le-Roi",
+    "admin": "Île-de-France",
+    "sort": "16335"
+  },
+  {
+    "city": "Jouy-le-Moutier",
+    "admin": "Île-de-France",
+    "sort": "16214"
+  },
+  {
+    "city": "Carrières-sous-Poissy",
+    "admin": "Île-de-France",
+    "sort": "16248"
+  },
+  {
+    "city": "Lognes",
+    "admin": "Île-de-France",
+    "sort": "14268"
+  },
+  {
+    "city": "Beausoleil",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "13576"
+  },
+  {
+    "city": "Montargis",
+    "admin": "Centre-Val de Loire",
+    "sort": "14789"
+  },
+  {
+    "city": "Bois-d’Arcy",
+    "admin": "Île-de-France",
+    "sort": "15220"
+  },
+  {
+    "city": "Carrières-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "15003"
+  },
+  {
+    "city": "Lucé",
+    "admin": "Centre-Val de Loire",
+    "sort": "15435"
+  },
+  {
+    "city": "Enghien-les-Bains",
+    "admin": "Île-de-France",
+    "sort": "11285"
+  },
+  {
+    "city": "Valenton",
+    "admin": "Île-de-France",
+    "sort": "14837"
+  },
+  {
+    "city": "Lys-lès-Lannoy",
+    "admin": "Hauts-de-France",
+    "sort": "13471"
+  },
+  {
+    "city": "Haubourdin",
+    "admin": "Hauts-de-France",
+    "sort": "14775"
+  },
+  {
+    "city": "Longwy",
+    "admin": "Grand Est",
+    "sort": "14730"
+  },
+  {
+    "city": "Saint-Brice-sous-Forêt",
+    "admin": "Île-de-France",
+    "sort": "14875"
+  },
+  {
+    "city": "Avon",
+    "admin": "Île-de-France",
+    "sort": "13662"
+  },
+  {
+    "city": "Rive-de-Gier",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "15105"
+  },
+  {
+    "city": "Wattignies",
+    "admin": "Hauts-de-France",
+    "sort": "14736"
+  },
+  {
+    "city": "Saint-André",
+    "admin": "Hauts-de-France",
+    "sort": "12966"
+  },
+  {
+    "city": "Montesson",
+    "admin": "Île-de-France",
+    "sort": "15013"
+  },
+  {
+    "city": "Anzin",
+    "admin": "Hauts-de-France",
+    "sort": "13303"
+  },
+  {
+    "city": "Ramonville-Saint-Agne",
+    "admin": "Occitanie",
+    "sort": "14467"
+  },
+  {
+    "city": "Courcouronnes",
+    "admin": "Île-de-France",
+    "sort": "13490"
+  },
+  {
+    "city": "Mouvaux",
+    "admin": "Hauts-de-France",
+    "sort": "13173"
+  },
+  {
+    "city": "Morangis",
+    "admin": "Île-de-France",
+    "sort": "13453"
+  },
+  {
+    "city": "Fleury-Mérogis",
+    "admin": "Île-de-France",
+    "sort": "13917"
+  },
+  {
+    "city": "Persan",
+    "admin": "Île-de-France",
+    "sort": "13386"
+  },
+  {
+    "city": "Fontenay-le-Fleury",
+    "admin": "Île-de-France",
+    "sort": "13494"
+  },
+  {
+    "city": "Auray",
+    "admin": "Bretagne",
+    "sort": "13945"
+  },
+  {
+    "city": "Épinay-sous-Sénart",
+    "admin": "Île-de-France",
+    "sort": "12279"
+  },
+  {
+    "city": "Vaires-sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "13383"
+  },
+  {
+    "city": "Voisins-le-Bretonneux",
+    "admin": "Île-de-France",
+    "sort": "10921"
+  },
+  {
+    "city": "Arpajon",
+    "admin": "Île-de-France",
+    "sort": "10920"
+  },
+  {
+    "city": "Billère",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "12628"
+  },
+  {
+    "city": "Saint-Max",
+    "admin": "Grand Est",
+    "sort": "9984"
+  },
+  {
+    "city": "Montévrain",
+    "admin": "Île-de-France",
+    "sort": "12764"
+  },
+  {
+    "city": "Saint-André-les-Vergers",
+    "admin": "Grand Est",
+    "sort": "12581"
+  },
+  {
+    "city": "Stiring-Wendel",
+    "admin": "Grand Est",
+    "sort": "11385"
+  },
+  {
+    "city": "Hœnheim",
+    "admin": "Grand Est",
+    "sort": "11145"
+  },
+  {
+    "city": "Ville-d’Avray",
+    "admin": "Île-de-France",
+    "sort": "11050"
+  },
+  {
+    "city": "Talant",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "11630"
+  },
+  {
+    "city": "Déville-lès-Rouen",
+    "admin": "Normandie",
+    "sort": "10461"
+  },
+  {
+    "city": "Épinay-sur-Orge",
+    "admin": "Île-de-France",
+    "sort": "11160"
+  },
+  {
+    "city": "Craponne",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "11125"
+  },
+  {
+    "city": "Dugny",
+    "admin": "Île-de-France",
+    "sort": "10757"
+  },
+  {
+    "city": "Beaumont",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10793"
+  },
+  {
+    "city": "Ormesson-sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "10403"
+  },
+  {
+    "city": "Chanteloup-les-Vignes",
+    "admin": "Île-de-France",
+    "sort": "10341"
+  },
+  {
+    "city": "Maromme",
+    "admin": "Normandie",
+    "sort": "10730"
+  },
+  {
+    "city": "Montigny-en-Gohelle",
+    "admin": "Hauts-de-France",
+    "sort": "10315"
+  },
+  {
+    "city": "Jarville-la-Malgrange",
+    "admin": "Grand Est",
+    "sort": "9312"
+  },
+  {
+    "city": "Crosne",
+    "admin": "Île-de-France",
+    "sort": "9285"
+  },
+  {
+    "city": "Gaillard",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10419"
+  },
+  {
+    "city": "Caudebec-lès-Elbeuf",
+    "admin": "Normandie",
+    "sort": "10156"
+  },
+  {
+    "city": "Pierre-Bénite",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10461"
+  },
+  {
+    "city": "Tinqueux",
+    "admin": "Grand Est",
+    "sort": "10154"
+  },
+  {
+    "city": "L’Île-Saint-Denis",
+    "admin": "Île-de-France",
+    "sort": "8012"
+  },
+  {
+    "city": "Avranches",
+    "admin": "Normandie",
+    "sort": "10246"
+  },
+  {
+    "city": "Marquette-lès-Lille",
+    "admin": "Hauts-de-France",
+    "sort": "10354"
+  },
+  {
+    "city": "Fosses",
+    "admin": "Île-de-France",
+    "sort": "9737"
+  },
+  {
+    "city": "Croissy-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "9602"
+  },
+  {
+    "city": "Igny",
+    "admin": "Île-de-France",
+    "sort": "9744"
+  },
+  {
+    "city": "Sallaumines",
+    "admin": "Hauts-de-France",
+    "sort": "9654"
+  },
+  {
+    "city": "Eybens",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "9947"
+  },
+  {
+    "city": "Neuville-lès-Dieppe",
+    "admin": "Normandie",
+    "sort": "9616"
+  },
+  {
+    "city": "Bougival",
+    "admin": "Île-de-France",
+    "sort": "8795"
+  },
+  {
+    "city": "Ferney-Voltaire",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "9895"
+  },
+  {
+    "city": "Bures-sur-Yvette",
+    "admin": "Île-de-France",
+    "sort": "9577"
+  },
+  {
+    "city": "Bihorel",
+    "admin": "Normandie",
+    "sort": "8331"
+  },
+  {
+    "city": "Le Plessis-Bouchard",
+    "admin": "Île-de-France",
+    "sort": "8488"
+  },
+  {
+    "city": "Beauchamp",
+    "admin": "Île-de-France",
+    "sort": "8675"
+  },
+  {
+    "city": "Le Portel",
+    "admin": "Hauts-de-France",
+    "sort": "9157"
+  },
+  {
+    "city": "Vaucresson",
+    "admin": "Île-de-France",
+    "sort": "8660"
+  },
+  {
+    "city": "Groslay",
+    "admin": "Île-de-France",
+    "sort": "8545"
+  },
+  {
+    "city": "Ambilly",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6261"
+  },
+  {
+    "city": "Évian-les-Bains",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "9100"
+  },
+  {
+    "city": "Pérenchies",
+    "admin": "Hauts-de-France",
+    "sort": "8413"
+  },
+  {
+    "city": "Billy-Montigny",
+    "admin": "Hauts-de-France",
+    "sort": "8167"
+  },
+  {
+    "city": "Ablon-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "5818"
+  },
+  {
+    "city": "Gournay-sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "6878"
+  },
+  {
+    "city": "Meythet",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8327"
+  },
+  {
+    "city": "Aucamville",
+    "admin": "Occitanie",
+    "sort": "8691"
+  },
+  {
+    "city": "Sainte-Adresse",
+    "admin": "Normandie",
+    "sort": "7349"
+  },
+  {
+    "city": "Boussy-Saint-Antoine",
+    "admin": "Île-de-France",
+    "sort": "7767"
+  },
+  {
+    "city": "Terrenoire",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8317"
+  },
+  {
+    "city": "Carbon-Blanc",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8172"
+  },
+  {
+    "city": "La Verrière",
+    "admin": "Île-de-France",
+    "sort": "6551"
+  },
+  {
+    "city": "La Ville-du-Bois",
+    "admin": "Île-de-France",
+    "sort": "7970"
+  },
+  {
+    "city": "Fontaines-sur-Saône",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7068"
+  },
+  {
+    "city": "Villemoisson-sur-Orge",
+    "admin": "Île-de-France",
+    "sort": "7038"
+  },
+  {
+    "city": "La Mulatière",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6431"
+  },
+  {
+    "city": "Montlhéry",
+    "admin": "Île-de-France",
+    "sort": "7624"
+  },
+  {
+    "city": "Talange",
+    "admin": "Grand Est",
+    "sort": "7731"
+  },
+  {
+    "city": "Huningue",
+    "admin": "Grand Est",
+    "sort": "7240"
+  },
+  {
+    "city": "Sathonay-Camp",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6267"
+  },
+  {
+    "city": "Le Port-Marly",
+    "admin": "Île-de-France",
+    "sort": "5509"
+  },
+  {
+    "city": "Beuvrages",
+    "admin": "Hauts-de-France",
+    "sort": "6821"
+  },
+  {
+    "city": "Guingamp",
+    "admin": "Bretagne",
+    "sort": "7022"
+  },
+  {
+    "city": "Grenay",
+    "admin": "Hauts-de-France",
+    "sort": "6851"
+  },
+  {
+    "city": "Jœuf",
+    "admin": "Grand Est",
+    "sort": "6559"
+  },
+  {
+    "city": "Palavas-les-Flots",
+    "admin": "Occitanie",
+    "sort": "5903"
+  },
+  {
+    "city": "Esbly",
+    "admin": "Île-de-France",
+    "sort": "6339"
+  },
+  {
+    "city": "Pont-de-Chéruy",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5876"
+  },
+  {
+    "city": "Champagne-au-Mont-d’Or",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5570"
+  },
+  {
+    "city": "Avignon",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "91729"
+  },
+  {
+    "city": "Dunkerque",
+    "admin": "Hauts-de-France",
+    "sort": "86865"
+  },
+  {
+    "city": "Béziers",
+    "admin": "Occitanie",
+    "sort": "77599"
+  },
+  {
+    "city": "Mérignac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "70813"
+  },
+  {
+    "city": "Saint-Nazaire",
+    "admin": "Pays de la Loire",
+    "sort": "70619"
+  },
+  {
+    "city": "Colmar",
+    "admin": "Grand Est",
+    "sort": "68703"
+  },
+  {
+    "city": "Valence",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "64726"
+  },
+  {
+    "city": "Pessac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "64374"
+  },
+  {
+    "city": "Bourges",
+    "admin": "Centre-Val de Loire",
+    "sort": "64668"
+  },
+  {
+    "city": "Quimper",
+    "admin": "Bretagne",
+    "sort": "63166"
+  },
+  {
+    "city": "Montauban",
+    "admin": "Occitanie",
+    "sort": "60952"
+  },
+  {
+    "city": "Niort",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "59059"
+  },
+  {
+    "city": "Beauvais",
+    "admin": "Hauts-de-France",
+    "sort": "56605"
+  },
+  {
+    "city": "Narbonne",
+    "admin": "Occitanie",
+    "sort": "55375"
+  },
+  {
+    "city": "Hyères",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "55069"
+  },
+  {
+    "city": "La Roche-sur-Yon",
+    "admin": "Pays de la Loire",
+    "sort": "54766"
+  },
+  {
+    "city": "Vannes",
+    "admin": "Bretagne",
+    "sort": "53438"
+  },
+  {
+    "city": "Cholet",
+    "admin": "Pays de la Loire",
+    "sort": "54186"
+  },
+  {
+    "city": "Fréjus",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "53786"
+  },
+  {
+    "city": "Arles",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "51031"
+  },
+  {
+    "city": "Laval",
+    "admin": "Pays de la Loire",
+    "sort": "49573"
+  },
+  {
+    "city": "Albi",
+    "admin": "Occitanie",
+    "sort": "48993"
+  },
+  {
+    "city": "Grasse",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "48865"
+  },
+  {
+    "city": "Martigues",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "48420"
+  },
+  {
+    "city": "Évreux",
+    "admin": "Normandie",
+    "sort": "46707"
+  },
+  {
+    "city": "Saint-Priest",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "46510"
+  },
+  {
+    "city": "Aubagne",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "47208"
+  },
+  {
+    "city": "Saint-Herblain",
+    "admin": "Pays de la Loire",
+    "sort": "46352"
+  },
+  {
+    "city": "Charleville-Mézières",
+    "admin": "Grand Est",
+    "sort": "46391"
+  },
+  {
+    "city": "Saint-Malo",
+    "admin": "Bretagne",
+    "sort": "46478"
+  },
+  {
+    "city": "Brive-la-Gaillarde",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "46630"
+  },
+  {
+    "city": "Carcassonne",
+    "admin": "Occitanie",
+    "sort": "46513"
+  },
+  {
+    "city": "Blois",
+    "admin": "Centre-Val de Loire",
+    "sort": "45871"
+  },
+  {
+    "city": "Salon-de-Provence",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "45400"
+  },
+  {
+    "city": "Châlons-en-Champagne",
+    "admin": "Grand Est",
+    "sort": "44246"
+  },
+  {
+    "city": "Sète",
+    "admin": "Occitanie",
+    "sort": "43686"
+  },
+  {
+    "city": "Châteauroux",
+    "admin": "Centre-Val de Loire",
+    "sort": "43442"
+  },
+  {
+    "city": "Istres",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "43411"
+  },
+  {
+    "city": "Angoulême",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "41711"
+  },
+  {
+    "city": "Bourg-en-Bresse",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "41248"
+  },
+  {
+    "city": "Alès",
+    "admin": "Occitanie",
+    "sort": "40802"
+  },
+  {
+    "city": "Castres",
+    "admin": "Occitanie",
+    "sort": "41795"
+  },
+  {
+    "city": "Saint-Germain-en-Laye",
+    "admin": "Île-de-France",
+    "sort": "40806"
+  },
+  {
+    "city": "Compiègne",
+    "admin": "Hauts-de-France",
+    "sort": "40542"
+  },
+  {
+    "city": "Thionville",
+    "admin": "Grand Est",
+    "sort": "40477"
+  },
+  {
+    "city": "Anglet",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "39604"
+  },
+  {
+    "city": "Colomiers",
+    "admin": "Occitanie",
+    "sort": "39097"
+  },
+  {
+    "city": "Gap",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "40559"
+  },
+  {
+    "city": "Montélimar",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "39415"
+  },
+  {
+    "city": "Draguignan",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "39106"
+  },
+  {
+    "city": "Joué-lés-Tours",
+    "admin": "Centre-Val de Loire",
+    "sort": "38250"
+  },
+  {
+    "city": "Villenave-d’Ornon",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "35278"
+  },
+  {
+    "city": "Montluçon",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "34938"
+  },
+  {
+    "city": "La Ciotat",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "35281"
+  },
+  {
+    "city": "Saint-Raphaël",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "35633"
+  },
+  {
+    "city": "Meyzieu",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "34151"
+  },
+  {
+    "city": "Saint-Chamond",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "34979"
+  },
+  {
+    "city": "Auxerre",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "34764"
+  },
+  {
+    "city": "Nevers",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "33279"
+  },
+  {
+    "city": "Mâcon",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "33810"
+  },
+  {
+    "city": "Haguenau",
+    "admin": "Grand Est",
+    "sort": "34789"
+  },
+  {
+    "city": "Six-Fours-les-Plages",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "33665"
+  },
+  {
+    "city": "Cambrai",
+    "admin": "Hauts-de-France",
+    "sort": "32501"
+  },
+  {
+    "city": "Marignane",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "32793"
+  },
+  {
+    "city": "Romans-sur-Isère",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "33160"
+  },
+  {
+    "city": "Vitrolles",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "33101"
+  },
+  {
+    "city": "Épinal",
+    "admin": "Grand Est",
+    "sort": "32223"
+  },
+  {
+    "city": "Plaisir",
+    "admin": "Île-de-France",
+    "sort": "31013"
+  },
+  {
+    "city": "Châtellerault",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "31733"
+  },
+  {
+    "city": "Dreux",
+    "admin": "Centre-Val de Loire",
+    "sort": "30664"
+  },
+  {
+    "city": "Saint-Médard-en-Jalles",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "31536"
+  },
+  {
+    "city": "Maubeuge",
+    "admin": "Hauts-de-France",
+    "sort": "29632"
+  },
+  {
+    "city": "Vienne",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "29583"
+  },
+  {
+    "city": "Draveil",
+    "admin": "Île-de-France",
+    "sort": "28741"
+  },
+  {
+    "city": "Mont-de-Marsan",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "29683"
+  },
+  {
+    "city": "Décines-Charpieu",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "28604"
+  },
+  {
+    "city": "Saint-Étienne-du-Rouvray",
+    "admin": "Normandie",
+    "sort": "28500"
+  },
+  {
+    "city": "Bourgoin-Jallieu",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "28494"
+  },
+  {
+    "city": "Agde",
+    "admin": "Occitanie",
+    "sort": "29090"
+  },
+  {
+    "city": "Carpentras",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "28798"
+  },
+  {
+    "city": "Orange",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "28922"
+  },
+  {
+    "city": "Tournefeuille",
+    "admin": "Occitanie",
+    "sort": "27688"
+  },
+  {
+    "city": "Brétigny-sur-Orge",
+    "admin": "Île-de-France",
+    "sort": "26878"
+  },
+  {
+    "city": "Illkirch-Graffenstaden",
+    "admin": "Grand Est",
+    "sort": "26830"
+  },
+  {
+    "city": "Orvault",
+    "admin": "Pays de la Loire",
+    "sort": "26924"
+  },
+  {
+    "city": "Sens",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "26586"
+  },
+  {
+    "city": "Miramas",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "26668"
+  },
+  {
+    "city": "Rambouillet",
+    "admin": "Île-de-France",
+    "sort": "26933"
+  },
+  {
+    "city": "Montbéliard",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "25809"
+  },
+  {
+    "city": "Lunel",
+    "admin": "Occitanie",
+    "sort": "26273"
+  },
+  {
+    "city": "Gonesse",
+    "admin": "Île-de-France",
+    "sort": "26019"
+  },
+  {
+    "city": "Bergerac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "26823"
+  },
+  {
+    "city": "Hénin-Beaumont",
+    "admin": "Hauts-de-France",
+    "sort": "25917"
+  },
+  {
+    "city": "Gradignan",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "25435"
+  },
+  {
+    "city": "La Garde",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "25380"
+  },
+  {
+    "city": "Saumur",
+    "admin": "Pays de la Loire",
+    "sort": "26599"
+  },
+  {
+    "city": "Cavaillon",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "26198"
+  },
+  {
+    "city": "Blagnac",
+    "admin": "Occitanie",
+    "sort": "25152"
+  },
+  {
+    "city": "Aurillac",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "25531"
+  },
+  {
+    "city": "La Teste-de-Buch",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "26248"
+  },
+  {
+    "city": "Saint-Ouen-l’Aumône",
+    "admin": "Île-de-France",
+    "sort": "24385"
+  },
+  {
+    "city": "Vierzon",
+    "admin": "Centre-Val de Loire",
+    "sort": "25725"
+  },
+  {
+    "city": "Étampes",
+    "admin": "Île-de-France",
+    "sort": "25287"
+  },
+  {
+    "city": "Vertou",
+    "admin": "Pays de la Loire",
+    "sort": "25045"
+  },
+  {
+    "city": "Saintes",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "25148"
+  },
+  {
+    "city": "Libourne",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "24511"
+  },
+  {
+    "city": "La Valette-du-Var",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "23795"
+  },
+  {
+    "city": "Laon",
+    "admin": "Hauts-de-France",
+    "sort": "24710"
+  },
+  {
+    "city": "Muret",
+    "admin": "Occitanie",
+    "sort": "24813"
+  },
+  {
+    "city": "Rochefort",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "23583"
+  },
+  {
+    "city": "Roissy-en-Brie",
+    "admin": "Île-de-France",
+    "sort": "22836"
+  },
+  {
+    "city": "Vernon",
+    "admin": "Normandie",
+    "sort": "23777"
+  },
+  {
+    "city": "Dole",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "23770"
+  },
+  {
+    "city": "Lanester",
+    "admin": "Bretagne",
+    "sort": "23026"
+  },
+  {
+    "city": "Saint-Dizier",
+    "admin": "Grand Est",
+    "sort": "23382"
+  },
+  {
+    "city": "Grande-Synthe",
+    "admin": "Hauts-de-France",
+    "sort": "22777"
+  },
+  {
+    "city": "Castelnau-le-Lez",
+    "admin": "Occitanie",
+    "sort": "21838"
+  },
+  {
+    "city": "Abbeville",
+    "admin": "Hauts-de-France",
+    "sort": "22837"
+  },
+  {
+    "city": "Frontignan",
+    "admin": "Occitanie",
+    "sort": "22731"
+  },
+  {
+    "city": "Combs-la-Ville",
+    "admin": "Île-de-France",
+    "sort": "21811"
+  },
+  {
+    "city": "Épernay",
+    "admin": "Grand Est",
+    "sort": "22330"
+  },
+  {
+    "city": "Gif-sur-Yvette",
+    "admin": "Île-de-France",
+    "sort": "21308"
+  },
+  {
+    "city": "Olivet",
+    "admin": "Centre-Val de Loire",
+    "sort": "22168"
+  },
+  {
+    "city": "Forbach",
+    "admin": "Grand Est",
+    "sort": "21652"
+  },
+  {
+    "city": "Oyonnax",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "22336"
+  },
+  {
+    "city": "Saint-Louis",
+    "admin": "Grand Est",
+    "sort": "21646"
+  },
+  {
+    "city": "Manosque",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "22485"
+  },
+  {
+    "city": "Seynod",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "21595"
+  },
+  {
+    "city": "Le Creusot",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "21491"
+  },
+  {
+    "city": "Annecy-le-Vieux",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "21390"
+  },
+  {
+    "city": "Saint-Genis-Laval",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "21019"
+  },
+  {
+    "city": "Saint-Jean-de-Braye",
+    "admin": "Centre-Val de Loire",
+    "sort": "21054"
+  },
+  {
+    "city": "Mandelieu-la-Napoule",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "21836"
+  },
+  {
+    "city": "Auch",
+    "admin": "Occitanie",
+    "sort": "22200"
+  },
+  {
+    "city": "Fougères",
+    "admin": "Bretagne",
+    "sort": "20528"
+  },
+  {
+    "city": "Halluin",
+    "admin": "Hauts-de-France",
+    "sort": "20808"
+  },
+  {
+    "city": "Chaumont",
+    "admin": "Grand Est",
+    "sort": "21990"
+  },
+  {
+    "city": "Couëron",
+    "admin": "Pays de la Loire",
+    "sort": "21862"
+  },
+  {
+    "city": "Villeneuve-sur-Lot",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "21915"
+  },
+  {
+    "city": "Hazebrouck",
+    "admin": "Hauts-de-France",
+    "sort": "21353"
+  },
+  {
+    "city": "Gardanne",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "21376"
+  },
+  {
+    "city": "Millau",
+    "admin": "Occitanie",
+    "sort": "22002"
+  },
+  {
+    "city": "Les Pennes-Mirabeau",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "21411"
+  },
+  {
+    "city": "Gujan-Mestras",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "21543"
+  },
+  {
+    "city": "Dax",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "20762"
+  },
+  {
+    "city": "Lisieux",
+    "admin": "Normandie",
+    "sort": "20171"
+  },
+  {
+    "city": "Denain",
+    "admin": "Hauts-de-France",
+    "sort": "19933"
+  },
+  {
+    "city": "Sarreguemines",
+    "admin": "Grand Est",
+    "sort": "20820"
+  },
+  {
+    "city": "Ozoir-la-Ferrière",
+    "admin": "Île-de-France",
+    "sort": "20191"
+  },
+  {
+    "city": "Beaune",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "20711"
+  },
+  {
+    "city": "Givors",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "20121"
+  },
+  {
+    "city": "Allauch",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "20860"
+  },
+  {
+    "city": "Cournon-d’Auvergne",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "20157"
+  },
+  {
+    "city": "Challans",
+    "admin": "Pays de la Loire",
+    "sort": "20898"
+  },
+  {
+    "city": "Voiron",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "20248"
+  },
+  {
+    "city": "Mitry-Mory",
+    "admin": "Île-de-France",
+    "sort": "20353"
+  },
+  {
+    "city": "Bourg-lès-Valence",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "19889"
+  },
+  {
+    "city": "Pertuis",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "20397"
+  },
+  {
+    "city": "Hem",
+    "admin": "Hauts-de-France",
+    "sort": "18621"
+  },
+  {
+    "city": "Lannion",
+    "admin": "Bretagne",
+    "sort": "20040"
+  },
+  {
+    "city": "Carquefou",
+    "admin": "Pays de la Loire",
+    "sort": "20032"
+  },
+  {
+    "city": "Villefontaine",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "18808"
+  },
+  {
+    "city": "Albertville",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "19214"
+  },
+  {
+    "city": "Bouguenais",
+    "admin": "Pays de la Loire",
+    "sort": "19658"
+  },
+  {
+    "city": "Mougins",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "19489"
+  },
+  {
+    "city": "Cahors",
+    "admin": "Occitanie",
+    "sort": "19907"
+  },
+  {
+    "city": "Le Puy-en-Velay",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "19061"
+  },
+  {
+    "city": "Saint-Dié-des-Vosges",
+    "admin": "Grand Est",
+    "sort": "19724"
+  },
+  {
+    "city": "L’Isle-sur-la-Sorgue",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "19706"
+  },
+  {
+    "city": "La Chapelle-sur-Erdre",
+    "admin": "Pays de la Loire",
+    "sort": "19526"
+  },
+  {
+    "city": "Concarneau",
+    "admin": "Bretagne",
+    "sort": "19502"
+  },
+  {
+    "city": "Saint-Lô",
+    "admin": "Normandie",
+    "sort": "19024"
+  },
+  {
+    "city": "Bressuire",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "19733"
+  },
+  {
+    "city": "Cognac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "18628"
+  },
+  {
+    "city": "Sélestat",
+    "admin": "Grand Est",
+    "sort": "19360"
+  },
+  {
+    "city": "Cugnaux",
+    "admin": "Occitanie",
+    "sort": "18267"
+  },
+  {
+    "city": "Riom",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "19011"
+  },
+  {
+    "city": "Bruges",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "18316"
+  },
+  {
+    "city": "Plaisance-du-Touch",
+    "admin": "Occitanie",
+    "sort": "18888"
+  },
+  {
+    "city": "Fécamp",
+    "admin": "Normandie",
+    "sort": "18251"
+  },
+  {
+    "city": "Royan",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "18499"
+  },
+  {
+    "city": "Sorgues",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "18802"
+  },
+  {
+    "city": "Brie-Comte-Robert",
+    "admin": "Île-de-France",
+    "sort": "18237"
+  },
+  {
+    "city": "Vence",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "18670"
+  },
+  {
+    "city": "Bruz",
+    "admin": "Bretagne",
+    "sort": "18516"
+  },
+  {
+    "city": "Moissy-Cramayel",
+    "admin": "Île-de-France",
+    "sort": "17882"
+  },
+  {
+    "city": "Lunéville",
+    "admin": "Grand Est",
+    "sort": "18027"
+  },
+  {
+    "city": "Louviers",
+    "admin": "Normandie",
+    "sort": "18348"
+  },
+  {
+    "city": "La Crau",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "18506"
+  },
+  {
+    "city": "Montceau-les-Mines",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "17897"
+  },
+  {
+    "city": "Avion",
+    "admin": "Hauts-de-France",
+    "sort": "17583"
+  },
+  {
+    "city": "Le Pontet",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "17273"
+  },
+  {
+    "city": "Meylan",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "17448"
+  },
+  {
+    "city": "Osny",
+    "admin": "Île-de-France",
+    "sort": "17402"
+  },
+  {
+    "city": "Vitré",
+    "admin": "Bretagne",
+    "sort": "18267"
+  },
+  {
+    "city": "Bagnols-sur-Cèze",
+    "admin": "Occitanie",
+    "sort": "18072"
+  },
+  {
+    "city": "Limay",
+    "admin": "Île-de-France",
+    "sort": "17147"
+  },
+  {
+    "city": "Cluses",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "16996"
+  },
+  {
+    "city": "Firminy",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "16981"
+  },
+  {
+    "city": "Boissy-Saint-Léger",
+    "admin": "Île-de-France",
+    "sort": "16487"
+  },
+  {
+    "city": "Ploemeur",
+    "admin": "Bretagne",
+    "sort": "17790"
+  },
+  {
+    "city": "Carvin",
+    "admin": "Hauts-de-France",
+    "sort": "17399"
+  },
+  {
+    "city": "Port-de-Bouc",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "16569"
+  },
+  {
+    "city": "Châteauneuf-les-Martigues",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "17425"
+  },
+  {
+    "city": "L’Isle-d’Abeau",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "16169"
+  },
+  {
+    "city": "Marmande",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "17534"
+  },
+  {
+    "city": "Cesson-Sévigné",
+    "admin": "Bretagne",
+    "sort": "17312"
+  },
+  {
+    "city": "Orsay",
+    "admin": "Île-de-France",
+    "sort": "15844"
+  },
+  {
+    "city": "Yutz",
+    "admin": "Grand Est",
+    "sort": "16633"
+  },
+  {
+    "city": "Pontarlier",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "17393"
+  },
+  {
+    "city": "Verdun",
+    "admin": "Grand Est",
+    "sort": "17161"
+  },
+  {
+    "city": "Verneuil-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "15982"
+  },
+  {
+    "city": "Brignoles",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "17364"
+  },
+  {
+    "city": "Sanary-sur-Mer",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "16696"
+  },
+  {
+    "city": "Balma",
+    "admin": "Occitanie",
+    "sort": "16520"
+  },
+  {
+    "city": "Lattes",
+    "admin": "Occitanie",
+    "sort": "16710"
+  },
+  {
+    "city": "Domont",
+    "admin": "Île-de-France",
+    "sort": "15418"
+  },
+  {
+    "city": "Saint-Égrève",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "15801"
+  },
+  {
+    "city": "Ambarès-et-Lagrave",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "16563"
+  },
+  {
+    "city": "Elbeuf",
+    "admin": "Normandie",
+    "sort": "16205"
+  },
+  {
+    "city": "Hayange",
+    "admin": "Grand Est",
+    "sort": "15888"
+  },
+  {
+    "city": "Sedan",
+    "admin": "Grand Est",
+    "sort": "16193"
+  },
+  {
+    "city": "Saran",
+    "admin": "Centre-Val de Loire",
+    "sort": "16344"
+  },
+  {
+    "city": "Saint-Cyr-sur-Loire",
+    "admin": "Centre-Val de Loire",
+    "sort": "15991"
+  },
+  {
+    "city": "Saint-Pierre-des-Corps",
+    "admin": "Centre-Val de Loire",
+    "sort": "15766"
+  },
+  {
+    "city": "Landerneau",
+    "admin": "Bretagne",
+    "sort": "15914"
+  },
+  {
+    "city": "Cestas",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "16936"
+  },
+  {
+    "city": "Mauguio",
+    "admin": "Occitanie",
+    "sort": "16735"
+  },
+  {
+    "city": "Annonay",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "16288"
+  },
+  {
+    "city": "Saint-Julien-en-Genevois",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "15509"
+  },
+  {
+    "city": "Tourlaville",
+    "admin": "Normandie",
+    "sort": "16040"
+  },
+  {
+    "city": "Sin-le-Noble",
+    "admin": "Hauts-de-France",
+    "sort": "15522"
+  },
+  {
+    "city": "Escoublac",
+    "admin": "Pays de la Loire",
+    "sort": "16117"
+  },
+  {
+    "city": "Saint-Maximin-la-Sainte-Baume",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "16574"
+  },
+  {
+    "city": "Vendôme",
+    "admin": "Centre-Val de Loire",
+    "sort": "16133"
+  },
+  {
+    "city": "Sallanches",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "16508"
+  },
+  {
+    "city": "Hennebont",
+    "admin": "Bretagne",
+    "sort": "15858"
+  },
+  {
+    "city": "Illzach",
+    "admin": "Grand Est",
+    "sort": "14680"
+  },
+  {
+    "city": "Vesoul",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "14973"
+  },
+  {
+    "city": "Montbrison",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "15656"
+  },
+  {
+    "city": "Villeneuve-Loubet",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "15780"
+  },
+  {
+    "city": "Sainte-Luce-sur-Loire",
+    "admin": "Pays de la Loire",
+    "sort": "15238"
+  },
+  {
+    "city": "Saint-Amand-les-Eaux",
+    "admin": "Hauts-de-France",
+    "sort": "16053"
+  },
+  {
+    "city": "Digne-les-Bains",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "16333"
+  },
+  {
+    "city": "Châteaurenard",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "16012"
+  },
+  {
+    "city": "Verrières-le-Buisson",
+    "admin": "Île-de-France",
+    "sort": "14941"
+  },
+  {
+    "city": "Francheville",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "14656"
+  },
+  {
+    "city": "Montivilliers",
+    "admin": "Normandie",
+    "sort": "15564"
+  },
+  {
+    "city": "Les Herbiers",
+    "admin": "Pays de la Loire",
+    "sort": "16135"
+  },
+  {
+    "city": "Guérande",
+    "admin": "Pays de la Loire",
+    "sort": "16107"
+  },
+  {
+    "city": "Rumilly",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "15373"
+  },
+  {
+    "city": "Château-Thierry",
+    "admin": "Hauts-de-France",
+    "sort": "15351"
+  },
+  {
+    "city": "Les Sables-d’Olonne",
+    "admin": "Pays de la Loire",
+    "sort": "14545"
+  },
+  {
+    "city": "Chenôve",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "14216"
+  },
+  {
+    "city": "Coulommiers",
+    "admin": "Île-de-France",
+    "sort": "14757"
+  },
+  {
+    "city": "Saint-Avertin",
+    "admin": "Centre-Val de Loire",
+    "sort": "14968"
+  },
+  {
+    "city": "Villers-lès-Nancy",
+    "admin": "Grand Est",
+    "sort": "14558"
+  },
+  {
+    "city": "Mennecy",
+    "admin": "Île-de-France",
+    "sort": "14679"
+  },
+  {
+    "city": "Issoire",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "15214"
+  },
+  {
+    "city": "Toul",
+    "admin": "Grand Est",
+    "sort": "15470"
+  },
+  {
+    "city": "Blanquefort",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "15510"
+  },
+  {
+    "city": "Trélazé",
+    "admin": "Pays de la Loire",
+    "sort": "14759"
+  },
+  {
+    "city": "Pamiers",
+    "admin": "Occitanie",
+    "sort": "15603"
+  },
+  {
+    "city": "Bois-Guillaume",
+    "admin": "Normandie",
+    "sort": "14309"
+  },
+  {
+    "city": "Dinan",
+    "admin": "Bretagne",
+    "sort": "14281"
+  },
+  {
+    "city": "Beaucaire",
+    "admin": "Occitanie",
+    "sort": "15718"
+  },
+  {
+    "city": "Saint-Avold",
+    "admin": "Grand Est",
+    "sort": "15433"
+  },
+  {
+    "city": "Hautmont",
+    "admin": "Hauts-de-France",
+    "sort": "14601"
+  },
+  {
+    "city": "Fos-sur-Mer",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "15602"
+  },
+  {
+    "city": "Pornic",
+    "admin": "Pays de la Loire",
+    "sort": "15570"
+  },
+  {
+    "city": "Crépy-en-Valois",
+    "admin": "Hauts-de-France",
+    "sort": "14796"
+  },
+  {
+    "city": "Gaillac",
+    "admin": "Occitanie",
+    "sort": "15345"
+  },
+  {
+    "city": "Saint-Omer",
+    "admin": "Hauts-de-France",
+    "sort": "14726"
+  },
+  {
+    "city": "Caudry",
+    "admin": "Hauts-de-France",
+    "sort": "14487"
+  },
+  {
+    "city": "Senlis",
+    "admin": "Hauts-de-France",
+    "sort": "14891"
+  },
+  {
+    "city": "Fontainebleau",
+    "admin": "Île-de-France",
+    "sort": "15407"
+  },
+  {
+    "city": "Castanet-Tolosan",
+    "admin": "Occitanie",
+    "sort": "13811"
+  },
+  {
+    "city": "Outreau",
+    "admin": "Hauts-de-France",
+    "sort": "13575"
+  },
+  {
+    "city": "Pontivy",
+    "admin": "Bretagne",
+    "sort": "14889"
+  },
+  {
+    "city": "Flers",
+    "admin": "Normandie",
+    "sort": "14779"
+  },
+  {
+    "city": "Bouc-Bel-Air",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "14784"
+  },
+  {
+    "city": "Saint-Rambert",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "15034"
+  },
+  {
+    "city": "Tarascon",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "15195"
+  },
+  {
+    "city": "Olonne-sur-Mer",
+    "admin": "Pays de la Loire",
+    "sort": "15061"
+  },
+  {
+    "city": "Fameck",
+    "admin": "Grand Est",
+    "sort": "14243"
+  },
+  {
+    "city": "Bailleul",
+    "admin": "Hauts-de-France",
+    "sort": "15019"
+  },
+  {
+    "city": "Bar-le-Duc",
+    "admin": "Grand Est",
+    "sort": "14733"
+  },
+  {
+    "city": "Morlaix",
+    "admin": "Bretagne",
+    "sort": "14729"
+  },
+  {
+    "city": "Tulle",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "14705"
+  },
+  {
+    "city": "Wittenheim",
+    "admin": "Grand Est",
+    "sort": "14541"
+  },
+  {
+    "city": "Kingersheim",
+    "admin": "Grand Est",
+    "sort": "13267"
+  },
+  {
+    "city": "Méru",
+    "admin": "Hauts-de-France",
+    "sort": "14609"
+  },
+  {
+    "city": "Laxou",
+    "admin": "Grand Est",
+    "sort": "14300"
+  },
+  {
+    "city": "Guipavas",
+    "admin": "Bretagne",
+    "sort": "14842"
+  },
+  {
+    "city": "La Flèche",
+    "admin": "Pays de la Loire",
+    "sort": "14902"
+  },
+  {
+    "city": "Pont-à-Mousson",
+    "admin": "Grand Est",
+    "sort": "14434"
+  },
+  {
+    "city": "Thouars",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "13932"
+  },
+  {
+    "city": "Canteleu",
+    "admin": "Normandie",
+    "sort": "14244"
+  },
+  {
+    "city": "Andrésy",
+    "admin": "Île-de-France",
+    "sort": "13078"
+  },
+  {
+    "city": "Saint-Fargeau",
+    "admin": "Île-de-France",
+    "sort": "14109"
+  },
+  {
+    "city": "Woippy",
+    "admin": "Grand Est",
+    "sort": "13998"
+  },
+  {
+    "city": "Avrillé",
+    "admin": "Pays de la Loire",
+    "sort": "14065"
+  },
+  {
+    "city": "Saint-Jean-de-Luz",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "14198"
+  },
+  {
+    "city": "Lons",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "13720"
+  },
+  {
+    "city": "Romilly-sur-Seine",
+    "admin": "Grand Est",
+    "sort": "14328"
+  },
+  {
+    "city": "Château-d’Olonne",
+    "admin": "Pays de la Loire",
+    "sort": "14411"
+  },
+  {
+    "city": "Audincourt",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "13336"
+  },
+  {
+    "city": "Bayeux",
+    "admin": "Normandie",
+    "sort": "13017"
+  },
+  {
+    "city": "Saint-Brevin-les-Pins",
+    "admin": "Pays de la Loire",
+    "sort": "14118"
+  },
+  {
+    "city": "Mions",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "13665"
+  },
+  {
+    "city": "Rixheim",
+    "admin": "Grand Est",
+    "sort": "14071"
+  },
+  {
+    "city": "Ambérieu-en-Bugey",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "14204"
+  },
+  {
+    "city": "Roquebrune-sur-Argens",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "14626"
+  },
+  {
+    "city": "Montataire",
+    "admin": "Hauts-de-France",
+    "sort": "13461"
+  },
+  {
+    "city": "Berck-sur-Mer",
+    "admin": "Hauts-de-France",
+    "sort": "13791"
+  },
+  {
+    "city": "Saint-Jacques-de-la-Lande",
+    "admin": "Bretagne",
+    "sort": "13533"
+  },
+  {
+    "city": "Plérin",
+    "admin": "Bretagne",
+    "sort": "14158"
+  },
+  {
+    "city": "Roncq",
+    "admin": "Hauts-de-France",
+    "sort": "13361"
+  },
+  {
+    "city": "Saint-Genis-Pouilly",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "13243"
+  },
+  {
+    "city": "Douarnenez",
+    "admin": "Bretagne",
+    "sort": "14015"
+  },
+  {
+    "city": "Lieusaint",
+    "admin": "Île-de-France",
+    "sort": "13410"
+  },
+  {
+    "city": "Argentan",
+    "admin": "Normandie",
+    "sort": "13730"
+  },
+  {
+    "city": "Riedisheim",
+    "admin": "Grand Est",
+    "sort": "12660"
+  },
+  {
+    "city": "Ollioules",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "13771"
+  },
+  {
+    "city": "Sainte-Maxime",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "14240"
+  },
+  {
+    "city": "Ostwald",
+    "admin": "Grand Est",
+    "sort": "12586"
+  },
+  {
+    "city": "Tergnier",
+    "admin": "Hauts-de-France",
+    "sort": "13547"
+  },
+  {
+    "city": "Castelsarrasin",
+    "admin": "Occitanie",
+    "sort": "13934"
+  },
+  {
+    "city": "Biscarrosse",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "13946"
+  },
+  {
+    "city": "Noyon",
+    "admin": "Hauts-de-France",
+    "sort": "13235"
+  },
+  {
+    "city": "Valbonne",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "13257"
+  },
+  {
+    "city": "Gien",
+    "admin": "Centre-Val de Loire",
+    "sort": "13732"
+  },
+  {
+    "city": "Saint-Gilles",
+    "admin": "Occitanie",
+    "sort": "13787"
+  },
+  {
+    "city": "Granville",
+    "admin": "Normandie",
+    "sort": "12567"
+  },
+  {
+    "city": "Berre-l’Étang",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "13520"
+  },
+  {
+    "city": "Châlette-sur-Loing",
+    "admin": "Centre-Val de Loire",
+    "sort": "12790"
+  },
+  {
+    "city": "Bollène",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "13509"
+  },
+  {
+    "city": "Pierrelatte",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "13452"
+  },
+  {
+    "city": "Bully-les-Mines",
+    "admin": "Hauts-de-France",
+    "sort": "12117"
+  },
+  {
+    "city": "Fontenay-le-Comte",
+    "admin": "Pays de la Loire",
+    "sort": "13302"
+  },
+  {
+    "city": "Saint-Paul-lès-Dax",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "13436"
+  },
+  {
+    "city": "Saint-Martin-de-Crau",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "13558"
+  },
+  {
+    "city": "Plougastel-Daoulas",
+    "admin": "Bretagne",
+    "sort": "13330"
+  },
+  {
+    "city": "Marly",
+    "admin": "Hauts-de-France",
+    "sort": "12074"
+  },
+  {
+    "city": "Genas",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "13022"
+  },
+  {
+    "city": "Lourdes",
+    "admin": "Occitanie",
+    "sort": "13210"
+  },
+  {
+    "city": "Vitry-le-François",
+    "admin": "Grand Est",
+    "sort": "11743"
+  },
+  {
+    "city": "Creutzwald",
+    "admin": "Grand Est",
+    "sort": "13070"
+  },
+  {
+    "city": "Vernouillet",
+    "admin": "Centre-Val de Loire",
+    "sort": "12522"
+  },
+  {
+    "city": "Châteaudun",
+    "admin": "Centre-Val de Loire",
+    "sort": "13078"
+  },
+  {
+    "city": "Mayenne",
+    "admin": "Pays de la Loire",
+    "sort": "12874"
+  },
+  {
+    "city": "Gex",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "13093"
+  },
+  {
+    "city": "Saint-Orens-de-Gameville",
+    "admin": "Occitanie",
+    "sort": "12522"
+  },
+  {
+    "city": "Harnes",
+    "admin": "Hauts-de-France",
+    "sort": "12324"
+  },
+  {
+    "city": "Les Ponts-de-Cé",
+    "admin": "Pays de la Loire",
+    "sort": "12811"
+  },
+  {
+    "city": "Pont-Sainte-Maxence",
+    "admin": "Hauts-de-France",
+    "sort": "12601"
+  },
+  {
+    "city": "Le Relecq-Kerhuon",
+    "admin": "Bretagne",
+    "sort": "11625"
+  },
+  {
+    "city": "Amilly",
+    "admin": "Centre-Val de Loire",
+    "sort": "13099"
+  },
+  {
+    "city": "Nemours",
+    "admin": "Île-de-France",
+    "sort": "13165"
+  },
+  {
+    "city": "Guéret",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "12889"
+  },
+  {
+    "city": "Autun",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "13157"
+  },
+  {
+    "city": "Plouzané",
+    "admin": "Bretagne",
+    "sort": "12979"
+  },
+  {
+    "city": "Moissac",
+    "admin": "Occitanie",
+    "sort": "13195"
+  },
+  {
+    "city": "Bischwiller",
+    "admin": "Grand Est",
+    "sort": "12615"
+  },
+  {
+    "city": "Aubergenville",
+    "admin": "Île-de-France",
+    "sort": "11974"
+  },
+  {
+    "city": "Carros",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "12489"
+  },
+  {
+    "city": "Comines",
+    "admin": "Hauts-de-France",
+    "sort": "12498"
+  },
+  {
+    "city": "La Queue-en-Brie",
+    "admin": "Île-de-France",
+    "sort": "11909"
+  },
+  {
+    "city": "Monteux",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "12875"
+  },
+  {
+    "city": "Somain",
+    "admin": "Hauts-de-France",
+    "sort": "12213"
+  },
+  {
+    "city": "Yzeure",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "12899"
+  },
+  {
+    "city": "Yvetot",
+    "admin": "Normandie",
+    "sort": "11627"
+  },
+  {
+    "city": "Barentin",
+    "admin": "Normandie",
+    "sort": "12211"
+  },
+  {
+    "city": "L’Union",
+    "admin": "Occitanie",
+    "sort": "11458"
+  },
+  {
+    "city": "Noeux-les-Mines",
+    "admin": "Hauts-de-France",
+    "sort": "11813"
+  },
+  {
+    "city": "Seclin",
+    "admin": "Hauts-de-France",
+    "sort": "12410"
+  },
+  {
+    "city": "Aubenas",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "12253"
+  },
+  {
+    "city": "Villecresnes",
+    "admin": "Île-de-France",
+    "sort": "11119"
+  },
+  {
+    "city": "Arcachon",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "11567"
+  },
+  {
+    "city": "Sarrebourg",
+    "admin": "Grand Est",
+    "sort": "12331"
+  },
+  {
+    "city": "Cusset",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "12685"
+  },
+  {
+    "city": "Claye-Souilly",
+    "admin": "Île-de-France",
+    "sort": "12264"
+  },
+  {
+    "city": "Auriol",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "12771"
+  },
+  {
+    "city": "La Chapelle-Saint-Luc",
+    "admin": "Grand Est",
+    "sort": "11913"
+  },
+  {
+    "city": "Bonneville",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "12557"
+  },
+  {
+    "city": "Graulhet",
+    "admin": "Occitanie",
+    "sort": "12789"
+  },
+  {
+    "city": "Amboise",
+    "admin": "Centre-Val de Loire",
+    "sort": "12693"
+  },
+  {
+    "city": "Bruay-sur-l’Escaut",
+    "admin": "Hauts-de-France",
+    "sort": "11311"
+  },
+  {
+    "city": "Tarnos",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "12498"
+  },
+  {
+    "city": "Triel-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "12081"
+  },
+  {
+    "city": "Le Chambon-Feugerolles",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "12200"
+  },
+  {
+    "city": "Méricourt",
+    "admin": "Hauts-de-France",
+    "sort": "11346"
+  },
+  {
+    "city": "Ifs",
+    "admin": "Normandie",
+    "sort": "11567"
+  },
+  {
+    "city": "Raismes",
+    "admin": "Hauts-de-France",
+    "sort": "12468"
+  },
+  {
+    "city": "Plan-de-Cuques",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "11481"
+  },
+  {
+    "city": "Brignais",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "11697"
+  },
+  {
+    "city": "Provins",
+    "admin": "Île-de-France",
+    "sort": "12000"
+  },
+  {
+    "city": "Maizières-lès-Metz",
+    "admin": "Grand Est",
+    "sort": "11490"
+  },
+  {
+    "city": "L’Isle-Adam",
+    "admin": "Île-de-France",
+    "sort": "11986"
+  },
+  {
+    "city": "Rognac",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "12080"
+  },
+  {
+    "city": "Saint-Jean",
+    "admin": "Occitanie",
+    "sort": "10929"
+  },
+  {
+    "city": "Florange",
+    "admin": "Grand Est",
+    "sort": "11864"
+  },
+  {
+    "city": "Lamballe",
+    "admin": "Bretagne",
+    "sort": "12579"
+  },
+  {
+    "city": "Canet-en-Roussillon",
+    "admin": "Occitanie",
+    "sort": "12186"
+  },
+  {
+    "city": "Andernos-les-Bains",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "12096"
+  },
+  {
+    "city": "Saint-Estève",
+    "admin": "Occitanie",
+    "sort": "11697"
+  },
+  {
+    "city": "Fonsorbes",
+    "admin": "Occitanie",
+    "sort": "12036"
+  },
+  {
+    "city": "Chauny",
+    "admin": "Hauts-de-France",
+    "sort": "11773"
+  },
+  {
+    "city": "Oissel",
+    "admin": "Normandie",
+    "sort": "12102"
+  },
+  {
+    "city": "Saint-Germain-lès-Arpajon",
+    "admin": "Île-de-France",
+    "sort": "10877"
+  },
+  {
+    "city": "Quimperlé",
+    "admin": "Bretagne",
+    "sort": "12188"
+  },
+  {
+    "city": "Saint-André-de-Cubzac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "12051"
+  },
+  {
+    "city": "Le Haillan",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "11342"
+  },
+  {
+    "city": "Mende",
+    "admin": "Occitanie",
+    "sort": "12227"
+  },
+  {
+    "city": "Bolbec",
+    "admin": "Normandie",
+    "sort": "11605"
+  },
+  {
+    "city": "Le Pont-de-Claix",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10605"
+  },
+  {
+    "city": "Sablé-sur-Sarthe",
+    "admin": "Pays de la Loire",
+    "sort": "12127"
+  },
+  {
+    "city": "Betton",
+    "admin": "Bretagne",
+    "sort": "11968"
+  },
+  {
+    "city": "Villeneuve-lès-Avignon",
+    "admin": "Occitanie",
+    "sort": "11769"
+  },
+  {
+    "city": "Juvignac",
+    "admin": "Occitanie",
+    "sort": "11363"
+  },
+  {
+    "city": "Gisors",
+    "admin": "Normandie",
+    "sort": "11674"
+  },
+  {
+    "city": "Châteaubriant",
+    "admin": "Pays de la Loire",
+    "sort": "12011"
+  },
+  {
+    "city": "Mèze",
+    "admin": "Occitanie",
+    "sort": "12012"
+  },
+  {
+    "city": "Pont-du-Château",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "11802"
+  },
+  {
+    "city": "Chambray-lès-Tours",
+    "admin": "Centre-Val de Loire",
+    "sort": "11738"
+  },
+  {
+    "city": "Vidauban",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "12176"
+  },
+  {
+    "city": "La Motte-Servolex",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "11932"
+  },
+  {
+    "city": "Saint-Saulve",
+    "admin": "Hauts-de-France",
+    "sort": "11353"
+  },
+  {
+    "city": "Thorigny-sur-Marne",
+    "admin": "Île-de-France",
+    "sort": "10263"
+  },
+  {
+    "city": "Saint-Avé",
+    "admin": "Bretagne",
+    "sort": "11787"
+  },
+  {
+    "city": "Château-Gontier",
+    "admin": "Pays de la Loire",
+    "sort": "11805"
+  },
+  {
+    "city": "Fourmies",
+    "admin": "Hauts-de-France",
+    "sort": "11714"
+  },
+  {
+    "city": "Castelnaudary",
+    "admin": "Occitanie",
+    "sort": "11951"
+  },
+  {
+    "city": "Bellegarde-sur-Valserine",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "11450"
+  },
+  {
+    "city": "Pacé",
+    "admin": "Bretagne",
+    "sort": "11825"
+  },
+  {
+    "city": "Guebwiller",
+    "admin": "Grand Est",
+    "sort": "11022"
+  },
+  {
+    "city": "Cesson",
+    "admin": "Île-de-France",
+    "sort": "10625"
+  },
+  {
+    "city": "Solliès-Pont",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "11496"
+  },
+  {
+    "city": "Aubière",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10745"
+  },
+  {
+    "city": "Auchel",
+    "admin": "Hauts-de-France",
+    "sort": "10399"
+  },
+  {
+    "city": "Saint-Cyr-sur-Mer",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "11580"
+  },
+  {
+    "city": "Vedène",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "11131"
+  },
+  {
+    "city": "Sassenage",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "11277"
+  },
+  {
+    "city": "Chevigny-Saint-Sauveur",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "11160"
+  },
+  {
+    "city": "Saint-Martin-Boulogne",
+    "admin": "Hauts-de-France",
+    "sort": "11226"
+  },
+  {
+    "city": "Castelginest",
+    "admin": "Occitanie",
+    "sort": "10734"
+  },
+  {
+    "city": "Corbas",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "11108"
+  },
+  {
+    "city": "Thiers",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "11778"
+  },
+  {
+    "city": "Villefranche-de-Rouergue",
+    "admin": "Occitanie",
+    "sort": "11781"
+  },
+  {
+    "city": "Valentigney",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "10912"
+  },
+  {
+    "city": "Villepreux",
+    "admin": "Île-de-France",
+    "sort": "10975"
+  },
+  {
+    "city": "Saint-Gaudens",
+    "admin": "Occitanie",
+    "sort": "11604"
+  },
+  {
+    "city": "Mainvilliers",
+    "admin": "Centre-Val de Loire",
+    "sort": "11087"
+  },
+  {
+    "city": "Longuenesse",
+    "admin": "Hauts-de-France",
+    "sort": "10736"
+  },
+  {
+    "city": "Issoudun",
+    "admin": "Centre-Val de Loire",
+    "sort": "11690"
+  },
+  {
+    "city": "Cogolin",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "11556"
+  },
+  {
+    "city": "Villebon-sur-Yvette",
+    "admin": "Île-de-France",
+    "sort": "10546"
+  },
+  {
+    "city": "Cernay",
+    "admin": "Grand Est",
+    "sort": "11326"
+  },
+  {
+    "city": "Villeneuve-Tolosane",
+    "admin": "Occitanie",
+    "sort": "9987"
+  },
+  {
+    "city": "Onet Village",
+    "admin": "Occitanie",
+    "sort": "11659"
+  },
+  {
+    "city": "Clermont",
+    "admin": "Hauts-de-France",
+    "sort": "10183"
+  },
+  {
+    "city": "Vaux-le-Pénil",
+    "admin": "Île-de-France",
+    "sort": "10985"
+  },
+  {
+    "city": "Ploufragan",
+    "admin": "Bretagne",
+    "sort": "11489"
+  },
+  {
+    "city": "Neuville-en-Ferrain",
+    "admin": "Hauts-de-France",
+    "sort": "10231"
+  },
+  {
+    "city": "Guidel",
+    "admin": "Bretagne",
+    "sort": "11659"
+  },
+  {
+    "city": "Saint-Pierre-du-Perray",
+    "admin": "Île-de-France",
+    "sort": "10930"
+  },
+  {
+    "city": "Porto-Vecchio",
+    "admin": "Corsica",
+    "sort": "11748"
+  },
+  {
+    "city": "Pornichet",
+    "admin": "Pays de la Loire",
+    "sort": "10952"
+  },
+  {
+    "city": "La Roche-sur-Foron",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "11175"
+  },
+  {
+    "city": "Obernai",
+    "admin": "Grand Est",
+    "sort": "11350"
+  },
+  {
+    "city": "Cuers",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "11560"
+  },
+  {
+    "city": "Sainte-Savine",
+    "admin": "Grand Est",
+    "sort": "10409"
+  },
+  {
+    "city": "Étaples",
+    "admin": "Hauts-de-France",
+    "sort": "10926"
+  },
+  {
+    "city": "Courrières",
+    "admin": "Hauts-de-France",
+    "sort": "10544"
+  },
+  {
+    "city": "Darnétal",
+    "admin": "Normandie",
+    "sort": "9773"
+  },
+  {
+    "city": "Vauvert",
+    "admin": "Occitanie",
+    "sort": "11633"
+  },
+  {
+    "city": "Saverne",
+    "admin": "Grand Est",
+    "sort": "11289"
+  },
+  {
+    "city": "Aniche",
+    "admin": "Hauts-de-France",
+    "sort": "10146"
+  },
+  {
+    "city": "Allonnes",
+    "admin": "Pays de la Loire",
+    "sort": "11075"
+  },
+  {
+    "city": "Chantilly",
+    "admin": "Hauts-de-France",
+    "sort": "11001"
+  },
+  {
+    "city": "Septèmes-les-Vallons",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "11058"
+  },
+  {
+    "city": "Annoeullin",
+    "admin": "Hauts-de-France",
+    "sort": "10486"
+  },
+  {
+    "city": "Vernouillet",
+    "admin": "Île-de-France",
+    "sort": "10077"
+  },
+  {
+    "city": "Oignies",
+    "admin": "Hauts-de-France",
+    "sort": "9841"
+  },
+  {
+    "city": "Gravelines",
+    "admin": "Hauts-de-France",
+    "sort": "11132"
+  },
+  {
+    "city": "La Riche",
+    "admin": "Centre-Val de Loire",
+    "sort": "10331"
+  },
+  {
+    "city": "Ézanville",
+    "admin": "Île-de-France",
+    "sort": "9719"
+  },
+  {
+    "city": "Wambrechies",
+    "admin": "Hauts-de-France",
+    "sort": "10857"
+  },
+  {
+    "city": "Lézignan-Corbières",
+    "admin": "Occitanie",
+    "sort": "11248"
+  },
+  {
+    "city": "Saint-Cyprien",
+    "admin": "Occitanie",
+    "sort": "10844"
+  },
+  {
+    "city": "Panazol",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "10974"
+  },
+  {
+    "city": "Amnéville",
+    "admin": "Grand Est",
+    "sort": "10505"
+  },
+  {
+    "city": "Pfastatt",
+    "admin": "Grand Est",
+    "sort": "9656"
+  },
+  {
+    "city": "Briançon",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "11084"
+  },
+  {
+    "city": "Maxéville",
+    "admin": "Grand Est",
+    "sort": "9740"
+  },
+  {
+    "city": "Saint-Junien",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "11257"
+  },
+  {
+    "city": "Riorges",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10757"
+  },
+  {
+    "city": "Dinard",
+    "admin": "Bretagne",
+    "sort": "10148"
+  },
+  {
+    "city": "Douchy-les-Mines",
+    "admin": "Hauts-de-France",
+    "sort": "10311"
+  },
+  {
+    "city": "Saint-Hilaire-de-Riez",
+    "admin": "Pays de la Loire",
+    "sort": "11179"
+  },
+  {
+    "city": "Chassieu",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10498"
+  },
+  {
+    "city": "Portes-lès-Valence",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10666"
+  },
+  {
+    "city": "Louvres",
+    "admin": "Île-de-France",
+    "sort": "10478"
+  },
+  {
+    "city": "Grigny",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "9675"
+  },
+  {
+    "city": "La Chapelle-Saint-Mesmin",
+    "admin": "Centre-Val de Loire",
+    "sort": "10205"
+  },
+  {
+    "city": "Tarare",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10587"
+  },
+  {
+    "city": "Passy",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "11203"
+  },
+  {
+    "city": "Dammartin-en-Goële",
+    "admin": "Île-de-France",
+    "sort": "10196"
+  },
+  {
+    "city": "Chantepie",
+    "admin": "Bretagne",
+    "sort": "10458"
+  },
+  {
+    "city": "Villerupt",
+    "admin": "Grand Est",
+    "sort": "9827"
+  },
+  {
+    "city": "Vieux-Condé",
+    "admin": "Hauts-de-France",
+    "sort": "10374"
+  },
+  {
+    "city": "Le Pradet",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "10265"
+  },
+  {
+    "city": "Montlouis-sur-Loire",
+    "admin": "Centre-Val de Loire",
+    "sort": "10825"
+  },
+  {
+    "city": "Saint-Jean-de-Védas",
+    "admin": "Occitanie",
+    "sort": "10452"
+  },
+  {
+    "city": "Beaumont-sur-Oise",
+    "admin": "Île-de-France",
+    "sort": "9555"
+  },
+  {
+    "city": "Apt",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "11011"
+  },
+  {
+    "city": "Le Luc",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "11008"
+  },
+  {
+    "city": "Vire",
+    "admin": "Normandie",
+    "sort": "10762"
+  },
+  {
+    "city": "Jeumont",
+    "admin": "Hauts-de-France",
+    "sort": "10229"
+  },
+  {
+    "city": "Cabestany",
+    "admin": "Occitanie",
+    "sort": "10235"
+  },
+  {
+    "city": "Bondoufle",
+    "admin": "Île-de-France",
+    "sort": "9765"
+  },
+  {
+    "city": "Héricourt",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "10654"
+  },
+  {
+    "city": "Buxerolles",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "10042"
+  },
+  {
+    "city": "Leers",
+    "admin": "Hauts-de-France",
+    "sort": "9400"
+  },
+  {
+    "city": "Parthenay",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "10235"
+  },
+  {
+    "city": "Biganos",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "10921"
+  },
+  {
+    "city": "Tournon-sur-Rhône",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10598"
+  },
+  {
+    "city": "Marly",
+    "admin": "Grand Est",
+    "sort": "10160"
+  },
+  {
+    "city": "Guilherand",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10760"
+  },
+  {
+    "city": "Thouaré-sur-Loire",
+    "admin": "Pays de la Loire",
+    "sort": "10261"
+  },
+  {
+    "city": "Marck",
+    "admin": "Hauts-de-France",
+    "sort": "10649"
+  },
+  {
+    "city": "Mondeville",
+    "admin": "Normandie",
+    "sort": "9893"
+  },
+  {
+    "city": "Saint-Laurent-de-la-Salanque",
+    "admin": "Occitanie",
+    "sort": "10158"
+  },
+  {
+    "city": "Chambly",
+    "admin": "Hauts-de-France",
+    "sort": "10174"
+  },
+  {
+    "city": "Pontchâteau",
+    "admin": "Pays de la Loire",
+    "sort": "10771"
+  },
+  {
+    "city": "Pont-Saint-Esprit",
+    "admin": "Occitanie",
+    "sort": "10397"
+  },
+  {
+    "city": "Gerzat",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10315"
+  },
+  {
+    "city": "Pélissanne",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "10404"
+  },
+  {
+    "city": "Villers-Cotterêts",
+    "admin": "Hauts-de-France",
+    "sort": "10676"
+  },
+  {
+    "city": "Hagondange",
+    "admin": "Grand Est",
+    "sort": "9243"
+  },
+  {
+    "city": "Erstein",
+    "admin": "Grand Est",
+    "sort": "10621"
+  },
+  {
+    "city": "Ville-la-Grand",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8926"
+  },
+  {
+    "city": "Le Crès",
+    "admin": "Occitanie",
+    "sort": "9316"
+  },
+  {
+    "city": "Feyzin",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "9879"
+  },
+  {
+    "city": "Dourdan",
+    "admin": "Île-de-France",
+    "sort": "10559"
+  },
+  {
+    "city": "Serris",
+    "admin": "Île-de-France",
+    "sort": "9236"
+  },
+  {
+    "city": "Lavaur",
+    "admin": "Occitanie",
+    "sort": "10671"
+  },
+  {
+    "city": "Fontaine-lès-Dijon",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "8844"
+  },
+  {
+    "city": "Méry-sur-Oise",
+    "admin": "Île-de-France",
+    "sort": "9900"
+  },
+  {
+    "city": "Le Taillan-Médoc",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "10118"
+  },
+  {
+    "city": "Oloron-Sainte-Marie",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "10629"
+  },
+  {
+    "city": "Magny-le-Hongre",
+    "admin": "Île-de-France",
+    "sort": "8876"
+  },
+  {
+    "city": "Wittelsheim",
+    "admin": "Grand Est",
+    "sort": "10341"
+  },
+  {
+    "city": "Octeville",
+    "admin": "Normandie",
+    "sort": "9465"
+  },
+  {
+    "city": "Quincy-sous-Sénart",
+    "admin": "Île-de-France",
+    "sort": "9018"
+  },
+  {
+    "city": "Orthez",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "10515"
+  },
+  {
+    "city": "Bourg-de-Péage",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10007"
+  },
+  {
+    "city": "Bondues",
+    "admin": "Hauts-de-France",
+    "sort": "9961"
+  },
+  {
+    "city": "Léognan",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "10471"
+  },
+  {
+    "city": "Gignac-la-Nerthe",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9606"
+  },
+  {
+    "city": "Fondettes",
+    "admin": "Centre-Val de Loire",
+    "sort": "10357"
+  },
+  {
+    "city": "Rombas",
+    "admin": "Grand Est",
+    "sort": "9833"
+  },
+  {
+    "city": "La Trinité",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9985"
+  },
+  {
+    "city": "Trets",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "10500"
+  },
+  {
+    "city": "Mouans-Sartoux",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9911"
+  },
+  {
+    "city": "Urrugne",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "10432"
+  },
+  {
+    "city": "Villeneuve-lès-Maguelone",
+    "admin": "Occitanie",
+    "sort": "10178"
+  },
+  {
+    "city": "Escaudain",
+    "admin": "Hauts-de-France",
+    "sort": "9645"
+  },
+  {
+    "city": "Saint-Gély-du-Fesc",
+    "admin": "Occitanie",
+    "sort": "9996"
+  },
+  {
+    "city": "Dombasle-sur-Meurthe",
+    "admin": "Grand Est",
+    "sort": "9694"
+  },
+  {
+    "city": "Argelès-sur-Mer",
+    "admin": "Occitanie",
+    "sort": "10366"
+  },
+  {
+    "city": "La Ferté-sous-Jouarre",
+    "admin": "Île-de-France",
+    "sort": "9586"
+  },
+  {
+    "city": "Albert",
+    "admin": "Hauts-de-France",
+    "sort": "9810"
+  },
+  {
+    "city": "La Londe-les-Maures",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "10389"
+  },
+  {
+    "city": "Pérols",
+    "admin": "Occitanie",
+    "sort": "9000"
+  },
+  {
+    "city": "Fuveau",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "10157"
+  },
+  {
+    "city": "Mios",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "10398"
+  },
+  {
+    "city": "La Farlède",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9348"
+  },
+  {
+    "city": "Tomblaine",
+    "admin": "Grand Est",
+    "sort": "8872"
+  },
+  {
+    "city": "Miribel",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "10043"
+  },
+  {
+    "city": "Limoux",
+    "admin": "Occitanie",
+    "sort": "10112"
+  },
+  {
+    "city": "Portet-sur-Garonne",
+    "admin": "Occitanie",
+    "sort": "9791"
+  },
+  {
+    "city": "Quétigny",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "9261"
+  },
+  {
+    "city": "Harfleur",
+    "admin": "Normandie",
+    "sort": "8395"
+  },
+  {
+    "city": "Roche-la-Molière",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "9825"
+  },
+  {
+    "city": "Biot",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9746"
+  },
+  {
+    "city": "Bernay",
+    "admin": "Normandie",
+    "sort": "9951"
+  },
+  {
+    "city": "Essey-lès-Nancy",
+    "admin": "Grand Est",
+    "sort": "8825"
+  },
+  {
+    "city": "Saint-Grégoire",
+    "admin": "Bretagne",
+    "sort": "9765"
+  },
+  {
+    "city": "Carmaux",
+    "admin": "Occitanie",
+    "sort": "9641"
+  },
+  {
+    "city": "Frouzins",
+    "admin": "Occitanie",
+    "sort": "9157"
+  },
+  {
+    "city": "Brumath",
+    "admin": "Grand Est",
+    "sort": "9970"
+  },
+  {
+    "city": "Soyaux",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "9553"
+  },
+  {
+    "city": "Rouvroy",
+    "admin": "Hauts-de-France",
+    "sort": "8912"
+  },
+  {
+    "city": "Grand-Couronne",
+    "admin": "Normandie",
+    "sort": "9716"
+  },
+  {
+    "city": "Lillers",
+    "admin": "Hauts-de-France",
+    "sort": "9910"
+  },
+  {
+    "city": "Vétraz-Monthoux",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8969"
+  },
+  {
+    "city": "Wingles",
+    "admin": "Hauts-de-France",
+    "sort": "8754"
+  },
+  {
+    "city": "Pithiviers",
+    "admin": "Centre-Val de Loire",
+    "sort": "8935"
+  },
+  {
+    "city": "Launaguet",
+    "admin": "Occitanie",
+    "sort": "8942"
+  },
+  {
+    "city": "Carqueiranne",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9555"
+  },
+  {
+    "city": "Molsheim",
+    "admin": "Grand Est",
+    "sort": "9334"
+  },
+  {
+    "city": "Le Passage",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "9447"
+  },
+  {
+    "city": "Ouistreham",
+    "admin": "Normandie",
+    "sort": "9250"
+  },
+  {
+    "city": "Mazamet",
+    "admin": "Occitanie",
+    "sort": "10033"
+  },
+  {
+    "city": "Pernes-les-Fontaines",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9975"
+  },
+  {
+    "city": "Saint-Loubès",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "9770"
+  },
+  {
+    "city": "Auterive",
+    "admin": "Occitanie",
+    "sort": "9869"
+  },
+  {
+    "city": "Condé-sur-l’Escaut",
+    "admin": "Hauts-de-France",
+    "sort": "9586"
+  },
+  {
+    "city": "Cabriès",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9834"
+  },
+  {
+    "city": "Lescar",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "9735"
+  },
+  {
+    "city": "Arques",
+    "admin": "Hauts-de-France",
+    "sort": "9654"
+  },
+  {
+    "city": "Divonne-les-Bains",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "9787"
+  },
+  {
+    "city": "Aire-sur-la-Lys",
+    "admin": "Hauts-de-France",
+    "sort": "9772"
+  },
+  {
+    "city": "Le Beausset",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9790"
+  },
+  {
+    "city": "Figeac",
+    "admin": "Occitanie",
+    "sort": "9778"
+  },
+  {
+    "city": "Nogent-le-Rotrou",
+    "admin": "Centre-Val de Loire",
+    "sort": "9610"
+  },
+  {
+    "city": "Saint-Amand-Montrond",
+    "admin": "Centre-Val de Loire",
+    "sort": "9531"
+  },
+  {
+    "city": "Saint-Pierre-du-Mont",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "9625"
+  },
+  {
+    "city": "Mont-Saint-Martin",
+    "admin": "Grand Est",
+    "sort": "8953"
+  },
+  {
+    "city": "Blain",
+    "admin": "Pays de la Loire",
+    "sort": "9873"
+  },
+  {
+    "city": "Fouesnant",
+    "admin": "Bretagne",
+    "sort": "9668"
+  },
+  {
+    "city": "Saint-Jean-le-Blanc",
+    "admin": "Centre-Val de Loire",
+    "sort": "8810"
+  },
+  {
+    "city": "Aytré",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "9205"
+  },
+  {
+    "city": "Ploërmel",
+    "admin": "Bretagne",
+    "sort": "9787"
+  },
+  {
+    "city": "Merville",
+    "admin": "Hauts-de-France",
+    "sort": "9598"
+  },
+  {
+    "city": "Lambesc",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9799"
+  },
+  {
+    "city": "Boucau",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8489"
+  },
+  {
+    "city": "Saint-Doulchard",
+    "admin": "Centre-Val de Loire",
+    "sort": "9549"
+  },
+  {
+    "city": "Foix",
+    "admin": "Occitanie",
+    "sort": "9452"
+  },
+  {
+    "city": "Saint-Rémy-de-Provence",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9829"
+  },
+  {
+    "city": "Saint-Lys",
+    "admin": "Occitanie",
+    "sort": "9488"
+  },
+  {
+    "city": "Pia",
+    "admin": "Occitanie",
+    "sort": "9228"
+  },
+  {
+    "city": "Cosne sur Loire",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "9741"
+  },
+  {
+    "city": "Magny-les-Hameaux",
+    "admin": "Île-de-France",
+    "sort": "9337"
+  },
+  {
+    "city": "Beuvry",
+    "admin": "Hauts-de-France",
+    "sort": "9331"
+  },
+  {
+    "city": "Revel",
+    "admin": "Occitanie",
+    "sort": "9610"
+  },
+  {
+    "city": "Luçon",
+    "admin": "Pays de la Loire",
+    "sort": "9576"
+  },
+  {
+    "city": "Pierrelaye",
+    "admin": "Île-de-France",
+    "sort": "8908"
+  },
+  {
+    "city": "La Salvetat-Saint-Gilles",
+    "admin": "Occitanie",
+    "sort": "8397"
+  },
+  {
+    "city": "La Tour-du-Pin",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8137"
+  },
+  {
+    "city": "Veauche",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8976"
+  },
+  {
+    "city": "Artigues-près-Bordeaux",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8648"
+  },
+  {
+    "city": "Saint-Barthélemy-d’Anjou",
+    "admin": "Pays de la Loire",
+    "sort": "9203"
+  },
+  {
+    "city": "Aizenay",
+    "admin": "Pays de la Loire",
+    "sort": "9694"
+  },
+  {
+    "city": "Margny-lès-Compiègne",
+    "admin": "Hauts-de-France",
+    "sort": "8521"
+  },
+  {
+    "city": "Treillières",
+    "admin": "Pays de la Loire",
+    "sort": "9459"
+  },
+  {
+    "city": "Souffelweyersheim",
+    "admin": "Grand Est",
+    "sort": "8005"
+  },
+  {
+    "city": "Aulnoye-Aymeries",
+    "admin": "Hauts-de-France",
+    "sort": "8767"
+  },
+  {
+    "city": "Marspich",
+    "admin": "Grand Est",
+    "sort": "8497"
+  },
+  {
+    "city": "Redon",
+    "admin": "Bretagne",
+    "sort": "9151"
+  },
+  {
+    "city": "Basse-Goulaine",
+    "admin": "Pays de la Loire",
+    "sort": "9093"
+  },
+  {
+    "city": "Ussel",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "9555"
+  },
+  {
+    "city": "La Ravoire",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8494"
+  },
+  {
+    "city": "Ingré",
+    "admin": "Centre-Val de Loire",
+    "sort": "9284"
+  },
+  {
+    "city": "Loudéac",
+    "admin": "Bretagne",
+    "sort": "9600"
+  },
+  {
+    "city": "Léguevin",
+    "admin": "Occitanie",
+    "sort": "9328"
+  },
+  {
+    "city": "Saint-Aubin-lès-Elbeuf",
+    "admin": "Normandie",
+    "sort": "8277"
+  },
+  {
+    "city": "Seysses",
+    "admin": "Occitanie",
+    "sort": "9322"
+  },
+  {
+    "city": "Joigny",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "9479"
+  },
+  {
+    "city": "Irigny",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8695"
+  },
+  {
+    "city": "Lesquin",
+    "admin": "Hauts-de-France",
+    "sort": "8635"
+  },
+  {
+    "city": "Couzeix",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "9349"
+  },
+  {
+    "city": "Scionzier",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8808"
+  },
+  {
+    "city": "Golbey",
+    "admin": "Grand Est",
+    "sort": "8714"
+  },
+  {
+    "city": "Landivisiau",
+    "admin": "Bretagne",
+    "sort": "9142"
+  },
+  {
+    "city": "Saint-Sulpice-la-Pointe",
+    "admin": "Occitanie",
+    "sort": "9227"
+  },
+  {
+    "city": "Saint-Pierre-lès-Elbeuf",
+    "admin": "Normandie",
+    "sort": "8305"
+  },
+  {
+    "city": "Libercourt",
+    "admin": "Hauts-de-France",
+    "sort": "8337"
+  },
+  {
+    "city": "Cébazat",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8727"
+  },
+  {
+    "city": "Breuillet",
+    "admin": "Île-de-France",
+    "sort": "8347"
+  },
+  {
+    "city": "Valréas",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9426"
+  },
+  {
+    "city": "La Grande-Motte",
+    "admin": "Occitanie",
+    "sort": "8755"
+  },
+  {
+    "city": "Paray-le-Monial",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "9209"
+  },
+  {
+    "city": "Voreppe",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "9229"
+  },
+  {
+    "city": "Orchies",
+    "admin": "Hauts-de-France",
+    "sort": "8736"
+  },
+  {
+    "city": "Coulaines",
+    "admin": "Pays de la Loire",
+    "sort": "7600"
+  },
+  {
+    "city": "Elne",
+    "admin": "Occitanie",
+    "sort": "9103"
+  },
+  {
+    "city": "Belley",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "9122"
+  },
+  {
+    "city": "Gonfreville-l’Orcher",
+    "admin": "Normandie",
+    "sort": "9162"
+  },
+  {
+    "city": "Onnaing",
+    "admin": "Hauts-de-France",
+    "sort": "8813"
+  },
+  {
+    "city": "Le Mesnil-Esnard",
+    "admin": "Normandie",
+    "sort": "7927"
+  },
+  {
+    "city": "Larmor-Plage",
+    "admin": "Bretagne",
+    "sort": "8327"
+  },
+  {
+    "city": "La Chapelle d’Armentières",
+    "admin": "Hauts-de-France",
+    "sort": "8627"
+  },
+  {
+    "city": "Lillebonne",
+    "admin": "Normandie",
+    "sort": "8845"
+  },
+  {
+    "city": "La Ferté-Bernard",
+    "admin": "Pays de la Loire",
+    "sort": "8852"
+  },
+  {
+    "city": "Le Muy",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9281"
+  },
+  {
+    "city": "Gouvieux",
+    "admin": "Hauts-de-France",
+    "sort": "9023"
+  },
+  {
+    "city": "Lamorlaye",
+    "admin": "Hauts-de-France",
+    "sort": "8823"
+  },
+  {
+    "city": "Séné",
+    "admin": "Bretagne",
+    "sort": "8946"
+  },
+  {
+    "city": "Morières-lès-Avignon",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8563"
+  },
+  {
+    "city": "Unieux",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8408"
+  },
+  {
+    "city": "Le Rheu",
+    "admin": "Bretagne",
+    "sort": "8914"
+  },
+  {
+    "city": "Bandol",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8404"
+  },
+  {
+    "city": "Livron-sur-Drôme",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "9149"
+  },
+  {
+    "city": "Parempuyre",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8963"
+  },
+  {
+    "city": "Périgny",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8575"
+  },
+  {
+    "city": "Tonneins",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "9107"
+  },
+  {
+    "city": "Les Sorinières",
+    "admin": "Pays de la Loire",
+    "sort": "8694"
+  },
+  {
+    "city": "Cappelle-la-Grande",
+    "admin": "Hauts-de-France",
+    "sort": "7909"
+  },
+  {
+    "city": "Isbergues",
+    "admin": "Hauts-de-France",
+    "sort": "8745"
+  },
+  {
+    "city": "Pont-Audemer",
+    "admin": "Normandie",
+    "sort": "8442"
+  },
+  {
+    "city": "Vendin-le-Vieil",
+    "admin": "Hauts-de-France",
+    "sort": "8543"
+  },
+  {
+    "city": "Villars",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7952"
+  },
+  {
+    "city": "Courcelles-les-Lens",
+    "admin": "Hauts-de-France",
+    "sort": "7918"
+  },
+  {
+    "city": "Vallet",
+    "admin": "Pays de la Loire",
+    "sort": "9182"
+  },
+  {
+    "city": "Le Petit-Couronne",
+    "admin": "Normandie",
+    "sort": "8655"
+  },
+  {
+    "city": "Chaponost",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8790"
+  },
+  {
+    "city": "Capbreton",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8892"
+  },
+  {
+    "city": "Dardilly",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8675"
+  },
+  {
+    "city": "La Fare-les-Oliviers",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8666"
+  },
+  {
+    "city": "Le Thor",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8996"
+  },
+  {
+    "city": "Clermont-l’Hérault",
+    "admin": "Occitanie",
+    "sort": "8962"
+  },
+  {
+    "city": "Lempdes",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8543"
+  },
+  {
+    "city": "Saint-Paul-Trois-Châteaux",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8836"
+  },
+  {
+    "city": "Saint-Claude",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "9103"
+  },
+  {
+    "city": "Roquevaire",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8858"
+  },
+  {
+    "city": "Savenay",
+    "admin": "Pays de la Loire",
+    "sort": "8872"
+  },
+  {
+    "city": "Longvic",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "8416"
+  },
+  {
+    "city": "Notre-Dame-de-Gravenchon",
+    "admin": "Normandie",
+    "sort": "8744"
+  },
+  {
+    "city": "Achicourt",
+    "admin": "Hauts-de-France",
+    "sort": "7878"
+  },
+  {
+    "city": "Malzéville",
+    "admin": "Grand Est",
+    "sort": "8123"
+  },
+  {
+    "city": "Gretz-Armainvilliers",
+    "admin": "Île-de-France",
+    "sort": "8566"
+  },
+  {
+    "city": "Chécy",
+    "admin": "Centre-Val de Loire",
+    "sort": "8636"
+  },
+  {
+    "city": "Roussillon",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8453"
+  },
+  {
+    "city": "Tournan-en-Brie",
+    "admin": "Île-de-France",
+    "sort": "8613"
+  },
+  {
+    "city": "Thorigné-Fouillard",
+    "admin": "Bretagne",
+    "sort": "8519"
+  },
+  {
+    "city": "Saint-Philbert-de-Grand-Lieu",
+    "admin": "Pays de la Loire",
+    "sort": "8991"
+  },
+  {
+    "city": "Lorgues",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "9001"
+  },
+  {
+    "city": "Waziers",
+    "admin": "Hauts-de-France",
+    "sort": "7427"
+  },
+  {
+    "city": "Nangis",
+    "admin": "Île-de-France",
+    "sort": "8775"
+  },
+  {
+    "city": "Grabels",
+    "admin": "Occitanie",
+    "sort": "8603"
+  },
+  {
+    "city": "Coutances",
+    "admin": "Normandie",
+    "sort": "8454"
+  },
+  {
+    "city": "Le Teil",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8796"
+  },
+  {
+    "city": "Émerainville",
+    "admin": "Île-de-France",
+    "sort": "7689"
+  },
+  {
+    "city": "Bellerive-sur-Allier",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8638"
+  },
+  {
+    "city": "Merlebach",
+    "admin": "Grand Est",
+    "sort": "7892"
+  },
+  {
+    "city": "Quéven",
+    "admin": "Bretagne",
+    "sort": "8725"
+  },
+  {
+    "city": "L’Isle-Jourdain",
+    "admin": "Occitanie",
+    "sort": "8961"
+  },
+  {
+    "city": "Grenade",
+    "admin": "Occitanie",
+    "sort": "8841"
+  },
+  {
+    "city": "Lançon-Provence",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8947"
+  },
+  {
+    "city": "Hirson",
+    "admin": "Hauts-de-France",
+    "sort": "8800"
+  },
+  {
+    "city": "Rivesaltes",
+    "admin": "Occitanie",
+    "sort": "8756"
+  },
+  {
+    "city": "Nort-sur-Erdre",
+    "admin": "Pays de la Loire",
+    "sort": "8925"
+  },
+  {
+    "city": "Thaon-les-Vosges",
+    "admin": "Grand Est",
+    "sort": "8748"
+  },
+  {
+    "city": "Privas",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8363"
+  },
+  {
+    "city": "Entraigues-sur-la-Sorgue",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8534"
+  },
+  {
+    "city": "Linselles",
+    "admin": "Hauts-de-France",
+    "sort": "8329"
+  },
+  {
+    "city": "Monistrol-sur-Loire",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8854"
+  },
+  {
+    "city": "Trégueux",
+    "admin": "Bretagne",
+    "sort": "8447"
+  },
+  {
+    "city": "La Ricamarie",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7889"
+  },
+  {
+    "city": "Peymeinade",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8173"
+  },
+  {
+    "city": "Saint-Germain-lès-Corbeil",
+    "admin": "Île-de-France",
+    "sort": "7484"
+  },
+  {
+    "city": "Crest",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8629"
+  },
+  {
+    "city": "Domérat",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8742"
+  },
+  {
+    "city": "Belleville",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8198"
+  },
+  {
+    "city": "Sarlat-la-Canéda",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8793"
+  },
+  {
+    "city": "Terville",
+    "admin": "Grand Est",
+    "sort": "7120"
+  },
+  {
+    "city": "Marguerittes",
+    "admin": "Occitanie",
+    "sort": "8635"
+  },
+  {
+    "city": "Noisy-le-Roi",
+    "admin": "Île-de-France",
+    "sort": "7577"
+  },
+  {
+    "city": "Saint-Vallier",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "8616"
+  },
+  {
+    "city": "Borgo",
+    "admin": "Corsica",
+    "sort": "8739"
+  },
+  {
+    "city": "Velaux",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8616"
+  },
+  {
+    "city": "Châteaugiron",
+    "admin": "Bretagne",
+    "sort": "8028"
+  },
+  {
+    "city": "Neuville-sur-Saône",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7560"
+  },
+  {
+    "city": "Sautron",
+    "admin": "Pays de la Loire",
+    "sort": "8451"
+  },
+  {
+    "city": "Jouy-en-Josas",
+    "admin": "Île-de-France",
+    "sort": "8124"
+  },
+  {
+    "city": "Saint-Chamas",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8593"
+  },
+  {
+    "city": "Vif",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8580"
+  },
+  {
+    "city": "Vaujours",
+    "admin": "Île-de-France",
+    "sort": "7003"
+  },
+  {
+    "city": "Guichen",
+    "admin": "Bretagne",
+    "sort": "8646"
+  },
+  {
+    "city": "Pibrac",
+    "admin": "Occitanie",
+    "sort": "8517"
+  },
+  {
+    "city": "Crolles",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8260"
+  },
+  {
+    "city": "Coutras",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8582"
+  },
+  {
+    "city": "Barlin",
+    "admin": "Hauts-de-France",
+    "sort": "7603"
+  },
+  {
+    "city": "Chartres-de-Bretagne",
+    "admin": "Bretagne",
+    "sort": "8023"
+  },
+  {
+    "city": "Poisy",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8109"
+  },
+  {
+    "city": "Mazingarbe",
+    "admin": "Hauts-de-France",
+    "sort": "8036"
+  },
+  {
+    "city": "Venelles",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8406"
+  },
+  {
+    "city": "Saint-Jean-de-Monts",
+    "admin": "Pays de la Loire",
+    "sort": "8668"
+  },
+  {
+    "city": "Saint-Marcellin",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7791"
+  },
+  {
+    "city": "Jacou",
+    "admin": "Occitanie",
+    "sort": "6800"
+  },
+  {
+    "city": "Les Angles",
+    "admin": "Occitanie",
+    "sort": "8311"
+  },
+  {
+    "city": "Jarny",
+    "admin": "Grand Est",
+    "sort": "8245"
+  },
+  {
+    "city": "Falaise",
+    "admin": "Normandie",
+    "sort": "8086"
+  },
+  {
+    "city": "Pont-l’Abbé",
+    "admin": "Bretagne",
+    "sort": "8310"
+  },
+  {
+    "city": "Seyssins",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7783"
+  },
+  {
+    "city": "Uzès",
+    "admin": "Occitanie",
+    "sort": "8420"
+  },
+  {
+    "city": "Saint-Jean-d’Illac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8678"
+  },
+  {
+    "city": "Saint-Renan",
+    "admin": "Bretagne",
+    "sort": "8122"
+  },
+  {
+    "city": "Paray-Vieille-Poste",
+    "admin": "Île-de-France",
+    "sort": "7503"
+  },
+  {
+    "city": "Chamonix-Mont-Blanc",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8648"
+  },
+  {
+    "city": "Baillargues",
+    "admin": "Occitanie",
+    "sort": "7708"
+  },
+  {
+    "city": "Bessancourt",
+    "admin": "Île-de-France",
+    "sort": "7528"
+  },
+  {
+    "city": "Pégomas",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "7992"
+  },
+  {
+    "city": "La Colle-sur-Loup",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "7887"
+  },
+  {
+    "city": "Aureilhan",
+    "admin": "Occitanie",
+    "sort": "7849"
+  },
+  {
+    "city": "Marcoussis",
+    "admin": "Île-de-France",
+    "sort": "8171"
+  },
+  {
+    "city": "Le Poiré-sur-Vie",
+    "admin": "Pays de la Loire",
+    "sort": "8530"
+  },
+  {
+    "city": "Plabennec",
+    "admin": "Bretagne",
+    "sort": "8465"
+  },
+  {
+    "city": "Langueux",
+    "admin": "Bretagne",
+    "sort": "7776"
+  },
+  {
+    "city": "Sarzeau",
+    "admin": "Bretagne",
+    "sort": "8487"
+  },
+  {
+    "city": "Saint-Rémy-lès-Chevreuse",
+    "admin": "Île-de-France",
+    "sort": "7810"
+  },
+  {
+    "city": "Le Grau-du-Roi",
+    "admin": "Occitanie",
+    "sort": "8457"
+  },
+  {
+    "city": "Mauléon",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8533"
+  },
+  {
+    "city": "Aigues-Mortes",
+    "admin": "Occitanie",
+    "sort": "8456"
+  },
+  {
+    "city": "Bompas",
+    "admin": "Occitanie",
+    "sort": "7310"
+  },
+  {
+    "city": "Feurs",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8252"
+  },
+  {
+    "city": "Saint-Maixent-l’École",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7209"
+  },
+  {
+    "city": "Port-Saint-Louis-du-Rhône",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8423"
+  },
+  {
+    "city": "Janzé",
+    "admin": "Bretagne",
+    "sort": "8329"
+  },
+  {
+    "city": "Ergué-Gabéric",
+    "admin": "Bretagne",
+    "sort": "8313"
+  },
+  {
+    "city": "Saint-Gilles-Croix-de-Vie",
+    "admin": "Pays de la Loire",
+    "sort": "7759"
+  },
+  {
+    "city": "Le Loroux-Bottereau",
+    "admin": "Pays de la Loire",
+    "sort": "8327"
+  },
+  {
+    "city": "Le Soler",
+    "admin": "Occitanie",
+    "sort": "7753"
+  },
+  {
+    "city": "Sorbiers",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7856"
+  },
+  {
+    "city": "Bouaye",
+    "admin": "Pays de la Loire",
+    "sort": "7914"
+  },
+  {
+    "city": "Trignac",
+    "admin": "Pays de la Loire",
+    "sort": "7926"
+  },
+  {
+    "city": "Carnoux-en-Provence",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6564"
+  },
+  {
+    "city": "Lure",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "8131"
+  },
+  {
+    "city": "L’Aigle",
+    "admin": "Normandie",
+    "sort": "8019"
+  },
+  {
+    "city": "Lège-Cap-Ferret",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8374"
+  },
+  {
+    "city": "Moyeuvre-Grande",
+    "admin": "Grand Est",
+    "sort": "7662"
+  },
+  {
+    "city": "Vern-sur-Seiche",
+    "admin": "Bretagne",
+    "sort": "8049"
+  },
+  {
+    "city": "Houplines",
+    "admin": "Hauts-de-France",
+    "sort": "7770"
+  },
+  {
+    "city": "Chantonnay",
+    "admin": "Pays de la Loire",
+    "sort": "8354"
+  },
+  {
+    "city": "Audenge",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8336"
+  },
+  {
+    "city": "Noyelles-sous-Lens",
+    "admin": "Hauts-de-France",
+    "sort": "6646"
+  },
+  {
+    "city": "Pézenas",
+    "admin": "Occitanie",
+    "sort": "8148"
+  },
+  {
+    "city": "Meximieux",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7848"
+  },
+  {
+    "city": "Liancourt",
+    "admin": "Hauts-de-France",
+    "sort": "6951"
+  },
+  {
+    "city": "Guilers",
+    "admin": "Bretagne",
+    "sort": "7987"
+  },
+  {
+    "city": "La Verpillière",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7305"
+  },
+  {
+    "city": "Villard-Bonnot",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7175"
+  },
+  {
+    "city": "Leforest",
+    "admin": "Hauts-de-France",
+    "sort": "7232"
+  },
+  {
+    "city": "La Bassée",
+    "admin": "Hauts-de-France",
+    "sort": "6545"
+  },
+  {
+    "city": "Champagnole",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "7989"
+  },
+  {
+    "city": "Châteauneuf-sur-Loire",
+    "admin": "Centre-Val de Loire",
+    "sort": "8176"
+  },
+  {
+    "city": "Saint-Nicolas-de-Port",
+    "admin": "Grand Est",
+    "sort": "7466"
+  },
+  {
+    "city": "Louveciennes",
+    "admin": "Île-de-France",
+    "sort": "7055"
+  },
+  {
+    "city": "Puget-sur-Argens",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8064"
+  },
+  {
+    "city": "Vert-Saint-Denis",
+    "admin": "Île-de-France",
+    "sort": "7874"
+  },
+  {
+    "city": "Ballan-Miré",
+    "admin": "Centre-Val de Loire",
+    "sort": "8052"
+  },
+  {
+    "city": "Gargenville",
+    "admin": "Île-de-France",
+    "sort": "7490"
+  },
+  {
+    "city": "Chinon",
+    "admin": "Centre-Val de Loire",
+    "sort": "8145"
+  },
+  {
+    "city": "Reignier",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "8033"
+  },
+  {
+    "city": "Saint-Jean-de-Maurienne",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7683"
+  },
+  {
+    "city": "Thann",
+    "admin": "Grand Est",
+    "sort": "7721"
+  },
+  {
+    "city": "Bailly-Romainvilliers",
+    "admin": "Île-de-France",
+    "sort": "7411"
+  },
+  {
+    "city": "L’Arbresle",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6418"
+  },
+  {
+    "city": "Saint-Apollinaire",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "7587"
+  },
+  {
+    "city": "Houdain",
+    "admin": "Hauts-de-France",
+    "sort": "7178"
+  },
+  {
+    "city": "Bormes-les-Mimosas",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "8223"
+  },
+  {
+    "city": "Le Teich",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8205"
+  },
+  {
+    "city": "Eckbolsheim",
+    "admin": "Grand Est",
+    "sort": "6986"
+  },
+  {
+    "city": "Wavrin",
+    "admin": "Hauts-de-France",
+    "sort": "7723"
+  },
+  {
+    "city": "Les Andelys",
+    "admin": "Normandie",
+    "sort": "8092"
+  },
+  {
+    "city": "Le Coteau",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6881"
+  },
+  {
+    "city": "Tonnay-Charente",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8048"
+  },
+  {
+    "city": "Auby",
+    "admin": "Hauts-de-France",
+    "sort": "7256"
+  },
+  {
+    "city": "Sausset-les-Pins",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "7640"
+  },
+  {
+    "city": "Ballancourt",
+    "admin": "Île-de-France",
+    "sort": "7595"
+  },
+  {
+    "city": "Courtry",
+    "admin": "Île-de-France",
+    "sort": "6658"
+  },
+  {
+    "city": "Biguglia",
+    "admin": "Corsica",
+    "sort": "7902"
+  },
+  {
+    "city": "La Penne-sur-Huveaune",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6446"
+  },
+  {
+    "city": "Romagnat",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7793"
+  },
+  {
+    "city": "Claix",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7921"
+  },
+  {
+    "city": "Le Mesnil-le-Roi",
+    "admin": "Île-de-France",
+    "sort": "6292"
+  },
+  {
+    "city": "Guénange",
+    "admin": "Grand Est",
+    "sort": "7341"
+  },
+  {
+    "city": "Donges",
+    "admin": "Pays de la Loire",
+    "sort": "8038"
+  },
+  {
+    "city": "Vineuil",
+    "admin": "Centre-Val de Loire",
+    "sort": "7845"
+  },
+  {
+    "city": "Éguilles",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "7957"
+  },
+  {
+    "city": "Beauzelle",
+    "admin": "Occitanie",
+    "sort": "6676"
+  },
+  {
+    "city": "Gleizé",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7470"
+  },
+  {
+    "city": "Thuir",
+    "admin": "Occitanie",
+    "sort": "7792"
+  },
+  {
+    "city": "Luisant",
+    "admin": "Centre-Val de Loire",
+    "sort": "6673"
+  },
+  {
+    "city": "Fresnes-sur-Escaut",
+    "admin": "Hauts-de-France",
+    "sort": "7532"
+  },
+  {
+    "city": "Isle",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7779"
+  },
+  {
+    "city": "Hettange-Grande",
+    "admin": "Grand Est",
+    "sort": "7689"
+  },
+  {
+    "city": "Charnay-lès-Mâcon",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "7559"
+  },
+  {
+    "city": "Neuves-Maisons",
+    "admin": "Grand Est",
+    "sort": "6653"
+  },
+  {
+    "city": "Bonsecours",
+    "admin": "Normandie",
+    "sort": "6429"
+  },
+  {
+    "city": "Soustons",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "8056"
+  },
+  {
+    "city": "Péronne",
+    "admin": "Hauts-de-France",
+    "sort": "7595"
+  },
+  {
+    "city": "Bassens",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7404"
+  },
+  {
+    "city": "Monts",
+    "admin": "Centre-Val de Loire",
+    "sort": "7835"
+  },
+  {
+    "city": "Remiremont",
+    "admin": "Grand Est",
+    "sort": "7691"
+  },
+  {
+    "city": "Saint-Affrique",
+    "admin": "Occitanie",
+    "sort": "8034"
+  },
+  {
+    "city": "Notre-Dame-de-Bondeville",
+    "admin": "Normandie",
+    "sort": "6990"
+  },
+  {
+    "city": "Wissous",
+    "admin": "Île-de-France",
+    "sort": "7301"
+  },
+  {
+    "city": "Saint-Julien-les-Villas",
+    "admin": "Grand Est",
+    "sort": "6801"
+  },
+  {
+    "city": "Trévoux",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6882"
+  },
+  {
+    "city": "Écouen",
+    "admin": "Île-de-France",
+    "sort": "7145"
+  },
+  {
+    "city": "Languidic",
+    "admin": "Bretagne",
+    "sort": "8010"
+  },
+  {
+    "city": "Soisy-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "7235"
+  },
+  {
+    "city": "Publier",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7264"
+  },
+  {
+    "city": "Saint-Priest-en-Jarez",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6092"
+  },
+  {
+    "city": "Montreuil-Juigné",
+    "admin": "Pays de la Loire",
+    "sort": "7521"
+  },
+  {
+    "city": "Beynes",
+    "admin": "Île-de-France",
+    "sort": "7651"
+  },
+  {
+    "city": "Moirans",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7675"
+  },
+  {
+    "city": "Uckange",
+    "admin": "Grand Est",
+    "sort": "6829"
+  },
+  {
+    "city": "Lisses",
+    "admin": "Île-de-France",
+    "sort": "7350"
+  },
+  {
+    "city": "Clisson",
+    "admin": "Pays de la Loire",
+    "sort": "7399"
+  },
+  {
+    "city": "Wintzenheim",
+    "admin": "Grand Est",
+    "sort": "7642"
+  },
+  {
+    "city": "Langres",
+    "admin": "Grand Est",
+    "sort": "7699"
+  },
+  {
+    "city": "Saint-Victoret",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6633"
+  },
+  {
+    "city": "Saint-Vincent-de-Tyrosse",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7669"
+  },
+  {
+    "city": "La Couronne",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7759"
+  },
+  {
+    "city": "Céret",
+    "admin": "Occitanie",
+    "sort": "7821"
+  },
+  {
+    "city": "Saint-Prix",
+    "admin": "Île-de-France",
+    "sort": "7123"
+  },
+  {
+    "city": "Lesneven",
+    "admin": "Bretagne",
+    "sort": "7306"
+  },
+  {
+    "city": "Lagord",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7130"
+  },
+  {
+    "city": "Digoin",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "7777"
+  },
+  {
+    "city": "Vizille",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7303"
+  },
+  {
+    "city": "Tullins",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7719"
+  },
+  {
+    "city": "Saint-Denis-en-Val",
+    "admin": "Centre-Val de Loire",
+    "sort": "7545"
+  },
+  {
+    "city": "La Montagne",
+    "admin": "Pays de la Loire",
+    "sort": "6261"
+  },
+  {
+    "city": "Domène",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6701"
+  },
+  {
+    "city": "Gières",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6956"
+  },
+  {
+    "city": "Geispolsheim",
+    "admin": "Grand Est",
+    "sort": "7605"
+  },
+  {
+    "city": "Cavalaire-sur-Mer",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "7499"
+  },
+  {
+    "city": "Fouquières-lès-Lens",
+    "admin": "Hauts-de-France",
+    "sort": "6399"
+  },
+  {
+    "city": "Gérardmer",
+    "admin": "Grand Est",
+    "sort": "7802"
+  },
+  {
+    "city": "Tignieu",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7385"
+  },
+  {
+    "city": "Saint-Péray",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7622"
+  },
+  {
+    "city": "Marseillan",
+    "admin": "Occitanie",
+    "sort": "7784"
+  },
+  {
+    "city": "Anse",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7443"
+  },
+  {
+    "city": "Malemort-sur-Corrèze",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7476"
+  },
+  {
+    "city": "Rethel",
+    "admin": "Grand Est",
+    "sort": "7522"
+  },
+  {
+    "city": "Ruelle-sur-Touvre",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7246"
+  },
+  {
+    "city": "Colombelles",
+    "admin": "Normandie",
+    "sort": "6941"
+  },
+  {
+    "city": "Nieppe",
+    "admin": "Hauts-de-France",
+    "sort": "7479"
+  },
+  {
+    "city": "Langon",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7374"
+  },
+  {
+    "city": "Toulouges",
+    "admin": "Occitanie",
+    "sort": "7036"
+  },
+  {
+    "city": "Doué-la-Fontaine",
+    "admin": "Pays de la Loire",
+    "sort": "7686"
+  },
+  {
+    "city": "Cormontreuil",
+    "admin": "Grand Est",
+    "sort": "6488"
+  },
+  {
+    "city": "Ancenis",
+    "admin": "Pays de la Loire",
+    "sort": "7510"
+  },
+  {
+    "city": "Liffré",
+    "admin": "Bretagne",
+    "sort": "7768"
+  },
+  {
+    "city": "Bouffémont",
+    "admin": "Île-de-France",
+    "sort": "6453"
+  },
+  {
+    "city": "Mably",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7641"
+  },
+  {
+    "city": "Lésigny",
+    "admin": "Île-de-France",
+    "sort": "7157"
+  },
+  {
+    "city": "Pontcharra",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7376"
+  },
+  {
+    "city": "Courdimanche",
+    "admin": "Île-de-France",
+    "sort": "6650"
+  },
+  {
+    "city": "La Talaudière",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6931"
+  },
+  {
+    "city": "Questembert",
+    "admin": "Bretagne",
+    "sort": "7723"
+  },
+  {
+    "city": "Talmont-Saint-Hilaire",
+    "admin": "Pays de la Loire",
+    "sort": "7748"
+  },
+  {
+    "city": "Saint-Yrieix-sur-Charente",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7327"
+  },
+  {
+    "city": "Contes",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "7429"
+  },
+  {
+    "city": "Coulounieix",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7458"
+  },
+  {
+    "city": "Saint-Benoît",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7266"
+  },
+  {
+    "city": "Déols",
+    "admin": "Centre-Val de Loire",
+    "sort": "7559"
+  },
+  {
+    "city": "Rochefort-du-Gard",
+    "admin": "Occitanie",
+    "sort": "7574"
+  },
+  {
+    "city": "Auxonne",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "7609"
+  },
+  {
+    "city": "Behren-lès-Forbach",
+    "admin": "Grand Est",
+    "sort": "6604"
+  },
+  {
+    "city": "Saint-Didier-au-Mont-d’Or",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6951"
+  },
+  {
+    "city": "Martignas-sur-Jalle",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7498"
+  },
+  {
+    "city": "Escalquens",
+    "admin": "Occitanie",
+    "sort": "6955"
+  },
+  {
+    "city": "Lodève",
+    "admin": "Occitanie",
+    "sort": "7459"
+  },
+  {
+    "city": "Beaugency",
+    "admin": "Centre-Val de Loire",
+    "sort": "7322"
+  },
+  {
+    "city": "Rosporden",
+    "admin": "Bretagne",
+    "sort": "7633"
+  },
+  {
+    "city": "Saint-Thibault-des-Vignes",
+    "admin": "Île-de-France",
+    "sort": "6400"
+  },
+  {
+    "city": "Villers-Saint-Paul",
+    "admin": "Hauts-de-France",
+    "sort": "6440"
+  },
+  {
+    "city": "Sisteron",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "7579"
+  },
+  {
+    "city": "Ensisheim",
+    "admin": "Grand Est",
+    "sort": "7522"
+  },
+  {
+    "city": "Pluvigner",
+    "admin": "Bretagne",
+    "sort": "7635"
+  },
+  {
+    "city": "Linas",
+    "admin": "Île-de-France",
+    "sort": "6813"
+  },
+  {
+    "city": "Aussonne",
+    "admin": "Occitanie",
+    "sort": "7187"
+  },
+  {
+    "city": "Quiévrechain",
+    "admin": "Hauts-de-France",
+    "sort": "6355"
+  },
+  {
+    "city": "Pignan",
+    "admin": "Occitanie",
+    "sort": "7341"
+  },
+  {
+    "city": "Migennes",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "7247"
+  },
+  {
+    "city": "Jassans-Riottier",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6356"
+  },
+  {
+    "city": "Wissembourg",
+    "admin": "Grand Est",
+    "sort": "7519"
+  },
+  {
+    "city": "Cognin",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6264"
+  },
+  {
+    "city": "Boulazac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7170"
+  },
+  {
+    "city": "Honfleur",
+    "admin": "Normandie",
+    "sort": "7138"
+  },
+  {
+    "city": "Balaruc-les-Bains",
+    "admin": "Occitanie",
+    "sort": "6867"
+  },
+  {
+    "city": "Beaupréau",
+    "admin": "Pays de la Loire",
+    "sort": "7449"
+  },
+  {
+    "city": "Homécourt",
+    "admin": "Grand Est",
+    "sort": "6248"
+  },
+  {
+    "city": "Égly",
+    "admin": "Île-de-France",
+    "sort": "6094"
+  },
+  {
+    "city": "Saint-Alban",
+    "admin": "Occitanie",
+    "sort": "6183"
+  },
+  {
+    "city": "Saint-Aubin-de-Médoc",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7415"
+  },
+  {
+    "city": "La Tronche",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6588"
+  },
+  {
+    "city": "Divion",
+    "admin": "Hauts-de-France",
+    "sort": "6977"
+  },
+  {
+    "city": "Mordelles",
+    "admin": "Bretagne",
+    "sort": "7356"
+  },
+  {
+    "city": "Saint-Berthevin",
+    "admin": "Pays de la Loire",
+    "sort": "7348"
+  },
+  {
+    "city": "Le Mesnil-Saint-Denis",
+    "admin": "Île-de-France",
+    "sort": "6814"
+  },
+  {
+    "city": "Petite-Rosselle",
+    "admin": "Grand Est",
+    "sort": "6322"
+  },
+  {
+    "city": "Barr",
+    "admin": "Grand Est",
+    "sort": "7219"
+  },
+  {
+    "city": "Gaillon",
+    "admin": "Normandie",
+    "sort": "6892"
+  },
+  {
+    "city": "Perros-Guirec",
+    "admin": "Bretagne",
+    "sort": "7065"
+  },
+  {
+    "city": "Saujon",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7146"
+  },
+  {
+    "city": "Magnanville",
+    "admin": "Île-de-France",
+    "sort": "6104"
+  },
+  {
+    "city": "Chauray",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7044"
+  },
+  {
+    "city": "Saint-André-de-la-Roche",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5577"
+  },
+  {
+    "city": "La Ferté-Saint-Aubin",
+    "admin": "Centre-Val de Loire",
+    "sort": "7437"
+  },
+  {
+    "city": "Longpont-sur-Orge",
+    "admin": "Île-de-France",
+    "sort": "6277"
+  },
+  {
+    "city": "Corte",
+    "admin": "Corsica",
+    "sort": "7468"
+  },
+  {
+    "city": "Saintry-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "5758"
+  },
+  {
+    "city": "Crozon",
+    "admin": "Bretagne",
+    "sort": "7415"
+  },
+  {
+    "city": "Saint-Ismier",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7026"
+  },
+  {
+    "city": "Saint-Juéry",
+    "admin": "Occitanie",
+    "sort": "6760"
+  },
+  {
+    "city": "Châteaubourg",
+    "admin": "Bretagne",
+    "sort": "7240"
+  },
+  {
+    "city": "Louvroil",
+    "admin": "Hauts-de-France",
+    "sort": "6405"
+  },
+  {
+    "city": "Paimpol",
+    "admin": "Bretagne",
+    "sort": "7178"
+  },
+  {
+    "city": "Le Péage-de-Roussillon",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6588"
+  },
+  {
+    "city": "Jurançon",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7098"
+  },
+  {
+    "city": "Bidart",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6892"
+  },
+  {
+    "city": "Bain-de-Bretagne",
+    "admin": "Bretagne",
+    "sort": "7331"
+  },
+  {
+    "city": "Pordic",
+    "admin": "Bretagne",
+    "sort": "7228"
+  },
+  {
+    "city": "Carhaix-Plouguer",
+    "admin": "Bretagne",
+    "sort": "7164"
+  },
+  {
+    "city": "Lagnieu",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7175"
+  },
+  {
+    "city": "Bellegarde",
+    "admin": "Occitanie",
+    "sort": "7273"
+  },
+  {
+    "city": "Audun-le-Tiche",
+    "admin": "Grand Est",
+    "sort": "6976"
+  },
+  {
+    "city": "Saint-Étienne-de-Montluc",
+    "admin": "Pays de la Loire",
+    "sort": "7300"
+  },
+  {
+    "city": "Cranves-Sales",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6902"
+  },
+  {
+    "city": "Auvers-sur-Oise",
+    "admin": "Île-de-France",
+    "sort": "6860"
+  },
+  {
+    "city": "Tain-l’Hermitage",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6131"
+  },
+  {
+    "city": "Loos-en-Gohelle",
+    "admin": "Hauts-de-France",
+    "sort": "6855"
+  },
+  {
+    "city": "Bétheny",
+    "admin": "Grand Est",
+    "sort": "7039"
+  },
+  {
+    "city": "Saint-Christol-lez-Alès",
+    "admin": "Occitanie",
+    "sort": "7042"
+  },
+  {
+    "city": "Morteau",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "6894"
+  },
+  {
+    "city": "Segré",
+    "admin": "Pays de la Loire",
+    "sort": "6938"
+  },
+  {
+    "city": "Fabrègues",
+    "admin": "Occitanie",
+    "sort": "7142"
+  },
+  {
+    "city": "Longueau",
+    "admin": "Hauts-de-France",
+    "sort": "5693"
+  },
+  {
+    "city": "Villemandeur",
+    "admin": "Centre-Val de Loire",
+    "sort": "6767"
+  },
+  {
+    "city": "Bourbourg",
+    "admin": "Hauts-de-France",
+    "sort": "7171"
+  },
+  {
+    "city": "Saint-Pierre",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6889"
+  },
+  {
+    "city": "Lallaing",
+    "admin": "Hauts-de-France",
+    "sort": "6297"
+  },
+  {
+    "city": "Saint-Julien-de-Concelles",
+    "admin": "Pays de la Loire",
+    "sort": "7123"
+  },
+  {
+    "city": "Chemillé",
+    "admin": "Pays de la Loire",
+    "sort": "7201"
+  },
+  {
+    "city": "Montoir-de-Bretagne",
+    "admin": "Pays de la Loire",
+    "sort": "7148"
+  },
+  {
+    "city": "Mourenx",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6341"
+  },
+  {
+    "city": "Cuincy",
+    "admin": "Hauts-de-France",
+    "sort": "6421"
+  },
+  {
+    "city": "La Gaude",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6816"
+  },
+  {
+    "city": "Yssingeaux",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7245"
+  },
+  {
+    "city": "Bourg-Saint-Andéol",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7167"
+  },
+  {
+    "city": "Menucourt",
+    "admin": "Île-de-France",
+    "sort": "5753"
+  },
+  {
+    "city": "Sérignan",
+    "admin": "Occitanie",
+    "sort": "7053"
+  },
+  {
+    "city": "Téteghem",
+    "admin": "Hauts-de-France",
+    "sort": "6926"
+  },
+  {
+    "city": "Soultz-Haut-Rhin",
+    "admin": "Grand Est",
+    "sort": "7058"
+  },
+  {
+    "city": "Saint-Bonnet-de-Mure",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6875"
+  },
+  {
+    "city": "Bourg-Saint-Maurice",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7252"
+  },
+  {
+    "city": "Cassis",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "7027"
+  },
+  {
+    "city": "Quesnoy-sur-Deûle",
+    "admin": "Hauts-de-France",
+    "sort": "6814"
+  },
+  {
+    "city": "Saint-Macaire-en-Mauges",
+    "admin": "Pays de la Loire",
+    "sort": "7028"
+  },
+  {
+    "city": "Salles",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7216"
+  },
+  {
+    "city": "Hasparren",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7173"
+  },
+  {
+    "city": "Valognes",
+    "admin": "Normandie",
+    "sort": "6827"
+  },
+  {
+    "city": "Sucé-sur-Erdre",
+    "admin": "Pays de la Loire",
+    "sort": "7087"
+  },
+  {
+    "city": "Othis",
+    "admin": "Île-de-France",
+    "sort": "6739"
+  },
+  {
+    "city": "Saint-Rémy",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "6617"
+  },
+  {
+    "city": "Saint-Jean-d’Angély",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6886"
+  },
+  {
+    "city": "Saint-Laurent-Blangy",
+    "admin": "Hauts-de-France",
+    "sort": "6575"
+  },
+  {
+    "city": "Saint-Just-sur-Loire",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6856"
+  },
+  {
+    "city": "Saint-Pathus",
+    "admin": "Île-de-France",
+    "sort": "6094"
+  },
+  {
+    "city": "Cornebarrieu",
+    "admin": "Occitanie",
+    "sort": "6862"
+  },
+  {
+    "city": "Feignies",
+    "admin": "Hauts-de-France",
+    "sort": "6854"
+  },
+  {
+    "city": "Faverges",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6943"
+  },
+  {
+    "city": "Rives",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6606"
+  },
+  {
+    "city": "Ugine",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "7076"
+  },
+  {
+    "city": "Mimizan",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7137"
+  },
+  {
+    "city": "Saint-Jean-Bonnefonds",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6627"
+  },
+  {
+    "city": "Gueugnon",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "6948"
+  },
+  {
+    "city": "Wimereux",
+    "admin": "Hauts-de-France",
+    "sort": "6356"
+  },
+  {
+    "city": "Trégunc",
+    "admin": "Bretagne",
+    "sort": "7039"
+  },
+  {
+    "city": "Puilboreau",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6369"
+  },
+  {
+    "city": "Brioude",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6681"
+  },
+  {
+    "city": "Montfort-sur-Meu",
+    "admin": "Bretagne",
+    "sort": "6691"
+  },
+  {
+    "city": "Les Arcs",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "7033"
+  },
+  {
+    "city": "Bagnères-de-Bigorre",
+    "admin": "Occitanie",
+    "sort": "7103"
+  },
+  {
+    "city": "Sénas",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6930"
+  },
+  {
+    "city": "Champagne-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "6292"
+  },
+  {
+    "city": "Lanton",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7098"
+  },
+  {
+    "city": "Le Perray-en-Yvelines",
+    "admin": "Île-de-France",
+    "sort": "6656"
+  },
+  {
+    "city": "Eu",
+    "admin": "Normandie",
+    "sort": "6771"
+  },
+  {
+    "city": "Saint-Mandrier-sur-Mer",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5979"
+  },
+  {
+    "city": "Pleurtuit",
+    "admin": "Bretagne",
+    "sort": "6910"
+  },
+  {
+    "city": "Sains-en-Gohelle",
+    "admin": "Hauts-de-France",
+    "sort": "6077"
+  },
+  {
+    "city": "Bouchemaine",
+    "admin": "Pays de la Loire",
+    "sort": "6796"
+  },
+  {
+    "city": "Saint-Rambert-d’Albon",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6641"
+  },
+  {
+    "city": "Manduel",
+    "admin": "Occitanie",
+    "sort": "6871"
+  },
+  {
+    "city": "Trélissac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6821"
+  },
+  {
+    "city": "Chauvigny",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "7045"
+  },
+  {
+    "city": "Étréchy",
+    "admin": "Île-de-France",
+    "sort": "6642"
+  },
+  {
+    "city": "Montluel",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6925"
+  },
+  {
+    "city": "Theix",
+    "admin": "Bretagne",
+    "sort": "6946"
+  },
+  {
+    "city": "Trith-Saint-Léger",
+    "admin": "Hauts-de-France",
+    "sort": "6189"
+  },
+  {
+    "city": "Ceyrat",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6390"
+  },
+  {
+    "city": "Itteville",
+    "admin": "Île-de-France",
+    "sort": "6537"
+  },
+  {
+    "city": "Frouard",
+    "admin": "Grand Est",
+    "sort": "6566"
+  },
+  {
+    "city": "Nyons",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6782"
+  },
+  {
+    "city": "Brunstatt",
+    "admin": "Grand Est",
+    "sort": "6405"
+  },
+  {
+    "city": "Rungis",
+    "admin": "Île-de-France",
+    "sort": "5705"
+  },
+  {
+    "city": "Laneuveville-devant-Nancy",
+    "admin": "Grand Est",
+    "sort": "6538"
+  },
+  {
+    "city": "Ciboure",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6220"
+  },
+  {
+    "city": "Saulx-les-Chartreux",
+    "admin": "Île-de-France",
+    "sort": "6240"
+  },
+  {
+    "city": "Sainte-Pazanne",
+    "admin": "Pays de la Loire",
+    "sort": "6889"
+  },
+  {
+    "city": "Caudan",
+    "admin": "Bretagne",
+    "sort": "6891"
+  },
+  {
+    "city": "Acigné",
+    "admin": "Bretagne",
+    "sort": "6814"
+  },
+  {
+    "city": "Chabeuil",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6869"
+  },
+  {
+    "city": "Mondelange",
+    "admin": "Grand Est",
+    "sort": "5655"
+  },
+  {
+    "city": "Les Essarts-le-Roi",
+    "admin": "Île-de-France",
+    "sort": "6688"
+  },
+  {
+    "city": "Nanteuil-lès-Meaux",
+    "admin": "Île-de-France",
+    "sort": "6218"
+  },
+  {
+    "city": "Surgères",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6797"
+  },
+  {
+    "city": "Algrange",
+    "admin": "Grand Est",
+    "sort": "6145"
+  },
+  {
+    "city": "Herbignac",
+    "admin": "Pays de la Loire",
+    "sort": "6930"
+  },
+  {
+    "city": "Eyguières",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6926"
+  },
+  {
+    "city": "Ustaritz",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6818"
+  },
+  {
+    "city": "Limours",
+    "admin": "Île-de-France",
+    "sort": "6558"
+  },
+  {
+    "city": "Grand-Charmont",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5754"
+  },
+  {
+    "city": "Melesse",
+    "admin": "Bretagne",
+    "sort": "6803"
+  },
+  {
+    "city": "Lutterbach",
+    "admin": "Grand Est",
+    "sort": "6279"
+  },
+  {
+    "city": "Épône",
+    "admin": "Île-de-France",
+    "sort": "6500"
+  },
+  {
+    "city": "Chessy",
+    "admin": "Île-de-France",
+    "sort": "5969"
+  },
+  {
+    "city": "Rosny-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "6658"
+  },
+  {
+    "city": "Luxeuil-les-Bains",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "6692"
+  },
+  {
+    "city": "Saint-Pée-sur-Nivelle",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6888"
+  },
+  {
+    "city": "Labenne",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6717"
+  },
+  {
+    "city": "Champigneulles",
+    "admin": "Grand Est",
+    "sort": "6708"
+  },
+  {
+    "city": "Vendargues",
+    "admin": "Occitanie",
+    "sort": "6287"
+  },
+  {
+    "city": "Caussade",
+    "admin": "Occitanie",
+    "sort": "6835"
+  },
+  {
+    "city": "Heillecourt",
+    "admin": "Grand Est",
+    "sort": "5473"
+  },
+  {
+    "city": "Givet",
+    "admin": "Grand Est",
+    "sort": "6610"
+  },
+  {
+    "city": "Le Pian-Médoc",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6739"
+  },
+  {
+    "city": "Nérac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6849"
+  },
+  {
+    "city": "Plédran",
+    "admin": "Bretagne",
+    "sort": "6753"
+  },
+  {
+    "city": "Roost-Warendin",
+    "admin": "Hauts-de-France",
+    "sort": "6089"
+  },
+  {
+    "city": "Thyez",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6289"
+  },
+  {
+    "city": "Ploeren",
+    "admin": "Bretagne",
+    "sort": "6601"
+  },
+  {
+    "city": "Canohès",
+    "admin": "Occitanie",
+    "sort": "6199"
+  },
+  {
+    "city": "Neufchâteau",
+    "admin": "Grand Est",
+    "sort": "6642"
+  },
+  {
+    "city": "Estaires",
+    "admin": "Hauts-de-France",
+    "sort": "6420"
+  },
+  {
+    "city": "Moëlan-sur-Mer",
+    "admin": "Bretagne",
+    "sort": "6765"
+  },
+  {
+    "city": "Cambo-les-Bains",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6609"
+  },
+  {
+    "city": "Chasse-sur-Rhône",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6128"
+  },
+  {
+    "city": "Orgeval",
+    "admin": "Île-de-France",
+    "sort": "6479"
+  },
+  {
+    "city": "Nandy",
+    "admin": "Île-de-France",
+    "sort": "6179"
+  },
+  {
+    "city": "Noyelles-Godault",
+    "admin": "Hauts-de-France",
+    "sort": "5828"
+  },
+  {
+    "city": "Loison-sous-Lens",
+    "admin": "Hauts-de-France",
+    "sort": "5379"
+  },
+  {
+    "city": "Loudun",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6740"
+  },
+  {
+    "city": "Sury-le-Comtal",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6612"
+  },
+  {
+    "city": "Saint-Pol-de-Léon",
+    "admin": "Bretagne",
+    "sort": "6603"
+  },
+  {
+    "city": "Ludres",
+    "admin": "Grand Est",
+    "sort": "6134"
+  },
+  {
+    "city": "Péronnas",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6509"
+  },
+  {
+    "city": "Saint-Alban-Leysse",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6146"
+  },
+  {
+    "city": "Labarthe-sur-Lèze",
+    "admin": "Occitanie",
+    "sort": "6275"
+  },
+  {
+    "city": "Brindas",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6315"
+  },
+  {
+    "city": "Beaufort-en-Vallée",
+    "admin": "Pays de la Loire",
+    "sort": "6682"
+  },
+  {
+    "city": "Montaigu",
+    "admin": "Pays de la Loire",
+    "sort": "5160"
+  },
+  {
+    "city": "Saint-Pierre-d’Oléron",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6683"
+  },
+  {
+    "city": "Meung-sur-Loire",
+    "admin": "Centre-Val de Loire",
+    "sort": "6527"
+  },
+  {
+    "city": "Mehun-sur-Yèvre",
+    "admin": "Centre-Val de Loire",
+    "sort": "6574"
+  },
+  {
+    "city": "Gigean",
+    "admin": "Occitanie",
+    "sort": "6450"
+  },
+  {
+    "city": "Loriol-sur-Drôme",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6605"
+  },
+  {
+    "city": "Annezin",
+    "admin": "Hauts-de-France",
+    "sort": "5871"
+  },
+  {
+    "city": "Saint-André-des-Eaux",
+    "admin": "Pays de la Loire",
+    "sort": "6558"
+  },
+  {
+    "city": "Oberhausbergen",
+    "admin": "Grand Est",
+    "sort": "5398"
+  },
+  {
+    "city": "Verneuil-sur-Avre",
+    "admin": "Normandie",
+    "sort": "6602"
+  },
+  {
+    "city": "Mutzig",
+    "admin": "Grand Est",
+    "sort": "6042"
+  },
+  {
+    "city": "Saint-Yrieix-la-Perche",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6729"
+  },
+  {
+    "city": "Brech",
+    "admin": "Bretagne",
+    "sort": "6631"
+  },
+  {
+    "city": "Kervignac",
+    "admin": "Bretagne",
+    "sort": "6622"
+  },
+  {
+    "city": "Malaunay",
+    "admin": "Normandie",
+    "sort": "6126"
+  },
+  {
+    "city": "Le Cendre",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5489"
+  },
+  {
+    "city": "Hersin-Coupigny",
+    "admin": "Hauts-de-France",
+    "sort": "6263"
+  },
+  {
+    "city": "Hombourg-Haut",
+    "admin": "Grand Est",
+    "sort": "6272"
+  },
+  {
+    "city": "Marles-les-Mines",
+    "admin": "Hauts-de-France",
+    "sort": "5561"
+  },
+  {
+    "city": "Blainville-sur-Orne",
+    "admin": "Normandie",
+    "sort": "5942"
+  },
+  {
+    "city": "Plouguerneau",
+    "admin": "Bretagne",
+    "sort": "6623"
+  },
+  {
+    "city": "Châtelaillon-Plage",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5871"
+  },
+  {
+    "city": "Grand-Fort-Philippe",
+    "admin": "Hauts-de-France",
+    "sort": "5121"
+  },
+  {
+    "city": "Avallon",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "6513"
+  },
+  {
+    "city": "Gémenos",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6551"
+  },
+  {
+    "city": "La Bouilladisse",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6254"
+  },
+  {
+    "city": "Vezin-le-Coquet",
+    "admin": "Bretagne",
+    "sort": "5987"
+  },
+  {
+    "city": "Horbourg",
+    "admin": "Grand Est",
+    "sort": "6101"
+  },
+  {
+    "city": "Saint-Florent-sur-Cher",
+    "admin": "Centre-Val de Loire",
+    "sort": "6457"
+  },
+  {
+    "city": "Ambert",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6634"
+  },
+  {
+    "city": "Saint-Girons",
+    "admin": "Occitanie",
+    "sort": "6408"
+  },
+  {
+    "city": "Changé",
+    "admin": "Pays de la Loire",
+    "sort": "6549"
+  },
+  {
+    "city": "Marange-Silvange",
+    "admin": "Grand Est",
+    "sort": "6319"
+  },
+  {
+    "city": "Bois-le-Roi",
+    "admin": "Île-de-France",
+    "sort": "5882"
+  },
+  {
+    "city": "Marignier",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6412"
+  },
+  {
+    "city": "Thônes",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6597"
+  },
+  {
+    "city": "Saint-Marcel-lès-Valence",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6302"
+  },
+  {
+    "city": "Calonne-Ricouart",
+    "admin": "Hauts-de-France",
+    "sort": "5520"
+  },
+  {
+    "city": "Saint-Marcel",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "6113"
+  },
+  {
+    "city": "Bouillargues",
+    "admin": "Occitanie",
+    "sort": "6305"
+  },
+  {
+    "city": "Pavilly",
+    "admin": "Normandie",
+    "sort": "6260"
+  },
+  {
+    "city": "Viriat",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6555"
+  },
+  {
+    "city": "Castelnau-d’Estrétefonds",
+    "admin": "Occitanie",
+    "sort": "6468"
+  },
+  {
+    "city": "Chalonnes-sur-Loire",
+    "admin": "Pays de la Loire",
+    "sort": "6527"
+  },
+  {
+    "city": "Villabé",
+    "admin": "Île-de-France",
+    "sort": "5491"
+  },
+  {
+    "city": "Corbie",
+    "admin": "Hauts-de-France",
+    "sort": "6307"
+  },
+  {
+    "city": "Louhans",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "6399"
+  },
+  {
+    "city": "Pecquencourt",
+    "admin": "Hauts-de-France",
+    "sort": "6050"
+  },
+  {
+    "city": "Gouesnou",
+    "admin": "Bretagne",
+    "sort": "6166"
+  },
+  {
+    "city": "Saint-Maurice-l’Exil",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6192"
+  },
+  {
+    "city": "Montauroux",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6479"
+  },
+  {
+    "city": "Sainte-Livrade-sur-Lot",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6458"
+  },
+  {
+    "city": "Montdidier",
+    "admin": "Hauts-de-France",
+    "sort": "6174"
+  },
+  {
+    "city": "Fegersheim",
+    "admin": "Grand Est",
+    "sort": "5736"
+  },
+  {
+    "city": "Douvaine",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6077"
+  },
+  {
+    "city": "Eaunes",
+    "admin": "Occitanie",
+    "sort": "6234"
+  },
+  {
+    "city": "Saint-Genest-Lerpt",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6159"
+  },
+  {
+    "city": "Châtenoy-le-Royal",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "6153"
+  },
+  {
+    "city": "Châtel-Guyon",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6195"
+  },
+  {
+    "city": "Flers-en-Escrebieux",
+    "admin": "Hauts-de-France",
+    "sort": "5816"
+  },
+  {
+    "city": "Gournay-en-Bray",
+    "admin": "Normandie",
+    "sort": "6051"
+  },
+  {
+    "city": "Le Palais-sur-Vienne",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6038"
+  },
+  {
+    "city": "Cadaujac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6217"
+  },
+  {
+    "city": "Grézieu-la-Varenne",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5838"
+  },
+  {
+    "city": "Prades",
+    "admin": "Occitanie",
+    "sort": "6063"
+  },
+  {
+    "city": "L’Hôpital",
+    "admin": "Grand Est",
+    "sort": "5290"
+  },
+  {
+    "city": "Veigné",
+    "admin": "Centre-Val de Loire",
+    "sort": "6372"
+  },
+  {
+    "city": "Labruguière",
+    "admin": "Occitanie",
+    "sort": "6502"
+  },
+  {
+    "city": "Saint-Pryvé-Saint-Mesmin",
+    "admin": "Centre-Val de Loire",
+    "sort": "5939"
+  },
+  {
+    "city": "Saint-Flour",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6365"
+  },
+  {
+    "city": "Templeuve",
+    "admin": "Hauts-de-France",
+    "sort": "6196"
+  },
+  {
+    "city": "Lavelanet",
+    "admin": "Occitanie",
+    "sort": "6099"
+  },
+  {
+    "city": "Buc",
+    "admin": "Île-de-France",
+    "sort": "5858"
+  },
+  {
+    "city": "Condom",
+    "admin": "Occitanie",
+    "sort": "6508"
+  },
+  {
+    "city": "Challes-les-Eaux",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5584"
+  },
+  {
+    "city": "Ploudalmézeau",
+    "admin": "Bretagne",
+    "sort": "6292"
+  },
+  {
+    "city": "Raon-l’Étape",
+    "admin": "Grand Est",
+    "sort": "6297"
+  },
+  {
+    "city": "Crégy-lès-Meaux",
+    "admin": "Île-de-France",
+    "sort": "5145"
+  },
+  {
+    "city": "Gignac",
+    "admin": "Occitanie",
+    "sort": "6340"
+  },
+  {
+    "city": "Bruguières",
+    "admin": "Occitanie",
+    "sort": "5890"
+  },
+  {
+    "city": "Montech",
+    "admin": "Occitanie",
+    "sort": "6406"
+  },
+  {
+    "city": "L’Isle-d’Espagnac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5592"
+  },
+  {
+    "city": "Beaurains",
+    "admin": "Hauts-de-France",
+    "sort": "5596"
+  },
+  {
+    "city": "Parentis-en-Born",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6466"
+  },
+  {
+    "city": "Castries",
+    "admin": "Occitanie",
+    "sort": "6250"
+  },
+  {
+    "city": "Lèves",
+    "admin": "Centre-Val de Loire",
+    "sort": "5743"
+  },
+  {
+    "city": "Jaunay-Clan",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6278"
+  },
+  {
+    "city": "Saint-Cyr-au-Mont-d’Or",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5721"
+  },
+  {
+    "city": "Dourges",
+    "admin": "Hauts-de-France",
+    "sort": "5935"
+  },
+  {
+    "city": "Laudun-l’Ardoise",
+    "admin": "Occitanie",
+    "sort": "6316"
+  },
+  {
+    "city": "Benfeld",
+    "admin": "Grand Est",
+    "sort": "5756"
+  },
+  {
+    "city": "Sciez",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6190"
+  },
+  {
+    "city": "Cournonterral",
+    "admin": "Occitanie",
+    "sort": "6270"
+  },
+  {
+    "city": "Saint-Jean-de-Boiseau",
+    "admin": "Pays de la Loire",
+    "sort": "5961"
+  },
+  {
+    "city": "Jonage",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5989"
+  },
+  {
+    "city": "Bon-Encontre",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6182"
+  },
+  {
+    "city": "Arès",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6349"
+  },
+  {
+    "city": "Pont-Saint-Martin",
+    "admin": "Pays de la Loire",
+    "sort": "6196"
+  },
+  {
+    "city": "Lentilly",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6137"
+  },
+  {
+    "city": "Marsillargues",
+    "admin": "Occitanie",
+    "sort": "6322"
+  },
+  {
+    "city": "Seloncourt",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5742"
+  },
+  {
+    "city": "Bauvin",
+    "admin": "Hauts-de-France",
+    "sort": "5131"
+  },
+  {
+    "city": "Loches",
+    "admin": "Centre-Val de Loire",
+    "sort": "6232"
+  },
+  {
+    "city": "Épernon",
+    "admin": "Centre-Val de Loire",
+    "sort": "5592"
+  },
+  {
+    "city": "Pont-Sainte-Marie",
+    "admin": "Grand Est",
+    "sort": "5161"
+  },
+  {
+    "city": "Commentry",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6159"
+  },
+  {
+    "city": "Marolles-en-Hurepoix",
+    "admin": "Île-de-France",
+    "sort": "5588"
+  },
+  {
+    "city": "Bréal-sous-Montfort",
+    "admin": "Bretagne",
+    "sort": "6262"
+  },
+  {
+    "city": "Saint-Just-en-Chaussée",
+    "admin": "Hauts-de-France",
+    "sort": "6033"
+  },
+  {
+    "city": "La Grand-Croix",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5168"
+  },
+  {
+    "city": "Wervicq-Sud",
+    "admin": "Hauts-de-France",
+    "sort": "5384"
+  },
+  {
+    "city": "Mer",
+    "admin": "Centre-Val de Loire",
+    "sort": "6205"
+  },
+  {
+    "city": "Malesherbes",
+    "admin": "Centre-Val de Loire",
+    "sort": "6089"
+  },
+  {
+    "city": "Mornant",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6050"
+  },
+  {
+    "city": "Machecoul",
+    "admin": "Pays de la Loire",
+    "sort": "6334"
+  },
+  {
+    "city": "Le Blanc",
+    "admin": "Centre-Val de Loire",
+    "sort": "6319"
+  },
+  {
+    "city": "Aussillon",
+    "admin": "Occitanie",
+    "sort": "5856"
+  },
+  {
+    "city": "Santes",
+    "admin": "Hauts-de-France",
+    "sort": "5668"
+  },
+  {
+    "city": "Embrun",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6236"
+  },
+  {
+    "city": "Lezoux",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6224"
+  },
+  {
+    "city": "Aurec-sur-Loire",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6127"
+  },
+  {
+    "city": "La Glacerie",
+    "admin": "Normandie",
+    "sort": "6070"
+  },
+  {
+    "city": "Bethoncourt",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5545"
+  },
+  {
+    "city": "Terrasson-Lavilledieu",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6234"
+  },
+  {
+    "city": "Fenain",
+    "admin": "Hauts-de-France",
+    "sort": "5448"
+  },
+  {
+    "city": "Le Barcarès",
+    "admin": "Occitanie",
+    "sort": "5885"
+  },
+  {
+    "city": "Valdoie",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5260"
+  },
+  {
+    "city": "Saint-Genis-les-Ollières",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5036"
+  },
+  {
+    "city": "Saint-Arnoult-en-Yvelines",
+    "admin": "Île-de-France",
+    "sort": "5910"
+  },
+  {
+    "city": "Villennes-sur-Seine",
+    "admin": "Île-de-France",
+    "sort": "5331"
+  },
+  {
+    "city": "Baud",
+    "admin": "Bretagne",
+    "sort": "6247"
+  },
+  {
+    "city": "Arpajon-sur-Cère",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6245"
+  },
+  {
+    "city": "Saint-Martin-le-Vinoux",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5799"
+  },
+  {
+    "city": "Saint-André-de-Sangonis",
+    "admin": "Occitanie",
+    "sort": "6063"
+  },
+  {
+    "city": "Grandchamps-des-Fontaines",
+    "admin": "Pays de la Loire",
+    "sort": "6182"
+  },
+  {
+    "city": "Feytiat",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6117"
+  },
+  {
+    "city": "Pulnoy",
+    "admin": "Grand Est",
+    "sort": "5020"
+  },
+  {
+    "city": "Charbonnières-les-Bains",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5119"
+  },
+  {
+    "city": "Saint-Quentin-Fallavier",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "6083"
+  },
+  {
+    "city": "Canéjan",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5860"
+  },
+  {
+    "city": "Migné",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6127"
+  },
+  {
+    "city": "Carry-le-Rouet",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5756"
+  },
+  {
+    "city": "Chambourcy",
+    "admin": "Île-de-France",
+    "sort": "5607"
+  },
+  {
+    "city": "Marly-la-Ville",
+    "admin": "Île-de-France",
+    "sort": "5657"
+  },
+  {
+    "city": "Loon-Plage",
+    "admin": "Hauts-de-France",
+    "sort": "6139"
+  },
+  {
+    "city": "Farébersviller",
+    "admin": "Grand Est",
+    "sort": "5509"
+  },
+  {
+    "city": "Saint-Denis-lès-Bourg",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5845"
+  },
+  {
+    "city": "Bonchamp-lès-Laval",
+    "admin": "Pays de la Loire",
+    "sort": "6087"
+  },
+  {
+    "city": "Jouars-Pontchartrain",
+    "admin": "Île-de-France",
+    "sort": "5715"
+  },
+  {
+    "city": "Changé",
+    "admin": "Pays de la Loire",
+    "sort": "6128"
+  },
+  {
+    "city": "Fronton",
+    "admin": "Occitanie",
+    "sort": "6166"
+  },
+  {
+    "city": "Mallemort",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6084"
+  },
+  {
+    "city": "Altkirch",
+    "admin": "Grand Est",
+    "sort": "5698"
+  },
+  {
+    "city": "Delle",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5678"
+  },
+  {
+    "city": "Mazan",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6127"
+  },
+  {
+    "city": "Nouzonville",
+    "admin": "Grand Est",
+    "sort": "5760"
+  },
+  {
+    "city": "Nogent-sur-Seine",
+    "admin": "Grand Est",
+    "sort": "5987"
+  },
+  {
+    "city": "Octeville-sur-Mer",
+    "admin": "Normandie",
+    "sort": "5987"
+  },
+  {
+    "city": "Mortagne-sur-Sèvre",
+    "admin": "Pays de la Loire",
+    "sort": "6000"
+  },
+  {
+    "city": "Plonéour-Lanvern",
+    "admin": "Bretagne",
+    "sort": "6147"
+  },
+  {
+    "city": "Saleilles",
+    "admin": "Occitanie",
+    "sort": "5391"
+  },
+  {
+    "city": "Elven",
+    "admin": "Bretagne",
+    "sort": "6173"
+  },
+  {
+    "city": "Noyal-sur-Vilaine",
+    "admin": "Bretagne",
+    "sort": "6070"
+  },
+  {
+    "city": "Mamers",
+    "admin": "Pays de la Loire",
+    "sort": "5231"
+  },
+  {
+    "city": "Guer",
+    "admin": "Bretagne",
+    "sort": "6141"
+  },
+  {
+    "city": "Plescop",
+    "admin": "Bretagne",
+    "sort": "5999"
+  },
+  {
+    "city": "Izon",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5878"
+  },
+  {
+    "city": "Héric",
+    "admin": "Pays de la Loire",
+    "sort": "6168"
+  },
+  {
+    "city": "Sainghin-en-Weppes",
+    "admin": "Hauts-de-France",
+    "sort": "5533"
+  },
+  {
+    "city": "Sarrians",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6088"
+  },
+  {
+    "city": "Blanzy",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "6097"
+  },
+  {
+    "city": "Dives-sur-Mer",
+    "admin": "Normandie",
+    "sort": "5411"
+  },
+  {
+    "city": "Nieul-sur-Mer",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5720"
+  },
+  {
+    "city": "Vernaison",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5001"
+  },
+  {
+    "city": "La Roquette-sur-Siagne",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5387"
+  },
+  {
+    "city": "La Ville-aux-Dames",
+    "admin": "Centre-Val de Loire",
+    "sort": "5542"
+  },
+  {
+    "city": "Marnaz",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5607"
+  },
+  {
+    "city": "Carentan",
+    "admin": "Normandie",
+    "sort": "5853"
+  },
+  {
+    "city": "Lardy",
+    "admin": "Île-de-France",
+    "sort": "5505"
+  },
+  {
+    "city": "Esvres",
+    "admin": "Centre-Val de Loire",
+    "sort": "6057"
+  },
+  {
+    "city": "Aire-sur-l’Adour",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "6119"
+  },
+  {
+    "city": "Trans-en-Provence",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5878"
+  },
+  {
+    "city": "Maule",
+    "admin": "Île-de-France",
+    "sort": "5878"
+  },
+  {
+    "city": "Saint-Zacharie",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5993"
+  },
+  {
+    "city": "Liverdun",
+    "admin": "Grand Est",
+    "sort": "5976"
+  },
+  {
+    "city": "Saint-Symphorien-d’Ozon",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5780"
+  },
+  {
+    "city": "Saint-Jory",
+    "admin": "Occitanie",
+    "sort": "5902"
+  },
+  {
+    "city": "La Primaube",
+    "admin": "Occitanie",
+    "sort": "5987"
+  },
+  {
+    "city": "Saint-Sébastien-de-Morsent",
+    "admin": "Normandie",
+    "sort": "5646"
+  },
+  {
+    "city": "Prades-le-Lez",
+    "admin": "Occitanie",
+    "sort": "5581"
+  },
+  {
+    "city": "Vigneux-de-Bretagne",
+    "admin": "Pays de la Loire",
+    "sort": "6097"
+  },
+  {
+    "city": "Vouneuil-sous-Biard",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5978"
+  },
+  {
+    "city": "Fontenilles",
+    "admin": "Occitanie",
+    "sort": "5914"
+  },
+  {
+    "city": "Seichamps",
+    "admin": "Grand Est",
+    "sort": "5030"
+  },
+  {
+    "city": "Ternay",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5514"
+  },
+  {
+    "city": "Revin",
+    "admin": "Grand Est",
+    "sort": "6038"
+  },
+  {
+    "city": "Thoiry",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5981"
+  },
+  {
+    "city": "Vendenheim",
+    "admin": "Grand Est",
+    "sort": "5817"
+  },
+  {
+    "city": "Le Lavandou",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5981"
+  },
+  {
+    "city": "Poussan",
+    "admin": "Occitanie",
+    "sort": "5983"
+  },
+  {
+    "city": "Parmain",
+    "admin": "Île-de-France",
+    "sort": "5575"
+  },
+  {
+    "city": "Doullens",
+    "admin": "Hauts-de-France",
+    "sort": "5998"
+  },
+  {
+    "city": "Vaison-la-Romaine",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5953"
+  },
+  {
+    "city": "Dainville",
+    "admin": "Hauts-de-France",
+    "sort": "5665"
+  },
+  {
+    "city": "Pierrefeu-du-Var",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "6065"
+  },
+  {
+    "city": "Magny-en-Vexin",
+    "admin": "Île-de-France",
+    "sort": "5750"
+  },
+  {
+    "city": "Sainte-Sigolène",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5959"
+  },
+  {
+    "city": "Naintré",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5908"
+  },
+  {
+    "city": "Saint-Jorioz",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5864"
+  },
+  {
+    "city": "Montbonnot-Saint-Martin",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5306"
+  },
+  {
+    "city": "Clapiers",
+    "admin": "Occitanie",
+    "sort": "5431"
+  },
+  {
+    "city": "Riantec",
+    "admin": "Bretagne",
+    "sort": "5722"
+  },
+  {
+    "city": "Douvrin",
+    "admin": "Hauts-de-France",
+    "sort": "5544"
+  },
+  {
+    "city": "Fleurance",
+    "admin": "Occitanie",
+    "sort": "5982"
+  },
+  {
+    "city": "Lannemezan",
+    "admin": "Occitanie",
+    "sort": "5812"
+  },
+  {
+    "city": "Haute-Goulaine",
+    "admin": "Pays de la Loire",
+    "sort": "5833"
+  },
+  {
+    "city": "Coursan",
+    "admin": "Occitanie",
+    "sort": "5864"
+  },
+  {
+    "city": "Villefranche-sur-Mer",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5064"
+  },
+  {
+    "city": "Gauchy",
+    "admin": "Hauts-de-France",
+    "sort": "5254"
+  },
+  {
+    "city": "Lucciana",
+    "admin": "Corsica",
+    "sort": "5893"
+  },
+  {
+    "city": "Villemur-sur-Tarn",
+    "admin": "Occitanie",
+    "sort": "5962"
+  },
+  {
+    "city": "Mériel",
+    "admin": "Île-de-France",
+    "sort": "5124"
+  },
+  {
+    "city": "Roquefort-la-Bédoule",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5896"
+  },
+  {
+    "city": "Meyreuil",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5796"
+  },
+  {
+    "city": "Aubignan",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5719"
+  },
+  {
+    "city": "Dol-de-Bretagne",
+    "admin": "Bretagne",
+    "sort": "5714"
+  },
+  {
+    "city": "Montauban-de-Bretagne",
+    "admin": "Bretagne",
+    "sort": "5946"
+  },
+  {
+    "city": "Noves",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5866"
+  },
+  {
+    "city": "Roye",
+    "admin": "Hauts-de-France",
+    "sort": "5709"
+  },
+  {
+    "city": "Saint-Mitre-les-Remparts",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5800"
+  },
+  {
+    "city": "Aixe-sur-Vienne",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5820"
+  },
+  {
+    "city": "Ostricourt",
+    "admin": "Hauts-de-France",
+    "sort": "5367"
+  },
+  {
+    "city": "Merville",
+    "admin": "Occitanie",
+    "sort": "5878"
+  },
+  {
+    "city": "La Wantzenau",
+    "admin": "Grand Est",
+    "sort": "5838"
+  },
+  {
+    "city": "Chevreuse",
+    "admin": "Île-de-France",
+    "sort": "5647"
+  },
+  {
+    "city": "Saint-Georges-d’Orques",
+    "admin": "Occitanie",
+    "sort": "5476"
+  },
+  {
+    "city": "Donzère",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5877"
+  },
+  {
+    "city": "Oraison",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5891"
+  },
+  {
+    "city": "Combourg",
+    "admin": "Bretagne",
+    "sort": "5945"
+  },
+  {
+    "city": "Wasselonne",
+    "admin": "Grand Est",
+    "sort": "5661"
+  },
+  {
+    "city": "Calvisson",
+    "admin": "Occitanie",
+    "sort": "5833"
+  },
+  {
+    "city": "Saint-Galmier",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5737"
+  },
+  {
+    "city": "Milhaud",
+    "admin": "Occitanie",
+    "sort": "5717"
+  },
+  {
+    "city": "Beaucourt",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5014"
+  },
+  {
+    "city": "La Ferté-Macé",
+    "admin": "Normandie",
+    "sort": "5810"
+  },
+  {
+    "city": "Pluneret",
+    "admin": "Bretagne",
+    "sort": "5796"
+  },
+  {
+    "city": "Montmorillon",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5911"
+  },
+  {
+    "city": "Querqueville",
+    "admin": "Normandie",
+    "sort": "5097"
+  },
+  {
+    "city": "La Gorgue",
+    "admin": "Hauts-de-France",
+    "sort": "5637"
+  },
+  {
+    "city": "Bons-en-Chablais",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5700"
+  },
+  {
+    "city": "Coulogne",
+    "admin": "Hauts-de-France",
+    "sort": "5401"
+  },
+  {
+    "city": "Gannat",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5824"
+  },
+  {
+    "city": "Bédarieux",
+    "admin": "Occitanie",
+    "sort": "5771"
+  },
+  {
+    "city": "Fayence",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5765"
+  },
+  {
+    "city": "Carbonne",
+    "admin": "Occitanie",
+    "sort": "5752"
+  },
+  {
+    "city": "Mûrs-Erigné",
+    "admin": "Pays de la Loire",
+    "sort": "5642"
+  },
+  {
+    "city": "Quincy-Voisins",
+    "admin": "Île-de-France",
+    "sort": "5439"
+  },
+  {
+    "city": "Peypin",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5547"
+  },
+  {
+    "city": "Lesparre-Médoc",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5804"
+  },
+  {
+    "city": "Le Poinçonnet",
+    "admin": "Centre-Val de Loire",
+    "sort": "5831"
+  },
+  {
+    "city": "La Crèche",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5786"
+  },
+  {
+    "city": "Déchy",
+    "admin": "Hauts-de-France",
+    "sort": "5362"
+  },
+  {
+    "city": "Fontenay-Trésigny",
+    "admin": "Île-de-France",
+    "sort": "5678"
+  },
+  {
+    "city": "Furiani",
+    "admin": "Corsica",
+    "sort": "5628"
+  },
+  {
+    "city": "Boé",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5589"
+  },
+  {
+    "city": "Marennes",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5637"
+  },
+  {
+    "city": "Vias",
+    "admin": "Occitanie",
+    "sort": "5735"
+  },
+  {
+    "city": "Le Valdahon",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5687"
+  },
+  {
+    "city": "Trèbes",
+    "admin": "Occitanie",
+    "sort": "5566"
+  },
+  {
+    "city": "Saint-Memmie",
+    "admin": "Grand Est",
+    "sort": "5473"
+  },
+  {
+    "city": "Tournus",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5524"
+  },
+  {
+    "city": "Courthézon",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5723"
+  },
+  {
+    "city": "Aimargues",
+    "admin": "Occitanie",
+    "sort": "5682"
+  },
+  {
+    "city": "Fismes",
+    "admin": "Grand Est",
+    "sort": "5560"
+  },
+  {
+    "city": "Lannilis",
+    "admin": "Bretagne",
+    "sort": "5651"
+  },
+  {
+    "city": "Simiane-Collongue",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5699"
+  },
+  {
+    "city": "Mouroux",
+    "admin": "Île-de-France",
+    "sort": "5557"
+  },
+  {
+    "city": "Flines-lès-Raches",
+    "admin": "Hauts-de-France",
+    "sort": "5597"
+  },
+  {
+    "city": "Solliès-Toucas",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5696"
+  },
+  {
+    "city": "Port-la-Nouvelle",
+    "admin": "Occitanie",
+    "sort": "5686"
+  },
+  {
+    "city": "Briey",
+    "admin": "Grand Est",
+    "sort": "5674"
+  },
+  {
+    "city": "Erquinghem-Lys",
+    "admin": "Hauts-de-France",
+    "sort": "5293"
+  },
+  {
+    "city": "Boulay-Moselle",
+    "admin": "Grand Est",
+    "sort": "5591"
+  },
+  {
+    "city": "Vaugneray",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5623"
+  },
+  {
+    "city": "Wormhout",
+    "admin": "Hauts-de-France",
+    "sort": "5665"
+  },
+  {
+    "city": "Ernée",
+    "admin": "Pays de la Loire",
+    "sort": "5712"
+  },
+  {
+    "city": "Le Puy-Sainte-Réparade",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5744"
+  },
+  {
+    "city": "Dompierre-sur-Mer",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5560"
+  },
+  {
+    "city": "La Chevrolière",
+    "admin": "Pays de la Loire",
+    "sort": "5688"
+  },
+  {
+    "city": "Saint-Denis-de-Pile",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5658"
+  },
+  {
+    "city": "Viarmes",
+    "admin": "Île-de-France",
+    "sort": "5220"
+  },
+  {
+    "city": "La Chapelle-Basse-Mer",
+    "admin": "Pays de la Loire",
+    "sort": "5601"
+  },
+  {
+    "city": "Bohain-en-Vermandois",
+    "admin": "Hauts-de-France",
+    "sort": "5675"
+  },
+  {
+    "city": "Arnage",
+    "admin": "Pays de la Loire",
+    "sort": "5351"
+  },
+  {
+    "city": "Calvi",
+    "admin": "Corsica",
+    "sort": "5666"
+  },
+  {
+    "city": "Saint-Georges-de-Didonne",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5340"
+  },
+  {
+    "city": "Saint-Pierre-d’Irube",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5167"
+  },
+  {
+    "city": "Wallers",
+    "admin": "Hauts-de-France",
+    "sort": "5568"
+  },
+  {
+    "city": "Sauvian",
+    "admin": "Occitanie",
+    "sort": "5419"
+  },
+  {
+    "city": "Saint-Cannat",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5678"
+  },
+  {
+    "city": "Guînes",
+    "admin": "Hauts-de-France",
+    "sort": "5619"
+  },
+  {
+    "city": "Les Avenières",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5643"
+  },
+  {
+    "city": "Chagny",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5535"
+  },
+  {
+    "city": "Fenouillet",
+    "admin": "Occitanie",
+    "sort": "5272"
+  },
+  {
+    "city": "Eschau",
+    "admin": "Grand Est",
+    "sort": "5372"
+  },
+  {
+    "city": "Ferrière-la-Grande",
+    "admin": "Hauts-de-France",
+    "sort": "5292"
+  },
+  {
+    "city": "Audruicq",
+    "admin": "Hauts-de-France",
+    "sort": "5442"
+  },
+  {
+    "city": "Chatuzange-le-Goubet",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5618"
+  },
+  {
+    "city": "Gray",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5541"
+  },
+  {
+    "city": "Sausheim",
+    "admin": "Grand Est",
+    "sort": "5489"
+  },
+  {
+    "city": "Montrond-les-Bains",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5290"
+  },
+  {
+    "city": "Plouay",
+    "admin": "Bretagne",
+    "sort": "5726"
+  },
+  {
+    "city": "Pont-Évêque",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5207"
+  },
+  {
+    "city": "Séméac",
+    "admin": "Occitanie",
+    "sort": "5005"
+  },
+  {
+    "city": "Mouy",
+    "admin": "Hauts-de-France",
+    "sort": "5255"
+  },
+  {
+    "city": "Le Boulou",
+    "admin": "Occitanie",
+    "sort": "5396"
+  },
+  {
+    "city": "Vergèze",
+    "admin": "Occitanie",
+    "sort": "5243"
+  },
+  {
+    "city": "Nègrepelisse",
+    "admin": "Occitanie",
+    "sort": "5642"
+  },
+  {
+    "city": "Saint-Martin-de-Seignanx",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5632"
+  },
+  {
+    "city": "Rabastens",
+    "admin": "Occitanie",
+    "sort": "5666"
+  },
+  {
+    "city": "Marsannay-la-Côte",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5330"
+  },
+  {
+    "city": "Ensuès-la-Redonne",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5527"
+  },
+  {
+    "city": "Coublevie",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5026"
+  },
+  {
+    "city": "Decazeville",
+    "admin": "Occitanie",
+    "sort": "5353"
+  },
+  {
+    "city": "Bannalec",
+    "admin": "Bretagne",
+    "sort": "5663"
+  },
+  {
+    "city": "Moulins-lès-Metz",
+    "admin": "Grand Est",
+    "sort": "5016"
+  },
+  {
+    "city": "Roquemaure",
+    "admin": "Occitanie",
+    "sort": "5520"
+  },
+  {
+    "city": "Ambazac",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5630"
+  },
+  {
+    "city": "Montpon-Ménestérol",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5602"
+  },
+  {
+    "city": "Briec",
+    "admin": "Bretagne",
+    "sort": "5633"
+  },
+  {
+    "city": "La Cadière-d’Azur",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5563"
+  },
+  {
+    "city": "Ondres",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5356"
+  },
+  {
+    "city": "Sillingy",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5348"
+  },
+  {
+    "city": "Genlis",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5272"
+  },
+  {
+    "city": "Saint-Laurent-de-Mure",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5417"
+  },
+  {
+    "city": "Gan",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5565"
+  },
+  {
+    "city": "Reichshoffen",
+    "admin": "Grand Est",
+    "sort": "5399"
+  },
+  {
+    "city": "Kembs",
+    "admin": "Grand Est",
+    "sort": "5376"
+  },
+  {
+    "city": "Pouzauges",
+    "admin": "Pays de la Loire",
+    "sort": "5549"
+  },
+  {
+    "city": "Saint-Pierre-lès-Nemours",
+    "admin": "Île-de-France",
+    "sort": "5444"
+  },
+  {
+    "city": "Sigean",
+    "admin": "Occitanie",
+    "sort": "5531"
+  },
+  {
+    "city": "Nuits-Saint-Georges",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5421"
+  },
+  {
+    "city": "Les Essarts",
+    "admin": "Pays de la Loire",
+    "sort": "5586"
+  },
+  {
+    "city": "Saint-Gervais-les-Bains",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5590"
+  },
+  {
+    "city": "Bordères-sur-l’Échez",
+    "admin": "Occitanie",
+    "sort": "5340"
+  },
+  {
+    "city": "Belin-Béliet",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5633"
+  },
+  {
+    "city": "Arradon",
+    "admin": "Bretagne",
+    "sort": "5377"
+  },
+  {
+    "city": "Saint-Martin-d’Uriage",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5482"
+  },
+  {
+    "city": "Jonquières",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5436"
+  },
+  {
+    "city": "La Roque-d’Anthéron",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5441"
+  },
+  {
+    "city": "Garéoult",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5310"
+  },
+  {
+    "city": "Lambres-lès-Douai",
+    "admin": "Hauts-de-France",
+    "sort": "5071"
+  },
+  {
+    "city": "Aiffres",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5432"
+  },
+  {
+    "city": "Oye-Plage",
+    "admin": "Hauts-de-France",
+    "sort": "5478"
+  },
+  {
+    "city": "Ventabren",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5433"
+  },
+  {
+    "city": "Étoile-sur-Rhône",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5505"
+  },
+  {
+    "city": "Chazelles-sur-Lyon",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5364"
+  },
+  {
+    "city": "Neuville-de-Poitou",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5308"
+  },
+  {
+    "city": "Le Barp",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5556"
+  },
+  {
+    "city": "Ille-sur-Têt",
+    "admin": "Occitanie",
+    "sort": "5436"
+  },
+  {
+    "city": "Gévezé",
+    "admin": "Bretagne",
+    "sort": "5411"
+  },
+  {
+    "city": "Valence",
+    "admin": "Occitanie",
+    "sort": "5213"
+  },
+  {
+    "city": "Saint-Chéron",
+    "admin": "Île-de-France",
+    "sort": "5134"
+  },
+  {
+    "city": "Souppes-sur-Loing",
+    "admin": "Île-de-France",
+    "sort": "5387"
+  },
+  {
+    "city": "Saint-Astier",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5422"
+  },
+  {
+    "city": "Mulsanne",
+    "admin": "Pays de la Loire",
+    "sort": "5232"
+  },
+  {
+    "city": "Beaucouzé",
+    "admin": "Pays de la Loire",
+    "sort": "5298"
+  },
+  {
+    "city": "Nueil-les-Aubiers",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5513"
+  },
+  {
+    "city": "Aubigny-sur-Nère",
+    "admin": "Centre-Val de Loire",
+    "sort": "5477"
+  },
+  {
+    "city": "Ploumagoar",
+    "admin": "Bretagne",
+    "sort": "5397"
+  },
+  {
+    "city": "Champagne-sur-Oise",
+    "admin": "Île-de-France",
+    "sort": "5024"
+  },
+  {
+    "city": "Cancale",
+    "admin": "Bretagne",
+    "sort": "5147"
+  },
+  {
+    "city": "Brébières",
+    "admin": "Hauts-de-France",
+    "sort": "5083"
+  },
+  {
+    "city": "Commercy",
+    "admin": "Grand Est",
+    "sort": "5399"
+  },
+  {
+    "city": "Saint-Privat-des-Vieux",
+    "admin": "Occitanie",
+    "sort": "5218"
+  },
+  {
+    "city": "Drusenheim",
+    "admin": "Grand Est",
+    "sort": "5211"
+  },
+  {
+    "city": "Grand-Champ",
+    "admin": "Bretagne",
+    "sort": "5459"
+  },
+  {
+    "city": "Piolenc",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5324"
+  },
+  {
+    "city": "Trilport",
+    "admin": "Île-de-France",
+    "sort": "5061"
+  },
+  {
+    "city": "Plouhinec",
+    "admin": "Bretagne",
+    "sort": "5367"
+  },
+  {
+    "city": "Châtillon-sur-Seine",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5354"
+  },
+  {
+    "city": "Faulquemont",
+    "admin": "Grand Est",
+    "sort": "5230"
+  },
+  {
+    "city": "Viry",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5299"
+  },
+  {
+    "city": "Mirecourt",
+    "admin": "Grand Est",
+    "sort": "5078"
+  },
+  {
+    "city": "Saint-Étienne-au-Mont",
+    "admin": "Hauts-de-France",
+    "sort": "5118"
+  },
+  {
+    "city": "Cucq",
+    "admin": "Hauts-de-France",
+    "sort": "5092"
+  },
+  {
+    "city": "Vic-le-Comte",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5191"
+  },
+  {
+    "city": "Condat-sur-Vienne",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5139"
+  },
+  {
+    "city": "Missillac",
+    "admin": "Pays de la Loire",
+    "sort": "5367"
+  },
+  {
+    "city": "Penmarch",
+    "admin": "Bretagne",
+    "sort": "5142"
+  },
+  {
+    "city": "Bédarrides",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5244"
+  },
+  {
+    "city": "Longuyon",
+    "admin": "Grand Est",
+    "sort": "5269"
+  },
+  {
+    "city": "Marquise",
+    "admin": "Hauts-de-France",
+    "sort": "5064"
+  },
+  {
+    "city": "La Grand-Combe",
+    "admin": "Occitanie",
+    "sort": "5021"
+  },
+  {
+    "city": "Châteaulin",
+    "admin": "Bretagne",
+    "sort": "5189"
+  },
+  {
+    "city": "Mouguerre",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5201"
+  },
+  {
+    "city": "Bléré",
+    "admin": "Centre-Val de Loire",
+    "sort": "5250"
+  },
+  {
+    "city": "Sully-sur-Loire",
+    "admin": "Centre-Val de Loire",
+    "sort": "5286"
+  },
+  {
+    "city": "Rosheim",
+    "admin": "Grand Est",
+    "sort": "5224"
+  },
+  {
+    "city": "Château-Arnoux-Saint-Auban",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5120"
+  },
+  {
+    "city": "La Ferrière",
+    "admin": "Pays de la Loire",
+    "sort": "5285"
+  },
+  {
+    "city": "Rocbaron",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5142"
+  },
+  {
+    "city": "Scaër",
+    "admin": "Bretagne",
+    "sort": "5345"
+  },
+  {
+    "city": "Rambervillers",
+    "admin": "Grand Est",
+    "sort": "5139"
+  },
+  {
+    "city": "Saint-Michel-Chef-Chef",
+    "admin": "Pays de la Loire",
+    "sort": "5173"
+  },
+  {
+    "city": "Decize",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5267"
+  },
+  {
+    "city": "Le Rove",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5137"
+  },
+  {
+    "city": "Ligné",
+    "admin": "Pays de la Loire",
+    "sort": "5232"
+  },
+  {
+    "city": "Saint-Gilles",
+    "admin": "Bretagne",
+    "sort": "5093"
+  },
+  {
+    "city": "La Balme-de-Sillingy",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5027"
+  },
+  {
+    "city": "Mazé",
+    "admin": "Pays de la Loire",
+    "sort": "5173"
+  },
+  {
+    "city": "Saint-Pourçain-sur-Sioule",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5182"
+  },
+  {
+    "city": "Mourmelon-le-Grand",
+    "admin": "Grand Est",
+    "sort": "5102"
+  },
+  {
+    "city": "Briare",
+    "admin": "Centre-Val de Loire",
+    "sort": "5207"
+  },
+  {
+    "city": "Le Pellerin",
+    "admin": "Pays de la Loire",
+    "sort": "5149"
+  },
+  {
+    "city": "Saint-Germain-du-Puy",
+    "admin": "Centre-Val de Loire",
+    "sort": "5079"
+  },
+  {
+    "city": "Locmaria-Plouzané",
+    "admin": "Bretagne",
+    "sort": "5089"
+  },
+  {
+    "city": "Villeneuve-sur-Yonne",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5179"
+  },
+  {
+    "city": "Plessé",
+    "admin": "Pays de la Loire",
+    "sort": "5257"
+  },
+  {
+    "city": "Grans",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5120"
+  },
+  {
+    "city": "Bessan",
+    "admin": "Occitanie",
+    "sort": "5119"
+  },
+  {
+    "city": "Conches-en-Ouche",
+    "admin": "Normandie",
+    "sort": "5004"
+  },
+  {
+    "city": "Cuges-les-Pins",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5147"
+  },
+  {
+    "city": "Peyrolles-en-Provence",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5125"
+  },
+  {
+    "city": "Pourrières",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5177"
+  },
+  {
+    "city": "Le Bourget-du-Lac",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5018"
+  },
+  {
+    "city": "Champniers",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5149"
+  },
+  {
+    "city": "Villers-le-Lac",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5090"
+  },
+  {
+    "city": "Guémené-Penfao",
+    "admin": "Pays de la Loire",
+    "sort": "5207"
+  },
+  {
+    "city": "Villette-d’Anthon",
+    "admin": "Auvergne-Rhône-Alpes",
+    "sort": "5035"
+  },
+  {
+    "city": "Parigné-l’Évêque",
+    "admin": "Pays de la Loire",
+    "sort": "5173"
+  },
+  {
+    "city": "Servian",
+    "admin": "Occitanie",
+    "sort": "5126"
+  },
+  {
+    "city": "Luynes",
+    "admin": "Centre-Val de Loire",
+    "sort": "5099"
+  },
+  {
+    "city": "La Souterraine",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5094"
+  },
+  {
+    "city": "Laillé",
+    "admin": "Bretagne",
+    "sort": "5069"
+  },
+  {
+    "city": "Florensac",
+    "admin": "Occitanie",
+    "sort": "5051"
+  },
+  {
+    "city": "Forcalquier",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5069"
+  },
+  {
+    "city": "Sainte-Marie-aux-Mines",
+    "admin": "Grand Est",
+    "sort": "5072"
+  },
+  {
+    "city": "Saint-Mars-du-Désert",
+    "admin": "Pays de la Loire",
+    "sort": "5009"
+  },
+  {
+    "city": "Muzillac",
+    "admin": "Bretagne",
+    "sort": "5041"
+  },
+  {
+    "city": "La Garnache",
+    "admin": "Pays de la Loire",
+    "sort": "5075"
+  },
+  {
+    "city": "Gruissan",
+    "admin": "Occitanie",
+    "sort": "5044"
+  },
+  {
+    "city": "Cazouls-lès-Béziers",
+    "admin": "Occitanie",
+    "sort": "5023"
+  },
+  {
+    "city": "Bitche",
+    "admin": "Grand Est",
+    "sort": "5025"
+  },
+  {
+    "city": "Tourves",
+    "admin": "Provence-Alpes-Côte d’Azur",
+    "sort": "5056"
+  },
+  {
+    "city": "Montbard",
+    "admin": "Bourgogne-Franche-Comté",
+    "sort": "5004"
+  },
+  {
+    "city": "Salbris",
+    "admin": "Centre-Val de Loire",
+    "sort": "5060"
+  },
+  {
+    "city": "Lacanau",
+    "admin": "Nouvelle-Aquitaine",
+    "sort": "5082"
+  },
+  {
+    "city": "Évron",
+    "admin": "Pays de la Loire",
+    "sort": "7048"
+  }
+]

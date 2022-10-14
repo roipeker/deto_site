@@ -1,0 +1,277 @@
+[
+  {
+    "city": "Yerevan",
+    "admin": "Yerevan",
+    "sort": "1075800"
+  },
+  {
+    "city": "Gyumri",
+    "admin": "Shirak",
+    "sort": "121976"
+  },
+  {
+    "city": "Vanadzor",
+    "admin": "Lorri",
+    "sort": "90525"
+  },
+  {
+    "city": "Hrazdan",
+    "admin": "Kotayk’",
+    "sort": "52808"
+  },
+  {
+    "city": "Abovyan",
+    "admin": "Kotayk’",
+    "sort": "44400"
+  },
+  {
+    "city": "Kapan",
+    "admin": "Syunik’",
+    "sort": "43190"
+  },
+  {
+    "city": "Armavir",
+    "admin": "Armavir",
+    "sort": "38635"
+  },
+  {
+    "city": "Charentsavan",
+    "admin": "Kotayk’",
+    "sort": "25039"
+  },
+  {
+    "city": "Artashat",
+    "admin": "Ararat",
+    "sort": "21300"
+  },
+  {
+    "city": "Ashtarak",
+    "admin": "Aragatsotn",
+    "sort": "21600"
+  },
+  {
+    "city": "Ijevan",
+    "admin": "Tavush",
+    "sort": "20509"
+  },
+  {
+    "city": "Gavarr",
+    "admin": "Geghark’unik’",
+    "sort": "20765"
+  },
+  {
+    "city": "Nor Hachn",
+    "admin": "Kotayk’",
+    "sort": "10198"
+  },
+  {
+    "city": "Byureghavan",
+    "admin": "Kotayk’",
+    "sort": "8500"
+  },
+  {
+    "city": "Yeghegnadzor",
+    "admin": "Vayots’ Dzor",
+    "sort": "7633"
+  },
+  {
+    "city": "Ejmiatsin",
+    "admin": "Armavir",
+    "sort": "57500"
+  },
+  {
+    "city": "Sevan",
+    "admin": "Geghark’unik’",
+    "sort": "23200"
+  },
+  {
+    "city": "Stepanavan",
+    "admin": "Lorri",
+    "sort": "23782"
+  },
+  {
+    "city": "Masis",
+    "admin": "Ararat",
+    "sort": "21376"
+  },
+  {
+    "city": "Goris",
+    "admin": "Syunik’",
+    "sort": "20591"
+  },
+  {
+    "city": "Ararat",
+    "admin": "Ararat",
+    "sort": "20800"
+  },
+  {
+    "city": "Artik",
+    "admin": "Shirak",
+    "sort": "19543"
+  },
+  {
+    "city": "Dilijan",
+    "admin": "Tavush",
+    "sort": "16600"
+  },
+  {
+    "city": "Spitak",
+    "admin": "Lorri",
+    "sort": "15000"
+  },
+  {
+    "city": "Sisian",
+    "admin": "Syunik’",
+    "sort": "14894"
+  },
+  {
+    "city": "Vedi",
+    "admin": "Ararat",
+    "sort": "13600"
+  },
+  {
+    "city": "Alaverdi",
+    "admin": "Lorri",
+    "sort": "13000"
+  },
+  {
+    "city": "Vardenis",
+    "admin": "Geghark’unik’",
+    "sort": "12363"
+  },
+  {
+    "city": "Martuni",
+    "admin": "Geghark’unik’",
+    "sort": "11987"
+  },
+  {
+    "city": "Metsamor",
+    "admin": "Armavir",
+    "sort": "9870"
+  },
+  {
+    "city": "Yeghvard",
+    "admin": "Kotayk’",
+    "sort": "10656"
+  },
+  {
+    "city": "Ayntap",
+    "admin": "Ararat",
+    "sort": "9550"
+  },
+  {
+    "city": "Akhuryan",
+    "admin": "Shirak",
+    "sort": "9668"
+  },
+  {
+    "city": "Berd",
+    "admin": "Tavush",
+    "sort": "9864"
+  },
+  {
+    "city": "Vardenik",
+    "admin": "Geghark’unik’",
+    "sort": "9669"
+  },
+  {
+    "city": "Nerk’in Getashen",
+    "admin": "Geghark’unik’",
+    "sort": "8553"
+  },
+  {
+    "city": "Tashir",
+    "admin": "Lorri",
+    "sort": "8700"
+  },
+  {
+    "city": "Jermuk",
+    "admin": "Vayots’ Dzor",
+    "sort": "8013"
+  },
+  {
+    "city": "Jrvezh",
+    "admin": "Yerevan",
+    "sort": "6848"
+  },
+  {
+    "city": "Garrni",
+    "admin": "Kotayk’",
+    "sort": "7215"
+  },
+  {
+    "city": "Kajaran",
+    "admin": "Syunik’",
+    "sort": "7163"
+  },
+  {
+    "city": "Noratus",
+    "admin": "Geghark’unik’",
+    "sort": "6732"
+  },
+  {
+    "city": "Aparan",
+    "admin": "Aragatsotn",
+    "sort": "6400"
+  },
+  {
+    "city": "Sardarapat",
+    "admin": "Armavir",
+    "sort": "6275"
+  },
+  {
+    "city": "Karmir Gyukh",
+    "admin": "Geghark’unik’",
+    "sort": "6291"
+  },
+  {
+    "city": "Oshakan",
+    "admin": "Aragatsotn",
+    "sort": "5962"
+  },
+  {
+    "city": "Yeranos",
+    "admin": "Geghark’unik’",
+    "sort": "6119"
+  },
+  {
+    "city": "Chambarak",
+    "admin": "Geghark’unik’",
+    "sort": "5850"
+  },
+  {
+    "city": "Aragatsavan",
+    "admin": "Aragatsotn",
+    "sort": "5785"
+  },
+  {
+    "city": "Maralik",
+    "admin": "Shirak",
+    "sort": "5500"
+  },
+  {
+    "city": "Lichk",
+    "admin": "Geghark’unik’",
+    "sort": "5467"
+  },
+  {
+    "city": "Noyemberyan",
+    "admin": "Tavush",
+    "sort": "5310"
+  },
+  {
+    "city": "Odzun",
+    "admin": "Lorri",
+    "sort": "5311"
+  },
+  {
+    "city": "Verin Getashen",
+    "admin": "Geghark’unik’",
+    "sort": "5010"
+  },
+  {
+    "city": "Tsovinar",
+    "admin": "Geghark’unik’",
+    "sort": "5115"
+  }
+]

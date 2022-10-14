@@ -1,0 +1,807 @@
+[
+  {
+    "city": "Oslo",
+    "admin": "Oslo",
+    "sort": "693494"
+  },
+  {
+    "city": "Bergen",
+    "admin": "Hordaland",
+    "sort": "257087"
+  },
+  {
+    "city": "Trondheim",
+    "admin": "Sør-Trøndelag",
+    "sort": "183378"
+  },
+  {
+    "city": "Stavanger",
+    "admin": "Rogaland",
+    "sort": "129300"
+  },
+  {
+    "city": "Kristiansand",
+    "admin": "Vest-Agder",
+    "sort": "112588"
+  },
+  {
+    "city": "Drammen",
+    "admin": "Buskerud",
+    "sort": "109416"
+  },
+  {
+    "city": "Skien",
+    "admin": "Telemark",
+    "sort": "55144"
+  },
+  {
+    "city": "Bodø",
+    "admin": "Nordland",
+    "sort": "52560"
+  },
+  {
+    "city": "Arendal",
+    "admin": "Aust-Agder",
+    "sort": "45065"
+  },
+  {
+    "city": "Tromsø",
+    "admin": "Troms",
+    "sort": "38980"
+  },
+  {
+    "city": "Molde",
+    "admin": "Møre og Romsdal",
+    "sort": "31870"
+  },
+  {
+    "city": "Hamar",
+    "admin": "Hedmark",
+    "sort": "27947"
+  },
+  {
+    "city": "Steinkjer",
+    "admin": "Nord-Trøndelag",
+    "sort": "12985"
+  },
+  {
+    "city": "Fredrikstad",
+    "admin": "Østfold",
+    "sort": "83193"
+  },
+  {
+    "city": "Sandefjord",
+    "admin": "Vestfold",
+    "sort": "64345"
+  },
+  {
+    "city": "Asker",
+    "admin": "Oslo",
+    "sort": "61523"
+  },
+  {
+    "city": "Nordre Fåle",
+    "admin": "Akershus",
+    "sort": "60034"
+  },
+  {
+    "city": "Sandnes",
+    "admin": "Rogaland",
+    "sort": "58694"
+  },
+  {
+    "city": "Tønsberg",
+    "admin": "Vestfold",
+    "sort": "57026"
+  },
+  {
+    "city": "Sarpsborg",
+    "admin": "Østfold",
+    "sort": "54678"
+  },
+  {
+    "city": "Ålesund",
+    "admin": "Møre og Romsdal",
+    "sort": "52163"
+  },
+  {
+    "city": "Moss",
+    "admin": "Østfold",
+    "sort": "49668"
+  },
+  {
+    "city": "Lørenskog",
+    "admin": "Akershus",
+    "sort": "42740"
+  },
+  {
+    "city": "Haugesund",
+    "admin": "Rogaland",
+    "sort": "37323"
+  },
+  {
+    "city": "Porsgrunn",
+    "admin": "Telemark",
+    "sort": "36526"
+  },
+  {
+    "city": "Ringsaker",
+    "admin": "Hedmark",
+    "sort": "34897"
+  },
+  {
+    "city": "Halden",
+    "admin": "Østfold",
+    "sort": "31387"
+  },
+  {
+    "city": "Ski",
+    "admin": "Akershus",
+    "sort": "30843"
+  },
+  {
+    "city": "Askøy",
+    "admin": "Hordaland",
+    "sort": "29594"
+  },
+  {
+    "city": "Lillehammer",
+    "admin": "Oppland",
+    "sort": "28493"
+  },
+  {
+    "city": "Oppegård",
+    "admin": "Akershus",
+    "sort": "27394"
+  },
+  {
+    "city": "Sola",
+    "admin": "Rogaland",
+    "sort": "27457"
+  },
+  {
+    "city": "Kongsberg",
+    "admin": "Buskerud",
+    "sort": "27694"
+  },
+  {
+    "city": "Lier",
+    "admin": "Buskerud",
+    "sort": "27118"
+  },
+  {
+    "city": "Eidsvoll",
+    "admin": "Akershus",
+    "sort": "26031"
+  },
+  {
+    "city": "Nedre Eiker",
+    "admin": "Buskerud",
+    "sort": "24963"
+  },
+  {
+    "city": "Sand",
+    "admin": "Vestfold",
+    "sort": "24898"
+  },
+  {
+    "city": "Harstad",
+    "admin": "Troms",
+    "sort": "24738"
+  },
+  {
+    "city": "Larvik",
+    "admin": "Vestfold",
+    "sort": "24647"
+  },
+  {
+    "city": "Borre",
+    "admin": "Vestfold",
+    "sort": "24272"
+  },
+  {
+    "city": "Nittedal",
+    "admin": "Akershus",
+    "sort": "24454"
+  },
+  {
+    "city": "Stjørdal",
+    "admin": "Nord-Trøndelag",
+    "sort": "24283"
+  },
+  {
+    "city": "Røyken",
+    "admin": "Buskerud",
+    "sort": "22635"
+  },
+  {
+    "city": "Sem",
+    "admin": "Vestfold",
+    "sort": "21948"
+  },
+  {
+    "city": "Nøtterøy",
+    "admin": "Vestfold",
+    "sort": "21621"
+  },
+  {
+    "city": "Elverum",
+    "admin": "Hedmark",
+    "sort": "21292"
+  },
+  {
+    "city": "Stange",
+    "admin": "Hedmark",
+    "sort": "21072"
+  },
+  {
+    "city": "Horten",
+    "admin": "Vestfold",
+    "sort": "20504"
+  },
+  {
+    "city": "Ås",
+    "admin": "Akershus",
+    "sort": "20439"
+  },
+  {
+    "city": "Gjøvik",
+    "admin": "Oppland",
+    "sort": "20589"
+  },
+  {
+    "city": "Nesoddtangen",
+    "admin": "Akershus",
+    "sort": "19805"
+  },
+  {
+    "city": "Kleppe",
+    "admin": "Rogaland",
+    "sort": "19848"
+  },
+  {
+    "city": "Os",
+    "admin": "Hordaland",
+    "sort": "19742"
+  },
+  {
+    "city": "Time",
+    "admin": "Rogaland",
+    "sort": "19106"
+  },
+  {
+    "city": "Stord",
+    "admin": "Hordaland",
+    "sort": "18861"
+  },
+  {
+    "city": "Mo i Rana",
+    "admin": "Nordland",
+    "sort": "18899"
+  },
+  {
+    "city": "Kristiansund",
+    "admin": "Møre og Romsdal",
+    "sort": "18273"
+  },
+  {
+    "city": "Vestby",
+    "admin": "Akershus",
+    "sort": "18290"
+  },
+  {
+    "city": "Sørum",
+    "admin": "Akershus",
+    "sort": "18263"
+  },
+  {
+    "city": "Kosvik",
+    "admin": "Vest-Agder",
+    "sort": "17981"
+  },
+  {
+    "city": "Kongsvinger",
+    "admin": "Hedmark",
+    "sort": "17851"
+  },
+  {
+    "city": "Rygge",
+    "admin": "Østfold",
+    "sort": "16145"
+  },
+  {
+    "city": "Frogn",
+    "admin": "Akershus",
+    "sort": "15953"
+  },
+  {
+    "city": "Voss",
+    "admin": "Hordaland",
+    "sort": "15787"
+  },
+  {
+    "city": "Lindås",
+    "admin": "Hordaland",
+    "sort": "15607"
+  },
+  {
+    "city": "Mandal",
+    "admin": "Vest-Agder",
+    "sort": "15529"
+  },
+  {
+    "city": "Alta",
+    "admin": "Finnmark",
+    "sort": "15342"
+  },
+  {
+    "city": "Verdal",
+    "admin": "Nord-Trøndelag",
+    "sort": "14986"
+  },
+  {
+    "city": "Vennesla",
+    "admin": "Vest-Agder",
+    "sort": "14935"
+  },
+  {
+    "city": "Askim",
+    "admin": "Østfold",
+    "sort": "14488"
+  },
+  {
+    "city": "Nannestad",
+    "admin": "Akershus",
+    "sort": "14637"
+  },
+  {
+    "city": "Malvik",
+    "admin": "Sør-Trøndelag",
+    "sort": "14334"
+  },
+  {
+    "city": "Narvik",
+    "admin": "Nordland",
+    "sort": "14148"
+  },
+  {
+    "city": "Bamble",
+    "admin": "Telemark",
+    "sort": "14014"
+  },
+  {
+    "city": "Gran",
+    "admin": "Oppland",
+    "sort": "13611"
+  },
+  {
+    "city": "Drøbak",
+    "admin": "Akershus",
+    "sort": "13393"
+  },
+  {
+    "city": "Grimstad",
+    "admin": "Aust-Agder",
+    "sort": "13304"
+  },
+  {
+    "city": "Strand",
+    "admin": "Rogaland",
+    "sort": "13070"
+  },
+  {
+    "city": "Notodden",
+    "admin": "Telemark",
+    "sort": "12994"
+  },
+  {
+    "city": "Bømlo",
+    "admin": "Hordaland",
+    "sort": "11953"
+  },
+  {
+    "city": "Sogndal",
+    "admin": "Sogn og Fjordane",
+    "sort": "11938"
+  },
+  {
+    "city": "Lommedalen",
+    "admin": "Oslo",
+    "sort": "11200"
+  },
+  {
+    "city": "Randaberg",
+    "admin": "Rogaland",
+    "sort": "11315"
+  },
+  {
+    "city": "Stokke",
+    "admin": "Vestfold",
+    "sort": "11657"
+  },
+  {
+    "city": "Lenvik",
+    "admin": "Troms",
+    "sort": "11618"
+  },
+  {
+    "city": "Egersund",
+    "admin": "Rogaland",
+    "sort": "11433"
+  },
+  {
+    "city": "Eidsberg",
+    "admin": "Østfold",
+    "sort": "11396"
+  },
+  {
+    "city": "Søgne",
+    "admin": "Vest-Agder",
+    "sort": "11260"
+  },
+  {
+    "city": "Tysvær",
+    "admin": "Rogaland",
+    "sort": "11178"
+  },
+  {
+    "city": "Enebakk",
+    "admin": "Akershus",
+    "sort": "11065"
+  },
+  {
+    "city": "Ørsta",
+    "admin": "Møre og Romsdal",
+    "sort": "10830"
+  },
+  {
+    "city": "Volda",
+    "admin": "Møre og Romsdal",
+    "sort": "10781"
+  },
+  {
+    "city": "Sortland",
+    "admin": "Nordland",
+    "sort": "10514"
+  },
+  {
+    "city": "Heum",
+    "admin": "Vestfold",
+    "sort": "10449"
+  },
+  {
+    "city": "Lyngdal",
+    "admin": "Vest-Agder",
+    "sort": "10464"
+  },
+  {
+    "city": "Kragerø",
+    "admin": "Telemark",
+    "sort": "10416"
+  },
+  {
+    "city": "Levanger",
+    "admin": "Nord-Trøndelag",
+    "sort": "10333"
+  },
+  {
+    "city": "Førde",
+    "admin": "Sogn og Fjordane",
+    "sort": "10339"
+  },
+  {
+    "city": "Sande",
+    "admin": "Vestfold",
+    "sort": "9904"
+  },
+  {
+    "city": "Farsund",
+    "admin": "Vest-Agder",
+    "sort": "9645"
+  },
+  {
+    "city": "Fauske",
+    "admin": "Nordland",
+    "sort": "9640"
+  },
+  {
+    "city": "Haram",
+    "admin": "Møre og Romsdal",
+    "sort": "9200"
+  },
+  {
+    "city": "Lunner",
+    "admin": "Oppland",
+    "sort": "9062"
+  },
+  {
+    "city": "Flekkefjord",
+    "admin": "Vest-Agder",
+    "sort": "9027"
+  },
+  {
+    "city": "Florø",
+    "admin": "Sogn og Fjordane",
+    "sort": "8925"
+  },
+  {
+    "city": "Ulstein",
+    "admin": "Møre og Romsdal",
+    "sort": "8575"
+  },
+  {
+    "city": "Namsos",
+    "admin": "Nord-Trøndelag",
+    "sort": "8471"
+  },
+  {
+    "city": "Skaun",
+    "admin": "Sør-Trøndelag",
+    "sort": "8367"
+  },
+  {
+    "city": "Rakkestad",
+    "admin": "Østfold",
+    "sort": "8222"
+  },
+  {
+    "city": "Hokksund",
+    "admin": "Buskerud",
+    "sort": "8138"
+  },
+  {
+    "city": "Hammerfest",
+    "admin": "Finnmark",
+    "sort": "8073"
+  },
+  {
+    "city": "Åkrehamn",
+    "admin": "Rogaland",
+    "sort": "7873"
+  },
+  {
+    "city": "Lillesand",
+    "admin": "Aust-Agder",
+    "sort": "7930"
+  },
+  {
+    "city": "Meland",
+    "admin": "Hordaland",
+    "sort": "7812"
+  },
+  {
+    "city": "Løten",
+    "admin": "Hedmark",
+    "sort": "7625"
+  },
+  {
+    "city": "Råde",
+    "admin": "Østfold",
+    "sort": "7568"
+  },
+  {
+    "city": "Sykkylven",
+    "admin": "Møre og Romsdal",
+    "sort": "7596"
+  },
+  {
+    "city": "Alstahaug",
+    "admin": "Nordland",
+    "sort": "7394"
+  },
+  {
+    "city": "Åsnes",
+    "admin": "Hedmark",
+    "sort": "7227"
+  },
+  {
+    "city": "Stryn",
+    "admin": "Sogn og Fjordane",
+    "sort": "7118"
+  },
+  {
+    "city": "Oppdal",
+    "admin": "Sør-Trøndelag",
+    "sort": "6981"
+  },
+  {
+    "city": "Vestnes",
+    "admin": "Møre og Romsdal",
+    "sort": "6958"
+  },
+  {
+    "city": "Sunndalsøra",
+    "admin": "Møre og Romsdal",
+    "sort": "6956"
+  },
+  {
+    "city": "Jevnaker",
+    "admin": "Oppland",
+    "sort": "6867"
+  },
+  {
+    "city": "Risør",
+    "admin": "Aust-Agder",
+    "sort": "6762"
+  },
+  {
+    "city": "Svelvik",
+    "admin": "Vestfold",
+    "sort": "6685"
+  },
+  {
+    "city": "Rissa",
+    "admin": "Sør-Trøndelag",
+    "sort": "6644"
+  },
+  {
+    "city": "Trysil",
+    "admin": "Hedmark",
+    "sort": "6580"
+  },
+  {
+    "city": "Melhus",
+    "admin": "Sør-Trøndelag",
+    "sort": "6517"
+  },
+  {
+    "city": "Mesøy",
+    "admin": "Nordland",
+    "sort": "6247"
+  },
+  {
+    "city": "Bø",
+    "admin": "Telemark",
+    "sort": "6101"
+  },
+  {
+    "city": "Klæbu",
+    "admin": "Sør-Trøndelag",
+    "sort": "6067"
+  },
+  {
+    "city": "Spydeberg",
+    "admin": "Østfold",
+    "sort": "6042"
+  },
+  {
+    "city": "Sandnessjøen",
+    "admin": "Nordland",
+    "sort": "6052"
+  },
+  {
+    "city": "Froland",
+    "admin": "Aust-Agder",
+    "sort": "6004"
+  },
+  {
+    "city": "Andebu",
+    "admin": "Vestfold",
+    "sort": "5937"
+  },
+  {
+    "city": "Kvinesdal",
+    "admin": "Vest-Agder",
+    "sort": "5922"
+  },
+  {
+    "city": "Vereide",
+    "admin": "Sogn og Fjordane",
+    "sort": "5885"
+  },
+  {
+    "city": "Surnadal",
+    "admin": "Møre og Romsdal",
+    "sort": "5872"
+  },
+  {
+    "city": "Våler",
+    "admin": "Østfold",
+    "sort": "5805"
+  },
+  {
+    "city": "Sveio",
+    "admin": "Hordaland",
+    "sort": "5798"
+  },
+  {
+    "city": "Stavern",
+    "admin": "Vestfold",
+    "sort": "5773"
+  },
+  {
+    "city": "Nord-Fron",
+    "admin": "Oppland",
+    "sort": "5705"
+  },
+  {
+    "city": "Vadsø",
+    "admin": "Finnmark",
+    "sort": "5642"
+  },
+  {
+    "city": "Balsfjord",
+    "admin": "Troms",
+    "sort": "5559"
+  },
+  {
+    "city": "Hobøl",
+    "admin": "Østfold",
+    "sort": "5382"
+  },
+  {
+    "city": "Trøgstad",
+    "admin": "Østfold",
+    "sort": "5347"
+  },
+  {
+    "city": "Frei",
+    "admin": "Møre og Romsdal",
+    "sort": "5274"
+  },
+  {
+    "city": "Hareid",
+    "admin": "Møre og Romsdal",
+    "sort": "5140"
+  },
+  {
+    "city": "Austevoll",
+    "admin": "Hordaland",
+    "sort": "5276"
+  },
+  {
+    "city": "Birkenes",
+    "admin": "Aust-Agder",
+    "sort": "5274"
+  },
+  {
+    "city": "Hitra",
+    "admin": "Sør-Trøndelag",
+    "sort": "5140"
+  },
+  {
+    "city": "Øyer",
+    "admin": "Oppland",
+    "sort": "5093"
+  },
+  {
+    "city": "Sand",
+    "admin": "Hedmark",
+    "sort": "5038"
+  },
+  {
+    "city": "Svolvær",
+    "admin": "Nordland",
+    "sort": "4686"
+  },
+  {
+    "city": "Finnsnes",
+    "admin": "Troms",
+    "sort": "3907"
+  },
+  {
+    "city": "Kirkenes",
+    "admin": "Finnmark",
+    "sort": "3529"
+  },
+  {
+    "city": "Rørvik",
+    "admin": "Nord-Trøndelag",
+    "sort": "2615"
+  },
+  {
+    "city": "Kaupanger",
+    "admin": "Sogn og Fjordane",
+    "sort": "1012"
+  },
+  {
+    "city": "Holmestrand",
+    "admin": "Vestfold",
+    "sort": "7514"
+  },
+  {
+    "city": "Vossevangen",
+    "admin": "Hordaland",
+    "sort": "5571"
+  }
+]

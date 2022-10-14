@@ -1,0 +1,27 @@
+[
+  {
+    "city": "Palikir",
+    "admin": "Pohnpei",
+    "sort": "6227"
+  },
+  {
+    "city": "Kolonia",
+    "admin": "Pohnpei",
+    "sort": "6074"
+  },
+  {
+    "city": "Tofol",
+    "admin": "Kosrae",
+    "sort": "2591"
+  },
+  {
+    "city": "Weno",
+    "admin": "Chuuk",
+    "sort": ""
+  },
+  {
+    "city": "Colonia",
+    "admin": "Yap",
+    "sort": ""
+  }
+]

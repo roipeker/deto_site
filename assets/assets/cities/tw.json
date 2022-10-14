@@ -1,0 +1,162 @@
+[
+  {
+    "city": "Taichung",
+    "admin": "Taichung",
+    "sort": "2803894"
+  },
+  {
+    "city": "Kaohsiung",
+    "admin": "Kaohsiung",
+    "sort": "2773533"
+  },
+  {
+    "city": "Taipei",
+    "admin": "Taipei",
+    "sort": "2684567"
+  },
+  {
+    "city": "Tainan",
+    "admin": "Tainan",
+    "sort": "1883831"
+  },
+  {
+    "city": "Zhongli",
+    "admin": "Taoyuan",
+    "sort": "1632616"
+  },
+  {
+    "city": "Changhua",
+    "admin": "Changhua",
+    "sort": "750000"
+  },
+  {
+    "city": "Pingtung",
+    "admin": "Pingtung",
+    "sort": "503530"
+  },
+  {
+    "city": "Taoyuan District",
+    "admin": "Taoyuan",
+    "sort": "443273"
+  },
+  {
+    "city": "Hsinchu",
+    "admin": "Hsinchu",
+    "sort": "445635"
+  },
+  {
+    "city": "Keelung",
+    "admin": "Keelung",
+    "sort": "370155"
+  },
+  {
+    "city": "Chiayi",
+    "admin": "Chiayi",
+    "sort": "251938"
+  },
+  {
+    "city": "Pingzhen",
+    "admin": "Taoyuan",
+    "sort": "201632"
+  },
+  {
+    "city": "Zhubei",
+    "admin": "Hsinchu",
+    "sort": "200000"
+  },
+  {
+    "city": "Bade",
+    "admin": "Taoyuan",
+    "sort": "172065"
+  },
+  {
+    "city": "Yangmei",
+    "admin": "Taoyuan",
+    "sort": "175000"
+  },
+  {
+    "city": "Yilan",
+    "admin": "Yilan",
+    "sort": "150000"
+  },
+  {
+    "city": "Hualien",
+    "admin": "Hualien",
+    "sort": "110000"
+  },
+  {
+    "city": "Taitung",
+    "admin": "Taitung",
+    "sort": "108905"
+  },
+  {
+    "city": "Douliu",
+    "admin": "Yunlin",
+    "sort": "106653"
+  },
+  {
+    "city": "Nantou",
+    "admin": "Nantou",
+    "sort": "101606"
+  },
+  {
+    "city": "Miaoli",
+    "admin": "Miaoli",
+    "sort": "90963"
+  },
+  {
+    "city": "Magong",
+    "admin": "Penghu",
+    "sort": "56435"
+  },
+  {
+    "city": "Taibao",
+    "admin": "Chiayi",
+    "sort": "35000"
+  },
+  {
+    "city": "Banqiao",
+    "admin": "New Taipei",
+    "sort": ""
+  },
+  {
+    "city": "Nangan",
+    "admin": "Lienchiang",
+    "sort": "7382"
+  },
+  {
+    "city": "Jincheng",
+    "admin": "Kinmen",
+    "sort": ""
+  },
+  {
+    "city": "Zhushan",
+    "admin": "Nantou",
+    "sort": "54870"
+  },
+  {
+    "city": "Pozi",
+    "admin": "Chiayi",
+    "sort": "50000"
+  },
+  {
+    "city": "Huatan",
+    "admin": "Changhua",
+    "sort": "45907"
+  },
+  {
+    "city": "Beigang",
+    "admin": "Yunlin",
+    "sort": "40988"
+  },
+  {
+    "city": "Yuanchang",
+    "admin": "Yunlin",
+    "sort": "25840"
+  },
+  {
+    "city": "Ershui",
+    "admin": "Changhua",
+    "sort": "15240"
+  }
+]

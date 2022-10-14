@@ -1,0 +1,947 @@
+[
+  {
+    "city": "Guatemala City",
+    "admin": "Guatemala",
+    "sort": "2934841"
+  },
+  {
+    "city": "Villa Nueva",
+    "admin": "Guatemala",
+    "sort": "618397"
+  },
+  {
+    "city": "Coatepeque",
+    "admin": "Quetzaltenango",
+    "sort": "300000"
+  },
+  {
+    "city": "San Pedro Carchá",
+    "admin": "Alta Verapaz",
+    "sort": "255006"
+  },
+  {
+    "city": "Cobán",
+    "admin": "Alta Verapaz",
+    "sort": "228664"
+  },
+  {
+    "city": "Quetzaltenango",
+    "admin": "Quetzaltenango",
+    "sort": "225000"
+  },
+  {
+    "city": "San Juan Sacatepéquez",
+    "admin": "Guatemala",
+    "sort": "193000"
+  },
+  {
+    "city": "Jutiapa",
+    "admin": "Jutiapa",
+    "sort": "162312"
+  },
+  {
+    "city": "Flores",
+    "admin": "Petén",
+    "sort": "144932"
+  },
+  {
+    "city": "Momostenango",
+    "admin": "Totonicapán",
+    "sort": "139552"
+  },
+  {
+    "city": "San Luis",
+    "admin": "Petén",
+    "sort": "132470"
+  },
+  {
+    "city": "Nueva Concepción",
+    "admin": "Escuintla",
+    "sort": "130754"
+  },
+  {
+    "city": "Santa Lucía Cotzumalguapa",
+    "admin": "Escuintla",
+    "sort": "125473"
+  },
+  {
+    "city": "Amatitlán",
+    "admin": "Guatemala",
+    "sort": "125000"
+  },
+  {
+    "city": "Jalapa",
+    "admin": "Jalapa",
+    "sort": "122483"
+  },
+  {
+    "city": "Totonicapán",
+    "admin": "Totonicapán",
+    "sort": "118960"
+  },
+  {
+    "city": "Puerto Barrios",
+    "admin": "Izabal",
+    "sort": "110846"
+  },
+  {
+    "city": "Escuintla",
+    "admin": "Escuintla",
+    "sort": "107638"
+  },
+  {
+    "city": "Morales",
+    "admin": "Izabal",
+    "sort": "107400"
+  },
+  {
+    "city": "Chichicastenango",
+    "admin": "Quiché",
+    "sort": "107193"
+  },
+  {
+    "city": "Malacatán",
+    "admin": "San Marcos",
+    "sort": "105178"
+  },
+  {
+    "city": "Mazatenango",
+    "admin": "Suchitepéquez",
+    "sort": "103276"
+  },
+  {
+    "city": "Petapa",
+    "admin": "Guatemala",
+    "sort": "94228"
+  },
+  {
+    "city": "Chiquimula",
+    "admin": "Chiquimula",
+    "sort": "79815"
+  },
+  {
+    "city": "Salamá",
+    "admin": "Baja Verapaz",
+    "sort": "71478"
+  },
+  {
+    "city": "Zacapa",
+    "admin": "Zacapa",
+    "sort": "66423"
+  },
+  {
+    "city": "San Marcos",
+    "admin": "San Marcos",
+    "sort": "65571"
+  },
+  {
+    "city": "Sololá",
+    "admin": "Sololá",
+    "sort": "63973"
+  },
+  {
+    "city": "Antigua Guatemala",
+    "admin": "Sacatepéquez",
+    "sort": "59091"
+  },
+  {
+    "city": "Huehuetenango",
+    "admin": "Huehuetenango",
+    "sort": "58000"
+  },
+  {
+    "city": "Chimaltenango",
+    "admin": "Chimaltenango",
+    "sort": "43900"
+  },
+  {
+    "city": "Retalhuleu",
+    "admin": "Retalhuleu",
+    "sort": "40000"
+  },
+  {
+    "city": "Santa Cruz del Quiché",
+    "admin": "Quiché",
+    "sort": "35000"
+  },
+  {
+    "city": "Santiago Sacatepéquez",
+    "admin": "Sacatepéquez",
+    "sort": "30747"
+  },
+  {
+    "city": "Cuilapa",
+    "admin": "Santa Rosa",
+    "sort": "30951"
+  },
+  {
+    "city": "Guastatoya",
+    "admin": "El Progreso",
+    "sort": "20050"
+  },
+  {
+    "city": "Senahú",
+    "admin": "Alta Verapaz",
+    "sort": "98703"
+  },
+  {
+    "city": "Tacaná",
+    "admin": "San Marcos",
+    "sort": "87998"
+  },
+  {
+    "city": "El Estor",
+    "admin": "Izabal",
+    "sort": "82491"
+  },
+  {
+    "city": "Panzos",
+    "admin": "Alta Verapaz",
+    "sort": "81063"
+  },
+  {
+    "city": "San Cristóbal Verapaz",
+    "admin": "Alta Verapaz",
+    "sort": "80613"
+  },
+  {
+    "city": "Lívingston",
+    "admin": "Izabal",
+    "sort": "80249"
+  },
+  {
+    "city": "Chinautla",
+    "admin": "Guatemala",
+    "sort": "77071"
+  },
+  {
+    "city": "Fray Bartolomé de Las Casas",
+    "admin": "Alta Verapaz",
+    "sort": "77896"
+  },
+  {
+    "city": "Villa Canales",
+    "admin": "Guatemala",
+    "sort": "77638"
+  },
+  {
+    "city": "Santa María La Pila",
+    "admin": "Alta Verapaz",
+    "sort": "70321"
+  },
+  {
+    "city": "Chisec",
+    "admin": "Alta Verapaz",
+    "sort": "69325"
+  },
+  {
+    "city": "San Pedro Sacatepéquez",
+    "admin": "San Marcos",
+    "sort": "67075"
+  },
+  {
+    "city": "San Francisco El Alto",
+    "admin": "Totonicapán",
+    "sort": "65521"
+  },
+  {
+    "city": "Purulhá",
+    "admin": "Baja Verapaz",
+    "sort": "65340"
+  },
+  {
+    "city": "Los Amates",
+    "admin": "Izabal",
+    "sort": "65475"
+  },
+  {
+    "city": "Esquipulas",
+    "admin": "Chiquimula",
+    "sort": "65000"
+  },
+  {
+    "city": "Santa Catarina Pinula",
+    "admin": "Guatemala",
+    "sort": "63767"
+  },
+  {
+    "city": "Palín",
+    "admin": "Escuintla",
+    "sort": "62127"
+  },
+  {
+    "city": "San Juan Chamelco",
+    "admin": "Alta Verapaz",
+    "sort": "61634"
+  },
+  {
+    "city": "Nahualá",
+    "admin": "Sololá",
+    "sort": "62000"
+  },
+  {
+    "city": "Iztapa",
+    "admin": "Escuintla",
+    "sort": "61448"
+  },
+  {
+    "city": "Cubulco",
+    "admin": "Baja Verapaz",
+    "sort": "60112"
+  },
+  {
+    "city": "Tecpán Guatemala",
+    "admin": "Chimaltenango",
+    "sort": "59859"
+  },
+  {
+    "city": "Comitancillo",
+    "admin": "San Marcos",
+    "sort": "59357"
+  },
+  {
+    "city": "Sayaxché",
+    "admin": "Petén",
+    "sort": "59499"
+  },
+  {
+    "city": "Concepción Tutuapa",
+    "admin": "San Marcos",
+    "sort": "59063"
+  },
+  {
+    "city": "Santa María Chiquimula",
+    "admin": "Totonicapán",
+    "sort": "58918"
+  },
+  {
+    "city": "La Gomera",
+    "admin": "Escuintla",
+    "sort": "58272"
+  },
+  {
+    "city": "Tiquisate",
+    "admin": "Escuintla",
+    "sort": "54983"
+  },
+  {
+    "city": "Tajumulco",
+    "admin": "San Marcos",
+    "sort": "53791"
+  },
+  {
+    "city": "Tucurú",
+    "admin": "Alta Verapaz",
+    "sort": "50971"
+  },
+  {
+    "city": "Cuyotenango",
+    "admin": "Suchitepéquez",
+    "sort": "50860"
+  },
+  {
+    "city": "Gualán",
+    "admin": "Zacapa",
+    "sort": "49709"
+  },
+  {
+    "city": "Palencia",
+    "admin": "Guatemala",
+    "sort": "48923"
+  },
+  {
+    "city": "Santa Catarina Ixtahuacán",
+    "admin": "Sololá",
+    "sort": "48097"
+  },
+  {
+    "city": "San Francisco",
+    "admin": "Petén",
+    "sort": "47919"
+  },
+  {
+    "city": "San José Pinula",
+    "admin": "Guatemala",
+    "sort": "47278"
+  },
+  {
+    "city": "Santiago Atitlán",
+    "admin": "Sololá",
+    "sort": "45982"
+  },
+  {
+    "city": "San Pedro Ayampuc",
+    "admin": "Guatemala",
+    "sort": "44996"
+  },
+  {
+    "city": "Rabinal",
+    "admin": "Baja Verapaz",
+    "sort": "45000"
+  },
+  {
+    "city": "San Cristóbal Totonicapán",
+    "admin": "Totonicapán",
+    "sort": "42937"
+  },
+  {
+    "city": "Poptún",
+    "admin": "Petén",
+    "sort": "42996"
+  },
+  {
+    "city": "Tactic",
+    "admin": "Alta Verapaz",
+    "sort": "41930"
+  },
+  {
+    "city": "Uspantán",
+    "admin": "Quiché",
+    "sort": "41892"
+  },
+  {
+    "city": "El Tumbador",
+    "admin": "San Marcos",
+    "sort": "40520"
+  },
+  {
+    "city": "Asunción Mita",
+    "admin": "Jutiapa",
+    "sort": "40391"
+  },
+  {
+    "city": "San Agustín Acasaguastlán",
+    "admin": "El Progreso",
+    "sort": "40121"
+  },
+  {
+    "city": "Raxruhá",
+    "admin": "Alta Verapaz",
+    "sort": "40094"
+  },
+  {
+    "city": "Dolores",
+    "admin": "Petén",
+    "sort": "39783"
+  },
+  {
+    "city": "La Unión",
+    "admin": "Zacapa",
+    "sort": "38473"
+  },
+  {
+    "city": "San Miguel Chicaj",
+    "admin": "Baja Verapaz",
+    "sort": "36845"
+  },
+  {
+    "city": "Santa Cruz Verapaz",
+    "admin": "Alta Verapaz",
+    "sort": "35878"
+  },
+  {
+    "city": "San Miguel Ixtahuacán",
+    "admin": "San Marcos",
+    "sort": "35276"
+  },
+  {
+    "city": "Champerico",
+    "admin": "Retalhuleu",
+    "sort": "35000"
+  },
+  {
+    "city": "Todos Santos Cuchumatán",
+    "admin": "Huehuetenango",
+    "sort": "33619"
+  },
+  {
+    "city": "Cantel",
+    "admin": "Quetzaltenango",
+    "sort": "32221"
+  },
+  {
+    "city": "Ciudad Tecún Umán",
+    "admin": "San Marcos",
+    "sort": "33426"
+  },
+  {
+    "city": "Fraijanes",
+    "admin": "Guatemala",
+    "sort": "32889"
+  },
+  {
+    "city": "Sanarate",
+    "admin": "El Progreso",
+    "sort": "33025"
+  },
+  {
+    "city": "Mataquescuintla",
+    "admin": "Jalapa",
+    "sort": "32860"
+  },
+  {
+    "city": "Olintepeque",
+    "admin": "Quetzaltenango",
+    "sort": "31551"
+  },
+  {
+    "city": "San Andrés Itzapa",
+    "admin": "Chimaltenango",
+    "sort": "31956"
+  },
+  {
+    "city": "Santo Domingo Suchitepéquez",
+    "admin": "Suchitepéquez",
+    "sort": "32202"
+  },
+  {
+    "city": "Chajul",
+    "admin": "Quiché",
+    "sort": "31780"
+  },
+  {
+    "city": "San Pedro Sacatepéquez",
+    "admin": "Guatemala",
+    "sort": "31503"
+  },
+  {
+    "city": "San Andrés Xecul",
+    "admin": "Totonicapán",
+    "sort": "29849"
+  },
+  {
+    "city": "Ciudad Vieja",
+    "admin": "Sacatepéquez",
+    "sort": "30565"
+  },
+  {
+    "city": "San Agustín Chahal",
+    "admin": "Alta Verapaz",
+    "sort": "29590"
+  },
+  {
+    "city": "Nentón",
+    "admin": "Huehuetenango",
+    "sort": "28983"
+  },
+  {
+    "city": "Sibinal",
+    "admin": "San Marcos",
+    "sort": "27171"
+  },
+  {
+    "city": "Ixchiguán",
+    "admin": "San Marcos",
+    "sort": "27176"
+  },
+  {
+    "city": "Lanquín",
+    "admin": "Alta Verapaz",
+    "sort": "26551"
+  },
+  {
+    "city": "Colotenango",
+    "admin": "Huehuetenango",
+    "sort": "25900"
+  },
+  {
+    "city": "San Lucas Sacatepéquez",
+    "admin": "Sacatepéquez",
+    "sort": "25198"
+  },
+  {
+    "city": "San Juan Ixcoy",
+    "admin": "Huehuetenango",
+    "sort": "25846"
+  },
+  {
+    "city": "San Lucas Tolimán",
+    "admin": "Sololá",
+    "sort": "25650"
+  },
+  {
+    "city": "Santa Lucia La Reforma",
+    "admin": "Totonicapán",
+    "sort": "25668"
+  },
+  {
+    "city": "La Blanca",
+    "admin": "San Marcos",
+    "sort": "25000"
+  },
+  {
+    "city": "San Martín Sacatepéquez",
+    "admin": "Quetzaltenango",
+    "sort": "24700"
+  },
+  {
+    "city": "Cabricán",
+    "admin": "Quetzaltenango",
+    "sort": "24474"
+  },
+  {
+    "city": "Tamahú",
+    "admin": "Alta Verapaz",
+    "sort": "24444"
+  },
+  {
+    "city": "Puerto San José",
+    "admin": "Escuintla",
+    "sort": "23887"
+  },
+  {
+    "city": "Comapa",
+    "admin": "Jutiapa",
+    "sort": "23715"
+  },
+  {
+    "city": "Olopa",
+    "admin": "Chiquimula",
+    "sort": "23668"
+  },
+  {
+    "city": "Santa Lucía Utatlán",
+    "admin": "Sololá",
+    "sort": "23255"
+  },
+  {
+    "city": "El Tejar",
+    "admin": "Chimaltenango",
+    "sort": "23100"
+  },
+  {
+    "city": "Taxisco",
+    "admin": "Santa Rosa",
+    "sort": "22948"
+  },
+  {
+    "city": "La Democracia",
+    "admin": "Escuintla",
+    "sort": "22884"
+  },
+  {
+    "city": "San Raimundo",
+    "admin": "Guatemala",
+    "sort": "22615"
+  },
+  {
+    "city": "Zacualpa",
+    "admin": "Quiché",
+    "sort": "22846"
+  },
+  {
+    "city": "El Progreso",
+    "admin": "Jutiapa",
+    "sort": "22220"
+  },
+  {
+    "city": "San Andrés Villa Seca",
+    "admin": "Retalhuleu",
+    "sort": "22245"
+  },
+  {
+    "city": "Siquinalá",
+    "admin": "Escuintla",
+    "sort": "20843"
+  },
+  {
+    "city": "Ocós",
+    "admin": "San Marcos",
+    "sort": "20215"
+  },
+  {
+    "city": "Teculután",
+    "admin": "Zacapa",
+    "sort": "20272"
+  },
+  {
+    "city": "Ciudad Melchor de Mencos",
+    "admin": "Petén",
+    "sort": "20273"
+  },
+  {
+    "city": "San José Ojetenam",
+    "admin": "San Marcos",
+    "sort": "19194"
+  },
+  {
+    "city": "San Antonio Sacatepéquez",
+    "admin": "San Marcos",
+    "sort": "19103"
+  },
+  {
+    "city": "El Quetzal",
+    "admin": "San Marcos",
+    "sort": "18979"
+  },
+  {
+    "city": "Salcajá",
+    "admin": "Quetzaltenango",
+    "sort": "17535"
+  },
+  {
+    "city": "Huitán",
+    "admin": "Quetzaltenango",
+    "sort": "17209"
+  },
+  {
+    "city": "Yupiltepeque",
+    "admin": "Jutiapa",
+    "sort": "17574"
+  },
+  {
+    "city": "Almolonga",
+    "admin": "Quetzaltenango",
+    "sort": "17186"
+  },
+  {
+    "city": "San Felipe",
+    "admin": "Retalhuleu",
+    "sort": "17268"
+  },
+  {
+    "city": "Sipacapa",
+    "admin": "San Marcos",
+    "sort": "17549"
+  },
+  {
+    "city": "Alotenango",
+    "admin": "Sacatepéquez",
+    "sort": "17369"
+  },
+  {
+    "city": "Cajolá",
+    "admin": "Quetzaltenango",
+    "sort": "16751"
+  },
+  {
+    "city": "Palestina de los Altos",
+    "admin": "Quetzaltenango",
+    "sort": "16384"
+  },
+  {
+    "city": "Pajapita",
+    "admin": "San Marcos",
+    "sort": "16600"
+  },
+  {
+    "city": "Santa Cruz Naranjo",
+    "admin": "Santa Rosa",
+    "sort": "16385"
+  },
+  {
+    "city": "San Cristóbal Cucho",
+    "admin": "San Marcos",
+    "sort": "16158"
+  },
+  {
+    "city": "Guanagazapa",
+    "admin": "Escuintla",
+    "sort": "16187"
+  },
+  {
+    "city": "Atescatempa",
+    "admin": "Jutiapa",
+    "sort": "15820"
+  },
+  {
+    "city": "Santa María de Jesús",
+    "admin": "Sacatepéquez",
+    "sort": "15529"
+  },
+  {
+    "city": "San Rafael Pie de la Cuesta",
+    "admin": "San Marcos",
+    "sort": "15207"
+  },
+  {
+    "city": "Conguaco",
+    "admin": "Jutiapa",
+    "sort": "15295"
+  },
+  {
+    "city": "San Antonio La Paz",
+    "admin": "El Progreso",
+    "sort": "15142"
+  },
+  {
+    "city": "Cabañas",
+    "admin": "Zacapa",
+    "sort": "14817"
+  },
+  {
+    "city": "Pastores",
+    "admin": "Sacatepéquez",
+    "sort": "13902"
+  },
+  {
+    "city": "Guazacapán",
+    "admin": "Santa Rosa",
+    "sort": "13979"
+  },
+  {
+    "city": "San Bartolo",
+    "admin": "Totonicapán",
+    "sort": "12459"
+  },
+  {
+    "city": "San Jorge",
+    "admin": "Zacapa",
+    "sort": "13525"
+  },
+  {
+    "city": "Agua Blanca",
+    "admin": "Jutiapa",
+    "sort": "13571"
+  },
+  {
+    "city": "Usumatlán",
+    "admin": "Zacapa",
+    "sort": "13245"
+  },
+  {
+    "city": "Chiquimulilla",
+    "admin": "Santa Rosa",
+    "sort": "12842"
+  },
+  {
+    "city": "Zunil",
+    "admin": "Quetzaltenango",
+    "sort": "12356"
+  },
+  {
+    "city": "San Antonio Palopó",
+    "admin": "Sololá",
+    "sort": "11728"
+  },
+  {
+    "city": "Huité",
+    "admin": "Zacapa",
+    "sort": "12021"
+  },
+  {
+    "city": "El Palmar",
+    "admin": "Quetzaltenango",
+    "sort": "11875"
+  },
+  {
+    "city": "Esquipulas Palo Gordo",
+    "admin": "San Marcos",
+    "sort": "11138"
+  },
+  {
+    "city": "Panajachel",
+    "admin": "Sololá",
+    "sort": "11142"
+  },
+  {
+    "city": "Morazán",
+    "admin": "El Progreso",
+    "sort": "11201"
+  },
+  {
+    "city": "Sansare",
+    "admin": "El Progreso",
+    "sort": "11124"
+  },
+  {
+    "city": "Santa Ana Huista",
+    "admin": "Huehuetenango",
+    "sort": "11134"
+  },
+  {
+    "city": "Estanzuela",
+    "admin": "Zacapa",
+    "sort": "10872"
+  },
+  {
+    "city": "San Pedro La Laguna",
+    "admin": "Sololá",
+    "sort": "10150"
+  },
+  {
+    "city": "El Chol",
+    "admin": "Baja Verapaz",
+    "sort": "10445"
+  },
+  {
+    "city": "San Juan La Laguna",
+    "admin": "Sololá",
+    "sort": "10177"
+  },
+  {
+    "city": "Santa Clara La Laguna",
+    "admin": "Sololá",
+    "sort": "9500"
+  },
+  {
+    "city": "Sipacate",
+    "admin": "Escuintla",
+    "sort": "10000"
+  },
+  {
+    "city": "Jerez",
+    "admin": "Jutiapa",
+    "sort": "9845"
+  },
+  {
+    "city": "Canillá",
+    "admin": "Quiché",
+    "sort": "9073"
+  },
+  {
+    "city": "La Libertad",
+    "admin": "Petén",
+    "sort": "8646"
+  },
+  {
+    "city": "Sibilia",
+    "admin": "Quetzaltenango",
+    "sort": "7954"
+  },
+  {
+    "city": "Chinique",
+    "admin": "Quiché",
+    "sort": "8009"
+  },
+  {
+    "city": "Santa Ana",
+    "admin": "Petén",
+    "sort": "7792"
+  },
+  {
+    "city": "San Diego",
+    "admin": "Zacapa",
+    "sort": "7732"
+  },
+  {
+    "city": "San Miguel Sigüilá",
+    "admin": "Quetzaltenango",
+    "sort": "7411"
+  },
+  {
+    "city": "San Vicente Pacaya",
+    "admin": "Escuintla",
+    "sort": "7162"
+  },
+  {
+    "city": "Chuarrancho",
+    "admin": "Guatemala",
+    "sort": "7091"
+  },
+  {
+    "city": "San Cristóbal Acasaguastlán",
+    "admin": "El Progreso",
+    "sort": "6129"
+  },
+  {
+    "city": "San Miguel Panán",
+    "admin": "Suchitepéquez",
+    "sort": "5277"
+  },
+  {
+    "city": "San José del Golfo",
+    "admin": "Guatemala",
+    "sort": "5156"
+  }
+]

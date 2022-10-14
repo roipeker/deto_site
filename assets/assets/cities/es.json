@@ -1,0 +1,5677 @@
+[
+  {
+    "city": "Madrid",
+    "admin": "Madrid",
+    "sort": "6006000"
+  },
+  {
+    "city": "Barcelona",
+    "admin": "Catalonia",
+    "sort": "4735000"
+  },
+  {
+    "city": "Valencia",
+    "admin": "Valencia",
+    "sort": "789744"
+  },
+  {
+    "city": "Sevilla",
+    "admin": "Andalusia",
+    "sort": "684234"
+  },
+  {
+    "city": "Zaragoza",
+    "admin": "Aragon",
+    "sort": "675301"
+  },
+  {
+    "city": "Málaga",
+    "admin": "Andalusia",
+    "sort": "577405"
+  },
+  {
+    "city": "Murcia",
+    "admin": "Murcia",
+    "sort": "460349"
+  },
+  {
+    "city": "Palma",
+    "admin": "Balearic Islands",
+    "sort": "419366"
+  },
+  {
+    "city": "Las Palmas",
+    "admin": "Canary Islands",
+    "sort": "378675"
+  },
+  {
+    "city": "Bilbao",
+    "admin": "Basque Country",
+    "sort": "346405"
+  },
+  {
+    "city": "Alicante",
+    "admin": "Valencia",
+    "sort": "337304"
+  },
+  {
+    "city": "Córdoba",
+    "admin": "Andalusia",
+    "sort": "322071"
+  },
+  {
+    "city": "Valladolid",
+    "admin": "Castille-Leon",
+    "sort": "297775"
+  },
+  {
+    "city": "Vigo",
+    "admin": "Galicia",
+    "sort": "293837"
+  },
+  {
+    "city": "Gijón",
+    "admin": "Asturias",
+    "sort": "268896"
+  },
+  {
+    "city": "Vitoria-Gasteiz",
+    "admin": "Basque Country",
+    "sort": "253093"
+  },
+  {
+    "city": "A Coruña",
+    "admin": "Galicia",
+    "sort": "245468"
+  },
+  {
+    "city": "Elche",
+    "admin": "Valencia",
+    "sort": "234205"
+  },
+  {
+    "city": "Granada",
+    "admin": "Andalusia",
+    "sort": "231775"
+  },
+  {
+    "city": "Badalona",
+    "admin": "Catalonia",
+    "sort": "223006"
+  },
+  {
+    "city": "Tarrasa",
+    "admin": "Catalonia",
+    "sort": "223011"
+  },
+  {
+    "city": "Sabadell",
+    "admin": "Catalonia",
+    "sort": "216204"
+  },
+  {
+    "city": "Oviedo",
+    "admin": "Asturias",
+    "sort": "217552"
+  },
+  {
+    "city": "Cartagena",
+    "admin": "Murcia",
+    "sort": "216365"
+  },
+  {
+    "city": "Móstoles",
+    "admin": "Madrid",
+    "sort": "209639"
+  },
+  {
+    "city": "Jerez de la Frontera",
+    "admin": "Andalusia",
+    "sort": "212801"
+  },
+  {
+    "city": "Pamplona",
+    "admin": "Navarre",
+    "sort": "203081"
+  },
+  {
+    "city": "Santa Cruz",
+    "admin": "Canary Islands",
+    "sort": "208563"
+  },
+  {
+    "city": "Almería",
+    "admin": "Andalusia",
+    "sort": "200753"
+  },
+  {
+    "city": "Alcalá de Henares",
+    "admin": "Madrid",
+    "sort": "195982"
+  },
+  {
+    "city": "Fuenlabrada",
+    "admin": "Madrid",
+    "sort": "192233"
+  },
+  {
+    "city": "Leganés",
+    "admin": "Madrid",
+    "sort": "187762"
+  },
+  {
+    "city": "Donostia",
+    "admin": "Basque Country",
+    "sort": "188102"
+  },
+  {
+    "city": "Getafe",
+    "admin": "Madrid",
+    "sort": "183095"
+  },
+  {
+    "city": "Santander",
+    "admin": "Cantabria",
+    "sort": "172221"
+  },
+  {
+    "city": "Burgos",
+    "admin": "Castille-Leon",
+    "sort": "174051"
+  },
+  {
+    "city": "Alcorcón",
+    "admin": "Madrid",
+    "sort": "170817"
+  },
+  {
+    "city": "Castellón de la Plana",
+    "admin": "Valencia",
+    "sort": "172589"
+  },
+  {
+    "city": "Albacete",
+    "admin": "Castille-La Mancha",
+    "sort": "172722"
+  },
+  {
+    "city": "La Laguna",
+    "admin": "Canary Islands",
+    "sort": "158010"
+  },
+  {
+    "city": "Logroño",
+    "admin": "La Rioja",
+    "sort": "150808"
+  },
+  {
+    "city": "Badajoz",
+    "admin": "Extremadura",
+    "sort": "150610"
+  },
+  {
+    "city": "Marbella",
+    "admin": "Andalusia",
+    "sort": "147958"
+  },
+  {
+    "city": "Salamanca",
+    "admin": "Castille-Leon",
+    "sort": "143269"
+  },
+  {
+    "city": "Huelva",
+    "admin": "Andalusia",
+    "sort": "142538"
+  },
+  {
+    "city": "Lleida",
+    "admin": "Catalonia",
+    "sort": "140080"
+  },
+  {
+    "city": "Tarragona",
+    "admin": "Catalonia",
+    "sort": "135436"
+  },
+  {
+    "city": "Dos Hermanas",
+    "admin": "Andalusia",
+    "sort": "136250"
+  },
+  {
+    "city": "Parla",
+    "admin": "Madrid",
+    "sort": "131689"
+  },
+  {
+    "city": "Mataró",
+    "admin": "Catalonia",
+    "sort": "129120"
+  },
+  {
+    "city": "Torrejón de Ardoz",
+    "admin": "Madrid",
+    "sort": "132771"
+  },
+  {
+    "city": "León",
+    "admin": "Castille-Leon",
+    "sort": "122051"
+  },
+  {
+    "city": "Algeciras",
+    "admin": "Andalusia",
+    "sort": "122982"
+  },
+  {
+    "city": "Cádiz",
+    "admin": "Andalusia",
+    "sort": "114244"
+  },
+  {
+    "city": "Alcobendas",
+    "admin": "Madrid",
+    "sort": "116589"
+  },
+  {
+    "city": "Jaén",
+    "admin": "Andalusia",
+    "sort": "111932"
+  },
+  {
+    "city": "Reus",
+    "admin": "Catalonia",
+    "sort": "106084"
+  },
+  {
+    "city": "Ourense",
+    "admin": "Galicia",
+    "sort": "104596"
+  },
+  {
+    "city": "Girona",
+    "admin": "Catalonia",
+    "sort": "101932"
+  },
+  {
+    "city": "San Vicente de Baracaldo",
+    "admin": "Basque Country",
+    "sort": "100907"
+  },
+  {
+    "city": "Telde",
+    "admin": "Canary Islands",
+    "sort": "102769"
+  },
+  {
+    "city": "Santiago de Compostela",
+    "admin": "Galicia",
+    "sort": "97858"
+  },
+  {
+    "city": "San Fernando",
+    "admin": "Andalusia",
+    "sort": "94867"
+  },
+  {
+    "city": "Ciudad de Melilla",
+    "admin": "Melilla",
+    "sort": "86261"
+  },
+  {
+    "city": "Fuengirola",
+    "admin": "Andalusia",
+    "sort": "82585"
+  },
+  {
+    "city": "Ciudad de Ceuta",
+    "admin": "Ceuta",
+    "sort": "83517"
+  },
+  {
+    "city": "San Baudilio de Llobregat",
+    "admin": "Catalonia",
+    "sort": "83755"
+  },
+  {
+    "city": "Toledo",
+    "admin": "Castille-La Mancha",
+    "sort": "85449"
+  },
+  {
+    "city": "Rubí",
+    "admin": "Catalonia",
+    "sort": "78549"
+  },
+  {
+    "city": "Avilés",
+    "admin": "Asturias",
+    "sort": "76874"
+  },
+  {
+    "city": "Benalmádena",
+    "admin": "Andalusia",
+    "sort": "70204"
+  },
+  {
+    "city": "Castelldefels",
+    "admin": "Catalonia",
+    "sort": "67226"
+  },
+  {
+    "city": "Torremolinos",
+    "admin": "Andalusia",
+    "sort": "68056"
+  },
+  {
+    "city": "Viladecáns",
+    "admin": "Catalonia",
+    "sort": "66707"
+  },
+  {
+    "city": "El Prat de Llobregat",
+    "admin": "Catalonia",
+    "sort": "65532"
+  },
+  {
+    "city": "Arrecife",
+    "admin": "Canary Islands",
+    "sort": "64497"
+  },
+  {
+    "city": "Granollers",
+    "admin": "Catalonia",
+    "sort": "62475"
+  },
+  {
+    "city": "Collado-Villalba",
+    "admin": "Madrid",
+    "sort": "63825"
+  },
+  {
+    "city": "La Línea de la Concepción",
+    "admin": "Andalusia",
+    "sort": "63365"
+  },
+  {
+    "city": "Portugalete",
+    "admin": "Basque Country",
+    "sort": "45285"
+  },
+  {
+    "city": "Mislata",
+    "admin": "Valencia",
+    "sort": "44320"
+  },
+  {
+    "city": "Mérida",
+    "admin": "Extremadura",
+    "sort": "59424"
+  },
+  {
+    "city": "Esplugas de Llobregat",
+    "admin": "Catalonia",
+    "sort": "46777"
+  },
+  {
+    "city": "Mollet",
+    "admin": "Catalonia",
+    "sort": "51151"
+  },
+  {
+    "city": "Ibiza",
+    "admin": "Balearic Islands",
+    "sort": "50643"
+  },
+  {
+    "city": "Santurce-Antiguo",
+    "admin": "Basque Country",
+    "sort": "46085"
+  },
+  {
+    "city": "Mairena del Aljarafe",
+    "admin": "Andalusia",
+    "sort": "46895"
+  },
+  {
+    "city": "Figueras",
+    "admin": "Catalonia",
+    "sort": "47043"
+  },
+  {
+    "city": "San Felíu de Llobregat",
+    "admin": "Catalonia",
+    "sort": "45463"
+  },
+  {
+    "city": "Ripollet",
+    "admin": "Catalonia",
+    "sort": "38347"
+  },
+  {
+    "city": "San Adrián de Besós",
+    "admin": "Catalonia",
+    "sort": "37283"
+  },
+  {
+    "city": "Igualada",
+    "admin": "Catalonia",
+    "sort": "40875"
+  },
+  {
+    "city": "Alcantarilla",
+    "admin": "Murcia",
+    "sort": "42559"
+  },
+  {
+    "city": "Blanes",
+    "admin": "Catalonia",
+    "sort": "40274"
+  },
+  {
+    "city": "Villafranca del Panadés",
+    "admin": "Catalonia",
+    "sort": "39969"
+  },
+  {
+    "city": "Burjasot",
+    "admin": "Valencia",
+    "sort": "38712"
+  },
+  {
+    "city": "San Juan Despí",
+    "admin": "Catalonia",
+    "sort": "34130"
+  },
+  {
+    "city": "Premiá de Mar",
+    "admin": "Catalonia",
+    "sort": "28523"
+  },
+  {
+    "city": "Alacuás",
+    "admin": "Valencia",
+    "sort": "29649"
+  },
+  {
+    "city": "Salt",
+    "admin": "Catalonia",
+    "sort": "32230"
+  },
+  {
+    "city": "Sestao",
+    "admin": "Basque Country",
+    "sort": "27342"
+  },
+  {
+    "city": "Aldaya",
+    "admin": "Valencia",
+    "sort": "32313"
+  },
+  {
+    "city": "Paiporta",
+    "admin": "Valencia",
+    "sort": "26401"
+  },
+  {
+    "city": "Barañáin",
+    "admin": "Navarre",
+    "sort": "19853"
+  },
+  {
+    "city": "Durango",
+    "admin": "Basque Country",
+    "sort": "29935"
+  },
+  {
+    "city": "San Andrés de la Barca",
+    "admin": "Catalonia",
+    "sort": "27175"
+  },
+  {
+    "city": "Benetúser",
+    "admin": "Valencia",
+    "sort": "15430"
+  },
+  {
+    "city": "San Vicente dels Horts",
+    "admin": "Catalonia",
+    "sort": "28115"
+  },
+  {
+    "city": "Martorell",
+    "admin": "Catalonia",
+    "sort": "28667"
+  },
+  {
+    "city": "Catarroja",
+    "admin": "Valencia",
+    "sort": "28509"
+  },
+  {
+    "city": "Tomares",
+    "admin": "Andalusia",
+    "sort": "25370"
+  },
+  {
+    "city": "Armilla",
+    "admin": "Andalusia",
+    "sort": "24388"
+  },
+  {
+    "city": "Camas",
+    "admin": "Andalusia",
+    "sort": "27490"
+  },
+  {
+    "city": "Alboraya",
+    "admin": "Valencia",
+    "sort": "24904"
+  },
+  {
+    "city": "San Juan de Aznalfarache",
+    "admin": "Andalusia",
+    "sort": "22088"
+  },
+  {
+    "city": "San Juan de Alicante",
+    "admin": "Valencia",
+    "sort": "24363"
+  },
+  {
+    "city": "Maracena",
+    "admin": "Andalusia",
+    "sort": "22358"
+  },
+  {
+    "city": "San Juan de Vilasar",
+    "admin": "Catalonia",
+    "sort": "20936"
+  },
+  {
+    "city": "Castilleja de la Cuesta",
+    "admin": "Andalusia",
+    "sort": "17366"
+  },
+  {
+    "city": "Alfafar",
+    "admin": "Valencia",
+    "sort": "21415"
+  },
+  {
+    "city": "Sant Just Desvern",
+    "admin": "Catalonia",
+    "sort": "19379"
+  },
+  {
+    "city": "Calella",
+    "admin": "Catalonia",
+    "sort": "19236"
+  },
+  {
+    "city": "Malgrat de Mar",
+    "admin": "Catalonia",
+    "sort": "18950"
+  },
+  {
+    "city": "El Astillero",
+    "admin": "Cantabria",
+    "sort": "18116"
+  },
+  {
+    "city": "Canovellas",
+    "admin": "Catalonia",
+    "sort": "16872"
+  },
+  {
+    "city": "Albal",
+    "admin": "Valencia",
+    "sort": "16646"
+  },
+  {
+    "city": "Masamagrell",
+    "admin": "Valencia",
+    "sort": "16132"
+  },
+  {
+    "city": "Ermúa",
+    "admin": "Basque Country",
+    "sort": "15791"
+  },
+  {
+    "city": "Arenys de Mar",
+    "admin": "Catalonia",
+    "sort": "15942"
+  },
+  {
+    "city": "Gines",
+    "admin": "Andalusia",
+    "sort": "13529"
+  },
+  {
+    "city": "Churriana de la Vega",
+    "admin": "Andalusia",
+    "sort": "15741"
+  },
+  {
+    "city": "Tabernes Blanques",
+    "admin": "Valencia",
+    "sort": "9205"
+  },
+  {
+    "city": "La Llagosta",
+    "admin": "Catalonia",
+    "sort": "13259"
+  },
+  {
+    "city": "Canet de Mar",
+    "admin": "Catalonia",
+    "sort": "14810"
+  },
+  {
+    "city": "Ogíjares",
+    "admin": "Andalusia",
+    "sort": "14559"
+  },
+  {
+    "city": "Mollerusa",
+    "admin": "Catalonia",
+    "sort": "14545"
+  },
+  {
+    "city": "Mongat",
+    "admin": "Catalonia",
+    "sort": "12260"
+  },
+  {
+    "city": "Sedaví",
+    "admin": "Valencia",
+    "sort": "10344"
+  },
+  {
+    "city": "Huétor Vega",
+    "admin": "Andalusia",
+    "sort": "12120"
+  },
+  {
+    "city": "Berriozar",
+    "admin": "Navarre",
+    "sort": "10723"
+  },
+  {
+    "city": "Nazaret",
+    "admin": "Valencia",
+    "sort": "6117"
+  },
+  {
+    "city": "Meliana",
+    "admin": "Valencia",
+    "sort": "10926"
+  },
+  {
+    "city": "Lekeitio",
+    "admin": "Basque Country",
+    "sort": "7271"
+  },
+  {
+    "city": "Reinosa",
+    "admin": "Cantabria",
+    "sort": "8810"
+  },
+  {
+    "city": "Montmeló",
+    "admin": "Catalonia",
+    "sort": "8798"
+  },
+  {
+    "city": "Rocafort",
+    "admin": "Valencia",
+    "sort": "7445"
+  },
+  {
+    "city": "Ondárroa",
+    "admin": "Basque Country",
+    "sort": "8326"
+  },
+  {
+    "city": "Almácera",
+    "admin": "Valencia",
+    "sort": "7433"
+  },
+  {
+    "city": "Roda del Ter",
+    "admin": "Catalonia",
+    "sort": "6449"
+  },
+  {
+    "city": "Cájar",
+    "admin": "Andalusia",
+    "sort": "5262"
+  },
+  {
+    "city": "Roquetas de Mar",
+    "admin": "Andalusia",
+    "sort": "98725"
+  },
+  {
+    "city": "Lugo",
+    "admin": "Galicia",
+    "sort": "97613"
+  },
+  {
+    "city": "Las Rozas de Madrid",
+    "admin": "Madrid",
+    "sort": "94862"
+  },
+  {
+    "city": "Lorca",
+    "admin": "Murcia",
+    "sort": "96238"
+  },
+  {
+    "city": "San Cugat del Vallés",
+    "admin": "Catalonia",
+    "sort": "94012"
+  },
+  {
+    "city": "Cáceres",
+    "admin": "Extremadura",
+    "sort": "95418"
+  },
+  {
+    "city": "San Sebastián de los Reyes",
+    "admin": "Madrid",
+    "sort": "90962"
+  },
+  {
+    "city": "El Puerto de Santa María",
+    "admin": "Andalusia",
+    "sort": "89060"
+  },
+  {
+    "city": "Guadalajara",
+    "admin": "Castille-La Mancha",
+    "sort": "87064"
+  },
+  {
+    "city": "Mijas",
+    "admin": "Andalusia",
+    "sort": "86744"
+  },
+  {
+    "city": "Chiclana de la Frontera",
+    "admin": "Andalusia",
+    "sort": "86306"
+  },
+  {
+    "city": "Torrente",
+    "admin": "Valencia",
+    "sort": "84025"
+  },
+  {
+    "city": "El Ejido",
+    "admin": "Andalusia",
+    "sort": "84005"
+  },
+  {
+    "city": "Talavera de la Reina",
+    "admin": "Castille-La Mancha",
+    "sort": "83477"
+  },
+  {
+    "city": "Torrevieja",
+    "admin": "Valencia",
+    "sort": "82842"
+  },
+  {
+    "city": "Pontevedra",
+    "admin": "Galicia",
+    "sort": "83114"
+  },
+  {
+    "city": "Arona",
+    "admin": "Canary Islands",
+    "sort": "82563"
+  },
+  {
+    "city": "Vélez-Málaga",
+    "admin": "Andalusia",
+    "sort": "82967"
+  },
+  {
+    "city": "Manresa",
+    "admin": "Catalonia",
+    "sort": "78192"
+  },
+  {
+    "city": "Orihuela",
+    "admin": "Valencia",
+    "sort": "78940"
+  },
+  {
+    "city": "Valdemoro",
+    "admin": "Madrid",
+    "sort": "77587"
+  },
+  {
+    "city": "Palencia",
+    "admin": "Castille-Leon",
+    "sort": "77090"
+  },
+  {
+    "city": "Gandía",
+    "admin": "Valencia",
+    "sort": "75970"
+  },
+  {
+    "city": "Alcalá de Guadaira",
+    "admin": "Andalusia",
+    "sort": "75546"
+  },
+  {
+    "city": "Ciudad Real",
+    "admin": "Castille-La Mancha",
+    "sort": "75104"
+  },
+  {
+    "city": "Molina de Segura",
+    "admin": "Murcia",
+    "sort": "73498"
+  },
+  {
+    "city": "Majadahonda",
+    "admin": "Madrid",
+    "sort": "72034"
+  },
+  {
+    "city": "Paterna",
+    "admin": "Valencia",
+    "sort": "71361"
+  },
+  {
+    "city": "Estepona",
+    "admin": "Andalusia",
+    "sort": "71925"
+  },
+  {
+    "city": "Benidorm",
+    "admin": "Valencia",
+    "sort": "69118"
+  },
+  {
+    "city": "Sanlúcar de Barrameda",
+    "admin": "Andalusia",
+    "sort": "69507"
+  },
+  {
+    "city": "Villanueva y Geltrú",
+    "admin": "Catalonia",
+    "sort": "67458"
+  },
+  {
+    "city": "Sagunto",
+    "admin": "Valencia",
+    "sort": "67043"
+  },
+  {
+    "city": "Ferrol",
+    "admin": "Galicia",
+    "sort": "64785"
+  },
+  {
+    "city": "Irún",
+    "admin": "Basque Country",
+    "sort": "62933"
+  },
+  {
+    "city": "Ponferrada",
+    "admin": "Castille-Leon",
+    "sort": "63747"
+  },
+  {
+    "city": "Zamora",
+    "admin": "Castille-Leon",
+    "sort": "60297"
+  },
+  {
+    "city": "San Vicente del Raspeig",
+    "admin": "Valencia",
+    "sort": "58912"
+  },
+  {
+    "city": "Boadilla del Monte",
+    "admin": "Madrid",
+    "sort": "59052"
+  },
+  {
+    "city": "Aranjuez",
+    "admin": "Madrid",
+    "sort": "59833"
+  },
+  {
+    "city": "Alcoy",
+    "admin": "Valencia",
+    "sort": "59128"
+  },
+  {
+    "city": "Motril",
+    "admin": "Andalusia",
+    "sort": "58545"
+  },
+  {
+    "city": "Ávila",
+    "admin": "Castille-Leon",
+    "sort": "57949"
+  },
+  {
+    "city": "Linares",
+    "admin": "Andalusia",
+    "sort": "56525"
+  },
+  {
+    "city": "Pinto",
+    "admin": "Madrid",
+    "sort": "53537"
+  },
+  {
+    "city": "Cuenca",
+    "admin": "Castille-La Mancha",
+    "sort": "53988"
+  },
+  {
+    "city": "Huesca",
+    "admin": "Aragon",
+    "sort": "53429"
+  },
+  {
+    "city": "Elda",
+    "admin": "Valencia",
+    "sort": "52551"
+  },
+  {
+    "city": "San Bartolomé",
+    "admin": "Canary Islands",
+    "sort": "53066"
+  },
+  {
+    "city": "Colmenar Viejo",
+    "admin": "Madrid",
+    "sort": "52480"
+  },
+  {
+    "city": "Torrelavega",
+    "admin": "Cantabria",
+    "sort": "51237"
+  },
+  {
+    "city": "Granadilla de Abona",
+    "admin": "Canary Islands",
+    "sort": "51850"
+  },
+  {
+    "city": "Villareal",
+    "admin": "Valencia",
+    "sort": "51130"
+  },
+  {
+    "city": "Calviá",
+    "admin": "Balearic Islands",
+    "sort": "51567"
+  },
+  {
+    "city": "Pola de Siero",
+    "admin": "Asturias",
+    "sort": "51608"
+  },
+  {
+    "city": "Rincón de la Victoria",
+    "admin": "Andalusia",
+    "sort": "49790"
+  },
+  {
+    "city": "Segovia",
+    "admin": "Castille-Leon",
+    "sort": "51258"
+  },
+  {
+    "city": "Utrera",
+    "admin": "Andalusia",
+    "sort": "51145"
+  },
+  {
+    "city": "Adeje",
+    "admin": "Canary Islands",
+    "sort": "48733"
+  },
+  {
+    "city": "Vich",
+    "admin": "Catalonia",
+    "sort": "47319"
+  },
+  {
+    "city": "Gavá",
+    "admin": "Catalonia",
+    "sort": "46931"
+  },
+  {
+    "city": "Puertollano",
+    "admin": "Castille-La Mancha",
+    "sort": "46036"
+  },
+  {
+    "city": "Alcira",
+    "admin": "Valencia",
+    "sort": "44865"
+  },
+  {
+    "city": "Manacor",
+    "admin": "Balearic Islands",
+    "sort": "44809"
+  },
+  {
+    "city": "Denia",
+    "admin": "Valencia",
+    "sort": "42953"
+  },
+  {
+    "city": "Lucena",
+    "admin": "Andalusia",
+    "sort": "42712"
+  },
+  {
+    "city": "La Orotava",
+    "admin": "Canary Islands",
+    "sort": "42219"
+  },
+  {
+    "city": "Alhaurín de la Torre",
+    "admin": "Andalusia",
+    "sort": "41868"
+  },
+  {
+    "city": "Puerto Real",
+    "admin": "Andalusia",
+    "sort": "41771"
+  },
+  {
+    "city": "Puerto del Rosario",
+    "admin": "Canary Islands",
+    "sort": "41786"
+  },
+  {
+    "city": "Antequera",
+    "admin": "Andalusia",
+    "sort": "41348"
+  },
+  {
+    "city": "San Fernando de Henares",
+    "admin": "Madrid",
+    "sort": "39313"
+  },
+  {
+    "city": "Santa Eulalia del Río",
+    "admin": "Balearic Islands",
+    "sort": "40038"
+  },
+  {
+    "city": "Vendrell",
+    "admin": "Catalonia",
+    "sort": "38891"
+  },
+  {
+    "city": "Écija",
+    "admin": "Andalusia",
+    "sort": "39838"
+  },
+  {
+    "city": "Soria",
+    "admin": "Castille-Leon",
+    "sort": "39695"
+  },
+  {
+    "city": "Plasencia",
+    "admin": "Extremadura",
+    "sort": "39558"
+  },
+  {
+    "city": "Arucas",
+    "admin": "Canary Islands",
+    "sort": "38535"
+  },
+  {
+    "city": "Narón",
+    "admin": "Galicia",
+    "sort": "38913"
+  },
+  {
+    "city": "La Rinconada",
+    "admin": "Andalusia",
+    "sort": "39204"
+  },
+  {
+    "city": "Lloret de Mar",
+    "admin": "Catalonia",
+    "sort": "38402"
+  },
+  {
+    "city": "Sama",
+    "admin": "Asturias",
+    "sort": "38683"
+  },
+  {
+    "city": "Marratxi",
+    "admin": "Balearic Islands",
+    "sort": "38357"
+  },
+  {
+    "city": "Los Palacios y Villafranca",
+    "admin": "Andalusia",
+    "sort": "38678"
+  },
+  {
+    "city": "Lluchmayor",
+    "admin": "Balearic Islands",
+    "sort": "38224"
+  },
+  {
+    "city": "Moncada",
+    "admin": "Catalonia",
+    "sort": "36794"
+  },
+  {
+    "city": "Villagarcía de Arosa",
+    "admin": "Galicia",
+    "sort": "37545"
+  },
+  {
+    "city": "Oleiros",
+    "admin": "Galicia",
+    "sort": "36922"
+  },
+  {
+    "city": "Olot",
+    "admin": "Catalonia",
+    "sort": "36299"
+  },
+  {
+    "city": "Torre-Pacheco",
+    "admin": "Murcia",
+    "sort": "37299"
+  },
+  {
+    "city": "Don Benito",
+    "admin": "Extremadura",
+    "sort": "37275"
+  },
+  {
+    "city": "Mieres",
+    "admin": "Asturias",
+    "sort": "37026"
+  },
+  {
+    "city": "Tudela",
+    "admin": "Navarre",
+    "sort": "37008"
+  },
+  {
+    "city": "Azuqueca de Henares",
+    "admin": "Castille-La Mancha",
+    "sort": "35236"
+  },
+  {
+    "city": "Villajoyosa",
+    "admin": "Valencia",
+    "sort": "34684"
+  },
+  {
+    "city": "Andújar",
+    "admin": "Andalusia",
+    "sort": "36212"
+  },
+  {
+    "city": "Onteniente",
+    "admin": "Valencia",
+    "sort": "35946"
+  },
+  {
+    "city": "Tomelloso",
+    "admin": "Castille-La Mancha",
+    "sort": "35984"
+  },
+  {
+    "city": "Águilas",
+    "admin": "Murcia",
+    "sort": "35956"
+  },
+  {
+    "city": "Cambrils",
+    "admin": "Catalonia",
+    "sort": "35064"
+  },
+  {
+    "city": "Miranda de Ebro",
+    "admin": "Castille-Leon",
+    "sort": "35528"
+  },
+  {
+    "city": "Teruel",
+    "admin": "Aragon",
+    "sort": "35691"
+  },
+  {
+    "city": "Burriana",
+    "admin": "Valencia",
+    "sort": "34903"
+  },
+  {
+    "city": "Cieza",
+    "admin": "Murcia",
+    "sort": "35301"
+  },
+  {
+    "city": "Arroyomolinos",
+    "admin": "Madrid",
+    "sort": "33687"
+  },
+  {
+    "city": "Galapagar",
+    "admin": "Madrid",
+    "sort": "34712"
+  },
+  {
+    "city": "Yecla",
+    "admin": "Murcia",
+    "sort": "35083"
+  },
+  {
+    "city": "Santa Pola",
+    "admin": "Valencia",
+    "sort": "34148"
+  },
+  {
+    "city": "Petrel",
+    "admin": "Valencia",
+    "sort": "34009"
+  },
+  {
+    "city": "Inca",
+    "admin": "Balearic Islands",
+    "sort": "33726"
+  },
+  {
+    "city": "Úbeda",
+    "admin": "Andalusia",
+    "sort": "34208"
+  },
+  {
+    "city": "Villena",
+    "admin": "Valencia",
+    "sort": "34025"
+  },
+  {
+    "city": "San Javier",
+    "admin": "Murcia",
+    "sort": "33645"
+  },
+  {
+    "city": "Almendralejo",
+    "admin": "Extremadura",
+    "sort": "33741"
+  },
+  {
+    "city": "Tortosa",
+    "admin": "Catalonia",
+    "sort": "33572"
+  },
+  {
+    "city": "Ronda",
+    "admin": "Andalusia",
+    "sort": "33624"
+  },
+  {
+    "city": "Aranda de Duero",
+    "admin": "Castille-Leon",
+    "sort": "33084"
+  },
+  {
+    "city": "Castro-Urdiales",
+    "admin": "Cantabria",
+    "sort": "32975"
+  },
+  {
+    "city": "Arteijo",
+    "admin": "Galicia",
+    "sort": "32894"
+  },
+  {
+    "city": "Mazarrón",
+    "admin": "Murcia",
+    "sort": "32988"
+  },
+  {
+    "city": "Manises",
+    "admin": "Valencia",
+    "sort": "31287"
+  },
+  {
+    "city": "Ingenio",
+    "admin": "Canary Islands",
+    "sort": "31887"
+  },
+  {
+    "city": "Totana",
+    "admin": "Murcia",
+    "sort": "32316"
+  },
+  {
+    "city": "San Roque",
+    "admin": "Andalusia",
+    "sort": "32178"
+  },
+  {
+    "city": "Amés",
+    "admin": "Galicia",
+    "sort": "31993"
+  },
+  {
+    "city": "San Pedro de Ribas",
+    "admin": "Catalonia",
+    "sort": "31525"
+  },
+  {
+    "city": "Carballo",
+    "admin": "Galicia",
+    "sort": "31414"
+  },
+  {
+    "city": "Níjar",
+    "admin": "Andalusia",
+    "sort": "31458"
+  },
+  {
+    "city": "Coria del Río",
+    "admin": "Andalusia",
+    "sort": "30774"
+  },
+  {
+    "city": "Culleredo",
+    "admin": "Galicia",
+    "sort": "30758"
+  },
+  {
+    "city": "Navalcarnero",
+    "admin": "Madrid",
+    "sort": "30695"
+  },
+  {
+    "city": "Arcos de la Frontera",
+    "admin": "Andalusia",
+    "sort": "30902"
+  },
+  {
+    "city": "Sitges",
+    "admin": "Catalonia",
+    "sort": "30217"
+  },
+  {
+    "city": "Illescas",
+    "admin": "Castille-La Mancha",
+    "sort": "30229"
+  },
+  {
+    "city": "San Andrés del Rabanedo",
+    "admin": "Castille-Leon",
+    "sort": "30160"
+  },
+  {
+    "city": "Alcázar de San Juan",
+    "admin": "Castille-La Mancha",
+    "sort": "30548"
+  },
+  {
+    "city": "Hellín",
+    "admin": "Castille-La Mancha",
+    "sort": "30427"
+  },
+  {
+    "city": "Puerto de la Cruz",
+    "admin": "Canary Islands",
+    "sort": "30179"
+  },
+  {
+    "city": "Salou",
+    "admin": "Catalonia",
+    "sort": "28512"
+  },
+  {
+    "city": "Galdácano",
+    "admin": "Basque Country",
+    "sort": "29404"
+  },
+  {
+    "city": "Valdepeñas",
+    "admin": "Castille-La Mancha",
+    "sort": "30218"
+  },
+  {
+    "city": "Crevillente",
+    "admin": "Valencia",
+    "sort": "29717"
+  },
+  {
+    "city": "Puente-Genil",
+    "admin": "Andalusia",
+    "sort": "29767"
+  },
+  {
+    "city": "Calafell",
+    "admin": "Catalonia",
+    "sort": "28463"
+  },
+  {
+    "city": "Mahón",
+    "admin": "Balearic Islands",
+    "sort": "29578"
+  },
+  {
+    "city": "Redondela",
+    "admin": "Galicia",
+    "sort": "29192"
+  },
+  {
+    "city": "Rota",
+    "admin": "Andalusia",
+    "sort": "29326"
+  },
+  {
+    "city": "Vinaroz",
+    "admin": "Valencia",
+    "sort": "28862"
+  },
+  {
+    "city": "Carmona",
+    "admin": "Andalusia",
+    "sort": "29123"
+  },
+  {
+    "city": "Candelaria",
+    "admin": "Canary Islands",
+    "sort": "28463"
+  },
+  {
+    "city": "Lepe",
+    "admin": "Andalusia",
+    "sort": "28293"
+  },
+  {
+    "city": "Villaviciosa de Odón",
+    "admin": "Madrid",
+    "sort": "28030"
+  },
+  {
+    "city": "Benicarló",
+    "admin": "Valencia",
+    "sort": "27658"
+  },
+  {
+    "city": "Algemesí",
+    "admin": "Valencia",
+    "sort": "27305"
+  },
+  {
+    "city": "Sueca",
+    "admin": "Valencia",
+    "sort": "27617"
+  },
+  {
+    "city": "La Oliva",
+    "admin": "Canary Islands",
+    "sort": "27768"
+  },
+  {
+    "city": "Seseña",
+    "admin": "Castille-La Mancha",
+    "sort": "27466"
+  },
+  {
+    "city": "Vícar",
+    "admin": "Andalusia",
+    "sort": "27398"
+  },
+  {
+    "city": "Molíns de Rey",
+    "admin": "Catalonia",
+    "sort": "26104"
+  },
+  {
+    "city": "Almazora",
+    "admin": "Valencia",
+    "sort": "26878"
+  },
+  {
+    "city": "Lebrija",
+    "admin": "Andalusia",
+    "sort": "27616"
+  },
+  {
+    "city": "Santa Perpetua de Moguda",
+    "admin": "Catalonia",
+    "sort": "26033"
+  },
+  {
+    "city": "Morón de la Frontera",
+    "admin": "Andalusia",
+    "sort": "27582"
+  },
+  {
+    "city": "Cártama",
+    "admin": "Andalusia",
+    "sort": "27436"
+  },
+  {
+    "city": "San Pedro del Pinatar",
+    "admin": "Murcia",
+    "sort": "26320"
+  },
+  {
+    "city": "Cangas",
+    "admin": "Galicia",
+    "sort": "26708"
+  },
+  {
+    "city": "Santa Eugenia",
+    "admin": "Galicia",
+    "sort": "26839"
+  },
+  {
+    "city": "Paracuellos de Jarama",
+    "admin": "Madrid",
+    "sort": "26235"
+  },
+  {
+    "city": "Alhaurín el Grande",
+    "admin": "Andalusia",
+    "sort": "26095"
+  },
+  {
+    "city": "Jumilla",
+    "admin": "Murcia",
+    "sort": "26234"
+  },
+  {
+    "city": "Muchamiel",
+    "admin": "Valencia",
+    "sort": "25679"
+  },
+  {
+    "city": "Almuñécar",
+    "admin": "Andalusia",
+    "sort": "25890"
+  },
+  {
+    "city": "Villanueva de la Serena",
+    "admin": "Extremadura",
+    "sort": "25837"
+  },
+  {
+    "city": "Novelda",
+    "admin": "Valencia",
+    "sort": "25611"
+  },
+  {
+    "city": "Erandio",
+    "admin": "Basque Country",
+    "sort": "24489"
+  },
+  {
+    "city": "Adra",
+    "admin": "Andalusia",
+    "sort": "25501"
+  },
+  {
+    "city": "Bétera",
+    "admin": "Valencia",
+    "sort": "25423"
+  },
+  {
+    "city": "Ciempozuelos",
+    "admin": "Madrid",
+    "sort": "25083"
+  },
+  {
+    "city": "Olesa de Montserrat",
+    "admin": "Catalonia",
+    "sort": "24132"
+  },
+  {
+    "city": "Oliva",
+    "admin": "Valencia",
+    "sort": "25119"
+  },
+  {
+    "city": "Torrelodones",
+    "admin": "Madrid",
+    "sort": "24122"
+  },
+  {
+    "city": "Cambre",
+    "admin": "Galicia",
+    "sort": "24616"
+  },
+  {
+    "city": "Onda",
+    "admin": "Valencia",
+    "sort": "24939"
+  },
+  {
+    "city": "Mejorada del Campo",
+    "admin": "Madrid",
+    "sort": "23737"
+  },
+  {
+    "city": "Villarrobledo",
+    "admin": "Castille-La Mancha",
+    "sort": "24978"
+  },
+  {
+    "city": "Valls",
+    "admin": "Catalonia",
+    "sort": "24553"
+  },
+  {
+    "city": "Marín",
+    "admin": "Galicia",
+    "sort": "24248"
+  },
+  {
+    "city": "Zarautz",
+    "admin": "Basque Country",
+    "sort": "23271"
+  },
+  {
+    "city": "Calahorra",
+    "admin": "La Rioja",
+    "sort": "24579"
+  },
+  {
+    "city": "Almonte",
+    "admin": "Andalusia",
+    "sort": "24577"
+  },
+  {
+    "city": "Calpe",
+    "admin": "Valencia",
+    "sort": "23530"
+  },
+  {
+    "city": "Almansa",
+    "admin": "Castille-La Mancha",
+    "sort": "24388"
+  },
+  {
+    "city": "Martos",
+    "admin": "Andalusia",
+    "sort": "24271"
+  },
+  {
+    "city": "Bormujos",
+    "admin": "Andalusia",
+    "sort": "22390"
+  },
+  {
+    "city": "Mairena del Alcor",
+    "admin": "Andalusia",
+    "sort": "23893"
+  },
+  {
+    "city": "Los Barrios",
+    "admin": "Andalusia",
+    "sort": "23983"
+  },
+  {
+    "city": "Ibi",
+    "admin": "Valencia",
+    "sort": "23652"
+  },
+  {
+    "city": "Liria",
+    "admin": "Valencia",
+    "sort": "23648"
+  },
+  {
+    "city": "San Felíu de Guixols",
+    "admin": "Catalonia",
+    "sort": "22210"
+  },
+  {
+    "city": "Vilaseca de Solcina",
+    "admin": "Catalonia",
+    "sort": "22522"
+  },
+  {
+    "city": "Coín",
+    "admin": "Andalusia",
+    "sort": "23375"
+  },
+  {
+    "city": "Icod de los Vinos",
+    "admin": "Canary Islands",
+    "sort": "23310"
+  },
+  {
+    "city": "Conil de la Frontera",
+    "admin": "Andalusia",
+    "sort": "23182"
+  },
+  {
+    "city": "Laguna de Duero",
+    "admin": "Castille-Leon",
+    "sort": "22633"
+  },
+  {
+    "city": "Altea",
+    "admin": "Valencia",
+    "sort": "22657"
+  },
+  {
+    "city": "Moncada",
+    "admin": "Valencia",
+    "sort": "21875"
+  },
+  {
+    "city": "Villanueva de la Cañada",
+    "admin": "Madrid",
+    "sort": "22580"
+  },
+  {
+    "city": "Esparraguera",
+    "admin": "Catalonia",
+    "sort": "22358"
+  },
+  {
+    "city": "Teguise",
+    "admin": "Canary Islands",
+    "sort": "23044"
+  },
+  {
+    "city": "Puenteareas",
+    "admin": "Galicia",
+    "sort": "22942"
+  },
+  {
+    "city": "Barbate de Franco",
+    "admin": "Andalusia",
+    "sort": "22761"
+  },
+  {
+    "city": "Pilar de la Horadada",
+    "admin": "Valencia",
+    "sort": "22597"
+  },
+  {
+    "city": "Montilla",
+    "admin": "Andalusia",
+    "sort": "22633"
+  },
+  {
+    "city": "Torre del Mar",
+    "admin": "Andalusia",
+    "sort": "22168"
+  },
+  {
+    "city": "Las Torres de Cotillas",
+    "admin": "Andalusia",
+    "sort": "21837"
+  },
+  {
+    "city": "Aljaraque",
+    "admin": "Andalusia",
+    "sort": "21706"
+  },
+  {
+    "city": "Priego de Córdoba",
+    "admin": "Andalusia",
+    "sort": "22251"
+  },
+  {
+    "city": "Alhama de Murcia",
+    "admin": "Murcia",
+    "sort": "22240"
+  },
+  {
+    "city": "Moguer",
+    "admin": "Andalusia",
+    "sort": "22061"
+  },
+  {
+    "city": "Palafrugell",
+    "admin": "Catalonia",
+    "sort": "21049"
+  },
+  {
+    "city": "Manlleu",
+    "admin": "Catalonia",
+    "sort": "20804"
+  },
+  {
+    "city": "Bañolas",
+    "admin": "Catalonia",
+    "sort": "20168"
+  },
+  {
+    "city": "Guía de Isora",
+    "admin": "Canary Islands",
+    "sort": "21827"
+  },
+  {
+    "city": "Isla-Cristina",
+    "admin": "Andalusia",
+    "sort": "21516"
+  },
+  {
+    "city": "Almoradí",
+    "admin": "Valencia",
+    "sort": "21404"
+  },
+  {
+    "city": "Picasent",
+    "admin": "Valencia",
+    "sort": "21487"
+  },
+  {
+    "city": "Alcalá la Real",
+    "admin": "Andalusia",
+    "sort": "21623"
+  },
+  {
+    "city": "Ayamonte",
+    "admin": "Andalusia",
+    "sort": "21510"
+  },
+  {
+    "city": "Amposta",
+    "admin": "Catalonia",
+    "sort": "21317"
+  },
+  {
+    "city": "Aspe",
+    "admin": "Valencia",
+    "sort": "21088"
+  },
+  {
+    "city": "La Unión",
+    "admin": "Murcia",
+    "sort": "20536"
+  },
+  {
+    "city": "Algete",
+    "admin": "Madrid",
+    "sort": "20749"
+  },
+  {
+    "city": "Nerja",
+    "admin": "Andalusia",
+    "sort": "21018"
+  },
+  {
+    "city": "Los Llanos de Aridane",
+    "admin": "Canary Islands",
+    "sort": "20648"
+  },
+  {
+    "city": "Güimar",
+    "admin": "Canary Islands",
+    "sort": "21000"
+  },
+  {
+    "city": "Puzol",
+    "admin": "Valencia",
+    "sort": "19975"
+  },
+  {
+    "city": "Pájara",
+    "admin": "Canary Islands",
+    "sort": "21014"
+  },
+  {
+    "city": "Palma del Río",
+    "admin": "Andalusia",
+    "sort": "20910"
+  },
+  {
+    "city": "Alcudia",
+    "admin": "Balearic Islands",
+    "sort": "20651"
+  },
+  {
+    "city": "Hernani",
+    "admin": "Basque Country",
+    "sort": "20362"
+  },
+  {
+    "city": "Carcagente",
+    "admin": "Valencia",
+    "sort": "20494"
+  },
+  {
+    "city": "Humanes de Madrid",
+    "admin": "Madrid",
+    "sort": "19736"
+  },
+  {
+    "city": "Archena",
+    "admin": "Murcia",
+    "sort": "19500"
+  },
+  {
+    "city": "Loja",
+    "admin": "Andalusia",
+    "sort": "20465"
+  },
+  {
+    "city": "La Corredoría",
+    "admin": "Asturias",
+    "sort": "19191"
+  },
+  {
+    "city": "Medina del Campo",
+    "admin": "Castille-Leon",
+    "sort": "20271"
+  },
+  {
+    "city": "Rosas",
+    "admin": "Catalonia",
+    "sort": "19921"
+  },
+  {
+    "city": "Cabra",
+    "admin": "Andalusia",
+    "sort": "20245"
+  },
+  {
+    "city": "Tolosa",
+    "admin": "Basque Country",
+    "sort": "19795"
+  },
+  {
+    "city": "Cartaya",
+    "admin": "Andalusia",
+    "sort": "20314"
+  },
+  {
+    "city": "Baza",
+    "admin": "Andalusia",
+    "sort": "20281"
+  },
+  {
+    "city": "Lalín",
+    "admin": "Galicia",
+    "sort": "20199"
+  },
+  {
+    "city": "Requena",
+    "admin": "Valencia",
+    "sort": "20235"
+  },
+  {
+    "city": "El Viso del Alcor",
+    "admin": "Andalusia",
+    "sort": "19251"
+  },
+  {
+    "city": "Cardedeu",
+    "admin": "Catalonia",
+    "sort": "18609"
+  },
+  {
+    "city": "Moaña",
+    "admin": "Galicia",
+    "sort": "19496"
+  },
+  {
+    "city": "Callosa de Segura",
+    "admin": "Valencia",
+    "sort": "19273"
+  },
+  {
+    "city": "San Martín de la Vega",
+    "admin": "Madrid",
+    "sort": "19853"
+  },
+  {
+    "city": "Calatayud",
+    "admin": "Aragon",
+    "sort": "19870"
+  },
+  {
+    "city": "Silla",
+    "admin": "Valencia",
+    "sort": "19211"
+  },
+  {
+    "city": "Chipiona",
+    "admin": "Andalusia",
+    "sort": "19368"
+  },
+  {
+    "city": "Amorebieta",
+    "admin": "Basque Country",
+    "sort": "19576"
+  },
+  {
+    "city": "Utebo",
+    "admin": "Aragon",
+    "sort": "18856"
+  },
+  {
+    "city": "Huércal-Overa",
+    "admin": "Andalusia",
+    "sort": "19744"
+  },
+  {
+    "city": "Atarfe",
+    "admin": "Andalusia",
+    "sort": "19198"
+  },
+  {
+    "city": "El Arahal",
+    "admin": "Andalusia",
+    "sort": "19497"
+  },
+  {
+    "city": "Benicasim",
+    "admin": "Valencia",
+    "sort": "18991"
+  },
+  {
+    "city": "Palamós",
+    "admin": "Catalonia",
+    "sort": "18196"
+  },
+  {
+    "city": "Albolote",
+    "admin": "Andalusia",
+    "sort": "19128"
+  },
+  {
+    "city": "Marchena",
+    "admin": "Andalusia",
+    "sort": "19317"
+  },
+  {
+    "city": "Torrox",
+    "admin": "Andalusia",
+    "sort": "18937"
+  },
+  {
+    "city": "Boiro",
+    "admin": "Galicia",
+    "sort": "18955"
+  },
+  {
+    "city": "Guernica y Luno",
+    "admin": "Basque Country",
+    "sort": "17093"
+  },
+  {
+    "city": "Torredembarra",
+    "admin": "Catalonia",
+    "sort": "17057"
+  },
+  {
+    "city": "La Eliana",
+    "admin": "Valencia",
+    "sort": "18302"
+  },
+  {
+    "city": "La Nucía",
+    "admin": "Valencia",
+    "sort": "18108"
+  },
+  {
+    "city": "Villaquilambre",
+    "admin": "Castille-Leon",
+    "sort": "18597"
+  },
+  {
+    "city": "Baena",
+    "admin": "Andalusia",
+    "sort": "18885"
+  },
+  {
+    "city": "Huércal de Almería",
+    "admin": "Andalusia",
+    "sort": "17974"
+  },
+  {
+    "city": "San Lorenzo de El Escorial",
+    "admin": "Madrid",
+    "sort": "18454"
+  },
+  {
+    "city": "Lora del Río",
+    "admin": "Andalusia",
+    "sort": "18578"
+  },
+  {
+    "city": "Nigrán",
+    "admin": "Galicia",
+    "sort": "18005"
+  },
+  {
+    "city": "Guadix",
+    "admin": "Andalusia",
+    "sort": "18462"
+  },
+  {
+    "city": "Tarifa",
+    "admin": "Andalusia",
+    "sort": "18466"
+  },
+  {
+    "city": "San Celoni",
+    "admin": "Catalonia",
+    "sort": "18176"
+  },
+  {
+    "city": "Montornés del Vallés",
+    "admin": "Catalonia",
+    "sort": "16804"
+  },
+  {
+    "city": "Monforte de Lemos",
+    "admin": "Galicia",
+    "sort": "18242"
+  },
+  {
+    "city": "Caldas de Montbuy",
+    "admin": "Catalonia",
+    "sort": "17797"
+  },
+  {
+    "city": "Felanitx",
+    "admin": "Balearic Islands",
+    "sort": "18164"
+  },
+  {
+    "city": "Munguía",
+    "admin": "Basque Country",
+    "sort": "17701"
+  },
+  {
+    "city": "Sangenjo",
+    "admin": "Galicia",
+    "sort": "17635"
+  },
+  {
+    "city": "Vera",
+    "admin": "Andalusia",
+    "sort": "17700"
+  },
+  {
+    "city": "Tordera",
+    "admin": "Catalonia",
+    "sort": "17788"
+  },
+  {
+    "city": "Villanueva del Pardillo",
+    "admin": "Madrid",
+    "sort": "17310"
+  },
+  {
+    "city": "Benavente",
+    "admin": "Castille-Leon",
+    "sort": "17523"
+  },
+  {
+    "city": "Tárrega",
+    "admin": "Catalonia",
+    "sort": "17649"
+  },
+  {
+    "city": "Manzanares",
+    "admin": "Castille-La Mancha",
+    "sort": "17845"
+  },
+  {
+    "city": "Daimiel",
+    "admin": "Castille-La Mancha",
+    "sort": "17771"
+  },
+  {
+    "city": "Los Alcázares",
+    "admin": "Murcia",
+    "sort": "16935"
+  },
+  {
+    "city": "Poyo",
+    "admin": "Galicia",
+    "sort": "17230"
+  },
+  {
+    "city": "Balaguer",
+    "admin": "Catalonia",
+    "sort": "17409"
+  },
+  {
+    "city": "Fuente-Álamo de Murcia",
+    "admin": "Murcia",
+    "sort": "17225"
+  },
+  {
+    "city": "Bailén",
+    "admin": "Andalusia",
+    "sort": "17498"
+  },
+  {
+    "city": "La Garriga",
+    "admin": "Catalonia",
+    "sort": "16733"
+  },
+  {
+    "city": "Tabernes de Valldigna",
+    "admin": "Valencia",
+    "sort": "17162"
+  },
+  {
+    "city": "Monzón",
+    "admin": "Aragon",
+    "sort": "17362"
+  },
+  {
+    "city": "Berga",
+    "admin": "Catalonia",
+    "sort": "16682"
+  },
+  {
+    "city": "La Algaba",
+    "admin": "Andalusia",
+    "sort": "16484"
+  },
+  {
+    "city": "Manilva",
+    "admin": "Andalusia",
+    "sort": "16849"
+  },
+  {
+    "city": "Barbastro",
+    "admin": "Aragon",
+    "sort": "17146"
+  },
+  {
+    "city": "Bermeo",
+    "admin": "Basque Country",
+    "sort": "16784"
+  },
+  {
+    "city": "Cubellas",
+    "admin": "Catalonia",
+    "sort": "16051"
+  },
+  {
+    "city": "Pozoblanco",
+    "admin": "Andalusia",
+    "sort": "17156"
+  },
+  {
+    "city": "Navalmoral de la Mata",
+    "admin": "Extremadura",
+    "sort": "17010"
+  },
+  {
+    "city": "Mula",
+    "admin": "Murcia",
+    "sort": "17074"
+  },
+  {
+    "city": "Pollensa",
+    "admin": "Balearic Islands",
+    "sort": "16969"
+  },
+  {
+    "city": "Ejea de los Caballeros",
+    "admin": "Aragon",
+    "sort": "17036"
+  },
+  {
+    "city": "Zafra",
+    "admin": "Extremadura",
+    "sort": "16786"
+  },
+  {
+    "city": "Guadarrama",
+    "admin": "Madrid",
+    "sort": "16747"
+  },
+  {
+    "city": "Sada",
+    "admin": "Galicia",
+    "sort": "16382"
+  },
+  {
+    "city": "El Escorial",
+    "admin": "Madrid",
+    "sort": "16594"
+  },
+  {
+    "city": "Espartinas",
+    "admin": "Andalusia",
+    "sort": "16048"
+  },
+  {
+    "city": "Ubrique",
+    "admin": "Andalusia",
+    "sort": "16482"
+  },
+  {
+    "city": "Piera",
+    "admin": "Catalonia",
+    "sort": "16411"
+  },
+  {
+    "city": "Rojales",
+    "admin": "Valencia",
+    "sort": "15978"
+  },
+  {
+    "city": "Santomera",
+    "admin": "Murcia",
+    "sort": "16154"
+  },
+  {
+    "city": "Guardamar del Segura",
+    "admin": "Valencia",
+    "sort": "15983"
+  },
+  {
+    "city": "Las Cabezas de San Juan",
+    "admin": "Andalusia",
+    "sort": "16335"
+  },
+  {
+    "city": "Punta Umbría",
+    "admin": "Andalusia",
+    "sort": "15891"
+  },
+  {
+    "city": "Carlet",
+    "admin": "Valencia",
+    "sort": "15851"
+  },
+  {
+    "city": "Alpedrete",
+    "admin": "Madrid",
+    "sort": "14959"
+  },
+  {
+    "city": "Santa Marta de Tormes",
+    "admin": "Castille-Leon",
+    "sort": "14646"
+  },
+  {
+    "city": "Lumbreras",
+    "admin": "Murcia",
+    "sort": "16060"
+  },
+  {
+    "city": "Vallirana",
+    "admin": "Catalonia",
+    "sort": "15438"
+  },
+  {
+    "city": "Alcañiz",
+    "admin": "Aragon",
+    "sort": "16029"
+  },
+  {
+    "city": "Sopelana",
+    "admin": "Basque Country",
+    "sort": "14276"
+  },
+  {
+    "city": "Chiva",
+    "admin": "Valencia",
+    "sort": "15769"
+  },
+  {
+    "city": "Baeza",
+    "admin": "Andalusia",
+    "sort": "15762"
+  },
+  {
+    "city": "Corbera de Llobregat",
+    "admin": "Catalonia",
+    "sort": "15017"
+  },
+  {
+    "city": "Santa Cruz de la Palma",
+    "admin": "Canary Islands",
+    "sort": "15446"
+  },
+  {
+    "city": "Tarancón",
+    "admin": "Castille-La Mancha",
+    "sort": "15645"
+  },
+  {
+    "city": "Miguelturra",
+    "admin": "Castille-La Mancha",
+    "sort": "15658"
+  },
+  {
+    "city": "Santa Úrsula",
+    "admin": "Canary Islands",
+    "sort": "14987"
+  },
+  {
+    "city": "Torelló",
+    "admin": "Catalonia",
+    "sort": "14553"
+  },
+  {
+    "city": "Montijo",
+    "admin": "Extremadura",
+    "sort": "15483"
+  },
+  {
+    "city": "Tuineje",
+    "admin": "Canary Islands",
+    "sort": "15549"
+  },
+  {
+    "city": "Cunit",
+    "admin": "Catalonia",
+    "sort": "14081"
+  },
+  {
+    "city": "Villalbilla",
+    "admin": "Madrid",
+    "sort": "15049"
+  },
+  {
+    "city": "La Solana",
+    "admin": "Castille-La Mancha",
+    "sort": "15357"
+  },
+  {
+    "city": "Vieiro",
+    "admin": "Galicia",
+    "sort": "15312"
+  },
+  {
+    "city": "La Roda",
+    "admin": "Castille-La Mancha",
+    "sort": "15401"
+  },
+  {
+    "city": "Azpeitia",
+    "admin": "Basque Country",
+    "sort": "15191"
+  },
+  {
+    "city": "Meco",
+    "admin": "Madrid",
+    "sort": "14903"
+  },
+  {
+    "city": "Cuarte de Huerva",
+    "admin": "Aragon",
+    "sort": "13773"
+  },
+  {
+    "city": "Fraga",
+    "admin": "Aragon",
+    "sort": "15250"
+  },
+  {
+    "city": "Andoain",
+    "admin": "Basque Country",
+    "sort": "14631"
+  },
+  {
+    "city": "Arnedo",
+    "admin": "La Rioja",
+    "sort": "14954"
+  },
+  {
+    "city": "La Carolina",
+    "admin": "Andalusia",
+    "sort": "15048"
+  },
+  {
+    "city": "Gondomar",
+    "admin": "Galicia",
+    "sort": "14920"
+  },
+  {
+    "city": "Villaviciosa",
+    "admin": "Asturias",
+    "sort": "14869"
+  },
+  {
+    "city": "Cehegín",
+    "admin": "Murcia",
+    "sort": "14798"
+  },
+  {
+    "city": "Bollullos par del Condado",
+    "admin": "Andalusia",
+    "sort": "14392"
+  },
+  {
+    "city": "Cuevas del Almanzora",
+    "admin": "Andalusia",
+    "sort": "14623"
+  },
+  {
+    "city": "Noya",
+    "admin": "Galicia",
+    "sort": "14240"
+  },
+  {
+    "city": "Godella",
+    "admin": "Valencia",
+    "sort": "13027"
+  },
+  {
+    "city": "Alginet",
+    "admin": "Valencia",
+    "sort": "13942"
+  },
+  {
+    "city": "Beasain",
+    "admin": "Basque Country",
+    "sort": "13949"
+  },
+  {
+    "city": "La Carlota",
+    "admin": "Andalusia",
+    "sort": "14228"
+  },
+  {
+    "city": "Torrijos",
+    "admin": "Castille-La Mancha",
+    "sort": "13583"
+  },
+  {
+    "city": "Cambados",
+    "admin": "Galicia",
+    "sort": "13673"
+  },
+  {
+    "city": "Pilas",
+    "admin": "Andalusia",
+    "sort": "13856"
+  },
+  {
+    "city": "Torre del Campo",
+    "admin": "Andalusia",
+    "sort": "14059"
+  },
+  {
+    "city": "Sanlúcar la Mayor",
+    "admin": "Andalusia",
+    "sort": "14026"
+  },
+  {
+    "city": "Santa Cruz de Bezana",
+    "admin": "Cantabria",
+    "sort": "13292"
+  },
+  {
+    "city": "Villalba",
+    "admin": "Galicia",
+    "sort": "14006"
+  },
+  {
+    "city": "Vilanova del Camí",
+    "admin": "Catalonia",
+    "sort": "12736"
+  },
+  {
+    "city": "Llanera",
+    "admin": "Asturias",
+    "sort": "13790"
+  },
+  {
+    "city": "San Agustín de Guadalix",
+    "admin": "Madrid",
+    "sort": "13538"
+  },
+  {
+    "city": "Canals",
+    "admin": "Valencia",
+    "sort": "13257"
+  },
+  {
+    "city": "Tomiño",
+    "admin": "Galicia",
+    "sort": "13730"
+  },
+  {
+    "city": "Sóller",
+    "admin": "Balearic Islands",
+    "sort": "13491"
+  },
+  {
+    "city": "Verín",
+    "admin": "Galicia",
+    "sort": "13644"
+  },
+  {
+    "city": "Llanes",
+    "admin": "Asturias",
+    "sort": "13611"
+  },
+  {
+    "city": "Santa Coloma de Farnés",
+    "admin": "Catalonia",
+    "sort": "13459"
+  },
+  {
+    "city": "Torredonjimeno",
+    "admin": "Andalusia",
+    "sort": "13545"
+  },
+  {
+    "city": "Moralzarzal",
+    "admin": "Madrid",
+    "sort": "13573"
+  },
+  {
+    "city": "Betanzos",
+    "admin": "Galicia",
+    "sort": "13030"
+  },
+  {
+    "city": "Nules",
+    "admin": "Valencia",
+    "sort": "13256"
+  },
+  {
+    "city": "Sant Sadurní d’Anoia",
+    "admin": "Catalonia",
+    "sort": "12840"
+  },
+  {
+    "city": "Aguilar",
+    "admin": "Andalusia",
+    "sort": "13398"
+  },
+  {
+    "city": "Velilla de San Antonio",
+    "admin": "Madrid",
+    "sort": "12543"
+  },
+  {
+    "city": "Ceuti",
+    "admin": "Murcia",
+    "sort": "12199"
+  },
+  {
+    "city": "Valdemorillo",
+    "admin": "Madrid",
+    "sort": "13245"
+  },
+  {
+    "city": "Jaca",
+    "admin": "Aragon",
+    "sort": "13344"
+  },
+  {
+    "city": "Picaña",
+    "admin": "Valencia",
+    "sort": "11692"
+  },
+  {
+    "city": "Fene",
+    "admin": "Galicia",
+    "sort": "12832"
+  },
+  {
+    "city": "Campo de Criptana",
+    "admin": "Castille-La Mancha",
+    "sort": "13229"
+  },
+  {
+    "city": "Sarria",
+    "admin": "Galicia",
+    "sort": "13257"
+  },
+  {
+    "city": "Abrera",
+    "admin": "Catalonia",
+    "sort": "12620"
+  },
+  {
+    "city": "Abarán",
+    "admin": "Murcia",
+    "sort": "13066"
+  },
+  {
+    "city": "Brenes",
+    "admin": "Andalusia",
+    "sort": "12581"
+  },
+  {
+    "city": "Argentona",
+    "admin": "Catalonia",
+    "sort": "12629"
+  },
+  {
+    "city": "Teror",
+    "admin": "Canary Islands",
+    "sort": "12634"
+  },
+  {
+    "city": "Guillena",
+    "admin": "Andalusia",
+    "sort": "13054"
+  },
+  {
+    "city": "Ocaña",
+    "admin": "Castille-La Mancha",
+    "sort": "13023"
+  },
+  {
+    "city": "Alovera",
+    "admin": "Castille-La Mancha",
+    "sort": "13051"
+  },
+  {
+    "city": "Pallejá",
+    "admin": "Catalonia",
+    "sort": "11636"
+  },
+  {
+    "city": "Castellbisbal",
+    "admin": "Catalonia",
+    "sort": "12610"
+  },
+  {
+    "city": "Santa Margarita",
+    "admin": "Balearic Islands",
+    "sort": "12767"
+  },
+  {
+    "city": "Albatera",
+    "admin": "Valencia",
+    "sort": "12714"
+  },
+  {
+    "city": "Arrigorriaga",
+    "admin": "Basque Country",
+    "sort": "12140"
+  },
+  {
+    "city": "Pola de Laviana",
+    "admin": "Asturias",
+    "sort": "12754"
+  },
+  {
+    "city": "Gibraleón",
+    "admin": "Andalusia",
+    "sort": "12810"
+  },
+  {
+    "city": "Salobreña",
+    "admin": "Andalusia",
+    "sort": "12472"
+  },
+  {
+    "city": "Peligros",
+    "admin": "Andalusia",
+    "sort": "11544"
+  },
+  {
+    "city": "Valverde del Camino",
+    "admin": "Andalusia",
+    "sort": "12714"
+  },
+  {
+    "city": "Berja",
+    "admin": "Andalusia",
+    "sort": "12708"
+  },
+  {
+    "city": "Beniel",
+    "admin": "Murcia",
+    "sort": "11508"
+  },
+  {
+    "city": "Villafranca de los Barros",
+    "admin": "Extremadura",
+    "sort": "12534"
+  },
+  {
+    "city": "Bayona",
+    "admin": "Galicia",
+    "sort": "12286"
+  },
+  {
+    "city": "Vejer de la Frontera",
+    "admin": "Andalusia",
+    "sort": "12572"
+  },
+  {
+    "city": "Benifayó",
+    "admin": "Valencia",
+    "sort": "11967"
+  },
+  {
+    "city": "Béjar",
+    "admin": "Castille-Leon",
+    "sort": "12269"
+  },
+  {
+    "city": "Estepa",
+    "admin": "Andalusia",
+    "sort": "12459"
+  },
+  {
+    "city": "Santañy",
+    "admin": "Balearic Islands",
+    "sort": "12342"
+  },
+  {
+    "city": "Acalá del Río",
+    "admin": "Andalusia",
+    "sort": "12264"
+  },
+  {
+    "city": "Bueu",
+    "admin": "Galicia",
+    "sort": "11987"
+  },
+  {
+    "city": "Monóvar",
+    "admin": "Valencia",
+    "sort": "12188"
+  },
+  {
+    "city": "Palos de la Frontera",
+    "admin": "Andalusia",
+    "sort": "12001"
+  },
+  {
+    "city": "Capdepera",
+    "admin": "Balearic Islands",
+    "sort": "12003"
+  },
+  {
+    "city": "Torroella de Montgrí",
+    "admin": "Catalonia",
+    "sort": "12023"
+  },
+  {
+    "city": "Villamartín",
+    "admin": "Andalusia",
+    "sort": "12125"
+  },
+  {
+    "city": "Albox",
+    "admin": "Andalusia",
+    "sort": "12070"
+  },
+  {
+    "city": "Bolaños de Calatrava",
+    "admin": "Castille-La Mancha",
+    "sort": "11992"
+  },
+  {
+    "city": "Ciudad-Rodrigo",
+    "admin": "Castille-Leon",
+    "sort": "12065"
+  },
+  {
+    "city": "Son Servera",
+    "admin": "Balearic Islands",
+    "sort": "11835"
+  },
+  {
+    "city": "Socuéllamos",
+    "admin": "Castille-La Mancha",
+    "sort": "12067"
+  },
+  {
+    "city": "San Andrés de Llevaneras",
+    "admin": "Catalonia",
+    "sort": "11150"
+  },
+  {
+    "city": "Beniaján",
+    "admin": "Murcia",
+    "sort": "11233"
+  },
+  {
+    "city": "Cangas de Narcea",
+    "admin": "Asturias",
+    "sort": "11966"
+  },
+  {
+    "city": "Santoña",
+    "admin": "Cantabria",
+    "sort": "11011"
+  },
+  {
+    "city": "Fuensalida",
+    "admin": "Castille-La Mancha",
+    "sort": "11785"
+  },
+  {
+    "city": "La Puebla del Río",
+    "admin": "Andalusia",
+    "sort": "11873"
+  },
+  {
+    "city": "Olivenza",
+    "admin": "Extremadura",
+    "sort": "11871"
+  },
+  {
+    "city": "Azcoitia",
+    "admin": "Basque Country",
+    "sort": "11657"
+  },
+  {
+    "city": "Medina Sidonia",
+    "admin": "Andalusia",
+    "sort": "11813"
+  },
+  {
+    "city": "Teulada",
+    "admin": "Valencia",
+    "sort": "11466"
+  },
+  {
+    "city": "Benaguacil",
+    "admin": "Valencia",
+    "sort": "11369"
+  },
+  {
+    "city": "Bullas",
+    "admin": "Murcia",
+    "sort": "11619"
+  },
+  {
+    "city": "Elgóibar",
+    "admin": "Basque Country",
+    "sort": "11464"
+  },
+  {
+    "city": "Tegueste",
+    "admin": "Canary Islands",
+    "sort": "11326"
+  },
+  {
+    "city": "Andraitx",
+    "admin": "Balearic Islands",
+    "sort": "11571"
+  },
+  {
+    "city": "Laredo",
+    "admin": "Cantabria",
+    "sort": "10996"
+  },
+  {
+    "city": "Cocentaina",
+    "admin": "Valencia",
+    "sort": "11451"
+  },
+  {
+    "city": "Jódar",
+    "admin": "Andalusia",
+    "sort": "11583"
+  },
+  {
+    "city": "Benisa",
+    "admin": "Valencia",
+    "sort": "11462"
+  },
+  {
+    "city": "Masanasa",
+    "admin": "Valencia",
+    "sort": "9845"
+  },
+  {
+    "city": "Lardero",
+    "admin": "La Rioja",
+    "sort": "11042"
+  },
+  {
+    "city": "Gelves",
+    "admin": "Andalusia",
+    "sort": "10295"
+  },
+  {
+    "city": "Yuncos",
+    "admin": "Castille-La Mancha",
+    "sort": "10813"
+  },
+  {
+    "city": "Sant Joan de Vilatorrada",
+    "admin": "Catalonia",
+    "sort": "10871"
+  },
+  {
+    "city": "Oñate",
+    "admin": "Basque Country",
+    "sort": "11428"
+  },
+  {
+    "city": "Utiel",
+    "admin": "Valencia",
+    "sort": "11478"
+  },
+  {
+    "city": "Campos del Puerto",
+    "admin": "Balearic Islands",
+    "sort": "11425"
+  },
+  {
+    "city": "Mancha Real",
+    "admin": "Andalusia",
+    "sort": "11315"
+  },
+  {
+    "city": "Castelló de Ampurias",
+    "admin": "Catalonia",
+    "sort": "11154"
+  },
+  {
+    "city": "Barbadanes",
+    "admin": "Galicia",
+    "sort": "11022"
+  },
+  {
+    "city": "Santiago del Teide",
+    "admin": "Canary Islands",
+    "sort": "11115"
+  },
+  {
+    "city": "Bollullos de la Mitación",
+    "admin": "Andalusia",
+    "sort": "11099"
+  },
+  {
+    "city": "Quintanar de la Orden",
+    "admin": "Castille-La Mancha",
+    "sort": "11129"
+  },
+  {
+    "city": "Sonseca",
+    "admin": "Castille-La Mancha",
+    "sort": "11070"
+  },
+  {
+    "city": "Rianxo",
+    "admin": "Galicia",
+    "sort": "11004"
+  },
+  {
+    "city": "Cabanillas del Campo",
+    "admin": "Castille-La Mancha",
+    "sort": "10844"
+  },
+  {
+    "city": "La Escala",
+    "admin": "Catalonia",
+    "sort": "10497"
+  },
+  {
+    "city": "Garrucha",
+    "admin": "Andalusia",
+    "sort": "9875"
+  },
+  {
+    "city": "Griñón",
+    "admin": "Madrid",
+    "sort": "10467"
+  },
+  {
+    "city": "Zumaia",
+    "admin": "Basque Country",
+    "sort": "10124"
+  },
+  {
+    "city": "Alella",
+    "admin": "Catalonia",
+    "sort": "9954"
+  },
+  {
+    "city": "Alberique",
+    "admin": "Valencia",
+    "sort": "10571"
+  },
+  {
+    "city": "La Palma del Condado",
+    "admin": "Andalusia",
+    "sort": "10787"
+  },
+  {
+    "city": "La Puebla de Cazalla",
+    "admin": "Andalusia",
+    "sort": "10896"
+  },
+  {
+    "city": "Brunete",
+    "admin": "Madrid",
+    "sort": "10726"
+  },
+  {
+    "city": "Los Corrales de Buelna",
+    "admin": "Cantabria",
+    "sort": "10703"
+  },
+  {
+    "city": "Ripoll",
+    "admin": "Catalonia",
+    "sort": "10721"
+  },
+  {
+    "city": "Cantillana",
+    "admin": "Andalusia",
+    "sort": "10755"
+  },
+  {
+    "city": "Castalla",
+    "admin": "Valencia",
+    "sort": "10752"
+  },
+  {
+    "city": "Astorga",
+    "admin": "Castille-Leon",
+    "sort": "10553"
+  },
+  {
+    "city": "Huétor-Tájar",
+    "admin": "Andalusia",
+    "sort": "10514"
+  },
+  {
+    "city": "Daganzo de Arriba",
+    "admin": "Madrid",
+    "sort": "10520"
+  },
+  {
+    "city": "Cassá de la Selva",
+    "admin": "Catalonia",
+    "sort": "10505"
+  },
+  {
+    "city": "Bargas",
+    "admin": "Castille-La Mancha",
+    "sort": "10611"
+  },
+  {
+    "city": "Tafalla",
+    "admin": "Navarre",
+    "sort": "10582"
+  },
+  {
+    "city": "Peñarroya-Pueblonuevo",
+    "admin": "Andalusia",
+    "sort": "10508"
+  },
+  {
+    "city": "Pola de Lena",
+    "admin": "Asturias",
+    "sort": "10596"
+  },
+  {
+    "city": "Canteras",
+    "admin": "Murcia",
+    "sort": "10167"
+  },
+  {
+    "city": "Torrejón de la Calzada",
+    "admin": "Madrid",
+    "sort": "9549"
+  },
+  {
+    "city": "Villanueva de Arosa",
+    "admin": "Galicia",
+    "sort": "10306"
+  },
+  {
+    "city": "La Bañeza",
+    "admin": "Castille-Leon",
+    "sort": "10068"
+  },
+  {
+    "city": "Santa Margarita de Mombúy",
+    "admin": "Catalonia",
+    "sort": "10192"
+  },
+  {
+    "city": "Villacarrillo",
+    "admin": "Andalusia",
+    "sort": "10545"
+  },
+  {
+    "city": "Luanco",
+    "admin": "Asturias",
+    "sort": "10412"
+  },
+  {
+    "city": "Alcora",
+    "admin": "Valencia",
+    "sort": "10428"
+  },
+  {
+    "city": "Tarazona de Aragón",
+    "admin": "Aragon",
+    "sort": "10494"
+  },
+  {
+    "city": "Alcaudete",
+    "admin": "Andalusia",
+    "sort": "10434"
+  },
+  {
+    "city": "Pulpí",
+    "admin": "Andalusia",
+    "sort": "10342"
+  },
+  {
+    "city": "San Vicente de Castellet",
+    "admin": "Catalonia",
+    "sort": "9868"
+  },
+  {
+    "city": "Amurrio",
+    "admin": "Basque Country",
+    "sort": "10307"
+  },
+  {
+    "city": "Cabañaquinta",
+    "admin": "Asturias",
+    "sort": "10346"
+  },
+  {
+    "city": "El Álamo",
+    "admin": "Madrid",
+    "sort": "9908"
+  },
+  {
+    "city": "Binéfar",
+    "admin": "Aragon",
+    "sort": "9888"
+  },
+  {
+    "city": "Madridejos",
+    "admin": "Castille-La Mancha",
+    "sort": "10230"
+  },
+  {
+    "city": "Alguazas",
+    "admin": "Murcia",
+    "sort": "9842"
+  },
+  {
+    "city": "Villamarchante",
+    "admin": "Valencia",
+    "sort": "10097"
+  },
+  {
+    "city": "Santa María de Palautordera",
+    "admin": "Catalonia",
+    "sort": "9666"
+  },
+  {
+    "city": "Palafolls",
+    "admin": "Catalonia",
+    "sort": "9646"
+  },
+  {
+    "city": "Salvatierra de Miño",
+    "admin": "Galicia",
+    "sort": "10048"
+  },
+  {
+    "city": "Caspe",
+    "admin": "Aragon",
+    "sort": "10183"
+  },
+  {
+    "city": "Calasparra",
+    "admin": "Murcia",
+    "sort": "10133"
+  },
+  {
+    "city": "Tocina",
+    "admin": "Andalusia",
+    "sort": "9508"
+  },
+  {
+    "city": "Masquefa",
+    "admin": "Catalonia",
+    "sort": "9623"
+  },
+  {
+    "city": "Foz",
+    "admin": "Galicia",
+    "sort": "10078"
+  },
+  {
+    "city": "Zumárraga",
+    "admin": "Basque Country",
+    "sort": "9668"
+  },
+  {
+    "city": "Caudete",
+    "admin": "Castille-La Mancha",
+    "sort": "10077"
+  },
+  {
+    "city": "Tiana",
+    "admin": "Catalonia",
+    "sort": "9009"
+  },
+  {
+    "city": "Mengibar",
+    "admin": "Andalusia",
+    "sort": "9973"
+  },
+  {
+    "city": "Matadepera",
+    "admin": "Catalonia",
+    "sort": "9672"
+  },
+  {
+    "city": "Puigcerdá",
+    "admin": "Catalonia",
+    "sort": "9518"
+  },
+  {
+    "city": "Fernán-Núñez",
+    "admin": "Andalusia",
+    "sort": "9667"
+  },
+  {
+    "city": "Consuegra",
+    "admin": "Castille-La Mancha",
+    "sort": "9942"
+  },
+  {
+    "city": "Ribadeo",
+    "admin": "Galicia",
+    "sort": "9871"
+  },
+  {
+    "city": "Pinos Puente",
+    "admin": "Andalusia",
+    "sort": "9853"
+  },
+  {
+    "city": "Piedras Blancas",
+    "admin": "Asturias",
+    "sort": "9533"
+  },
+  {
+    "city": "Colindres",
+    "admin": "Cantabria",
+    "sort": "8504"
+  },
+  {
+    "city": "Fuente Palmera",
+    "admin": "Andalusia",
+    "sort": "9803"
+  },
+  {
+    "city": "Caldas de Reyes",
+    "admin": "Galicia",
+    "sort": "9788"
+  },
+  {
+    "city": "Rute",
+    "admin": "Andalusia",
+    "sort": "9835"
+  },
+  {
+    "city": "Alhendín",
+    "admin": "Andalusia",
+    "sort": "9674"
+  },
+  {
+    "city": "Umbrete",
+    "admin": "Andalusia",
+    "sort": "9086"
+  },
+  {
+    "city": "Mora",
+    "admin": "Castille-La Mancha",
+    "sort": "9781"
+  },
+  {
+    "city": "Almusafes",
+    "admin": "Valencia",
+    "sort": "8984"
+  },
+  {
+    "city": "Alcanar",
+    "admin": "Catalonia",
+    "sort": "9579"
+  },
+  {
+    "city": "Alcarraz",
+    "admin": "Catalonia",
+    "sort": "9678"
+  },
+  {
+    "city": "La Matanza de Acentejo",
+    "admin": "Canary Islands",
+    "sort": "9114"
+  },
+  {
+    "city": "Villarrubia de los Ojos",
+    "admin": "Castille-La Mancha",
+    "sort": "9722"
+  },
+  {
+    "city": "Pizarra",
+    "admin": "Andalusia",
+    "sort": "9572"
+  },
+  {
+    "city": "Sevilla La Nueva",
+    "admin": "Madrid",
+    "sort": "9345"
+  },
+  {
+    "city": "San Juan del Puerto",
+    "admin": "Andalusia",
+    "sort": "9503"
+  },
+  {
+    "city": "Palomares del Río",
+    "admin": "Andalusia",
+    "sort": "9020"
+  },
+  {
+    "city": "Solsona",
+    "admin": "Catalonia",
+    "sort": "9175"
+  },
+  {
+    "city": "Grado",
+    "admin": "Asturias",
+    "sort": "9644"
+  },
+  {
+    "city": "San Fausto de Campcentellas",
+    "admin": "Catalonia",
+    "sort": "8997"
+  },
+  {
+    "city": "Colmenarejo",
+    "admin": "Madrid",
+    "sort": "9376"
+  },
+  {
+    "city": "Senmanat",
+    "admin": "Catalonia",
+    "sort": "9347"
+  },
+  {
+    "city": "Cuéllar",
+    "admin": "Castille-Leon",
+    "sort": "9620"
+  },
+  {
+    "city": "La Victoria de Acentejo",
+    "admin": "Canary Islands",
+    "sort": "9161"
+  },
+  {
+    "city": "Olivares",
+    "admin": "Andalusia",
+    "sort": "9452"
+  },
+  {
+    "city": "Cúllar-Vega",
+    "admin": "Andalusia",
+    "sort": "7719"
+  },
+  {
+    "city": "Arenys de Munt",
+    "admin": "Catalonia",
+    "sort": "9191"
+  },
+  {
+    "city": "Valsequillo de Gran Canaria",
+    "admin": "Canary Islands",
+    "sort": "9382"
+  },
+  {
+    "city": "Cervelló",
+    "admin": "Catalonia",
+    "sort": "9233"
+  },
+  {
+    "city": "Alfaro",
+    "admin": "La Rioja",
+    "sort": "9562"
+  },
+  {
+    "city": "Miajadas",
+    "admin": "Extremadura",
+    "sort": "9503"
+  },
+  {
+    "city": "Rafelbuñol",
+    "admin": "Valencia",
+    "sort": "9351"
+  },
+  {
+    "city": "Alayor",
+    "admin": "Balearic Islands",
+    "sort": "9477"
+  },
+  {
+    "city": "Santiponce",
+    "admin": "Andalusia",
+    "sort": "8491"
+  },
+  {
+    "city": "El Espinar",
+    "admin": "Castille-Leon",
+    "sort": "9476"
+  },
+  {
+    "city": "Buñol",
+    "admin": "Valencia",
+    "sort": "9438"
+  },
+  {
+    "city": "Cervera",
+    "admin": "Catalonia",
+    "sort": "9328"
+  },
+  {
+    "city": "Burela de Cabo",
+    "admin": "Galicia",
+    "sort": "9428"
+  },
+  {
+    "city": "El Molar",
+    "admin": "Madrid",
+    "sort": "9291"
+  },
+  {
+    "city": "Villacañas",
+    "admin": "Castille-La Mancha",
+    "sort": "9434"
+  },
+  {
+    "city": "Ortuella",
+    "admin": "Basque Country",
+    "sort": "8379"
+  },
+  {
+    "city": "La Mujer",
+    "admin": "Andalusia",
+    "sort": "9086"
+  },
+  {
+    "city": "Polinyá",
+    "admin": "Catalonia",
+    "sort": "8494"
+  },
+  {
+    "city": "Sauzal",
+    "admin": "Canary Islands",
+    "sort": "8918"
+  },
+  {
+    "city": "Santa Comba",
+    "admin": "Galicia",
+    "sort": "9359"
+  },
+  {
+    "city": "Muro del Alcoy",
+    "admin": "Valencia",
+    "sort": "9326"
+  },
+  {
+    "city": "Cistérniga",
+    "admin": "Castille-Leon",
+    "sort": "9109"
+  },
+  {
+    "city": "Santa María de Cayón",
+    "admin": "Cantabria",
+    "sort": "9205"
+  },
+  {
+    "city": "Suances",
+    "admin": "Cantabria",
+    "sort": "9026"
+  },
+  {
+    "city": "Santa Coloma de Cervelló",
+    "admin": "Catalonia",
+    "sort": "8273"
+  },
+  {
+    "city": "Sabiñánigo",
+    "admin": "Aragon",
+    "sort": "9352"
+  },
+  {
+    "city": "San Sebastián de la Gomera",
+    "admin": "Canary Islands",
+    "sort": "9261"
+  },
+  {
+    "city": "San Fructuoso de Bagés",
+    "admin": "Catalonia",
+    "sort": "8936"
+  },
+  {
+    "city": "Catral",
+    "admin": "Valencia",
+    "sort": "8880"
+  },
+  {
+    "city": "Manzanares el Real",
+    "admin": "Madrid",
+    "sort": "9202"
+  },
+  {
+    "city": "Montoro",
+    "admin": "Andalusia",
+    "sort": "9231"
+  },
+  {
+    "city": "Valldoreix",
+    "admin": "Catalonia",
+    "sort": "8401"
+  },
+  {
+    "city": "Segorbe",
+    "admin": "Valencia",
+    "sort": "9139"
+  },
+  {
+    "city": "Binisalem",
+    "admin": "Balearic Islands",
+    "sort": "8895"
+  },
+  {
+    "city": "Jerez de los Caballeros",
+    "admin": "Extremadura",
+    "sort": "9171"
+  },
+  {
+    "city": "Tineo",
+    "admin": "Asturias",
+    "sort": "9096"
+  },
+  {
+    "city": "Loeches",
+    "admin": "Madrid",
+    "sort": "8860"
+  },
+  {
+    "city": "Villamediana de Iregua",
+    "admin": "La Rioja",
+    "sort": "8608"
+  },
+  {
+    "city": "San Lorenzo de Descardazar",
+    "admin": "Balearic Islands",
+    "sort": "8920"
+  },
+  {
+    "city": "Cheste",
+    "admin": "Valencia",
+    "sort": "8871"
+  },
+  {
+    "city": "Llagostera",
+    "admin": "Catalonia",
+    "sort": "8851"
+  },
+  {
+    "city": "Almagro",
+    "admin": "Castille-La Mancha",
+    "sort": "8896"
+  },
+  {
+    "city": "Redován",
+    "admin": "Valencia",
+    "sort": "8058"
+  },
+  {
+    "city": "Silleda",
+    "admin": "Galicia",
+    "sort": "8845"
+  },
+  {
+    "city": "Tona",
+    "admin": "Catalonia",
+    "sort": "8368"
+  },
+  {
+    "city": "Hoyo de Manzanares",
+    "admin": "Madrid",
+    "sort": "8680"
+  },
+  {
+    "city": "Monserrat",
+    "admin": "Valencia",
+    "sort": "8655"
+  },
+  {
+    "city": "San Martín de Valdeiglesias",
+    "admin": "Madrid",
+    "sort": "8760"
+  },
+  {
+    "city": "Trujillo",
+    "admin": "Extremadura",
+    "sort": "8821"
+  },
+  {
+    "city": "Tordesillas",
+    "admin": "Castille-Leon",
+    "sort": "8762"
+  },
+  {
+    "city": "Tudela de Duero",
+    "admin": "Castille-Leon",
+    "sort": "8648"
+  },
+  {
+    "city": "Bigastro",
+    "admin": "Valencia",
+    "sort": "6994"
+  },
+  {
+    "city": "El Corrillo",
+    "admin": "Basque Country",
+    "sort": "8416"
+  },
+  {
+    "city": "Villanueva de Córdoba",
+    "admin": "Andalusia",
+    "sort": "8662"
+  },
+  {
+    "city": "Foyos",
+    "admin": "Valencia",
+    "sort": "7502"
+  },
+  {
+    "city": "Cabrils",
+    "admin": "Catalonia",
+    "sort": "7567"
+  },
+  {
+    "city": "Reocín",
+    "admin": "Cantabria",
+    "sort": "8382"
+  },
+  {
+    "city": "Zuera",
+    "admin": "Aragon",
+    "sort": "8591"
+  },
+  {
+    "city": "Monforte del Cid",
+    "admin": "Valencia",
+    "sort": "8500"
+  },
+  {
+    "city": "Canet de Berenguer",
+    "admin": "Valencia",
+    "sort": "6812"
+  },
+  {
+    "city": "Bembibre",
+    "admin": "Castille-Leon",
+    "sort": "8455"
+  },
+  {
+    "city": "Legazpia",
+    "admin": "Basque Country",
+    "sort": "8367"
+  },
+  {
+    "city": "Toro",
+    "admin": "Castille-Leon",
+    "sort": "8532"
+  },
+  {
+    "city": "Herencia",
+    "admin": "Castille-La Mancha",
+    "sort": "8510"
+  },
+  {
+    "city": "Cabezón de la Sal",
+    "admin": "Cantabria",
+    "sort": "8273"
+  },
+  {
+    "city": "Padrón",
+    "admin": "Galicia",
+    "sort": "8317"
+  },
+  {
+    "city": "Navia",
+    "admin": "Asturias",
+    "sort": "8302"
+  },
+  {
+    "city": "Olías del Rey",
+    "admin": "Castille-La Mancha",
+    "sort": "8225"
+  },
+  {
+    "city": "Colmenar de Oreja",
+    "admin": "Madrid",
+    "sort": "8303"
+  },
+  {
+    "city": "Campillos",
+    "admin": "Andalusia",
+    "sort": "8301"
+  },
+  {
+    "city": "Corella",
+    "admin": "Navarre",
+    "sort": "8220"
+  },
+  {
+    "city": "Arico el Nuevo",
+    "admin": "Canary Islands",
+    "sort": "8234"
+  },
+  {
+    "city": "Cintruénigo",
+    "admin": "Navarre",
+    "sort": "8051"
+  },
+  {
+    "city": "Pedreguer",
+    "admin": "Valencia",
+    "sort": "8006"
+  },
+  {
+    "city": "Nájera",
+    "admin": "La Rioja",
+    "sort": "8060"
+  },
+  {
+    "city": "Carboneras",
+    "admin": "Andalusia",
+    "sort": "8183"
+  },
+  {
+    "city": "Villablino",
+    "admin": "Castille-Leon",
+    "sort": "8226"
+  },
+  {
+    "city": "Aracena",
+    "admin": "Andalusia",
+    "sort": "8215"
+  },
+  {
+    "city": "Vidreras",
+    "admin": "Catalonia",
+    "sort": "8073"
+  },
+  {
+    "city": "Monachil",
+    "admin": "Andalusia",
+    "sort": "8137"
+  },
+  {
+    "city": "Roquetas",
+    "admin": "Catalonia",
+    "sort": "8159"
+  },
+  {
+    "city": "Valencina de la Concepción",
+    "admin": "Andalusia",
+    "sort": "7894"
+  },
+  {
+    "city": "Pinoso",
+    "admin": "Valencia",
+    "sort": "8142"
+  },
+  {
+    "city": "Caldas de Malavella",
+    "admin": "Catalonia",
+    "sort": "8051"
+  },
+  {
+    "city": "Cenes de la Vega",
+    "admin": "Andalusia",
+    "sort": "8181"
+  },
+  {
+    "city": "San Esteban Sasroviras",
+    "admin": "Catalonia",
+    "sort": "7771"
+  },
+  {
+    "city": "Chantada",
+    "admin": "Galicia",
+    "sort": "8134"
+  },
+  {
+    "city": "Archidona",
+    "admin": "Andalusia",
+    "sort": "8114"
+  },
+  {
+    "city": "Marchamalo",
+    "admin": "Castille-La Mancha",
+    "sort": "7889"
+  },
+  {
+    "city": "Los Santos de Maimona",
+    "admin": "Extremadura",
+    "sort": "8064"
+  },
+  {
+    "city": "La Almunia de Doña Godina",
+    "admin": "Aragon",
+    "sort": "7983"
+  },
+  {
+    "city": "Morata de Tajuña",
+    "admin": "Madrid",
+    "sort": "7924"
+  },
+  {
+    "city": "Centellas",
+    "admin": "Catalonia",
+    "sort": "7595"
+  },
+  {
+    "city": "Berango",
+    "admin": "Basque Country",
+    "sort": "7271"
+  },
+  {
+    "city": "Almodóvar del Río",
+    "admin": "Andalusia",
+    "sort": "8036"
+  },
+  {
+    "city": "Santa Eulalia de Ronsaná",
+    "admin": "Catalonia",
+    "sort": "7538"
+  },
+  {
+    "city": "Brion",
+    "admin": "Galicia",
+    "sort": "7957"
+  },
+  {
+    "city": "Olvera",
+    "admin": "Andalusia",
+    "sort": "8016"
+  },
+  {
+    "city": "Artá",
+    "admin": "Balearic Islands",
+    "sort": "7984"
+  },
+  {
+    "city": "Dolores",
+    "admin": "Valencia",
+    "sort": "7620"
+  },
+  {
+    "city": "Sampedor",
+    "admin": "Catalonia",
+    "sort": "7566"
+  },
+  {
+    "city": "Pravia",
+    "admin": "Asturias",
+    "sort": "7936"
+  },
+  {
+    "city": "Gélida",
+    "admin": "Catalonia",
+    "sort": "7723"
+  },
+  {
+    "city": "Villanueva del Arzobispo",
+    "admin": "Andalusia",
+    "sort": "7967"
+  },
+  {
+    "city": "Villanueva del Ariscal",
+    "admin": "Andalusia",
+    "sort": "6673"
+  },
+  {
+    "city": "Villaverde del Río",
+    "admin": "Andalusia",
+    "sort": "7811"
+  },
+  {
+    "city": "Viladecaballs",
+    "admin": "Catalonia",
+    "sort": "7621"
+  },
+  {
+    "city": "Peñíscola",
+    "admin": "Valencia",
+    "sort": "7882"
+  },
+  {
+    "city": "Arévalo",
+    "admin": "Castille-Leon",
+    "sort": "7881"
+  },
+  {
+    "city": "Trigueros",
+    "admin": "Andalusia",
+    "sort": "7906"
+  },
+  {
+    "city": "Puentedeume",
+    "admin": "Galicia",
+    "sort": "7687"
+  },
+  {
+    "city": "Torres de la Alameda",
+    "admin": "Madrid",
+    "sort": "7729"
+  },
+  {
+    "city": "Carbajosa de la Sagrada",
+    "admin": "Castille-Leon",
+    "sort": "7368"
+  },
+  {
+    "city": "La Puebla de Montalbán",
+    "admin": "Castille-La Mancha",
+    "sort": "7841"
+  },
+  {
+    "city": "Benahavís",
+    "admin": "Andalusia",
+    "sort": "7829"
+  },
+  {
+    "city": "Cox",
+    "admin": "Valencia",
+    "sort": "7427"
+  },
+  {
+    "city": "Malagón",
+    "admin": "Castille-La Mancha",
+    "sort": "7842"
+  },
+  {
+    "city": "Vega de San Mateo",
+    "admin": "Canary Islands",
+    "sort": "7645"
+  },
+  {
+    "city": "Villamayor",
+    "admin": "Castille-Leon",
+    "sort": "7371"
+  },
+  {
+    "city": "Abadiano Celayeta",
+    "admin": "Basque Country",
+    "sort": "7618"
+  },
+  {
+    "city": "Callosa de Ensarriá",
+    "admin": "Valencia",
+    "sort": "7589"
+  },
+  {
+    "city": "Lorquí",
+    "admin": "Murcia",
+    "sort": "7320"
+  },
+  {
+    "city": "Moratalla",
+    "admin": "Murcia",
+    "sort": "7797"
+  },
+  {
+    "city": "Cobeña",
+    "admin": "Madrid",
+    "sort": "7444"
+  },
+  {
+    "city": "El Paso",
+    "admin": "Canary Islands",
+    "sort": "7745"
+  },
+  {
+    "city": "Gerena",
+    "admin": "Andalusia",
+    "sort": "7740"
+  },
+  {
+    "city": "Bornos",
+    "admin": "Andalusia",
+    "sort": "7655"
+  },
+  {
+    "city": "Astigarraga",
+    "admin": "Basque Country",
+    "sort": "7185"
+  },
+  {
+    "city": "Sotomayor",
+    "admin": "Galicia",
+    "sort": "7482"
+  },
+  {
+    "city": "Castro del Río",
+    "admin": "Andalusia",
+    "sort": "7740"
+  },
+  {
+    "city": "Camarma de Esteruelas",
+    "admin": "Madrid",
+    "sort": "7555"
+  },
+  {
+    "city": "Ondara",
+    "admin": "Valencia",
+    "sort": "7080"
+  },
+  {
+    "city": "Onil",
+    "admin": "Valencia",
+    "sort": "7569"
+  },
+  {
+    "city": "Azuaga",
+    "admin": "Extremadura",
+    "sort": "7702"
+  },
+  {
+    "city": "Tobarra",
+    "admin": "Castille-La Mancha",
+    "sort": "7691"
+  },
+  {
+    "city": "Cee",
+    "admin": "Galicia",
+    "sort": "7568"
+  },
+  {
+    "city": "Quintanar del Rey",
+    "admin": "Castille-La Mancha",
+    "sort": "7616"
+  },
+  {
+    "city": "Guisona",
+    "admin": "Catalonia",
+    "sort": "7291"
+  },
+  {
+    "city": "Collado Mediano",
+    "admin": "Madrid",
+    "sort": "7348"
+  },
+  {
+    "city": "Oroso",
+    "admin": "Galicia",
+    "sort": "7530"
+  },
+  {
+    "city": "Villarejo de Salvanés",
+    "admin": "Madrid",
+    "sort": "7552"
+  },
+  {
+    "city": "Albuñol",
+    "admin": "Andalusia",
+    "sort": "7473"
+  },
+  {
+    "city": "Elorrio",
+    "admin": "Basque Country",
+    "sort": "7383"
+  },
+  {
+    "city": "Finestrat",
+    "admin": "Valencia",
+    "sort": "7402"
+  },
+  {
+    "city": "La Rambla",
+    "admin": "Andalusia",
+    "sort": "7515"
+  },
+  {
+    "city": "Cercedilla",
+    "admin": "Madrid",
+    "sort": "7359"
+  },
+  {
+    "city": "Roda de Bará",
+    "admin": "Catalonia",
+    "sort": "7127"
+  },
+  {
+    "city": "Valverde de la Virgen",
+    "admin": "Castille-Leon",
+    "sort": "7442"
+  },
+  {
+    "city": "Benacazón",
+    "admin": "Andalusia",
+    "sort": "7322"
+  },
+  {
+    "city": "Teyá",
+    "admin": "Catalonia",
+    "sort": "6532"
+  },
+  {
+    "city": "Montblanch",
+    "admin": "Catalonia",
+    "sort": "7433"
+  },
+  {
+    "city": "Massanet de la Selva",
+    "admin": "Catalonia",
+    "sort": "7349"
+  },
+  {
+    "city": "Begas",
+    "admin": "Catalonia",
+    "sort": "7356"
+  },
+  {
+    "city": "Náquera",
+    "admin": "Valencia",
+    "sort": "7301"
+  },
+  {
+    "city": "Moncófar",
+    "admin": "Valencia",
+    "sort": "6958"
+  },
+  {
+    "city": "Breña Alta",
+    "admin": "Canary Islands",
+    "sort": "7196"
+  },
+  {
+    "city": "Alagón",
+    "admin": "Aragon",
+    "sort": "7121"
+  },
+  {
+    "city": "Derio",
+    "admin": "Basque Country",
+    "sort": "6780"
+  },
+  {
+    "city": "Pedro Muñoz",
+    "admin": "Castille-La Mancha",
+    "sort": "7325"
+  },
+  {
+    "city": "Casares",
+    "admin": "Andalusia",
+    "sort": "7342"
+  },
+  {
+    "city": "Andorra",
+    "admin": "Aragon",
+    "sort": "7327"
+  },
+  {
+    "city": "Bujalance",
+    "admin": "Andalusia",
+    "sort": "7316"
+  },
+  {
+    "city": "Talayuela",
+    "admin": "Extremadura",
+    "sort": "7328"
+  },
+  {
+    "city": "Mojácar",
+    "admin": "Andalusia",
+    "sort": "7257"
+  },
+  {
+    "city": "Arechavaleta",
+    "admin": "Basque Country",
+    "sort": "7108"
+  },
+  {
+    "city": "Posadas",
+    "admin": "Andalusia",
+    "sort": "7296"
+  },
+  {
+    "city": "Villa del Río",
+    "admin": "Andalusia",
+    "sort": "7016"
+  },
+  {
+    "city": "San Vicente de Mont-Alt",
+    "admin": "Catalonia",
+    "sort": "6523"
+  },
+  {
+    "city": "Torreperogil",
+    "admin": "Andalusia",
+    "sort": "7194"
+  },
+  {
+    "city": "Cazorla",
+    "admin": "Andalusia",
+    "sort": "7248"
+  },
+  {
+    "city": "Dúrcal",
+    "admin": "Andalusia",
+    "sort": "7168"
+  },
+  {
+    "city": "Vacarisas",
+    "admin": "Catalonia",
+    "sort": "7082"
+  },
+  {
+    "city": "Huéscar",
+    "admin": "Andalusia",
+    "sort": "7236"
+  },
+  {
+    "city": "La Ametlla de Mar",
+    "admin": "Catalonia",
+    "sort": "7131"
+  },
+  {
+    "city": "Fuentes de Andalucía",
+    "admin": "Andalusia",
+    "sort": "7160"
+  },
+  {
+    "city": "Algarrobo",
+    "admin": "Andalusia",
+    "sort": "6551"
+  },
+  {
+    "city": "Villanueva de la Torre",
+    "admin": "Castille-La Mancha",
+    "sort": "6591"
+  },
+  {
+    "city": "Llissá de Vall",
+    "admin": "Catalonia",
+    "sort": "6580"
+  },
+  {
+    "city": "Navarcles",
+    "admin": "Catalonia",
+    "sort": "6068"
+  },
+  {
+    "city": "Museros",
+    "admin": "Valencia",
+    "sort": "6618"
+  },
+  {
+    "city": "Trebujena",
+    "admin": "Andalusia",
+    "sort": "7042"
+  },
+  {
+    "city": "Benalup de Sidonia",
+    "admin": "Andalusia",
+    "sort": "7020"
+  },
+  {
+    "city": "Capellades",
+    "admin": "Catalonia",
+    "sort": "5314"
+  },
+  {
+    "city": "Buñola",
+    "admin": "Balearic Islands",
+    "sort": "7037"
+  },
+  {
+    "city": "Fuente el Saz",
+    "admin": "Madrid",
+    "sort": "6883"
+  },
+  {
+    "city": "San Luis",
+    "admin": "Balearic Islands",
+    "sort": "6877"
+  },
+  {
+    "city": "Montellano",
+    "admin": "Andalusia",
+    "sort": "7014"
+  },
+  {
+    "city": "Burguillos",
+    "admin": "Andalusia",
+    "sort": "6902"
+  },
+  {
+    "city": "Puerto Serrano",
+    "admin": "Andalusia",
+    "sort": "6954"
+  },
+  {
+    "city": "Bergondo",
+    "admin": "Galicia",
+    "sort": "6817"
+  },
+  {
+    "city": "Almacellas",
+    "admin": "Catalonia",
+    "sort": "6875"
+  },
+  {
+    "city": "Turís",
+    "admin": "Valencia",
+    "sort": "6910"
+  },
+  {
+    "city": "San Clemente",
+    "admin": "Castille-La Mancha",
+    "sort": "6953"
+  },
+  {
+    "city": "Vimianzo",
+    "admin": "Galicia",
+    "sort": "6925"
+  },
+  {
+    "city": "Nuevo Baztán",
+    "admin": "Madrid",
+    "sort": "6630"
+  },
+  {
+    "city": "Valdoviño",
+    "admin": "Galicia",
+    "sort": "6872"
+  },
+  {
+    "city": "Infiesto",
+    "admin": "Asturias",
+    "sort": "6921"
+  },
+  {
+    "city": "Constantí",
+    "admin": "Catalonia",
+    "sort": "6724"
+  },
+  {
+    "city": "Calamonte",
+    "admin": "Extremadura",
+    "sort": "6152"
+  },
+  {
+    "city": "Taradell",
+    "admin": "Catalonia",
+    "sort": "6687"
+  },
+  {
+    "city": "Villa del Prado",
+    "admin": "Madrid",
+    "sort": "6837"
+  },
+  {
+    "city": "Paradas",
+    "admin": "Andalusia",
+    "sort": "6850"
+  },
+  {
+    "city": "Güeñes",
+    "admin": "Basque Country",
+    "sort": "6699"
+  },
+  {
+    "city": "Argés",
+    "admin": "Castille-La Mancha",
+    "sort": "6621"
+  },
+  {
+    "city": "San Antonio de Vilamajor",
+    "admin": "Catalonia",
+    "sort": "6383"
+  },
+  {
+    "city": "Venta de Baños",
+    "admin": "Castille-Leon",
+    "sort": "6399"
+  },
+  {
+    "city": "Argamasilla de Alba",
+    "admin": "Castille-La Mancha",
+    "sort": "6844"
+  },
+  {
+    "city": "Guareña",
+    "admin": "Extremadura",
+    "sort": "6812"
+  },
+  {
+    "city": "Negreira",
+    "admin": "Galicia",
+    "sort": "6775"
+  },
+  {
+    "city": "San Felíu de Codinas",
+    "admin": "Catalonia",
+    "sort": "6406"
+  },
+  {
+    "city": "Ríudoms",
+    "admin": "Catalonia",
+    "sort": "6617"
+  },
+  {
+    "city": "Sallent",
+    "admin": "Catalonia",
+    "sort": "6717"
+  },
+  {
+    "city": "Tauste",
+    "admin": "Aragon",
+    "sort": "6777"
+  },
+  {
+    "city": "Villares de la Reina",
+    "admin": "Castille-Leon",
+    "sort": "6491"
+  },
+  {
+    "city": "Lloseta",
+    "admin": "Balearic Islands",
+    "sort": "6250"
+  },
+  {
+    "city": "Marmolejo",
+    "admin": "Andalusia",
+    "sort": "6726"
+  },
+  {
+    "city": "La Canonja",
+    "admin": "Catalonia",
+    "sort": "5933"
+  },
+  {
+    "city": "Aguilar de Campóo",
+    "admin": "Castille-Leon",
+    "sort": "6711"
+  },
+  {
+    "city": "Fuente del Maestre",
+    "admin": "Extremadura",
+    "sort": "6704"
+  },
+  {
+    "city": "Alcalá de Chivert",
+    "admin": "Valencia",
+    "sort": "6691"
+  },
+  {
+    "city": "Moraleja",
+    "admin": "Extremadura",
+    "sort": "6685"
+  },
+  {
+    "city": "Cedeira",
+    "admin": "Galicia",
+    "sort": "6650"
+  },
+  {
+    "city": "Almensilla",
+    "admin": "Andalusia",
+    "sort": "6287"
+  },
+  {
+    "city": "Orio",
+    "admin": "Basque Country",
+    "sort": "6096"
+  },
+  {
+    "city": "Carral",
+    "admin": "Galicia",
+    "sort": "6574"
+  },
+  {
+    "city": "Guadalix de la Sierra",
+    "admin": "Madrid",
+    "sort": "6594"
+  },
+  {
+    "city": "Miraflores de la Sierra",
+    "admin": "Madrid",
+    "sort": "6585"
+  },
+  {
+    "city": "Hinojosa del Duque",
+    "admin": "Andalusia",
+    "sort": "6684"
+  },
+  {
+    "city": "Jimena de la Frontera",
+    "admin": "Andalusia",
+    "sort": "6665"
+  },
+  {
+    "city": "Alpicat",
+    "admin": "Catalonia",
+    "sort": "6274"
+  },
+  {
+    "city": "Blanca",
+    "admin": "Murcia",
+    "sort": "6608"
+  },
+  {
+    "city": "San Adrián",
+    "admin": "Navarre",
+    "sort": "6369"
+  },
+  {
+    "city": "San Miguel de Salinas",
+    "admin": "Valencia",
+    "sort": "6553"
+  },
+  {
+    "city": "Las Pedroñeras",
+    "admin": "Castille-La Mancha",
+    "sort": "6638"
+  },
+  {
+    "city": "Villamuriel de Cerrato",
+    "admin": "Castille-Leon",
+    "sort": "6470"
+  },
+  {
+    "city": "Górliz-Elexalde",
+    "admin": "Basque Country",
+    "sort": "6022"
+  },
+  {
+    "city": "Jaraiz de la Vera",
+    "admin": "Extremadura",
+    "sort": "6499"
+  },
+  {
+    "city": "Arbucias",
+    "admin": "Catalonia",
+    "sort": "6507"
+  },
+  {
+    "city": "Torrellas de Llobregat",
+    "admin": "Catalonia",
+    "sort": "6126"
+  },
+  {
+    "city": "Zaratán",
+    "admin": "Castille-Leon",
+    "sort": "6249"
+  },
+  {
+    "city": "Sils",
+    "admin": "Catalonia",
+    "sort": "6349"
+  },
+  {
+    "city": "Moyá",
+    "admin": "Catalonia",
+    "sort": "6474"
+  },
+  {
+    "city": "Briviesca",
+    "admin": "Castille-Leon",
+    "sort": "6465"
+  },
+  {
+    "city": "Vélez Rubio",
+    "admin": "Andalusia",
+    "sort": "6521"
+  },
+  {
+    "city": "Lazcano",
+    "admin": "Basque Country",
+    "sort": "6007"
+  },
+  {
+    "city": "Lezo",
+    "admin": "Basque Country",
+    "sort": "6062"
+  },
+  {
+    "city": "Olula del Río",
+    "admin": "Andalusia",
+    "sort": "6258"
+  },
+  {
+    "city": "Gata de Gorgos",
+    "admin": "Valencia",
+    "sort": "6223"
+  },
+  {
+    "city": "Campo Real",
+    "admin": "Madrid",
+    "sort": "6416"
+  },
+  {
+    "city": "Herrera",
+    "admin": "Andalusia",
+    "sort": "6504"
+  },
+  {
+    "city": "Gójar",
+    "admin": "Andalusia",
+    "sort": "5993"
+  },
+  {
+    "city": "Almenara",
+    "admin": "Valencia",
+    "sort": "6254"
+  },
+  {
+    "city": "Sarriá de Ter",
+    "admin": "Catalonia",
+    "sort": "5231"
+  },
+  {
+    "city": "Urnieta",
+    "admin": "Basque Country",
+    "sort": "6197"
+  },
+  {
+    "city": "Arenas de San Pedro",
+    "admin": "Castille-Leon",
+    "sort": "6434"
+  },
+  {
+    "city": "Pedrezuela",
+    "admin": "Madrid",
+    "sort": "6226"
+  },
+  {
+    "city": "Pulianas",
+    "admin": "Andalusia",
+    "sort": "5480"
+  },
+  {
+    "city": "Peñaranda de Bracamonte",
+    "admin": "Castille-Leon",
+    "sort": "6123"
+  },
+  {
+    "city": "Allariz",
+    "admin": "Galicia",
+    "sort": "6314"
+  },
+  {
+    "city": "Santo Domingo de la Calzada",
+    "admin": "La Rioja",
+    "sort": "6222"
+  },
+  {
+    "city": "Usúrbil",
+    "admin": "Basque Country",
+    "sort": "6132"
+  },
+  {
+    "city": "Ulldecona",
+    "admin": "Catalonia",
+    "sort": "6317"
+  },
+  {
+    "city": "Viator",
+    "admin": "Andalusia",
+    "sort": "6039"
+  },
+  {
+    "city": "Ares",
+    "admin": "Galicia",
+    "sort": "5997"
+  },
+  {
+    "city": "Becerril de la Sierra",
+    "admin": "Madrid",
+    "sort": "6108"
+  },
+  {
+    "city": "Altafulla",
+    "admin": "Catalonia",
+    "sort": "5512"
+  },
+  {
+    "city": "Breña Baja",
+    "admin": "Canary Islands",
+    "sort": "5866"
+  },
+  {
+    "city": "San Pol de Mar",
+    "admin": "Catalonia",
+    "sort": "5538"
+  },
+  {
+    "city": "Puebla de la Calzada",
+    "admin": "Extremadura",
+    "sort": "5861"
+  },
+  {
+    "city": "Casarrubios del Monte",
+    "admin": "Castille-La Mancha",
+    "sort": "6177"
+  },
+  {
+    "city": "La Palma",
+    "admin": "Murcia",
+    "sort": "5768"
+  },
+  {
+    "city": "Tarazona de la Mancha",
+    "admin": "Castille-La Mancha",
+    "sort": "6184"
+  },
+  {
+    "city": "Outes",
+    "admin": "Galicia",
+    "sort": "6150"
+  },
+  {
+    "city": "Villabona",
+    "admin": "Basque Country",
+    "sort": "5864"
+  },
+  {
+    "city": "Los Villares",
+    "admin": "Andalusia",
+    "sort": "6106"
+  },
+  {
+    "city": "Suria",
+    "admin": "Catalonia",
+    "sort": "5923"
+  },
+  {
+    "city": "La Muela",
+    "admin": "Aragon",
+    "sort": "6125"
+  },
+  {
+    "city": "Bonares",
+    "admin": "Andalusia",
+    "sort": "6075"
+  },
+  {
+    "city": "Porcuna",
+    "admin": "Andalusia",
+    "sort": "6115"
+  },
+  {
+    "city": "Albaida",
+    "admin": "Valencia",
+    "sort": "5975"
+  },
+  {
+    "city": "Abanilla",
+    "admin": "Murcia",
+    "sort": "6116"
+  },
+  {
+    "city": "Vilafant",
+    "admin": "Catalonia",
+    "sort": "5480"
+  },
+  {
+    "city": "Torrejón del Rey",
+    "admin": "Castille-La Mancha",
+    "sort": "5892"
+  },
+  {
+    "city": "Vilaboa",
+    "admin": "Galicia",
+    "sort": "5955"
+  },
+  {
+    "city": "Guadasuar",
+    "admin": "Valencia",
+    "sort": "5938"
+  },
+  {
+    "city": "Artés",
+    "admin": "Catalonia",
+    "sort": "5782"
+  },
+  {
+    "city": "Aznalcóllar",
+    "admin": "Andalusia",
+    "sort": "6060"
+  },
+  {
+    "city": "Noreña",
+    "admin": "Asturias",
+    "sort": "5113"
+  },
+  {
+    "city": "María de Huerva",
+    "admin": "Aragon",
+    "sort": "6021"
+  },
+  {
+    "city": "Mota del Cuervo",
+    "admin": "Castille-La Mancha",
+    "sort": "6035"
+  },
+  {
+    "city": "Yeles",
+    "admin": "Castille-La Mancha",
+    "sort": "5779"
+  },
+  {
+    "city": "Anglés",
+    "admin": "Catalonia",
+    "sort": "5709"
+  },
+  {
+    "city": "Navás",
+    "admin": "Catalonia",
+    "sort": "5973"
+  },
+  {
+    "city": "Motilla del Palancar",
+    "admin": "Castille-La Mancha",
+    "sort": "5964"
+  },
+  {
+    "city": "Algaida",
+    "admin": "Balearic Islands",
+    "sort": "5963"
+  },
+  {
+    "city": "Arzúa",
+    "admin": "Galicia",
+    "sort": "5964"
+  },
+  {
+    "city": "Ugena",
+    "admin": "Castille-La Mancha",
+    "sort": "5626"
+  },
+  {
+    "city": "Membrilla",
+    "admin": "Castille-La Mancha",
+    "sort": "5927"
+  },
+  {
+    "city": "Esquivias",
+    "admin": "Castille-La Mancha",
+    "sort": "5747"
+  },
+  {
+    "city": "Almodóvar del Campo",
+    "admin": "Castille-La Mancha",
+    "sort": "5947"
+  },
+  {
+    "city": "Coristanco",
+    "admin": "Galicia",
+    "sort": "5878"
+  },
+  {
+    "city": "Benigánim",
+    "admin": "Valencia",
+    "sort": "5742"
+  },
+  {
+    "city": "Tremp",
+    "admin": "Catalonia",
+    "sort": "5893"
+  },
+  {
+    "city": "Órjiva",
+    "admin": "Andalusia",
+    "sort": "5866"
+  },
+  {
+    "city": "Valga",
+    "admin": "Galicia",
+    "sort": "5768"
+  },
+  {
+    "city": "Vilanova de la Roca",
+    "admin": "Catalonia",
+    "sort": "5535"
+  },
+  {
+    "city": "Aldeamayor de San Martín",
+    "admin": "Castille-Leon",
+    "sort": "5789"
+  },
+  {
+    "city": "Celrá",
+    "admin": "Catalonia",
+    "sort": "5606"
+  },
+  {
+    "city": "Chauchina",
+    "admin": "Andalusia",
+    "sort": "5624"
+  },
+  {
+    "city": "Argamasilla de Calatrava",
+    "admin": "Castille-La Mancha",
+    "sort": "5853"
+  },
+  {
+    "city": "Guardo",
+    "admin": "Castille-Leon",
+    "sort": "5786"
+  },
+  {
+    "city": "Constantina",
+    "admin": "Andalusia",
+    "sort": "5864"
+  },
+  {
+    "city": "Alaró",
+    "admin": "Balearic Islands",
+    "sort": "5741"
+  },
+  {
+    "city": "Medina de Pomar",
+    "admin": "Castille-Leon",
+    "sort": "5834"
+  },
+  {
+    "city": "Paterna de Rivera",
+    "admin": "Andalusia",
+    "sort": "5470"
+  },
+  {
+    "city": "La Selva",
+    "admin": "Catalonia",
+    "sort": "5694"
+  },
+  {
+    "city": "Alfacar",
+    "admin": "Andalusia",
+    "sort": "5497"
+  },
+  {
+    "city": "San Hilario Sacalm",
+    "admin": "Catalonia",
+    "sort": "5758"
+  },
+  {
+    "city": "Dosríus",
+    "admin": "Catalonia",
+    "sort": "5685"
+  },
+  {
+    "city": "Agaete",
+    "admin": "Canary Islands",
+    "sort": "5695"
+  },
+  {
+    "city": "Los Yébenes",
+    "admin": "Castille-La Mancha",
+    "sort": "5796"
+  },
+  {
+    "city": "Torreblanca",
+    "admin": "Valencia",
+    "sort": "5606"
+  },
+  {
+    "city": "La Guancha",
+    "admin": "Canary Islands",
+    "sort": "5553"
+  },
+  {
+    "city": "Prado del Rey",
+    "admin": "Andalusia",
+    "sort": "5655"
+  },
+  {
+    "city": "Arafo",
+    "admin": "Canary Islands",
+    "sort": "5604"
+  },
+  {
+    "city": "Ribadesella",
+    "admin": "Asturias",
+    "sort": "5686"
+  },
+  {
+    "city": "Palazuelos de Eresma",
+    "admin": "Castille-Leon",
+    "sort": "5597"
+  },
+  {
+    "city": "Salteras",
+    "admin": "Andalusia",
+    "sort": "5646"
+  },
+  {
+    "city": "Montehermoso",
+    "admin": "Extremadura",
+    "sort": "5680"
+  },
+  {
+    "city": "Celanova",
+    "admin": "Galicia",
+    "sort": "5652"
+  },
+  {
+    "city": "Llerena",
+    "admin": "Extremadura",
+    "sort": "5697"
+  },
+  {
+    "city": "Méntrida",
+    "admin": "Castille-La Mancha",
+    "sort": "5662"
+  },
+  {
+    "city": "Castuera",
+    "admin": "Extremadura",
+    "sort": "5708"
+  },
+  {
+    "city": "Arroyo de la Luz",
+    "admin": "Extremadura",
+    "sort": "5663"
+  },
+  {
+    "city": "Huelma",
+    "admin": "Andalusia",
+    "sort": "5682"
+  },
+  {
+    "city": "Porreras",
+    "admin": "Balearic Islands",
+    "sort": "5624"
+  },
+  {
+    "city": "Alhama de Granada",
+    "admin": "Andalusia",
+    "sort": "5667"
+  },
+  {
+    "city": "Campa",
+    "admin": "Basque Country",
+    "sort": "5034"
+  },
+  {
+    "city": "San Ciprián de Viñas",
+    "admin": "Galicia",
+    "sort": "5509"
+  },
+  {
+    "city": "Borriol",
+    "admin": "Valencia",
+    "sort": "5552"
+  },
+  {
+    "city": "Guijuelo",
+    "admin": "Castille-Leon",
+    "sort": "5550"
+  },
+  {
+    "city": "Mugardos",
+    "admin": "Galicia",
+    "sort": "5226"
+  },
+  {
+    "city": "Puente Caldelas",
+    "admin": "Galicia",
+    "sort": "5548"
+  },
+  {
+    "city": "Benejúzar",
+    "admin": "Valencia",
+    "sort": "5453"
+  },
+  {
+    "city": "Pozo-Estrecho",
+    "admin": "Murcia",
+    "sort": "5149"
+  },
+  {
+    "city": "La Cenia",
+    "admin": "Catalonia",
+    "sort": "5530"
+  },
+  {
+    "city": "Macael",
+    "admin": "Andalusia",
+    "sort": "5449"
+  },
+  {
+    "city": "Algodonales",
+    "admin": "Andalusia",
+    "sort": "5526"
+  },
+  {
+    "city": "Abegondo",
+    "admin": "Galicia",
+    "sort": "5494"
+  },
+  {
+    "city": "Aceuchal",
+    "admin": "Extremadura",
+    "sort": "5467"
+  },
+  {
+    "city": "Chinchón",
+    "admin": "Madrid",
+    "sort": "5506"
+  },
+  {
+    "city": "Deba",
+    "admin": "Basque Country",
+    "sort": "5441"
+  },
+  {
+    "city": "Alameda",
+    "admin": "Andalusia",
+    "sort": "5453"
+  },
+  {
+    "city": "Agramunt",
+    "admin": "Catalonia",
+    "sort": "5464"
+  },
+  {
+    "city": "Santa Marta de Ortigueira",
+    "admin": "Galicia",
+    "sort": "5485"
+  },
+  {
+    "city": "Meaño",
+    "admin": "Galicia",
+    "sort": "5314"
+  },
+  {
+    "city": "Santa Cristina de Aro",
+    "admin": "Catalonia",
+    "sort": "5408"
+  },
+  {
+    "city": "Casariche",
+    "admin": "Andalusia",
+    "sort": "5384"
+  },
+  {
+    "city": "Arjona",
+    "admin": "Andalusia",
+    "sort": "5450"
+  },
+  {
+    "city": "Entrambasaguas",
+    "admin": "Cantabria",
+    "sort": "5357"
+  },
+  {
+    "city": "Mutriku",
+    "admin": "Basque Country",
+    "sort": "5284"
+  },
+  {
+    "city": "Guitiriz",
+    "admin": "Galicia",
+    "sort": "5455"
+  },
+  {
+    "city": "Moraleja de Enmedio",
+    "admin": "Madrid",
+    "sort": "5294"
+  },
+  {
+    "city": "Los Montesinos",
+    "admin": "Valencia",
+    "sort": "5123"
+  },
+  {
+    "city": "Gualchos",
+    "admin": "Andalusia",
+    "sort": "5287"
+  },
+  {
+    "city": "Villanueva del Trabuco",
+    "admin": "Andalusia",
+    "sort": "5360"
+  },
+  {
+    "city": "Librilla",
+    "admin": "Murcia",
+    "sort": "5351"
+  },
+  {
+    "city": "Almazán",
+    "admin": "Castille-Leon",
+    "sort": "5411"
+  },
+  {
+    "city": "Simancas",
+    "admin": "Castille-Leon",
+    "sort": "5315"
+  },
+  {
+    "city": "Ribadumia",
+    "admin": "Galicia",
+    "sort": "5157"
+  },
+  {
+    "city": "Malpica",
+    "admin": "Galicia",
+    "sort": "5332"
+  },
+  {
+    "city": "Nueva-Carteya",
+    "admin": "Andalusia",
+    "sort": "5341"
+  },
+  {
+    "city": "Mollina",
+    "admin": "Andalusia",
+    "sort": "5341"
+  },
+  {
+    "city": "Talavera La Real",
+    "admin": "Extremadura",
+    "sort": "5311"
+  },
+  {
+    "city": "Cigales",
+    "admin": "Castille-Leon",
+    "sort": "5299"
+  },
+  {
+    "city": "Yepes",
+    "admin": "Castille-La Mancha",
+    "sort": "5302"
+  },
+  {
+    "city": "Peal de Becerro",
+    "admin": "Andalusia",
+    "sort": "5325"
+  },
+  {
+    "city": "San Vicente de Alcántara",
+    "admin": "Extremadura",
+    "sort": "5340"
+  },
+  {
+    "city": "Montefrío",
+    "admin": "Andalusia",
+    "sort": "5336"
+  },
+  {
+    "city": "El Viso de San Juan",
+    "admin": "Castille-La Mancha",
+    "sort": "5255"
+  },
+  {
+    "city": "Numancia de la Sagra",
+    "admin": "Castille-La Mancha",
+    "sort": "5170"
+  },
+  {
+    "city": "Parres",
+    "admin": "Asturias",
+    "sort": "5292"
+  },
+  {
+    "city": "Valencia de Alcántara",
+    "admin": "Extremadura",
+    "sort": "5325"
+  },
+  {
+    "city": "Añover de Tajo",
+    "admin": "Castille-La Mancha",
+    "sort": "5202"
+  },
+  {
+    "city": "Camariñas",
+    "admin": "Galicia",
+    "sort": "5224"
+  },
+  {
+    "city": "Nava",
+    "admin": "Asturias",
+    "sort": "5264"
+  },
+  {
+    "city": "Sariegos",
+    "admin": "Castille-Leon",
+    "sort": "5170"
+  },
+  {
+    "city": "Bellpuig",
+    "admin": "Catalonia",
+    "sort": "5151"
+  },
+  {
+    "city": "Alcover",
+    "admin": "Catalonia",
+    "sort": "5185"
+  },
+  {
+    "city": "Polop",
+    "admin": "Valencia",
+    "sort": "5069"
+  },
+  {
+    "city": "Esporlas",
+    "admin": "Balearic Islands",
+    "sort": "5134"
+  },
+  {
+    "city": "San Ildefonso",
+    "admin": "Castille-Leon",
+    "sort": "5237"
+  },
+  {
+    "city": "La Campana",
+    "admin": "Andalusia",
+    "sort": "5228"
+  },
+  {
+    "city": "Alba de Tormes",
+    "admin": "Castille-Leon",
+    "sort": "5159"
+  },
+  {
+    "city": "Miengo",
+    "admin": "Cantabria",
+    "sort": "5059"
+  },
+  {
+    "city": "Alcalá de los Gazules",
+    "admin": "Andalusia",
+    "sort": "5245"
+  },
+  {
+    "city": "Otero de Rey",
+    "admin": "Galicia",
+    "sort": "5216"
+  },
+  {
+    "city": "Alburquerque",
+    "admin": "Extremadura",
+    "sort": "5245"
+  },
+  {
+    "city": "Valencia de Don Juan",
+    "admin": "Castille-Leon",
+    "sort": "5159"
+  },
+  {
+    "city": "Neda",
+    "admin": "Galicia",
+    "sort": "5032"
+  },
+  {
+    "city": "Moral de Calatrava",
+    "admin": "Castille-La Mancha",
+    "sort": "5211"
+  },
+  {
+    "city": "Bescanó",
+    "admin": "Catalonia",
+    "sort": "5094"
+  },
+  {
+    "city": "Pedrera",
+    "admin": "Andalusia",
+    "sort": "5147"
+  },
+  {
+    "city": "Las Navas del Marqués",
+    "admin": "Castille-Leon",
+    "sort": "5231"
+  },
+  {
+    "city": "Ayora",
+    "admin": "Valencia",
+    "sort": "5215"
+  },
+  {
+    "city": "Carranque",
+    "admin": "Castille-La Mancha",
+    "sort": "5022"
+  },
+  {
+    "city": "Nerva",
+    "admin": "Andalusia",
+    "sort": "5127"
+  },
+  {
+    "city": "La Guardia de Jaén",
+    "admin": "Andalusia",
+    "sort": "5082"
+  },
+  {
+    "city": "Ribadavia",
+    "admin": "Galicia",
+    "sort": "5005"
+  },
+  {
+    "city": "Marquina-Jemein",
+    "admin": "Basque Country",
+    "sort": "5072"
+  },
+  {
+    "city": "Quesada",
+    "admin": "Andalusia",
+    "sort": "5161"
+  },
+  {
+    "city": "Mocejón",
+    "admin": "Castille-La Mancha",
+    "sort": "5009"
+  },
+  {
+    "city": "Beas de Segura",
+    "admin": "Andalusia",
+    "sort": "5115"
+  },
+  {
+    "city": "Castro de Rey",
+    "admin": "Galicia",
+    "sort": "5110"
+  },
+  {
+    "city": "Alcalá del Valle",
+    "admin": "Andalusia",
+    "sort": "5031"
+  },
+  {
+    "city": "Ses Salines",
+    "admin": "Balearic Islands",
+    "sort": "5010"
+  },
+  {
+    "city": "Peñafiel",
+    "admin": "Castille-Leon",
+    "sort": "5068"
+  },
+  {
+    "city": "Valverde",
+    "admin": "Canary Islands",
+    "sort": "5084"
+  },
+  {
+    "city": "Almadén",
+    "admin": "Castille-La Mancha",
+    "sort": "5105"
+  },
+  {
+    "city": "Oliva de la Frontera",
+    "admin": "Extremadura",
+    "sort": "5083"
+  },
+  {
+    "city": "Iznalloz",
+    "admin": "Andalusia",
+    "sort": "5094"
+  },
+  {
+    "city": "La Puebla de Almoradiel",
+    "admin": "Castille-La Mancha",
+    "sort": "5041"
+  },
+  {
+    "city": "Vedra",
+    "admin": "Galicia",
+    "sort": "5032"
+  },
+  {
+    "city": "Borja",
+    "admin": "Aragon",
+    "sort": "5037"
+  },
+  {
+    "city": "Corral de Almaguer",
+    "admin": "Castille-La Mancha",
+    "sort": "5068"
+  },
+  {
+    "city": "Castilblanco de los Arroyos",
+    "admin": "Andalusia",
+    "sort": "5059"
+  },
+  {
+    "city": "Candeleda",
+    "admin": "Castille-Leon",
+    "sort": "5049"
+  },
+  {
+    "city": "Candás",
+    "admin": "Asturias",
+    "sort": "7193"
+  },
+  {
+    "city": "Viella",
+    "admin": "Catalonia",
+    "sort": "5674"
+  }
+]

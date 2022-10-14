@@ -1,0 +1,92 @@
+[
+  {
+    "city": "Brazzaville",
+    "admin": "Brazzaville",
+    "sort": "1827000"
+  },
+  {
+    "city": "Pointe-Noire",
+    "admin": "Pointe-Noire",
+    "sort": "829134"
+  },
+  {
+    "city": "Dolisie",
+    "admin": "Niari",
+    "sort": "103894"
+  },
+  {
+    "city": "Ouésso",
+    "admin": "Sangha",
+    "sort": "28179"
+  },
+  {
+    "city": "Owando",
+    "admin": "Cuvette",
+    "sort": "23952"
+  },
+  {
+    "city": "Sibiti",
+    "admin": "Lékoumou",
+    "sort": "22811"
+  },
+  {
+    "city": "Madingou",
+    "admin": "Bouenza",
+    "sort": "22760"
+  },
+  {
+    "city": "Impfondo",
+    "admin": "Likouala",
+    "sort": "20859"
+  },
+  {
+    "city": "Kinkala",
+    "admin": "Pool",
+    "sort": "16132"
+  },
+  {
+    "city": "Djambala",
+    "admin": "Plateaux",
+    "sort": "9651"
+  },
+  {
+    "city": "Ewo",
+    "admin": "Cuvette-Ouest",
+    "sort": "9062"
+  },
+  {
+    "city": "Loango",
+    "admin": "Kouilou",
+    "sort": ""
+  },
+  {
+    "city": "Kayes",
+    "admin": "Bouenza",
+    "sort": "62521"
+  },
+  {
+    "city": "Mossendjo",
+    "admin": "Niari",
+    "sort": "30936"
+  },
+  {
+    "city": "Gamboma",
+    "admin": "Plateaux",
+    "sort": "20877"
+  },
+  {
+    "city": "Boloso",
+    "admin": "Sangha",
+    "sort": "12244"
+  },
+  {
+    "city": "Makoua",
+    "admin": "Cuvette",
+    "sort": "11355"
+  },
+  {
+    "city": "Sémbé",
+    "admin": "Sangha",
+    "sort": "9679"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "city": "San José",
+    "admin": "San José",
+    "sort": "288054"
+  },
+  {
+    "city": "Puerto Limón",
+    "admin": "Limón",
+    "sort": "60710"
+  },
+  {
+    "city": "Alajuela",
+    "admin": "Alajuela",
+    "sort": "48326"
+  },
+  {
+    "city": "Liberia",
+    "admin": "Guanacaste",
+    "sort": "45380"
+  },
+  {
+    "city": "Puntarenas",
+    "admin": "Puntarenas",
+    "sort": "41528"
+  },
+  {
+    "city": "San Juan",
+    "admin": "San José",
+    "sort": "25866"
+  },
+  {
+    "city": "Cartago",
+    "admin": "Cartago",
+    "sort": "22775"
+  },
+  {
+    "city": "Heredia",
+    "admin": "Heredia",
+    "sort": "18988"
+  },
+  {
+    "city": "Santa Ana",
+    "admin": "San José",
+    "sort": "12956"
+  },
+  {
+    "city": "Quesada",
+    "admin": "Alajuela",
+    "sort": "31106"
+  },
+  {
+    "city": "Buenos Aires",
+    "admin": "Puntarenas",
+    "sort": "29454"
+  },
+  {
+    "city": "Cañas",
+    "admin": "Guanacaste",
+    "sort": "20306"
+  },
+  {
+    "city": "Colón",
+    "admin": "San José",
+    "sort": "17411"
+  },
+  {
+    "city": "Santiago",
+    "admin": "San José",
+    "sort": "12600"
+  },
+  {
+    "city": "Sixaola",
+    "admin": "Limón",
+    "sort": "11847"
+  },
+  {
+    "city": "Golfito",
+    "admin": "Puntarenas",
+    "sort": "6777"
+  },
+  {
+    "city": "La Cruz",
+    "admin": "Guanacaste",
+    "sort": "4319"
+  },
+  {
+    "city": "Ciudad Cortés",
+    "admin": "Puntarenas",
+    "sort": "3850"
+  }
+]

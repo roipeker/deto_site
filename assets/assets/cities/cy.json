@@ -1,0 +1,102 @@
+[
+  {
+    "city": "Nicosia",
+    "admin": "Lefkosía",
+    "sort": "330000"
+  },
+  {
+    "city": "Limassol",
+    "admin": "Lemesós",
+    "sort": "235056"
+  },
+  {
+    "city": "Larnaca",
+    "admin": "Lárnaka",
+    "sort": "59200"
+  },
+  {
+    "city": "Famagusta",
+    "admin": "Ammóchostos",
+    "sort": "40920"
+  },
+  {
+    "city": "Paphos",
+    "admin": "Páfos",
+    "sort": "35961"
+  },
+  {
+    "city": "Kyrenia",
+    "admin": "Kerýneia",
+    "sort": "33207"
+  },
+  {
+    "city": "Mésa Geitoniá",
+    "admin": "Lemesós",
+    "sort": "14477"
+  },
+  {
+    "city": "Káto Polemídia",
+    "admin": "Lemesós",
+    "sort": "22369"
+  },
+  {
+    "city": "Aradíppou",
+    "admin": "Lárnaka",
+    "sort": "19199"
+  },
+  {
+    "city": "Latsia",
+    "admin": "Lefkosía",
+    "sort": "16774"
+  },
+  {
+    "city": "Ágios Athanásios",
+    "admin": "Lemesós",
+    "sort": "14578"
+  },
+  {
+    "city": "Paralímni",
+    "admin": "Ammóchostos",
+    "sort": "14963"
+  },
+  {
+    "city": "Germasógeia",
+    "admin": "Lemesós",
+    "sort": "13421"
+  },
+  {
+    "city": "Dáli",
+    "admin": "Lefkosía",
+    "sort": "10466"
+  },
+  {
+    "city": "Geroskípou",
+    "admin": "Páfos",
+    "sort": "7878"
+  },
+  {
+    "city": "Géri",
+    "admin": "Lefkosía",
+    "sort": "8235"
+  },
+  {
+    "city": "Livádia",
+    "admin": "Lárnaka",
+    "sort": "7177"
+  },
+  {
+    "city": "Tséri",
+    "admin": "Lefkosía",
+    "sort": "7035"
+  },
+  {
+    "city": "Derýneia",
+    "admin": "Ammóchostos",
+    "sort": "5844"
+  },
+  {
+    "city": "Sotíra",
+    "admin": "Ammóchostos",
+    "sort": "5474"
+  }
+]

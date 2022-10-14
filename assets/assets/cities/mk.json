@@ -1,0 +1,357 @@
+[
+  {
+    "city": "Skopje",
+    "admin": "Skopje",
+    "sort": "640000"
+  },
+  {
+    "city": "Tetovo",
+    "admin": "Tetovo",
+    "sort": "142030"
+  },
+  {
+    "city": "Bitola",
+    "admin": "Bitola",
+    "sort": "74550"
+  },
+  {
+    "city": "Kumanovo",
+    "admin": "Kumanovo",
+    "sort": "70842"
+  },
+  {
+    "city": "Prilep",
+    "admin": "Prilep",
+    "sort": "66246"
+  },
+  {
+    "city": "Ohrid",
+    "admin": "Ohrid",
+    "sort": "55749"
+  },
+  {
+    "city": "Veles",
+    "admin": "Veles",
+    "sort": "43716"
+  },
+  {
+    "city": "Štip",
+    "admin": "Štip",
+    "sort": "43652"
+  },
+  {
+    "city": "Gostivar",
+    "admin": "Gostivar",
+    "sort": "35847"
+  },
+  {
+    "city": "Kočani",
+    "admin": "Kočani",
+    "sort": "28330"
+  },
+  {
+    "city": "Struga",
+    "admin": "Struga",
+    "sort": "16559"
+  },
+  {
+    "city": "Debar",
+    "admin": "Debar",
+    "sort": "14561"
+  },
+  {
+    "city": "Strumica",
+    "admin": "Strumica",
+    "sort": "10868"
+  },
+  {
+    "city": "Vinica",
+    "admin": "Vinica",
+    "sort": "10863"
+  },
+  {
+    "city": "Probištip",
+    "admin": "Probištip",
+    "sort": "10826"
+  },
+  {
+    "city": "Aračinovo",
+    "admin": "Aračinovo",
+    "sort": "7315"
+  },
+  {
+    "city": "Kičevo",
+    "admin": "Kičevo",
+    "sort": "7280"
+  },
+  {
+    "city": "Kavadarci",
+    "admin": "Kavadarci",
+    "sort": "6228"
+  },
+  {
+    "city": "Vrapčište",
+    "admin": "Vrapčište",
+    "sort": "4874"
+  },
+  {
+    "city": "Gevgelija",
+    "admin": "Gevgelija",
+    "sort": "4967"
+  },
+  {
+    "city": "Radoviš",
+    "admin": "Radoviš",
+    "sort": "4678"
+  },
+  {
+    "city": "Berovo",
+    "admin": "Berovo",
+    "sort": "3619"
+  },
+  {
+    "city": "Kruševo",
+    "admin": "Kruševo",
+    "sort": "3570"
+  },
+  {
+    "city": "Sveti Nikole",
+    "admin": "Sveti Nikole",
+    "sort": "3468"
+  },
+  {
+    "city": "Demir Kapija",
+    "admin": "Demir Kapija",
+    "sort": "3275"
+  },
+  {
+    "city": "Delčevo",
+    "admin": "Delčevo",
+    "sort": "3033"
+  },
+  {
+    "city": "Bogdanci",
+    "admin": "Bogdanci",
+    "sort": "2951"
+  },
+  {
+    "city": "Negotino",
+    "admin": "Negotino",
+    "sort": "2683"
+  },
+  {
+    "city": "Vevčani",
+    "admin": "Vevčani",
+    "sort": "2416"
+  },
+  {
+    "city": "Gradsko",
+    "admin": "Gradsko",
+    "sort": "2219"
+  },
+  {
+    "city": "Valandovo",
+    "admin": "Valandovo",
+    "sort": "1992"
+  },
+  {
+    "city": "Kriva Palanka",
+    "admin": "Kriva Palanka",
+    "sort": "1967"
+  },
+  {
+    "city": "Kratovo",
+    "admin": "Kratovo",
+    "sort": "1925"
+  },
+  {
+    "city": "Krivogaštani",
+    "admin": "Krivogaštani",
+    "sort": "1870"
+  },
+  {
+    "city": "Zrnovci",
+    "admin": "Zrnovci",
+    "sort": "1864"
+  },
+  {
+    "city": "Sopište",
+    "admin": "Sopište",
+    "sort": "690"
+  },
+  {
+    "city": "Pehčevo",
+    "admin": "Pehčevo",
+    "sort": "1687"
+  },
+  {
+    "city": "Plasnica",
+    "admin": "Plasnica",
+    "sort": "1584"
+  },
+  {
+    "city": "Tearce",
+    "admin": "Tearce",
+    "sort": "1475"
+  },
+  {
+    "city": "Mogila",
+    "admin": "Mogila",
+    "sort": "1480"
+  },
+  {
+    "city": "Novo Selo",
+    "admin": "Novo Selo",
+    "sort": "1246"
+  },
+  {
+    "city": "Novaci",
+    "admin": "Novaci",
+    "sort": "1283"
+  },
+  {
+    "city": "Rosoman",
+    "admin": "Rosoman",
+    "sort": "1247"
+  },
+  {
+    "city": "Bosilovo",
+    "admin": "Bosilovo",
+    "sort": "1069"
+  },
+  {
+    "city": "Konče",
+    "admin": "Konče",
+    "sort": "966"
+  },
+  {
+    "city": "Rostuša",
+    "admin": "Mavrovo i Rostuša",
+    "sort": "872"
+  },
+  {
+    "city": "Obleševo",
+    "admin": "Češinovo-Obleševo",
+    "sort": "673"
+  },
+  {
+    "city": "Rankovce",
+    "admin": "Rankovce",
+    "sort": "744"
+  },
+  {
+    "city": "Petrovec",
+    "admin": "Petrovec",
+    "sort": "580"
+  },
+  {
+    "city": "Karbinci",
+    "admin": "Karbinci",
+    "sort": "673"
+  },
+  {
+    "city": "Vasilevo",
+    "admin": "Vasilevo",
+    "sort": "630"
+  },
+  {
+    "city": "Makedonski Brod",
+    "admin": "Makedonski Brod",
+    "sort": "567"
+  },
+  {
+    "city": "Staro Nagoričane",
+    "admin": "Staro Nagoričane",
+    "sort": "555"
+  },
+  {
+    "city": "Demir Hisar",
+    "admin": "Demir Hisar",
+    "sort": "543"
+  },
+  {
+    "city": "Lozovo",
+    "admin": "Lozovo",
+    "sort": "521"
+  },
+  {
+    "city": "Centar Župa",
+    "admin": "Centar Župa",
+    "sort": "466"
+  },
+  {
+    "city": "Jegunovce",
+    "admin": "Jegunovce",
+    "sort": "369"
+  },
+  {
+    "city": "Brvenica",
+    "admin": "Brvenica",
+    "sort": "449"
+  },
+  {
+    "city": "Belčišta",
+    "admin": "Debarca",
+    "sort": "437"
+  },
+  {
+    "city": "Dolneni",
+    "admin": "Dolneni",
+    "sort": "375"
+  },
+  {
+    "city": "Čučer-Sandevo",
+    "admin": "Čučer-Sandevo",
+    "sort": "274"
+  },
+  {
+    "city": "Zelenikovo",
+    "admin": "Zelenikovo",
+    "sort": "272"
+  },
+  {
+    "city": "Želino",
+    "admin": "Želino",
+    "sort": "105"
+  },
+  {
+    "city": "Bogovinje",
+    "admin": "Bogovinje",
+    "sort": "25"
+  },
+  {
+    "city": "Studeničani",
+    "admin": "Studeničani",
+    "sort": "59"
+  },
+  {
+    "city": "Ilinden",
+    "admin": "Ilinden",
+    "sort": ""
+  },
+  {
+    "city": "Star Dojran",
+    "admin": "Dojran",
+    "sort": "105"
+  },
+  {
+    "city": "Lipkovo",
+    "admin": "Lipkovo",
+    "sort": "0"
+  },
+  {
+    "city": "Makedonska Kamenica",
+    "admin": "Makedonska Kamenica",
+    "sort": ""
+  },
+  {
+    "city": "Resen",
+    "admin": "Resen",
+    "sort": ""
+  },
+  {
+    "city": "Dračevo",
+    "admin": "Skopje",
+    "sort": "19246"
+  }
+]

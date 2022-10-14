@@ -1,0 +1,1457 @@
+[
+  {
+    "city": "Warsaw",
+    "admin": "Mazowieckie",
+    "sort": "1790658"
+  },
+  {
+    "city": "Kraków",
+    "admin": "Małopolskie",
+    "sort": "766739"
+  },
+  {
+    "city": "Łódź",
+    "admin": "Łódzkie",
+    "sort": "690422"
+  },
+  {
+    "city": "Wrocław",
+    "admin": "Dolnośląskie",
+    "sort": "638586"
+  },
+  {
+    "city": "Poznań",
+    "admin": "Wielkopolskie",
+    "sort": "533830"
+  },
+  {
+    "city": "Gdańsk",
+    "admin": "Pomorskie",
+    "sort": "464254"
+  },
+  {
+    "city": "Szczecin",
+    "admin": "Zachodniopomorskie",
+    "sort": "403833"
+  },
+  {
+    "city": "Bydgoszcz",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "346739"
+  },
+  {
+    "city": "Lublin",
+    "admin": "Lubelskie",
+    "sort": "339850"
+  },
+  {
+    "city": "Białystok",
+    "admin": "Podlaskie",
+    "sort": "297554"
+  },
+  {
+    "city": "Katowice",
+    "admin": "Śląskie",
+    "sort": "276499"
+  },
+  {
+    "city": "Gdynia",
+    "admin": "Pomorskie",
+    "sort": "247672"
+  },
+  {
+    "city": "Częstochowa",
+    "admin": "Śląskie",
+    "sort": "223322"
+  },
+  {
+    "city": "Radom",
+    "admin": "Mazowieckie",
+    "sort": "219703"
+  },
+  {
+    "city": "Toruń",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "201447"
+  },
+  {
+    "city": "Sosnowiec",
+    "admin": "Śląskie",
+    "sort": "199974"
+  },
+  {
+    "city": "Kielce",
+    "admin": "Świętokrzyskie",
+    "sort": "191605"
+  },
+  {
+    "city": "Rzeszów",
+    "admin": "Podkarpackie",
+    "sort": "182548"
+  },
+  {
+    "city": "Gliwice",
+    "admin": "Śląskie",
+    "sort": "178186"
+  },
+  {
+    "city": "Zabrze",
+    "admin": "Śląskie",
+    "sort": "174349"
+  },
+  {
+    "city": "Olsztyn",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "173599"
+  },
+  {
+    "city": "Bielsko-Biała",
+    "admin": "Śląskie",
+    "sort": "172781"
+  },
+  {
+    "city": "Bytom",
+    "admin": "Śląskie",
+    "sort": "171515"
+  },
+  {
+    "city": "Rybnik",
+    "admin": "Śląskie",
+    "sort": "141000"
+  },
+  {
+    "city": "Ruda Śląska",
+    "admin": "Śląskie",
+    "sort": "139412"
+  },
+  {
+    "city": "Zielona Góra",
+    "admin": "Lubuskie",
+    "sort": "139330"
+  },
+  {
+    "city": "Tychy",
+    "admin": "Śląskie",
+    "sort": "129322"
+  },
+  {
+    "city": "Opole",
+    "admin": "Opolskie",
+    "sort": "127792"
+  },
+  {
+    "city": "Gorzów Wielkopolski",
+    "admin": "Lubuskie",
+    "sort": "123341"
+  },
+  {
+    "city": "Dąbrowa Górnicza",
+    "admin": "Śląskie",
+    "sort": "122712"
+  },
+  {
+    "city": "Płock",
+    "admin": "Mazowieckie",
+    "sort": "120000"
+  },
+  {
+    "city": "Elbląg",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "119317"
+  },
+  {
+    "city": "Wałbrzych",
+    "admin": "Dolnośląskie",
+    "sort": "116069"
+  },
+  {
+    "city": "Tarnów",
+    "admin": "Małopolskie",
+    "sort": "110956"
+  },
+  {
+    "city": "Chorzów",
+    "admin": "Śląskie",
+    "sort": "106846"
+  },
+  {
+    "city": "Koszalin",
+    "admin": "Zachodniopomorskie",
+    "sort": "106880"
+  },
+  {
+    "city": "Inowrocław",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "72561"
+  },
+  {
+    "city": "Zamość",
+    "admin": "Lubelskie",
+    "sort": "66234"
+  },
+  {
+    "city": "Ełk",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "62006"
+  },
+  {
+    "city": "Pruszków",
+    "admin": "Mazowieckie",
+    "sort": "61237"
+  },
+  {
+    "city": "Świdnica",
+    "admin": "Dolnośląskie",
+    "sort": "57761"
+  },
+  {
+    "city": "Legionowo",
+    "admin": "Mazowieckie",
+    "sort": "53886"
+  },
+  {
+    "city": "Świdnik",
+    "admin": "Lubelskie",
+    "sort": "42797"
+  },
+  {
+    "city": "Malbork",
+    "admin": "Pomorskie",
+    "sort": "38895"
+  },
+  {
+    "city": "Sopot",
+    "admin": "Pomorskie",
+    "sort": "37457"
+  },
+  {
+    "city": "Brzeg",
+    "admin": "Opolskie",
+    "sort": "35890"
+  },
+  {
+    "city": "Czeladź",
+    "admin": "Śląskie",
+    "sort": "34402"
+  },
+  {
+    "city": "Giżycko",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "29642"
+  },
+  {
+    "city": "Kętrzyn",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "27827"
+  },
+  {
+    "city": "Piastów",
+    "admin": "Mazowieckie",
+    "sort": "23332"
+  },
+  {
+    "city": "Kościan",
+    "admin": "Wielkopolskie",
+    "sort": "24086"
+  },
+  {
+    "city": "Szczytno",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "22813"
+  },
+  {
+    "city": "Bartoszyce",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "22984"
+  },
+  {
+    "city": "Sidlice",
+    "admin": "Pomorskie",
+    "sort": "12842"
+  },
+  {
+    "city": "Chojnów",
+    "admin": "Dolnośląskie",
+    "sort": "13904"
+  },
+  {
+    "city": "Kalisz",
+    "admin": "Wielkopolskie",
+    "sort": "99761"
+  },
+  {
+    "city": "Legnica",
+    "admin": "Dolnośląskie",
+    "sort": "99350"
+  },
+  {
+    "city": "Włocławek",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "99350"
+  },
+  {
+    "city": "Jaworzno",
+    "admin": "Śląskie",
+    "sort": "94305"
+  },
+  {
+    "city": "Grudziądz",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "94368"
+  },
+  {
+    "city": "Jelenia Góra",
+    "admin": "Dolnośląskie",
+    "sort": "78335"
+  },
+  {
+    "city": "Siedlce",
+    "admin": "Mazowieckie",
+    "sort": "76585"
+  },
+  {
+    "city": "Mysłowice",
+    "admin": "Śląskie",
+    "sort": "75183"
+  },
+  {
+    "city": "Piotrków Trybunalski",
+    "admin": "Łódzkie",
+    "sort": "74905"
+  },
+  {
+    "city": "Konin",
+    "admin": "Wielkopolskie",
+    "sort": "73176"
+  },
+  {
+    "city": "Ostrowiec Świętokrzyski",
+    "admin": "Świętokrzyskie",
+    "sort": "72001"
+  },
+  {
+    "city": "Suwałki",
+    "admin": "Podlaskie",
+    "sort": "69626"
+  },
+  {
+    "city": "Gniezno",
+    "admin": "Wielkopolskie",
+    "sort": "68217"
+  },
+  {
+    "city": "Stargard Szczeciński",
+    "admin": "Zachodniopomorskie",
+    "sort": "67579"
+  },
+  {
+    "city": "Głogów",
+    "admin": "Dolnośląskie",
+    "sort": "66980"
+  },
+  {
+    "city": "Przemyśl",
+    "admin": "Podkarpackie",
+    "sort": "67847"
+  },
+  {
+    "city": "Pabianice",
+    "admin": "Łódzkie",
+    "sort": "64988"
+  },
+  {
+    "city": "Leszno",
+    "admin": "Wielkopolskie",
+    "sort": "63505"
+  },
+  {
+    "city": "Chełm",
+    "admin": "Lubelskie",
+    "sort": "61588"
+  },
+  {
+    "city": "Łomża",
+    "admin": "Podlaskie",
+    "sort": "62700"
+  },
+  {
+    "city": "Tarnowskie Góry",
+    "admin": "Śląskie",
+    "sort": "61686"
+  },
+  {
+    "city": "Mielec",
+    "admin": "Podkarpackie",
+    "sort": "60628"
+  },
+  {
+    "city": "Bełchatów",
+    "admin": "Łódzkie",
+    "sort": "59025"
+  },
+  {
+    "city": "Będzin",
+    "admin": "Śląskie",
+    "sort": "56354"
+  },
+  {
+    "city": "Biała Podlaska",
+    "admin": "Lubelskie",
+    "sort": "57498"
+  },
+  {
+    "city": "Ostrołęka",
+    "admin": "Mazowieckie",
+    "sort": "52900"
+  },
+  {
+    "city": "Puławy",
+    "admin": "Lubelskie",
+    "sort": "49839"
+  },
+  {
+    "city": "Starogard Gdański",
+    "admin": "Pomorskie",
+    "sort": "48690"
+  },
+  {
+    "city": "Starachowice",
+    "admin": "Świętokrzyskie",
+    "sort": "47638"
+  },
+  {
+    "city": "Rumia",
+    "admin": "Pomorskie",
+    "sort": "47148"
+  },
+  {
+    "city": "Kołobrzeg",
+    "admin": "Zachodniopomorskie",
+    "sort": "46716"
+  },
+  {
+    "city": "Tarnobrzeg",
+    "admin": "Podkarpackie",
+    "sort": "47816"
+  },
+  {
+    "city": "Skierniewice",
+    "admin": "Łódzkie",
+    "sort": "47837"
+  },
+  {
+    "city": "Kutno",
+    "admin": "Łódzkie",
+    "sort": "47557"
+  },
+  {
+    "city": "Nysa",
+    "admin": "Opolskie",
+    "sort": "46841"
+  },
+  {
+    "city": "Dębica",
+    "admin": "Podkarpackie",
+    "sort": "43924"
+  },
+  {
+    "city": "Otwock",
+    "admin": "Mazowieckie",
+    "sort": "42765"
+  },
+  {
+    "city": "Ciechanów",
+    "admin": "Mazowieckie",
+    "sort": "42965"
+  },
+  {
+    "city": "Sieradz",
+    "admin": "Łódzkie",
+    "sort": "42120"
+  },
+  {
+    "city": "Mikołów",
+    "admin": "Śląskie",
+    "sort": "42053"
+  },
+  {
+    "city": "Kwidzyn",
+    "admin": "Pomorskie",
+    "sort": "40008"
+  },
+  {
+    "city": "Chojnice",
+    "admin": "Pomorskie",
+    "sort": "39937"
+  },
+  {
+    "city": "Świnoujście",
+    "admin": "Zachodniopomorskie",
+    "sort": "41479"
+  },
+  {
+    "city": "Nowa Sól",
+    "admin": "Lubuskie",
+    "sort": "39721"
+  },
+  {
+    "city": "Bolesławiec",
+    "admin": "Dolnośląskie",
+    "sort": "39412"
+  },
+  {
+    "city": "Oświęcim",
+    "admin": "Małopolskie",
+    "sort": "39057"
+  },
+  {
+    "city": "Żary",
+    "admin": "Lubuskie",
+    "sort": "37502"
+  },
+  {
+    "city": "Jarosław",
+    "admin": "Podkarpackie",
+    "sort": "37479"
+  },
+  {
+    "city": "Chrzanów",
+    "admin": "Małopolskie",
+    "sort": "36575"
+  },
+  {
+    "city": "Lębork",
+    "admin": "Pomorskie",
+    "sort": "35374"
+  },
+  {
+    "city": "Jasło",
+    "admin": "Podkarpackie",
+    "sort": "35445"
+  },
+  {
+    "city": "Cieszyn",
+    "admin": "Śląskie",
+    "sort": "34513"
+  },
+  {
+    "city": "Kraśnik",
+    "admin": "Lubelskie",
+    "sort": "34230"
+  },
+  {
+    "city": "Iława",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "33322"
+  },
+  {
+    "city": "Dzierżoniów",
+    "admin": "Dolnośląskie",
+    "sort": "33137"
+  },
+  {
+    "city": "Oława",
+    "admin": "Dolnośląskie",
+    "sort": "33108"
+  },
+  {
+    "city": "Nowy Targ",
+    "admin": "Małopolskie",
+    "sort": "33545"
+  },
+  {
+    "city": "Police",
+    "admin": "Zachodniopomorskie",
+    "sort": "33152"
+  },
+  {
+    "city": "Zgorzelec",
+    "admin": "Dolnośląskie",
+    "sort": "31359"
+  },
+  {
+    "city": "Grodzisk Mazowiecki",
+    "admin": "Mazowieckie",
+    "sort": "32125"
+  },
+  {
+    "city": "Łowicz",
+    "admin": "Łódzkie",
+    "sort": "30383"
+  },
+  {
+    "city": "Bielsk Podlaski",
+    "admin": "Podlaskie",
+    "sort": "30322"
+  },
+  {
+    "city": "Łuków",
+    "admin": "Lubelskie",
+    "sort": "30381"
+  },
+  {
+    "city": "Bochnia",
+    "admin": "Małopolskie",
+    "sort": "30075"
+  },
+  {
+    "city": "Bielawa",
+    "admin": "Dolnośląskie",
+    "sort": "29872"
+  },
+  {
+    "city": "Mława",
+    "admin": "Mazowieckie",
+    "sort": "29836"
+  },
+  {
+    "city": "Augustów",
+    "admin": "Podlaskie",
+    "sort": "30153"
+  },
+  {
+    "city": "Brodnica",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "28880"
+  },
+  {
+    "city": "Luboń",
+    "admin": "Wielkopolskie",
+    "sort": "27000"
+  },
+  {
+    "city": "Krotoszyn",
+    "admin": "Wielkopolskie",
+    "sort": "28804"
+  },
+  {
+    "city": "Biłgoraj",
+    "admin": "Lubelskie",
+    "sort": "27290"
+  },
+  {
+    "city": "Gorlice",
+    "admin": "Małopolskie",
+    "sort": "27357"
+  },
+  {
+    "city": "Kłodzko",
+    "admin": "Dolnośląskie",
+    "sort": "27193"
+  },
+  {
+    "city": "Zakopane",
+    "admin": "Małopolskie",
+    "sort": "27490"
+  },
+  {
+    "city": "Brzozów",
+    "admin": "Podkarpackie",
+    "sort": "26615"
+  },
+  {
+    "city": "Jarocin",
+    "admin": "Wielkopolskie",
+    "sort": "26155"
+  },
+  {
+    "city": "Kluczbork",
+    "admin": "Opolskie",
+    "sort": "26164"
+  },
+  {
+    "city": "Świecie",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "26026"
+  },
+  {
+    "city": "Wągrowiec",
+    "admin": "Wielkopolskie",
+    "sort": "24529"
+  },
+  {
+    "city": "Wałcz",
+    "admin": "Zachodniopomorskie",
+    "sort": "24949"
+  },
+  {
+    "city": "Skawina",
+    "admin": "Małopolskie",
+    "sort": "24310"
+  },
+  {
+    "city": "Kościerzyna",
+    "admin": "Pomorskie",
+    "sort": "23744"
+  },
+  {
+    "city": "Białogard",
+    "admin": "Zachodniopomorskie",
+    "sort": "24146"
+  },
+  {
+    "city": "Sandomierz",
+    "admin": "Świętokrzyskie",
+    "sort": "24187"
+  },
+  {
+    "city": "Bieruń Stary",
+    "admin": "Śląskie",
+    "sort": "23640"
+  },
+  {
+    "city": "Konstancin-Jeziorna",
+    "admin": "Mazowieckie",
+    "sort": "23694"
+  },
+  {
+    "city": "Jawor",
+    "admin": "Dolnośląskie",
+    "sort": "22758"
+  },
+  {
+    "city": "Ostrów Mazowiecka",
+    "admin": "Mazowieckie",
+    "sort": "22800"
+  },
+  {
+    "city": "Lubartów",
+    "admin": "Lubelskie",
+    "sort": "22138"
+  },
+  {
+    "city": "Koło",
+    "admin": "Wielkopolskie",
+    "sort": "21686"
+  },
+  {
+    "city": "Grajewo",
+    "admin": "Podlaskie",
+    "sort": "21900"
+  },
+  {
+    "city": "Działdowo",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "21279"
+  },
+  {
+    "city": "Mrągowo",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "21302"
+  },
+  {
+    "city": "Goleniów",
+    "admin": "Zachodniopomorskie",
+    "sort": "22553"
+  },
+  {
+    "city": "Świedbodzin",
+    "admin": "Lubuskie",
+    "sort": "21988"
+  },
+  {
+    "city": "Łęczna",
+    "admin": "Lubelskie",
+    "sort": "21802"
+  },
+  {
+    "city": "Łaziska Górne",
+    "admin": "Śląskie",
+    "sort": "21958"
+  },
+  {
+    "city": "Opoczno",
+    "admin": "Łódzkie",
+    "sort": "21780"
+  },
+  {
+    "city": "Wieliczka",
+    "admin": "Małopolskie",
+    "sort": "21878"
+  },
+  {
+    "city": "Chełmno",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "20428"
+  },
+  {
+    "city": "Hajnówka",
+    "admin": "Podlaskie",
+    "sort": "20615"
+  },
+  {
+    "city": "Prudnik",
+    "admin": "Opolskie",
+    "sort": "21237"
+  },
+  {
+    "city": "Gryfino",
+    "admin": "Zachodniopomorskie",
+    "sort": "21221"
+  },
+  {
+    "city": "Aleksandrów Łódzki",
+    "admin": "Łódzkie",
+    "sort": "20342"
+  },
+  {
+    "city": "Chodzież",
+    "admin": "Wielkopolskie",
+    "sort": "19100"
+  },
+  {
+    "city": "Pleszew",
+    "admin": "Wielkopolskie",
+    "sort": "20365"
+  },
+  {
+    "city": "Gostyń",
+    "admin": "Wielkopolskie",
+    "sort": "20296"
+  },
+  {
+    "city": "Kęty",
+    "admin": "Małopolskie",
+    "sort": "19428"
+  },
+  {
+    "city": "Dęblin",
+    "admin": "Lubelskie",
+    "sort": "19513"
+  },
+  {
+    "city": "Giszowiec",
+    "admin": "Śląskie",
+    "sort": "18475"
+  },
+  {
+    "city": "Nakło nad Notecią",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "19507"
+  },
+  {
+    "city": "Jasien",
+    "admin": "Pomorskie",
+    "sort": "18014"
+  },
+  {
+    "city": "Łańcut",
+    "admin": "Podkarpackie",
+    "sort": "17749"
+  },
+  {
+    "city": "Krasnystaw",
+    "admin": "Lubelskie",
+    "sort": "18630"
+  },
+  {
+    "city": "Pułtusk",
+    "admin": "Mazowieckie",
+    "sort": "19229"
+  },
+  {
+    "city": "Gostynin",
+    "admin": "Mazowieckie",
+    "sort": "18527"
+  },
+  {
+    "city": "Rawa Mazowiecka",
+    "admin": "Łódzkie",
+    "sort": "17765"
+  },
+  {
+    "city": "Międzyrzecz",
+    "admin": "Lubuskie",
+    "sort": "18459"
+  },
+  {
+    "city": "Kostrzyn nad Odrą",
+    "admin": "Lubuskie",
+    "sort": "18125"
+  },
+  {
+    "city": "Kobyłka",
+    "admin": "Mazowieckie",
+    "sort": "17586"
+  },
+  {
+    "city": "Garwolin",
+    "admin": "Mazowieckie",
+    "sort": "17602"
+  },
+  {
+    "city": "Braniewo",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "16992"
+  },
+  {
+    "city": "Łask",
+    "admin": "Łódzkie",
+    "sort": "18029"
+  },
+  {
+    "city": "Rypin",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "16558"
+  },
+  {
+    "city": "Oborniki",
+    "admin": "Wielkopolskie",
+    "sort": "17895"
+  },
+  {
+    "city": "Międzyrzec Podlaski",
+    "admin": "Lubelskie",
+    "sort": "17117"
+  },
+  {
+    "city": "Złotoryja",
+    "admin": "Dolnośląskie",
+    "sort": "16479"
+  },
+  {
+    "city": "Milanówek",
+    "admin": "Mazowieckie",
+    "sort": "16419"
+  },
+  {
+    "city": "Ustka",
+    "admin": "Pomorskie",
+    "sort": "15812"
+  },
+  {
+    "city": "Łęczyca",
+    "admin": "Łódzkie",
+    "sort": "15593"
+  },
+  {
+    "city": "Radzionków Nowy",
+    "admin": "Śląskie",
+    "sort": "15862"
+  },
+  {
+    "city": "Kozienice",
+    "admin": "Mazowieckie",
+    "sort": "17075"
+  },
+  {
+    "city": "Brzesko",
+    "admin": "Małopolskie",
+    "sort": "16819"
+  },
+  {
+    "city": "Gubin",
+    "admin": "Lubuskie",
+    "sort": "17150"
+  },
+  {
+    "city": "Bytów",
+    "admin": "Pomorskie",
+    "sort": "16888"
+  },
+  {
+    "city": "Osowa",
+    "admin": "Pomorskie",
+    "sort": "15843"
+  },
+  {
+    "city": "Grójec",
+    "admin": "Mazowieckie",
+    "sort": "16758"
+  },
+  {
+    "city": "Krapkowice",
+    "admin": "Opolskie",
+    "sort": "16721"
+  },
+  {
+    "city": "Strzegom",
+    "admin": "Dolnośląskie",
+    "sort": "16650"
+  },
+  {
+    "city": "Chełmża",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "14808"
+  },
+  {
+    "city": "Gryfice",
+    "admin": "Zachodniopomorskie",
+    "sort": "16524"
+  },
+  {
+    "city": "Olecko",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "16364"
+  },
+  {
+    "city": "Przeworsk",
+    "admin": "Podkarpackie",
+    "sort": "15713"
+  },
+  {
+    "city": "Ustroń",
+    "admin": "Śląskie",
+    "sort": "16065"
+  },
+  {
+    "city": "Świdwin",
+    "admin": "Zachodniopomorskie",
+    "sort": "15338"
+  },
+  {
+    "city": "Jędrzejów",
+    "admin": "Świętokrzyskie",
+    "sort": "15484"
+  },
+  {
+    "city": "Siemiatycze",
+    "admin": "Podlaskie",
+    "sort": "15169"
+  },
+  {
+    "city": "Limanowa",
+    "admin": "Małopolskie",
+    "sort": "14738"
+  },
+  {
+    "city": "Jelcz-Laskowice",
+    "admin": "Dolnośląskie",
+    "sort": "15340"
+  },
+  {
+    "city": "Głuchołazy",
+    "admin": "Opolskie",
+    "sort": "15293"
+  },
+  {
+    "city": "Władysławowo",
+    "admin": "Pomorskie",
+    "sort": "15015"
+  },
+  {
+    "city": "Choszczno",
+    "admin": "Zachodniopomorskie",
+    "sort": "15109"
+  },
+  {
+    "city": "Człuchów",
+    "admin": "Pomorskie",
+    "sort": "13869"
+  },
+  {
+    "city": "Grodzisk Wielkopolski",
+    "admin": "Wielkopolskie",
+    "sort": "14697"
+  },
+  {
+    "city": "Ząbkowice Śląskie",
+    "admin": "Dolnośląskie",
+    "sort": "14728"
+  },
+  {
+    "city": "Wschowa",
+    "admin": "Lubuskie",
+    "sort": "14607"
+  },
+  {
+    "city": "Darłowo",
+    "admin": "Zachodniopomorskie",
+    "sort": "13943"
+  },
+  {
+    "city": "Lubsko",
+    "admin": "Lubuskie",
+    "sort": "14182"
+  },
+  {
+    "city": "Golub-Dobrzyń",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "12546"
+  },
+  {
+    "city": "Aleksandrów Kujawski",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "12359"
+  },
+  {
+    "city": "Włodawa",
+    "admin": "Lubelskie",
+    "sort": "13066"
+  },
+  {
+    "city": "Gołdap",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "13716"
+  },
+  {
+    "city": "Głubczyce",
+    "admin": "Opolskie",
+    "sort": "13572"
+  },
+  {
+    "city": "Wolsztyn",
+    "admin": "Wielkopolskie",
+    "sort": "13477"
+  },
+  {
+    "city": "Nidzica",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "13547"
+  },
+  {
+    "city": "Trzebnica",
+    "admin": "Dolnośląskie",
+    "sort": "13161"
+  },
+  {
+    "city": "Brzeg Dolny",
+    "admin": "Dolnośląskie",
+    "sort": "12816"
+  },
+  {
+    "city": "Brzeziny",
+    "admin": "Łódzkie",
+    "sort": "12501"
+  },
+  {
+    "city": "Brwinów",
+    "admin": "Mazowieckie",
+    "sort": "11743"
+  },
+  {
+    "city": "Lubaczów",
+    "admin": "Podkarpackie",
+    "sort": "12415"
+  },
+  {
+    "city": "Pyrzyce",
+    "admin": "Zachodniopomorskie",
+    "sort": "12484"
+  },
+  {
+    "city": "Brzeszcze",
+    "admin": "Małopolskie",
+    "sort": "11921"
+  },
+  {
+    "city": "Niepołomice",
+    "admin": "Małopolskie",
+    "sort": "12000"
+  },
+  {
+    "city": "Suchanino",
+    "admin": "Pomorskie",
+    "sort": "10392"
+  },
+  {
+    "city": "Janów Lubelski",
+    "admin": "Lubelskie",
+    "sort": "11879"
+  },
+  {
+    "city": "Nowe Miasto Lubawskie",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "10997"
+  },
+  {
+    "city": "Góra",
+    "admin": "Dolnośląskie",
+    "sort": "11678"
+  },
+  {
+    "city": "Drawsko Pomorskie",
+    "admin": "Zachodniopomorskie",
+    "sort": "11597"
+  },
+  {
+    "city": "Krynica",
+    "admin": "Małopolskie",
+    "sort": "11361"
+  },
+  {
+    "city": "Ciechocinek",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "10874"
+  },
+  {
+    "city": "Krosno Odrzańskie",
+    "admin": "Lubuskie",
+    "sort": "11238"
+  },
+  {
+    "city": "Węgorzewo",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "11144"
+  },
+  {
+    "city": "Miastko",
+    "admin": "Pomorskie",
+    "sort": "11123"
+  },
+  {
+    "city": "Wisła",
+    "admin": "Śląskie",
+    "sort": "11048"
+  },
+  {
+    "city": "Warka",
+    "admin": "Mazowieckie",
+    "sort": "11035"
+  },
+  {
+    "city": "Myślibórz",
+    "admin": "Zachodniopomorskie",
+    "sort": "11049"
+  },
+  {
+    "city": "Kowary",
+    "admin": "Dolnośląskie",
+    "sort": "10650"
+  },
+  {
+    "city": "Krzeszowice",
+    "admin": "Małopolskie",
+    "sort": "10281"
+  },
+  {
+    "city": "Koronowo",
+    "admin": "Kujawsko-Pomorskie",
+    "sort": "10818"
+  },
+  {
+    "city": "Kolno",
+    "admin": "Podlaskie",
+    "sort": "10396"
+  },
+  {
+    "city": "Biskupiec",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "10539"
+  },
+  {
+    "city": "Kokoszki",
+    "admin": "Pomorskie",
+    "sort": "9693"
+  },
+  {
+    "city": "Ozimek",
+    "admin": "Opolskie",
+    "sort": "10000"
+  },
+  {
+    "city": "Stary Sącz",
+    "admin": "Małopolskie",
+    "sort": "9056"
+  },
+  {
+    "city": "Lwówek Śląski",
+    "admin": "Dolnośląskie",
+    "sort": "9500"
+  },
+  {
+    "city": "Lidzbark",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "9351"
+  },
+  {
+    "city": "Gródek Nad Dunajcem",
+    "admin": "Małopolskie",
+    "sort": "9155"
+  },
+  {
+    "city": "Ziębice",
+    "admin": "Dolnośląskie",
+    "sort": "9154"
+  },
+  {
+    "city": "Żychlin",
+    "admin": "Łódzkie",
+    "sort": "9021"
+  },
+  {
+    "city": "Połaniec",
+    "admin": "Świętokrzyskie",
+    "sort": "8419"
+  },
+  {
+    "city": "Kamień Pomorski",
+    "admin": "Zachodniopomorskie",
+    "sort": "8807"
+  },
+  {
+    "city": "Kolbuszowa",
+    "admin": "Podkarpackie",
+    "sort": "8732"
+  },
+  {
+    "city": "Kościelisko",
+    "admin": "Małopolskie",
+    "sort": "8661"
+  },
+  {
+    "city": "Oborniki Śląskie",
+    "admin": "Dolnośląskie",
+    "sort": "8476"
+  },
+  {
+    "city": "Brętowo",
+    "admin": "Pomorskie",
+    "sort": "7433"
+  },
+  {
+    "city": "Prabuty",
+    "admin": "Pomorskie",
+    "sort": "8215"
+  },
+  {
+    "city": "Trzemeszno",
+    "admin": "Wielkopolskie",
+    "sort": "7792"
+  },
+  {
+    "city": "Reszel",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "7721"
+  },
+  {
+    "city": "Zbąszyń",
+    "admin": "Wielkopolskie",
+    "sort": "7264"
+  },
+  {
+    "city": "Sędziszów Małopolski",
+    "admin": "Podkarpackie",
+    "sort": "7121"
+  },
+  {
+    "city": "Bełżyce",
+    "admin": "Lubelskie",
+    "sort": "7090"
+  },
+  {
+    "city": "Sobótka",
+    "admin": "Dolnośląskie",
+    "sort": "6965"
+  },
+  {
+    "city": "Piława Górna",
+    "admin": "Dolnośląskie",
+    "sort": "6673"
+  },
+  {
+    "city": "Kórnik",
+    "admin": "Wielkopolskie",
+    "sort": "6807"
+  },
+  {
+    "city": "Gniew",
+    "admin": "Pomorskie",
+    "sort": "6844"
+  },
+  {
+    "city": "Głuszyca",
+    "admin": "Dolnośląskie",
+    "sort": "6426"
+  },
+  {
+    "city": "Szklarska Poręba",
+    "admin": "Dolnośląskie",
+    "sort": "6633"
+  },
+  {
+    "city": "Gryfów Śląski",
+    "admin": "Dolnośląskie",
+    "sort": "6509"
+  },
+  {
+    "city": "Żmigród",
+    "admin": "Dolnośląskie",
+    "sort": "6540"
+  },
+  {
+    "city": "Gilowice",
+    "admin": "Śląskie",
+    "sort": "6327"
+  },
+  {
+    "city": "Gogolin",
+    "admin": "Opolskie",
+    "sort": "6116"
+  },
+  {
+    "city": "Mszczonów",
+    "admin": "Mazowieckie",
+    "sort": "6323"
+  },
+  {
+    "city": "Grybów",
+    "admin": "Małopolskie",
+    "sort": "6038"
+  },
+  {
+    "city": "Matarnia",
+    "admin": "Pomorskie",
+    "sort": "5939"
+  },
+  {
+    "city": "Jedlicze",
+    "admin": "Podkarpackie",
+    "sort": "5766"
+  },
+  {
+    "city": "Dąbrowa Białostocka",
+    "admin": "Podlaskie",
+    "sort": "6226"
+  },
+  {
+    "city": "Kazimierza Wielka",
+    "admin": "Świętokrzyskie",
+    "sort": "5848"
+  },
+  {
+    "city": "Szczawno-Zdrój",
+    "admin": "Dolnośląskie",
+    "sort": "5534"
+  },
+  {
+    "city": "Susz",
+    "admin": "Warmińsko-Mazurskie",
+    "sort": "5586"
+  },
+  {
+    "city": "Śmigiel",
+    "admin": "Wielkopolskie",
+    "sort": "5420"
+  },
+  {
+    "city": "Dzierzgoń",
+    "admin": "Pomorskie",
+    "sort": "5413"
+  },
+  {
+    "city": "Głogówek",
+    "admin": "Opolskie",
+    "sort": "5299"
+  },
+  {
+    "city": "Jaworzyna Śląska",
+    "admin": "Dolnośląskie",
+    "sort": "5188"
+  },
+  {
+    "city": "Żołynia",
+    "admin": "Podkarpackie",
+    "sort": "5188"
+  },
+  {
+    "city": "Odolanów",
+    "admin": "Wielkopolskie",
+    "sort": "5114"
+  },
+  {
+    "city": "Bierutów",
+    "admin": "Dolnośląskie",
+    "sort": "5065"
+  }
+]

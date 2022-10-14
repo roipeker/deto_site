@@ -1,0 +1,112 @@
+[
+  {
+    "city": "Nuuk",
+    "admin": "Sermersooq",
+    "sort": "18326"
+  },
+  {
+    "city": "Sisimiut",
+    "admin": "Qeqqata",
+    "sort": "5539"
+  },
+  {
+    "city": "Ilulissat",
+    "admin": "Qaasuitsup",
+    "sort": "4670"
+  },
+  {
+    "city": "Qaqortoq",
+    "admin": "Kujalleq",
+    "sort": "3093"
+  },
+  {
+    "city": "Aasiaat",
+    "admin": "Qaasuitsup",
+    "sort": "3069"
+  },
+  {
+    "city": "Tasiilaq",
+    "admin": "Sermersooq",
+    "sort": "2018"
+  },
+  {
+    "city": "Uummannaq",
+    "admin": "Qaasuitsup",
+    "sort": "1407"
+  },
+  {
+    "city": "Qasigiannguit",
+    "admin": "Qaasuitsup",
+    "sort": "1081"
+  },
+  {
+    "city": "Paamiut",
+    "admin": "Sermersooq",
+    "sort": "1429"
+  },
+  {
+    "city": "Upernavik",
+    "admin": "Qaasuitsup",
+    "sort": "1092"
+  },
+  {
+    "city": "Godhavn",
+    "admin": "Qaasuitsup",
+    "sort": "847"
+  },
+  {
+    "city": "Qaanaaq",
+    "admin": "Qaasuitsup",
+    "sort": "646"
+  },
+  {
+    "city": "Scoresbysund",
+    "admin": "Sermersooq",
+    "sort": "345"
+  },
+  {
+    "city": "Kullorsuaq",
+    "admin": "Qaasuitsup",
+    "sort": "450"
+  },
+  {
+    "city": "Tasiusaq",
+    "admin": "Qaasuitsup",
+    "sort": "250"
+  },
+  {
+    "city": "Kulusuk",
+    "admin": "Sermersooq",
+    "sort": "286"
+  },
+  {
+    "city": "Kangersuatsiaq",
+    "admin": "Qaasuitsup",
+    "sort": "200"
+  },
+  {
+    "city": "Kraulshavn",
+    "admin": "Qaasuitsup",
+    "sort": "204"
+  },
+  {
+    "city": "Narsarsuaq",
+    "admin": "Kujalleq",
+    "sort": "145"
+  },
+  {
+    "city": "Savissivik",
+    "admin": "Qaasuitsup",
+    "sort": "66"
+  },
+  {
+    "city": "Nord",
+    "admin": "Sermersooq",
+    "sort": "10"
+  },
+  {
+    "city": "Timmiarmiut",
+    "admin": "Kujalleq",
+    "sort": "10"
+  }
+]

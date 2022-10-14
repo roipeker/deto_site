@@ -1,0 +1,407 @@
+[
+  {
+    "city": "Chisinau",
+    "admin": "Chişinău",
+    "sort": "639000"
+  },
+  {
+    "city": "Tiraspol",
+    "admin": "Stînga Nistrului",
+    "sort": "133807"
+  },
+  {
+    "city": "Bălţi",
+    "admin": "Bălţi",
+    "sort": "102457"
+  },
+  {
+    "city": "Bender",
+    "admin": "Bender",
+    "sort": "91882"
+  },
+  {
+    "city": "Ungheni",
+    "admin": "Ungheni",
+    "sort": "30804"
+  },
+  {
+    "city": "Cahul",
+    "admin": "Cahul",
+    "sort": "30018"
+  },
+  {
+    "city": "Soroca",
+    "admin": "Soroca",
+    "sort": "22196"
+  },
+  {
+    "city": "Orhei",
+    "admin": "Orhei",
+    "sort": "21065"
+  },
+  {
+    "city": "Comrat",
+    "admin": "Găgăuzia",
+    "sort": "20113"
+  },
+  {
+    "city": "Straşeni",
+    "admin": "Străşeni",
+    "sort": "18376"
+  },
+  {
+    "city": "Căuşeni",
+    "admin": "Căuşeni",
+    "sort": "15939"
+  },
+  {
+    "city": "Edineţ",
+    "admin": "Edineţ",
+    "sort": "15520"
+  },
+  {
+    "city": "Drochia",
+    "admin": "Drochia",
+    "sort": "13150"
+  },
+  {
+    "city": "Ialoveni",
+    "admin": "Ialoveni",
+    "sort": "12515"
+  },
+  {
+    "city": "Hînceşti",
+    "admin": "Hînceşti",
+    "sort": "12491"
+  },
+  {
+    "city": "Sîngerei",
+    "admin": "Sîngerei",
+    "sort": "12465"
+  },
+  {
+    "city": "Taraclia",
+    "admin": "Taraclia",
+    "sort": "12355"
+  },
+  {
+    "city": "Făleşti",
+    "admin": "Făleşti",
+    "sort": "12074"
+  },
+  {
+    "city": "Floreşti",
+    "admin": "Floreşti",
+    "sort": "11998"
+  },
+  {
+    "city": "Cimişlia",
+    "admin": "Cimişlia",
+    "sort": "11997"
+  },
+  {
+    "city": "Rezina",
+    "admin": "Rezina",
+    "sort": "11032"
+  },
+  {
+    "city": "Anenii Noi",
+    "admin": "Anenii Noi",
+    "sort": "10872"
+  },
+  {
+    "city": "Călăraşi",
+    "admin": "Călăraşi",
+    "sort": "10808"
+  },
+  {
+    "city": "Nisporeni",
+    "admin": "Nisporeni",
+    "sort": "10063"
+  },
+  {
+    "city": "Rîşcani",
+    "admin": "Rîşcani",
+    "sort": "9259"
+  },
+  {
+    "city": "Glodeni",
+    "admin": "Glodeni",
+    "sort": "8676"
+  },
+  {
+    "city": "Basarabeasca",
+    "admin": "Basarabeasca",
+    "sort": "8471"
+  },
+  {
+    "city": "Leova",
+    "admin": "Leova",
+    "sort": "7443"
+  },
+  {
+    "city": "Briceni",
+    "admin": "Briceni",
+    "sort": "7314"
+  },
+  {
+    "city": "Ocniţa",
+    "admin": "Ocniţa",
+    "sort": "7254"
+  },
+  {
+    "city": "Teleneşti",
+    "admin": "Teleneşti",
+    "sort": "7227"
+  },
+  {
+    "city": "Donduşeni",
+    "admin": "Donduşeni",
+    "sort": "7101"
+  },
+  {
+    "city": "Criuleni",
+    "admin": "Criuleni",
+    "sort": "6708"
+  },
+  {
+    "city": "Cantemir",
+    "admin": "Cantemir",
+    "sort": "3429"
+  },
+  {
+    "city": "Cocieri",
+    "admin": "Dubăsari",
+    "sort": ""
+  },
+  {
+    "city": "Şoldăneşti",
+    "admin": "Şoldăneşti",
+    "sort": ""
+  },
+  {
+    "city": "Ştefan Vodă",
+    "admin": "Ştefan-Vodă",
+    "sort": ""
+  },
+  {
+    "city": "Rîbniţa",
+    "admin": "Stînga Nistrului",
+    "sort": "56988"
+  },
+  {
+    "city": "Dubăsari",
+    "admin": "Stînga Nistrului",
+    "sort": "28500"
+  },
+  {
+    "city": "Durleşti",
+    "admin": "Chişinău",
+    "sort": "17210"
+  },
+  {
+    "city": "Codru",
+    "admin": "Chişinău",
+    "sort": "15934"
+  },
+  {
+    "city": "Ceadîr-Lunga",
+    "admin": "Găgăuzia",
+    "sort": "16605"
+  },
+  {
+    "city": "Vulcăneşti",
+    "admin": "Găgăuzia",
+    "sort": "12185"
+  },
+  {
+    "city": "Cricova",
+    "admin": "Chişinău",
+    "sort": "10669"
+  },
+  {
+    "city": "Congaz",
+    "admin": "Găgăuzia",
+    "sort": "11123"
+  },
+  {
+    "city": "Costeşti",
+    "admin": "Ialoveni",
+    "sort": "10907"
+  },
+  {
+    "city": "Dnestrovsc",
+    "admin": "Stînga Nistrului",
+    "sort": "10436"
+  },
+  {
+    "city": "Sîngera",
+    "admin": "Chişinău",
+    "sort": "9966"
+  },
+  {
+    "city": "Borogani",
+    "admin": "Cantemir",
+    "sort": "9562"
+  },
+  {
+    "city": "Grigoriopol",
+    "admin": "Stînga Nistrului",
+    "sort": "9381"
+  },
+  {
+    "city": "Copceac",
+    "admin": "Găgăuzia",
+    "sort": "9138"
+  },
+  {
+    "city": "Chiţcani",
+    "admin": "Stînga Nistrului",
+    "sort": "9000"
+  },
+  {
+    "city": "Camenca",
+    "admin": "Stînga Nistrului",
+    "sort": "8871"
+  },
+  {
+    "city": "Peresecina",
+    "admin": "Orhei",
+    "sort": "7816"
+  },
+  {
+    "city": "Baurci",
+    "admin": "Găgăuzia",
+    "sort": "7463"
+  },
+  {
+    "city": "Pelinia",
+    "admin": "Rîşcani",
+    "sort": "7394"
+  },
+  {
+    "city": "Cupcini",
+    "admin": "Edineţ",
+    "sort": "7190"
+  },
+  {
+    "city": "Cojuşna",
+    "admin": "Străşeni",
+    "sort": "6247"
+  },
+  {
+    "city": "Cazaclia",
+    "admin": "Găgăuzia",
+    "sort": "6698"
+  },
+  {
+    "city": "Corjeuţi",
+    "admin": "Briceni",
+    "sort": "6643"
+  },
+  {
+    "city": "Talmaza",
+    "admin": "Ştefan-Vodă",
+    "sort": "6341"
+  },
+  {
+    "city": "Chirsova",
+    "admin": "Găgăuzia",
+    "sort": "6298"
+  },
+  {
+    "city": "Ghidighici",
+    "admin": "Chişinău",
+    "sort": "5051"
+  },
+  {
+    "city": "Otaci",
+    "admin": "Ocniţa",
+    "sort": "6043"
+  },
+  {
+    "city": "Varniţa",
+    "admin": "Bender",
+    "sort": "5105"
+  },
+  {
+    "city": "Dubăsarii Vechi",
+    "admin": "Criuleni",
+    "sort": "5922"
+  },
+  {
+    "city": "Sireţi",
+    "admin": "Străşeni",
+    "sort": "5833"
+  },
+  {
+    "city": "Mereni",
+    "admin": "Anenii Noi",
+    "sort": "5757"
+  },
+  {
+    "city": "Slobozia Mare",
+    "admin": "Cahul",
+    "sort": "5676"
+  },
+  {
+    "city": "Vadul lui Vodă",
+    "admin": "Chişinău",
+    "sort": "5295"
+  },
+  {
+    "city": "Puhoi",
+    "admin": "Ialoveni",
+    "sort": "5518"
+  },
+  {
+    "city": "Lipcani",
+    "admin": "Briceni",
+    "sort": "5500"
+  },
+  {
+    "city": "Corlăteni",
+    "admin": "Rîşcani",
+    "sort": "5427"
+  },
+  {
+    "city": "Tvardiţa",
+    "admin": "Taraclia",
+    "sort": "5420"
+  },
+  {
+    "city": "Colibaşi",
+    "admin": "Cahul",
+    "sort": "5378"
+  },
+  {
+    "city": "Hîrbovăţ",
+    "admin": "Anenii Noi",
+    "sort": "5194"
+  },
+  {
+    "city": "Rădoaia",
+    "admin": "Sîngerei",
+    "sort": "5141"
+  },
+  {
+    "city": "Crihana Veche",
+    "admin": "Cahul",
+    "sort": "5099"
+  },
+  {
+    "city": "Bulboaca",
+    "admin": "Anenii Noi",
+    "sort": "5036"
+  },
+  {
+    "city": "Sipoteni",
+    "admin": "Călăraşi",
+    "sort": "7370"
+  },
+  {
+    "city": "Lozova",
+    "admin": "Străşeni",
+    "sort": "5934"
+  }
+]

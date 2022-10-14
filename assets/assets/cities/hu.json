@@ -1,0 +1,1332 @@
+[
+  {
+    "city": "Budapest",
+    "admin": "Budapest",
+    "sort": "1723836"
+  },
+  {
+    "city": "Debrecen",
+    "admin": "Hajdú-Bihar",
+    "sort": "200974"
+  },
+  {
+    "city": "Szeged",
+    "admin": "Csongrád",
+    "sort": "159074"
+  },
+  {
+    "city": "Miskolc",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "150695"
+  },
+  {
+    "city": "Pécs",
+    "admin": "Baranya",
+    "sort": "140237"
+  },
+  {
+    "city": "Győr",
+    "admin": "Győr-Moson-Sopron",
+    "sort": "132735"
+  },
+  {
+    "city": "Nyíregyháza",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "116554"
+  },
+  {
+    "city": "Kecskemét",
+    "admin": "Bács-Kiskun",
+    "sort": "109651"
+  },
+  {
+    "city": "Székesfehérvár",
+    "admin": "Fejér",
+    "sort": "95545"
+  },
+  {
+    "city": "Szombathely",
+    "admin": "Vas",
+    "sort": "78324"
+  },
+  {
+    "city": "Szolnok",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "69725"
+  },
+  {
+    "city": "Tatabánya",
+    "admin": "Komárom-Esztergom",
+    "sort": "65145"
+  },
+  {
+    "city": "Sopron",
+    "admin": "Sopron",
+    "sort": "62900"
+  },
+  {
+    "city": "Kaposvár",
+    "admin": "Somogy",
+    "sort": "59777"
+  },
+  {
+    "city": "Veszprém",
+    "admin": "Veszprém",
+    "sort": "58153"
+  },
+  {
+    "city": "Békéscsaba",
+    "admin": "Békés",
+    "sort": "58002"
+  },
+  {
+    "city": "Zalaegerszeg",
+    "admin": "Zala",
+    "sort": "55470"
+  },
+  {
+    "city": "Eger",
+    "admin": "Heves",
+    "sort": "51168"
+  },
+  {
+    "city": "Nagykanizsa",
+    "admin": "Nagykanizsa",
+    "sort": "46866"
+  },
+  {
+    "city": "Dunaújváros",
+    "admin": "Dunaújváros",
+    "sort": "44200"
+  },
+  {
+    "city": "Hódmezővásárhely",
+    "admin": "Hódmezővásárhely",
+    "sort": "43311"
+  },
+  {
+    "city": "Salgótarján",
+    "admin": "Nógrád",
+    "sort": "32304"
+  },
+  {
+    "city": "Szekszárd",
+    "admin": "Tolna",
+    "sort": "30963"
+  },
+  {
+    "city": "Érd",
+    "admin": "Pest",
+    "sort": "70063"
+  },
+  {
+    "city": "Dunakeszi",
+    "admin": "Pest",
+    "sort": "43990"
+  },
+  {
+    "city": "Szigetszentmiklós",
+    "admin": "Pest",
+    "sort": "40519"
+  },
+  {
+    "city": "Cegléd",
+    "admin": "Pest",
+    "sort": "35334"
+  },
+  {
+    "city": "Baja",
+    "admin": "Bács-Kiskun",
+    "sort": "34788"
+  },
+  {
+    "city": "Mosonmagyaróvár",
+    "admin": "Győr-Moson-Sopron",
+    "sort": "34439"
+  },
+  {
+    "city": "Vác",
+    "admin": "Pest",
+    "sort": "32927"
+  },
+  {
+    "city": "Gödöllő",
+    "admin": "Pest",
+    "sort": "31779"
+  },
+  {
+    "city": "Ózd",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "31234"
+  },
+  {
+    "city": "Hajdúböszörmény",
+    "admin": "Hajdú-Bihar",
+    "sort": "30704"
+  },
+  {
+    "city": "Pápa",
+    "admin": "Veszprém",
+    "sort": "30382"
+  },
+  {
+    "city": "Budaörs",
+    "admin": "Pest",
+    "sort": "29018"
+  },
+  {
+    "city": "Gyula",
+    "admin": "Békés",
+    "sort": "29308"
+  },
+  {
+    "city": "Kiskunfélegyháza",
+    "admin": "Bács-Kiskun",
+    "sort": "29306"
+  },
+  {
+    "city": "Gyöngyös",
+    "admin": "Heves",
+    "sort": "28179"
+  },
+  {
+    "city": "Esztergom",
+    "admin": "Komárom-Esztergom",
+    "sort": "28026"
+  },
+  {
+    "city": "Ajka",
+    "admin": "Veszprém",
+    "sort": "27995"
+  },
+  {
+    "city": "Szentendre",
+    "admin": "Pest",
+    "sort": "27534"
+  },
+  {
+    "city": "Orosháza",
+    "admin": "Békés",
+    "sort": "27492"
+  },
+  {
+    "city": "Szentes",
+    "admin": "Csongrád",
+    "sort": "27080"
+  },
+  {
+    "city": "Kiskunhalas",
+    "admin": "Bács-Kiskun",
+    "sort": "26584"
+  },
+  {
+    "city": "Jászberény",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "26540"
+  },
+  {
+    "city": "Siófok",
+    "admin": "Somogy",
+    "sort": "25461"
+  },
+  {
+    "city": "Kazincbarcika",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "24905"
+  },
+  {
+    "city": "Gyál",
+    "admin": "Pest",
+    "sort": "24193"
+  },
+  {
+    "city": "Hajdúszoboszló",
+    "admin": "Hajdú-Bihar",
+    "sort": "23873"
+  },
+  {
+    "city": "Tata",
+    "admin": "Komárom-Esztergom",
+    "sort": "23479"
+  },
+  {
+    "city": "Nagykőrös",
+    "admin": "Pest",
+    "sort": "23424"
+  },
+  {
+    "city": "Komló",
+    "admin": "Baranya",
+    "sort": "22635"
+  },
+  {
+    "city": "Dunaharaszti",
+    "admin": "Pest",
+    "sort": "21901"
+  },
+  {
+    "city": "Makó",
+    "admin": "Csongrád",
+    "sort": "22514"
+  },
+  {
+    "city": "Vecsés",
+    "admin": "Pest",
+    "sort": "21529"
+  },
+  {
+    "city": "Hatvan",
+    "admin": "Heves",
+    "sort": "20079"
+  },
+  {
+    "city": "Fót",
+    "admin": "Pest",
+    "sort": "19674"
+  },
+  {
+    "city": "Törökszentmiklós",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "19890"
+  },
+  {
+    "city": "Komárom",
+    "admin": "Komárom-Esztergom",
+    "sort": "19656"
+  },
+  {
+    "city": "Karcag",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "19732"
+  },
+  {
+    "city": "Várpalota",
+    "admin": "Veszprém",
+    "sort": "19484"
+  },
+  {
+    "city": "Keszthely",
+    "admin": "Zala",
+    "sort": "19387"
+  },
+  {
+    "city": "Szigethalom",
+    "admin": "Pest",
+    "sort": "17596"
+  },
+  {
+    "city": "Veresegyház",
+    "admin": "Pest",
+    "sort": "18654"
+  },
+  {
+    "city": "Göd",
+    "admin": "Pest",
+    "sort": "18218"
+  },
+  {
+    "city": "Gyömrő",
+    "admin": "Pest",
+    "sort": "18301"
+  },
+  {
+    "city": "Paks",
+    "admin": "Tolna",
+    "sort": "18788"
+  },
+  {
+    "city": "Százhalombatta",
+    "admin": "Pest",
+    "sort": "18241"
+  },
+  {
+    "city": "Monor",
+    "admin": "Pest",
+    "sort": "18476"
+  },
+  {
+    "city": "Békés",
+    "admin": "Békés",
+    "sort": "18322"
+  },
+  {
+    "city": "Dombóvár",
+    "admin": "Tolna",
+    "sort": "17995"
+  },
+  {
+    "city": "Oroszlány",
+    "admin": "Komárom-Esztergom",
+    "sort": "17802"
+  },
+  {
+    "city": "Dabas",
+    "admin": "Pest",
+    "sort": "17481"
+  },
+  {
+    "city": "Pomáz",
+    "admin": "Pest",
+    "sort": "17139"
+  },
+  {
+    "city": "Mohács",
+    "admin": "Baranya",
+    "sort": "17089"
+  },
+  {
+    "city": "Balmazújváros",
+    "admin": "Hajdú-Bihar",
+    "sort": "17109"
+  },
+  {
+    "city": "Mátészalka",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "16576"
+  },
+  {
+    "city": "Hajdúnánás",
+    "admin": "Hajdú-Bihar",
+    "sort": "16828"
+  },
+  {
+    "city": "Kisvárda",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "16084"
+  },
+  {
+    "city": "Pécel",
+    "admin": "Pest",
+    "sort": "15987"
+  },
+  {
+    "city": "Mezőkövesd",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "16098"
+  },
+  {
+    "city": "Mezőtúr",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "16086"
+  },
+  {
+    "city": "Csongrád",
+    "admin": "Csongrád",
+    "sort": "16027"
+  },
+  {
+    "city": "Kalocsa",
+    "admin": "Bács-Kiskun",
+    "sort": "15490"
+  },
+  {
+    "city": "Szarvas",
+    "admin": "Békés",
+    "sort": "15565"
+  },
+  {
+    "city": "Budakeszi",
+    "admin": "Pest",
+    "sort": "15088"
+  },
+  {
+    "city": "Tapolca",
+    "admin": "Veszprém",
+    "sort": "15072"
+  },
+  {
+    "city": "Sárvár",
+    "admin": "Vas",
+    "sort": "15072"
+  },
+  {
+    "city": "Pilisvörösvár",
+    "admin": "Pest",
+    "sort": "14500"
+  },
+  {
+    "city": "Tiszaújváros",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "14649"
+  },
+  {
+    "city": "Balassagyarmat",
+    "admin": "Nógrád",
+    "sort": "14262"
+  },
+  {
+    "city": "Berettyóújfalu",
+    "admin": "Hajdú-Bihar",
+    "sort": "14690"
+  },
+  {
+    "city": "Törökbálint",
+    "admin": "Pest",
+    "sort": "14264"
+  },
+  {
+    "city": "Kerepestarcsa",
+    "admin": "Pest",
+    "sort": "13490"
+  },
+  {
+    "city": "Abony",
+    "admin": "Pest",
+    "sort": "14392"
+  },
+  {
+    "city": "Püspökladány",
+    "admin": "Hajdú-Bihar",
+    "sort": "14154"
+  },
+  {
+    "city": "Biatorbágy",
+    "admin": "Pest",
+    "sort": "13889"
+  },
+  {
+    "city": "Mór",
+    "admin": "Fejér",
+    "sort": "13936"
+  },
+  {
+    "city": "Kiskőrös",
+    "admin": "Bács-Kiskun",
+    "sort": "13833"
+  },
+  {
+    "city": "Sátoraljaújhely",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "13554"
+  },
+  {
+    "city": "Diósd",
+    "admin": "Pest",
+    "sort": "11393"
+  },
+  {
+    "city": "Balatonfüred",
+    "admin": "Veszprém",
+    "sort": "12923"
+  },
+  {
+    "city": "Bonyhád",
+    "admin": "Tolna",
+    "sort": "12982"
+  },
+  {
+    "city": "Hajdúsámson",
+    "admin": "Hajdú-Bihar",
+    "sort": "12961"
+  },
+  {
+    "city": "Dorog",
+    "admin": "Komárom-Esztergom",
+    "sort": "11883"
+  },
+  {
+    "city": "Maglód",
+    "admin": "Pest",
+    "sort": "12341"
+  },
+  {
+    "city": "Újfehértó",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "12736"
+  },
+  {
+    "city": "Gyomaendrőd",
+    "admin": "Békés",
+    "sort": "12784"
+  },
+  {
+    "city": "Hajdúhadház",
+    "admin": "Hajdú-Bihar",
+    "sort": "12669"
+  },
+  {
+    "city": "Albertirsa",
+    "admin": "Pest",
+    "sort": "12532"
+  },
+  {
+    "city": "Tiszavasvári",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "12508"
+  },
+  {
+    "city": "Nagykáta",
+    "admin": "Pest",
+    "sort": "12280"
+  },
+  {
+    "city": "Budakalász",
+    "admin": "Pest",
+    "sort": "11640"
+  },
+  {
+    "city": "Üllő",
+    "admin": "Pest",
+    "sort": "11949"
+  },
+  {
+    "city": "Bicske",
+    "admin": "Fejér",
+    "sort": "11969"
+  },
+  {
+    "city": "Tiszakécske",
+    "admin": "Bács-Kiskun",
+    "sort": "11990"
+  },
+  {
+    "city": "Kőszeg",
+    "admin": "Vas",
+    "sort": "11805"
+  },
+  {
+    "city": "Sajószentpéter",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "11679"
+  },
+  {
+    "city": "Nyírbátor",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "11831"
+  },
+  {
+    "city": "Sárbogárd",
+    "admin": "Fejér",
+    "sort": "11937"
+  },
+  {
+    "city": "Pilis",
+    "admin": "Pest",
+    "sort": "11678"
+  },
+  {
+    "city": "Halásztelek",
+    "admin": "Pest",
+    "sort": "10581"
+  },
+  {
+    "city": "Isaszeg",
+    "admin": "Pest",
+    "sort": "11470"
+  },
+  {
+    "city": "Bátonyterenye",
+    "admin": "Nógrád",
+    "sort": "11345"
+  },
+  {
+    "city": "Körmend",
+    "admin": "Vas",
+    "sort": "11236"
+  },
+  {
+    "city": "Solymár",
+    "admin": "Pest",
+    "sort": "10823"
+  },
+  {
+    "city": "Sárospatak",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "11291"
+  },
+  {
+    "city": "Lajosmizse",
+    "admin": "Bács-Kiskun",
+    "sort": "11334"
+  },
+  {
+    "city": "Gárdony",
+    "admin": "Fejér",
+    "sort": "11204"
+  },
+  {
+    "city": "Marcali",
+    "admin": "Somogy",
+    "sort": "11169"
+  },
+  {
+    "city": "Tolna",
+    "admin": "Tolna",
+    "sort": "10987"
+  },
+  {
+    "city": "Ráckeve",
+    "admin": "Pest",
+    "sort": "10956"
+  },
+  {
+    "city": "Kiskunmajsa",
+    "admin": "Bács-Kiskun",
+    "sort": "10968"
+  },
+  {
+    "city": "Kisújszállás",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "10870"
+  },
+  {
+    "city": "Celldömölk",
+    "admin": "Vas",
+    "sort": "10646"
+  },
+  {
+    "city": "Tiszaföldvár",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "10672"
+  },
+  {
+    "city": "Tiszafüred",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "10745"
+  },
+  {
+    "city": "Szigetvár",
+    "admin": "Baranya",
+    "sort": "10421"
+  },
+  {
+    "city": "Barcs",
+    "admin": "Somogy",
+    "sort": "10501"
+  },
+  {
+    "city": "Tököl",
+    "admin": "Pest",
+    "sort": "10116"
+  },
+  {
+    "city": "Nagyatád",
+    "admin": "Somogy",
+    "sort": "10212"
+  },
+  {
+    "city": "Kapuvár",
+    "admin": "Győr-Moson-Sopron",
+    "sort": "10161"
+  },
+  {
+    "city": "Csömör",
+    "admin": "Pest",
+    "sort": "9779"
+  },
+  {
+    "city": "Heves",
+    "admin": "Heves",
+    "sort": "9999"
+  },
+  {
+    "city": "Tárnok",
+    "admin": "Pest",
+    "sort": "9654"
+  },
+  {
+    "city": "Csorna",
+    "admin": "Győr-Moson-Sopron",
+    "sort": "9799"
+  },
+  {
+    "city": "Mezőberény",
+    "admin": "Békés",
+    "sort": "9809"
+  },
+  {
+    "city": "Sarkad",
+    "admin": "Békés",
+    "sort": "9677"
+  },
+  {
+    "city": "Ócsa",
+    "admin": "Pest",
+    "sort": "9325"
+  },
+  {
+    "city": "Erdőkertes",
+    "admin": "Pest",
+    "sort": "7992"
+  },
+  {
+    "city": "Edelény",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "9209"
+  },
+  {
+    "city": "Nagykálló",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "9214"
+  },
+  {
+    "city": "Üröm",
+    "admin": "Pest",
+    "sort": "8119"
+  },
+  {
+    "city": "Pásztó",
+    "admin": "Nógrád",
+    "sort": "9099"
+  },
+  {
+    "city": "Siklós",
+    "admin": "Baranya",
+    "sort": "8912"
+  },
+  {
+    "city": "Szentgotthárd",
+    "admin": "Vas",
+    "sort": "8864"
+  },
+  {
+    "city": "Kiskunlacháza",
+    "admin": "Pest",
+    "sort": "8876"
+  },
+  {
+    "city": "Piliscsaba",
+    "admin": "Pest",
+    "sort": "8391"
+  },
+  {
+    "city": "Nagykovácsi",
+    "admin": "Pest",
+    "sort": "8536"
+  },
+  {
+    "city": "Balatonalmádi",
+    "admin": "Veszprém",
+    "sort": "8640"
+  },
+  {
+    "city": "Hajdúdorog",
+    "admin": "Hajdú-Bihar",
+    "sort": "8677"
+  },
+  {
+    "city": "Vásárosnamény",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "8618"
+  },
+  {
+    "city": "Szeghalom",
+    "admin": "Békés",
+    "sort": "8680"
+  },
+  {
+    "city": "Szerencs",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "8473"
+  },
+  {
+    "city": "Nádudvar",
+    "admin": "Hajdú-Bihar",
+    "sort": "8636"
+  },
+  {
+    "city": "Dunaföldvár",
+    "admin": "Tolna",
+    "sort": "8593"
+  },
+  {
+    "city": "Dunavarsány",
+    "admin": "Pest",
+    "sort": "8141"
+  },
+  {
+    "city": "Túrkeve",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "8462"
+  },
+  {
+    "city": "Derecske",
+    "admin": "Hajdú-Bihar",
+    "sort": "8403"
+  },
+  {
+    "city": "Kecel",
+    "admin": "Bács-Kiskun",
+    "sort": "8406"
+  },
+  {
+    "city": "Jászapáti",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "8313"
+  },
+  {
+    "city": "Jánoshalma",
+    "admin": "Bács-Kiskun",
+    "sort": "8336"
+  },
+  {
+    "city": "Kunszentmiklós",
+    "admin": "Bács-Kiskun",
+    "sort": "8248"
+  },
+  {
+    "city": "Ercsi",
+    "admin": "Fejér",
+    "sort": "8065"
+  },
+  {
+    "city": "Fehérgyarmat",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "7981"
+  },
+  {
+    "city": "Kunszentmárton",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "8034"
+  },
+  {
+    "city": "Tamási",
+    "admin": "Tolna",
+    "sort": "7986"
+  },
+  {
+    "city": "Polgár",
+    "admin": "Hajdú-Bihar",
+    "sort": "7889"
+  },
+  {
+    "city": "Tura",
+    "admin": "Pest",
+    "sort": "7761"
+  },
+  {
+    "city": "Sándorfalva",
+    "admin": "Csongrád",
+    "sort": "7756"
+  },
+  {
+    "city": "Jászárokszállás",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "7661"
+  },
+  {
+    "city": "Nyíradony",
+    "admin": "Hajdú-Bihar",
+    "sort": "7677"
+  },
+  {
+    "city": "Páty",
+    "admin": "Pest",
+    "sort": "7476"
+  },
+  {
+    "city": "Őrbottyán",
+    "admin": "Pest",
+    "sort": "7370"
+  },
+  {
+    "city": "Kunhegyes",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "7521"
+  },
+  {
+    "city": "Lenti",
+    "admin": "Zala",
+    "sort": "7348"
+  },
+  {
+    "city": "Nyergesújfalu",
+    "admin": "Komárom-Esztergom",
+    "sort": "7255"
+  },
+  {
+    "city": "Füzesabony",
+    "admin": "Heves",
+    "sort": "7265"
+  },
+  {
+    "city": "Soltvadkert",
+    "admin": "Bács-Kiskun",
+    "sort": "7342"
+  },
+  {
+    "city": "Dévaványa",
+    "admin": "Békés",
+    "sort": "7363"
+  },
+  {
+    "city": "Létavértes",
+    "admin": "Hajdú-Bihar",
+    "sort": "7061"
+  },
+  {
+    "city": "Mogyoród",
+    "admin": "Pest",
+    "sort": "6893"
+  },
+  {
+    "city": "Kistelek",
+    "admin": "Csongrád",
+    "sort": "6917"
+  },
+  {
+    "city": "Polgárdi",
+    "admin": "Fejér",
+    "sort": "6917"
+  },
+  {
+    "city": "Zirc",
+    "admin": "Veszprém",
+    "sort": "6805"
+  },
+  {
+    "city": "Felsőzsolca",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "6521"
+  },
+  {
+    "city": "Vésztő",
+    "admin": "Békés",
+    "sort": "6855"
+  },
+  {
+    "city": "Ács",
+    "admin": "Komárom-Esztergom",
+    "sort": "6771"
+  },
+  {
+    "city": "Ibrány",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "6648"
+  },
+  {
+    "city": "Enying",
+    "admin": "Fejér",
+    "sort": "6655"
+  },
+  {
+    "city": "Mindszent",
+    "admin": "Csongrád",
+    "sort": "6560"
+  },
+  {
+    "city": "Nyírtelek",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "6555"
+  },
+  {
+    "city": "Kozármisleny",
+    "admin": "Baranya",
+    "sort": "6215"
+  },
+  {
+    "city": "Győrújbarát",
+    "admin": "Győr-Moson-Sopron",
+    "sort": "6401"
+  },
+  {
+    "city": "Kerekegyháza",
+    "admin": "Bács-Kiskun",
+    "sort": "6509"
+  },
+  {
+    "city": "Aszód",
+    "admin": "Pest",
+    "sort": "6204"
+  },
+  {
+    "city": "Putnok",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "6398"
+  },
+  {
+    "city": "Téglás",
+    "admin": "Hajdú-Bihar",
+    "sort": "6406"
+  },
+  {
+    "city": "Bácsalmás",
+    "admin": "Bács-Kiskun",
+    "sort": "6453"
+  },
+  {
+    "city": "Taksony",
+    "admin": "Pest",
+    "sort": "6189"
+  },
+  {
+    "city": "Nagyecsed",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "6327"
+  },
+  {
+    "city": "Martfů",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "6169"
+  },
+  {
+    "city": "Szentlőrinc",
+    "admin": "Baranya",
+    "sort": "6184"
+  },
+  {
+    "city": "Zalaszentgrót",
+    "admin": "Zala",
+    "sort": "6263"
+  },
+  {
+    "city": "Fegyvernek",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "6246"
+  },
+  {
+    "city": "Encs",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "6127"
+  },
+  {
+    "city": "Bátaszék",
+    "admin": "Tolna",
+    "sort": "6217"
+  },
+  {
+    "city": "Balkány",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "6238"
+  },
+  {
+    "city": "Tápiószecső",
+    "admin": "Pest",
+    "sort": "6083"
+  },
+  {
+    "city": "Mórahalom",
+    "admin": "Csongrád",
+    "sort": "6145"
+  },
+  {
+    "city": "Solt",
+    "admin": "Bács-Kiskun",
+    "sort": "6125"
+  },
+  {
+    "city": "Szabadszállás",
+    "admin": "Bács-Kiskun",
+    "sort": "6121"
+  },
+  {
+    "city": "Újszász",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "6043"
+  },
+  {
+    "city": "Sümeg",
+    "admin": "Veszprém",
+    "sort": "6037"
+  },
+  {
+    "city": "Jánossomorja",
+    "admin": "Győr-Moson-Sopron",
+    "sort": "6052"
+  },
+  {
+    "city": "Tótkomlós",
+    "admin": "Békés",
+    "sort": "5995"
+  },
+  {
+    "city": "Tápiószele",
+    "admin": "Pest",
+    "sort": "5827"
+  },
+  {
+    "city": "Balatonboglár",
+    "admin": "Somogy",
+    "sort": "5798"
+  },
+  {
+    "city": "Berhida",
+    "admin": "Veszprém",
+    "sort": "5833"
+  },
+  {
+    "city": "Pusztaszabolcs",
+    "admin": "Fejér",
+    "sort": "5845"
+  },
+  {
+    "city": "Kaba",
+    "admin": "Hajdú-Bihar",
+    "sort": "5878"
+  },
+  {
+    "city": "Mezőkovácsháza",
+    "admin": "Békés",
+    "sort": "5787"
+  },
+  {
+    "city": "Tahitófalu",
+    "admin": "Pest",
+    "sort": "5722"
+  },
+  {
+    "city": "Martonvásár",
+    "admin": "Fejér",
+    "sort": "5672"
+  },
+  {
+    "city": "Kartal",
+    "admin": "Pest",
+    "sort": "5650"
+  },
+  {
+    "city": "Jászfényszaru",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "5757"
+  },
+  {
+    "city": "Füzesgyarmat",
+    "admin": "Békés",
+    "sort": "5774"
+  },
+  {
+    "city": "Nagyhalász",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "5676"
+  },
+  {
+    "city": "Dömsöd",
+    "admin": "Pest",
+    "sort": "5694"
+  },
+  {
+    "city": "Szada",
+    "admin": "Pest",
+    "sort": "5428"
+  },
+  {
+    "city": "Hosszúpályi",
+    "admin": "Hajdú-Bihar",
+    "sort": "5662"
+  },
+  {
+    "city": "Zsámbék",
+    "admin": "Pest",
+    "sort": "5569"
+  },
+  {
+    "city": "Tát",
+    "admin": "Komárom-Esztergom",
+    "sort": "5280"
+  },
+  {
+    "city": "Mezőcsát",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "5670"
+  },
+  {
+    "city": "Lőrinci",
+    "admin": "Heves",
+    "sort": "5557"
+  },
+  {
+    "city": "Velence",
+    "admin": "Fejér",
+    "sort": "5552"
+  },
+  {
+    "city": "Izsák",
+    "admin": "Bács-Kiskun",
+    "sort": "5567"
+  },
+  {
+    "city": "Szécsény",
+    "admin": "Nógrád",
+    "sort": "5473"
+  },
+  {
+    "city": "Battonya",
+    "admin": "Békés",
+    "sort": "5516"
+  },
+  {
+    "city": "Jászladány",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "5426"
+  },
+  {
+    "city": "Komádi",
+    "admin": "Hajdú-Bihar",
+    "sort": "5421"
+  },
+  {
+    "city": "Vámospércs",
+    "admin": "Hajdú-Bihar",
+    "sort": "5362"
+  },
+  {
+    "city": "Szikszó",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "5258"
+  },
+  {
+    "city": "Rákóczifalva",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "5256"
+  },
+  {
+    "city": "Kisbér",
+    "admin": "Komárom-Esztergom",
+    "sort": "5311"
+  },
+  {
+    "city": "Egyek",
+    "admin": "Hajdú-Bihar",
+    "sort": "5335"
+  },
+  {
+    "city": "Balatonlelle",
+    "admin": "Somogy",
+    "sort": "5223"
+  },
+  {
+    "city": "Alsónémedi",
+    "admin": "Pest",
+    "sort": "5235"
+  },
+  {
+    "city": "Kunmadaras",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "5306"
+  },
+  {
+    "city": "Tiszalök",
+    "admin": "Szabolcs-Szatmár-Bereg",
+    "sort": "5234"
+  },
+  {
+    "city": "Csákvár",
+    "admin": "Fejér",
+    "sort": "5225"
+  },
+  {
+    "city": "Tápiószentmárton",
+    "admin": "Pest",
+    "sort": "5198"
+  },
+  {
+    "city": "Bugyi",
+    "admin": "Pest",
+    "sort": "5174"
+  },
+  {
+    "city": "Jászkisér",
+    "admin": "Jász-Nagykun-Szolnok",
+    "sort": "5167"
+  },
+  {
+    "city": "Tiszalúc",
+    "admin": "Borsod-Abaúj-Zemplén",
+    "sort": "5064"
+  },
+  {
+    "city": "Tiszaalpár",
+    "admin": "Bács-Kiskun",
+    "sort": "5010"
+  }
+]

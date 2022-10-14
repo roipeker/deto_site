@@ -1,0 +1,97 @@
+[
+  {
+    "city": "Amman",
+    "admin": "Al ‘Āşimah",
+    "sort": "4007526"
+  },
+  {
+    "city": "Irbid",
+    "admin": "Irbid",
+    "sort": "569068"
+  },
+  {
+    "city": "Az Zarqā’",
+    "admin": "Az Zarqā’",
+    "sort": "481300"
+  },
+  {
+    "city": "Ar Ramthā",
+    "admin": "Irbid",
+    "sort": "155693"
+  },
+  {
+    "city": "‘Ajlūn",
+    "admin": "‘Ajlūn",
+    "sort": "148870"
+  },
+  {
+    "city": "Al ‘Aqabah",
+    "admin": "Al ‘Aqabah",
+    "sort": "140000"
+  },
+  {
+    "city": "As Salţ",
+    "admin": "Al Balqā’",
+    "sort": "88900"
+  },
+  {
+    "city": "Al Mafraq",
+    "admin": "Al Mafraq",
+    "sort": "57118"
+  },
+  {
+    "city": "Jarash",
+    "admin": "Jarash",
+    "sort": "50745"
+  },
+  {
+    "city": "Ma‘ān",
+    "admin": "Ma‘ān",
+    "sort": "50350"
+  },
+  {
+    "city": "Aţ Ţafīlah",
+    "admin": "Aţ Ţafīlah",
+    "sort": "23512"
+  },
+  {
+    "city": "Al Karak",
+    "admin": "Al Karak",
+    "sort": "21678"
+  },
+  {
+    "city": "Mādabā",
+    "admin": "Ma’dabā",
+    "sort": ""
+  },
+  {
+    "city": "Aţ Ţurrah",
+    "admin": "Irbid",
+    "sort": "34948"
+  },
+  {
+    "city": "Al Ḩişn",
+    "admin": "Irbid",
+    "sort": "35085"
+  },
+  {
+    "city": "AshShajarah",
+    "admin": "Irbid",
+    "sort": "27902"
+  },
+  {
+    "city": "Kafr ‘Awān",
+    "admin": "Irbid",
+    "sort": "13056"
+  },
+  {
+    "city": "Sākib",
+    "admin": "Jarash",
+    "sort": "11586"
+  },
+  {
+    "city": "Kafr Rākib",
+    "admin": "Irbid",
+    "sort": "7192"
+  }
+]

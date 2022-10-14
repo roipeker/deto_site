@@ -1,0 +1,262 @@
+[
+  {
+    "city": "Stockholm",
+    "admin": "Stockholm",
+    "sort": "975819"
+  },
+  {
+    "city": "Gothenburg",
+    "admin": "Västra Götaland",
+    "sort": "604829"
+  },
+  {
+    "city": "Malmö",
+    "admin": "Skåne",
+    "sort": "269349"
+  },
+  {
+    "city": "Uppsala",
+    "admin": "Uppsala",
+    "sort": "165456"
+  },
+  {
+    "city": "Uppsala",
+    "admin": "Stockholm",
+    "sort": "133117"
+  },
+  {
+    "city": "Västerås",
+    "admin": "Västmanland",
+    "sort": "128534"
+  },
+  {
+    "city": "Örebro",
+    "admin": "Örebro",
+    "sort": "126009"
+  },
+  {
+    "city": "Linköping",
+    "admin": "Östergötland",
+    "sort": "115672"
+  },
+  {
+    "city": "Helsingborg",
+    "admin": "Skåne",
+    "sort": "113816"
+  },
+  {
+    "city": "Jönköping",
+    "admin": "Jönköping",
+    "sort": "89780"
+  },
+  {
+    "city": "Umeå",
+    "admin": "Västerbotten",
+    "sort": "90412"
+  },
+  {
+    "city": "Gävle",
+    "admin": "Gävleborg",
+    "sort": "77586"
+  },
+  {
+    "city": "Karlstad",
+    "admin": "Värmland",
+    "sort": "74141"
+  },
+  {
+    "city": "Växjö",
+    "admin": "Kronoberg",
+    "sort": "59600"
+  },
+  {
+    "city": "Halmstad",
+    "admin": "Halland",
+    "sort": "55657"
+  },
+  {
+    "city": "Luleå",
+    "admin": "Norrbotten",
+    "sort": "49123"
+  },
+  {
+    "city": "Trollhättan",
+    "admin": "Västra Götaland",
+    "sort": "44543"
+  },
+  {
+    "city": "Östersund",
+    "admin": "Jämtland",
+    "sort": "46178"
+  },
+  {
+    "city": "Kalmar",
+    "admin": "Kalmar",
+    "sort": "41388"
+  },
+  {
+    "city": "Falun",
+    "admin": "Dalarna",
+    "sort": "36477"
+  },
+  {
+    "city": "Karlskrona",
+    "admin": "Blekinge",
+    "sort": "35212"
+  },
+  {
+    "city": "Nyköping",
+    "admin": "Södermanland",
+    "sort": "33916"
+  },
+  {
+    "city": "Visby",
+    "admin": "Gotland",
+    "sort": "24942"
+  },
+  {
+    "city": "Huskvarna",
+    "admin": "Jönköping",
+    "sort": "22000"
+  },
+  {
+    "city": "Härnösand",
+    "admin": "Västernorrland",
+    "sort": "18502"
+  },
+  {
+    "city": "Norrköping",
+    "admin": "Östergötland",
+    "sort": "88639"
+  },
+  {
+    "city": "Sundsvall",
+    "admin": "Västernorrland",
+    "sort": "73389"
+  },
+  {
+    "city": "Borås",
+    "admin": "Västra Götaland",
+    "sort": "65008"
+  },
+  {
+    "city": "Skövde",
+    "admin": "Västra Götaland",
+    "sort": "39543"
+  },
+  {
+    "city": "Borlänge",
+    "admin": "Dalarna",
+    "sort": "39422"
+  },
+  {
+    "city": "Mölndal",
+    "admin": "Västra Götaland",
+    "sort": "37233"
+  },
+  {
+    "city": "Kristianstad",
+    "admin": "Skåne",
+    "sort": "32188"
+  },
+  {
+    "city": "Skellefteå",
+    "admin": "Västerbotten",
+    "sort": "31311"
+  },
+  {
+    "city": "Örnsköldsvik",
+    "admin": "Västernorrland",
+    "sort": "27749"
+  },
+  {
+    "city": "Kiruna",
+    "admin": "Norrbotten",
+    "sort": "26703"
+  },
+  {
+    "city": "Vänersborg",
+    "admin": "Västra Götaland",
+    "sort": "21835"
+  },
+  {
+    "city": "Höganäs",
+    "admin": "Skåne",
+    "sort": "16001"
+  },
+  {
+    "city": "Kinna",
+    "admin": "Västra Götaland",
+    "sort": "15448"
+  },
+  {
+    "city": "Mariestad",
+    "admin": "Västra Götaland",
+    "sort": "14891"
+  },
+  {
+    "city": "Mjölby",
+    "admin": "Östergötland",
+    "sort": "13947"
+  },
+  {
+    "city": "Bollnäs",
+    "admin": "Gävleborg",
+    "sort": "13398"
+  },
+  {
+    "city": "Mora",
+    "admin": "Dalarna",
+    "sort": "12826"
+  },
+  {
+    "city": "Ulricehamn",
+    "admin": "Västra Götaland",
+    "sort": "11399"
+  },
+  {
+    "city": "Tibro",
+    "admin": "Västra Götaland",
+    "sort": "8614"
+  },
+  {
+    "city": "Habo",
+    "admin": "Jönköping",
+    "sort": "8516"
+  },
+  {
+    "city": "Tidaholm",
+    "admin": "Västra Götaland",
+    "sort": "8146"
+  },
+  {
+    "city": "Strömstad",
+    "admin": "Västra Götaland",
+    "sort": "7466"
+  },
+  {
+    "city": "Haparanda",
+    "admin": "Norrbotten",
+    "sort": "6554"
+  },
+  {
+    "city": "Hjo",
+    "admin": "Västra Götaland",
+    "sort": "6357"
+  },
+  {
+    "city": "Kungsör",
+    "admin": "Västmanland",
+    "sort": "5913"
+  },
+  {
+    "city": "Vårgårda",
+    "admin": "Västra Götaland",
+    "sort": "5825"
+  },
+  {
+    "city": "Hjärup",
+    "admin": "Skåne",
+    "sort": "5591"
+  }
+]

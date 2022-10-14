@@ -1,0 +1,1797 @@
+[
+  {
+    "city": "Sydney",
+    "admin": "New South Wales",
+    "sort": "4840600"
+  },
+  {
+    "city": "Melbourne",
+    "admin": "Victoria",
+    "sort": "4529500"
+  },
+  {
+    "city": "Brisbane",
+    "admin": "Queensland",
+    "sort": "2360241"
+  },
+  {
+    "city": "Perth",
+    "admin": "Western Australia",
+    "sort": "2039200"
+  },
+  {
+    "city": "Adelaide",
+    "admin": "South Australia",
+    "sort": "1295714"
+  },
+  {
+    "city": "Canberra",
+    "admin": "Australian Capital Territory",
+    "sort": "381488"
+  },
+  {
+    "city": "Gold Coast",
+    "admin": "Queensland",
+    "sort": "638090"
+  },
+  {
+    "city": "Cranbourne",
+    "admin": "Victoria",
+    "sort": "460491"
+  },
+  {
+    "city": "Central Coast",
+    "admin": "New South Wales",
+    "sort": "297713"
+  },
+  {
+    "city": "Wollongong",
+    "admin": "New South Wales",
+    "sort": "261896"
+  },
+  {
+    "city": "Hobart",
+    "admin": "Tasmania",
+    "sort": "222356"
+  },
+  {
+    "city": "Geelong",
+    "admin": "Victoria",
+    "sort": "184182"
+  },
+  {
+    "city": "Townsville",
+    "admin": "Queensland",
+    "sort": "178649"
+  },
+  {
+    "city": "Ipswich",
+    "admin": "Queensland",
+    "sort": "163000"
+  },
+  {
+    "city": "Newcastle",
+    "admin": "New South Wales",
+    "sort": "152984"
+  },
+  {
+    "city": "Cairns",
+    "admin": "Queensland",
+    "sort": "146778"
+  },
+  {
+    "city": "Darwin",
+    "admin": "Northern Territory",
+    "sort": "136828"
+  },
+  {
+    "city": "Toowoomba",
+    "admin": "Queensland",
+    "sort": "135631"
+  },
+  {
+    "city": "Launceston",
+    "admin": "Tasmania",
+    "sort": "106153"
+  },
+  {
+    "city": "Caloundra",
+    "admin": "Queensland",
+    "sort": "41293"
+  },
+  {
+    "city": "Dandenong",
+    "admin": "Victoria",
+    "sort": "29906"
+  },
+  {
+    "city": "Campbelltown",
+    "admin": "New South Wales",
+    "sort": "12566"
+  },
+  {
+    "city": "Leopold",
+    "admin": "Victoria",
+    "sort": "12814"
+  },
+  {
+    "city": "Corinda",
+    "admin": "Queensland",
+    "sort": "11019"
+  },
+  {
+    "city": "Worragee",
+    "admin": "New South Wales",
+    "sort": "5068"
+  },
+  {
+    "city": "Ballarat",
+    "admin": "Victoria",
+    "sort": "98543"
+  },
+  {
+    "city": "Bendigo",
+    "admin": "Victoria",
+    "sort": "95587"
+  },
+  {
+    "city": "Bunbury",
+    "admin": "Western Australia",
+    "sort": "71090"
+  },
+  {
+    "city": "Bundaberg",
+    "admin": "Queensland",
+    "sort": "70540"
+  },
+  {
+    "city": "Wagga Wagga",
+    "admin": "New South Wales",
+    "sort": "67364"
+  },
+  {
+    "city": "Melton",
+    "admin": "Victoria",
+    "sort": "54455"
+  },
+  {
+    "city": "Hervey Bay",
+    "admin": "Queensland",
+    "sort": "52073"
+  },
+  {
+    "city": "Pakenham",
+    "admin": "Victoria",
+    "sort": "46421"
+  },
+  {
+    "city": "Port Macquarie",
+    "admin": "New South Wales",
+    "sort": "44830"
+  },
+  {
+    "city": "Dubbo",
+    "admin": "New South Wales",
+    "sort": "38943"
+  },
+  {
+    "city": "Orange",
+    "admin": "New South Wales",
+    "sort": "38097"
+  },
+  {
+    "city": "Frankston",
+    "admin": "Victoria",
+    "sort": "36097"
+  },
+  {
+    "city": "Sunbury",
+    "admin": "Victoria",
+    "sort": "36084"
+  },
+  {
+    "city": "Bathurst",
+    "admin": "New South Wales",
+    "sort": "34303"
+  },
+  {
+    "city": "Gladstone",
+    "admin": "Queensland",
+    "sort": "33418"
+  },
+  {
+    "city": "Mildura",
+    "admin": "Victoria",
+    "sort": "32738"
+  },
+  {
+    "city": "Southport",
+    "admin": "Queensland",
+    "sort": "31908"
+  },
+  {
+    "city": "Geraldton",
+    "admin": "Western Australia",
+    "sort": "31982"
+  },
+  {
+    "city": "Shepparton",
+    "admin": "Victoria",
+    "sort": "31197"
+  },
+  {
+    "city": "Kalgoorlie",
+    "admin": "Western Australia",
+    "sort": "30841"
+  },
+  {
+    "city": "Warrnambool",
+    "admin": "Victoria",
+    "sort": "29661"
+  },
+  {
+    "city": "Albany",
+    "admin": "Western Australia",
+    "sort": "29373"
+  },
+  {
+    "city": "Quakers Hill",
+    "admin": "New South Wales",
+    "sort": "27080"
+  },
+  {
+    "city": "Burnie",
+    "admin": "Tasmania",
+    "sort": "27174"
+  },
+  {
+    "city": "Caboolture",
+    "admin": "Queensland",
+    "sort": "26433"
+  },
+  {
+    "city": "Coffs Harbour",
+    "admin": "New South Wales",
+    "sort": "25752"
+  },
+  {
+    "city": "Mount Gambier",
+    "admin": "South Australia",
+    "sort": "25512"
+  },
+  {
+    "city": "Traralgon",
+    "admin": "Victoria",
+    "sort": "24933"
+  },
+  {
+    "city": "Busselton",
+    "admin": "Western Australia",
+    "sort": "25329"
+  },
+  {
+    "city": "Armidale",
+    "admin": "New South Wales",
+    "sort": "23352"
+  },
+  {
+    "city": "Alice Springs",
+    "admin": "Northern Territory",
+    "sort": "23726"
+  },
+  {
+    "city": "Devonport",
+    "admin": "Tasmania",
+    "sort": "23046"
+  },
+  {
+    "city": "Goulburn",
+    "admin": "New South Wales",
+    "sort": "22419"
+  },
+  {
+    "city": "Whyalla",
+    "admin": "South Australia",
+    "sort": "21501"
+  },
+  {
+    "city": "Kwinana",
+    "admin": "Western Australia",
+    "sort": "20086"
+  },
+  {
+    "city": "Mount Eliza",
+    "admin": "Victoria",
+    "sort": "17888"
+  },
+  {
+    "city": "Griffith",
+    "admin": "New South Wales",
+    "sort": "18196"
+  },
+  {
+    "city": "Wodonga",
+    "admin": "Victoria",
+    "sort": "18948"
+  },
+  {
+    "city": "Narangba",
+    "admin": "Queensland",
+    "sort": "18573"
+  },
+  {
+    "city": "Wangaratta",
+    "admin": "Victoria",
+    "sort": "17377"
+  },
+  {
+    "city": "Broken Hill",
+    "admin": "New South Wales",
+    "sort": "17814"
+  },
+  {
+    "city": "Taree",
+    "admin": "New South Wales",
+    "sort": "16197"
+  },
+  {
+    "city": "Banora Point",
+    "admin": "New South Wales",
+    "sort": "16167"
+  },
+  {
+    "city": "Nerang",
+    "admin": "Queensland",
+    "sort": "16864"
+  },
+  {
+    "city": "Lara",
+    "admin": "Victoria",
+    "sort": "16355"
+  },
+  {
+    "city": "Cessnock",
+    "admin": "New South Wales",
+    "sort": "15177"
+  },
+  {
+    "city": "Warragul",
+    "admin": "Victoria",
+    "sort": "15757"
+  },
+  {
+    "city": "Karratha",
+    "admin": "Western Australia",
+    "sort": "15828"
+  },
+  {
+    "city": "Maryborough",
+    "admin": "Queensland",
+    "sort": "15406"
+  },
+  {
+    "city": "Ulladulla",
+    "admin": "New South Wales",
+    "sort": "15278"
+  },
+  {
+    "city": "Murray Bridge",
+    "admin": "South Australia",
+    "sort": "14560"
+  },
+  {
+    "city": "Ulverstone",
+    "admin": "Tasmania",
+    "sort": "14109"
+  },
+  {
+    "city": "Barwon Heads",
+    "admin": "Victoria",
+    "sort": "14165"
+  },
+  {
+    "city": "Horsham",
+    "admin": "Victoria",
+    "sort": "14543"
+  },
+  {
+    "city": "Australind",
+    "admin": "Western Australia",
+    "sort": "14539"
+  },
+  {
+    "city": "Rochedale",
+    "admin": "Queensland",
+    "sort": "15317"
+  },
+  {
+    "city": "Penrith",
+    "admin": "New South Wales",
+    "sort": "13295"
+  },
+  {
+    "city": "Bongaree",
+    "admin": "Queensland",
+    "sort": "13649"
+  },
+  {
+    "city": "Echuca",
+    "admin": "Victoria",
+    "sort": "14043"
+  },
+  {
+    "city": "Morwell",
+    "admin": "Victoria",
+    "sort": "13771"
+  },
+  {
+    "city": "Emerald",
+    "admin": "Queensland",
+    "sort": "14356"
+  },
+  {
+    "city": "Port Lincoln",
+    "admin": "South Australia",
+    "sort": "14120"
+  },
+  {
+    "city": "Forster",
+    "admin": "New South Wales",
+    "sort": "13740"
+  },
+  {
+    "city": "Mount Barker",
+    "admin": "South Australia",
+    "sort": "13842"
+  },
+  {
+    "city": "Goonellabah",
+    "admin": "New South Wales",
+    "sort": "12900"
+  },
+  {
+    "city": "Raymond Terrace",
+    "admin": "New South Wales",
+    "sort": "12820"
+  },
+  {
+    "city": "Torquay",
+    "admin": "Victoria",
+    "sort": "13258"
+  },
+  {
+    "city": "Sale",
+    "admin": "Victoria",
+    "sort": "13673"
+  },
+  {
+    "city": "Rutherford",
+    "admin": "New South Wales",
+    "sort": "11884"
+  },
+  {
+    "city": "Jimboomba",
+    "admin": "Queensland",
+    "sort": "13201"
+  },
+  {
+    "city": "Dalby",
+    "admin": "Queensland",
+    "sort": "12719"
+  },
+  {
+    "city": "Warwick",
+    "admin": "Queensland",
+    "sort": "12222"
+  },
+  {
+    "city": "Muswellbrook",
+    "admin": "New South Wales",
+    "sort": "12075"
+  },
+  {
+    "city": "Drouin",
+    "admin": "Victoria",
+    "sort": "12349"
+  },
+  {
+    "city": "Inverell",
+    "admin": "New South Wales",
+    "sort": "11660"
+  },
+  {
+    "city": "Parkes",
+    "admin": "New South Wales",
+    "sort": "11408"
+  },
+  {
+    "city": "Nelson Bay",
+    "admin": "New South Wales",
+    "sort": "11060"
+  },
+  {
+    "city": "Wallan",
+    "admin": "Victoria",
+    "sort": "11074"
+  },
+  {
+    "city": "Nambour",
+    "admin": "Queensland",
+    "sort": "11187"
+  },
+  {
+    "city": "Somerville",
+    "admin": "Victoria",
+    "sort": "11336"
+  },
+  {
+    "city": "Gracemere",
+    "admin": "Queensland",
+    "sort": "11315"
+  },
+  {
+    "city": "Kingston",
+    "admin": "Tasmania",
+    "sort": "10409"
+  },
+  {
+    "city": "Casino",
+    "admin": "New South Wales",
+    "sort": "10914"
+  },
+  {
+    "city": "Mareeba",
+    "admin": "Queensland",
+    "sort": "11079"
+  },
+  {
+    "city": "Grafton",
+    "admin": "New South Wales",
+    "sort": "10408"
+  },
+  {
+    "city": "Gympie",
+    "admin": "Queensland",
+    "sort": "10803"
+  },
+  {
+    "city": "Bowen",
+    "admin": "Queensland",
+    "sort": "10377"
+  },
+  {
+    "city": "Young",
+    "admin": "New South Wales",
+    "sort": "10295"
+  },
+  {
+    "city": "Bowral",
+    "admin": "New South Wales",
+    "sort": "10335"
+  },
+  {
+    "city": "Nowra",
+    "admin": "New South Wales",
+    "sort": "9193"
+  },
+  {
+    "city": "Swan Hill",
+    "admin": "Victoria",
+    "sort": "9864"
+  },
+  {
+    "city": "Mount Evelyn",
+    "admin": "Victoria",
+    "sort": "9702"
+  },
+  {
+    "city": "Benalla",
+    "admin": "Victoria",
+    "sort": "10330"
+  },
+  {
+    "city": "Mudgee",
+    "admin": "New South Wales",
+    "sort": "9830"
+  },
+  {
+    "city": "Cowra",
+    "admin": "New South Wales",
+    "sort": "10063"
+  },
+  {
+    "city": "Kingaroy",
+    "admin": "Queensland",
+    "sort": "10020"
+  },
+  {
+    "city": "Kangaroo Flat",
+    "admin": "Victoria",
+    "sort": "10394"
+  },
+  {
+    "city": "Hamilton",
+    "admin": "Victoria",
+    "sort": "9974"
+  },
+  {
+    "city": "Ballina",
+    "admin": "New South Wales",
+    "sort": "8655"
+  },
+  {
+    "city": "Andergrove",
+    "admin": "Queensland",
+    "sort": "9419"
+  },
+  {
+    "city": "Moree",
+    "admin": "New South Wales",
+    "sort": "9311"
+  },
+  {
+    "city": "Portland",
+    "admin": "Victoria",
+    "sort": "9712"
+  },
+  {
+    "city": "Highfields",
+    "admin": "Queensland",
+    "sort": "9474"
+  },
+  {
+    "city": "Gunnedah",
+    "admin": "New South Wales",
+    "sort": "9726"
+  },
+  {
+    "city": "Springwood",
+    "admin": "New South Wales",
+    "sort": "8475"
+  },
+  {
+    "city": "Colac",
+    "admin": "Victoria",
+    "sort": "9048"
+  },
+  {
+    "city": "Ayr",
+    "admin": "Queensland",
+    "sort": "8738"
+  },
+  {
+    "city": "Leeton",
+    "admin": "New South Wales",
+    "sort": "8623"
+  },
+  {
+    "city": "Tweed Heads",
+    "admin": "New South Wales",
+    "sort": "8176"
+  },
+  {
+    "city": "Moe",
+    "admin": "Victoria",
+    "sort": "8778"
+  },
+  {
+    "city": "Gisborne",
+    "admin": "Victoria",
+    "sort": "8999"
+  },
+  {
+    "city": "Moranbah",
+    "admin": "Queensland",
+    "sort": "8735"
+  },
+  {
+    "city": "Yanchep",
+    "admin": "Western Australia",
+    "sort": "8859"
+  },
+  {
+    "city": "Currumbin",
+    "admin": "Queensland",
+    "sort": "9121"
+  },
+  {
+    "city": "Bli Bli",
+    "admin": "Queensland",
+    "sort": "7801"
+  },
+  {
+    "city": "Ararat",
+    "admin": "Victoria",
+    "sort": "8297"
+  },
+  {
+    "city": "Kelso",
+    "admin": "New South Wales",
+    "sort": "8968"
+  },
+  {
+    "city": "Moss Vale",
+    "admin": "New South Wales",
+    "sort": "8579"
+  },
+  {
+    "city": "Clifton Springs",
+    "admin": "Victoria",
+    "sort": "7519"
+  },
+  {
+    "city": "Katoomba",
+    "admin": "New South Wales",
+    "sort": "7964"
+  },
+  {
+    "city": "Bairnsdale",
+    "admin": "Victoria",
+    "sort": "7580"
+  },
+  {
+    "city": "Emu Plains",
+    "admin": "New South Wales",
+    "sort": "8421"
+  },
+  {
+    "city": "Wollert",
+    "admin": "Victoria",
+    "sort": "9060"
+  },
+  {
+    "city": "Merrimac",
+    "admin": "New South Wales",
+    "sort": "7071"
+  },
+  {
+    "city": "Charters Towers",
+    "admin": "Queensland",
+    "sort": "8126"
+  },
+  {
+    "city": "Rye",
+    "admin": "Victoria",
+    "sort": "8416"
+  },
+  {
+    "city": "Deniliquin",
+    "admin": "New South Wales",
+    "sort": "7862"
+  },
+  {
+    "city": "Mooroopna",
+    "admin": "Victoria",
+    "sort": "7942"
+  },
+  {
+    "city": "Forbes",
+    "admin": "New South Wales",
+    "sort": "8432"
+  },
+  {
+    "city": "Redlynch",
+    "admin": "Queensland",
+    "sort": "8645"
+  },
+  {
+    "city": "Maryborough",
+    "admin": "Victoria",
+    "sort": "7921"
+  },
+  {
+    "city": "Narrabri",
+    "admin": "New South Wales",
+    "sort": "7606"
+  },
+  {
+    "city": "Kingscliff",
+    "admin": "New South Wales",
+    "sort": "7464"
+  },
+  {
+    "city": "Atherton",
+    "admin": "Queensland",
+    "sort": "7331"
+  },
+  {
+    "city": "Darley",
+    "admin": "Victoria",
+    "sort": "8372"
+  },
+  {
+    "city": "Kilmore",
+    "admin": "Victoria",
+    "sort": "7958"
+  },
+  {
+    "city": "Gatton",
+    "admin": "Queensland",
+    "sort": "7101"
+  },
+  {
+    "city": "Blaxland",
+    "admin": "New South Wales",
+    "sort": "7451"
+  },
+  {
+    "city": "Yarrawonga",
+    "admin": "Victoria",
+    "sort": "7930"
+  },
+  {
+    "city": "Collie",
+    "admin": "Western Australia",
+    "sort": "7587"
+  },
+  {
+    "city": "Kyabram",
+    "admin": "Victoria",
+    "sort": "7331"
+  },
+  {
+    "city": "Sanctuary Point",
+    "admin": "New South Wales",
+    "sort": "7225"
+  },
+  {
+    "city": "Healesville",
+    "admin": "Victoria",
+    "sort": "7461"
+  },
+  {
+    "city": "Burpengary",
+    "admin": "Queensland",
+    "sort": "6433"
+  },
+  {
+    "city": "Margaret River",
+    "admin": "Western Australia",
+    "sort": "7654"
+  },
+  {
+    "city": "Urraween",
+    "admin": "Queensland",
+    "sort": "6969"
+  },
+  {
+    "city": "Kiama",
+    "admin": "New South Wales",
+    "sort": "6881"
+  },
+  {
+    "city": "Narre Warren North",
+    "admin": "Victoria",
+    "sort": "7674"
+  },
+  {
+    "city": "Bargara",
+    "admin": "Queensland",
+    "sort": "7485"
+  },
+  {
+    "city": "Mandurah",
+    "admin": "Western Australia",
+    "sort": "7837"
+  },
+  {
+    "city": "Kyneton",
+    "admin": "Victoria",
+    "sort": "6951"
+  },
+  {
+    "city": "Fremantle",
+    "admin": "Western Australia",
+    "sort": "7459"
+  },
+  {
+    "city": "Murwillumbah",
+    "admin": "New South Wales",
+    "sort": "7032"
+  },
+  {
+    "city": "Cootamundra",
+    "admin": "New South Wales",
+    "sort": "6782"
+  },
+  {
+    "city": "Gordonvale",
+    "admin": "Queensland",
+    "sort": "6671"
+  },
+  {
+    "city": "Bacchus Marsh",
+    "admin": "Victoria",
+    "sort": "6394"
+  },
+  {
+    "city": "Roma",
+    "admin": "Queensland",
+    "sort": "6848"
+  },
+  {
+    "city": "Waterford",
+    "admin": "Queensland",
+    "sort": "6431"
+  },
+  {
+    "city": "North Tamborine",
+    "admin": "Queensland",
+    "sort": "7349"
+  },
+  {
+    "city": "Kurri Kurri",
+    "admin": "New South Wales",
+    "sort": "6044"
+  },
+  {
+    "city": "Castlemaine",
+    "admin": "Victoria",
+    "sort": "6757"
+  },
+  {
+    "city": "Port Augusta",
+    "admin": "South Australia",
+    "sort": "6562"
+  },
+  {
+    "city": "Lennox Head",
+    "admin": "New South Wales",
+    "sort": "6407"
+  },
+  {
+    "city": "Bomaderry",
+    "admin": "New South Wales",
+    "sort": "6661"
+  },
+  {
+    "city": "Tuncurry",
+    "admin": "New South Wales",
+    "sort": "6186"
+  },
+  {
+    "city": "Strathalbyn",
+    "admin": "South Australia",
+    "sort": "6504"
+  },
+  {
+    "city": "Yeppoon",
+    "admin": "Queensland",
+    "sort": "6334"
+  },
+  {
+    "city": "Seymour",
+    "admin": "Victoria",
+    "sort": "6327"
+  },
+  {
+    "city": "Wauchope",
+    "admin": "New South Wales",
+    "sort": "6312"
+  },
+  {
+    "city": "Beaudesert",
+    "admin": "Queensland",
+    "sort": "6395"
+  },
+  {
+    "city": "Helensburgh",
+    "admin": "New South Wales",
+    "sort": "6383"
+  },
+  {
+    "city": "Yass",
+    "admin": "New South Wales",
+    "sort": "6506"
+  },
+  {
+    "city": "Newman",
+    "admin": "Western Australia",
+    "sort": "7238"
+  },
+  {
+    "city": "Cooma",
+    "admin": "New South Wales",
+    "sort": "6681"
+  },
+  {
+    "city": "Nuriootpa",
+    "admin": "South Australia",
+    "sort": "6314"
+  },
+  {
+    "city": "Beerwah",
+    "admin": "Queensland",
+    "sort": "6769"
+  },
+  {
+    "city": "Chinchilla",
+    "admin": "Queensland",
+    "sort": "6612"
+  },
+  {
+    "city": "Goondiwindi",
+    "admin": "Queensland",
+    "sort": "6355"
+  },
+  {
+    "city": "Tumut",
+    "admin": "New South Wales",
+    "sort": "6230"
+  },
+  {
+    "city": "Cannonvale",
+    "admin": "Queensland",
+    "sort": "5716"
+  },
+  {
+    "city": "Nambucca Heads",
+    "admin": "New South Wales",
+    "sort": "6327"
+  },
+  {
+    "city": "Wynyard",
+    "admin": "Tasmania",
+    "sort": "6001"
+  },
+  {
+    "city": "North Mackay",
+    "admin": "Queensland",
+    "sort": "5933"
+  },
+  {
+    "city": "Northam",
+    "admin": "Western Australia",
+    "sort": "6548"
+  },
+  {
+    "city": "Mount Cotton",
+    "admin": "Queensland",
+    "sort": "6835"
+  },
+  {
+    "city": "Alstonville",
+    "admin": "New South Wales",
+    "sort": "5739"
+  },
+  {
+    "city": "Glen Innes",
+    "admin": "New South Wales",
+    "sort": "6155"
+  },
+  {
+    "city": "Yamba",
+    "admin": "New South Wales",
+    "sort": "6076"
+  },
+  {
+    "city": "Biloela",
+    "admin": "Queensland",
+    "sort": "5758"
+  },
+  {
+    "city": "Kiama Downs",
+    "admin": "New South Wales",
+    "sort": "5004"
+  },
+  {
+    "city": "Pottsville",
+    "admin": "New South Wales",
+    "sort": "6704"
+  },
+  {
+    "city": "Lysterfield",
+    "admin": "Victoria",
+    "sort": "6663"
+  },
+  {
+    "city": "Lakes Entrance",
+    "admin": "Victoria",
+    "sort": "6071"
+  },
+  {
+    "city": "Stawell",
+    "admin": "Victoria",
+    "sort": "5736"
+  },
+  {
+    "city": "Wentworth Falls",
+    "admin": "New South Wales",
+    "sort": "6076"
+  },
+  {
+    "city": "Mittagong",
+    "admin": "New South Wales",
+    "sort": "5767"
+  },
+  {
+    "city": "Scone",
+    "admin": "New South Wales",
+    "sort": "5624"
+  },
+  {
+    "city": "Tannum Sands",
+    "admin": "Queensland",
+    "sort": "5145"
+  },
+  {
+    "city": "Dromana",
+    "admin": "Victoria",
+    "sort": "5803"
+  },
+  {
+    "city": "Palmwoods",
+    "admin": "Queensland",
+    "sort": "5676"
+  },
+  {
+    "city": "Leongatha",
+    "admin": "Victoria",
+    "sort": "5654"
+  },
+  {
+    "city": "South Grafton",
+    "admin": "New South Wales",
+    "sort": "6068"
+  },
+  {
+    "city": "Point Vernon",
+    "admin": "Queensland",
+    "sort": "5699"
+  },
+  {
+    "city": "Kununurra",
+    "admin": "Western Australia",
+    "sort": "5308"
+  },
+  {
+    "city": "Naracoorte",
+    "admin": "South Australia",
+    "sort": "5960"
+  },
+  {
+    "city": "Corowa",
+    "admin": "New South Wales",
+    "sort": "5482"
+  },
+  {
+    "city": "Woolgoolga",
+    "admin": "New South Wales",
+    "sort": "5290"
+  },
+  {
+    "city": "Cobram",
+    "admin": "Victoria",
+    "sort": "6014"
+  },
+  {
+    "city": "Queanbeyan",
+    "admin": "New South Wales",
+    "sort": "6237"
+  },
+  {
+    "city": "Albury",
+    "admin": "New South Wales",
+    "sort": "4804"
+  },
+  {
+    "city": "Maffra",
+    "admin": "Victoria",
+    "sort": "5280"
+  },
+  {
+    "city": "Tahmoor",
+    "admin": "New South Wales",
+    "sort": "5067"
+  },
+  {
+    "city": "Woodend",
+    "admin": "Victoria",
+    "sort": "5806"
+  },
+  {
+    "city": "Inverloch",
+    "admin": "Victoria",
+    "sort": "5437"
+  },
+  {
+    "city": "Whittlesea",
+    "admin": "Victoria",
+    "sort": "5611"
+  },
+  {
+    "city": "Lithgow",
+    "admin": "New South Wales",
+    "sort": "5201"
+  },
+  {
+    "city": "Emerald",
+    "admin": "Victoria",
+    "sort": "5778"
+  },
+  {
+    "city": "Richmond",
+    "admin": "New South Wales",
+    "sort": "5482"
+  },
+  {
+    "city": "New Norfolk",
+    "admin": "Tasmania",
+    "sort": "5432"
+  },
+  {
+    "city": "East Ballina",
+    "admin": "New South Wales",
+    "sort": "5571"
+  },
+  {
+    "city": "Sarina",
+    "admin": "Queensland",
+    "sort": "5522"
+  },
+  {
+    "city": "Wingham",
+    "admin": "New South Wales",
+    "sort": "5374"
+  },
+  {
+    "city": "Millicent",
+    "admin": "South Australia",
+    "sort": "5109"
+  },
+  {
+    "city": "Dunsborough",
+    "admin": "Western Australia",
+    "sort": "5320"
+  },
+  {
+    "city": "Irymple",
+    "admin": "Victoria",
+    "sort": "5325"
+  },
+  {
+    "city": "Cooranbong",
+    "admin": "New South Wales",
+    "sort": "5449"
+  },
+  {
+    "city": "Red Cliffs",
+    "admin": "Victoria",
+    "sort": "5060"
+  },
+  {
+    "city": "Nairne",
+    "admin": "South Australia",
+    "sort": "5042"
+  },
+  {
+    "city": "Bannockburn",
+    "admin": "Victoria",
+    "sort": "5283"
+  },
+  {
+    "city": "Glenbrook",
+    "admin": "New South Wales",
+    "sort": "5051"
+  },
+  {
+    "city": "Smithfield Heights",
+    "admin": "Queensland",
+    "sort": "5303"
+  },
+  {
+    "city": "Calliope",
+    "admin": "Queensland",
+    "sort": "5101"
+  },
+  {
+    "city": "Byron Bay",
+    "admin": "New South Wales",
+    "sort": "5521"
+  },
+  {
+    "city": "Glass House Mountains",
+    "admin": "Queensland",
+    "sort": "5065"
+  },
+  {
+    "city": "Singleton",
+    "admin": "New South Wales",
+    "sort": "5000"
+  },
+  {
+    "city": "Wonthaggi",
+    "admin": "Victoria",
+    "sort": "4965"
+  },
+  {
+    "city": "Ocean Shores",
+    "admin": "New South Wales",
+    "sort": "5137"
+  },
+  {
+    "city": "Berri",
+    "admin": "South Australia",
+    "sort": "4088"
+  },
+  {
+    "city": "Howard Springs",
+    "admin": "Northern Territory",
+    "sort": "5132"
+  },
+  {
+    "city": "Mackay",
+    "admin": "Queensland",
+    "sort": "3659"
+  },
+  {
+    "city": "Victor Harbor",
+    "admin": "South Australia",
+    "sort": "4233"
+  },
+  {
+    "city": "Lismore",
+    "admin": "New South Wales",
+    "sort": "3579"
+  },
+  {
+    "city": "Ingham",
+    "admin": "Queensland",
+    "sort": "4426"
+  },
+  {
+    "city": "Manjimup",
+    "admin": "Western Australia",
+    "sort": "4349"
+  },
+  {
+    "city": "Smithton",
+    "admin": "Tasmania",
+    "sort": "3881"
+  },
+  {
+    "city": "Narrogin",
+    "admin": "Western Australia",
+    "sort": "4274"
+  },
+  {
+    "city": "Proserpine",
+    "admin": "Queensland",
+    "sort": "3562"
+  },
+  {
+    "city": "Merimbula",
+    "admin": "New South Wales",
+    "sort": "3544"
+  },
+  {
+    "city": "Broome",
+    "admin": "Western Australia",
+    "sort": "4042"
+  },
+  {
+    "city": "Katanning",
+    "admin": "Western Australia",
+    "sort": "3687"
+  },
+  {
+    "city": "Port Hedland",
+    "admin": "Western Australia",
+    "sort": "4180"
+  },
+  {
+    "city": "Charleville",
+    "admin": "Queensland",
+    "sort": "3335"
+  },
+  {
+    "city": "Weipa",
+    "admin": "Queensland",
+    "sort": "3291"
+  },
+  {
+    "city": "Port Douglas",
+    "admin": "Queensland",
+    "sort": "3504"
+  },
+  {
+    "city": "Clare",
+    "admin": "South Australia",
+    "sort": "3327"
+  },
+  {
+    "city": "Wallaroo",
+    "admin": "South Australia",
+    "sort": "3481"
+  },
+  {
+    "city": "Longreach",
+    "admin": "Queensland",
+    "sort": "2970"
+  },
+  {
+    "city": "Rockhampton",
+    "admin": "Queensland",
+    "sort": "1953"
+  },
+  {
+    "city": "Tom Price",
+    "admin": "Western Australia",
+    "sort": "3005"
+  },
+  {
+    "city": "Cloncurry",
+    "admin": "Queensland",
+    "sort": "2719"
+  },
+  {
+    "city": "Bordertown",
+    "admin": "South Australia",
+    "sort": "2953"
+  },
+  {
+    "city": "Mount Barker",
+    "admin": "Western Australia",
+    "sort": "2741"
+  },
+  {
+    "city": "Esperance",
+    "admin": "Western Australia",
+    "sort": "2144"
+  },
+  {
+    "city": "Merredin",
+    "admin": "Western Australia",
+    "sort": "2850"
+  },
+  {
+    "city": "Scottsdale",
+    "admin": "Tasmania",
+    "sort": "2373"
+  },
+  {
+    "city": "Maitland",
+    "admin": "New South Wales",
+    "sort": "1885"
+  },
+  {
+    "city": "Bourke",
+    "admin": "New South Wales",
+    "sort": "1909"
+  },
+  {
+    "city": "Exmouth",
+    "admin": "Western Australia",
+    "sort": "2514"
+  },
+  {
+    "city": "Queenstown",
+    "admin": "Tasmania",
+    "sort": "1790"
+  },
+  {
+    "city": "Tumby Bay",
+    "admin": "South Australia",
+    "sort": "1631"
+  },
+  {
+    "city": "Penola",
+    "admin": "South Australia",
+    "sort": "1592"
+  },
+  {
+    "city": "Kalbarri",
+    "admin": "Western Australia",
+    "sort": "1557"
+  },
+  {
+    "city": "Innisfail",
+    "admin": "Queensland",
+    "sort": "1145"
+  },
+  {
+    "city": "Batemans Bay",
+    "admin": "New South Wales",
+    "sort": "1530"
+  },
+  {
+    "city": "Port Denison",
+    "admin": "Western Australia",
+    "sort": "1410"
+  },
+  {
+    "city": "Barcaldine",
+    "admin": "Queensland",
+    "sort": "1422"
+  },
+  {
+    "city": "Kingston South East",
+    "admin": "South Australia",
+    "sort": "1393"
+  },
+  {
+    "city": "Wagin",
+    "admin": "Western Australia",
+    "sort": "1495"
+  },
+  {
+    "city": "Gawler",
+    "admin": "South Australia",
+    "sort": "650"
+  },
+  {
+    "city": "Peterborough",
+    "admin": "South Australia",
+    "sort": "1497"
+  },
+  {
+    "city": "Streaky Bay",
+    "admin": "South Australia",
+    "sort": "1378"
+  },
+  {
+    "city": "Halls Creek",
+    "admin": "Western Australia",
+    "sort": "1499"
+  },
+  {
+    "city": "Ouyen",
+    "admin": "Victoria",
+    "sort": "1191"
+  },
+  {
+    "city": "Katherine",
+    "admin": "Northern Territory",
+    "sort": "1488"
+  },
+  {
+    "city": "Mount Isa",
+    "admin": "Queensland",
+    "sort": "118"
+  },
+  {
+    "city": "Hughenden",
+    "admin": "Queensland",
+    "sort": "1136"
+  },
+  {
+    "city": "Port Pirie",
+    "admin": "South Australia",
+    "sort": "195"
+  },
+  {
+    "city": "Meningie",
+    "admin": "South Australia",
+    "sort": "1118"
+  },
+  {
+    "city": "Cowell",
+    "admin": "South Australia",
+    "sort": "990"
+  },
+  {
+    "city": "Meekatharra",
+    "admin": "Western Australia",
+    "sort": "708"
+  },
+  {
+    "city": "Yulara",
+    "admin": "Northern Territory",
+    "sort": "1099"
+  },
+  {
+    "city": "Wyndham",
+    "admin": "Western Australia",
+    "sort": "780"
+  },
+  {
+    "city": "Roebourne",
+    "admin": "Western Australia",
+    "sort": "981"
+  },
+  {
+    "city": "Bicheno",
+    "admin": "Tasmania",
+    "sort": "943"
+  },
+  {
+    "city": "Winton",
+    "admin": "Queensland",
+    "sort": "875"
+  },
+  {
+    "city": "Oatlands",
+    "admin": "Tasmania",
+    "sort": "683"
+  },
+  {
+    "city": "Leonora",
+    "admin": "Western Australia",
+    "sort": "781"
+  },
+  {
+    "city": "Kempsey",
+    "admin": "New South Wales",
+    "sort": "474"
+  },
+  {
+    "city": "Gingin",
+    "admin": "Western Australia",
+    "sort": "852"
+  },
+  {
+    "city": "Wilcannia",
+    "admin": "New South Wales",
+    "sort": "745"
+  },
+  {
+    "city": "Onslow",
+    "admin": "Western Australia",
+    "sort": "857"
+  },
+  {
+    "city": "Laverton",
+    "admin": "Western Australia",
+    "sort": "871"
+  },
+  {
+    "city": "Morawa",
+    "admin": "Western Australia",
+    "sort": "532"
+  },
+  {
+    "city": "Southern Cross",
+    "admin": "Western Australia",
+    "sort": "680"
+  },
+  {
+    "city": "Quilpie",
+    "admin": "Queensland",
+    "sort": "564"
+  },
+  {
+    "city": "Tamworth",
+    "admin": "New South Wales",
+    "sort": "180"
+  },
+  {
+    "city": "Norseman",
+    "admin": "Western Australia",
+    "sort": "581"
+  },
+  {
+    "city": "Ravensthorpe",
+    "admin": "Western Australia",
+    "sort": "498"
+  },
+  {
+    "city": "Eidsvold",
+    "admin": "Queensland",
+    "sort": "574"
+  },
+  {
+    "city": "Pannawonica",
+    "admin": "Western Australia",
+    "sort": "695"
+  },
+  {
+    "city": "Kimba",
+    "admin": "South Australia",
+    "sort": "629"
+  },
+  {
+    "city": "Richmond",
+    "admin": "Queensland",
+    "sort": "648"
+  },
+  {
+    "city": "Mount Magnet",
+    "admin": "Western Australia",
+    "sort": "470"
+  },
+  {
+    "city": "Three Springs",
+    "admin": "Western Australia",
+    "sort": "381"
+  },
+  {
+    "city": "Theodore",
+    "admin": "Queensland",
+    "sort": "438"
+  },
+  {
+    "city": "Carnarvon",
+    "admin": "Western Australia",
+    "sort": "208"
+  },
+  {
+    "city": "Karumba",
+    "admin": "Queensland",
+    "sort": "531"
+  },
+  {
+    "city": "Andamooka",
+    "admin": "South Australia",
+    "sort": "316"
+  },
+  {
+    "city": "Georgetown",
+    "admin": "Queensland",
+    "sort": "348"
+  },
+  {
+    "city": "Boulia",
+    "admin": "Queensland",
+    "sort": "301"
+  },
+  {
+    "city": "Adelaide River",
+    "admin": "Northern Territory",
+    "sort": "353"
+  },
+  {
+    "city": "Burketown",
+    "admin": "Queensland",
+    "sort": "238"
+  },
+  {
+    "city": "Ivanhoe",
+    "admin": "New South Wales",
+    "sort": "327"
+  },
+  {
+    "city": "Thargomindah",
+    "admin": "Queensland",
+    "sort": "270"
+  },
+  {
+    "city": "Pine Creek",
+    "admin": "Northern Territory",
+    "sort": "328"
+  },
+  {
+    "city": "Camooweal",
+    "admin": "Queensland",
+    "sort": "208"
+  },
+  {
+    "city": "Birdsville",
+    "admin": "Queensland",
+    "sort": "140"
+  },
+  {
+    "city": "Bedourie",
+    "admin": "Queensland",
+    "sort": "122"
+  },
+  {
+    "city": "Windorah",
+    "admin": "Queensland",
+    "sort": "115"
+  },
+  {
+    "city": "Kingoonya",
+    "admin": "South Australia",
+    "sort": "13"
+  },
+  {
+    "city": "Bullsbrook",
+    "admin": "Western Australia",
+    "sort": "5448"
+  },
+  {
+    "city": "McMinns Lagoon",
+    "admin": "Northern Territory",
+    "sort": "5025"
+  },
+  {
+    "city": "Ceduna",
+    "admin": "South Australia",
+    "sort": "2157"
+  },
+  {
+    "city": "Woomera",
+    "admin": "South Australia",
+    "sort": "450"
+  }
+]

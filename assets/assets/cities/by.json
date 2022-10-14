@@ -1,0 +1,442 @@
+[
+  {
+    "city": "Minsk",
+    "admin": "Minsk",
+    "sort": "2009786"
+  },
+  {
+    "city": "Homyel’",
+    "admin": "Homyel’skaya Voblasts’",
+    "sort": "510300"
+  },
+  {
+    "city": "Vitsyebsk",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "364800"
+  },
+  {
+    "city": "Mahilyow",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "357100"
+  },
+  {
+    "city": "Hrodna",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "356900"
+  },
+  {
+    "city": "Brest",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "340318"
+  },
+  {
+    "city": "Babruysk",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "212200"
+  },
+  {
+    "city": "Baranavichy",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "174183"
+  },
+  {
+    "city": "Horad Barysaw",
+    "admin": "Minskaya Voblasts’",
+    "sort": "155389"
+  },
+  {
+    "city": "Pinsk",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "125900"
+  },
+  {
+    "city": "Orsha",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "106505"
+  },
+  {
+    "city": "Mazyr",
+    "admin": "Homyel’skaya Voblasts’",
+    "sort": "105439"
+  },
+  {
+    "city": "Lida",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "103391"
+  },
+  {
+    "city": "Salihorsk",
+    "admin": "Minskaya Voblasts’",
+    "sort": "100824"
+  },
+  {
+    "city": "Navapolatsk",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "98122"
+  },
+  {
+    "city": "Maladzyechna",
+    "admin": "Minskaya Voblasts’",
+    "sort": "91063"
+  },
+  {
+    "city": "Polatsk",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "80795"
+  },
+  {
+    "city": "Svyetlahorsk",
+    "admin": "Homyel’skaya Voblasts’",
+    "sort": "64989"
+  },
+  {
+    "city": "Slutsk",
+    "admin": "Minskaya Voblasts’",
+    "sort": "61396"
+  },
+  {
+    "city": "Kobryn",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "52843"
+  },
+  {
+    "city": "Slonim",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "49830"
+  },
+  {
+    "city": "Vawkavysk",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "42746"
+  },
+  {
+    "city": "Kalinkavichy",
+    "admin": "Homyel’skaya Voblasts’",
+    "sort": "37633"
+  },
+  {
+    "city": "Smarhon’",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "36202"
+  },
+  {
+    "city": "Horki",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "30390"
+  },
+  {
+    "city": "Asipovichy",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "29981"
+  },
+  {
+    "city": "Dzyarzhynsk",
+    "admin": "Minskaya Voblasts’",
+    "sort": "29739"
+  },
+  {
+    "city": "Byaroza",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "28619"
+  },
+  {
+    "city": "Navahrudak",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "28199"
+  },
+  {
+    "city": "Vilyeyka",
+    "admin": "Minskaya Voblasts’",
+    "sort": "27167"
+  },
+  {
+    "city": "Krychaw",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "24170"
+  },
+  {
+    "city": "Luninyets",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "23734"
+  },
+  {
+    "city": "Mar’’ina Horka",
+    "admin": "Minskaya Voblasts’",
+    "sort": "20592"
+  },
+  {
+    "city": "Pastavy",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "19153"
+  },
+  {
+    "city": "Pruzhany",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "19032"
+  },
+  {
+    "city": "Dobrush",
+    "admin": "Homyel’skaya Voblasts’",
+    "sort": "18311"
+  },
+  {
+    "city": "Hlybokaye",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "17790"
+  },
+  {
+    "city": "Zaslawye",
+    "admin": "Minskaya Voblasts’",
+    "sort": "17701"
+  },
+  {
+    "city": "Fanipal’",
+    "admin": "Minskaya Voblasts’",
+    "sort": "17507"
+  },
+  {
+    "city": "Stowbtsy",
+    "admin": "Minskaya Voblasts’",
+    "sort": "17420"
+  },
+  {
+    "city": "Ashmyany",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "16966"
+  },
+  {
+    "city": "Ivanava",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "16498"
+  },
+  {
+    "city": "Klimavichy",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "15408"
+  },
+  {
+    "city": "Lahoysk",
+    "admin": "Minskaya Voblasts’",
+    "sort": "15336"
+  },
+  {
+    "city": "Masty",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "15197"
+  },
+  {
+    "city": "Drahichyn",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "14963"
+  },
+  {
+    "city": "Astravyets",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "14147"
+  },
+  {
+    "city": "Khoyniki",
+    "admin": "Homyel’skaya Voblasts’",
+    "sort": "13439"
+  },
+  {
+    "city": "Stolin",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "13038"
+  },
+  {
+    "city": "Malaryta",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "12883"
+  },
+  {
+    "city": "Mikashevichy",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "12771"
+  },
+  {
+    "city": "Novalukoml’",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "12439"
+  },
+  {
+    "city": "Haradok",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "11814"
+  },
+  {
+    "city": "Lyuban’",
+    "admin": "Minskaya Voblasts’",
+    "sort": "11654"
+  },
+  {
+    "city": "Klyetsk",
+    "admin": "Minskaya Voblasts’",
+    "sort": "11462"
+  },
+  {
+    "city": "Byerazino",
+    "admin": "Minskaya Voblasts’",
+    "sort": "11450"
+  },
+  {
+    "city": "Staryya Darohi",
+    "admin": "Minskaya Voblasts’",
+    "sort": "11198"
+  },
+  {
+    "city": "Byelaazyorsk",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "11115"
+  },
+  {
+    "city": "Uzda",
+    "admin": "Minskaya Voblasts’",
+    "sort": "10781"
+  },
+  {
+    "city": "Baran’",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "10573"
+  },
+  {
+    "city": "Kapyl’",
+    "admin": "Minskaya Voblasts’",
+    "sort": "10367"
+  },
+  {
+    "city": "Mstsislaw",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "10201"
+  },
+  {
+    "city": "Skidal’",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "10168"
+  },
+  {
+    "city": "Byarozawka",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "10081"
+  },
+  {
+    "city": "Valozhyn",
+    "admin": "Minskaya Voblasts’",
+    "sort": "10012"
+  },
+  {
+    "city": "Pyetrykaw",
+    "admin": "Homyel’skaya Voblasts’",
+    "sort": "9986"
+  },
+  {
+    "city": "Byalynichy",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "9913"
+  },
+  {
+    "city": "Talachyn",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "9899"
+  },
+  {
+    "city": "Braslaw",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "9390"
+  },
+  {
+    "city": "Buda-Kashalyova",
+    "admin": "Homyel’skaya Voblasts’",
+    "sort": "8850"
+  },
+  {
+    "city": "Krupki",
+    "admin": "Minskaya Voblasts’",
+    "sort": "8540"
+  },
+  {
+    "city": "Vyetka",
+    "admin": "Homyel’skaya Voblasts’",
+    "sort": "8426"
+  },
+  {
+    "city": "Narowlya",
+    "admin": "Homyel’skaya Voblasts’",
+    "sort": "8364"
+  },
+  {
+    "city": "Kamyanyets",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "8349"
+  },
+  {
+    "city": "Kirawsk",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "8178"
+  },
+  {
+    "city": "Dzyatlava",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "8061"
+  },
+  {
+    "city": "Slawharad",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "7928"
+  },
+  {
+    "city": "Cherykaw",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "7910"
+  },
+  {
+    "city": "Myory",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "7845"
+  },
+  {
+    "city": "Kruhlaye",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "7530"
+  },
+  {
+    "city": "Syanno",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "7370"
+  },
+  {
+    "city": "Iwye",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "7329"
+  },
+  {
+    "city": "Klichaw",
+    "admin": "Mahilyowskaya Voblasts’",
+    "sort": "7308"
+  },
+  {
+    "city": "Myadzyel",
+    "admin": "Minskaya Voblasts’",
+    "sort": "7146"
+  },
+  {
+    "city": "Vyerkhnyadzvinsk",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "6956"
+  },
+  {
+    "city": "Dubrowna",
+    "admin": "Vitsyebskaya Voblasts’",
+    "sort": "6951"
+  },
+  {
+    "city": "Svislach",
+    "admin": "Hrodzyenskaya Voblasts’",
+    "sort": "6323"
+  },
+  {
+    "city": "Davyd-Haradok",
+    "admin": "Brestskaya Voblasts’",
+    "sort": "5919"
+  }
+]

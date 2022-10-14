@@ -1,0 +1,442 @@
+[
+  {
+    "city": "Tunis",
+    "admin": "Tunis",
+    "sort": "1056247"
+  },
+  {
+    "city": "Sidi Bouzid",
+    "admin": "Sidi Bouzid",
+    "sort": "429912"
+  },
+  {
+    "city": "Sfax",
+    "admin": "Sfax",
+    "sort": "272801"
+  },
+  {
+    "city": "Sousse",
+    "admin": "Sousse",
+    "sort": "221530"
+  },
+  {
+    "city": "Kairouan",
+    "admin": "Kairouan",
+    "sort": "186653"
+  },
+  {
+    "city": "Métouia",
+    "admin": "Gabès",
+    "sort": "170000"
+  },
+  {
+    "city": "Kebili",
+    "admin": "Kébili",
+    "sort": "163257"
+  },
+  {
+    "city": "Bizerte",
+    "admin": "Bizerte",
+    "sort": "142966"
+  },
+  {
+    "city": "Gabès",
+    "admin": "Gabès",
+    "sort": "116323"
+  },
+  {
+    "city": "Ariana",
+    "admin": "L’Ariana",
+    "sort": "114486"
+  },
+  {
+    "city": "Jendouba",
+    "admin": "Jendouba",
+    "sort": "113116"
+  },
+  {
+    "city": "Gafsa",
+    "admin": "Gafsa",
+    "sort": "111170"
+  },
+  {
+    "city": "Msaken",
+    "admin": "Sousse",
+    "sort": "110000"
+  },
+  {
+    "city": "Medenine",
+    "admin": "Médenine",
+    "sort": "109409"
+  },
+  {
+    "city": "Kasserine",
+    "admin": "Kasserine",
+    "sort": "108794"
+  },
+  {
+    "city": "Béja",
+    "admin": "Béja",
+    "sort": "109299"
+  },
+  {
+    "city": "Monastir",
+    "admin": "Monastir",
+    "sort": "104535"
+  },
+  {
+    "city": "Radès",
+    "admin": "Ben Arous",
+    "sort": "97588"
+  },
+  {
+    "city": "La Marsa",
+    "admin": "Tunis",
+    "sort": "92987"
+  },
+  {
+    "city": "Tataouine",
+    "admin": "Tataouine",
+    "sort": "95775"
+  },
+  {
+    "city": "Ben Arous",
+    "admin": "Ben Arous",
+    "sort": "88322"
+  },
+  {
+    "city": "Le Bardo",
+    "admin": "Tunis",
+    "sort": "73953"
+  },
+  {
+    "city": "Le Kram",
+    "admin": "Tunis",
+    "sort": "74132"
+  },
+  {
+    "city": "Mahdia",
+    "admin": "Mahdia",
+    "sort": "79545"
+  },
+  {
+    "city": "Fouchana",
+    "admin": "Ben Arous",
+    "sort": "74868"
+  },
+  {
+    "city": "Nabeul",
+    "admin": "Nabeul",
+    "sort": "73128"
+  },
+  {
+    "city": "El Kef",
+    "admin": "Kef",
+    "sort": "73706"
+  },
+  {
+    "city": "Manouba",
+    "admin": "Manouba",
+    "sort": "58792"
+  },
+  {
+    "city": "Hammam-Lif",
+    "admin": "Ben Arous",
+    "sort": "42518"
+  },
+  {
+    "city": "Hammam Sousse",
+    "admin": "Sousse",
+    "sort": "42691"
+  },
+  {
+    "city": "Ez Zahra",
+    "admin": "Ben Arous",
+    "sort": "34962"
+  },
+  {
+    "city": "Tozeur",
+    "admin": "Tozeur",
+    "sort": "37365"
+  },
+  {
+    "city": "Mégrine",
+    "admin": "Ben Arous",
+    "sort": "26720"
+  },
+  {
+    "city": "Zaouiet Sousse",
+    "admin": "Sousse",
+    "sort": "25000"
+  },
+  {
+    "city": "Siliana",
+    "admin": "Siliana",
+    "sort": "26960"
+  },
+  {
+    "city": "Zaghouan",
+    "admin": "Zaghouan",
+    "sort": "20387"
+  },
+  {
+    "city": "Seïada",
+    "admin": "Monastir",
+    "sort": "12708"
+  },
+  {
+    "city": "Khunays",
+    "admin": "Monastir",
+    "sort": "10000"
+  },
+  {
+    "city": "Sidi Bou Saïd",
+    "admin": "Tunis",
+    "sort": "5873"
+  },
+  {
+    "city": "Hammamet",
+    "admin": "Nabeul",
+    "sort": "97579"
+  },
+  {
+    "city": "Sakiet ez Zit",
+    "admin": "Sfax",
+    "sort": "87512"
+  },
+  {
+    "city": "Zarzis",
+    "admin": "Médenine",
+    "sort": "80000"
+  },
+  {
+    "city": "Ben Gardane",
+    "admin": "Médenine",
+    "sort": "79912"
+  },
+  {
+    "city": "Houmt Souk",
+    "admin": "Médenine",
+    "sort": "75904"
+  },
+  {
+    "city": "El Hamma",
+    "admin": "Gabès",
+    "sort": "73512"
+  },
+  {
+    "city": "Djemmal",
+    "admin": "Monastir",
+    "sort": "70587"
+  },
+  {
+    "city": "Korba",
+    "admin": "Nabeul",
+    "sort": "68966"
+  },
+  {
+    "city": "Menzel Temime",
+    "admin": "Nabeul",
+    "sort": "65645"
+  },
+  {
+    "city": "Ghardimaou",
+    "admin": "Jendouba",
+    "sort": "64170"
+  },
+  {
+    "city": "Menzel Bourguiba",
+    "admin": "Bizerte",
+    "sort": "61919"
+  },
+  {
+    "city": "Kélibia",
+    "admin": "Nabeul",
+    "sort": "58491"
+  },
+  {
+    "city": "Rass el Djebel",
+    "admin": "Bizerte",
+    "sort": "58241"
+  },
+  {
+    "city": "El Jem",
+    "admin": "Mahdia",
+    "sort": "50611"
+  },
+  {
+    "city": "Tebourba",
+    "admin": "Manouba",
+    "sort": "50458"
+  },
+  {
+    "city": "Douz",
+    "admin": "Kébili",
+    "sort": "47182"
+  },
+  {
+    "city": "Sbiba",
+    "admin": "Kasserine",
+    "sort": "42091"
+  },
+  {
+    "city": "Sejenane",
+    "admin": "Bizerte",
+    "sort": "40166"
+  },
+  {
+    "city": "Dar Chabanne",
+    "admin": "Nabeul",
+    "sort": "35859"
+  },
+  {
+    "city": "Akouda",
+    "admin": "Sousse",
+    "sort": "34494"
+  },
+  {
+    "city": "Aïne Draham",
+    "admin": "Jendouba",
+    "sort": "35400"
+  },
+  {
+    "city": "Bou Salem",
+    "admin": "Jendouba",
+    "sort": "35192"
+  },
+  {
+    "city": "Skhira",
+    "admin": "Sfax",
+    "sort": "34511"
+  },
+  {
+    "city": "Mateur",
+    "admin": "Bizerte",
+    "sort": "32546"
+  },
+  {
+    "city": "Rhennouch",
+    "admin": "Gabès",
+    "sort": "28051"
+  },
+  {
+    "city": "Dahmani",
+    "admin": "Kef",
+    "sort": "27907"
+  },
+  {
+    "city": "El Alia",
+    "admin": "Bizerte",
+    "sort": "27075"
+  },
+  {
+    "city": "Chebba",
+    "admin": "Mahdia",
+    "sort": "24515"
+  },
+  {
+    "city": "Feriana",
+    "admin": "Kasserine",
+    "sort": "24198"
+  },
+  {
+    "city": "El Maknassi",
+    "admin": "Sidi Bouzid",
+    "sort": "23789"
+  },
+  {
+    "city": "Ouardenine",
+    "admin": "Monastir",
+    "sort": "21814"
+  },
+  {
+    "city": "Nefta",
+    "admin": "Tozeur",
+    "sort": "21654"
+  },
+  {
+    "city": "Carthage",
+    "admin": "Tunis",
+    "sort": "21276"
+  },
+  {
+    "city": "Sbeitla",
+    "admin": "Kasserine",
+    "sort": "20253"
+  },
+  {
+    "city": "Rhar el Melah",
+    "admin": "Bizerte",
+    "sort": "19477"
+  },
+  {
+    "city": "Bekalta",
+    "admin": "Monastir",
+    "sort": "17850"
+  },
+  {
+    "city": "Tabarka",
+    "admin": "Jendouba",
+    "sort": "17425"
+  },
+  {
+    "city": "Ghomrassen",
+    "admin": "Tataouine",
+    "sort": "15957"
+  },
+  {
+    "city": "Thala",
+    "admin": "Kasserine",
+    "sort": "13968"
+  },
+  {
+    "city": "Maktar",
+    "admin": "Siliana",
+    "sort": "12942"
+  },
+  {
+    "city": "Wadhraf",
+    "admin": "Gabès",
+    "sort": "12557"
+  },
+  {
+    "city": "Agareb",
+    "admin": "Sfax",
+    "sort": "9610"
+  },
+  {
+    "city": "Harqalah",
+    "admin": "Sousse",
+    "sort": "9343"
+  },
+  {
+    "city": "El Metline",
+    "admin": "Bizerte",
+    "sort": "7370"
+  },
+  {
+    "city": "Degache",
+    "admin": "Tozeur",
+    "sort": "7893"
+  },
+  {
+    "city": "Jemna",
+    "admin": "Kébili",
+    "sort": "6128"
+  },
+  {
+    "city": "Thelepte",
+    "admin": "Kasserine",
+    "sort": "6046"
+  },
+  {
+    "city": "Zarat",
+    "admin": "Gabès",
+    "sort": "5205"
+  },
+  {
+    "city": "Dehiba",
+    "admin": "Tataouine",
+    "sort": "4295"
+  }
+]

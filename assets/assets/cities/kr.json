@@ -1,0 +1,387 @@
+[
+  {
+    "city": "Seoul",
+    "admin": "Seoul",
+    "sort": "22394000"
+  },
+  {
+    "city": "Busan",
+    "admin": "Busan",
+    "sort": "3453198"
+  },
+  {
+    "city": "Incheon",
+    "admin": "Incheon",
+    "sort": "2913024"
+  },
+  {
+    "city": "Daegu",
+    "admin": "Daegu",
+    "sort": "2461002"
+  },
+  {
+    "city": "Gwangju",
+    "admin": "Gwangju",
+    "sort": "1490092"
+  },
+  {
+    "city": "Daejeon",
+    "admin": "Daejeon",
+    "sort": "1475221"
+  },
+  {
+    "city": "Suwon",
+    "admin": "Gyeonggi",
+    "sort": "1234300"
+  },
+  {
+    "city": "Ulsan",
+    "admin": "Ulsan",
+    "sort": "1166033"
+  },
+  {
+    "city": "Goyang",
+    "admin": "Gyeonggi",
+    "sort": "1061929"
+  },
+  {
+    "city": "Changwon",
+    "admin": "Gyeongnam",
+    "sort": "1046054"
+  },
+  {
+    "city": "Sŏngnam",
+    "admin": "Gyeonggi",
+    "sort": "948757"
+  },
+  {
+    "city": "Bucheon",
+    "admin": "Gyeonggi",
+    "sort": "867678"
+  },
+  {
+    "city": "Cheongju",
+    "admin": "Chungbuk",
+    "sort": "833276"
+  },
+  {
+    "city": "Yanggok",
+    "admin": "Gyeonggi",
+    "sort": "713321"
+  },
+  {
+    "city": "Ansan",
+    "admin": "Gyeonggi",
+    "sort": "652800"
+  },
+  {
+    "city": "Hwasu-dong",
+    "admin": "Gyeonggi",
+    "sort": "655350"
+  },
+  {
+    "city": "Ch’ŏnan",
+    "admin": "Chungnam",
+    "sort": "651661"
+  },
+  {
+    "city": "Jeonju",
+    "admin": "Jeonbuk",
+    "sort": "631532"
+  },
+  {
+    "city": "Anyang",
+    "admin": "Gyeonggi",
+    "sort": "573296"
+  },
+  {
+    "city": "Pohang",
+    "admin": "Gyeongbuk",
+    "sort": "520305"
+  },
+  {
+    "city": "Pyeongtaek",
+    "admin": "Gyeonggi",
+    "sort": "457873"
+  },
+  {
+    "city": "Jeju",
+    "admin": "Jeju",
+    "sort": "435413"
+  },
+  {
+    "city": "Masan",
+    "admin": "Gyeongnam",
+    "sort": "429612"
+  },
+  {
+    "city": "Sihŭng",
+    "admin": "Gyeonggi",
+    "sort": "425184"
+  },
+  {
+    "city": "Uijeongbu",
+    "admin": "Gyeonggi",
+    "sort": "421579"
+  },
+  {
+    "city": "Paju",
+    "admin": "Gyeonggi",
+    "sort": "415345"
+  },
+  {
+    "city": "Gimpo",
+    "admin": "Gyeonggi",
+    "sort": "352683"
+  },
+  {
+    "city": "Yeosu",
+    "admin": "Jeonnam",
+    "sort": "341994"
+  },
+  {
+    "city": "Chinju",
+    "admin": "Gyeongnam",
+    "sort": "337230"
+  },
+  {
+    "city": "Wŏnju",
+    "admin": "Gangwon",
+    "sort": "330854"
+  },
+  {
+    "city": "Gwangmyeongni",
+    "admin": "Gyeonggi",
+    "sort": "318021"
+  },
+  {
+    "city": "Asan",
+    "admin": "Chungnam",
+    "sort": "319929"
+  },
+  {
+    "city": "Iksan",
+    "admin": "Jeonbuk",
+    "sort": "302310"
+  },
+  {
+    "city": "Yangsan",
+    "admin": "Gyeongnam",
+    "sort": "297532"
+  },
+  {
+    "city": "Kunp’o",
+    "admin": "Gyeonggi",
+    "sort": "285721"
+  },
+  {
+    "city": "Chuncheon",
+    "admin": "Gangwon",
+    "sort": "281596"
+  },
+  {
+    "city": "Gyeongsan",
+    "admin": "Gyeongbuk",
+    "sort": "278500"
+  },
+  {
+    "city": "Kunsan",
+    "admin": "Jeonbuk",
+    "sort": "275155"
+  },
+  {
+    "city": "Yeosu",
+    "admin": "Jeonnam",
+    "sort": "273761"
+  },
+  {
+    "city": "Suncheon",
+    "admin": "Jeonnam",
+    "sort": "265390"
+  },
+  {
+    "city": "Kyŏngju",
+    "admin": "Gyeongbuk",
+    "sort": "264091"
+  },
+  {
+    "city": "Mokpo",
+    "admin": "Jeonnam",
+    "sort": "239524"
+  },
+  {
+    "city": "Osan",
+    "admin": "Gyeonggi",
+    "sort": "213840"
+  },
+  {
+    "city": "Gangneung",
+    "admin": "Gangwon",
+    "sort": "215677"
+  },
+  {
+    "city": "Chungju",
+    "admin": "Chungbuk",
+    "sort": "211005"
+  },
+  {
+    "city": "Ich’ŏn",
+    "admin": "Gyeonggi",
+    "sort": "209003"
+  },
+  {
+    "city": "Anseong",
+    "admin": "Gyeonggi",
+    "sort": "194765"
+  },
+  {
+    "city": "Guri",
+    "admin": "Gyeonggi",
+    "sort": "180063"
+  },
+  {
+    "city": "Sŏsan",
+    "admin": "Chungnam",
+    "sort": "169221"
+  },
+  {
+    "city": "Pocheon",
+    "admin": "Gyeonggi",
+    "sort": "163388"
+  },
+  {
+    "city": "Andong",
+    "admin": "Gyeongbuk",
+    "sort": "162180"
+  },
+  {
+    "city": "Ŭiwang",
+    "admin": "Gyeonggi",
+    "sort": "154879"
+  },
+  {
+    "city": "Hanam",
+    "admin": "Gyeonggi",
+    "sort": "154838"
+  },
+  {
+    "city": "Seogwipo",
+    "admin": "Jeju",
+    "sort": "153861"
+  },
+  {
+    "city": "Gwangyang",
+    "admin": "Jeonnam",
+    "sort": "151834"
+  },
+  {
+    "city": "Ch’ungmu",
+    "admin": "Gyeongnam",
+    "sort": "137208"
+  },
+  {
+    "city": "Chech’ŏn",
+    "admin": "Chungbuk",
+    "sort": "136350"
+  },
+  {
+    "city": "Noksan",
+    "admin": "Chungnam",
+    "sort": "124246"
+  },
+  {
+    "city": "Sa-ch’on",
+    "admin": "Gyeongnam",
+    "sort": "113335"
+  },
+  {
+    "city": "Jeonghae",
+    "admin": "Jeonbuk",
+    "sort": "110194"
+  },
+  {
+    "city": "Yŏju",
+    "admin": "Gyeonggi",
+    "sort": "109937"
+  },
+  {
+    "city": "Yŏngju",
+    "admin": "Gyeongbuk",
+    "sort": "109266"
+  },
+  {
+    "city": "Miryang",
+    "admin": "Gyeongnam",
+    "sort": "103069"
+  },
+  {
+    "city": "Sangju",
+    "admin": "Gyeongbuk",
+    "sort": "102892"
+  },
+  {
+    "city": "Boryeong",
+    "admin": "Chungnam",
+    "sort": "101852"
+  },
+  {
+    "city": "Sejong",
+    "admin": "Sejong",
+    "sort": ""
+  },
+  {
+    "city": "Hongseong",
+    "admin": "Chungnam",
+    "sort": ""
+  },
+  {
+    "city": "Muan",
+    "admin": "Jeonnam",
+    "sort": ""
+  },
+  {
+    "city": "Dongducheon",
+    "admin": "Gyeonggi",
+    "sort": "97424"
+  },
+  {
+    "city": "Naju",
+    "admin": "Jeonnam",
+    "sort": "92582"
+  },
+  {
+    "city": "Sokcho",
+    "admin": "Gangwon",
+    "sort": "79846"
+  },
+  {
+    "city": "Mun’gyŏng",
+    "admin": "Gyeongbuk",
+    "sort": "71863"
+  },
+  {
+    "city": "Samch’ŏk",
+    "admin": "Gangwon",
+    "sort": "69509"
+  },
+  {
+    "city": "Gwacheon",
+    "admin": "Gyeonggi",
+    "sort": "64817"
+  },
+  {
+    "city": "Taebaek",
+    "admin": "Gangwon",
+    "sort": "46715"
+  },
+  {
+    "city": "Ulchin",
+    "admin": "Gyeongbuk",
+    "sort": "14426"
+  },
+  {
+    "city": "Eumseong",
+    "admin": "Chungbuk",
+    "sort": "10077"
+  }
+]

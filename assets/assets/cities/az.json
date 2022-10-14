@@ -1,0 +1,482 @@
+[
+  {
+    "city": "Baku",
+    "admin": "Bakı",
+    "sort": "2181800"
+  },
+  {
+    "city": "Sumqayıt",
+    "admin": "Sumqayıt",
+    "sort": "341200"
+  },
+  {
+    "city": "Gəncə",
+    "admin": "Gəncə",
+    "sort": "331400"
+  },
+  {
+    "city": "Mingəçevir",
+    "admin": "Mingəçevir",
+    "sort": "98800"
+  },
+  {
+    "city": "Xırdalan",
+    "admin": "Abşeron",
+    "sort": "95200"
+  },
+  {
+    "city": "Naxçıvan",
+    "admin": "Naxçıvan",
+    "sort": "74500"
+  },
+  {
+    "city": "Şirvan",
+    "admin": "Şirvan",
+    "sort": "70684"
+  },
+  {
+    "city": "Şəki",
+    "admin": "Şəki",
+    "sort": "68360"
+  },
+  {
+    "city": "Yevlax",
+    "admin": "Yevlax",
+    "sort": "59036"
+  },
+  {
+    "city": "M.Ə. Rəsulzadə",
+    "admin": "Bakı",
+    "sort": "51800"
+  },
+  {
+    "city": "Lənkəran",
+    "admin": "Lənkəran",
+    "sort": "51300"
+  },
+  {
+    "city": "Şəmkir",
+    "admin": "Şəmkir",
+    "sort": "40600"
+  },
+  {
+    "city": "Xaçmaz",
+    "admin": "Xaçmaz",
+    "sort": "39900"
+  },
+  {
+    "city": "Ağcabədi",
+    "admin": "Ağcabədi",
+    "sort": "39200"
+  },
+  {
+    "city": "Bərdə",
+    "admin": "Bərdə",
+    "sort": "38500"
+  },
+  {
+    "city": "Göyçay",
+    "admin": "Göyçay",
+    "sort": "36200"
+  },
+  {
+    "city": "Zaqatala",
+    "admin": "Zaqatala",
+    "sort": "31300"
+  },
+  {
+    "city": "İmişli",
+    "admin": "İmişli",
+    "sort": "31310"
+  },
+  {
+    "city": "Salyan",
+    "admin": "Salyan",
+    "sort": "30396"
+  },
+  {
+    "city": "Ağdaş",
+    "admin": "Ağdaş",
+    "sort": "29600"
+  },
+  {
+    "city": "Cəlilabad",
+    "admin": "Cəlilabad",
+    "sort": "25846"
+  },
+  {
+    "city": "Hacı Zeynalabdin",
+    "admin": "Sumqayıt",
+    "sort": "22000"
+  },
+  {
+    "city": "Biləsuvar",
+    "admin": "Biləsuvar",
+    "sort": "22800"
+  },
+  {
+    "city": "Quba",
+    "admin": "Quba",
+    "sort": "20791"
+  },
+  {
+    "city": "İsmayıllı",
+    "admin": "İsmayıllı",
+    "sort": "20660"
+  },
+  {
+    "city": "Ağsu",
+    "admin": "Ağsu",
+    "sort": "20200"
+  },
+  {
+    "city": "Ağstafa",
+    "admin": "Ağstafa",
+    "sort": "20200"
+  },
+  {
+    "city": "Əhmədli",
+    "admin": "Bakı",
+    "sort": "10974"
+  },
+  {
+    "city": "Siyəzən",
+    "admin": "Siyəzən",
+    "sort": "18655"
+  },
+  {
+    "city": "Sabirabad",
+    "admin": "Sabirabad",
+    "sort": "18612"
+  },
+  {
+    "city": "Saatlı",
+    "admin": "Saatlı",
+    "sort": "17900"
+  },
+  {
+    "city": "Füzuli",
+    "admin": "Füzuli",
+    "sort": "17500"
+  },
+  {
+    "city": "Astara",
+    "admin": "Astara",
+    "sort": "16800"
+  },
+  {
+    "city": "Kürdəmir",
+    "admin": "Kürdəmir",
+    "sort": "15385"
+  },
+  {
+    "city": "Masallı",
+    "admin": "Masallı",
+    "sort": "14746"
+  },
+  {
+    "city": "Ucar",
+    "admin": "Ucar",
+    "sort": "14273"
+  },
+  {
+    "city": "Neftçala",
+    "admin": "Neftçala",
+    "sort": "14241"
+  },
+  {
+    "city": "Qusar",
+    "admin": "Qusar",
+    "sort": "14230"
+  },
+  {
+    "city": "Tovuz",
+    "admin": "Tovuz",
+    "sort": "13700"
+  },
+  {
+    "city": "Tərtər",
+    "admin": "Tərtər",
+    "sort": "12563"
+  },
+  {
+    "city": "Culfa",
+    "admin": "Culfa",
+    "sort": "12500"
+  },
+  {
+    "city": "Beyləqan",
+    "admin": "Beyləqan",
+    "sort": "12263"
+  },
+  {
+    "city": "Qax",
+    "admin": "Qax",
+    "sort": "11415"
+  },
+  {
+    "city": "Daşkəsən",
+    "admin": "Daşkəsən",
+    "sort": "10700"
+  },
+  {
+    "city": "Ordubad",
+    "admin": "Ordubad",
+    "sort": "10372"
+  },
+  {
+    "city": "Naftalan",
+    "admin": "Naftalan",
+    "sort": "10100"
+  },
+  {
+    "city": "Samux",
+    "admin": "Samux",
+    "sort": "10228"
+  },
+  {
+    "city": "Gədəbəy",
+    "admin": "Gədəbəy",
+    "sort": "8657"
+  },
+  {
+    "city": "Zərdab",
+    "admin": "Zərdab",
+    "sort": "8450"
+  },
+  {
+    "city": "Balakən",
+    "admin": "Balakən",
+    "sort": "8134"
+  },
+  {
+    "city": "Yardımlı",
+    "admin": "Yardımlı",
+    "sort": "7623"
+  },
+  {
+    "city": "Goranboy",
+    "admin": "Goranboy",
+    "sort": "7400"
+  },
+  {
+    "city": "Lerik",
+    "admin": "Lerik",
+    "sort": "7301"
+  },
+  {
+    "city": "Oğuz",
+    "admin": "Oğuz",
+    "sort": "6876"
+  },
+  {
+    "city": "Cəbrayıl",
+    "admin": "Cəbrayıl",
+    "sort": "6070"
+  },
+  {
+    "city": "Babək",
+    "admin": "Babək",
+    "sort": "5600"
+  },
+  {
+    "city": "Şuşa",
+    "admin": "Şuşa",
+    "sort": "4446"
+  },
+  {
+    "city": "Ağdam",
+    "admin": "Ağdam",
+    "sort": "3770"
+  },
+  {
+    "city": "Şahbuz",
+    "admin": "Şahbuz",
+    "sort": "3127"
+  },
+  {
+    "city": "Laçın",
+    "admin": "Laçın",
+    "sort": "2190"
+  },
+  {
+    "city": "Xocalı",
+    "admin": "Xocalı",
+    "sort": "1397"
+  },
+  {
+    "city": "Qubadlı",
+    "admin": "Qubadlı",
+    "sort": "672"
+  },
+  {
+    "city": "Heydərabad",
+    "admin": "Sədərək",
+    "sort": ""
+  },
+  {
+    "city": "Qazax",
+    "admin": "Qazax",
+    "sort": ""
+  },
+  {
+    "city": "Şərur",
+    "admin": "Şərur",
+    "sort": ""
+  },
+  {
+    "city": "Qəbələ",
+    "admin": "Qəbələ",
+    "sort": ""
+  },
+  {
+    "city": "Göygöl",
+    "admin": "Göygöl",
+    "sort": ""
+  },
+  {
+    "city": "Dəvəçi",
+    "admin": "Şabran",
+    "sort": ""
+  },
+  {
+    "city": "Qıvraq",
+    "admin": "Kəngərli",
+    "sort": ""
+  },
+  {
+    "city": "Hacıqabul",
+    "admin": "Hacıqabul",
+    "sort": ""
+  },
+  {
+    "city": "Kəlbəcər",
+    "admin": "Kəlbəcər",
+    "sort": ""
+  },
+  {
+    "city": "Qobustan",
+    "admin": "Qobustan",
+    "sort": ""
+  },
+  {
+    "city": "Xocavənd",
+    "admin": "Xocavənd",
+    "sort": ""
+  },
+  {
+    "city": "Xızı",
+    "admin": "Xızı",
+    "sort": ""
+  },
+  {
+    "city": "Qaraçuxur",
+    "admin": "Bakı",
+    "sort": "85900"
+  },
+  {
+    "city": "Bakıxanov",
+    "admin": "Bakı",
+    "sort": "71600"
+  },
+  {
+    "city": "Xankəndi",
+    "admin": "Xankəndi",
+    "sort": "49848"
+  },
+  {
+    "city": "Maştağa",
+    "admin": "Bakı",
+    "sort": "43700"
+  },
+  {
+    "city": "Qəzyan",
+    "admin": "Qubadlı",
+    "sort": "42288"
+  },
+  {
+    "city": "Lökbatan",
+    "admin": "Bakı",
+    "sort": "35523"
+  },
+  {
+    "city": "Buzovna",
+    "admin": "Bakı",
+    "sort": "31500"
+  },
+  {
+    "city": "Əmircan",
+    "admin": "Bakı",
+    "sort": "29800"
+  },
+  {
+    "city": "Şamaxı",
+    "admin": "Şamaxı",
+    "sort": "24681"
+  },
+  {
+    "city": "Corat",
+    "admin": "Sumqayıt",
+    "sort": "12900"
+  },
+  {
+    "city": "Pirallahı",
+    "admin": "Bakı",
+    "sort": "13583"
+  },
+  {
+    "city": "Ələt",
+    "admin": "Bakı",
+    "sort": "12600"
+  },
+  {
+    "city": "Qazmalar",
+    "admin": "Qəbələ",
+    "sort": "11867"
+  },
+  {
+    "city": "Xudat",
+    "admin": "Xaçmaz",
+    "sort": "10894"
+  },
+  {
+    "city": "Qovlar",
+    "admin": "Tovuz",
+    "sort": "10130"
+  },
+  {
+    "city": "Göytəpə",
+    "admin": "Cəlilabad",
+    "sort": "10067"
+  },
+  {
+    "city": "Aşağı Ayıblı",
+    "admin": "Tovuz",
+    "sort": "9983"
+  },
+  {
+    "city": "Liman",
+    "admin": "Lənkəran",
+    "sort": "8661"
+  },
+  {
+    "city": "Xaçmaz",
+    "admin": "Oğuz",
+    "sort": "6954"
+  },
+  {
+    "city": "Xındırıstan",
+    "admin": "Ağdam",
+    "sort": "6502"
+  },
+  {
+    "city": "Kiş",
+    "admin": "Şəki",
+    "sort": "6244"
+  },
+  {
+    "city": "Ağdam",
+    "admin": "Tovuz",
+    "sort": "0"
+  }
+]

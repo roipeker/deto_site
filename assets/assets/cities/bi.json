@@ -1,0 +1,97 @@
+[
+  {
+    "city": "Bujumbura",
+    "admin": "Bujumbura Mairie",
+    "sort": "658859"
+  },
+  {
+    "city": "Gitega",
+    "admin": "Gitega",
+    "sort": "41944"
+  },
+  {
+    "city": "Ngozi",
+    "admin": "Ngozi",
+    "sort": "39884"
+  },
+  {
+    "city": "Kayanza",
+    "admin": "Kayanza",
+    "sort": "21767"
+  },
+  {
+    "city": "Bubanza",
+    "admin": "Bubanza",
+    "sort": "20031"
+  },
+  {
+    "city": "Karuzi",
+    "admin": "Karuzi",
+    "sort": "10705"
+  },
+  {
+    "city": "Kirundo",
+    "admin": "Kirundo",
+    "sort": "10024"
+  },
+  {
+    "city": "Muyinga",
+    "admin": "Muyinga",
+    "sort": "9609"
+  },
+  {
+    "city": "Makamba",
+    "admin": "Makamba",
+    "sort": "9396"
+  },
+  {
+    "city": "Ruyigi",
+    "admin": "Ruyigi",
+    "sort": "7139"
+  },
+  {
+    "city": "Rutana",
+    "admin": "Rutana",
+    "sort": "5865"
+  },
+  {
+    "city": "Muramvya",
+    "admin": "Muramvya",
+    "sort": "5458"
+  },
+  {
+    "city": "Bururi",
+    "admin": "Bururi",
+    "sort": "4478"
+  },
+  {
+    "city": "Cankuzo",
+    "admin": "Cankuzo",
+    "sort": "3624"
+  },
+  {
+    "city": "Isale",
+    "admin": "Bujumbura Rural",
+    "sort": ""
+  },
+  {
+    "city": "Rumonge",
+    "admin": "Rumonge",
+    "sort": ""
+  },
+  {
+    "city": "Cibitoke",
+    "admin": "Cibitoke",
+    "sort": ""
+  },
+  {
+    "city": "Gitega",
+    "admin": "Mwaro",
+    "sort": "23167"
+  },
+  {
+    "city": "Gatumba",
+    "admin": "Bujumbura Rural",
+    "sort": "11700"
+  }
+]

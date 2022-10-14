@@ -1,0 +1,312 @@
+[
+  {
+    "city": "Vilnius",
+    "admin": "Vilniaus Miestas",
+    "sort": "574147"
+  },
+  {
+    "city": "Kaunas",
+    "admin": "Kauno Miestas",
+    "sort": "288466"
+  },
+  {
+    "city": "Klaipėda",
+    "admin": "Klaipėdos Miestas",
+    "sort": "164310"
+  },
+  {
+    "city": "Šiauliai",
+    "admin": "Šiaulių Miestas",
+    "sort": "107086"
+  },
+  {
+    "city": "Panevėžys",
+    "admin": "Panevėžio Miestas",
+    "sort": "91054"
+  },
+  {
+    "city": "Alytus",
+    "admin": "Alytaus Miestas",
+    "sort": "49888"
+  },
+  {
+    "city": "Marijampolė",
+    "admin": "Marijampolė",
+    "sort": "34968"
+  },
+  {
+    "city": "Mažeikiai",
+    "admin": "Mažeikiai",
+    "sort": "32477"
+  },
+  {
+    "city": "Utena",
+    "admin": "Utena",
+    "sort": "26491"
+  },
+  {
+    "city": "Jonava",
+    "admin": "Jonava",
+    "sort": "26427"
+  },
+  {
+    "city": "Kėdainiai",
+    "admin": "Kėdainiai",
+    "sort": "22682"
+  },
+  {
+    "city": "Telšiai",
+    "admin": "Telšiai",
+    "sort": "22039"
+  },
+  {
+    "city": "Tauragė",
+    "admin": "Tauragė",
+    "sort": "21516"
+  },
+  {
+    "city": "Ukmergė",
+    "admin": "Ukmergė",
+    "sort": "21226"
+  },
+  {
+    "city": "Visaginas",
+    "admin": "Visaginas",
+    "sort": "18514"
+  },
+  {
+    "city": "Plungė",
+    "admin": "Plungė",
+    "sort": "16750"
+  },
+  {
+    "city": "Kretinga",
+    "admin": "Kretinga",
+    "sort": "16580"
+  },
+  {
+    "city": "Šilutė",
+    "admin": "Šilutė",
+    "sort": "15902"
+  },
+  {
+    "city": "Palanga",
+    "admin": "Palangos Miestas",
+    "sort": "15381"
+  },
+  {
+    "city": "Radviliškis",
+    "admin": "Radviliškis",
+    "sort": "15275"
+  },
+  {
+    "city": "Rokiškis",
+    "admin": "Rokiškis",
+    "sort": "12738"
+  },
+  {
+    "city": "Druskininkai",
+    "admin": "Druskininkai",
+    "sort": "12055"
+  },
+  {
+    "city": "Elektrėnai",
+    "admin": "Elektrénai",
+    "sort": "11588"
+  },
+  {
+    "city": "Biržai",
+    "admin": "Biržai",
+    "sort": "10146"
+  },
+  {
+    "city": "Jurbarkas",
+    "admin": "Jurbarkas",
+    "sort": "9711"
+  },
+  {
+    "city": "Vilkaviškis",
+    "admin": "Vilkaviškis",
+    "sort": "9444"
+  },
+  {
+    "city": "Joniškis",
+    "admin": "Joniškis",
+    "sort": "8757"
+  },
+  {
+    "city": "Anykščiai",
+    "admin": "Anykščiai",
+    "sort": "8491"
+  },
+  {
+    "city": "Varėna",
+    "admin": "Varėna",
+    "sort": "8477"
+  },
+  {
+    "city": "Prienai",
+    "admin": "Prienai",
+    "sort": "8451"
+  },
+  {
+    "city": "Kelmė",
+    "admin": "Kelmė",
+    "sort": "7499"
+  },
+  {
+    "city": "Naujoji Akmenė",
+    "admin": "Akmenė",
+    "sort": "7194"
+  },
+  {
+    "city": "Šalčininkai",
+    "admin": "Šalčininkai",
+    "sort": "6715"
+  },
+  {
+    "city": "Pasvalys",
+    "admin": "Pasvalys",
+    "sort": "6361"
+  },
+  {
+    "city": "Zarasai",
+    "admin": "Zarasai",
+    "sort": "6051"
+  },
+  {
+    "city": "Kupiškis",
+    "admin": "Kupiškis",
+    "sort": "5907"
+  },
+  {
+    "city": "Kazlų Rūda",
+    "admin": "Kazlų Rūdos",
+    "sort": "5539"
+  },
+  {
+    "city": "Molėtai",
+    "admin": "Molėtai",
+    "sort": "5497"
+  },
+  {
+    "city": "Skuodas",
+    "admin": "Skuodas",
+    "sort": "5083"
+  },
+  {
+    "city": "Šakiai",
+    "admin": "Šakiai",
+    "sort": "4998"
+  },
+  {
+    "city": "Šilalė",
+    "admin": "Šilalė",
+    "sort": "4640"
+  },
+  {
+    "city": "Trakai",
+    "admin": "Trakai",
+    "sort": "4430"
+  },
+  {
+    "city": "Pakruojis",
+    "admin": "Pakruojis",
+    "sort": "4352"
+  },
+  {
+    "city": "Švenčionys",
+    "admin": "Švenčionys",
+    "sort": "4065"
+  },
+  {
+    "city": "Kalvarija",
+    "admin": "Kalvarijos",
+    "sort": "3766"
+  },
+  {
+    "city": "Lazdijai",
+    "admin": "Lazdijai",
+    "sort": "3629"
+  },
+  {
+    "city": "Rietavas",
+    "admin": "Rietavo",
+    "sort": "3149"
+  },
+  {
+    "city": "Nida",
+    "admin": "Neringa",
+    "sort": "2385"
+  },
+  {
+    "city": "Birštonas",
+    "admin": "Birštono",
+    "sort": "2331"
+  },
+  {
+    "city": "Širvintos",
+    "admin": "Širvintos",
+    "sort": "744"
+  },
+  {
+    "city": "Pagėgiai",
+    "admin": "Pagégiai",
+    "sort": "57"
+  },
+  {
+    "city": "Kaišiadorys",
+    "admin": "Kaišiadorys",
+    "sort": ""
+  },
+  {
+    "city": "Raseiniai",
+    "admin": "Raseiniai",
+    "sort": ""
+  },
+  {
+    "city": "Ignalina",
+    "admin": "Ignalina",
+    "sort": ""
+  },
+  {
+    "city": "Gargždai",
+    "admin": "Klaipėda",
+    "sort": "14402"
+  },
+  {
+    "city": "Kuršėnai",
+    "admin": "Šiauliai",
+    "sort": "10829"
+  },
+  {
+    "city": "Grigiškės",
+    "admin": "Vilniaus Miestas",
+    "sort": "10815"
+  },
+  {
+    "city": "Likiškiai",
+    "admin": "Alytus",
+    "sort": "10489"
+  },
+  {
+    "city": "Lentvaris",
+    "admin": "Trakai",
+    "sort": "10000"
+  },
+  {
+    "city": "Garliava",
+    "admin": "Kaunas",
+    "sort": "9873"
+  },
+  {
+    "city": "Pabradė",
+    "admin": "Švenčionys",
+    "sort": "5339"
+  },
+  {
+    "city": "Domeikava",
+    "admin": "Kaunas",
+    "sort": "5006"
+  }
+]

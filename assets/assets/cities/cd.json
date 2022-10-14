@@ -1,0 +1,452 @@
+[
+  {
+    "city": "Kinshasa",
+    "admin": "Kinshasa",
+    "sort": "15056000"
+  },
+  {
+    "city": "Kananga",
+    "admin": "Kasaï Central",
+    "sort": "1971704"
+  },
+  {
+    "city": "Lubumbashi",
+    "admin": "Haut-Katanga",
+    "sort": "1786397"
+  },
+  {
+    "city": "Mbuji-Mayi",
+    "admin": "Kasaï Oriental",
+    "sort": "1559073"
+  },
+  {
+    "city": "Kisangani",
+    "admin": "Tshopo",
+    "sort": "935977"
+  },
+  {
+    "city": "Kikwit",
+    "admin": "Kwilu",
+    "sort": "637736"
+  },
+  {
+    "city": "Bukavu",
+    "admin": "Sud-Kivu",
+    "sort": "436779"
+  },
+  {
+    "city": "Likasi",
+    "admin": "Haut-Katanga",
+    "sort": "422535"
+  },
+  {
+    "city": "Kolwezi",
+    "admin": "Lualaba",
+    "sort": "418000"
+  },
+  {
+    "city": "Beni",
+    "admin": "Nord-Kivu",
+    "sort": "332903"
+  },
+  {
+    "city": "Matadi",
+    "admin": "Kongo Central",
+    "sort": "306053"
+  },
+  {
+    "city": "Mbandaka",
+    "admin": "Équateur",
+    "sort": "274996"
+  },
+  {
+    "city": "Tshikapa",
+    "admin": "Kasaï",
+    "sort": "267462"
+  },
+  {
+    "city": "Goma",
+    "admin": "Nord-Kivu",
+    "sort": "249862"
+  },
+  {
+    "city": "Butembo",
+    "admin": "Nord-Kivu",
+    "sort": "217625"
+  },
+  {
+    "city": "Kalemie",
+    "admin": "Tanganyika",
+    "sort": "206257"
+  },
+  {
+    "city": "Gemena",
+    "admin": "Sud-Ubangi",
+    "sort": "198056"
+  },
+  {
+    "city": "Mbanza-Ngungu",
+    "admin": "Kongo Central",
+    "sort": "197545"
+  },
+  {
+    "city": "Mwene-Ditu",
+    "admin": "Lomami",
+    "sort": "189177"
+  },
+  {
+    "city": "Boma",
+    "admin": "Kongo Central",
+    "sort": "178638"
+  },
+  {
+    "city": "Kindu",
+    "admin": "Maniema",
+    "sort": "172321"
+  },
+  {
+    "city": "Uvira",
+    "admin": "Sud-Kivu",
+    "sort": "170391"
+  },
+  {
+    "city": "Isiro",
+    "admin": "Haut-Uélé",
+    "sort": "157196"
+  },
+  {
+    "city": "Gandajika",
+    "admin": "Lomami",
+    "sort": "154425"
+  },
+  {
+    "city": "Moanda",
+    "admin": "Kongo Central",
+    "sort": "153915"
+  },
+  {
+    "city": "Wamba",
+    "admin": "Haut-Uélé",
+    "sort": "146871"
+  },
+  {
+    "city": "Kamina",
+    "admin": "Haut-Lomami",
+    "sort": "128803"
+  },
+  {
+    "city": "Bandundu",
+    "admin": "Kwilu",
+    "sort": "118211"
+  },
+  {
+    "city": "Kipushi",
+    "admin": "Haut-Katanga",
+    "sort": "113347"
+  },
+  {
+    "city": "Ilebo",
+    "admin": "Kasaï",
+    "sort": "107093"
+  },
+  {
+    "city": "Kongolo",
+    "admin": "Tanganyika",
+    "sort": "105202"
+  },
+  {
+    "city": "Bumba",
+    "admin": "Mongala",
+    "sort": "103328"
+  },
+  {
+    "city": "Bunia",
+    "admin": "Ituri",
+    "sort": "96764"
+  },
+  {
+    "city": "Lisala",
+    "admin": "Mongala",
+    "sort": "79235"
+  },
+  {
+    "city": "Kabinda",
+    "admin": "Lomami",
+    "sort": "59004"
+  },
+  {
+    "city": "Gbadolite",
+    "admin": "Nord-Ubangi",
+    "sort": "50493"
+  },
+  {
+    "city": "Buta",
+    "admin": "Bas-Uélé",
+    "sort": "45677"
+  },
+  {
+    "city": "Lusambo",
+    "admin": "Sankuru",
+    "sort": "41416"
+  },
+  {
+    "city": "Inongo",
+    "admin": "Mai-Ndombe",
+    "sort": "40113"
+  },
+  {
+    "city": "Luebo",
+    "admin": "Kasaï",
+    "sort": "35183"
+  },
+  {
+    "city": "Boende",
+    "admin": "Tshuapa",
+    "sort": "32091"
+  },
+  {
+    "city": "Kenge",
+    "admin": "Kwango",
+    "sort": "241"
+  },
+  {
+    "city": "Lodja",
+    "admin": "Sankuru",
+    "sort": "68244"
+  },
+  {
+    "city": "Binga",
+    "admin": "Mongala",
+    "sort": "64639"
+  },
+  {
+    "city": "Kasongo",
+    "admin": "Maniema",
+    "sort": "63000"
+  },
+  {
+    "city": "Idiofa",
+    "admin": "Kwilu",
+    "sort": "61056"
+  },
+  {
+    "city": "Aketi",
+    "admin": "Bas-Uélé",
+    "sort": "58601"
+  },
+  {
+    "city": "Basankusu",
+    "admin": "Équateur",
+    "sort": "52216"
+  },
+  {
+    "city": "Mulongo",
+    "admin": "Haut-Lomami",
+    "sort": "51603"
+  },
+  {
+    "city": "Mweka",
+    "admin": "Kasaï",
+    "sort": "50675"
+  },
+  {
+    "city": "Kahemba",
+    "admin": "Kwango",
+    "sort": "50000"
+  },
+  {
+    "city": "Bulungu",
+    "admin": "Kwilu",
+    "sort": "48344"
+  },
+  {
+    "city": "Manono",
+    "admin": "Tanganyika",
+    "sort": "46111"
+  },
+  {
+    "city": "Basoko",
+    "admin": "Tshopo",
+    "sort": "43709"
+  },
+  {
+    "city": "Lubao",
+    "admin": "Lomami",
+    "sort": "43068"
+  },
+  {
+    "city": "Tshela",
+    "admin": "Kongo Central",
+    "sort": "38845"
+  },
+  {
+    "city": "Bukama",
+    "admin": "Haut-Lomami",
+    "sort": "38770"
+  },
+  {
+    "city": "Mangai",
+    "admin": "Kwilu",
+    "sort": "37188"
+  },
+  {
+    "city": "Kampene",
+    "admin": "Maniema",
+    "sort": "37034"
+  },
+  {
+    "city": "Kambove",
+    "admin": "Haut-Katanga",
+    "sort": "36702"
+  },
+  {
+    "city": "Kaniama",
+    "admin": "Haut-Lomami",
+    "sort": "36481"
+  },
+  {
+    "city": "Yangambi",
+    "admin": "Tshopo",
+    "sort": "35531"
+  },
+  {
+    "city": "Businga",
+    "admin": "Nord-Ubangi",
+    "sort": "34247"
+  },
+  {
+    "city": "Mushie",
+    "admin": "Mai-Ndombe",
+    "sort": "33062"
+  },
+  {
+    "city": "Kabalo",
+    "admin": "Tanganyika",
+    "sort": "29833"
+  },
+  {
+    "city": "Kasangulu",
+    "admin": "Kongo Central",
+    "sort": "27961"
+  },
+  {
+    "city": "Bolobo",
+    "admin": "Mai-Ndombe",
+    "sort": "27862"
+  },
+  {
+    "city": "Libenge",
+    "admin": "Sud-Ubangi",
+    "sort": "27053"
+  },
+  {
+    "city": "Watsa",
+    "admin": "Haut-Uélé",
+    "sort": "24516"
+  },
+  {
+    "city": "Bondo",
+    "admin": "Bas-Uélé",
+    "sort": "23517"
+  },
+  {
+    "city": "Demba",
+    "admin": "Kasaï Central",
+    "sort": "22263"
+  },
+  {
+    "city": "Kasongo-Lunda",
+    "admin": "Kwango",
+    "sort": "20060"
+  },
+  {
+    "city": "Zongo",
+    "admin": "Sud-Ubangi",
+    "sort": "17667"
+  },
+  {
+    "city": "Nyunzu",
+    "admin": "Tanganyika",
+    "sort": "15397"
+  },
+  {
+    "city": "Bosobolo",
+    "admin": "Nord-Ubangi",
+    "sort": "14553"
+  },
+  {
+    "city": "Kasaji",
+    "admin": "Lualaba",
+    "sort": "11969"
+  },
+  {
+    "city": "Kimpese",
+    "admin": "Kongo Central",
+    "sort": "10578"
+  },
+  {
+    "city": "Moba",
+    "admin": "Tanganyika",
+    "sort": "10006"
+  },
+  {
+    "city": "Dilolo",
+    "admin": "Lualaba",
+    "sort": "7854"
+  },
+  {
+    "city": "Mangbwalu",
+    "admin": "Ituri",
+    "sort": "2819"
+  },
+  {
+    "city": "Ikela",
+    "admin": "Tshuapa",
+    "sort": "291"
+  },
+  {
+    "city": "Bongandanga",
+    "admin": "Mongala",
+    "sort": "4105"
+  },
+  {
+    "city": "Mwenga",
+    "admin": "Sud-Kivu",
+    "sort": "2216"
+  },
+  {
+    "city": "Lubutu",
+    "admin": "Maniema",
+    "sort": "1313"
+  },
+  {
+    "city": "Buluko",
+    "admin": "Nord-Kivu",
+    "sort": "1192"
+  },
+  {
+    "city": "Luanza",
+    "admin": "Haut-Katanga",
+    "sort": "861"
+  },
+  {
+    "city": "Dibaya",
+    "admin": "Kasaï Central",
+    "sort": "603"
+  },
+  {
+    "city": "Kalima",
+    "admin": "Maniema",
+    "sort": "194"
+  },
+  {
+    "city": "Lusanga",
+    "admin": "Kwango",
+    "sort": "177"
+  },
+  {
+    "city": "Bafwasende",
+    "admin": "Tshopo",
+    "sort": "149"
+  }
+]

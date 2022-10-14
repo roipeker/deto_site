@@ -1,0 +1,92 @@
+[
+  {
+    "city": "Port of Spain",
+    "admin": "Port of Spain",
+    "sort": "37074"
+  },
+  {
+    "city": "Chaguanas",
+    "admin": "Chaguanas",
+    "sort": "83489"
+  },
+  {
+    "city": "San Fernando",
+    "admin": "San Fernando",
+    "sort": "55419"
+  },
+  {
+    "city": "Couva",
+    "admin": "Couva/Tabaquite/Talparo",
+    "sort": "48858"
+  },
+  {
+    "city": "Tunapuna",
+    "admin": "Tunapuna/Piarco",
+    "sort": "17650"
+  },
+  {
+    "city": "Siparia",
+    "admin": "Siparia",
+    "sort": "10254"
+  },
+  {
+    "city": "Arima",
+    "admin": "Arima",
+    "sort": ""
+  },
+  {
+    "city": "Scarborough",
+    "admin": "Tobago",
+    "sort": ""
+  },
+  {
+    "city": "Diego Martin",
+    "admin": "Diego Martin",
+    "sort": ""
+  },
+  {
+    "city": "Point Fortin",
+    "admin": "Point Fortin",
+    "sort": ""
+  },
+  {
+    "city": "Aranguez",
+    "admin": "San Juan/Laventille",
+    "sort": ""
+  },
+  {
+    "city": "Debe",
+    "admin": "Penal/Debe",
+    "sort": ""
+  },
+  {
+    "city": "Princes Town",
+    "admin": "Princes Town",
+    "sort": ""
+  },
+  {
+    "city": "Sangre Grande",
+    "admin": "Sangre Grande",
+    "sort": ""
+  },
+  {
+    "city": "Rio Claro",
+    "admin": "Mayaro/Rio Claro",
+    "sort": ""
+  },
+  {
+    "city": "Laventille",
+    "admin": "San Juan/Laventille",
+    "sort": "21454"
+  },
+  {
+    "city": "Saint Joseph",
+    "admin": "Tunapuna/Piarco",
+    "sort": "14376"
+  },
+  {
+    "city": "San Juan",
+    "admin": "San Juan/Laventille",
+    "sort": "13797"
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "city": "Montevideo",
+    "admin": "Montevideo",
+    "sort": "1319108"
+  },
+  {
+    "city": "Salto",
+    "admin": "Salto",
+    "sort": "124878"
+  },
+  {
+    "city": "Ciudad de la Costa",
+    "admin": "Canelones",
+    "sort": "112449"
+  },
+  {
+    "city": "Maldonado",
+    "admin": "Maldonado",
+    "sort": "86782"
+  },
+  {
+    "city": "Paysandú",
+    "admin": "Paysandú",
+    "sort": "76429"
+  },
+  {
+    "city": "Las Piedras",
+    "admin": "Canelones",
+    "sort": "71268"
+  },
+  {
+    "city": "Rivera",
+    "admin": "Rivera",
+    "sort": "64465"
+  },
+  {
+    "city": "Tacuarembó",
+    "admin": "Tacuarembó",
+    "sort": "54755"
+  },
+  {
+    "city": "Melo",
+    "admin": "Cerro Largo",
+    "sort": "51830"
+  },
+  {
+    "city": "Mercedes",
+    "admin": "Soriano",
+    "sort": "41974"
+  },
+  {
+    "city": "Artigas",
+    "admin": "Artigas",
+    "sort": "40658"
+  },
+  {
+    "city": "Minas",
+    "admin": "Lavalleja",
+    "sort": "38446"
+  },
+  {
+    "city": "San José",
+    "admin": "San José",
+    "sort": "36747"
+  },
+  {
+    "city": "Florida",
+    "admin": "Florida",
+    "sort": "33639"
+  },
+  {
+    "city": "Durazno",
+    "admin": "Durazno",
+    "sort": "34368"
+  },
+  {
+    "city": "Pando",
+    "admin": "Canelones",
+    "sort": "25949"
+  },
+  {
+    "city": "Treinta y Tres",
+    "admin": "Treinta y Tres",
+    "sort": "25477"
+  },
+  {
+    "city": "Colonia del Sacramento",
+    "admin": "Colonia",
+    "sort": "26231"
+  },
+  {
+    "city": "Rocha",
+    "admin": "Rocha",
+    "sort": "25422"
+  },
+  {
+    "city": "Fray Bentos",
+    "admin": "Río Negro",
+    "sort": "24406"
+  },
+  {
+    "city": "Bella Unión",
+    "admin": "Artigas",
+    "sort": "19100"
+  },
+  {
+    "city": "Carmelo",
+    "admin": "Colonia",
+    "sort": "18041"
+  },
+  {
+    "city": "Santa Lucía",
+    "admin": "Canelones",
+    "sort": "16742"
+  },
+  {
+    "city": "Dolores",
+    "admin": "Soriano",
+    "sort": "15753"
+  },
+  {
+    "city": "Canelones",
+    "admin": "Canelones",
+    "sort": "19865"
+  },
+  {
+    "city": "Progreso",
+    "admin": "Canelones",
+    "sort": "16244"
+  },
+  {
+    "city": "Libertad",
+    "admin": "San José",
+    "sort": "11458"
+  },
+  {
+    "city": "Nueva Palmira",
+    "admin": "Colonia",
+    "sort": "9857"
+  },
+  {
+    "city": "Chuy",
+    "admin": "Rocha",
+    "sort": "9675"
+  },
+  {
+    "city": "Salinas",
+    "admin": "Canelones",
+    "sort": "8626"
+  },
+  {
+    "city": "Lascano",
+    "admin": "Rocha",
+    "sort": "7645"
+  },
+  {
+    "city": "Castillos",
+    "admin": "Rocha",
+    "sort": "7541"
+  },
+  {
+    "city": "Joaquín Suárez",
+    "admin": "Canelones",
+    "sort": "6570"
+  },
+  {
+    "city": "Sauce",
+    "admin": "Canelones",
+    "sort": "6132"
+  },
+  {
+    "city": "Tala",
+    "admin": "Canelones",
+    "sort": "5089"
+  },
+  {
+    "city": "Trinidad",
+    "admin": "Flores",
+    "sort": "21429"
+  },
+  {
+    "city": "Río Branco",
+    "admin": "Cerro Largo",
+    "sort": "14604"
+  },
+  {
+    "city": "Paso de los Toros",
+    "admin": "Durazno",
+    "sort": "12985"
+  },
+  {
+    "city": "Nueva Helvecia",
+    "admin": "Colonia",
+    "sort": "10630"
+  },
+  {
+    "city": "Rosario",
+    "admin": "Colonia",
+    "sort": "9311"
+  },
+  {
+    "city": "Punta del Este",
+    "admin": "Maldonado",
+    "sort": "9277"
+  },
+  {
+    "city": "Piriápolis",
+    "admin": "Maldonado",
+    "sort": "8830"
+  },
+  {
+    "city": "Sarandí del Yi",
+    "admin": "Durazno",
+    "sort": "7176"
+  },
+  {
+    "city": "Parque del Plata",
+    "admin": "Canelones",
+    "sort": "7896"
+  },
+  {
+    "city": "San Ramón",
+    "admin": "Canelones",
+    "sort": "7133"
+  },
+  {
+    "city": "San Jacinto",
+    "admin": "Canelones",
+    "sort": "7000"
+  },
+  {
+    "city": "Sarandí Grande",
+    "admin": "Florida",
+    "sort": "6130"
+  },
+  {
+    "city": "Atlántida",
+    "admin": "Canelones",
+    "sort": "5562"
+  },
+  {
+    "city": "Tranqueras",
+    "admin": "Rivera",
+    "sort": "7235"
+  },
+  {
+    "city": "José Pedro Varela",
+    "admin": "Lavalleja",
+    "sort": "5118"
+  },
+  {
+    "city": "Pan de Azúcar",
+    "admin": "Maldonado",
+    "sort": "6597"
+  },
+  {
+    "city": "Guichón",
+    "admin": "Paysandú",
+    "sort": "5039"
+  },
+  {
+    "city": "La Paloma",
+    "admin": "Rocha",
+    "sort": "3495"
+  },
+  {
+    "city": "Vergara",
+    "admin": "Treinta y Tres",
+    "sort": "3810"
+  },
+  {
+    "city": "Baltasar Brum",
+    "admin": "Artigas",
+    "sort": "2517"
+  },
+  {
+    "city": "Aiguá",
+    "admin": "Maldonado",
+    "sort": "2692"
+  },
+  {
+    "city": "José Batlle y Ordóñez",
+    "admin": "Lavalleja",
+    "sort": "2203"
+  }
+]

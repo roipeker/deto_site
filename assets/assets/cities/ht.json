@@ -1,0 +1,77 @@
+[
+  {
+    "city": "Port-au-Prince",
+    "admin": "Ouest",
+    "sort": "987310"
+  },
+  {
+    "city": "Carrefour",
+    "admin": "Ouest",
+    "sort": "511345"
+  },
+  {
+    "city": "Pétion-Ville",
+    "admin": "Ouest",
+    "sort": "359615"
+  },
+  {
+    "city": "Gonaïves",
+    "admin": "Artibonite",
+    "sort": "324043"
+  },
+  {
+    "city": "Delmas",
+    "admin": "Ouest",
+    "sort": "284079"
+  },
+  {
+    "city": "Cap-Haïtien",
+    "admin": "Nord",
+    "sort": "190289"
+  },
+  {
+    "city": "Les Cayes",
+    "admin": "Sud",
+    "sort": "175457"
+  },
+  {
+    "city": "Saint-Marc",
+    "admin": "Artibonite",
+    "sort": "160181"
+  },
+  {
+    "city": "Port-de-Paix",
+    "admin": "Nord-Ouest",
+    "sort": "121220"
+  },
+  {
+    "city": "Jacmel",
+    "admin": "Sud-Est",
+    "sort": "33563"
+  },
+  {
+    "city": "Jérémie",
+    "admin": "Grand’Anse",
+    "sort": "30917"
+  },
+  {
+    "city": "Hinche",
+    "admin": "Centre",
+    "sort": "18590"
+  },
+  {
+    "city": "Fort Liberté",
+    "admin": "Nord-Est",
+    "sort": "11465"
+  },
+  {
+    "city": "Miragoâne",
+    "admin": "Nippes",
+    "sort": ""
+  },
+  {
+    "city": "Belladère",
+    "admin": "Centre",
+    "sort": "60239"
+  }
+]

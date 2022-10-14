@@ -1,0 +1,77 @@
+[
+  {
+    "city": "Asmara",
+    "admin": "Ma’ākel",
+    "sort": "963000"
+  },
+  {
+    "city": "Keren",
+    "admin": "Ānseba",
+    "sort": "146500"
+  },
+  {
+    "city": "Assab",
+    "admin": "Debubawī K’eyih Bahrī",
+    "sort": "74405"
+  },
+  {
+    "city": "Massawa",
+    "admin": "Semēnawī K’eyih Bahrī",
+    "sort": "39758"
+  },
+  {
+    "city": "Mendefera",
+    "admin": "Debub",
+    "sort": "28492"
+  },
+  {
+    "city": "Barentu",
+    "admin": "Gash Barka",
+    "sort": ""
+  },
+  {
+    "city": "Bēylul",
+    "admin": "Debubawī K’eyih Bahrī",
+    "sort": "14055"
+  },
+  {
+    "city": "Adi Keyh",
+    "admin": "Ma’ākel",
+    "sort": "13061"
+  },
+  {
+    "city": "Ghinda’e",
+    "admin": "Semēnawī K’eyih Bahrī",
+    "sort": "11560"
+  },
+  {
+    "city": "Edd",
+    "admin": "Debubawī K’eyih Bahrī",
+    "sort": "11259"
+  },
+  {
+    "city": "Dek’emhāre",
+    "admin": "Debub",
+    "sort": "10959"
+  },
+  {
+    "city": "Ak’ordat",
+    "admin": "Gash Barka",
+    "sort": "8857"
+  },
+  {
+    "city": "Nefasīt",
+    "admin": "Semēnawī K’eyih Bahrī",
+    "sort": "8600"
+  },
+  {
+    "city": "Senafe",
+    "admin": "Debub",
+    "sort": "6831"
+  },
+  {
+    "city": "Teseney",
+    "admin": "Gash Barka",
+    "sort": "3753"
+  }
+]

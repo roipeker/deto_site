@@ -1,0 +1,57 @@
+[
+  {
+    "city": "Maseru",
+    "admin": "Maseru",
+    "sort": "330790"
+  },
+  {
+    "city": "Teyateyaneng",
+    "admin": "Berea",
+    "sort": "75115"
+  },
+  {
+    "city": "Mafeteng",
+    "admin": "Mafeteng",
+    "sort": "57059"
+  },
+  {
+    "city": "Leribe",
+    "admin": "Leribe",
+    "sort": "47675"
+  },
+  {
+    "city": "Mohale’s Hoek",
+    "admin": "Mohale’s Hoek",
+    "sort": "24992"
+  },
+  {
+    "city": "Quthing",
+    "admin": "Quthing",
+    "sort": "15000"
+  },
+  {
+    "city": "Butha-Buthe",
+    "admin": "Butha-Buthe",
+    "sort": "10000"
+  },
+  {
+    "city": "Mokhotlong",
+    "admin": "Mokhotlong",
+    "sort": "8809"
+  },
+  {
+    "city": "Thaba-Tseka",
+    "admin": "Thaba-Tseka",
+    "sort": "5423"
+  },
+  {
+    "city": "Qacha’s Nek",
+    "admin": "Qacha’s Nek",
+    "sort": ""
+  },
+  {
+    "city": "Maputsoe",
+    "admin": "Leribe",
+    "sort": "32117"
+  }
+]

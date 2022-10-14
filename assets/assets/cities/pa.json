@@ -1,0 +1,112 @@
+[
+  {
+    "city": "Panama City",
+    "admin": "Panamá",
+    "sort": "880691"
+  },
+  {
+    "city": "San Miguelito",
+    "admin": "Panamá",
+    "sort": "315019"
+  },
+  {
+    "city": "Colón",
+    "admin": "Colón",
+    "sort": "204000"
+  },
+  {
+    "city": "David",
+    "admin": "Chiriquí",
+    "sort": "144858"
+  },
+  {
+    "city": "La Chorrera",
+    "admin": "Panamá Oeste",
+    "sort": "68896"
+  },
+  {
+    "city": "Chitré",
+    "admin": "Herrera",
+    "sort": "46191"
+  },
+  {
+    "city": "Santiago",
+    "admin": "Veraguas",
+    "sort": "45955"
+  },
+  {
+    "city": "Penonomé",
+    "admin": "Coclé",
+    "sort": "28766"
+  },
+  {
+    "city": "Bocas del Toro",
+    "admin": "Bocas del Toro",
+    "sort": "12996"
+  },
+  {
+    "city": "Las Tablas",
+    "admin": "Los Santos",
+    "sort": "11358"
+  },
+  {
+    "city": "La Palma",
+    "admin": "Darién",
+    "sort": "1845"
+  },
+  {
+    "city": "Buabidi",
+    "admin": "Ngöbe-Buglé",
+    "sort": ""
+  },
+  {
+    "city": "Gaigirgordub",
+    "admin": "Kuna Yala",
+    "sort": "10"
+  },
+  {
+    "city": "Sieyik",
+    "admin": "Bocas del Toro",
+    "sort": ""
+  },
+  {
+    "city": "Unión Chocó",
+    "admin": "Emberá-Wounaan",
+    "sort": ""
+  },
+  {
+    "city": "Balboa Heights",
+    "admin": "Panamá",
+    "sort": "62882"
+  },
+  {
+    "city": "Pacora",
+    "admin": "Panamá",
+    "sort": "52494"
+  },
+  {
+    "city": "Puerto Armuelles",
+    "admin": "Chiriquí",
+    "sort": "19763"
+  },
+  {
+    "city": "Guararé",
+    "admin": "Los Santos",
+    "sort": "9255"
+  },
+  {
+    "city": "Guabito",
+    "admin": "Bocas del Toro",
+    "sort": "8387"
+  },
+  {
+    "city": "Almirante",
+    "admin": "Bocas del Toro",
+    "sort": "8114"
+  },
+  {
+    "city": "Jaqué",
+    "admin": "Darién",
+    "sort": "1357"
+  }
+]

@@ -1,0 +1,637 @@
+[
+  {
+    "city": "Sofia",
+    "admin": "Sofia-Grad",
+    "sort": "1277411"
+  },
+  {
+    "city": "Plovdiv",
+    "admin": "Plovdiv",
+    "sort": "366511"
+  },
+  {
+    "city": "Varna",
+    "admin": "Varna",
+    "sort": "347924"
+  },
+  {
+    "city": "Burgas",
+    "admin": "Burgas",
+    "sort": "210720"
+  },
+  {
+    "city": "Ruse",
+    "admin": "Ruse",
+    "sort": "143931"
+  },
+  {
+    "city": "Stara Zagora",
+    "admin": "Stara Zagora",
+    "sort": "136475"
+  },
+  {
+    "city": "Pleven",
+    "admin": "Pleven",
+    "sort": "101299"
+  },
+  {
+    "city": "Dobrich",
+    "admin": "Dobrich",
+    "sort": "90419"
+  },
+  {
+    "city": "Sliven",
+    "admin": "Sliven",
+    "sort": "89540"
+  },
+  {
+    "city": "Shumen",
+    "admin": "Shumen",
+    "sort": "82497"
+  },
+  {
+    "city": "Pazardzhik",
+    "admin": "Pazardzhik",
+    "sort": "74785"
+  },
+  {
+    "city": "Pernik",
+    "admin": "Pernik",
+    "sort": "74553"
+  },
+  {
+    "city": "Blagoevgrad",
+    "admin": "Blagoevgrad",
+    "sort": "73463"
+  },
+  {
+    "city": "Haskovo",
+    "admin": "Haskovo",
+    "sort": "72016"
+  },
+  {
+    "city": "Yambol",
+    "admin": "Yambol",
+    "sort": "70782"
+  },
+  {
+    "city": "Veliko Tarnovo",
+    "admin": "Veliko Tarnovo",
+    "sort": "66550"
+  },
+  {
+    "city": "Vratsa",
+    "admin": "Vratsa",
+    "sort": "57028"
+  },
+  {
+    "city": "Gabrovo",
+    "admin": "Gabrovo",
+    "sort": "52974"
+  },
+  {
+    "city": "Kardzhali",
+    "admin": "Kardzhali",
+    "sort": "51242"
+  },
+  {
+    "city": "Vidin",
+    "admin": "Vidin",
+    "sort": "45926"
+  },
+  {
+    "city": "Kyustendil",
+    "admin": "Kyustendil",
+    "sort": "44787"
+  },
+  {
+    "city": "Montana",
+    "admin": "Montana",
+    "sort": "40295"
+  },
+  {
+    "city": "Targovishte",
+    "admin": "Targovishte",
+    "sort": "39874"
+  },
+  {
+    "city": "Silistra",
+    "admin": "Silistra",
+    "sort": "34473"
+  },
+  {
+    "city": "Lovech",
+    "admin": "Lovech",
+    "sort": "33195"
+  },
+  {
+    "city": "Razgrad",
+    "admin": "Razgrad",
+    "sort": "33034"
+  },
+  {
+    "city": "Smolyan",
+    "admin": "Smolyan",
+    "sort": "28541"
+  },
+  {
+    "city": "Asenovgrad",
+    "admin": "Plovdiv",
+    "sort": "51059"
+  },
+  {
+    "city": "Kazanlak",
+    "admin": "Stara Zagora",
+    "sort": "49155"
+  },
+  {
+    "city": "Dimitrovgrad",
+    "admin": "Haskovo",
+    "sort": "35507"
+  },
+  {
+    "city": "Dupnitsa",
+    "admin": "Kyustendil",
+    "sort": "34653"
+  },
+  {
+    "city": "Gorna Oryahovitsa",
+    "admin": "Veliko Tarnovo",
+    "sort": "30413"
+  },
+  {
+    "city": "Petrich",
+    "admin": "Blagoevgrad",
+    "sort": "29727"
+  },
+  {
+    "city": "Sandanski",
+    "admin": "Blagoevgrad",
+    "sort": "27245"
+  },
+  {
+    "city": "Samokov",
+    "admin": "Sofia",
+    "sort": "26548"
+  },
+  {
+    "city": "Velingrad",
+    "admin": "Pazardzhik",
+    "sort": "24147"
+  },
+  {
+    "city": "Svishtov",
+    "admin": "Veliko Tarnovo",
+    "sort": "23795"
+  },
+  {
+    "city": "Sevlievo",
+    "admin": "Gabrovo",
+    "sort": "22503"
+  },
+  {
+    "city": "Aytos",
+    "admin": "Burgas",
+    "sort": "22322"
+  },
+  {
+    "city": "Lom",
+    "admin": "Montana",
+    "sort": "22075"
+  },
+  {
+    "city": "Nova Zagora",
+    "admin": "Sliven",
+    "sort": "22112"
+  },
+  {
+    "city": "Karlovo",
+    "admin": "Plovdiv",
+    "sort": "22095"
+  },
+  {
+    "city": "Botevgrad",
+    "admin": "Sofia",
+    "sort": "20624"
+  },
+  {
+    "city": "Troyan",
+    "admin": "Lovech",
+    "sort": "20629"
+  },
+  {
+    "city": "Harmanli",
+    "admin": "Haskovo",
+    "sort": "20549"
+  },
+  {
+    "city": "Gotse Delchev",
+    "admin": "Blagoevgrad",
+    "sort": "20051"
+  },
+  {
+    "city": "Peshtera",
+    "admin": "Pazardzhik",
+    "sort": "19894"
+  },
+  {
+    "city": "Svilengrad",
+    "admin": "Haskovo",
+    "sort": "18263"
+  },
+  {
+    "city": "Karnobat",
+    "admin": "Burgas",
+    "sort": "17808"
+  },
+  {
+    "city": "Panagyurishte",
+    "admin": "Pazardzhik",
+    "sort": "16553"
+  },
+  {
+    "city": "Rakovski",
+    "admin": "Plovdiv",
+    "sort": "15664"
+  },
+  {
+    "city": "Popovo",
+    "admin": "Targovishte",
+    "sort": "15311"
+  },
+  {
+    "city": "Chirpan",
+    "admin": "Stara Zagora",
+    "sort": "15112"
+  },
+  {
+    "city": "Novi Iskar",
+    "admin": "Sofia-Grad",
+    "sort": "13574"
+  },
+  {
+    "city": "Pomorie",
+    "admin": "Burgas",
+    "sort": "14335"
+  },
+  {
+    "city": "Nesebar",
+    "admin": "Burgas",
+    "sort": "14000"
+  },
+  {
+    "city": "Ihtiman",
+    "admin": "Sofia",
+    "sort": "13658"
+  },
+  {
+    "city": "Parvomay",
+    "admin": "Plovdiv",
+    "sort": "13263"
+  },
+  {
+    "city": "Radomir",
+    "admin": "Pernik",
+    "sort": "13209"
+  },
+  {
+    "city": "Berkovitsa",
+    "admin": "Montana",
+    "sort": "12821"
+  },
+  {
+    "city": "Novi Pazar",
+    "admin": "Shumen",
+    "sort": "12742"
+  },
+  {
+    "city": "Provadia",
+    "admin": "Varna",
+    "sort": "12556"
+  },
+  {
+    "city": "Balchik",
+    "admin": "Dobrich",
+    "sort": "12421"
+  },
+  {
+    "city": "Razlog",
+    "admin": "Blagoevgrad",
+    "sort": "12385"
+  },
+  {
+    "city": "Bankya",
+    "admin": "Sofia-Grad",
+    "sort": "11293"
+  },
+  {
+    "city": "Kozloduy",
+    "admin": "Vratsa",
+    "sort": "12067"
+  },
+  {
+    "city": "Stamboliyski",
+    "admin": "Plovdiv",
+    "sort": "11327"
+  },
+  {
+    "city": "Radnevo",
+    "admin": "Stara Zagora",
+    "sort": "11622"
+  },
+  {
+    "city": "Kostinbrod",
+    "admin": "Sofia",
+    "sort": "11432"
+  },
+  {
+    "city": "Kavarna",
+    "admin": "Dobrich",
+    "sort": "11422"
+  },
+  {
+    "city": "Byala Slatina",
+    "admin": "Vratsa",
+    "sort": "11387"
+  },
+  {
+    "city": "Etropole",
+    "admin": "Sofia",
+    "sort": "10394"
+  },
+  {
+    "city": "Knezha",
+    "admin": "Vratsa",
+    "sort": "10348"
+  },
+  {
+    "city": "Pavlikeni",
+    "admin": "Veliko Tarnovo",
+    "sort": "10071"
+  },
+  {
+    "city": "Mezdra",
+    "admin": "Vratsa",
+    "sort": "9682"
+  },
+  {
+    "city": "Elhovo",
+    "admin": "Yambol",
+    "sort": "9609"
+  },
+  {
+    "city": "Lukovit",
+    "admin": "Lovech",
+    "sort": "9336"
+  },
+  {
+    "city": "Teteven",
+    "admin": "Lovech",
+    "sort": "9152"
+  },
+  {
+    "city": "Omurtag",
+    "admin": "Targovishte",
+    "sort": "9131"
+  },
+  {
+    "city": "Momchilgrad",
+    "admin": "Kardzhali",
+    "sort": "9114"
+  },
+  {
+    "city": "Tutrakan",
+    "admin": "Silistra",
+    "sort": "9076"
+  },
+  {
+    "city": "Bansko",
+    "admin": "Blagoevgrad",
+    "sort": "9032"
+  },
+  {
+    "city": "Devnya",
+    "admin": "Varna",
+    "sort": "8915"
+  },
+  {
+    "city": "Sredets",
+    "admin": "Burgas",
+    "sort": "8699"
+  },
+  {
+    "city": "Rakitovo",
+    "admin": "Pazardzhik",
+    "sort": "8651"
+  },
+  {
+    "city": "Isperih",
+    "admin": "Razgrad",
+    "sort": "8545"
+  },
+  {
+    "city": "Tryavna",
+    "admin": "Gabrovo",
+    "sort": "8529"
+  },
+  {
+    "city": "Aksakovo",
+    "admin": "Varna",
+    "sort": "8064"
+  },
+  {
+    "city": "Veliki Preslav",
+    "admin": "Shumen",
+    "sort": "8276"
+  },
+  {
+    "city": "Krichim",
+    "admin": "Plovdiv",
+    "sort": "8129"
+  },
+  {
+    "city": "Septemvri",
+    "admin": "Pazardzhik",
+    "sort": "8197"
+  },
+  {
+    "city": "Lyaskovets",
+    "admin": "Veliko Tarnovo",
+    "sort": "7838"
+  },
+  {
+    "city": "Beloslav",
+    "admin": "Varna",
+    "sort": "7689"
+  },
+  {
+    "city": "Simeonovgrad",
+    "admin": "Haskovo",
+    "sort": "7747"
+  },
+  {
+    "city": "Svoge",
+    "admin": "Sofia",
+    "sort": "7696"
+  },
+  {
+    "city": "Lyubimets",
+    "admin": "Haskovo",
+    "sort": "7252"
+  },
+  {
+    "city": "Belene",
+    "admin": "Pleven",
+    "sort": "7227"
+  },
+  {
+    "city": "Dulovo",
+    "admin": "Silistra",
+    "sort": "7197"
+  },
+  {
+    "city": "Slivnitsa",
+    "admin": "Sofia",
+    "sort": "7131"
+  },
+  {
+    "city": "Elin Pelin",
+    "admin": "Sofia",
+    "sort": "7113"
+  },
+  {
+    "city": "Dryanovo",
+    "admin": "Gabrovo",
+    "sort": "7118"
+  },
+  {
+    "city": "Dolni Chiflik",
+    "admin": "Varna",
+    "sort": "7056"
+  },
+  {
+    "city": "Lozen",
+    "admin": "Sofia-Grad",
+    "sort": "5995"
+  },
+  {
+    "city": "Zlatograd",
+    "admin": "Smolyan",
+    "sort": "6902"
+  },
+  {
+    "city": "Simitli",
+    "admin": "Blagoevgrad",
+    "sort": "6976"
+  },
+  {
+    "city": "Kubrat",
+    "admin": "Razgrad",
+    "sort": "6940"
+  },
+  {
+    "city": "Pirdop",
+    "admin": "Sofia",
+    "sort": "6812"
+  },
+  {
+    "city": "Tervel",
+    "admin": "Dobrich",
+    "sort": "6404"
+  },
+  {
+    "city": "General Toshevo",
+    "admin": "Dobrich",
+    "sort": "6366"
+  },
+  {
+    "city": "Aydemir",
+    "admin": "Silistra",
+    "sort": "6196"
+  },
+  {
+    "city": "Straldzha",
+    "admin": "Yambol",
+    "sort": "6183"
+  },
+  {
+    "city": "Bistritsa",
+    "admin": "Sofia-Grad",
+    "sort": "5141"
+  },
+  {
+    "city": "Devin",
+    "admin": "Smolyan",
+    "sort": "6129"
+  },
+  {
+    "city": "Kuklen",
+    "admin": "Plovdiv",
+    "sort": "6148"
+  },
+  {
+    "city": "Tvarditsa",
+    "admin": "Sliven",
+    "sort": "6113"
+  },
+  {
+    "city": "Kostenets",
+    "admin": "Sofia",
+    "sort": "6040"
+  },
+  {
+    "city": "Tsarevo",
+    "admin": "Burgas",
+    "sort": "6068"
+  },
+  {
+    "city": "Varshets",
+    "admin": "Montana",
+    "sort": "5765"
+  },
+  {
+    "city": "Kameno",
+    "admin": "Burgas",
+    "sort": "5477"
+  },
+  {
+    "city": "Kotel",
+    "admin": "Sliven",
+    "sort": "5362"
+  },
+  {
+    "city": "Krumovgrad",
+    "admin": "Kardzhali",
+    "sort": "5327"
+  },
+  {
+    "city": "Strazhitsa",
+    "admin": "Veliko Tarnovo",
+    "sort": "5227"
+  },
+  {
+    "city": "Yakoruda",
+    "admin": "Blagoevgrad",
+    "sort": "5213"
+  },
+  {
+    "city": "Bozhurishte",
+    "admin": "Sofia",
+    "sort": "5170"
+  },
+  {
+    "city": "Bobov Dol",
+    "admin": "Kyustendil",
+    "sort": "5176"
+  },
+  {
+    "city": "Suvorovo",
+    "admin": "Varna",
+    "sort": "5059"
+  },
+  {
+    "city": "Perushtitsa",
+    "admin": "Plovdiv",
+    "sort": "5026"
+  }
+]

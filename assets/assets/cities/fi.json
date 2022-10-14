@@ -1,0 +1,1062 @@
+[
+  {
+    "city": "Helsinki",
+    "admin": "Uusimaa",
+    "sort": "642045"
+  },
+  {
+    "city": "Espoo",
+    "admin": "Uusimaa",
+    "sort": "269802"
+  },
+  {
+    "city": "Tampere",
+    "admin": "Pirkanmaa",
+    "sort": "225118"
+  },
+  {
+    "city": "Vantaa",
+    "admin": "Uusimaa",
+    "sort": "214605"
+  },
+  {
+    "city": "Oulu",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "200526"
+  },
+  {
+    "city": "Turku",
+    "admin": "Varsinais-Suomi",
+    "sort": "187604"
+  },
+  {
+    "city": "Jyväskylä",
+    "admin": "Keski-Suomi",
+    "sort": "137368"
+  },
+  {
+    "city": "Kuopio",
+    "admin": "Pohjois-Savo",
+    "sort": "120246"
+  },
+  {
+    "city": "Lahti",
+    "admin": "Päijät-Häme",
+    "sort": "118119"
+  },
+  {
+    "city": "Kouvola",
+    "admin": "Kymenlaakso",
+    "sort": "85855"
+  },
+  {
+    "city": "Pori",
+    "admin": "Satakunta",
+    "sort": "85363"
+  },
+  {
+    "city": "Joensuu",
+    "admin": "Pohjois-Karjala",
+    "sort": "75514"
+  },
+  {
+    "city": "Lappeenranta",
+    "admin": "Etelä-Karjala",
+    "sort": "72875"
+  },
+  {
+    "city": "Hämeenlinna",
+    "admin": "Kanta-Häme",
+    "sort": "68011"
+  },
+  {
+    "city": "Vaasa",
+    "admin": "Pohjanmaa",
+    "sort": "67619"
+  },
+  {
+    "city": "Rovaniemi",
+    "admin": "Lappi",
+    "sort": "61763"
+  },
+  {
+    "city": "Seinäjoki",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "61530"
+  },
+  {
+    "city": "Mikkeli",
+    "admin": "Etelä-Savo",
+    "sort": "54665"
+  },
+  {
+    "city": "Kokkola",
+    "admin": "Keski-Pohjanmaa",
+    "sort": "47570"
+  },
+  {
+    "city": "Kajaani",
+    "admin": "Kainuu",
+    "sort": "37622"
+  },
+  {
+    "city": "Mariehamn",
+    "admin": "Åland",
+    "sort": "11461"
+  },
+  {
+    "city": "Kotka",
+    "admin": "Kymenlaakso",
+    "sort": "54319"
+  },
+  {
+    "city": "Salo",
+    "admin": "Varsinais-Suomi",
+    "sort": "53890"
+  },
+  {
+    "city": "Porvoo",
+    "admin": "Uusimaa",
+    "sort": "49928"
+  },
+  {
+    "city": "Lohja",
+    "admin": "Uusimaa",
+    "sort": "46785"
+  },
+  {
+    "city": "Hyvinkää",
+    "admin": "Uusimaa",
+    "sort": "46463"
+  },
+  {
+    "city": "Nurmijärvi",
+    "admin": "Uusimaa",
+    "sort": "42709"
+  },
+  {
+    "city": "Järvenpää",
+    "admin": "Uusimaa",
+    "sort": "40106"
+  },
+  {
+    "city": "Rauma",
+    "admin": "Satakunta",
+    "sort": "39809"
+  },
+  {
+    "city": "Tuusula",
+    "admin": "Uusimaa",
+    "sort": "38646"
+  },
+  {
+    "city": "Kirkkonummi",
+    "admin": "Uusimaa",
+    "sort": "38649"
+  },
+  {
+    "city": "Kerava",
+    "admin": "Uusimaa",
+    "sort": "35293"
+  },
+  {
+    "city": "Savonlinna",
+    "admin": "Etelä-Savo",
+    "sort": "35523"
+  },
+  {
+    "city": "Nokia",
+    "admin": "Pirkanmaa",
+    "sort": "33322"
+  },
+  {
+    "city": "Kaarina",
+    "admin": "Varsinais-Suomi",
+    "sort": "32590"
+  },
+  {
+    "city": "Ylöjärvi",
+    "admin": "Pirkanmaa",
+    "sort": "32738"
+  },
+  {
+    "city": "Kangasala",
+    "admin": "Pirkanmaa",
+    "sort": "32229"
+  },
+  {
+    "city": "Jyväskylän Maalaiskunta",
+    "admin": "Keski-Suomi",
+    "sort": "31870"
+  },
+  {
+    "city": "Riihimäki",
+    "admin": "Kanta-Häme",
+    "sort": "29269"
+  },
+  {
+    "city": "Vihti",
+    "admin": "Uusimaa",
+    "sort": "28919"
+  },
+  {
+    "city": "Raseborg",
+    "admin": "Uusimaa",
+    "sort": "28405"
+  },
+  {
+    "city": "Imatra",
+    "admin": "Etelä-Karjala",
+    "sort": "27835"
+  },
+  {
+    "city": "Sastamala",
+    "admin": "Pirkanmaa",
+    "sort": "25220"
+  },
+  {
+    "city": "Raahe",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "25165"
+  },
+  {
+    "city": "Raisio",
+    "admin": "Varsinais-Suomi",
+    "sort": "24290"
+  },
+  {
+    "city": "Hollola",
+    "admin": "Päijät-Häme",
+    "sort": "23915"
+  },
+  {
+    "city": "Lempäälä",
+    "admin": "Pirkanmaa",
+    "sort": "22536"
+  },
+  {
+    "city": "Kemi",
+    "admin": "Lappi",
+    "sort": "21758"
+  },
+  {
+    "city": "Iisalmi",
+    "admin": "Pohjois-Savo",
+    "sort": "21945"
+  },
+  {
+    "city": "Tornio",
+    "admin": "Lappi",
+    "sort": "21928"
+  },
+  {
+    "city": "Siilinjärvi",
+    "admin": "Pohjois-Savo",
+    "sort": "21794"
+  },
+  {
+    "city": "Kurikka",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "21734"
+  },
+  {
+    "city": "Jämsä",
+    "admin": "Keski-Suomi",
+    "sort": "21542"
+  },
+  {
+    "city": "Varkaus",
+    "admin": "Pohjois-Savo",
+    "sort": "21155"
+  },
+  {
+    "city": "Valkeakoski",
+    "admin": "Pirkanmaa",
+    "sort": "20800"
+  },
+  {
+    "city": "Mäntsälä",
+    "admin": "Uusimaa",
+    "sort": "20685"
+  },
+  {
+    "city": "Äänekoski",
+    "admin": "Keski-Suomi",
+    "sort": "19919"
+  },
+  {
+    "city": "Hamina",
+    "admin": "Kymenlaakso",
+    "sort": "19877"
+  },
+  {
+    "city": "Kuusankoski",
+    "admin": "Kymenlaakso",
+    "sort": "19831"
+  },
+  {
+    "city": "Jakobstad",
+    "admin": "Pohjanmaa",
+    "sort": "19436"
+  },
+  {
+    "city": "Heinola",
+    "admin": "Päijät-Häme",
+    "sort": "19575"
+  },
+  {
+    "city": "Sipoo",
+    "admin": "Uusimaa",
+    "sort": "19399"
+  },
+  {
+    "city": "Lieto",
+    "admin": "Varsinais-Suomi",
+    "sort": "19263"
+  },
+  {
+    "city": "Korsholm",
+    "admin": "Pohjanmaa",
+    "sort": "19302"
+  },
+  {
+    "city": "Haukipudas",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "18994"
+  },
+  {
+    "city": "Naantali",
+    "admin": "Varsinais-Suomi",
+    "sort": "18916"
+  },
+  {
+    "city": "Pirkkala",
+    "admin": "Pirkanmaa",
+    "sort": "18913"
+  },
+  {
+    "city": "Laukaa",
+    "admin": "Keski-Suomi",
+    "sort": "18865"
+  },
+  {
+    "city": "Klaukkala",
+    "admin": "Uusimaa",
+    "sort": "18700"
+  },
+  {
+    "city": "Pieksämäki",
+    "admin": "Etelä-Savo",
+    "sort": "18220"
+  },
+  {
+    "city": "Forssa",
+    "admin": "Kanta-Häme",
+    "sort": "17422"
+  },
+  {
+    "city": "Kempele",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "17066"
+  },
+  {
+    "city": "Janakkala",
+    "admin": "Kanta-Häme",
+    "sort": "16853"
+  },
+  {
+    "city": "Kauhava",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "16784"
+  },
+  {
+    "city": "Loimaa",
+    "admin": "Varsinais-Suomi",
+    "sort": "16467"
+  },
+  {
+    "city": "Orimattila",
+    "admin": "Päijät-Häme",
+    "sort": "16326"
+  },
+  {
+    "city": "Kuusamo",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "15688"
+  },
+  {
+    "city": "Uusikaupunki",
+    "admin": "Varsinais-Suomi",
+    "sort": "15510"
+  },
+  {
+    "city": "Loviisa",
+    "admin": "Uusimaa",
+    "sort": "15311"
+  },
+  {
+    "city": "Vammala",
+    "admin": "Pirkanmaa",
+    "sort": "15213"
+  },
+  {
+    "city": "Ylivieska",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "15039"
+  },
+  {
+    "city": "Nastola",
+    "admin": "Päijät-Häme",
+    "sort": "14890"
+  },
+  {
+    "city": "Kontiolahti",
+    "admin": "Pohjois-Karjala",
+    "sort": "14827"
+  },
+  {
+    "city": "Ekenäs",
+    "admin": "Uusimaa",
+    "sort": "14754"
+  },
+  {
+    "city": "Lapua",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "14609"
+  },
+  {
+    "city": "Kauhajoki",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "13875"
+  },
+  {
+    "city": "Kiiminki",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "13252"
+  },
+  {
+    "city": "Ulvila",
+    "admin": "Satakunta",
+    "sort": "13237"
+  },
+  {
+    "city": "Kalajoki",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "12621"
+  },
+  {
+    "city": "Pargas",
+    "admin": "Varsinais-Suomi",
+    "sort": "12266"
+  },
+  {
+    "city": "Ilmajoki",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "12159"
+  },
+  {
+    "city": "Liperi",
+    "admin": "Pohjois-Karjala",
+    "sort": "12150"
+  },
+  {
+    "city": "Eura",
+    "admin": "Satakunta",
+    "sort": "12128"
+  },
+  {
+    "city": "Alavus",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "12044"
+  },
+  {
+    "city": "Vehkalahti",
+    "admin": "Kymenlaakso",
+    "sort": "11922"
+  },
+  {
+    "city": "Kankaanpää",
+    "admin": "Satakunta",
+    "sort": "11769"
+  },
+  {
+    "city": "Lieksa",
+    "admin": "Pohjois-Karjala",
+    "sort": "11772"
+  },
+  {
+    "city": "Pedersöre",
+    "admin": "Pohjanmaa",
+    "sort": "11084"
+  },
+  {
+    "city": "Valkeala",
+    "admin": "Kymenlaakso",
+    "sort": "11195"
+  },
+  {
+    "city": "Nivala",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "10876"
+  },
+  {
+    "city": "Kitee",
+    "admin": "Pohjois-Karjala",
+    "sort": "10832"
+  },
+  {
+    "city": "Nurmo",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "10785"
+  },
+  {
+    "city": "Joutseno",
+    "admin": "Etelä-Karjala",
+    "sort": "10750"
+  },
+  {
+    "city": "Hämeenkyrö",
+    "admin": "Pirkanmaa",
+    "sort": "10667"
+  },
+  {
+    "city": "Paimio",
+    "admin": "Varsinais-Suomi",
+    "sort": "10620"
+  },
+  {
+    "city": "Kauniainen",
+    "admin": "Uusimaa",
+    "sort": "9486"
+  },
+  {
+    "city": "Sotkamo",
+    "admin": "Kainuu",
+    "sort": "10523"
+  },
+  {
+    "city": "Huittinen",
+    "admin": "Satakunta",
+    "sort": "10473"
+  },
+  {
+    "city": "Keuruu",
+    "admin": "Keski-Suomi",
+    "sort": "10117"
+  },
+  {
+    "city": "Alajärvi",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "10006"
+  },
+  {
+    "city": "Lapinlahti",
+    "admin": "Pohjois-Savo",
+    "sort": "9982"
+  },
+  {
+    "city": "Ii",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "9966"
+  },
+  {
+    "city": "Leppävirta",
+    "admin": "Pohjois-Savo",
+    "sort": "9953"
+  },
+  {
+    "city": "Liminka",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "9937"
+  },
+  {
+    "city": "Saarijärvi",
+    "admin": "Keski-Suomi",
+    "sort": "9915"
+  },
+  {
+    "city": "Oulunsalo",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "9771"
+  },
+  {
+    "city": "Muurame",
+    "admin": "Keski-Suomi",
+    "sort": "9791"
+  },
+  {
+    "city": "Masku",
+    "admin": "Varsinais-Suomi",
+    "sort": "9706"
+  },
+  {
+    "city": "Hattula",
+    "admin": "Kanta-Häme",
+    "sort": "9747"
+  },
+  {
+    "city": "Orivesi",
+    "admin": "Pirkanmaa",
+    "sort": "9408"
+  },
+  {
+    "city": "Närpes",
+    "admin": "Pohjanmaa",
+    "sort": "9387"
+  },
+  {
+    "city": "Somero",
+    "admin": "Varsinais-Suomi",
+    "sort": "9093"
+  },
+  {
+    "city": "Muhos",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "9063"
+  },
+  {
+    "city": "Karkkila",
+    "admin": "Uusimaa",
+    "sort": "8969"
+  },
+  {
+    "city": "Hanko",
+    "admin": "Uusimaa",
+    "sort": "8864"
+  },
+  {
+    "city": "Halikko",
+    "admin": "Varsinais-Suomi",
+    "sort": "8879"
+  },
+  {
+    "city": "Karis",
+    "admin": "Uusimaa",
+    "sort": "8787"
+  },
+  {
+    "city": "Kuhmo",
+    "admin": "Kainuu",
+    "sort": "8806"
+  },
+  {
+    "city": "Sodankylä",
+    "admin": "Lappi",
+    "sort": "8782"
+  },
+  {
+    "city": "Hausjärvi",
+    "admin": "Kanta-Häme",
+    "sort": "8729"
+  },
+  {
+    "city": "Kiuruvesi",
+    "admin": "Pohjois-Savo",
+    "sort": "8600"
+  },
+  {
+    "city": "Pöytyä",
+    "admin": "Varsinais-Suomi",
+    "sort": "8562"
+  },
+  {
+    "city": "Laitila",
+    "admin": "Varsinais-Suomi",
+    "sort": "8520"
+  },
+  {
+    "city": "Keminmaa",
+    "admin": "Lappi",
+    "sort": "8388"
+  },
+  {
+    "city": "Suomussalmi",
+    "admin": "Kainuu",
+    "sort": "8336"
+  },
+  {
+    "city": "Asikkala",
+    "admin": "Päijät-Häme",
+    "sort": "8287"
+  },
+  {
+    "city": "Elimäki",
+    "admin": "Kymenlaakso",
+    "sort": "8264"
+  },
+  {
+    "city": "Pudasjärvi",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "8257"
+  },
+  {
+    "city": "Loppi",
+    "admin": "Kanta-Häme",
+    "sort": "8175"
+  },
+  {
+    "city": "Toijala",
+    "admin": "Pirkanmaa",
+    "sort": "8060"
+  },
+  {
+    "city": "Laihia",
+    "admin": "Pohjanmaa",
+    "sort": "8090"
+  },
+  {
+    "city": "Nurmes",
+    "admin": "Pohjois-Karjala",
+    "sort": "7996"
+  },
+  {
+    "city": "Jalasjärvi",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "7885"
+  },
+  {
+    "city": "Mynämäki",
+    "admin": "Varsinais-Suomi",
+    "sort": "7859"
+  },
+  {
+    "city": "Kemijärvi",
+    "admin": "Lappi",
+    "sort": "7766"
+  },
+  {
+    "city": "Oulainen",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "7610"
+  },
+  {
+    "city": "Kokemäki",
+    "admin": "Satakunta",
+    "sort": "7591"
+  },
+  {
+    "city": "Nykarleby",
+    "admin": "Pohjanmaa",
+    "sort": "7564"
+  },
+  {
+    "city": "Haapajärvi",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "7438"
+  },
+  {
+    "city": "Suonenjoki",
+    "admin": "Pohjois-Savo",
+    "sort": "7390"
+  },
+  {
+    "city": "Jämsänkoski",
+    "admin": "Keski-Suomi",
+    "sort": "7351"
+  },
+  {
+    "city": "Harjavalta",
+    "admin": "Satakunta",
+    "sort": "7296"
+  },
+  {
+    "city": "Tyrvää",
+    "admin": "Pirkanmaa",
+    "sort": "7306"
+  },
+  {
+    "city": "Pyhäselkä",
+    "admin": "Pohjois-Karjala",
+    "sort": "7208"
+  },
+  {
+    "city": "Ikaalinen",
+    "admin": "Pirkanmaa",
+    "sort": "7207"
+  },
+  {
+    "city": "Haapavesi",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "7167"
+  },
+  {
+    "city": "Outokumpu",
+    "admin": "Pohjois-Karjala",
+    "sort": "7139"
+  },
+  {
+    "city": "Säkylä",
+    "admin": "Satakunta",
+    "sort": "7070"
+  },
+  {
+    "city": "Virrat",
+    "admin": "Pirkanmaa",
+    "sort": "7002"
+  },
+  {
+    "city": "Iitti",
+    "admin": "Kymenlaakso",
+    "sort": "6910"
+  },
+  {
+    "city": "Tyrnävä",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "6793"
+  },
+  {
+    "city": "Inari",
+    "admin": "Lappi",
+    "sort": "6804"
+  },
+  {
+    "city": "Kristinestad",
+    "admin": "Pohjanmaa",
+    "sort": "6793"
+  },
+  {
+    "city": "Parkano",
+    "admin": "Pirkanmaa",
+    "sort": "6766"
+  },
+  {
+    "city": "Rajamäki",
+    "admin": "Uusimaa",
+    "sort": "6605"
+  },
+  {
+    "city": "Vörå",
+    "admin": "Pohjanmaa",
+    "sort": "6714"
+  },
+  {
+    "city": "Kronoby",
+    "admin": "Pohjanmaa",
+    "sort": "6682"
+  },
+  {
+    "city": "Pälkäne",
+    "admin": "Pirkanmaa",
+    "sort": "6676"
+  },
+  {
+    "city": "Viitasaari",
+    "admin": "Keski-Suomi",
+    "sort": "6666"
+  },
+  {
+    "city": "Eno",
+    "admin": "Pohjois-Karjala",
+    "sort": "6653"
+  },
+  {
+    "city": "Piikkiö",
+    "admin": "Varsinais-Suomi",
+    "sort": "6505"
+  },
+  {
+    "city": "Juva",
+    "admin": "Etelä-Savo",
+    "sort": "6548"
+  },
+  {
+    "city": "Nilsiä",
+    "admin": "Pohjois-Savo",
+    "sort": "6499"
+  },
+  {
+    "city": "Kittilä",
+    "admin": "Lappi",
+    "sort": "6416"
+  },
+  {
+    "city": "Mänttä",
+    "admin": "Pirkanmaa",
+    "sort": "6341"
+  },
+  {
+    "city": "Tammela",
+    "admin": "Kanta-Häme",
+    "sort": "6280"
+  },
+  {
+    "city": "Siuntio",
+    "admin": "Uusimaa",
+    "sort": "6182"
+  },
+  {
+    "city": "Mäntyharju",
+    "admin": "Etelä-Savo",
+    "sort": "6159"
+  },
+  {
+    "city": "Rusko",
+    "admin": "Varsinais-Suomi",
+    "sort": "6110"
+  },
+  {
+    "city": "Pieksämäen Maalaiskunta",
+    "admin": "Etelä-Savo",
+    "sort": "6118"
+  },
+  {
+    "city": "Noormarkku",
+    "admin": "Satakunta",
+    "sort": "6109"
+  },
+  {
+    "city": "Ähtäri",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "6068"
+  },
+  {
+    "city": "Eurajoki",
+    "admin": "Satakunta",
+    "sort": "5938"
+  },
+  {
+    "city": "Loimaan Kunta",
+    "admin": "Varsinais-Suomi",
+    "sort": "5909"
+  },
+  {
+    "city": "Perniö",
+    "admin": "Varsinais-Suomi",
+    "sort": "5903"
+  },
+  {
+    "city": "Nakkila",
+    "admin": "Satakunta",
+    "sort": "5651"
+  },
+  {
+    "city": "Kangasniemi",
+    "admin": "Etelä-Savo",
+    "sort": "5628"
+  },
+  {
+    "city": "Kerimäki",
+    "admin": "Etelä-Savo",
+    "sort": "5554"
+  },
+  {
+    "city": "Ingå",
+    "admin": "Uusimaa",
+    "sort": "5541"
+  },
+  {
+    "city": "Malax",
+    "admin": "Pohjanmaa",
+    "sort": "5545"
+  },
+  {
+    "city": "Ylistaro",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "5543"
+  },
+  {
+    "city": "Lammi",
+    "admin": "Kanta-Häme",
+    "sort": "5506"
+  },
+  {
+    "city": "Kannus",
+    "admin": "Keski-Pohjanmaa",
+    "sort": "5520"
+  },
+  {
+    "city": "Pyhäjärvi",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "5505"
+  },
+  {
+    "city": "Teuva",
+    "admin": "Etelä-Pohjanmaa",
+    "sort": "5482"
+  },
+  {
+    "city": "Jokioinen",
+    "admin": "Kanta-Häme",
+    "sort": "5425"
+  },
+  {
+    "city": "Suolahti",
+    "admin": "Keski-Suomi",
+    "sort": "5364"
+  },
+  {
+    "city": "Vilppula",
+    "admin": "Pirkanmaa",
+    "sort": "5354"
+  },
+  {
+    "city": "Pyhtää",
+    "admin": "Kymenlaakso",
+    "sort": "5321"
+  },
+  {
+    "city": "Ilomantsi",
+    "admin": "Pohjois-Karjala",
+    "sort": "5336"
+  },
+  {
+    "city": "Ruokolahti",
+    "admin": "Etelä-Karjala",
+    "sort": "5312"
+  },
+  {
+    "city": "Viiala",
+    "admin": "Pirkanmaa",
+    "sort": "5207"
+  },
+  {
+    "city": "Hankasalmi",
+    "admin": "Keski-Suomi",
+    "sort": "5240"
+  },
+  {
+    "city": "Parikkala",
+    "admin": "Etelä-Karjala",
+    "sort": "5235"
+  },
+  {
+    "city": "Larsmo",
+    "admin": "Pohjanmaa",
+    "sort": "5147"
+  },
+  {
+    "city": "Pornainen",
+    "admin": "Uusimaa",
+    "sort": "5125"
+  },
+  {
+    "city": "Askola",
+    "admin": "Uusimaa",
+    "sort": "5104"
+  },
+  {
+    "city": "Sievi",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "5124"
+  },
+  {
+    "city": "Joroinen",
+    "admin": "Etelä-Savo",
+    "sort": "5110"
+  },
+  {
+    "city": "Juuka",
+    "admin": "Pohjois-Karjala",
+    "sort": "5034"
+  },
+  {
+    "city": "Pattijoki",
+    "admin": "Pohjois-Pohjanmaa",
+    "sort": "6069"
+  },
+  {
+    "city": "Inkeroinen",
+    "admin": "Kymenlaakso",
+    "sort": "5250"
+  }
+]

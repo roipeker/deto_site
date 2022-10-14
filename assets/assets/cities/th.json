@@ -1,0 +1,2052 @@
+[
+  {
+    "city": "Bangkok",
+    "admin": "Krung Thep Maha Nakhon",
+    "sort": "17573000"
+  },
+  {
+    "city": "Nonthaburi",
+    "admin": "Nonthaburi",
+    "sort": "255671"
+  },
+  {
+    "city": "Pak Kret",
+    "admin": "Nonthaburi",
+    "sort": "184501"
+  },
+  {
+    "city": "Hat Yai",
+    "admin": "Songkhla",
+    "sort": "159130"
+  },
+  {
+    "city": "Chiang Mai",
+    "admin": "Chiang Mai",
+    "sort": "132634"
+  },
+  {
+    "city": "Nakhon Ratchasima",
+    "admin": "Nakhon Ratchasima",
+    "sort": "134440"
+  },
+  {
+    "city": "Surat Thani",
+    "admin": "Surat Thani",
+    "sort": "130703"
+  },
+  {
+    "city": "Udon Thani",
+    "admin": "Udon Thani",
+    "sort": "130274"
+  },
+  {
+    "city": "Ban Bang Pu Mai",
+    "admin": "Samut Prakan",
+    "sort": "120058"
+  },
+  {
+    "city": "Phatthaya",
+    "admin": "Chon Buri",
+    "sort": "115840"
+  },
+  {
+    "city": "Khon Kaen",
+    "admin": "Khon Kaen",
+    "sort": "115928"
+  },
+  {
+    "city": "Ban Mangkon",
+    "admin": "Samut Prakan",
+    "sort": "102291"
+  },
+  {
+    "city": "Nakhon Si Thammarat",
+    "admin": "Nakhon Si Thammarat",
+    "sort": "106322"
+  },
+  {
+    "city": "Nakhon Sawan",
+    "admin": "Nakhon Sawan",
+    "sort": "86439"
+  },
+  {
+    "city": "Phuket",
+    "admin": "Phuket",
+    "sort": "77610"
+  },
+  {
+    "city": "Ban Talat Rangsit",
+    "admin": "Pathum Thani",
+    "sort": "79319"
+  },
+  {
+    "city": "Nakhon Pathom",
+    "admin": "Nakhon Pathom",
+    "sort": "78780"
+  },
+  {
+    "city": "Ubon Ratchathani",
+    "admin": "Ubon Ratchathani",
+    "sort": "79023"
+  },
+  {
+    "city": "Phitsanulok",
+    "admin": "Phitsanulok",
+    "sort": "70871"
+  },
+  {
+    "city": "Chiang Rai",
+    "admin": "Chiang Rai",
+    "sort": "70610"
+  },
+  {
+    "city": "Ban Suan",
+    "admin": "Chon Buri",
+    "sort": "66092"
+  },
+  {
+    "city": "Samut Sakhon",
+    "admin": "Samut Sakhon",
+    "sort": "60103"
+  },
+  {
+    "city": "Songkhla",
+    "admin": "Songkhla",
+    "sort": "63834"
+  },
+  {
+    "city": "Ban Rangsit",
+    "admin": "Pathum Thani",
+    "sort": "58838"
+  },
+  {
+    "city": "Saraburi",
+    "admin": "Sara Buri",
+    "sort": "61750"
+  },
+  {
+    "city": "Rayong",
+    "admin": "Rayong",
+    "sort": "61902"
+  },
+  {
+    "city": "Yala",
+    "admin": "Yala",
+    "sort": "61250"
+  },
+  {
+    "city": "Trang",
+    "admin": "Trang",
+    "sort": "60591"
+  },
+  {
+    "city": "Ban Bang Kaeo",
+    "admin": "Samut Prakan",
+    "sort": "56949"
+  },
+  {
+    "city": "Samut Prakan",
+    "admin": "Samut Prakan",
+    "sort": "51309"
+  },
+  {
+    "city": "Phra Nakhon Si Ayutthaya",
+    "admin": "Phra Nakhon Si Ayutthaya",
+    "sort": "52952"
+  },
+  {
+    "city": "Lampang",
+    "admin": "Lampang",
+    "sort": "55044"
+  },
+  {
+    "city": "Muban Saeng Bua Thong",
+    "admin": "Nonthaburi",
+    "sort": "51932"
+  },
+  {
+    "city": "Prachuap Khiri Khan",
+    "admin": "Prachuap Khiri Khan",
+    "sort": "54018"
+  },
+  {
+    "city": "Sakon Nakhon",
+    "admin": "Sakon Nakhon",
+    "sort": "53618"
+  },
+  {
+    "city": "Maha Sarakham",
+    "admin": "Maha Sarakham",
+    "sort": "52866"
+  },
+  {
+    "city": "Bang Bua Thong",
+    "admin": "Nonthaburi",
+    "sort": "50141"
+  },
+  {
+    "city": "Nong Khai",
+    "admin": "Nong Khai",
+    "sort": "48274"
+  },
+  {
+    "city": "Bang Kruai",
+    "admin": "Nonthaburi",
+    "sort": "42390"
+  },
+  {
+    "city": "Pattani",
+    "admin": "Pattani",
+    "sort": "44234"
+  },
+  {
+    "city": "Ban Sai Ma Tai",
+    "admin": "Nonthaburi",
+    "sort": "30750"
+  },
+  {
+    "city": "Si Sa Ket",
+    "admin": "Sisaket",
+    "sort": "42405"
+  },
+  {
+    "city": "Narathiwat",
+    "admin": "Narathiwat",
+    "sort": "41342"
+  },
+  {
+    "city": "Ban Na Pa",
+    "admin": "Chon Buri",
+    "sort": "38548"
+  },
+  {
+    "city": "Chachoengsao",
+    "admin": "Chachoengsao",
+    "sort": "39570"
+  },
+  {
+    "city": "Samrong",
+    "admin": "Samut Prakan",
+    "sort": "30382"
+  },
+  {
+    "city": "Surin",
+    "admin": "Surin",
+    "sort": "39728"
+  },
+  {
+    "city": "Chaiyaphum",
+    "admin": "Chaiyaphum",
+    "sort": "36923"
+  },
+  {
+    "city": "Ratchaburi",
+    "admin": "Ratchaburi",
+    "sort": "36339"
+  },
+  {
+    "city": "Roi Et",
+    "admin": "Roi Et",
+    "sort": "35219"
+  },
+  {
+    "city": "Phatthalung",
+    "admin": "Phatthalung",
+    "sort": "35039"
+  },
+  {
+    "city": "Ban Bang Krang",
+    "admin": "Nonthaburi",
+    "sort": "23010"
+  },
+  {
+    "city": "Ban Ang Sila",
+    "admin": "Chon Buri",
+    "sort": "33053"
+  },
+  {
+    "city": "Kalasin",
+    "admin": "Kalasin",
+    "sort": "34437"
+  },
+  {
+    "city": "Uttaradit",
+    "admin": "Uttaradit",
+    "sort": "33930"
+  },
+  {
+    "city": "Chumphon",
+    "admin": "Chumphon",
+    "sort": "33516"
+  },
+  {
+    "city": "Mukdahan",
+    "admin": "Mukdahan",
+    "sort": "33102"
+  },
+  {
+    "city": "Ban Bang Khu Wat",
+    "admin": "Pathum Thani",
+    "sort": "28349"
+  },
+  {
+    "city": "Chon Buri",
+    "admin": "Chon Buri",
+    "sort": "29961"
+  },
+  {
+    "city": "Krabi",
+    "admin": "Krabi",
+    "sort": "30499"
+  },
+  {
+    "city": "Sai Mai",
+    "admin": "Krung Thep Maha Nakhon",
+    "sort": "23316"
+  },
+  {
+    "city": "Kamphaeng Phet",
+    "admin": "Kamphaeng Phet",
+    "sort": "29178"
+  },
+  {
+    "city": "Samut Songkhram",
+    "admin": "Samut Songkhram",
+    "sort": "28493"
+  },
+  {
+    "city": "Buri Ram",
+    "admin": "Buriram",
+    "sort": "28613"
+  },
+  {
+    "city": "Kathu",
+    "admin": "Phuket",
+    "sort": "26078"
+  },
+  {
+    "city": "Ban Bang Phun",
+    "admin": "Pathum Thani",
+    "sort": "24625"
+  },
+  {
+    "city": "Nakhon Phanom",
+    "admin": "Nakhon Phanom",
+    "sort": "26437"
+  },
+  {
+    "city": "Suphan Buri",
+    "admin": "Suphan Buri",
+    "sort": "26164"
+  },
+  {
+    "city": "Bang Sao Thong",
+    "admin": "Samut Prakan",
+    "sort": "23630"
+  },
+  {
+    "city": "Krathum Baen",
+    "admin": "Samut Sakhon",
+    "sort": "21904"
+  },
+  {
+    "city": "Amnat Charoen",
+    "admin": "Amnat Charoen",
+    "sort": "25858"
+  },
+  {
+    "city": "Kanchanaburi",
+    "admin": "Kanchanaburi",
+    "sort": "25651"
+  },
+  {
+    "city": "Lop Buri",
+    "admin": "Lop Buri",
+    "sort": "24166"
+  },
+  {
+    "city": "Chanthaburi",
+    "admin": "Chanthaburi",
+    "sort": "23835"
+  },
+  {
+    "city": "Satun",
+    "admin": "Satun",
+    "sort": "23612"
+  },
+  {
+    "city": "Phetchaburi",
+    "admin": "Phetchaburi",
+    "sort": "23235"
+  },
+  {
+    "city": "Phra Pradaeng",
+    "admin": "Samut Prakan",
+    "sort": "10190"
+  },
+  {
+    "city": "Phichit",
+    "admin": "Phichit",
+    "sort": "22299"
+  },
+  {
+    "city": "Loei",
+    "admin": "Loei",
+    "sort": "22339"
+  },
+  {
+    "city": "Phetchabun",
+    "admin": "Phetchabun",
+    "sort": "22121"
+  },
+  {
+    "city": "Nong Bua Lamphu",
+    "admin": "Nong Bua Lamphu",
+    "sort": "21528"
+  },
+  {
+    "city": "Nan",
+    "admin": "Nan",
+    "sort": "20595"
+  },
+  {
+    "city": "Yasothon",
+    "admin": "Yasothon",
+    "sort": "20414"
+  },
+  {
+    "city": "Ban Rawai",
+    "admin": "Phuket",
+    "sort": "16988"
+  },
+  {
+    "city": "Prachin Buri",
+    "admin": "Prachin Buri",
+    "sort": "17768"
+  },
+  {
+    "city": "Sing Buri",
+    "admin": "Sing Buri",
+    "sort": "17843"
+  },
+  {
+    "city": "Sa Kaeo",
+    "admin": "Sa Kaeo",
+    "sort": "17864"
+  },
+  {
+    "city": "Pathum Thani",
+    "admin": "Pathum Thani",
+    "sort": "13987"
+  },
+  {
+    "city": "Tak",
+    "admin": "Tak",
+    "sort": "17565"
+  },
+  {
+    "city": "Phayao",
+    "admin": "Phayao",
+    "sort": "17467"
+  },
+  {
+    "city": "Phrae",
+    "admin": "Phrae",
+    "sort": "16668"
+  },
+  {
+    "city": "Ranong",
+    "admin": "Ranong",
+    "sort": "16125"
+  },
+  {
+    "city": "Nakhon Nayok",
+    "admin": "Nakhon Nayok",
+    "sort": "16195"
+  },
+  {
+    "city": "Sukhothai",
+    "admin": "Sukhothai",
+    "sort": "15618"
+  },
+  {
+    "city": "Uthai Thani",
+    "admin": "Uthai Thani",
+    "sort": "15434"
+  },
+  {
+    "city": "Phra Samut Chedi",
+    "admin": "Samut Prakan",
+    "sort": "13082"
+  },
+  {
+    "city": "Ban Bang Sai",
+    "admin": "Chon Buri",
+    "sort": "12136"
+  },
+  {
+    "city": "Ang Thong",
+    "admin": "Ang Thong",
+    "sort": "13277"
+  },
+  {
+    "city": "Lamphun",
+    "admin": "Lamphun",
+    "sort": "12595"
+  },
+  {
+    "city": "Chai Nat",
+    "admin": "Chai Nat",
+    "sort": "12541"
+  },
+  {
+    "city": "Trat",
+    "admin": "Trat",
+    "sort": "10413"
+  },
+  {
+    "city": "Phangnga",
+    "admin": "Phangnga",
+    "sort": "10412"
+  },
+  {
+    "city": "Mae Hong Son",
+    "admin": "Mae Hong Son",
+    "sort": "6526"
+  },
+  {
+    "city": "Bueng Kan",
+    "admin": "Bueng Kan",
+    "sort": "4494"
+  },
+  {
+    "city": "Ko Samui",
+    "admin": "Surat Thani",
+    "sort": "68994"
+  },
+  {
+    "city": "Hua Hin",
+    "admin": "Prachuap Khiri Khan",
+    "sort": "59369"
+  },
+  {
+    "city": "Khlong Luang",
+    "admin": "Pathum Thani",
+    "sort": "56128"
+  },
+  {
+    "city": "Ban Plai Bua Phatthana",
+    "admin": "Pathum Thani",
+    "sort": "46274"
+  },
+  {
+    "city": "Ban Bang Mae Nang",
+    "admin": "Nonthaburi",
+    "sort": "45974"
+  },
+  {
+    "city": "Ban Pet",
+    "admin": "Khon Kaen",
+    "sort": "42772"
+  },
+  {
+    "city": "Singhanakhon",
+    "admin": "Songkhla",
+    "sort": "42423"
+  },
+  {
+    "city": "Ban Wat Lak Hok",
+    "admin": "Ratchaburi",
+    "sort": "41884"
+  },
+  {
+    "city": "Su-ngai Kolok",
+    "admin": "Narathiwat",
+    "sort": "41590"
+  },
+  {
+    "city": "Ban Bang Khu Lat",
+    "admin": "Nonthaburi",
+    "sort": "38758"
+  },
+  {
+    "city": "Ban Mueang Na Tai",
+    "admin": "Chiang Mai",
+    "sort": "36156"
+  },
+  {
+    "city": "Pak Chong",
+    "admin": "Nakhon Ratchasima",
+    "sort": "35736"
+  },
+  {
+    "city": "Cha-am",
+    "admin": "Phetchaburi",
+    "sort": "35581"
+  },
+  {
+    "city": "Phra Phutthabat",
+    "admin": "Sara Buri",
+    "sort": "34322"
+  },
+  {
+    "city": "Ban Pak Phun",
+    "admin": "Nakhon Si Thammarat",
+    "sort": "33407"
+  },
+  {
+    "city": "Chum Phae",
+    "admin": "Khon Kaen",
+    "sort": "31597"
+  },
+  {
+    "city": "Mae Sot",
+    "admin": "Tak",
+    "sort": "31530"
+  },
+  {
+    "city": "Thung Song",
+    "admin": "Nakhon Si Thammarat",
+    "sort": "30500"
+  },
+  {
+    "city": "Ban Phai",
+    "admin": "Khon Kaen",
+    "sort": "28913"
+  },
+  {
+    "city": "Tha Yang",
+    "admin": "Phetchaburi",
+    "sort": "28437"
+  },
+  {
+    "city": "Warin Chamrap",
+    "admin": "Ubon Ratchathani",
+    "sort": "28154"
+  },
+  {
+    "city": "Ban Chang",
+    "admin": "Rayong",
+    "sort": "27668"
+  },
+  {
+    "city": "Ban Phonla Krang",
+    "admin": "Nakhon Ratchasima",
+    "sort": "26804"
+  },
+  {
+    "city": "Betong",
+    "admin": "Yala",
+    "sort": "26640"
+  },
+  {
+    "city": "Takhli",
+    "admin": "Nakhon Sawan",
+    "sort": "24563"
+  },
+  {
+    "city": "Sattahip",
+    "admin": "Chon Buri",
+    "sort": "23418"
+  },
+  {
+    "city": "Ban Phru",
+    "admin": "Songkhla",
+    "sort": "23518"
+  },
+  {
+    "city": "Si Racha",
+    "admin": "Chon Buri",
+    "sort": "23400"
+  },
+  {
+    "city": "Ban Bang Rin",
+    "admin": "Ranong",
+    "sort": "23144"
+  },
+  {
+    "city": "Wichian Buri",
+    "admin": "Phetchabun",
+    "sort": "22995"
+  },
+  {
+    "city": "Ban Piang Luang",
+    "admin": "Chiang Mai",
+    "sort": "22215"
+  },
+  {
+    "city": "Nang Rong",
+    "admin": "Buriram",
+    "sort": "21493"
+  },
+  {
+    "city": "Wang Nam Yen",
+    "admin": "Sa Kaeo",
+    "sort": "21301"
+  },
+  {
+    "city": "Sadao",
+    "admin": "Songkhla",
+    "sort": "21086"
+  },
+  {
+    "city": "Mae Sai",
+    "admin": "Chiang Rai",
+    "sort": "20699"
+  },
+  {
+    "city": "Na Klang",
+    "admin": "Nong Bua Lamphu",
+    "sort": "20609"
+  },
+  {
+    "city": "Ban Tha Pha",
+    "admin": "Ratchaburi",
+    "sort": "20211"
+  },
+  {
+    "city": "Pak Phanang",
+    "admin": "Nakhon Si Thammarat",
+    "sort": "20425"
+  },
+  {
+    "city": "Ban Tha Kham",
+    "admin": "Surat Thani",
+    "sort": "19939"
+  },
+  {
+    "city": "Ban Na San",
+    "admin": "Surat Thani",
+    "sort": "19801"
+  },
+  {
+    "city": "Ban Bueng",
+    "admin": "Chon Buri",
+    "sort": "19346"
+  },
+  {
+    "city": "Kantharalak",
+    "admin": "Sisaket",
+    "sort": "19392"
+  },
+  {
+    "city": "Ban Mae Hia Nai",
+    "admin": "Chiang Mai",
+    "sort": "18564"
+  },
+  {
+    "city": "Tak Bai",
+    "admin": "Narathiwat",
+    "sort": "18943"
+  },
+  {
+    "city": "Ban Na Yang",
+    "admin": "Phetchaburi",
+    "sort": "18961"
+  },
+  {
+    "city": "Ban Mai",
+    "admin": "Nakhon Ratchasima",
+    "sort": "18255"
+  },
+  {
+    "city": "Sam Phran",
+    "admin": "Nakhon Pathom",
+    "sort": "17611"
+  },
+  {
+    "city": "Tha Bo",
+    "admin": "Nong Khai",
+    "sort": "18320"
+  },
+  {
+    "city": "Sikhio",
+    "admin": "Nakhon Ratchasima",
+    "sort": "18209"
+  },
+  {
+    "city": "San Kamphaeng",
+    "admin": "Chiang Mai",
+    "sort": "17857"
+  },
+  {
+    "city": "Klaeng",
+    "admin": "Rayong",
+    "sort": "17764"
+  },
+  {
+    "city": "Ban Thum",
+    "admin": "Khon Kaen",
+    "sort": "17564"
+  },
+  {
+    "city": "Ban Phe",
+    "admin": "Rayong",
+    "sort": "17116"
+  },
+  {
+    "city": "Ban Pong",
+    "admin": "Ratchaburi",
+    "sort": "17298"
+  },
+  {
+    "city": "Lam Luk Ka",
+    "admin": "Pathum Thani",
+    "sort": "15881"
+  },
+  {
+    "city": "Ban Song",
+    "admin": "Surat Thani",
+    "sort": "17373"
+  },
+  {
+    "city": "Rattaphum",
+    "admin": "Songkhla",
+    "sort": "17257"
+  },
+  {
+    "city": "Sawankhalok",
+    "admin": "Sukhothai",
+    "sort": "17148"
+  },
+  {
+    "city": "Ban Cho Ho",
+    "admin": "Nakhon Ratchasima",
+    "sort": "16527"
+  },
+  {
+    "city": "Pran Buri",
+    "admin": "Prachuap Khiri Khan",
+    "sort": "16851"
+  },
+  {
+    "city": "Ban Thung Tam Sao",
+    "admin": "Songkhla",
+    "sort": "16344"
+  },
+  {
+    "city": "Ban Lam Narai",
+    "admin": "Lop Buri",
+    "sort": "16470"
+  },
+  {
+    "city": "Chai Prakan",
+    "admin": "Chiang Mai",
+    "sort": "16090"
+  },
+  {
+    "city": "Bang Phae",
+    "admin": "Ratchaburi",
+    "sort": "16130"
+  },
+  {
+    "city": "Aranyaprathet",
+    "admin": "Sa Kaeo",
+    "sort": "16211"
+  },
+  {
+    "city": "Ban Dung",
+    "admin": "Udon Thani",
+    "sort": "15913"
+  },
+  {
+    "city": "Si Satchanalai",
+    "admin": "Sukhothai",
+    "sort": "15691"
+  },
+  {
+    "city": "Ban Na Kham",
+    "admin": "Prachin Buri",
+    "sort": "15465"
+  },
+  {
+    "city": "Khao Yoi",
+    "admin": "Phetchaburi",
+    "sort": "15416"
+  },
+  {
+    "city": "Ban Duea",
+    "admin": "Chaiyaphum",
+    "sort": "15463"
+  },
+  {
+    "city": "Ban Bang Muang",
+    "admin": "Nonthaburi",
+    "sort": "13786"
+  },
+  {
+    "city": "Thoen",
+    "admin": "Lampang",
+    "sort": "15360"
+  },
+  {
+    "city": "Ban Kaeng",
+    "admin": "Chaiyaphum",
+    "sort": "14529"
+  },
+  {
+    "city": "Sai Buri",
+    "admin": "Pattani",
+    "sort": "14137"
+  },
+  {
+    "city": "Det Udom",
+    "admin": "Ubon Ratchathani",
+    "sort": "14264"
+  },
+  {
+    "city": "Pak Thong Chai",
+    "admin": "Nakhon Ratchasima",
+    "sort": "14272"
+  },
+  {
+    "city": "Bua Yai",
+    "admin": "Nakhon Ratchasima",
+    "sort": "14168"
+  },
+  {
+    "city": "Bang Racham",
+    "admin": "Sing Buri",
+    "sort": "13937"
+  },
+  {
+    "city": "Taphan Hin",
+    "admin": "Phichit",
+    "sort": "13868"
+  },
+  {
+    "city": "Ban Tha Luang Lang",
+    "admin": "Chanthaburi",
+    "sort": "13785"
+  },
+  {
+    "city": "Ban Mae Kaluang",
+    "admin": "Phayao",
+    "sort": "13502"
+  },
+  {
+    "city": "Ban Bung Kha",
+    "admin": "Yasothon",
+    "sort": "13507"
+  },
+  {
+    "city": "Dok Kham Tai",
+    "admin": "Phayao",
+    "sort": "13450"
+  },
+  {
+    "city": "Ban Chorakhe Samphan",
+    "admin": "Suphan Buri",
+    "sort": "13157"
+  },
+  {
+    "city": "Ban Bang Lamung",
+    "admin": "Chon Buri",
+    "sort": "11324"
+  },
+  {
+    "city": "Song Phi Nong",
+    "admin": "Suphan Buri",
+    "sort": "12926"
+  },
+  {
+    "city": "Ban Tat",
+    "admin": "Udon Thani",
+    "sort": "12760"
+  },
+  {
+    "city": "Chaiyo",
+    "admin": "Ang Thong",
+    "sort": "12710"
+  },
+  {
+    "city": "Ban Laem",
+    "admin": "Phetchaburi",
+    "sort": "12541"
+  },
+  {
+    "city": "Kaeng Khoi",
+    "admin": "Sara Buri",
+    "sort": "12752"
+  },
+  {
+    "city": "Nong Khae",
+    "admin": "Sara Buri",
+    "sort": "12336"
+  },
+  {
+    "city": "Ban Muang Ngam",
+    "admin": "Songkhla",
+    "sort": "12084"
+  },
+  {
+    "city": "Ban Bang Non",
+    "admin": "Ranong",
+    "sort": "12466"
+  },
+  {
+    "city": "Chok Chai",
+    "admin": "Nakhon Ratchasima",
+    "sort": "12568"
+  },
+  {
+    "city": "Ban Tom Klang",
+    "admin": "Phayao",
+    "sort": "12586"
+  },
+  {
+    "city": "Kantang",
+    "admin": "Trang",
+    "sort": "12533"
+  },
+  {
+    "city": "Rong Kwang",
+    "admin": "Phrae",
+    "sort": "12553"
+  },
+  {
+    "city": "Ban Bang Yai",
+    "admin": "Nonthaburi",
+    "sort": "10767"
+  },
+  {
+    "city": "Huai Yot",
+    "admin": "Trang",
+    "sort": "12337"
+  },
+  {
+    "city": "Na Wa",
+    "admin": "Nakhon Phanom",
+    "sort": "12160"
+  },
+  {
+    "city": "Ban Bo Luang",
+    "admin": "Chiang Mai",
+    "sort": "12143"
+  },
+  {
+    "city": "Wang Saphung",
+    "admin": "Loei",
+    "sort": "11992"
+  },
+  {
+    "city": "Don Sak",
+    "admin": "Surat Thani",
+    "sort": "11934"
+  },
+  {
+    "city": "Nong Bua",
+    "admin": "Nakhon Sawan",
+    "sort": "11951"
+  },
+  {
+    "city": "Ban Phan Don",
+    "admin": "Udon Thani",
+    "sort": "11739"
+  },
+  {
+    "city": "Kuchinarai",
+    "admin": "Kalasin",
+    "sort": "11753"
+  },
+  {
+    "city": "Ban Wiang Phan",
+    "admin": "Chiang Rai",
+    "sort": "11569"
+  },
+  {
+    "city": "Phon",
+    "admin": "Khon Kaen",
+    "sort": "11593"
+  },
+  {
+    "city": "Lom Sak",
+    "admin": "Phetchabun",
+    "sort": "11685"
+  },
+  {
+    "city": "Ban Bang Toei",
+    "admin": "Pathum Thani",
+    "sort": "10164"
+  },
+  {
+    "city": "Den Chai",
+    "admin": "Phrae",
+    "sort": "11542"
+  },
+  {
+    "city": "Phanat Nikhom",
+    "admin": "Chon Buri",
+    "sort": "11032"
+  },
+  {
+    "city": "Satuek",
+    "admin": "Buriram",
+    "sort": "11444"
+  },
+  {
+    "city": "Salaya",
+    "admin": "Nakhon Pathom",
+    "sort": "11180"
+  },
+  {
+    "city": "Lang Suan",
+    "admin": "Chumphon",
+    "sort": "11250"
+  },
+  {
+    "city": "Bang Ban",
+    "admin": "Phra Nakhon Si Ayutthaya",
+    "sort": "11092"
+  },
+  {
+    "city": "Kaset Wisai",
+    "admin": "Roi Et",
+    "sort": "11217"
+  },
+  {
+    "city": "Si Wilai",
+    "admin": "Bueng Kan",
+    "sort": "11090"
+  },
+  {
+    "city": "Ban Bo Phlap",
+    "admin": "Nakhon Pathom",
+    "sort": "9281"
+  },
+  {
+    "city": "Tha Chang",
+    "admin": "Surat Thani",
+    "sort": "11108"
+  },
+  {
+    "city": "Fao Rai",
+    "admin": "Nong Khai",
+    "sort": "10978"
+  },
+  {
+    "city": "Ban Yang Hom",
+    "admin": "Chiang Rai",
+    "sort": "10939"
+  },
+  {
+    "city": "Phibun Mangsahan",
+    "admin": "Ubon Ratchathani",
+    "sort": "10842"
+  },
+  {
+    "city": "Phrai Bueng",
+    "admin": "Sisaket",
+    "sort": "10864"
+  },
+  {
+    "city": "Khlung",
+    "admin": "Chanthaburi",
+    "sort": "10835"
+  },
+  {
+    "city": "Pua",
+    "admin": "Nan",
+    "sort": "10831"
+  },
+  {
+    "city": "Sam Ko",
+    "admin": "Ang Thong",
+    "sort": "10696"
+  },
+  {
+    "city": "Wang Sombun",
+    "admin": "Sa Kaeo",
+    "sort": "10747"
+  },
+  {
+    "city": "Ban Ko",
+    "admin": "Ratchaburi",
+    "sort": "10561"
+  },
+  {
+    "city": "Ban Lueak",
+    "admin": "Ratchaburi",
+    "sort": "10480"
+  },
+  {
+    "city": "Ban Bang Phlap",
+    "admin": "Nonthaburi",
+    "sort": "9434"
+  },
+  {
+    "city": "Ban Thung Khao Phuang",
+    "admin": "Chiang Mai",
+    "sort": "10500"
+  },
+  {
+    "city": "Prakhon Chai",
+    "admin": "Buriram",
+    "sort": "10404"
+  },
+  {
+    "city": "Phai Sali",
+    "admin": "Nakhon Sawan",
+    "sort": "10450"
+  },
+  {
+    "city": "Phon Charoen",
+    "admin": "Bueng Kan",
+    "sort": "10357"
+  },
+  {
+    "city": "Tha Muang",
+    "admin": "Kanchanaburi",
+    "sort": "10219"
+  },
+  {
+    "city": "Ban Klang",
+    "admin": "Lamphun",
+    "sort": "10143"
+  },
+  {
+    "city": "Kut Chap",
+    "admin": "Udon Thani",
+    "sort": "10259"
+  },
+  {
+    "city": "Kranuan",
+    "admin": "Khon Kaen",
+    "sort": "10169"
+  },
+  {
+    "city": "Ban Bong Tai",
+    "admin": "Sakon Nakhon",
+    "sort": "10168"
+  },
+  {
+    "city": "Nong Ki",
+    "admin": "Buriram",
+    "sort": "10089"
+  },
+  {
+    "city": "Phak Hai",
+    "admin": "Phra Nakhon Si Ayutthaya",
+    "sort": "9905"
+  },
+  {
+    "city": "Sung Noen",
+    "admin": "Nakhon Ratchasima",
+    "sort": "10061"
+  },
+  {
+    "city": "Ban Bu Sung",
+    "admin": "Sisaket",
+    "sort": "10063"
+  },
+  {
+    "city": "Kamalasai",
+    "admin": "Kalasin",
+    "sort": "9942"
+  },
+  {
+    "city": "Tha Mai",
+    "admin": "Chanthaburi",
+    "sort": "9843"
+  },
+  {
+    "city": "Mae Ai",
+    "admin": "Chiang Mai",
+    "sort": "9699"
+  },
+  {
+    "city": "Non Sung",
+    "admin": "Nakhon Ratchasima",
+    "sort": "9730"
+  },
+  {
+    "city": "Nong Wua So",
+    "admin": "Udon Thani",
+    "sort": "9816"
+  },
+  {
+    "city": "Bueng Khong Long",
+    "admin": "Bueng Kan",
+    "sort": "9777"
+  },
+  {
+    "city": "Photharam",
+    "admin": "Ratchaburi",
+    "sort": "9575"
+  },
+  {
+    "city": "Chom Thong",
+    "admin": "Chiang Mai",
+    "sort": "9777"
+  },
+  {
+    "city": "Chiang Klang",
+    "admin": "Nan",
+    "sort": "9721"
+  },
+  {
+    "city": "Ban Krot",
+    "admin": "Phra Nakhon Si Ayutthaya",
+    "sort": "9471"
+  },
+  {
+    "city": "Thap Khlo",
+    "admin": "Phichit",
+    "sort": "9676"
+  },
+  {
+    "city": "Wiang Sa",
+    "admin": "Surat Thani",
+    "sort": "9587"
+  },
+  {
+    "city": "Mae Rim",
+    "admin": "Chiang Mai",
+    "sort": "9567"
+  },
+  {
+    "city": "Kanchanadit",
+    "admin": "Surat Thani",
+    "sort": "9492"
+  },
+  {
+    "city": "Bang Khla",
+    "admin": "Chachoengsao",
+    "sort": "9311"
+  },
+  {
+    "city": "Ban Tha Phra",
+    "admin": "Khon Kaen",
+    "sort": "9075"
+  },
+  {
+    "city": "Nakhon Thai",
+    "admin": "Phitsanulok",
+    "sort": "9278"
+  },
+  {
+    "city": "Nong Kung Si",
+    "admin": "Kalasin",
+    "sort": "9213"
+  },
+  {
+    "city": "Suwannaphum",
+    "admin": "Roi Et",
+    "sort": "9183"
+  },
+  {
+    "city": "Pong Nam Ron",
+    "admin": "Chanthaburi",
+    "sort": "9210"
+  },
+  {
+    "city": "Kaeng Khro",
+    "admin": "Chaiyaphum",
+    "sort": "9012"
+  },
+  {
+    "city": "Thung Sai",
+    "admin": "Kamphaeng Phet",
+    "sort": "8971"
+  },
+  {
+    "city": "Kosum Phisai",
+    "admin": "Maha Sarakham",
+    "sort": "8984"
+  },
+  {
+    "city": "Akat Amnuai",
+    "admin": "Sakon Nakhon",
+    "sort": "9013"
+  },
+  {
+    "city": "Tha Luang",
+    "admin": "Lop Buri",
+    "sort": "9003"
+  },
+  {
+    "city": "Pa Mok",
+    "admin": "Ang Thong",
+    "sort": "8758"
+  },
+  {
+    "city": "Thap Than",
+    "admin": "Uthai Thani",
+    "sort": "8931"
+  },
+  {
+    "city": "Kui Buri",
+    "admin": "Prachuap Khiri Khan",
+    "sort": "8916"
+  },
+  {
+    "city": "Takua Pa",
+    "admin": "Phangnga",
+    "sort": "8815"
+  },
+  {
+    "city": "Ban Na",
+    "admin": "Rayong",
+    "sort": "8468"
+  },
+  {
+    "city": "Pa Sang",
+    "admin": "Lamphun",
+    "sort": "8645"
+  },
+  {
+    "city": "Phimai",
+    "admin": "Nakhon Ratchasima",
+    "sort": "8696"
+  },
+  {
+    "city": "Ban Ratchakrut",
+    "admin": "Ranong",
+    "sort": "8569"
+  },
+  {
+    "city": "Yang Talat",
+    "admin": "Kalasin",
+    "sort": "8666"
+  },
+  {
+    "city": "Nam Som",
+    "admin": "Udon Thani",
+    "sort": "8742"
+  },
+  {
+    "city": "Nakhon Chai Si",
+    "admin": "Nakhon Pathom",
+    "sort": "8226"
+  },
+  {
+    "city": "Bang Len",
+    "admin": "Nakhon Pathom",
+    "sort": "8429"
+  },
+  {
+    "city": "Sawang Daen Din",
+    "admin": "Sakon Nakhon",
+    "sort": "8486"
+  },
+  {
+    "city": "Na Yung",
+    "admin": "Udon Thani",
+    "sort": "8564"
+  },
+  {
+    "city": "Bang Mun Nak",
+    "admin": "Phichit",
+    "sort": "8448"
+  },
+  {
+    "city": "Non Sang",
+    "admin": "Nong Bua Lamphu",
+    "sort": "8449"
+  },
+  {
+    "city": "Kumphawapi",
+    "admin": "Udon Thani",
+    "sort": "8341"
+  },
+  {
+    "city": "Tha Maka",
+    "admin": "Kanchanaburi",
+    "sort": "8093"
+  },
+  {
+    "city": "U Thong",
+    "admin": "Suphan Buri",
+    "sort": "8237"
+  },
+  {
+    "city": "Phayakkhaphum Phisai",
+    "admin": "Maha Sarakham",
+    "sort": "8308"
+  },
+  {
+    "city": "Khanu Woralaksaburi",
+    "admin": "Kamphaeng Phet",
+    "sort": "8264"
+  },
+  {
+    "city": "Chaiwan",
+    "admin": "Udon Thani",
+    "sort": "8297"
+  },
+  {
+    "city": "Ban Buak Khang",
+    "admin": "Chiang Mai",
+    "sort": "8112"
+  },
+  {
+    "city": "Chonnabot",
+    "admin": "Khon Kaen",
+    "sort": "8145"
+  },
+  {
+    "city": "Ron Phibun",
+    "admin": "Nakhon Si Thammarat",
+    "sort": "8086"
+  },
+  {
+    "city": "Sawang Wirawong",
+    "admin": "Ubon Ratchathani",
+    "sort": "8136"
+  },
+  {
+    "city": "Dong Luang",
+    "admin": "Mukdahan",
+    "sort": "8135"
+  },
+  {
+    "city": "Chumsaeng",
+    "admin": "Nakhon Sawan",
+    "sort": "7942"
+  },
+  {
+    "city": "Damnoen Saduak",
+    "admin": "Ratchaburi",
+    "sort": "7399"
+  },
+  {
+    "city": "Thung Saliam",
+    "admin": "Sukhothai",
+    "sort": "7760"
+  },
+  {
+    "city": "Khon Buri",
+    "admin": "Nakhon Ratchasima",
+    "sort": "7781"
+  },
+  {
+    "city": "Soeng Sang",
+    "admin": "Nakhon Ratchasima",
+    "sort": "7756"
+  },
+  {
+    "city": "Ban Phue",
+    "admin": "Udon Thani",
+    "sort": "7740"
+  },
+  {
+    "city": "Chaiya",
+    "admin": "Surat Thani",
+    "sort": "7736"
+  },
+  {
+    "city": "Bang Pa-in",
+    "admin": "Phra Nakhon Si Ayutthaya",
+    "sort": "7380"
+  },
+  {
+    "city": "Ban Duea",
+    "admin": "Nong Khai",
+    "sort": "7426"
+  },
+  {
+    "city": "Hang Dong",
+    "admin": "Chiang Mai",
+    "sort": "7291"
+  },
+  {
+    "city": "Uthumphon Phisai",
+    "admin": "Sisaket",
+    "sort": "7417"
+  },
+  {
+    "city": "Nong Phai",
+    "admin": "Phetchabun",
+    "sort": "7481"
+  },
+  {
+    "city": "Phu Kradueng",
+    "admin": "Loei",
+    "sort": "7491"
+  },
+  {
+    "city": "Ra-ngae",
+    "admin": "Narathiwat",
+    "sort": "7266"
+  },
+  {
+    "city": "Tha Ruea",
+    "admin": "Phra Nakhon Si Ayutthaya",
+    "sort": "6979"
+  },
+  {
+    "city": "Sa Bot",
+    "admin": "Lop Buri",
+    "sort": "7348"
+  },
+  {
+    "city": "Na Chaluai",
+    "admin": "Ubon Ratchathani",
+    "sort": "7306"
+  },
+  {
+    "city": "Thung Fon",
+    "admin": "Udon Thani",
+    "sort": "7260"
+  },
+  {
+    "city": "Si Chiang Mai",
+    "admin": "Nong Khai",
+    "sort": "7142"
+  },
+  {
+    "city": "Nakhon Luang",
+    "admin": "Phra Nakhon Si Ayutthaya",
+    "sort": "7092"
+  },
+  {
+    "city": "Bamnet Narong",
+    "admin": "Chaiyaphum",
+    "sort": "7147"
+  },
+  {
+    "city": "Bo Phloi",
+    "admin": "Kanchanaburi",
+    "sort": "7095"
+  },
+  {
+    "city": "Ko Pha-Ngan",
+    "admin": "Surat Thani",
+    "sort": "7035"
+  },
+  {
+    "city": "Ban Chan",
+    "admin": "Udon Thani",
+    "sort": "6850"
+  },
+  {
+    "city": "Charoen Sin",
+    "admin": "Sakon Nakhon",
+    "sort": "6869"
+  },
+  {
+    "city": "Ban Haet",
+    "admin": "Khon Kaen",
+    "sort": "6722"
+  },
+  {
+    "city": "Ban Bang Pakong",
+    "admin": "Chachoengsao",
+    "sort": "6416"
+  },
+  {
+    "city": "Chiang Kham",
+    "admin": "Phayao",
+    "sort": "6748"
+  },
+  {
+    "city": "Phan Thong",
+    "admin": "Chon Buri",
+    "sort": "6228"
+  },
+  {
+    "city": "Na Duang",
+    "admin": "Loei",
+    "sort": "6748"
+  },
+  {
+    "city": "Phanom Sarakham",
+    "admin": "Chachoengsao",
+    "sort": "6527"
+  },
+  {
+    "city": "Yaring",
+    "admin": "Pattani",
+    "sort": "6352"
+  },
+  {
+    "city": "That Phanom",
+    "admin": "Nakhon Phanom",
+    "sort": "6494"
+  },
+  {
+    "city": "Nong Chik",
+    "admin": "Pattani",
+    "sort": "6347"
+  },
+  {
+    "city": "Ban Hua Saphan",
+    "admin": "Phetchaburi",
+    "sort": "6148"
+  },
+  {
+    "city": "Ban Tak",
+    "admin": "Tak",
+    "sort": "6568"
+  },
+  {
+    "city": "Lat Yao",
+    "admin": "Nakhon Sawan",
+    "sort": "6483"
+  },
+  {
+    "city": "Phu Khiao",
+    "admin": "Chaiyaphum",
+    "sort": "6450"
+  },
+  {
+    "city": "Pa Daet",
+    "admin": "Chiang Rai",
+    "sort": "6427"
+  },
+  {
+    "city": "Dan Khun Thot",
+    "admin": "Nakhon Ratchasima",
+    "sort": "6432"
+  },
+  {
+    "city": "Bua Chet",
+    "admin": "Surin",
+    "sort": "6418"
+  },
+  {
+    "city": "Wiset Chaichan",
+    "admin": "Ang Thong",
+    "sort": "6220"
+  },
+  {
+    "city": "Nikhom Kham Soi",
+    "admin": "Mukdahan",
+    "sort": "6334"
+  },
+  {
+    "city": "Si Prachan",
+    "admin": "Suphan Buri",
+    "sort": "6185"
+  },
+  {
+    "city": "Phop Phra",
+    "admin": "Tak",
+    "sort": "6350"
+  },
+  {
+    "city": "Sai Mun",
+    "admin": "Yasothon",
+    "sort": "6270"
+  },
+  {
+    "city": "Prathai",
+    "admin": "Nakhon Ratchasima",
+    "sort": "6130"
+  },
+  {
+    "city": "Nong Song Hong",
+    "admin": "Khon Kaen",
+    "sort": "6106"
+  },
+  {
+    "city": "Rong Kham",
+    "admin": "Kalasin",
+    "sort": "6086"
+  },
+  {
+    "city": "Phanna Nikhom",
+    "admin": "Sakon Nakhon",
+    "sort": "6137"
+  },
+  {
+    "city": "Khok Samrong",
+    "admin": "Lop Buri",
+    "sort": "6041"
+  },
+  {
+    "city": "Lom Kao",
+    "admin": "Phetchabun",
+    "sort": "6065"
+  },
+  {
+    "city": "Pueai Noi",
+    "admin": "Khon Kaen",
+    "sort": "5946"
+  },
+  {
+    "city": "Wanon Niwat",
+    "admin": "Sakon Nakhon",
+    "sort": "5901"
+  },
+  {
+    "city": "Ban Chet Samian",
+    "admin": "Ratchaburi",
+    "sort": "5709"
+  },
+  {
+    "city": "Kao Liao",
+    "admin": "Nakhon Sawan",
+    "sort": "5835"
+  },
+  {
+    "city": "Borabue",
+    "admin": "Maha Sarakham",
+    "sort": "5771"
+  },
+  {
+    "city": "Huai Mek",
+    "admin": "Kalasin",
+    "sort": "5772"
+  },
+  {
+    "city": "Moeiwadi",
+    "admin": "Roi Et",
+    "sort": "5782"
+  },
+  {
+    "city": "Phachi",
+    "admin": "Phra Nakhon Si Ayutthaya",
+    "sort": "5595"
+  },
+  {
+    "city": "Non Sila",
+    "admin": "Khon Kaen",
+    "sort": "5682"
+  },
+  {
+    "city": "Phayuha Khiri",
+    "admin": "Nakhon Sawan",
+    "sort": "5731"
+  },
+  {
+    "city": "Ban Bang Tabun",
+    "admin": "Phetchaburi",
+    "sort": "5431"
+  },
+  {
+    "city": "Ao Luek",
+    "admin": "Krabi",
+    "sort": "5719"
+  },
+  {
+    "city": "Ku Kaeo",
+    "admin": "Udon Thani",
+    "sort": "5673"
+  },
+  {
+    "city": "Ban Hat Lek",
+    "admin": "Trat",
+    "sort": "5351"
+  },
+  {
+    "city": "Pong",
+    "admin": "Phayao",
+    "sort": "5719"
+  },
+  {
+    "city": "Ban Krang",
+    "admin": "Suphan Buri",
+    "sort": "5391"
+  },
+  {
+    "city": "Bang Sai",
+    "admin": "Phra Nakhon Si Ayutthaya",
+    "sort": "5277"
+  },
+  {
+    "city": "Kae Dam",
+    "admin": "Maha Sarakham",
+    "sort": "5402"
+  },
+  {
+    "city": "Kham Sakae Saeng",
+    "admin": "Nakhon Ratchasima",
+    "sort": "5385"
+  },
+  {
+    "city": "Phanom Thuan",
+    "admin": "Kanchanaburi",
+    "sort": "5376"
+  },
+  {
+    "city": "Ko Chang",
+    "admin": "Trat",
+    "sort": "5445"
+  },
+  {
+    "city": "Sam Sung",
+    "admin": "Khon Kaen",
+    "sort": "5310"
+  },
+  {
+    "city": "Yarang",
+    "admin": "Pattani",
+    "sort": "5044"
+  },
+  {
+    "city": "Tha Wang Pha",
+    "admin": "Nan",
+    "sort": "5242"
+  },
+  {
+    "city": "Waeng Yai",
+    "admin": "Khon Kaen",
+    "sort": "5174"
+  },
+  {
+    "city": "Nong Muang",
+    "admin": "Lop Buri",
+    "sort": "5200"
+  },
+  {
+    "city": "Nong Na Kham",
+    "admin": "Khon Kaen",
+    "sort": "5083"
+  },
+  {
+    "city": "Sanom",
+    "admin": "Surin",
+    "sort": "5074"
+  },
+  {
+    "city": "In Buri",
+    "admin": "Sing Buri",
+    "sort": "5032"
+  },
+  {
+    "city": "Mae Chai",
+    "admin": "Phayao",
+    "sort": "5086"
+  },
+  {
+    "city": "Kut Bak",
+    "admin": "Sakon Nakhon",
+    "sort": "5112"
+  },
+  {
+    "city": "Si Sakhon",
+    "admin": "Narathiwat",
+    "sort": "5081"
+  },
+  {
+    "city": "Phanom",
+    "admin": "Surat Thani",
+    "sort": "5074"
+  },
+  {
+    "city": "Thung Yai",
+    "admin": "Nakhon Si Thammarat",
+    "sort": "5010"
+  },
+  {
+    "city": "Ban Kham Pom",
+    "admin": "Ubon Ratchathani",
+    "sort": "9209"
+  },
+  {
+    "city": "Ban Nong Samet",
+    "admin": "Trat",
+    "sort": "8445"
+  },
+  {
+    "city": "Ban Pa Lu Ru",
+    "admin": "Narathiwat",
+    "sort": "8314"
+  },
+  {
+    "city": "Ban Don Sai",
+    "admin": "Udon Thani",
+    "sort": "8241"
+  },
+  {
+    "city": "Ban Tham",
+    "admin": "Phayao",
+    "sort": "8271"
+  },
+  {
+    "city": "Ban Huai Mai",
+    "admin": "Phrae",
+    "sort": "7983"
+  },
+  {
+    "city": "Ban Banlang",
+    "admin": "Nakhon Ratchasima",
+    "sort": "7834"
+  },
+  {
+    "city": "Ban Pao",
+    "admin": "Chaiyaphum",
+    "sort": "7810"
+  },
+  {
+    "city": "Ban Patan Mai",
+    "admin": "Chiang Rai",
+    "sort": "7610"
+  },
+  {
+    "city": "Ban Bua Ngam",
+    "admin": "Ubon Ratchathani",
+    "sort": "7086"
+  },
+  {
+    "city": "Sichon",
+    "admin": "Prachuap Khiri Khan",
+    "sort": "7027"
+  },
+  {
+    "city": "Ban Karaket",
+    "admin": "Nakhon Si Thammarat",
+    "sort": "6956"
+  },
+  {
+    "city": "Ban Kamphuan",
+    "admin": "Ranong",
+    "sort": "6886"
+  },
+  {
+    "city": "Ban Wang Kalang",
+    "admin": "Kanchanaburi",
+    "sort": "6877"
+  },
+  {
+    "city": "Ban Phon Yai",
+    "admin": "Sakon Nakhon",
+    "sort": "6528"
+  },
+  {
+    "city": "Ban Tai",
+    "admin": "Sakon Nakhon",
+    "sort": "6438"
+  },
+  {
+    "city": "Ban Ta Hua Fai",
+    "admin": "Chiang Rai",
+    "sort": "6057"
+  },
+  {
+    "city": "Ban Dong Mafai",
+    "admin": "Sakon Nakhon",
+    "sort": "6013"
+  },
+  {
+    "city": "Ban Chiang",
+    "admin": "Udon Thani",
+    "sort": "6025"
+  },
+  {
+    "city": "Ban Talat Ko Ta Ba Ru",
+    "admin": "Yala",
+    "sort": "5532"
+  },
+  {
+    "city": "Ban Chiang Klom",
+    "admin": "Loei",
+    "sort": "5208"
+  },
+  {
+    "city": "Ban Nam Phong",
+    "admin": "Khon Kaen",
+    "sort": "5070"
+  },
+  {
+    "city": "Ban Bang Pramung",
+    "admin": "Nakhon Sawan",
+    "sort": "5016"
+  },
+  {
+    "city": "Ban San",
+    "admin": "Chiang Mai",
+    "sort": "5100"
+  }
+]

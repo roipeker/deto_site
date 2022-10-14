@@ -1,0 +1,177 @@
+[
+  {
+    "city": "Lusaka",
+    "admin": "Lusaka",
+    "sort": "1742979"
+  },
+  {
+    "city": "Ndola",
+    "admin": "Copperbelt",
+    "sort": "528330"
+  },
+  {
+    "city": "Kitwe",
+    "admin": "Copperbelt",
+    "sort": "504194"
+  },
+  {
+    "city": "Mazabuka",
+    "admin": "Southern",
+    "sort": "203219"
+  },
+  {
+    "city": "Kasama",
+    "admin": "Northern",
+    "sort": "200000"
+  },
+  {
+    "city": "Kashikishi",
+    "admin": "Luapula",
+    "sort": "150000"
+  },
+  {
+    "city": "Chingola",
+    "admin": "Copperbelt",
+    "sort": "147448"
+  },
+  {
+    "city": "Nchelenge",
+    "admin": "Luapula",
+    "sort": "147927"
+  },
+  {
+    "city": "Livingstone",
+    "admin": "Southern",
+    "sort": "136897"
+  },
+  {
+    "city": "Mansa",
+    "admin": "Luapula",
+    "sort": "129185"
+  },
+  {
+    "city": "Mufulira",
+    "admin": "Copperbelt",
+    "sort": "122336"
+  },
+  {
+    "city": "Kabwe",
+    "admin": "Central",
+    "sort": "117517"
+  },
+  {
+    "city": "Luanshya",
+    "admin": "Copperbelt",
+    "sort": "117579"
+  },
+  {
+    "city": "Chipata",
+    "admin": "Eastern",
+    "sort": "98416"
+  },
+  {
+    "city": "Solwezi",
+    "admin": "North-Western",
+    "sort": "65000"
+  },
+  {
+    "city": "Mongu",
+    "admin": "Western",
+    "sort": "52534"
+  },
+  {
+    "city": "Choma",
+    "admin": "Southern",
+    "sort": "46746"
+  },
+  {
+    "city": "Chinsali",
+    "admin": "Muchinga",
+    "sort": "14015"
+  },
+  {
+    "city": "Chililabombwe",
+    "admin": "Copperbelt",
+    "sort": "90530"
+  },
+  {
+    "city": "Kafue",
+    "admin": "Lusaka",
+    "sort": "47554"
+  },
+  {
+    "city": "Kapiri Mposhi",
+    "admin": "Central",
+    "sort": "37942"
+  },
+  {
+    "city": "Mpika",
+    "admin": "Muchinga",
+    "sort": "28445"
+  },
+  {
+    "city": "Mbala",
+    "admin": "Northern",
+    "sort": "20570"
+  },
+  {
+    "city": "Kawambwa",
+    "admin": "Luapula",
+    "sort": "20589"
+  },
+  {
+    "city": "Sesheke",
+    "admin": "Western",
+    "sort": "20149"
+  },
+  {
+    "city": "Mumbwa",
+    "admin": "Central",
+    "sort": "19086"
+  },
+  {
+    "city": "Kaoma",
+    "admin": "Western",
+    "sort": "14212"
+  },
+  {
+    "city": "Mwinilunga",
+    "admin": "North-Western",
+    "sort": "13798"
+  },
+  {
+    "city": "Lundazi",
+    "admin": "Eastern",
+    "sort": "11635"
+  },
+  {
+    "city": "Senanga",
+    "admin": "Western",
+    "sort": "10005"
+  },
+  {
+    "city": "Kalabo",
+    "admin": "Western",
+    "sort": "7731"
+  },
+  {
+    "city": "Zambezi",
+    "admin": "North-Western",
+    "sort": "7074"
+  },
+  {
+    "city": "Kasempa",
+    "admin": "North-Western",
+    "sort": "5622"
+  },
+  {
+    "city": "Lukulu",
+    "admin": "Western",
+    "sort": "3349"
+  },
+  {
+    "city": "Nyimba",
+    "admin": "Eastern",
+    "sort": "1336"
+  }
+]

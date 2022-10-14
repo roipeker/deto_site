@@ -1,0 +1,32 @@
+[
+  {
+    "city": "Djibouti",
+    "admin": "Djibouti",
+    "sort": "562000"
+  },
+  {
+    "city": "Ali Sabieh",
+    "admin": "Ali Sabieh",
+    "sort": "37939"
+  },
+  {
+    "city": "Dikhil",
+    "admin": "Dikhil",
+    "sort": "35000"
+  },
+  {
+    "city": "Obock",
+    "admin": "Obock",
+    "sort": "21200"
+  },
+  {
+    "city": "Tadjourah",
+    "admin": "Tadjourah",
+    "sort": "14820"
+  },
+  {
+    "city": "Arta",
+    "admin": "Arta",
+    "sort": ""
+  }
+]

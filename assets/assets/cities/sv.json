@@ -1,0 +1,277 @@
+[
+  {
+    "city": "San Salvador",
+    "admin": "San Salvador",
+    "sort": "567698"
+  },
+  {
+    "city": "Usulután",
+    "admin": "Usulután",
+    "sort": "378606"
+  },
+  {
+    "city": "Santa Ana",
+    "admin": "Santa Ana",
+    "sort": "270413"
+  },
+  {
+    "city": "San Miguel",
+    "admin": "San Miguel",
+    "sort": "218410"
+  },
+  {
+    "city": "Mejicanos",
+    "admin": "San Salvador",
+    "sort": "140751"
+  },
+  {
+    "city": "Santa Tecla",
+    "admin": "La Libertad",
+    "sort": "135483"
+  },
+  {
+    "city": "Apopa",
+    "admin": "San Salvador",
+    "sort": "131286"
+  },
+  {
+    "city": "Delgado",
+    "admin": "San Salvador",
+    "sort": "120200"
+  },
+  {
+    "city": "Sonsonate",
+    "admin": "Sonsonate",
+    "sort": "110501"
+  },
+  {
+    "city": "Ahuachapán",
+    "admin": "Ahuachapán",
+    "sort": "110511"
+  },
+  {
+    "city": "Zacatecoluca",
+    "admin": "La Paz",
+    "sort": "75100"
+  },
+  {
+    "city": "Cuscatancingo",
+    "admin": "San Salvador",
+    "sort": "66400"
+  },
+  {
+    "city": "San Vicente",
+    "admin": "San Vicente",
+    "sort": "53213"
+  },
+  {
+    "city": "Cojutepeque",
+    "admin": "Cuscatlán",
+    "sort": "48411"
+  },
+  {
+    "city": "Sonzacate",
+    "admin": "Sonsonate",
+    "sort": "25005"
+  },
+  {
+    "city": "La Unión",
+    "admin": "La Unión",
+    "sort": "29733"
+  },
+  {
+    "city": "Chalatenango",
+    "admin": "Chalatenango",
+    "sort": "29271"
+  },
+  {
+    "city": "Sensuntepeque",
+    "admin": "Cabañas",
+    "sort": "26989"
+  },
+  {
+    "city": "San Francisco",
+    "admin": "Morazán",
+    "sort": "21049"
+  },
+  {
+    "city": "Colón",
+    "admin": "La Libertad",
+    "sort": "96989"
+  },
+  {
+    "city": "Acajutla",
+    "admin": "Sonsonate",
+    "sort": "92000"
+  },
+  {
+    "city": "Chalchuapa",
+    "admin": "Santa Ana",
+    "sort": "90000"
+  },
+  {
+    "city": "Quezaltepeque",
+    "admin": "La Libertad",
+    "sort": "56181"
+  },
+  {
+    "city": "Nahuizalco",
+    "admin": "Sonsonate",
+    "sort": "49081"
+  },
+  {
+    "city": "Jiquilisco",
+    "admin": "Usulután",
+    "sort": "47784"
+  },
+  {
+    "city": "San Pedro Perulapán",
+    "admin": "Cuscatlán",
+    "sort": "44730"
+  },
+  {
+    "city": "Panchimalco",
+    "admin": "San Salvador",
+    "sort": "41260"
+  },
+  {
+    "city": "Ciudad Barrios",
+    "admin": "San Miguel",
+    "sort": "40500"
+  },
+  {
+    "city": "Santiago Nonualco",
+    "admin": "La Paz",
+    "sort": "39887"
+  },
+  {
+    "city": "Armenia",
+    "admin": "Sonsonate",
+    "sort": "34912"
+  },
+  {
+    "city": "Atiquizaya",
+    "admin": "Ahuachapán",
+    "sort": "33587"
+  },
+  {
+    "city": "Tacuba",
+    "admin": "Ahuachapán",
+    "sort": "29858"
+  },
+  {
+    "city": "Juayúa",
+    "admin": "Sonsonate",
+    "sort": "24465"
+  },
+  {
+    "city": "Guaymango",
+    "admin": "Ahuachapán",
+    "sort": "19775"
+  },
+  {
+    "city": "Puerto El Triunfo",
+    "admin": "Usulután",
+    "sort": "19600"
+  },
+  {
+    "city": "Santiago de María",
+    "admin": "Usulután",
+    "sort": "18201"
+  },
+  {
+    "city": "Concepción de Ataco",
+    "admin": "Ahuachapán",
+    "sort": "18101"
+  },
+  {
+    "city": "San Alejo",
+    "admin": "La Unión",
+    "sort": "17598"
+  },
+  {
+    "city": "Anamorós",
+    "admin": "La Unión",
+    "sort": "16594"
+  },
+  {
+    "city": "Metapán",
+    "admin": "Santa Ana",
+    "sort": "16620"
+  },
+  {
+    "city": "El Paisnal",
+    "admin": "San Salvador",
+    "sort": "14551"
+  },
+  {
+    "city": "Tepecoyo",
+    "admin": "La Libertad",
+    "sort": "14322"
+  },
+  {
+    "city": "Cuisnahuat",
+    "admin": "Sonsonate",
+    "sort": "12676"
+  },
+  {
+    "city": "Teotepeque",
+    "admin": "La Libertad",
+    "sort": "12320"
+  },
+  {
+    "city": "Nueva Guadalupe",
+    "admin": "San Miguel",
+    "sort": "8905"
+  },
+  {
+    "city": "Jocoro",
+    "admin": "Morazán",
+    "sort": "10060"
+  },
+  {
+    "city": "Caluco",
+    "admin": "Sonsonate",
+    "sort": "9139"
+  },
+  {
+    "city": "Estanzuelas",
+    "admin": "Usulután",
+    "sort": "9015"
+  },
+  {
+    "city": "San Juan Talpa",
+    "admin": "La Paz",
+    "sort": "7707"
+  },
+  {
+    "city": "El Porvenir",
+    "admin": "Santa Ana",
+    "sort": "8232"
+  },
+  {
+    "city": "Agua Caliente",
+    "admin": "Chalatenango",
+    "sort": "8261"
+  },
+  {
+    "city": "El Divisadero",
+    "admin": "Morazán",
+    "sort": "8021"
+  },
+  {
+    "city": "Santo Domingo de Guzmán",
+    "admin": "Sonsonate",
+    "sort": "7055"
+  },
+  {
+    "city": "El Triunfo",
+    "admin": "Usulután",
+    "sort": "6924"
+  },
+  {
+    "city": "San Gerardo",
+    "admin": "San Miguel",
+    "sort": "6079"
+  }
+]

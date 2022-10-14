@@ -1,0 +1,562 @@
+[
+  {
+    "city": "Karachi",
+    "admin": "Sindh",
+    "sort": "15292000"
+  },
+  {
+    "city": "Lahore",
+    "admin": "Punjab",
+    "sort": "11148000"
+  },
+  {
+    "city": "Faisalabad",
+    "admin": "Punjab",
+    "sort": "3203846"
+  },
+  {
+    "city": "Rawalpindi",
+    "admin": "Punjab",
+    "sort": "2098231"
+  },
+  {
+    "city": "Gujranwala",
+    "admin": "Punjab",
+    "sort": "2027001"
+  },
+  {
+    "city": "Peshawar",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "1970042"
+  },
+  {
+    "city": "Multan",
+    "admin": "Punjab",
+    "sort": "1871843"
+  },
+  {
+    "city": "Saidu Sharif",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "1860310"
+  },
+  {
+    "city": "Hyderabad City",
+    "admin": "Sindh",
+    "sort": "1732693"
+  },
+  {
+    "city": "Islamabad",
+    "admin": "Islāmābād",
+    "sort": "1014825"
+  },
+  {
+    "city": "Quetta",
+    "admin": "Balochistān",
+    "sort": "1001205"
+  },
+  {
+    "city": "Bahawalpur",
+    "admin": "Punjab",
+    "sort": "762111"
+  },
+  {
+    "city": "Sargodha",
+    "admin": "Punjab",
+    "sort": "659862"
+  },
+  {
+    "city": "Sialkot City",
+    "admin": "Punjab",
+    "sort": "655852"
+  },
+  {
+    "city": "Sukkur",
+    "admin": "Sindh",
+    "sort": "499900"
+  },
+  {
+    "city": "Larkana",
+    "admin": "Sindh",
+    "sort": "490508"
+  },
+  {
+    "city": "Chiniot",
+    "admin": "Punjab",
+    "sort": "477781"
+  },
+  {
+    "city": "Shekhupura",
+    "admin": "Punjab",
+    "sort": "473129"
+  },
+  {
+    "city": "Jhang City",
+    "admin": "Punjab",
+    "sort": "414131"
+  },
+  {
+    "city": "Dera Ghazi Khan",
+    "admin": "Punjab",
+    "sort": "399064"
+  },
+  {
+    "city": "Gujrat",
+    "admin": "Punjab",
+    "sort": "390533"
+  },
+  {
+    "city": "Rahimyar Khan",
+    "admin": "Punjab",
+    "sort": "353203"
+  },
+  {
+    "city": "Kasur",
+    "admin": "Punjab",
+    "sort": "314617"
+  },
+  {
+    "city": "Mardan",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "300424"
+  },
+  {
+    "city": "Nawabshah",
+    "admin": "Sindh",
+    "sort": "263102"
+  },
+  {
+    "city": "Sahiwal",
+    "admin": "Punjab",
+    "sort": "247706"
+  },
+  {
+    "city": "Mirpur Khas",
+    "admin": "Sindh",
+    "sort": "236961"
+  },
+  {
+    "city": "Okara",
+    "admin": "Punjab",
+    "sort": "232386"
+  },
+  {
+    "city": "Mandi Burewala",
+    "admin": "Punjab",
+    "sort": "203454"
+  },
+  {
+    "city": "Jacobabad",
+    "admin": "Sindh",
+    "sort": "200815"
+  },
+  {
+    "city": "Saddiqabad",
+    "admin": "Punjab",
+    "sort": "189876"
+  },
+  {
+    "city": "Kohat",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "170800"
+  },
+  {
+    "city": "Muridke",
+    "admin": "Punjab",
+    "sort": "163268"
+  },
+  {
+    "city": "Muzaffargarh",
+    "admin": "Punjab",
+    "sort": "163268"
+  },
+  {
+    "city": "Khanpur",
+    "admin": "Punjab",
+    "sort": "160308"
+  },
+  {
+    "city": "Gojra",
+    "admin": "Punjab",
+    "sort": "157863"
+  },
+  {
+    "city": "Mandi Bahauddin",
+    "admin": "Punjab",
+    "sort": "157352"
+  },
+  {
+    "city": "Abbottabad",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "148587"
+  },
+  {
+    "city": "Turbat",
+    "admin": "Balochistān",
+    "sort": "147791"
+  },
+  {
+    "city": "Dadu",
+    "admin": "Sindh",
+    "sort": "146179"
+  },
+  {
+    "city": "Khairpur Mir’s",
+    "admin": "Sindh",
+    "sort": "144949"
+  },
+  {
+    "city": "Bahawalnagar",
+    "admin": "Punjab",
+    "sort": "141935"
+  },
+  {
+    "city": "Khuzdar",
+    "admin": "Balochistān",
+    "sort": "141395"
+  },
+  {
+    "city": "Pakpattan",
+    "admin": "Punjab",
+    "sort": "139525"
+  },
+  {
+    "city": "Zafarwal",
+    "admin": "Punjab",
+    "sort": "134275"
+  },
+  {
+    "city": "Tando Allahyar",
+    "admin": "Sindh",
+    "sort": "133487"
+  },
+  {
+    "city": "Jaranwala",
+    "admin": "Punjab",
+    "sort": "127973"
+  },
+  {
+    "city": "Ahmadpur East",
+    "admin": "Punjab",
+    "sort": "128112"
+  },
+  {
+    "city": "Vihari",
+    "admin": "Punjab",
+    "sort": "128034"
+  },
+  {
+    "city": "New Mirpur",
+    "admin": "Azad Kashmir",
+    "sort": "124352"
+  },
+  {
+    "city": "Kamalia",
+    "admin": "Punjab",
+    "sort": "121401"
+  },
+  {
+    "city": "Kot Addu",
+    "admin": "Punjab",
+    "sort": "120479"
+  },
+  {
+    "city": "Nowshera",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "118594"
+  },
+  {
+    "city": "Swabi",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "115018"
+  },
+  {
+    "city": "Khushab",
+    "admin": "Punjab",
+    "sort": "110868"
+  },
+  {
+    "city": "Dera Ismail Khan",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "109686"
+  },
+  {
+    "city": "Chaman",
+    "admin": "Balochistān",
+    "sort": "107660"
+  },
+  {
+    "city": "Charsadda",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "105414"
+  },
+  {
+    "city": "Kandhkot",
+    "admin": "Sindh",
+    "sort": "105011"
+  },
+  {
+    "city": "Chishtian",
+    "admin": "Punjab",
+    "sort": "101659"
+  },
+  {
+    "city": "Hasilpur",
+    "admin": "Punjab",
+    "sort": "99171"
+  },
+  {
+    "city": "Attock Khurd",
+    "admin": "Punjab",
+    "sort": "97374"
+  },
+  {
+    "city": "Kambar",
+    "admin": "Sindh",
+    "sort": "97691"
+  },
+  {
+    "city": "Arifwala",
+    "admin": "Punjab",
+    "sort": "95655"
+  },
+  {
+    "city": "Muzaffarabad",
+    "admin": "Azad Kashmir",
+    "sort": "96000"
+  },
+  {
+    "city": "Mianwali",
+    "admin": "Punjab",
+    "sort": "95007"
+  },
+  {
+    "city": "Jalalpur Jattan",
+    "admin": "Punjab",
+    "sort": "90130"
+  },
+  {
+    "city": "Bhakkar",
+    "admin": "Punjab",
+    "sort": "88472"
+  },
+  {
+    "city": "Zhob",
+    "admin": "Balochistān",
+    "sort": "88356"
+  },
+  {
+    "city": "Dipalpur",
+    "admin": "Punjab",
+    "sort": "87176"
+  },
+  {
+    "city": "Kharian",
+    "admin": "Punjab",
+    "sort": "85765"
+  },
+  {
+    "city": "Mian Channun",
+    "admin": "Punjab",
+    "sort": "82586"
+  },
+  {
+    "city": "Bhalwal",
+    "admin": "Punjab",
+    "sort": "82556"
+  },
+  {
+    "city": "Jamshoro",
+    "admin": "Sindh",
+    "sort": "80000"
+  },
+  {
+    "city": "Pattoki",
+    "admin": "Punjab",
+    "sort": "77210"
+  },
+  {
+    "city": "Harunabad",
+    "admin": "Punjab",
+    "sort": "77206"
+  },
+  {
+    "city": "Kahror Pakka",
+    "admin": "Punjab",
+    "sort": "76098"
+  },
+  {
+    "city": "Toba Tek Singh",
+    "admin": "Punjab",
+    "sort": "75943"
+  },
+  {
+    "city": "Samundri",
+    "admin": "Punjab",
+    "sort": "73911"
+  },
+  {
+    "city": "Shakargarh",
+    "admin": "Punjab",
+    "sort": "73160"
+  },
+  {
+    "city": "Sambrial",
+    "admin": "Punjab",
+    "sort": "71766"
+  },
+  {
+    "city": "Shujaabad",
+    "admin": "Punjab",
+    "sort": "70595"
+  },
+  {
+    "city": "Hujra Shah Muqim",
+    "admin": "Punjab",
+    "sort": "70204"
+  },
+  {
+    "city": "Kabirwala",
+    "admin": "Punjab",
+    "sort": "70123"
+  },
+  {
+    "city": "Mansehra",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "69085"
+  },
+  {
+    "city": "Lala Musa",
+    "admin": "Punjab",
+    "sort": "67283"
+  },
+  {
+    "city": "Chunian",
+    "admin": "Punjab",
+    "sort": "64386"
+  },
+  {
+    "city": "Nankana Sahib",
+    "admin": "Punjab",
+    "sort": "63073"
+  },
+  {
+    "city": "Bannu",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "62191"
+  },
+  {
+    "city": "Pasrur",
+    "admin": "Punjab",
+    "sort": "58644"
+  },
+  {
+    "city": "Timargara",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "58050"
+  },
+  {
+    "city": "Parachinar",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "55685"
+  },
+  {
+    "city": "Chenab Nagar",
+    "admin": "Punjab",
+    "sort": "53965"
+  },
+  {
+    "city": "Abdul Hakim",
+    "admin": "Punjab",
+    "sort": "51494"
+  },
+  {
+    "city": "Gwadar",
+    "admin": "Balochistān",
+    "sort": "51901"
+  },
+  {
+    "city": "Hassan Abdal",
+    "admin": "Punjab",
+    "sort": "50044"
+  },
+  {
+    "city": "Tank",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "44996"
+  },
+  {
+    "city": "Hangu",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "39766"
+  },
+  {
+    "city": "Risalpur Cantonment",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "36653"
+  },
+  {
+    "city": "Karak",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "35844"
+  },
+  {
+    "city": "Kundian",
+    "admin": "Punjab",
+    "sort": "35406"
+  },
+  {
+    "city": "Umarkot",
+    "admin": "Sindh",
+    "sort": "35059"
+  },
+  {
+    "city": "Chitral",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "31100"
+  },
+  {
+    "city": "Dainyor",
+    "admin": "Gilgit-Baltistan",
+    "sort": "25000"
+  },
+  {
+    "city": "Kulachi",
+    "admin": "Khyber Pakhtunkhwa",
+    "sort": "24738"
+  },
+  {
+    "city": "Kalat",
+    "admin": "Balochistān",
+    "sort": "22879"
+  },
+  {
+    "city": "Kotli",
+    "admin": "Azad Kashmir",
+    "sort": "21462"
+  },
+  {
+    "city": "Murree",
+    "admin": "Punjab",
+    "sort": "20869"
+  },
+  {
+    "city": "Mithi",
+    "admin": "Sindh",
+    "sort": "20079"
+  },
+  {
+    "city": "Mian Sahib",
+    "admin": "Sindh",
+    "sort": "15000"
+  },
+  {
+    "city": "Gilgit",
+    "admin": "Gilgit-Baltistan",
+    "sort": "8851"
+  },
+  {
+    "city": "Gilwala",
+    "admin": "Punjab",
+    "sort": "5968"
+  }
+]

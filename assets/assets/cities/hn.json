@@ -1,0 +1,197 @@
+[
+  {
+    "city": "Comayagüela",
+    "admin": "Francisco Morazán",
+    "sort": "1250000"
+  },
+  {
+    "city": "Tegucigalpa",
+    "admin": "Francisco Morazán",
+    "sort": "1126534"
+  },
+  {
+    "city": "San Pedro Sula",
+    "admin": "Cortés",
+    "sort": "1073824"
+  },
+  {
+    "city": "Choloma",
+    "admin": "Cortés",
+    "sort": "510456"
+  },
+  {
+    "city": "La Ceiba",
+    "admin": "Atlántida",
+    "sort": "196856"
+  },
+  {
+    "city": "Puerto Cortés",
+    "admin": "Cortés",
+    "sort": "200000"
+  },
+  {
+    "city": "Villanueva",
+    "admin": "Cortés",
+    "sort": "157615"
+  },
+  {
+    "city": "Comayagua",
+    "admin": "Comayagua",
+    "sort": "144785"
+  },
+  {
+    "city": "El Progreso",
+    "admin": "Yoro",
+    "sort": "143360"
+  },
+  {
+    "city": "Ciudad Choluteca",
+    "admin": "Choluteca",
+    "sort": "120000"
+  },
+  {
+    "city": "Yoro",
+    "admin": "Yoro",
+    "sort": "64425"
+  },
+  {
+    "city": "Santa Rosa de Copán",
+    "admin": "Copán",
+    "sort": "56000"
+  },
+  {
+    "city": "Gracias",
+    "admin": "Lempira",
+    "sort": "50256"
+  },
+  {
+    "city": "La Paz",
+    "admin": "La Paz",
+    "sort": "41250"
+  },
+  {
+    "city": "Juticalpa",
+    "admin": "Olancho",
+    "sort": "33260"
+  },
+  {
+    "city": "Trujillo",
+    "admin": "Colón",
+    "sort": "30000"
+  },
+  {
+    "city": "Santa Bárbara",
+    "admin": "Santa Bárbara",
+    "sort": "29283"
+  },
+  {
+    "city": "La Esperanza",
+    "admin": "Intibucá",
+    "sort": "21000"
+  },
+  {
+    "city": "Nacaome",
+    "admin": "Valle",
+    "sort": "13931"
+  },
+  {
+    "city": "Yuscarán",
+    "admin": "El Paraíso",
+    "sort": "11396"
+  },
+  {
+    "city": "Roatán",
+    "admin": "Islas de la Bahía",
+    "sort": "7514"
+  },
+  {
+    "city": "Nueva Ocotepeque",
+    "admin": "Ocotepeque",
+    "sort": "8780"
+  },
+  {
+    "city": "Puerto Lempira",
+    "admin": "Gracias a Dios",
+    "sort": "4856"
+  },
+  {
+    "city": "Tela",
+    "admin": "Atlántida",
+    "sort": "78537"
+  },
+  {
+    "city": "La Lima",
+    "admin": "Cortés",
+    "sort": "53492"
+  },
+  {
+    "city": "Tocoa",
+    "admin": "Colón",
+    "sort": "46900"
+  },
+  {
+    "city": "Catacamas",
+    "admin": "Olancho",
+    "sort": "44198"
+  },
+  {
+    "city": "San Lorenzo",
+    "admin": "Valle",
+    "sort": "43042"
+  },
+  {
+    "city": "Copán",
+    "admin": "Copán",
+    "sort": "41542"
+  },
+  {
+    "city": "Siguatepeque",
+    "admin": "Comayagua",
+    "sort": "39070"
+  },
+  {
+    "city": "Olanchito",
+    "admin": "Yoro",
+    "sort": "22500"
+  },
+  {
+    "city": "Cofradía",
+    "admin": "Cortés",
+    "sort": "18100"
+  },
+  {
+    "city": "Yorito",
+    "admin": "Yoro",
+    "sort": "15774"
+  },
+  {
+    "city": "San Marcos",
+    "admin": "Ocotepeque",
+    "sort": "14213"
+  },
+  {
+    "city": "La Entrada",
+    "admin": "Copán",
+    "sort": "13949"
+  },
+  {
+    "city": "Talanga",
+    "admin": "Francisco Morazán",
+    "sort": "13533"
+  },
+  {
+    "city": "San Francisco",
+    "admin": "Atlántida",
+    "sort": "11206"
+  },
+  {
+    "city": "La Alianza",
+    "admin": "Valle",
+    "sort": "7524"
+  },
+  {
+    "city": "Brus Laguna",
+    "admin": "Gracias a Dios",
+    "sort": "4067"
+  }
+]

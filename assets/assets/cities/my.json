@@ -1,0 +1,177 @@
+[
+  {
+    "city": "Kuala Lumpur",
+    "admin": "Kuala Lumpur",
+    "sort": "8639000"
+  },
+  {
+    "city": "Klang",
+    "admin": "Selangor",
+    "sort": "878000"
+  },
+  {
+    "city": "Ipoh",
+    "admin": "Perak",
+    "sort": "866772"
+  },
+  {
+    "city": "Butterworth",
+    "admin": "Pulau Pinang",
+    "sort": "821652"
+  },
+  {
+    "city": "George Town",
+    "admin": "Pulau Pinang",
+    "sort": "708127"
+  },
+  {
+    "city": "Petaling Jaya",
+    "admin": "Selangor",
+    "sort": "638516"
+  },
+  {
+    "city": "Kuantan",
+    "admin": "Pahang",
+    "sort": "607778"
+  },
+  {
+    "city": "Shah Alam",
+    "admin": "Selangor",
+    "sort": "584340"
+  },
+  {
+    "city": "Johor Bahru",
+    "admin": "Johor",
+    "sort": "497097"
+  },
+  {
+    "city": "Kota Bharu",
+    "admin": "Kelantan",
+    "sort": "491237"
+  },
+  {
+    "city": "Melaka",
+    "admin": "Melaka",
+    "sort": "455300"
+  },
+  {
+    "city": "Kota Kinabalu",
+    "admin": "Sabah",
+    "sort": "452058"
+  },
+  {
+    "city": "Seremban",
+    "admin": "Negeri Sembilan",
+    "sort": "419536"
+  },
+  {
+    "city": "Sandakan",
+    "admin": "Sabah",
+    "sort": "396290"
+  },
+  {
+    "city": "Sungai Petani",
+    "admin": "Kedah",
+    "sort": "358499"
+  },
+  {
+    "city": "Kuching",
+    "admin": "Sarawak",
+    "sort": "325132"
+  },
+  {
+    "city": "Kuala Terengganu",
+    "admin": "Terengganu",
+    "sort": "255109"
+  },
+  {
+    "city": "Sibu",
+    "admin": "Sarawak",
+    "sort": "247995"
+  },
+  {
+    "city": "Taiping",
+    "admin": "Perak",
+    "sort": "237095"
+  },
+  {
+    "city": "Miri",
+    "admin": "Sarawak",
+    "sort": "234541"
+  },
+  {
+    "city": "Alor Setar",
+    "admin": "Kedah",
+    "sort": "217000"
+  },
+  {
+    "city": "Bukit Mertajam",
+    "admin": "Pulau Pinang",
+    "sort": "210000"
+  },
+  {
+    "city": "Lahad Datu",
+    "admin": "Sabah",
+    "sort": "199830"
+  },
+  {
+    "city": "Muar",
+    "admin": "Johor",
+    "sort": "191346"
+  },
+  {
+    "city": "Kluang",
+    "admin": "Johor",
+    "sort": "169828"
+  },
+  {
+    "city": "Batu Pahat",
+    "admin": "Johor",
+    "sort": "140000"
+  },
+  {
+    "city": "Bintulu",
+    "admin": "Sarawak",
+    "sort": "114058"
+  },
+  {
+    "city": "Tawau",
+    "admin": "Sabah",
+    "sort": "113809"
+  },
+  {
+    "city": "Teluk Intan",
+    "admin": "Perak",
+    "sort": "101659"
+  },
+  {
+    "city": "Putrajaya",
+    "admin": "Putrajaya",
+    "sort": "67964"
+  },
+  {
+    "city": "Kangar",
+    "admin": "Perlis",
+    "sort": "48898"
+  },
+  {
+    "city": "Labuan",
+    "admin": "Labuan",
+    "sort": ""
+  },
+  {
+    "city": "Cukai",
+    "admin": "Terengganu",
+    "sort": "82425"
+  },
+  {
+    "city": "Raub",
+    "admin": "Pahang",
+    "sort": "40024"
+  },
+  {
+    "city": "Kuala Lipis",
+    "admin": "Pahang",
+    "sort": "15448"
+  }
+]

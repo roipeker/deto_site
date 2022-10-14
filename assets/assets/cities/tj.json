@@ -1,0 +1,82 @@
+[
+  {
+    "city": "Dushanbe",
+    "admin": "Dushanbe",
+    "sort": "778500"
+  },
+  {
+    "city": "Khŭjand",
+    "admin": "Sughd",
+    "sort": "181600"
+  },
+  {
+    "city": "Bokhtar",
+    "admin": "Khatlon",
+    "sort": "75450"
+  },
+  {
+    "city": "Khorugh",
+    "admin": "Kŭhistoni Badakhshon",
+    "sort": "28098"
+  },
+  {
+    "city": "Kŭlob",
+    "admin": "Khatlon",
+    "sort": "95000"
+  },
+  {
+    "city": "Istaravshan",
+    "admin": "Sughd",
+    "sort": "57400"
+  },
+  {
+    "city": "Konibodom",
+    "admin": "Sughd",
+    "sort": "50400"
+  },
+  {
+    "city": "Tursunzoda",
+    "admin": "Nohiyahoi Tobei Jumhurí",
+    "sort": "46700"
+  },
+  {
+    "city": "Vahdat",
+    "admin": "Nohiyahoi Tobei Jumhurí",
+    "sort": "40600"
+  },
+  {
+    "city": "Isfara",
+    "admin": "Sughd",
+    "sort": "40000"
+  },
+  {
+    "city": "Panjakent",
+    "admin": "Sughd",
+    "sort": "33000"
+  },
+  {
+    "city": "Hisor",
+    "admin": "Nohiyahoi Tobei Jumhurí",
+    "sort": "23200"
+  },
+  {
+    "city": "Norak",
+    "admin": "Khatlon",
+    "sort": "18950"
+  },
+  {
+    "city": "Shahriston",
+    "admin": "Sughd",
+    "sort": "16295"
+  },
+  {
+    "city": "Abdurahmoni Jomí",
+    "admin": "Khatlon",
+    "sort": "8925"
+  },
+  {
+    "city": "Ishqoshim",
+    "admin": "Kŭhistoni Badakhshon",
+    "sort": "6567"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "city": "Harare",
+    "admin": "Harare",
+    "sort": "2150000"
+  },
+  {
+    "city": "Bulawayo",
+    "admin": "Bulawayo",
+    "sort": "653337"
+  },
+  {
+    "city": "Chitungwiza",
+    "admin": "Harare",
+    "sort": "340360"
+  },
+  {
+    "city": "Mutare",
+    "admin": "Manicaland",
+    "sort": "188243"
+  },
+  {
+    "city": "Gweru",
+    "admin": "Midlands",
+    "sort": "141260"
+  },
+  {
+    "city": "Masvingo",
+    "admin": "Masvingo",
+    "sort": "72527"
+  },
+  {
+    "city": "Chinhoyi",
+    "admin": "Mashonaland West",
+    "sort": "56794"
+  },
+  {
+    "city": "Marondera",
+    "admin": "Mashonaland East",
+    "sort": "52283"
+  },
+  {
+    "city": "Bindura",
+    "admin": "Mashonaland Central",
+    "sort": "46275"
+  },
+  {
+    "city": "Gwanda",
+    "admin": "Matabeleland South",
+    "sort": "14450"
+  },
+  {
+    "city": "Lupane",
+    "admin": "Matabeleland North",
+    "sort": ""
+  },
+  {
+    "city": "Kwekwe",
+    "admin": "Midlands",
+    "sort": "93072"
+  },
+  {
+    "city": "Kadoma",
+    "admin": "Mashonaland West",
+    "sort": "79174"
+  },
+  {
+    "city": "Hwange",
+    "admin": "Matabeleland North",
+    "sort": "42581"
+  },
+  {
+    "city": "Beitbridge",
+    "admin": "Matabeleland South",
+    "sort": "41767"
+  },
+  {
+    "city": "Zvishavane",
+    "admin": "Masvingo",
+    "sort": "35229"
+  },
+  {
+    "city": "Victoria Falls",
+    "admin": "Matabeleland North",
+    "sort": "33060"
+  },
+  {
+    "city": "Redcliff",
+    "admin": "Midlands",
+    "sort": "32346"
+  },
+  {
+    "city": "Chiredzi",
+    "admin": "Masvingo",
+    "sort": "28205"
+  },
+  {
+    "city": "Karoi",
+    "admin": "Mashonaland West",
+    "sort": "25030"
+  },
+  {
+    "city": "Kariba",
+    "admin": "Mashonaland West",
+    "sort": "24210"
+  },
+  {
+    "city": "Ruwa",
+    "admin": "Mashonaland East",
+    "sort": "22038"
+  },
+  {
+    "city": "Shamva",
+    "admin": "Mashonaland Central",
+    "sort": "10317"
+  },
+  {
+    "city": "Chivhu",
+    "admin": "Mashonaland East",
+    "sort": "10263"
+  },
+  {
+    "city": "Plumtree",
+    "admin": "Matabeleland South",
+    "sort": "2148"
+  },
+  {
+    "city": "Mazoe",
+    "admin": "Mashonaland Central",
+    "sort": "9966"
+  }
+]

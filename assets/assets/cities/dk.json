@@ -1,0 +1,62 @@
+[
+  {
+    "city": "Copenhagen",
+    "admin": "Hovedstaden",
+    "sort": "1085000"
+  },
+  {
+    "city": "Aarhus",
+    "admin": "Midtjylland",
+    "sort": "237551"
+  },
+  {
+    "city": "Odense",
+    "admin": "Syddanmark",
+    "sort": "158222"
+  },
+  {
+    "city": "Aalborg",
+    "admin": "Nordjylland",
+    "sort": "122219"
+  },
+  {
+    "city": "Esbjerg",
+    "admin": "Syddanmark",
+    "sort": "72205"
+  },
+  {
+    "city": "Vejle",
+    "admin": "Syddanmark",
+    "sort": "51177"
+  },
+  {
+    "city": "Viborg",
+    "admin": "Midtjylland",
+    "sort": "34831"
+  },
+  {
+    "city": "Hillerød",
+    "admin": "Hovedstaden",
+    "sort": "28313"
+  },
+  {
+    "city": "Sorø",
+    "admin": "Sjælland",
+    "sort": "7167"
+  },
+  {
+    "city": "Roskilde",
+    "admin": "Sjælland",
+    "sort": "44285"
+  },
+  {
+    "city": "Svendborg",
+    "admin": "Syddanmark",
+    "sort": "29180"
+  },
+  {
+    "city": "Frederikshavn",
+    "admin": "Nordjylland",
+    "sort": "24103"
+  }
+]

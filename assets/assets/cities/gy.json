@@ -1,0 +1,62 @@
+[
+  {
+    "city": "Georgetown",
+    "admin": "Demerara-Mahaica",
+    "sort": "200500"
+  },
+  {
+    "city": "New Amsterdam",
+    "admin": "East Berbice-Corentyne",
+    "sort": "46874"
+  },
+  {
+    "city": "Linden",
+    "admin": "Upper Demerara-Berbice",
+    "sort": "29298"
+  },
+  {
+    "city": "Bartica",
+    "admin": "Cuyuni-Mazaruni",
+    "sort": "8532"
+  },
+  {
+    "city": "Lethem",
+    "admin": "Upper Takutu-Upper Essequibo",
+    "sort": "3000"
+  },
+  {
+    "city": "Mabaruma",
+    "admin": "Barima-Waini",
+    "sort": "2972"
+  },
+  {
+    "city": "Vreed-en-Hoop",
+    "admin": "Essequibo Islands-West Demerara",
+    "sort": ""
+  },
+  {
+    "city": "Fort Wellington",
+    "admin": "Mahaica-Berbice",
+    "sort": ""
+  },
+  {
+    "city": "Mahdia",
+    "admin": "Potaro-Siparuni",
+    "sort": ""
+  },
+  {
+    "city": "Anna Regina",
+    "admin": "Pomeroon-Supenaam",
+    "sort": "12448"
+  },
+  {
+    "city": "Princetown",
+    "admin": "East Berbice-Corentyne",
+    "sort": "12000"
+  },
+  {
+    "city": "Ituni",
+    "admin": "Upper Demerara-Berbice",
+    "sort": "100"
+  }
+]

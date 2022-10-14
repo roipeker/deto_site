@@ -1,0 +1,57 @@
+[
+  {
+    "city": "Vaduz",
+    "admin": "Vaduz",
+    "sort": "5668"
+  },
+  {
+    "city": "Schaan",
+    "admin": "Schaan",
+    "sort": "5998"
+  },
+  {
+    "city": "Triesen",
+    "admin": "Triesen",
+    "sort": "5230"
+  },
+  {
+    "city": "Mauren",
+    "admin": "Mauren",
+    "sort": "4404"
+  },
+  {
+    "city": "Eschen",
+    "admin": "Eschen",
+    "sort": "4459"
+  },
+  {
+    "city": "Balzers",
+    "admin": "Balzers",
+    "sort": "4628"
+  },
+  {
+    "city": "Triesenberg",
+    "admin": "Triesenberg",
+    "sort": "2643"
+  },
+  {
+    "city": "Ruggell",
+    "admin": "Ruggell",
+    "sort": "2295"
+  },
+  {
+    "city": "Gamprin",
+    "admin": "Gamprin",
+    "sort": "1663"
+  },
+  {
+    "city": "Schellenberg",
+    "admin": "Schellenberg",
+    "sort": "1091"
+  },
+  {
+    "city": "Planken",
+    "admin": "Planken",
+    "sort": "478"
+  }
+]

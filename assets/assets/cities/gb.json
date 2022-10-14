@@ -1,0 +1,4292 @@
+[
+  {
+    "city": "London",
+    "admin": "London, City of",
+    "sort": "11120000"
+  },
+  {
+    "city": "Birmingham",
+    "admin": "Birmingham",
+    "sort": "1137100"
+  },
+  {
+    "city": "Leeds",
+    "admin": "Leeds",
+    "sort": "789194"
+  },
+  {
+    "city": "Glasgow",
+    "admin": "Glasgow City",
+    "sort": "626410"
+  },
+  {
+    "city": "Bristol",
+    "admin": "Bristol, City of",
+    "sort": "567111"
+  },
+  {
+    "city": "Manchester",
+    "admin": "Manchester",
+    "sort": "547627"
+  },
+  {
+    "city": "Sheffield",
+    "admin": "Sheffield",
+    "sort": "518090"
+  },
+  {
+    "city": "Liverpool",
+    "admin": "Liverpool",
+    "sort": "513441"
+  },
+  {
+    "city": "Edinburgh",
+    "admin": "Edinburgh, City of",
+    "sort": "488050"
+  },
+  {
+    "city": "Leicester",
+    "admin": "Leicester",
+    "sort": "464395"
+  },
+  {
+    "city": "Coventry",
+    "admin": "Coventry",
+    "sort": "362690"
+  },
+  {
+    "city": "Caerdydd",
+    "admin": "Cardiff",
+    "sort": "361469"
+  },
+  {
+    "city": "Belfast",
+    "admin": "Belfast",
+    "sort": "333871"
+  },
+  {
+    "city": "Newcastle",
+    "admin": "Newcastle upon Tyne",
+    "sort": "300196"
+  },
+  {
+    "city": "Bradford",
+    "admin": "Bradford",
+    "sort": "293277"
+  },
+  {
+    "city": "Nottingham",
+    "admin": "Nottingham",
+    "sort": "289301"
+  },
+  {
+    "city": "Ipswich",
+    "admin": "Suffolk",
+    "sort": "290000"
+  },
+  {
+    "city": "Bolton",
+    "admin": "Bolton",
+    "sort": "285372"
+  },
+  {
+    "city": "Sunderland",
+    "admin": "Sunderland",
+    "sort": "277417"
+  },
+  {
+    "city": "Southampton",
+    "admin": "Southampton",
+    "sort": "271173"
+  },
+  {
+    "city": "Plymouth",
+    "admin": "Plymouth",
+    "sort": "267918"
+  },
+  {
+    "city": "Westminster",
+    "admin": "Westminster",
+    "sort": "255324"
+  },
+  {
+    "city": "Kingston upon Hull",
+    "admin": "Kingston upon Hull, City of",
+    "sort": "260200"
+  },
+  {
+    "city": "Derby",
+    "admin": "Derby",
+    "sort": "255394"
+  },
+  {
+    "city": "Wolverhampton",
+    "admin": "Wolverhampton",
+    "sort": "250970"
+  },
+  {
+    "city": "Stoke-on-Trent",
+    "admin": "Stoke-on-Trent",
+    "sort": "249008"
+  },
+  {
+    "city": "Portsmouth",
+    "admin": "Portsmouth",
+    "sort": "248440"
+  },
+  {
+    "city": "Barnsley",
+    "admin": "Barnsley",
+    "sort": "245199"
+  },
+  {
+    "city": "Abertawe",
+    "admin": "Swansea",
+    "sort": "245508"
+  },
+  {
+    "city": "Swindon",
+    "admin": "Swindon",
+    "sort": "222193"
+  },
+  {
+    "city": "Luton",
+    "admin": "Luton",
+    "sort": "213052"
+  },
+  {
+    "city": "Northampton",
+    "admin": "Northamptonshire",
+    "sort": "212100"
+  },
+  {
+    "city": "Solihull",
+    "admin": "Solihull",
+    "sort": "206674"
+  },
+  {
+    "city": "Milton Keynes",
+    "admin": "Milton Keynes",
+    "sort": "207057"
+  },
+  {
+    "city": "Aberdeen",
+    "admin": "Aberdeen City",
+    "sort": "200680"
+  },
+  {
+    "city": "Norwich",
+    "admin": "Norfolk",
+    "sort": "195971"
+  },
+  {
+    "city": "Peterborough",
+    "admin": "Peterborough",
+    "sort": "194000"
+  },
+  {
+    "city": "Basildon",
+    "admin": "Essex",
+    "sort": "185900"
+  },
+  {
+    "city": "Bournemouth",
+    "admin": "Bournemouth",
+    "sort": "187503"
+  },
+  {
+    "city": "York",
+    "admin": "York",
+    "sort": "181131"
+  },
+  {
+    "city": "Warrington",
+    "admin": "Warrington",
+    "sort": "165456"
+  },
+  {
+    "city": "Huddersfield",
+    "admin": "Kirklees",
+    "sort": "162949"
+  },
+  {
+    "city": "Reading",
+    "admin": "Reading",
+    "sort": "162666"
+  },
+  {
+    "city": "Southend",
+    "admin": "Southend-on-Sea",
+    "sort": "160257"
+  },
+  {
+    "city": "Oxford",
+    "admin": "Oxfordshire",
+    "sort": "152000"
+  },
+  {
+    "city": "Gloucester",
+    "admin": "Gloucestershire",
+    "sort": "145563"
+  },
+  {
+    "city": "West Bromwich",
+    "admin": "Sandwell",
+    "sort": "146386"
+  },
+  {
+    "city": "Dundee",
+    "admin": "Dundee City",
+    "sort": "148280"
+  },
+  {
+    "city": "Poole",
+    "admin": "Poole",
+    "sort": "144800"
+  },
+  {
+    "city": "Newport",
+    "admin": "Newport",
+    "sort": "145700"
+  },
+  {
+    "city": "Birkenhead",
+    "admin": "Wirral",
+    "sort": "142968"
+  },
+  {
+    "city": "Blackpool",
+    "admin": "Blackpool",
+    "sort": "139305"
+  },
+  {
+    "city": "Telford",
+    "admin": "Telford and Wrekin",
+    "sort": "142723"
+  },
+  {
+    "city": "Preston",
+    "admin": "Lancashire",
+    "sort": "141801"
+  },
+  {
+    "city": "Middlesbrough",
+    "admin": "Redcar and Cleveland",
+    "sort": "140545"
+  },
+  {
+    "city": "Sale",
+    "admin": "Trafford",
+    "sort": "134022"
+  },
+  {
+    "city": "Brighton",
+    "admin": "Brighton and Hove",
+    "sort": "134293"
+  },
+  {
+    "city": "High Wycombe",
+    "admin": "Buckinghamshire",
+    "sort": "120256"
+  },
+  {
+    "city": "Cambridge",
+    "admin": "Cambridgeshire",
+    "sort": "123867"
+  },
+  {
+    "city": "Exeter",
+    "admin": "Devon",
+    "sort": "124180"
+  },
+  {
+    "city": "Colchester",
+    "admin": "Essex",
+    "sort": "121859"
+  },
+  {
+    "city": "Gateshead",
+    "admin": "Gateshead",
+    "sort": "120046"
+  },
+  {
+    "city": "Blackburn",
+    "admin": "Blackburn with Darwen",
+    "sort": "117963"
+  },
+  {
+    "city": "Slough",
+    "admin": "Slough",
+    "sort": "119070"
+  },
+  {
+    "city": "Chelmsford",
+    "admin": "Essex",
+    "sort": "115369"
+  },
+  {
+    "city": "Cheltenham",
+    "admin": "Gloucestershire",
+    "sort": "116447"
+  },
+  {
+    "city": "Rochdale",
+    "admin": "Rochdale",
+    "sort": "110194"
+  },
+  {
+    "city": "Rotherham",
+    "admin": "Rotherham",
+    "sort": "109691"
+  },
+  {
+    "city": "Doncaster",
+    "admin": "Doncaster",
+    "sort": "109805"
+  },
+  {
+    "city": "Maidstone",
+    "admin": "Kent",
+    "sort": "107627"
+  },
+  {
+    "city": "Basingstoke",
+    "admin": "Hampshire",
+    "sort": "107355"
+  },
+  {
+    "city": "Worthing",
+    "admin": "West Sussex",
+    "sort": "109120"
+  },
+  {
+    "city": "Crawley",
+    "admin": "West Sussex",
+    "sort": "106597"
+  },
+  {
+    "city": "Salford",
+    "admin": "Salford",
+    "sort": "103886"
+  },
+  {
+    "city": "Saint Helens",
+    "admin": "St. Helens",
+    "sort": "102629"
+  },
+  {
+    "city": "Worcester",
+    "admin": "Worcestershire",
+    "sort": "101891"
+  },
+  {
+    "city": "Gillingham",
+    "admin": "Medway",
+    "sort": "104157"
+  },
+  {
+    "city": "Eastbourne",
+    "admin": "East Sussex",
+    "sort": "101547"
+  },
+  {
+    "city": "Wigan",
+    "admin": "Wigan",
+    "sort": "103608"
+  },
+  {
+    "city": "Hove",
+    "admin": "Brighton and Hove",
+    "sort": "91900"
+  },
+  {
+    "city": "Lincoln",
+    "admin": "Lincolnshire",
+    "sort": "97541"
+  },
+  {
+    "city": "Rayleigh",
+    "admin": "Essex",
+    "sort": "95580"
+  },
+  {
+    "city": "Hemel Hempstead",
+    "admin": "Hertfordshire",
+    "sort": "94932"
+  },
+  {
+    "city": "Bath",
+    "admin": "Bath and North East Somerset",
+    "sort": "94782"
+  },
+  {
+    "city": "Darlington",
+    "admin": "Darlington",
+    "sort": "92363"
+  },
+  {
+    "city": "Wimbledon",
+    "admin": "Merton",
+    "sort": "92765"
+  },
+  {
+    "city": "Watford",
+    "admin": "Hertfordshire",
+    "sort": "90301"
+  },
+  {
+    "city": "Hastings",
+    "admin": "East Sussex",
+    "sort": "91053"
+  },
+  {
+    "city": "Nuneaton",
+    "admin": "Warwickshire",
+    "sort": "86552"
+  },
+  {
+    "city": "Stevenage",
+    "admin": "Hertfordshire",
+    "sort": "89663"
+  },
+  {
+    "city": "Hartlepool",
+    "admin": "Hartlepool",
+    "sort": "88855"
+  },
+  {
+    "city": "Chester",
+    "admin": "Cheshire West and Chester",
+    "sort": "87507"
+  },
+  {
+    "city": "Aylesbury",
+    "admin": "Buckinghamshire",
+    "sort": "83407"
+  },
+  {
+    "city": "Burnley",
+    "admin": "Lancashire",
+    "sort": "82002"
+  },
+  {
+    "city": "Saint Albans",
+    "admin": "Hertfordshire",
+    "sort": "82146"
+  },
+  {
+    "city": "Chatham",
+    "admin": "Medway",
+    "sort": "76792"
+  },
+  {
+    "city": "Batley",
+    "admin": "Kirklees",
+    "sort": "80485"
+  },
+  {
+    "city": "Scunthorpe",
+    "admin": "North Lincolnshire",
+    "sort": "79977"
+  },
+  {
+    "city": "Dudley",
+    "admin": "Dudley",
+    "sort": "79379"
+  },
+  {
+    "city": "Weston-super-Mare",
+    "admin": "North Somerset",
+    "sort": "76143"
+  },
+  {
+    "city": "South Shields",
+    "admin": "South Tyneside",
+    "sort": "75337"
+  },
+  {
+    "city": "Bury",
+    "admin": "Bury",
+    "sort": "78729"
+  },
+  {
+    "city": "Paisley",
+    "admin": "Renfrewshire",
+    "sort": "76220"
+  },
+  {
+    "city": "Mansfield",
+    "admin": "Nottinghamshire",
+    "sort": "77551"
+  },
+  {
+    "city": "Bracknell",
+    "admin": "Bracknell Forest",
+    "sort": "77256"
+  },
+  {
+    "city": "Carlisle",
+    "admin": "Cumbria",
+    "sort": "75399"
+  },
+  {
+    "city": "East Kilbride",
+    "admin": "South Lanarkshire",
+    "sort": "75120"
+  },
+  {
+    "city": "Burton upon Trent",
+    "admin": "Staffordshire",
+    "sort": "75074"
+  },
+  {
+    "city": "Crewe",
+    "admin": "Cheshire East",
+    "sort": "73241"
+  },
+  {
+    "city": "Newcastle under Lyme",
+    "admin": "Staffordshire",
+    "sort": "75082"
+  },
+  {
+    "city": "Harrogate",
+    "admin": "North Yorkshire",
+    "sort": "73576"
+  },
+  {
+    "city": "Rugby",
+    "admin": "Warwickshire",
+    "sort": "70627"
+  },
+  {
+    "city": "Tamworth",
+    "admin": "Staffordshire",
+    "sort": "73924"
+  },
+  {
+    "city": "Lowestoft",
+    "admin": "Suffolk",
+    "sort": "70945"
+  },
+  {
+    "city": "Gosport",
+    "admin": "Hampshire",
+    "sort": "71529"
+  },
+  {
+    "city": "Grays",
+    "admin": "Thurrock",
+    "sort": "66843"
+  },
+  {
+    "city": "Walton upon Thames",
+    "admin": "Surrey",
+    "sort": "66566"
+  },
+  {
+    "city": "Gravesend",
+    "admin": "Kent",
+    "sort": "66000"
+  },
+  {
+    "city": "Walsall",
+    "admin": "Walsall",
+    "sort": "67594"
+  },
+  {
+    "city": "Tynemouth",
+    "admin": "North Tyneside",
+    "sort": "68202"
+  },
+  {
+    "city": "Paignton",
+    "admin": "Devon",
+    "sort": "64410"
+  },
+  {
+    "city": "Rochester",
+    "admin": "Medway",
+    "sort": "62982"
+  },
+  {
+    "city": "Washington",
+    "admin": "Sunderland",
+    "sort": "67158"
+  },
+  {
+    "city": "Ashford",
+    "admin": "Kent",
+    "sort": "67528"
+  },
+  {
+    "city": "Merthyr Tudful",
+    "admin": "Merthyr Tydfil",
+    "sort": "63546"
+  },
+  {
+    "city": "Scarborough",
+    "admin": "North Yorkshire",
+    "sort": "61749"
+  },
+  {
+    "city": "Farnborough",
+    "admin": "Hampshire",
+    "sort": "65034"
+  },
+  {
+    "city": "Stourbridge",
+    "admin": "Dudley",
+    "sort": "63298"
+  },
+  {
+    "city": "Hereford",
+    "admin": "Herefordshire",
+    "sort": "63024"
+  },
+  {
+    "city": "Dewsbury",
+    "admin": "Kirklees",
+    "sort": "62945"
+  },
+  {
+    "city": "Loughborough",
+    "admin": "Leicestershire",
+    "sort": "59932"
+  },
+  {
+    "city": "Wrecsam",
+    "admin": "Wrexham",
+    "sort": "61603"
+  },
+  {
+    "city": "Kettering",
+    "admin": "Northamptonshire",
+    "sort": "56226"
+  },
+  {
+    "city": "Ellesmere Port",
+    "admin": "Cheshire West and Chester",
+    "sort": "61090"
+  },
+  {
+    "city": "Bangor",
+    "admin": "Ards and North Down",
+    "sort": "61011"
+  },
+  {
+    "city": "Runcorn",
+    "admin": "Halton",
+    "sort": "61789"
+  },
+  {
+    "city": "Taunton",
+    "admin": "Somerset",
+    "sort": "60479"
+  },
+  {
+    "city": "Littlehampton",
+    "admin": "West Sussex",
+    "sort": "58357"
+  },
+  {
+    "city": "Wallasey",
+    "admin": "Wirral",
+    "sort": "60284"
+  },
+  {
+    "city": "Bebington",
+    "admin": "Wirral",
+    "sort": "57336"
+  },
+  {
+    "city": "Macclesfield",
+    "admin": "Cheshire East",
+    "sort": "56581"
+  },
+  {
+    "city": "Royal Tunbridge Wells",
+    "admin": "Kent",
+    "sort": "57772"
+  },
+  {
+    "city": "Folkestone",
+    "admin": "Kent",
+    "sort": "51337"
+  },
+  {
+    "city": "Royal Leamington Spa",
+    "admin": "Warwickshire",
+    "sort": "55733"
+  },
+  {
+    "city": "Crosby",
+    "admin": "Sefton",
+    "sort": "51789"
+  },
+  {
+    "city": "Stratford",
+    "admin": "Newham",
+    "sort": "51387"
+  },
+  {
+    "city": "Kidderminster",
+    "admin": "Worcestershire",
+    "sort": "55530"
+  },
+  {
+    "city": "Altrincham",
+    "admin": "Trafford",
+    "sort": "52419"
+  },
+  {
+    "city": "Weymouth",
+    "admin": "Dorset",
+    "sort": "54539"
+  },
+  {
+    "city": "Barri",
+    "admin": "Vale of Glamorgan, The",
+    "sort": "51502"
+  },
+  {
+    "city": "Dunfermline",
+    "admin": "Fife",
+    "sort": "53100"
+  },
+  {
+    "city": "Bootle",
+    "admin": "Sefton",
+    "sort": "51394"
+  },
+  {
+    "city": "Hamilton",
+    "admin": "South Lanarkshire",
+    "sort": "53188"
+  },
+  {
+    "city": "Lancaster",
+    "admin": "Lancashire",
+    "sort": "52234"
+  },
+  {
+    "city": "Cumbernauld",
+    "admin": "North Lanarkshire",
+    "sort": "50920"
+  },
+  {
+    "city": "Brentwood",
+    "admin": "Essex",
+    "sort": "52586"
+  },
+  {
+    "city": "Willenhall",
+    "admin": "Walsall",
+    "sort": "51429"
+  },
+  {
+    "city": "Pen-y-Bont ar Ogwr",
+    "admin": "Bridgend",
+    "sort": "49404"
+  },
+  {
+    "city": "Stretford",
+    "admin": "Trafford",
+    "sort": "46910"
+  },
+  {
+    "city": "Neath",
+    "admin": "Neath Port Talbot",
+    "sort": "45898"
+  },
+  {
+    "city": "Kirkcaldy",
+    "admin": "Fife",
+    "sort": "48108"
+  },
+  {
+    "city": "Ashton",
+    "admin": "Tameside",
+    "sort": "45198"
+  },
+  {
+    "city": "Inverness",
+    "admin": "Highland",
+    "sort": "47290"
+  },
+  {
+    "city": "Salisbury",
+    "admin": "Wiltshire",
+    "sort": "45477"
+  },
+  {
+    "city": "Ayr",
+    "admin": "South Ayrshire",
+    "sort": "46780"
+  },
+  {
+    "city": "Wokingham",
+    "admin": "Wokingham",
+    "sort": "46745"
+  },
+  {
+    "city": "Banbury",
+    "admin": "Oxfordshire",
+    "sort": "46853"
+  },
+  {
+    "city": "Hinckley",
+    "admin": "Leicestershire",
+    "sort": "45249"
+  },
+  {
+    "city": "Coatbridge",
+    "admin": "North Lanarkshire",
+    "sort": "43960"
+  },
+  {
+    "city": "Chorley",
+    "admin": "Lancashire",
+    "sort": "38420"
+  },
+  {
+    "city": "Kingswood",
+    "admin": "South Gloucestershire",
+    "sort": "40734"
+  },
+  {
+    "city": "Kingston upon Thames",
+    "admin": "Kingston upon Thames",
+    "sort": "43013"
+  },
+  {
+    "city": "Newbury",
+    "admin": "West Berkshire",
+    "sort": "41075"
+  },
+  {
+    "city": "Llanelli",
+    "admin": "Carmarthenshire",
+    "sort": "37050"
+  },
+  {
+    "city": "Ramsgate",
+    "admin": "Kent",
+    "sort": "40408"
+  },
+  {
+    "city": "Bishops Stortford",
+    "admin": "Hertfordshire",
+    "sort": "38202"
+  },
+  {
+    "city": "Aberdare",
+    "admin": "Rhondda Cynon Taff",
+    "sort": "39550"
+  },
+  {
+    "city": "Herne Bay",
+    "admin": "Kent",
+    "sort": "38385"
+  },
+  {
+    "city": "Bletchley",
+    "admin": "Milton Keynes",
+    "sort": "37520"
+  },
+  {
+    "city": "Airdrie",
+    "admin": "North Lanarkshire",
+    "sort": "37410"
+  },
+  {
+    "city": "Bridlington",
+    "admin": "East Riding of Yorkshire",
+    "sort": "35264"
+  },
+  {
+    "city": "Falkirk",
+    "admin": "Falkirk",
+    "sort": "35850"
+  },
+  {
+    "city": "Dover",
+    "admin": "Kent",
+    "sort": "31022"
+  },
+  {
+    "city": "Hitchin",
+    "admin": "Hertfordshire",
+    "sort": "34266"
+  },
+  {
+    "city": "Grantham",
+    "admin": "Lincolnshire",
+    "sort": "34592"
+  },
+  {
+    "city": "Ewell",
+    "admin": "Surrey",
+    "sort": "34872"
+  },
+  {
+    "city": "Abingdon",
+    "admin": "Oxfordshire",
+    "sort": "33130"
+  },
+  {
+    "city": "Trowbridge",
+    "admin": "Wiltshire",
+    "sort": "33108"
+  },
+  {
+    "city": "Rutherglen",
+    "admin": "Glasgow City",
+    "sort": "31190"
+  },
+  {
+    "city": "Wigston Magna",
+    "admin": "Leicestershire",
+    "sort": "32321"
+  },
+  {
+    "city": "Lichfield",
+    "admin": "Staffordshire",
+    "sort": "33816"
+  },
+  {
+    "city": "Ecclesfield",
+    "admin": "Sheffield",
+    "sort": "31609"
+  },
+  {
+    "city": "Brighouse",
+    "admin": "Calderdale",
+    "sort": "32360"
+  },
+  {
+    "city": "Saint Neots",
+    "admin": "Cambridgeshire",
+    "sort": "31165"
+  },
+  {
+    "city": "Motherwell",
+    "admin": "North Lanarkshire",
+    "sort": "32590"
+  },
+  {
+    "city": "Chichester",
+    "admin": "West Sussex",
+    "sort": "30925"
+  },
+  {
+    "city": "Wishaw",
+    "admin": "North Lanarkshire",
+    "sort": "30290"
+  },
+  {
+    "city": "Bromsgrove",
+    "admin": "Worcestershire",
+    "sort": "29237"
+  },
+  {
+    "city": "Hertford",
+    "admin": "Hertfordshire",
+    "sort": "28689"
+  },
+  {
+    "city": "Harpenden",
+    "admin": "Hertfordshire",
+    "sort": "30240"
+  },
+  {
+    "city": "Cambuslang",
+    "admin": "South Lanarkshire",
+    "sort": "29100"
+  },
+  {
+    "city": "Rhyl",
+    "admin": "Denbighshire",
+    "sort": "25149"
+  },
+  {
+    "city": "Longbridge",
+    "admin": "Birmingham",
+    "sort": "25410"
+  },
+  {
+    "city": "Bearsden",
+    "admin": "East Dunbartonshire",
+    "sort": "28120"
+  },
+  {
+    "city": "Shenley Brook End",
+    "admin": "Milton Keynes",
+    "sort": "25828"
+  },
+  {
+    "city": "Billericay",
+    "admin": "Essex",
+    "sort": "27998"
+  },
+  {
+    "city": "Aldridge",
+    "admin": "Walsall",
+    "sort": "26988"
+  },
+  {
+    "city": "Upminster",
+    "admin": "Havering",
+    "sort": "25361"
+  },
+  {
+    "city": "Coulsdon",
+    "admin": "Croydon",
+    "sort": "25695"
+  },
+  {
+    "city": "Newton Mearns",
+    "admin": "East Renfrewshire",
+    "sort": "26600"
+  },
+  {
+    "city": "Rainham",
+    "admin": "Medway",
+    "sort": "25000"
+  },
+  {
+    "city": "Bishop Auckland",
+    "admin": "Durham",
+    "sort": "25455"
+  },
+  {
+    "city": "Clydebank",
+    "admin": "West Dunbartonshire",
+    "sort": "26320"
+  },
+  {
+    "city": "Market Harborough",
+    "admin": "Leicestershire",
+    "sort": "22911"
+  },
+  {
+    "city": "Droylsden",
+    "admin": "Tameside",
+    "sort": "23689"
+  },
+  {
+    "city": "Plymstock",
+    "admin": "Plymouth",
+    "sort": "24103"
+  },
+  {
+    "city": "Stratton Saint Margaret",
+    "admin": "Swindon",
+    "sort": "22698"
+  },
+  {
+    "city": "Arbroath",
+    "admin": "Angus",
+    "sort": "23940"
+  },
+  {
+    "city": "Oadby",
+    "admin": "Leicestershire",
+    "sort": "23849"
+  },
+  {
+    "city": "Litherland",
+    "admin": "Sefton",
+    "sort": "22242"
+  },
+  {
+    "city": "Sheldon",
+    "admin": "Solihull",
+    "sort": "21817"
+  },
+  {
+    "city": "Bishopbriggs",
+    "admin": "East Dunbartonshire",
+    "sort": "23540"
+  },
+  {
+    "city": "Littleover",
+    "admin": "Derby",
+    "sort": "23958"
+  },
+  {
+    "city": "Huntingdon",
+    "admin": "Cambridgeshire",
+    "sort": "23732"
+  },
+  {
+    "city": "Minster",
+    "admin": "Kent",
+    "sort": "21319"
+  },
+  {
+    "city": "Maesteg",
+    "admin": "Bridgend",
+    "sort": "20612"
+  },
+  {
+    "city": "Bathgate",
+    "admin": "West Lothian",
+    "sort": "22920"
+  },
+  {
+    "city": "Truro",
+    "admin": "Cornwall",
+    "sort": "21555"
+  },
+  {
+    "city": "Yate",
+    "admin": "South Gloucestershire",
+    "sort": "21789"
+  },
+  {
+    "city": "Southbourne",
+    "admin": "Bournemouth",
+    "sort": "18960"
+  },
+  {
+    "city": "Leek",
+    "admin": "Staffordshire",
+    "sort": "20768"
+  },
+  {
+    "city": "Falmouth",
+    "admin": "Cornwall",
+    "sort": "21797"
+  },
+  {
+    "city": "Woodlesford",
+    "admin": "Leeds",
+    "sort": "21010"
+  },
+  {
+    "city": "Renfrew",
+    "admin": "Renfrewshire",
+    "sort": "21854"
+  },
+  {
+    "city": "Leigh-on-Sea",
+    "admin": "Southend-on-Sea",
+    "sort": "20737"
+  },
+  {
+    "city": "Goodmayes",
+    "admin": "Redbridge",
+    "sort": "13069"
+  },
+  {
+    "city": "Penzance",
+    "admin": "Cornwall",
+    "sort": "20812"
+  },
+  {
+    "city": "Peterhead",
+    "admin": "Aberdeenshire",
+    "sort": "19270"
+  },
+  {
+    "city": "Bellshill",
+    "admin": "North Lanarkshire",
+    "sort": "20290"
+  },
+  {
+    "city": "Davyhulme",
+    "admin": "Trafford",
+    "sort": "19634"
+  },
+  {
+    "city": "Antrim",
+    "admin": "Antrim and Newtownabbey",
+    "sort": "19986"
+  },
+  {
+    "city": "Frimley",
+    "admin": "Surrey",
+    "sort": "19094"
+  },
+  {
+    "city": "Great Linford",
+    "admin": "Milton Keynes",
+    "sort": "19350"
+  },
+  {
+    "city": "Maltby",
+    "admin": "Rotherham",
+    "sort": "16856"
+  },
+  {
+    "city": "Keynsham",
+    "admin": "Bath and North East Somerset",
+    "sort": "16641"
+  },
+  {
+    "city": "Broughty Ferry",
+    "admin": "Dundee City",
+    "sort": "18659"
+  },
+  {
+    "city": "Tonypandy",
+    "admin": "Rhondda Cynon Taff",
+    "sort": "17789"
+  },
+  {
+    "city": "Hadleigh",
+    "admin": "Essex",
+    "sort": "18300"
+  },
+  {
+    "city": "East Barnet",
+    "admin": "Barnet",
+    "sort": "16137"
+  },
+  {
+    "city": "Dingle",
+    "admin": "Liverpool",
+    "sort": "13246"
+  },
+  {
+    "city": "Bonnyrigg",
+    "admin": "Midlothian",
+    "sort": "17530"
+  },
+  {
+    "city": "Fern Down",
+    "admin": "Dorset",
+    "sort": "17650"
+  },
+  {
+    "city": "Cosham",
+    "admin": "Portsmouth",
+    "sort": "13830"
+  },
+  {
+    "city": "High Blantyre",
+    "admin": "South Lanarkshire",
+    "sort": "16900"
+  },
+  {
+    "city": "Nailsea",
+    "admin": "North Somerset",
+    "sort": "15630"
+  },
+  {
+    "city": "Basford",
+    "admin": "Nottingham",
+    "sort": "16207"
+  },
+  {
+    "city": "Porthcawl",
+    "admin": "Bridgend",
+    "sort": "15640"
+  },
+  {
+    "city": "Milton",
+    "admin": "Stoke-on-Trent",
+    "sort": "17250"
+  },
+  {
+    "city": "Hilsea",
+    "admin": "Portsmouth",
+    "sort": "13552"
+  },
+  {
+    "city": "Kilwinning",
+    "admin": "North Ayrshire",
+    "sort": "16460"
+  },
+  {
+    "city": "Woodhouse",
+    "admin": "Sheffield",
+    "sort": "17450"
+  },
+  {
+    "city": "Kidbrooke",
+    "admin": "Greenwich",
+    "sort": "14300"
+  },
+  {
+    "city": "Bingley",
+    "admin": "Bradford",
+    "sort": "15925"
+  },
+  {
+    "city": "Maldon",
+    "admin": "Essex",
+    "sort": "14220"
+  },
+  {
+    "city": "Fazakerley",
+    "admin": "Liverpool",
+    "sort": "16786"
+  },
+  {
+    "city": "Larkhall",
+    "admin": "South Lanarkshire",
+    "sort": "14740"
+  },
+  {
+    "city": "Hatch End",
+    "admin": "Harrow",
+    "sort": "10693"
+  },
+  {
+    "city": "Deysbrook",
+    "admin": "Liverpool",
+    "sort": "14490"
+  },
+  {
+    "city": "Whickham",
+    "admin": "Gateshead",
+    "sort": "16652"
+  },
+  {
+    "city": "South Hayling",
+    "admin": "Hampshire",
+    "sort": "15948"
+  },
+  {
+    "city": "Johnstone",
+    "admin": "Renfrewshire",
+    "sort": "16090"
+  },
+  {
+    "city": "Morriston",
+    "admin": "Swansea",
+    "sort": "16928"
+  },
+  {
+    "city": "Wombwell",
+    "admin": "Barnsley",
+    "sort": "15316"
+  },
+  {
+    "city": "Prestwick",
+    "admin": "South Ayrshire",
+    "sort": "14720"
+  },
+  {
+    "city": "Hythe",
+    "admin": "Kent",
+    "sort": "14170"
+  },
+  {
+    "city": "Melksham",
+    "admin": "Wiltshire",
+    "sort": "14677"
+  },
+  {
+    "city": "Gornalwood",
+    "admin": "Dudley",
+    "sort": "12992"
+  },
+  {
+    "city": "Rosyth",
+    "admin": "Fife",
+    "sort": "13780"
+  },
+  {
+    "city": "Saffron Walden",
+    "admin": "Essex",
+    "sort": "15504"
+  },
+  {
+    "city": "Kidlington",
+    "admin": "Oxfordshire",
+    "sort": "13723"
+  },
+  {
+    "city": "Whitby",
+    "admin": "North Yorkshire",
+    "sort": "13594"
+  },
+  {
+    "city": "Swinton",
+    "admin": "Rotherham",
+    "sort": "15559"
+  },
+  {
+    "city": "Harrow Weald",
+    "admin": "Harrow",
+    "sort": "11376"
+  },
+  {
+    "city": "Tredegar",
+    "admin": "Blaenau Gwent",
+    "sort": "15103"
+  },
+  {
+    "city": "Ilkley",
+    "admin": "Bradford",
+    "sort": "14809"
+  },
+  {
+    "city": "Ovenden",
+    "admin": "Calderdale",
+    "sort": "12351"
+  },
+  {
+    "city": "Childwall",
+    "admin": "Liverpool",
+    "sort": "14085"
+  },
+  {
+    "city": "Shenley Church End",
+    "admin": "Milton Keynes",
+    "sort": "12961"
+  },
+  {
+    "city": "Egg Buckland",
+    "admin": "Plymouth",
+    "sort": "13351"
+  },
+  {
+    "city": "Fraserburgh",
+    "admin": "Aberdeenshire",
+    "sort": "13180"
+  },
+  {
+    "city": "Walsall Wood",
+    "admin": "Walsall",
+    "sort": "13207"
+  },
+  {
+    "city": "Bodmin",
+    "admin": "Cornwall",
+    "sort": "14736"
+  },
+  {
+    "city": "Streetly",
+    "admin": "Walsall",
+    "sort": "13934"
+  },
+  {
+    "city": "Wollaston",
+    "admin": "Dudley",
+    "sort": "13092"
+  },
+  {
+    "city": "Thorpe Saint Andrew",
+    "admin": "Norfolk",
+    "sort": "14556"
+  },
+  {
+    "city": "Hawick",
+    "admin": "Scottish Borders, The",
+    "sort": "13740"
+  },
+  {
+    "city": "Wolverton",
+    "admin": "Milton Keynes",
+    "sort": "12492"
+  },
+  {
+    "city": "Linlithgow",
+    "admin": "West Lothian",
+    "sort": "13260"
+  },
+  {
+    "city": "Broadwater",
+    "admin": "West Sussex",
+    "sort": "9373"
+  },
+  {
+    "city": "Milford Haven",
+    "admin": "Pembrokeshire",
+    "sort": "13725"
+  },
+  {
+    "city": "Sutton on Hull",
+    "admin": "Kingston upon Hull, City of",
+    "sort": "12649"
+  },
+  {
+    "city": "Milngavie",
+    "admin": "East Dunbartonshire",
+    "sort": "12795"
+  },
+  {
+    "city": "Southwick",
+    "admin": "West Sussex",
+    "sort": "13195"
+  },
+  {
+    "city": "Lye",
+    "admin": "Dudley",
+    "sort": "12346"
+  },
+  {
+    "city": "Thatto Heath",
+    "admin": "St. Helens",
+    "sort": "12280"
+  },
+  {
+    "city": "Blunsdon Saint Andrew",
+    "admin": "Swindon",
+    "sort": "12414"
+  },
+  {
+    "city": "Hoyland Nether",
+    "admin": "Barnsley",
+    "sort": "11852"
+  },
+  {
+    "city": "Giffnock",
+    "admin": "East Renfrewshire",
+    "sort": "12300"
+  },
+  {
+    "city": "Blundellsands",
+    "admin": "Sefton",
+    "sort": "11514"
+  },
+  {
+    "city": "Earlestown",
+    "admin": "St. Helens",
+    "sort": "10830"
+  },
+  {
+    "city": "Snaresbrook",
+    "admin": "Redbridge",
+    "sort": "11868"
+  },
+  {
+    "city": "Parkstone",
+    "admin": "Poole",
+    "sort": "10779"
+  },
+  {
+    "city": "Cromer",
+    "admin": "Norfolk",
+    "sort": "12457"
+  },
+  {
+    "city": "Hollington",
+    "admin": "East Sussex",
+    "sort": "6099"
+  },
+  {
+    "city": "Woolton",
+    "admin": "Liverpool",
+    "sort": "12921"
+  },
+  {
+    "city": "Sandridge",
+    "admin": "Hertfordshire",
+    "sort": "11451"
+  },
+  {
+    "city": "Abergavenny",
+    "admin": "Monmouthshire",
+    "sort": "12515"
+  },
+  {
+    "city": "Warsop",
+    "admin": "Nottinghamshire",
+    "sort": "11999"
+  },
+  {
+    "city": "Gourock",
+    "admin": "Inverclyde",
+    "sort": "10350"
+  },
+  {
+    "city": "Forres",
+    "admin": "Moray",
+    "sort": "10100"
+  },
+  {
+    "city": "Abertillery",
+    "admin": "Blaenau Gwent",
+    "sort": "11601"
+  },
+  {
+    "city": "Trentham",
+    "admin": "Staffordshire",
+    "sort": "11836"
+  },
+  {
+    "city": "Carnoustie",
+    "admin": "Angus",
+    "sort": "11360"
+  },
+  {
+    "city": "Tonyrefail",
+    "admin": "Rhondda Cynon Taff",
+    "sort": "12301"
+  },
+  {
+    "city": "Brislington",
+    "admin": "Bristol, City of",
+    "sort": "11511"
+  },
+  {
+    "city": "Oakham",
+    "admin": "Rutland",
+    "sort": "10975"
+  },
+  {
+    "city": "Bishopstoke",
+    "admin": "Hampshire",
+    "sort": "9974"
+  },
+  {
+    "city": "Kippax",
+    "admin": "Leeds",
+    "sort": "9785"
+  },
+  {
+    "city": "Ryhope",
+    "admin": "Sunderland",
+    "sort": "10484"
+  },
+  {
+    "city": "Glascote",
+    "admin": "Staffordshire",
+    "sort": "8344"
+  },
+  {
+    "city": "Larbert",
+    "admin": "Falkirk",
+    "sort": "11050"
+  },
+  {
+    "city": "Lemington",
+    "admin": "Newcastle upon Tyne",
+    "sort": "10228"
+  },
+  {
+    "city": "Henley on Thames",
+    "admin": "Oxfordshire",
+    "sort": "11619"
+  },
+  {
+    "city": "Tavistock",
+    "admin": "Devon",
+    "sort": "11018"
+  },
+  {
+    "city": "Horsell",
+    "admin": "Surrey",
+    "sort": "9384"
+  },
+  {
+    "city": "Buckhurst Hill",
+    "admin": "Essex",
+    "sort": "11380"
+  },
+  {
+    "city": "Newport",
+    "admin": "Telford and Wrekin",
+    "sort": "11387"
+  },
+  {
+    "city": "Cupar",
+    "admin": "Fife",
+    "sort": "9020"
+  },
+  {
+    "city": "Stranraer",
+    "admin": "Dumfries and Galloway",
+    "sort": "10320"
+  },
+  {
+    "city": "Longbenton",
+    "admin": "Newcastle upon Tyne",
+    "sort": "10617"
+  },
+  {
+    "city": "Wilnecote",
+    "admin": "Staffordshire",
+    "sort": "9358"
+  },
+  {
+    "city": "Inverurie",
+    "admin": "Aberdeenshire",
+    "sort": "10885"
+  },
+  {
+    "city": "Hellesdon",
+    "admin": "Norfolk",
+    "sort": "10957"
+  },
+  {
+    "city": "Broadstone",
+    "admin": "Poole",
+    "sort": "10303"
+  },
+  {
+    "city": "Roby",
+    "admin": "Knowsley",
+    "sort": "7254"
+  },
+  {
+    "city": "Nairn",
+    "admin": "Highland",
+    "sort": "9960"
+  },
+  {
+    "city": "Ifield",
+    "admin": "West Sussex",
+    "sort": "8882"
+  },
+  {
+    "city": "Amesbury",
+    "admin": "Wiltshire",
+    "sort": "10724"
+  },
+  {
+    "city": "Utley",
+    "admin": "Bradford",
+    "sort": "5500"
+  },
+  {
+    "city": "Helston",
+    "admin": "Cornwall",
+    "sort": "9780"
+  },
+  {
+    "city": "Aberbargoed",
+    "admin": "Caerphilly",
+    "sort": "9184"
+  },
+  {
+    "city": "Choppington",
+    "admin": "Northumberland",
+    "sort": "9787"
+  },
+  {
+    "city": "Allington",
+    "admin": "Kent",
+    "sort": "7100"
+  },
+  {
+    "city": "Chapeltown",
+    "admin": "Sheffield",
+    "sort": "10043"
+  },
+  {
+    "city": "Shenfield",
+    "admin": "Essex",
+    "sort": "10511"
+  },
+  {
+    "city": "Dunbar",
+    "admin": "East Lothian",
+    "sort": "9030"
+  },
+  {
+    "city": "Warfield",
+    "admin": "Bracknell Forest",
+    "sort": "10088"
+  },
+  {
+    "city": "Glenfield",
+    "admin": "Leicestershire",
+    "sort": "9643"
+  },
+  {
+    "city": "Broughton Astley",
+    "admin": "Leicestershire",
+    "sort": "8940"
+  },
+  {
+    "city": "Greenhill",
+    "admin": "Kent",
+    "sort": "7339"
+  },
+  {
+    "city": "Cove",
+    "admin": "Hampshire",
+    "sort": "6548"
+  },
+  {
+    "city": "South Normanton",
+    "admin": "Derbyshire",
+    "sort": "9445"
+  },
+  {
+    "city": "Kilsyth",
+    "admin": "North Lanarkshire",
+    "sort": "10080"
+  },
+  {
+    "city": "Saint Peters",
+    "admin": "Kent",
+    "sort": "7042"
+  },
+  {
+    "city": "Great Billing",
+    "admin": "Northamptonshire",
+    "sort": "8457"
+  },
+  {
+    "city": "Shephall",
+    "admin": "Hertfordshire",
+    "sort": "6210"
+  },
+  {
+    "city": "Boxley",
+    "admin": "Kent",
+    "sort": "9554"
+  },
+  {
+    "city": "Gedling",
+    "admin": "Nottinghamshire",
+    "sort": "6817"
+  },
+  {
+    "city": "Attleborough",
+    "admin": "Warwickshire",
+    "sort": "7564"
+  },
+  {
+    "city": "Bradwell",
+    "admin": "Milton Keynes",
+    "sort": "9657"
+  },
+  {
+    "city": "Newbold",
+    "admin": "Derbyshire",
+    "sort": "7962"
+  },
+  {
+    "city": "Cam",
+    "admin": "Gloucestershire",
+    "sort": "8152"
+  },
+  {
+    "city": "Leven",
+    "admin": "Fife",
+    "sort": "9040"
+  },
+  {
+    "city": "Dowlais",
+    "admin": "Merthyr Tydfil",
+    "sort": "6926"
+  },
+  {
+    "city": "Sandiacre",
+    "admin": "Nottinghamshire",
+    "sort": "8889"
+  },
+  {
+    "city": "Bolton upon Dearne",
+    "admin": "Barnsley",
+    "sort": "6744"
+  },
+  {
+    "city": "Church",
+    "admin": "Lancashire",
+    "sort": "5186"
+  },
+  {
+    "city": "Glastonbury",
+    "admin": "Somerset",
+    "sort": "8932"
+  },
+  {
+    "city": "Bonhill",
+    "admin": "West Dunbartonshire",
+    "sort": "9050"
+  },
+  {
+    "city": "Codsall",
+    "admin": "Staffordshire",
+    "sort": "7582"
+  },
+  {
+    "city": "Great Burstead",
+    "admin": "Essex",
+    "sort": "5968"
+  },
+  {
+    "city": "Sundon",
+    "admin": "Luton",
+    "sort": "7585"
+  },
+  {
+    "city": "Exhall",
+    "admin": "Coventry",
+    "sort": "8006"
+  },
+  {
+    "city": "Bedwas",
+    "admin": "Caerphilly",
+    "sort": "8512"
+  },
+  {
+    "city": "Bramley",
+    "admin": "Rotherham",
+    "sort": "8194"
+  },
+  {
+    "city": "Marlborough",
+    "admin": "Wiltshire",
+    "sort": "8395"
+  },
+  {
+    "city": "Brimington",
+    "admin": "Derbyshire",
+    "sort": "8788"
+  },
+  {
+    "city": "Bucksburn",
+    "admin": "Aberdeen City",
+    "sort": "8131"
+  },
+  {
+    "city": "West Auckland",
+    "admin": "Durham",
+    "sort": "8509"
+  },
+  {
+    "city": "Gowerton",
+    "admin": "Swansea",
+    "sort": "8183"
+  },
+  {
+    "city": "Harworth",
+    "admin": "Nottinghamshire",
+    "sort": "7948"
+  },
+  {
+    "city": "Monifieth",
+    "admin": "Angus",
+    "sort": "8110"
+  },
+  {
+    "city": "Stopsley",
+    "admin": "Luton",
+    "sort": "7760"
+  },
+  {
+    "city": "Oban",
+    "admin": "Argyll and Bute",
+    "sort": "8490"
+  },
+  {
+    "city": "Wickersley",
+    "admin": "Rotherham",
+    "sort": "7392"
+  },
+  {
+    "city": "Wistaston",
+    "admin": "Cheshire East",
+    "sort": "8117"
+  },
+  {
+    "city": "Crieff",
+    "admin": "Perth and Kinross",
+    "sort": "7430"
+  },
+  {
+    "city": "Torpoint",
+    "admin": "Cornwall",
+    "sort": "7717"
+  },
+  {
+    "city": "Bilton",
+    "admin": "Warwickshire",
+    "sort": "6175"
+  },
+  {
+    "city": "Warrenpoint",
+    "admin": "Newry, Mourne and Down",
+    "sort": "6981"
+  },
+  {
+    "city": "Whetstone",
+    "admin": "Leicestershire",
+    "sort": "6556"
+  },
+  {
+    "city": "Aintree",
+    "admin": "Liverpool",
+    "sort": "6689"
+  },
+  {
+    "city": "Brechin",
+    "admin": "Angus",
+    "sort": "7400"
+  },
+  {
+    "city": "Duntocher",
+    "admin": "West Dunbartonshire",
+    "sort": "6880"
+  },
+  {
+    "city": "Llantwit Fardre",
+    "admin": "Rhondda Cynon Taff",
+    "sort": "6099"
+  },
+  {
+    "city": "Harlescott",
+    "admin": "Shropshire",
+    "sort": "5060"
+  },
+  {
+    "city": "Bothwell",
+    "admin": "South Lanarkshire",
+    "sort": "6380"
+  },
+  {
+    "city": "Uddingston",
+    "admin": "South Lanarkshire",
+    "sort": "6370"
+  },
+  {
+    "city": "Withernsea",
+    "admin": "East Riding of Yorkshire",
+    "sort": "5980"
+  },
+  {
+    "city": "Farington",
+    "admin": "Lancashire",
+    "sort": "6674"
+  },
+  {
+    "city": "Kirkwall",
+    "admin": "Orkney Islands",
+    "sort": "7420"
+  },
+  {
+    "city": "Dyce",
+    "admin": "Aberdeen City",
+    "sort": "6190"
+  },
+  {
+    "city": "Lexden",
+    "admin": "Essex",
+    "sort": "5549"
+  },
+  {
+    "city": "Lerwick",
+    "admin": "Shetland Islands",
+    "sort": "6880"
+  },
+  {
+    "city": "Sauchie",
+    "admin": "Clackmannanshire",
+    "sort": "6310"
+  },
+  {
+    "city": "Cheddar",
+    "admin": "Somerset",
+    "sort": "5755"
+  },
+  {
+    "city": "Golcar",
+    "admin": "Kirklees",
+    "sort": "6900"
+  },
+  {
+    "city": "Altofts",
+    "admin": "Wakefield",
+    "sort": "6198"
+  },
+  {
+    "city": "Bishopton",
+    "admin": "Renfrewshire",
+    "sort": "5330"
+  },
+  {
+    "city": "Broughton",
+    "admin": "North Lincolnshire",
+    "sort": "5726"
+  },
+  {
+    "city": "Harleston",
+    "admin": "Norfolk",
+    "sort": "5067"
+  },
+  {
+    "city": "Wotton-under-Edge",
+    "admin": "Gloucestershire",
+    "sort": "5627"
+  },
+  {
+    "city": "Bridge of Allan",
+    "admin": "Stirling",
+    "sort": "5380"
+  },
+  {
+    "city": "Freckleton",
+    "admin": "Lancashire",
+    "sort": "6019"
+  },
+  {
+    "city": "Hengoed",
+    "admin": "Caerphilly",
+    "sort": "5548"
+  },
+  {
+    "city": "Magor",
+    "admin": "Monmouthshire",
+    "sort": "6140"
+  },
+  {
+    "city": "Balloch",
+    "admin": "West Dunbartonshire",
+    "sort": "6050"
+  },
+  {
+    "city": "Chickerell",
+    "admin": "Dorset",
+    "sort": "5515"
+  },
+  {
+    "city": "Oundle",
+    "admin": "Northamptonshire",
+    "sort": "5735"
+  },
+  {
+    "city": "Dartmouth",
+    "admin": "Devon",
+    "sort": "5064"
+  },
+  {
+    "city": "Elderslie",
+    "admin": "Renfrewshire",
+    "sort": "5330"
+  },
+  {
+    "city": "Brotton",
+    "admin": "Redcar and Cleveland",
+    "sort": "5394"
+  },
+  {
+    "city": "Brayton",
+    "admin": "North Yorkshire",
+    "sort": "5299"
+  },
+  {
+    "city": "Kinross",
+    "admin": "Perth and Kinross",
+    "sort": "5120"
+  },
+  {
+    "city": "Whiston",
+    "admin": "Rotherham",
+    "sort": "5042"
+  },
+  {
+    "city": "Grangetown",
+    "admin": "Redcar and Cleveland",
+    "sort": "5088"
+  },
+  {
+    "city": "Heage",
+    "admin": "Derbyshire",
+    "sort": "5013"
+  },
+  {
+    "city": "Wakefield",
+    "admin": "Wakefield",
+    "sort": "99251"
+  },
+  {
+    "city": "Oldham",
+    "admin": "Oldham",
+    "sort": "96555"
+  },
+  {
+    "city": "Bedford",
+    "admin": "Bedford",
+    "sort": "92407"
+  },
+  {
+    "city": "Southport",
+    "admin": "Sefton",
+    "sort": "91703"
+  },
+  {
+    "city": "Halifax",
+    "admin": "Calderdale",
+    "sort": "88134"
+  },
+  {
+    "city": "Grimsby",
+    "admin": "North East Lincolnshire",
+    "sort": "88243"
+  },
+  {
+    "city": "Derry",
+    "admin": "Derry and Strabane",
+    "sort": "85016"
+  },
+  {
+    "city": "Redditch",
+    "admin": "Worcestershire",
+    "sort": "81919"
+  },
+  {
+    "city": "Stockton-on-Tees",
+    "admin": "Stockton-on-Tees",
+    "sort": "82729"
+  },
+  {
+    "city": "Harlow",
+    "admin": "Essex",
+    "sort": "82059"
+  },
+  {
+    "city": "Eastleigh",
+    "admin": "Hampshire",
+    "sort": "78716"
+  },
+  {
+    "city": "Guildford",
+    "admin": "Surrey",
+    "sort": "77057"
+  },
+  {
+    "city": "Shrewsbury",
+    "admin": "Shropshire",
+    "sort": "71715"
+  },
+  {
+    "city": "Lisburn",
+    "admin": "Lisburn and Castlereagh",
+    "sort": "71465"
+  },
+  {
+    "city": "Stafford",
+    "admin": "Staffordshire",
+    "sort": "70592"
+  },
+  {
+    "city": "Cannock",
+    "admin": "Staffordshire",
+    "sort": "67768"
+  },
+  {
+    "city": "Godalming",
+    "admin": "Surrey",
+    "sort": "66773"
+  },
+  {
+    "city": "Maidenhead",
+    "admin": "Windsor and Maidenhead",
+    "sort": "63580"
+  },
+  {
+    "city": "Bognor Regis",
+    "admin": "West Sussex",
+    "sort": "63885"
+  },
+  {
+    "city": "Woking",
+    "admin": "Surrey",
+    "sort": "62796"
+  },
+  {
+    "city": "Widnes",
+    "admin": "Halton",
+    "sort": "61464"
+  },
+  {
+    "city": "Margate",
+    "admin": "Kent",
+    "sort": "61223"
+  },
+  {
+    "city": "Halesowen",
+    "admin": "Dudley",
+    "sort": "58135"
+  },
+  {
+    "city": "Aldershot",
+    "admin": "Hampshire",
+    "sort": "57211"
+  },
+  {
+    "city": "Canterbury",
+    "admin": "Kent",
+    "sort": "54880"
+  },
+  {
+    "city": "Corby",
+    "admin": "Northamptonshire",
+    "sort": "54927"
+  },
+  {
+    "city": "Christchurch",
+    "admin": "Dorset",
+    "sort": "54210"
+  },
+  {
+    "city": "Keighley",
+    "admin": "Bradford",
+    "sort": "53331"
+  },
+  {
+    "city": "Livingston",
+    "admin": "West Lothian",
+    "sort": "50826"
+  },
+  {
+    "city": "Esher",
+    "admin": "Surrey",
+    "sort": "50904"
+  },
+  {
+    "city": "Clacton-on-Sea",
+    "admin": "Essex",
+    "sort": "50548"
+  },
+  {
+    "city": "Smethwick",
+    "admin": "Sandwell",
+    "sort": "48180"
+  },
+  {
+    "city": "Welwyn Garden City",
+    "admin": "Hertfordshire",
+    "sort": "48380"
+  },
+  {
+    "city": "Cwmbran",
+    "admin": "Torfaen",
+    "sort": "48535"
+  },
+  {
+    "city": "Durham",
+    "admin": "Durham",
+    "sort": "48069"
+  },
+  {
+    "city": "Perth",
+    "admin": "Perth and Kinross",
+    "sort": "47430"
+  },
+  {
+    "city": "Kilmarnock",
+    "admin": "East Ayrshire",
+    "sort": "46350"
+  },
+  {
+    "city": "King’s Lynn",
+    "admin": "Norfolk",
+    "sort": "42800"
+  },
+  {
+    "city": "Greenock",
+    "admin": "Inverclyde",
+    "sort": "41990"
+  },
+  {
+    "city": "Bury Saint Edmunds",
+    "admin": "Suffolk",
+    "sort": "40664"
+  },
+  {
+    "city": "Glenrothes",
+    "admin": "Fife",
+    "sort": "38510"
+  },
+  {
+    "city": "Stirling",
+    "admin": "Stirling",
+    "sort": "37610"
+  },
+  {
+    "city": "Tonbridge",
+    "admin": "Kent",
+    "sort": "38657"
+  },
+  {
+    "city": "Great Yarmouth",
+    "admin": "Norfolk",
+    "sort": "38693"
+  },
+  {
+    "city": "Port Talbot",
+    "admin": "Neath Port Talbot",
+    "sort": "37276"
+  },
+  {
+    "city": "Accrington",
+    "admin": "Lancashire",
+    "sort": "35456"
+  },
+  {
+    "city": "Morecambe",
+    "admin": "Lancashire",
+    "sort": "34768"
+  },
+  {
+    "city": "Winchester",
+    "admin": "Hampshire",
+    "sort": "35200"
+  },
+  {
+    "city": "Exmouth",
+    "admin": "Devon",
+    "sort": "34432"
+  },
+  {
+    "city": "Irvine",
+    "admin": "North Ayrshire",
+    "sort": "33698"
+  },
+  {
+    "city": "Warwick",
+    "admin": "Warwickshire",
+    "sort": "32719"
+  },
+  {
+    "city": "Wisbech",
+    "admin": "Cambridgeshire",
+    "sort": "31573"
+  },
+  {
+    "city": "Dumfries",
+    "admin": "Dumfries and Galloway",
+    "sort": "32379"
+  },
+  {
+    "city": "Windsor",
+    "admin": "Windsor and Maidenhead",
+    "sort": "32184"
+  },
+  {
+    "city": "Whitstable",
+    "admin": "Kent",
+    "sort": "30195"
+  },
+  {
+    "city": "Beverley",
+    "admin": "East Riding of Yorkshire",
+    "sort": "30831"
+  },
+  {
+    "city": "Stanford le Hope",
+    "admin": "Thurrock",
+    "sort": "28765"
+  },
+  {
+    "city": "Witney",
+    "admin": "Oxfordshire",
+    "sort": "27522"
+  },
+  {
+    "city": "Seaford",
+    "admin": "East Sussex",
+    "sort": "26955"
+  },
+  {
+    "city": "Stratford-upon-Avon",
+    "admin": "Warwickshire",
+    "sort": "27445"
+  },
+  {
+    "city": "Thetford",
+    "admin": "Norfolk",
+    "sort": "27027"
+  },
+  {
+    "city": "Jarrow",
+    "admin": "South Tyneside",
+    "sort": "27526"
+  },
+  {
+    "city": "East Grinstead",
+    "admin": "West Sussex",
+    "sort": "26383"
+  },
+  {
+    "city": "Burntwood",
+    "admin": "Staffordshire",
+    "sort": "26049"
+  },
+  {
+    "city": "Whitehaven",
+    "admin": "Cumbria",
+    "sort": "25032"
+  },
+  {
+    "city": "Farnham",
+    "admin": "Surrey",
+    "sort": "25604"
+  },
+  {
+    "city": "Newton Abbot",
+    "admin": "Devon",
+    "sort": "23580"
+  },
+  {
+    "city": "Rickmansworth",
+    "admin": "Hertfordshire",
+    "sort": "23973"
+  },
+  {
+    "city": "Newport",
+    "admin": "Isle of Wight",
+    "sort": "23957"
+  },
+  {
+    "city": "Formby",
+    "admin": "Sefton",
+    "sort": "22419"
+  },
+  {
+    "city": "Elgin",
+    "admin": "Moray",
+    "sort": "23128"
+  },
+  {
+    "city": "Kirkintilloch",
+    "admin": "East Dunbartonshire",
+    "sort": "21380"
+  },
+  {
+    "city": "Darton",
+    "admin": "Barnsley",
+    "sort": "21345"
+  },
+  {
+    "city": "Omagh",
+    "admin": "Fermanagh and Omagh",
+    "sort": "21056"
+  },
+  {
+    "city": "South Ockendon",
+    "admin": "Thurrock",
+    "sort": "22303"
+  },
+  {
+    "city": "Richmond",
+    "admin": "Richmond upon Thames",
+    "sort": "21469"
+  },
+  {
+    "city": "Musselburgh",
+    "admin": "East Lothian",
+    "sort": "20840"
+  },
+  {
+    "city": "Dumbarton",
+    "admin": "West Dunbartonshire",
+    "sort": "20560"
+  },
+  {
+    "city": "Cirencester",
+    "admin": "Gloucestershire",
+    "sort": "19076"
+  },
+  {
+    "city": "Ware",
+    "admin": "Hertfordshire",
+    "sort": "18799"
+  },
+  {
+    "city": "Newmarket",
+    "admin": "Suffolk",
+    "sort": "20384"
+  },
+  {
+    "city": "Ely",
+    "admin": "Cambridgeshire",
+    "sort": "20256"
+  },
+  {
+    "city": "Dorchester",
+    "admin": "Dorset",
+    "sort": "20135"
+  },
+  {
+    "city": "Eastwood",
+    "admin": "Nottinghamshire",
+    "sort": "18612"
+  },
+  {
+    "city": "Goole",
+    "admin": "East Riding of Yorkshire",
+    "sort": "19518"
+  },
+  {
+    "city": "Monkseaton",
+    "admin": "North Tyneside",
+    "sort": "19044"
+  },
+  {
+    "city": "Ebbw Vale",
+    "admin": "Blaenau Gwent",
+    "sort": "18558"
+  },
+  {
+    "city": "Berkhampstead",
+    "admin": "Hertfordshire",
+    "sort": "18100"
+  },
+  {
+    "city": "Fulwood",
+    "admin": "Sheffield",
+    "sort": "18233"
+  },
+  {
+    "city": "Almondbury",
+    "admin": "Kirklees",
+    "sort": "18346"
+  },
+  {
+    "city": "Sunbury",
+    "admin": "Surrey",
+    "sort": "18041"
+  },
+  {
+    "city": "Harwich",
+    "admin": "Essex",
+    "sort": "17684"
+  },
+  {
+    "city": "Portchester",
+    "admin": "Hampshire",
+    "sort": "17789"
+  },
+  {
+    "city": "Glen Parva",
+    "admin": "Leicestershire",
+    "sort": "17189"
+  },
+  {
+    "city": "Barrhead",
+    "admin": "East Renfrewshire",
+    "sort": "17610"
+  },
+  {
+    "city": "Thornton",
+    "admin": "Bradford",
+    "sort": "17276"
+  },
+  {
+    "city": "Heysham",
+    "admin": "Lancashire",
+    "sort": "17016"
+  },
+  {
+    "city": "Broxburn",
+    "admin": "West Lothian",
+    "sort": "15440"
+  },
+  {
+    "city": "Stanley",
+    "admin": "Wakefield",
+    "sort": "15314"
+  },
+  {
+    "city": "Haslemere",
+    "admin": "Surrey",
+    "sort": "16826"
+  },
+  {
+    "city": "Saint Andrews",
+    "admin": "Fife",
+    "sort": "16680"
+  },
+  {
+    "city": "Grangemouth",
+    "admin": "Falkirk",
+    "sort": "16650"
+  },
+  {
+    "city": "Northallerton",
+    "admin": "North Yorkshire",
+    "sort": "15741"
+  },
+  {
+    "city": "Seacombe",
+    "admin": "Wirral",
+    "sort": "15387"
+  },
+  {
+    "city": "Banbridge",
+    "admin": "Armagh, Banbridge and Craigavon",
+    "sort": "14744"
+  },
+  {
+    "city": "Denby Dale",
+    "admin": "Kirklees",
+    "sort": "16365"
+  },
+  {
+    "city": "Wyke",
+    "admin": "Bradford",
+    "sort": "14950"
+  },
+  {
+    "city": "Bangor",
+    "admin": "Isle of Anglesey",
+    "sort": "16358"
+  },
+  {
+    "city": "Penicuik",
+    "admin": "Midlothian",
+    "sort": "15926"
+  },
+  {
+    "city": "Adwick le Street",
+    "admin": "Doncaster",
+    "sort": "15911"
+  },
+  {
+    "city": "Conwy",
+    "admin": "Conwy",
+    "sort": "14723"
+  },
+  {
+    "city": "Lewes",
+    "admin": "East Sussex",
+    "sort": "15988"
+  },
+  {
+    "city": "Hetton le Hole",
+    "admin": "Sunderland",
+    "sort": "14402"
+  },
+  {
+    "city": "Alloa",
+    "admin": "Clackmannanshire",
+    "sort": "14420"
+  },
+  {
+    "city": "Ince-in-Makerfield",
+    "admin": "Wigan",
+    "sort": "15664"
+  },
+  {
+    "city": "Oswestry",
+    "admin": "Shropshire",
+    "sort": "15613"
+  },
+  {
+    "city": "Matlock",
+    "admin": "Derbyshire",
+    "sort": "15519"
+  },
+  {
+    "city": "Forfar",
+    "admin": "Angus",
+    "sort": "14230"
+  },
+  {
+    "city": "Swallownest",
+    "admin": "Rotherham",
+    "sort": "15022"
+  },
+  {
+    "city": "Mackworth",
+    "admin": "Derby",
+    "sort": "14180"
+  },
+  {
+    "city": "Port Glasgow",
+    "admin": "Inverclyde",
+    "sort": "14620"
+  },
+  {
+    "city": "Chellaston",
+    "admin": "Derbyshire",
+    "sort": "15198"
+  },
+  {
+    "city": "Winkfield",
+    "admin": "Bracknell Forest",
+    "sort": "14998"
+  },
+  {
+    "city": "Dalkeith",
+    "admin": "Midlothian",
+    "sort": "13400"
+  },
+  {
+    "city": "Farnborough",
+    "admin": "Bromley",
+    "sort": "14632"
+  },
+  {
+    "city": "Penrith",
+    "admin": "Cumbria",
+    "sort": "14756"
+  },
+  {
+    "city": "Bo’ness",
+    "admin": "Falkirk",
+    "sort": "14760"
+  },
+  {
+    "city": "Teignmouth",
+    "admin": "Devon",
+    "sort": "14749"
+  },
+  {
+    "city": "Troon",
+    "admin": "South Ayrshire",
+    "sort": "14710"
+  },
+  {
+    "city": "Cliftonville",
+    "admin": "Kent",
+    "sort": "12900"
+  },
+  {
+    "city": "Hamworthy",
+    "admin": "Poole",
+    "sort": "13141"
+  },
+  {
+    "city": "Helensburgh",
+    "admin": "Argyll and Bute",
+    "sort": "13640"
+  },
+  {
+    "city": "Selston",
+    "admin": "Nottinghamshire",
+    "sort": "12596"
+  },
+  {
+    "city": "Birstall",
+    "admin": "Leicester",
+    "sort": "12216"
+  },
+  {
+    "city": "Fenton",
+    "admin": "Stoke-on-Trent",
+    "sort": "12070"
+  },
+  {
+    "city": "Carluke",
+    "admin": "South Lanarkshire",
+    "sort": "13320"
+  },
+  {
+    "city": "North Walsham",
+    "admin": "Norfolk",
+    "sort": "12634"
+  },
+  {
+    "city": "Flitwick",
+    "admin": "Central Bedfordshire",
+    "sort": "12700"
+  },
+  {
+    "city": "Cowdenbeath",
+    "admin": "Fife",
+    "sort": "11640"
+  },
+  {
+    "city": "Bridgnorth",
+    "admin": "Shropshire",
+    "sort": "12079"
+  },
+  {
+    "city": "Bryn",
+    "admin": "Wigan",
+    "sort": "11662"
+  },
+  {
+    "city": "Aberystwyth",
+    "admin": "Ceredigion",
+    "sort": "12250"
+  },
+  {
+    "city": "Galashiels",
+    "admin": "Scottish Borders, The",
+    "sort": "13000"
+  },
+  {
+    "city": "Syston",
+    "admin": "Leicestershire",
+    "sort": "12804"
+  },
+  {
+    "city": "Rushall",
+    "admin": "Walsall",
+    "sort": "11871"
+  },
+  {
+    "city": "Knowsley",
+    "admin": "Knowsley",
+    "sort": "11343"
+  },
+  {
+    "city": "Beaconsfield",
+    "admin": "Buckinghamshire",
+    "sort": "12081"
+  },
+  {
+    "city": "Horndean",
+    "admin": "Hampshire",
+    "sort": "12639"
+  },
+  {
+    "city": "Saltcoats",
+    "admin": "North Ayrshire",
+    "sort": "12640"
+  },
+  {
+    "city": "Elland",
+    "admin": "Calderdale",
+    "sort": "11676"
+  },
+  {
+    "city": "Armadale",
+    "admin": "West Lothian",
+    "sort": "12550"
+  },
+  {
+    "city": "Bickenhill",
+    "admin": "Solihull",
+    "sort": "12456"
+  },
+  {
+    "city": "Tring",
+    "admin": "Hertfordshire",
+    "sort": "12099"
+  },
+  {
+    "city": "Saint Ives",
+    "admin": "Cornwall",
+    "sort": "11226"
+  },
+  {
+    "city": "Cookstown",
+    "admin": "Mid Ulster",
+    "sort": "10646"
+  },
+  {
+    "city": "New Mills",
+    "admin": "Derbyshire",
+    "sort": "12291"
+  },
+  {
+    "city": "Wells",
+    "admin": "Somerset",
+    "sort": "10536"
+  },
+  {
+    "city": "Tranent",
+    "admin": "East Lothian",
+    "sort": "12140"
+  },
+  {
+    "city": "Montrose",
+    "admin": "Angus",
+    "sort": "12100"
+  },
+  {
+    "city": "Whitburn",
+    "admin": "West Lothian",
+    "sort": "10860"
+  },
+  {
+    "city": "Southwick",
+    "admin": "Sunderland",
+    "sort": "10535"
+  },
+  {
+    "city": "Oswaldtwistle",
+    "admin": "Lancashire",
+    "sort": "11803"
+  },
+  {
+    "city": "Torton",
+    "admin": "Worcestershire",
+    "sort": "11841"
+  },
+  {
+    "city": "Sunninghill",
+    "admin": "Windsor and Maidenhead",
+    "sort": "11603"
+  },
+  {
+    "city": "Hipperholme",
+    "admin": "Calderdale",
+    "sort": "11308"
+  },
+  {
+    "city": "Hexham",
+    "admin": "Northumberland",
+    "sort": "11139"
+  },
+  {
+    "city": "Leatherhead",
+    "admin": "Surrey",
+    "sort": "11316"
+  },
+  {
+    "city": "Whitchurch",
+    "admin": "Bath and North East Somerset",
+    "sort": "11061"
+  },
+  {
+    "city": "Great Harwood",
+    "admin": "Lancashire",
+    "sort": "10890"
+  },
+  {
+    "city": "Kingsnorth",
+    "admin": "Kent",
+    "sort": "11243"
+  },
+  {
+    "city": "Stannington",
+    "admin": "Sheffield",
+    "sort": "10747"
+  },
+  {
+    "city": "Burtonwood",
+    "admin": "Warrington",
+    "sort": "11265"
+  },
+  {
+    "city": "Largs",
+    "admin": "North Ayrshire",
+    "sort": "11260"
+  },
+  {
+    "city": "Stonehaven",
+    "admin": "Aberdeenshire",
+    "sort": "11170"
+  },
+  {
+    "city": "Methil",
+    "admin": "Fife",
+    "sort": "10800"
+  },
+  {
+    "city": "Soham",
+    "admin": "Cambridgeshire",
+    "sort": "10860"
+  },
+  {
+    "city": "Knowle",
+    "admin": "Solihull",
+    "sort": "10678"
+  },
+  {
+    "city": "Appleton",
+    "admin": "Warrington",
+    "sort": "10265"
+  },
+  {
+    "city": "Wooburn",
+    "admin": "Buckinghamshire",
+    "sort": "10792"
+  },
+  {
+    "city": "Shevington",
+    "admin": "Wigan",
+    "sort": "9517"
+  },
+  {
+    "city": "Chesterfield",
+    "admin": "Derbyshire",
+    "sort": "10688"
+  },
+  {
+    "city": "Pencoed",
+    "admin": "Bridgend",
+    "sort": "9166"
+  },
+  {
+    "city": "Euxton",
+    "admin": "Lancashire",
+    "sort": "9993"
+  },
+  {
+    "city": "Caernarfon",
+    "admin": "Gwynedd",
+    "sort": "9615"
+  },
+  {
+    "city": "Southwater",
+    "admin": "West Sussex",
+    "sort": "10025"
+  },
+  {
+    "city": "Kingsteignton",
+    "admin": "Devon",
+    "sort": "10600"
+  },
+  {
+    "city": "Ardrossan",
+    "admin": "North Ayrshire",
+    "sort": "10670"
+  },
+  {
+    "city": "Ludlow",
+    "admin": "Shropshire",
+    "sort": "10266"
+  },
+  {
+    "city": "Prestonpans",
+    "admin": "East Lothian",
+    "sort": "10410"
+  },
+  {
+    "city": "Blairgowrie",
+    "admin": "Perth and Kinross",
+    "sort": "9020"
+  },
+  {
+    "city": "Buckie",
+    "admin": "Moray",
+    "sort": "8640"
+  },
+  {
+    "city": "London Colney",
+    "admin": "Hertfordshire",
+    "sort": "9507"
+  },
+  {
+    "city": "Cumnock",
+    "admin": "East Ayrshire",
+    "sort": "8830"
+  },
+  {
+    "city": "Ellon",
+    "admin": "Aberdeenshire",
+    "sort": "10200"
+  },
+  {
+    "city": "Padbury",
+    "admin": "Buckinghamshire",
+    "sort": "10127"
+  },
+  {
+    "city": "Annan",
+    "admin": "Dumfries and Galloway",
+    "sort": "8780"
+  },
+  {
+    "city": "Fort William",
+    "admin": "Highland",
+    "sort": "10175"
+  },
+  {
+    "city": "Yatton",
+    "admin": "North Somerset",
+    "sort": "9176"
+  },
+  {
+    "city": "Tanfield",
+    "admin": "Durham",
+    "sort": "8270"
+  },
+  {
+    "city": "Crigglestone",
+    "admin": "Wakefield",
+    "sort": "9271"
+  },
+  {
+    "city": "Narborough",
+    "admin": "Leicestershire",
+    "sort": "8448"
+  },
+  {
+    "city": "Aveley",
+    "admin": "Thurrock",
+    "sort": "9461"
+  },
+  {
+    "city": "Hayle",
+    "admin": "Cornwall",
+    "sort": "9400"
+  },
+  {
+    "city": "Holywell",
+    "admin": "Flintshire",
+    "sort": "8886"
+  },
+  {
+    "city": "Worth",
+    "admin": "West Sussex",
+    "sort": "9888"
+  },
+  {
+    "city": "Towcester",
+    "admin": "Northamptonshire",
+    "sort": "9252"
+  },
+  {
+    "city": "Queensferry",
+    "admin": "Edinburgh, City of",
+    "sort": "9350"
+  },
+  {
+    "city": "Ferryhill",
+    "admin": "Durham",
+    "sort": "8942"
+  },
+  {
+    "city": "Cobham",
+    "admin": "Surrey",
+    "sort": "9739"
+  },
+  {
+    "city": "Audley",
+    "admin": "Staffordshire",
+    "sort": "8437"
+  },
+  {
+    "city": "Bersted",
+    "admin": "West Sussex",
+    "sort": "8496"
+  },
+  {
+    "city": "Hockley",
+    "admin": "Essex",
+    "sort": "9616"
+  },
+  {
+    "city": "Carlton Colville",
+    "admin": "Suffolk",
+    "sort": "8505"
+  },
+  {
+    "city": "Brandon",
+    "admin": "Suffolk",
+    "sort": "9145"
+  },
+  {
+    "city": "Shinfield",
+    "admin": "Wokingham",
+    "sort": "8136"
+  },
+  {
+    "city": "Binfield",
+    "admin": "Bracknell Forest",
+    "sort": "8689"
+  },
+  {
+    "city": "Dunblane",
+    "admin": "Stirling",
+    "sort": "9410"
+  },
+  {
+    "city": "Stevenston",
+    "admin": "North Ayrshire",
+    "sort": "9230"
+  },
+  {
+    "city": "Sherborne",
+    "admin": "Dorset",
+    "sort": "9350"
+  },
+  {
+    "city": "Shaftesbury",
+    "admin": "Dorset",
+    "sort": "7314"
+  },
+  {
+    "city": "Yaxley",
+    "admin": "Cambridgeshire",
+    "sort": "9174"
+  },
+  {
+    "city": "Whitnash",
+    "admin": "Warwickshire",
+    "sort": "9129"
+  },
+  {
+    "city": "Ystradgynlais",
+    "admin": "Powys",
+    "sort": "8092"
+  },
+  {
+    "city": "Haddington",
+    "admin": "East Lothian",
+    "sort": "9130"
+  },
+  {
+    "city": "Oakengates",
+    "admin": "Telford and Wrekin",
+    "sort": "8517"
+  },
+  {
+    "city": "Annfield Plain",
+    "admin": "Durham",
+    "sort": "7774"
+  },
+  {
+    "city": "Portlethen",
+    "admin": "Aberdeenshire",
+    "sort": "9090"
+  },
+  {
+    "city": "Windermere",
+    "admin": "Cumbria",
+    "sort": "8359"
+  },
+  {
+    "city": "Lanark",
+    "admin": "South Lanarkshire",
+    "sort": "9050"
+  },
+  {
+    "city": "Warsash",
+    "admin": "Hampshire",
+    "sort": "7183"
+  },
+  {
+    "city": "Old Colwyn",
+    "admin": "Conwy",
+    "sort": "8113"
+  },
+  {
+    "city": "Great Cornard",
+    "admin": "Suffolk",
+    "sort": "8908"
+  },
+  {
+    "city": "Stepps",
+    "admin": "North Lanarkshire",
+    "sort": "7450"
+  },
+  {
+    "city": "Peebles",
+    "admin": "Scottish Borders, The",
+    "sort": "8940"
+  },
+  {
+    "city": "Skewen",
+    "admin": "Neath Port Talbot",
+    "sort": "8500"
+  },
+  {
+    "city": "Kilbirnie",
+    "admin": "North Ayrshire",
+    "sort": "7340"
+  },
+  {
+    "city": "Caister-on-Sea",
+    "admin": "Norfolk",
+    "sort": "8901"
+  },
+  {
+    "city": "Upholland",
+    "admin": "Lancashire",
+    "sort": "7376"
+  },
+  {
+    "city": "Norton Canes",
+    "admin": "Staffordshire",
+    "sort": "7479"
+  },
+  {
+    "city": "Hughenden",
+    "admin": "Buckinghamshire",
+    "sort": "8362"
+  },
+  {
+    "city": "Claygate",
+    "admin": "Surrey",
+    "sort": "7168"
+  },
+  {
+    "city": "Paddock Wood",
+    "admin": "Kent",
+    "sort": "8263"
+  },
+  {
+    "city": "Canford Cliffs",
+    "admin": "Bournemouth",
+    "sort": "8620"
+  },
+  {
+    "city": "Kirk of Shotts",
+    "admin": "North Lanarkshire",
+    "sort": "8570"
+  },
+  {
+    "city": "Brecon",
+    "admin": "Powys",
+    "sort": "8250"
+  },
+  {
+    "city": "Lochgelly",
+    "admin": "Fife",
+    "sort": "7320"
+  },
+  {
+    "city": "Strathaven",
+    "admin": "South Lanarkshire",
+    "sort": "7350"
+  },
+  {
+    "city": "Northam",
+    "admin": "Devon",
+    "sort": "7489"
+  },
+  {
+    "city": "Willerby",
+    "admin": "East Riding of Yorkshire",
+    "sort": "7940"
+  },
+  {
+    "city": "Dalton in Furness",
+    "admin": "Cumbria",
+    "sort": "7424"
+  },
+  {
+    "city": "Goffs Oak",
+    "admin": "Hertfordshire",
+    "sort": "8172"
+  },
+  {
+    "city": "Denny",
+    "admin": "Falkirk",
+    "sort": "8300"
+  },
+  {
+    "city": "Radcliffe on Trent",
+    "admin": "Nottinghamshire",
+    "sort": "8205"
+  },
+  {
+    "city": "Hawkinge",
+    "admin": "Kent",
+    "sort": "8002"
+  },
+  {
+    "city": "Frankley",
+    "admin": "Worcestershire",
+    "sort": "7890"
+  },
+  {
+    "city": "Thrapston",
+    "admin": "Northamptonshire",
+    "sort": "6239"
+  },
+  {
+    "city": "Kelty",
+    "admin": "Fife",
+    "sort": "6730"
+  },
+  {
+    "city": "West Thurrock",
+    "admin": "Thurrock",
+    "sort": "7795"
+  },
+  {
+    "city": "Waltham",
+    "admin": "North East Lincolnshire",
+    "sort": "6413"
+  },
+  {
+    "city": "Seasalter",
+    "admin": "Kent",
+    "sort": "7967"
+  },
+  {
+    "city": "Kingsbury",
+    "admin": "Warwickshire",
+    "sort": "7652"
+  },
+  {
+    "city": "Wingerworth",
+    "admin": "Derbyshire",
+    "sort": "6533"
+  },
+  {
+    "city": "Wilmington",
+    "admin": "Kent",
+    "sort": "7178"
+  },
+  {
+    "city": "Thurso",
+    "admin": "Highland",
+    "sort": "7933"
+  },
+  {
+    "city": "Bramcote",
+    "admin": "Nottinghamshire",
+    "sort": "7270"
+  },
+  {
+    "city": "Banchory",
+    "admin": "Aberdeenshire",
+    "sort": "7560"
+  },
+  {
+    "city": "Kinmel",
+    "admin": "Denbighshire",
+    "sort": "7864"
+  },
+  {
+    "city": "Lossiemouth",
+    "admin": "Moray",
+    "sort": "7870"
+  },
+  {
+    "city": "Willesborough",
+    "admin": "Kent",
+    "sort": "7800"
+  },
+  {
+    "city": "Dunoon",
+    "admin": "Argyll and Bute",
+    "sort": "7830"
+  },
+  {
+    "city": "Hook",
+    "admin": "Hampshire",
+    "sort": "7770"
+  },
+  {
+    "city": "Watton",
+    "admin": "Norfolk",
+    "sort": "6819"
+  },
+  {
+    "city": "Longridge",
+    "admin": "Lancashire",
+    "sort": "7724"
+  },
+  {
+    "city": "West Mersea",
+    "admin": "Essex",
+    "sort": "7183"
+  },
+  {
+    "city": "Treharris",
+    "admin": "Merthyr Tydfil",
+    "sort": "6356"
+  },
+  {
+    "city": "Church Gresley",
+    "admin": "Derbyshire",
+    "sort": "6881"
+  },
+  {
+    "city": "Treherbert",
+    "admin": "Rhondda Cynon Taff",
+    "sort": "5727"
+  },
+  {
+    "city": "Boultham",
+    "admin": "Lincolnshire",
+    "sort": "7465"
+  },
+  {
+    "city": "Wimborne Minster",
+    "admin": "Dorset",
+    "sort": "6418"
+  },
+  {
+    "city": "North Berwick",
+    "admin": "East Lothian",
+    "sort": "6930"
+  },
+  {
+    "city": "Wardle",
+    "admin": "Rochdale",
+    "sort": "7092"
+  },
+  {
+    "city": "Drighlington",
+    "admin": "Leeds",
+    "sort": "5528"
+  },
+  {
+    "city": "Carlton",
+    "admin": "Nottinghamshire",
+    "sort": "6881"
+  },
+  {
+    "city": "Countesthorpe",
+    "admin": "Leicestershire",
+    "sort": "6377"
+  },
+  {
+    "city": "Galleywood",
+    "admin": "Essex",
+    "sort": "5738"
+  },
+  {
+    "city": "Coxhoe",
+    "admin": "Durham",
+    "sort": "7020"
+  },
+  {
+    "city": "Rhoose",
+    "admin": "Vale of Glamorgan, The",
+    "sort": "6160"
+  },
+  {
+    "city": "Stewarton",
+    "admin": "East Ayrshire",
+    "sort": "7420"
+  },
+  {
+    "city": "Locharbriggs",
+    "admin": "Dumfries and Galloway",
+    "sort": "5830"
+  },
+  {
+    "city": "Wick",
+    "admin": "Highland",
+    "sort": "7030"
+  },
+  {
+    "city": "Torrisholme",
+    "admin": "Lancashire",
+    "sort": "6755"
+  },
+  {
+    "city": "Shenstone",
+    "admin": "Staffordshire",
+    "sort": "7359"
+  },
+  {
+    "city": "Llandudno Junction",
+    "admin": "Conwy",
+    "sort": "6722"
+  },
+  {
+    "city": "Southwell",
+    "admin": "Nottinghamshire",
+    "sort": "7297"
+  },
+  {
+    "city": "Burntisland",
+    "admin": "Fife",
+    "sort": "6590"
+  },
+  {
+    "city": "Calverton",
+    "admin": "Nottinghamshire",
+    "sort": "7076"
+  },
+  {
+    "city": "Humberston",
+    "admin": "North East Lincolnshire",
+    "sort": "5634"
+  },
+  {
+    "city": "Crumlin",
+    "admin": "Caerphilly",
+    "sort": "5947"
+  },
+  {
+    "city": "Herne",
+    "admin": "Kent",
+    "sort": "7325"
+  },
+  {
+    "city": "Abersychan",
+    "admin": "Torfaen",
+    "sort": "7064"
+  },
+  {
+    "city": "Nailsworth",
+    "admin": "Gloucestershire",
+    "sort": "5794"
+  },
+  {
+    "city": "Sturry",
+    "admin": "Kent",
+    "sort": "6820"
+  },
+  {
+    "city": "Farnham Royal",
+    "admin": "Buckinghamshire",
+    "sort": "5972"
+  },
+  {
+    "city": "Muxton",
+    "admin": "Telford and Wrekin",
+    "sort": "6557"
+  },
+  {
+    "city": "Ash Vale",
+    "admin": "Surrey",
+    "sort": "5686"
+  },
+  {
+    "city": "Gorebridge",
+    "admin": "Midlothian",
+    "sort": "7160"
+  },
+  {
+    "city": "Pinhoe",
+    "admin": "Devon",
+    "sort": "6454"
+  },
+  {
+    "city": "Houston",
+    "admin": "Renfrewshire",
+    "sort": "6430"
+  },
+  {
+    "city": "Bollington",
+    "admin": "Cheshire East",
+    "sort": "7095"
+  },
+  {
+    "city": "Marshfield",
+    "admin": "Newport",
+    "sort": "6270"
+  },
+  {
+    "city": "Gunton",
+    "admin": "Suffolk",
+    "sort": "6640"
+  },
+  {
+    "city": "Blythebridge",
+    "admin": "Staffordshire",
+    "sort": "5931"
+  },
+  {
+    "city": "Deeping Saint James",
+    "admin": "Lincolnshire",
+    "sort": "6923"
+  },
+  {
+    "city": "Bonnybridge",
+    "admin": "Falkirk",
+    "sort": "5210"
+  },
+  {
+    "city": "Newbridge",
+    "admin": "Caerphilly",
+    "sort": "6509"
+  },
+  {
+    "city": "Ammanford",
+    "admin": "Carmarthenshire",
+    "sort": "5411"
+  },
+  {
+    "city": "Loanhead",
+    "admin": "Midlothian",
+    "sort": "6440"
+  },
+  {
+    "city": "Stainforth",
+    "admin": "Doncaster",
+    "sort": "6282"
+  },
+  {
+    "city": "Oakley",
+    "admin": "Hampshire",
+    "sort": "5086"
+  },
+  {
+    "city": "Weaverham",
+    "admin": "Cheshire West and Chester",
+    "sort": "6391"
+  },
+  {
+    "city": "Great Wakering",
+    "admin": "Southend-on-Sea",
+    "sort": "5587"
+  },
+  {
+    "city": "Newton Grange",
+    "admin": "Midlothian",
+    "sort": "5341"
+  },
+  {
+    "city": "Kelso",
+    "admin": "Scottish Borders, The",
+    "sort": "6910"
+  },
+  {
+    "city": "Billinge",
+    "admin": "St. Helens",
+    "sort": "6554"
+  },
+  {
+    "city": "Branston",
+    "admin": "Staffordshire",
+    "sort": "6749"
+  },
+  {
+    "city": "Griffithstown",
+    "admin": "Torfaen",
+    "sort": "5450"
+  },
+  {
+    "city": "Battle",
+    "admin": "East Sussex",
+    "sort": "6673"
+  },
+  {
+    "city": "Fishtoft",
+    "admin": "Lincolnshire",
+    "sort": "6835"
+  },
+  {
+    "city": "Holmes Chapel",
+    "admin": "Cheshire East",
+    "sort": "5605"
+  },
+  {
+    "city": "Alexandria",
+    "admin": "West Dunbartonshire",
+    "sort": "6860"
+  },
+  {
+    "city": "Great Chart",
+    "admin": "Kent",
+    "sort": "6801"
+  },
+  {
+    "city": "Askern",
+    "admin": "Doncaster",
+    "sort": "5570"
+  },
+  {
+    "city": "Landore",
+    "admin": "Swansea",
+    "sort": "6168"
+  },
+  {
+    "city": "Welshpool",
+    "admin": "Powys",
+    "sort": "6664"
+  },
+  {
+    "city": "Bannockburn",
+    "admin": "Stirling",
+    "sort": "6840"
+  },
+  {
+    "city": "Sandycroft",
+    "admin": "Flintshire",
+    "sort": "6724"
+  },
+  {
+    "city": "Ballingry",
+    "admin": "Fife",
+    "sort": "5740"
+  },
+  {
+    "city": "Chapelhall",
+    "admin": "North Lanarkshire",
+    "sort": "6690"
+  },
+  {
+    "city": "Twyford",
+    "admin": "Wokingham",
+    "sort": "6618"
+  },
+  {
+    "city": "South Molton",
+    "admin": "Devon",
+    "sort": "5108"
+  },
+  {
+    "city": "Sawley",
+    "admin": "Leicestershire",
+    "sort": "6629"
+  },
+  {
+    "city": "Illogan",
+    "admin": "Cornwall",
+    "sort": "5404"
+  },
+  {
+    "city": "Looe",
+    "admin": "Cornwall",
+    "sort": "5280"
+  },
+  {
+    "city": "Wirksworth",
+    "admin": "Derbyshire",
+    "sort": "5038"
+  },
+  {
+    "city": "Cwmafan",
+    "admin": "Neath Port Talbot",
+    "sort": "6538"
+  },
+  {
+    "city": "Skelton",
+    "admin": "Redcar and Cleveland",
+    "sort": "6535"
+  },
+  {
+    "city": "Stansted Mountfitchet",
+    "admin": "Essex",
+    "sort": "6011"
+  },
+  {
+    "city": "Wheathampstead",
+    "admin": "Hertfordshire",
+    "sort": "6410"
+  },
+  {
+    "city": "Danbury",
+    "admin": "Essex",
+    "sort": "6500"
+  },
+  {
+    "city": "Kirriemuir",
+    "admin": "Angus",
+    "sort": "6120"
+  },
+  {
+    "city": "East Leake",
+    "admin": "Nottinghamshire",
+    "sort": "6337"
+  },
+  {
+    "city": "Treforest",
+    "admin": "Rhondda Cynon Taff",
+    "sort": "5050"
+  },
+  {
+    "city": "Haworth",
+    "admin": "Bradford",
+    "sort": "6379"
+  },
+  {
+    "city": "Pagham",
+    "admin": "West Sussex",
+    "sort": "5941"
+  },
+  {
+    "city": "Blaby",
+    "admin": "Leicestershire",
+    "sort": "6194"
+  },
+  {
+    "city": "Bursledon",
+    "admin": "Hampshire",
+    "sort": "6188"
+  },
+  {
+    "city": "Calstock",
+    "admin": "Devon",
+    "sort": "6253"
+  },
+  {
+    "city": "Abercarn",
+    "admin": "Caerphilly",
+    "sort": "5352"
+  },
+  {
+    "city": "Drayton",
+    "admin": "Norfolk",
+    "sort": "5489"
+  },
+  {
+    "city": "Sidley",
+    "admin": "East Sussex",
+    "sort": "5718"
+  },
+  {
+    "city": "Girvan",
+    "admin": "South Ayrshire",
+    "sort": "6450"
+  },
+  {
+    "city": "Headley",
+    "admin": "Hampshire",
+    "sort": "5613"
+  },
+  {
+    "city": "Liss",
+    "admin": "Hampshire",
+    "sort": "6084"
+  },
+  {
+    "city": "Newarthill",
+    "admin": "North Lanarkshire",
+    "sort": "6360"
+  },
+  {
+    "city": "Buntingford",
+    "admin": "Hertfordshire",
+    "sort": "5378"
+  },
+  {
+    "city": "Stonewood",
+    "admin": "Kent",
+    "sort": "6100"
+  },
+  {
+    "city": "Pinxton",
+    "admin": "Derbyshire",
+    "sort": "5699"
+  },
+  {
+    "city": "Glyncorrwg",
+    "admin": "Neath Port Talbot",
+    "sort": "5283"
+  },
+  {
+    "city": "Cuddington",
+    "admin": "Cheshire West and Chester",
+    "sort": "5333"
+  },
+  {
+    "city": "Rowlands Gill",
+    "admin": "Gateshead",
+    "sort": "6096"
+  },
+  {
+    "city": "Orsett",
+    "admin": "Thurrock",
+    "sort": "6115"
+  },
+  {
+    "city": "Broughton",
+    "admin": "Flintshire",
+    "sort": "5974"
+  },
+  {
+    "city": "Dingwall",
+    "admin": "Highland",
+    "sort": "5470"
+  },
+  {
+    "city": "Swanwick",
+    "admin": "Derbyshire",
+    "sort": "5185"
+  },
+  {
+    "city": "Colney Heath",
+    "admin": "Hertfordshire",
+    "sort": "5962"
+  },
+  {
+    "city": "Beith",
+    "admin": "North Ayrshire",
+    "sort": "6040"
+  },
+  {
+    "city": "Great Warley Street",
+    "admin": "Essex",
+    "sort": "5973"
+  },
+  {
+    "city": "Stoke Mandeville",
+    "admin": "Buckinghamshire",
+    "sort": "5825"
+  },
+  {
+    "city": "Blean",
+    "admin": "Kent",
+    "sort": "5589"
+  },
+  {
+    "city": "Bramley",
+    "admin": "Hampshire",
+    "sort": "5875"
+  },
+  {
+    "city": "Axminster",
+    "admin": "Devon",
+    "sort": "5761"
+  },
+  {
+    "city": "East Preston",
+    "admin": "West Sussex",
+    "sort": "5938"
+  },
+  {
+    "city": "Botley",
+    "admin": "Hampshire",
+    "sort": "5100"
+  },
+  {
+    "city": "Alness",
+    "admin": "Highland",
+    "sort": "5800"
+  },
+  {
+    "city": "Cumnor",
+    "admin": "Oxfordshire",
+    "sort": "5755"
+  },
+  {
+    "city": "Balerno",
+    "admin": "Edinburgh, City of",
+    "sort": "5486"
+  },
+  {
+    "city": "Markfield",
+    "admin": "Leicestershire",
+    "sort": "5681"
+  },
+  {
+    "city": "Martlesham",
+    "admin": "Suffolk",
+    "sort": "5478"
+  },
+  {
+    "city": "Bagshot",
+    "admin": "Surrey",
+    "sort": "5592"
+  },
+  {
+    "city": "Cockenzie",
+    "admin": "East Lothian",
+    "sort": "5470"
+  },
+  {
+    "city": "Wyke Regis",
+    "admin": "Dorset",
+    "sort": "5458"
+  },
+  {
+    "city": "Hartford",
+    "admin": "Cheshire West and Chester",
+    "sort": "5515"
+  },
+  {
+    "city": "Selkirk",
+    "admin": "Scottish Borders, The",
+    "sort": "5580"
+  },
+  {
+    "city": "Tidenham",
+    "admin": "Gloucestershire",
+    "sort": "5486"
+  },
+  {
+    "city": "Ore",
+    "admin": "East Sussex",
+    "sort": "5195"
+  },
+  {
+    "city": "Newmains",
+    "admin": "North Lanarkshire",
+    "sort": "5480"
+  },
+  {
+    "city": "Wool",
+    "admin": "Dorset",
+    "sort": "5310"
+  },
+  {
+    "city": "Stonehouse",
+    "admin": "South Lanarkshire",
+    "sort": "5500"
+  },
+  {
+    "city": "Hartley",
+    "admin": "Kent",
+    "sort": "5359"
+  },
+  {
+    "city": "Neilston",
+    "admin": "East Renfrewshire",
+    "sort": "5170"
+  },
+  {
+    "city": "Nursling",
+    "admin": "Hampshire",
+    "sort": "5137"
+  },
+  {
+    "city": "Kings Langley",
+    "admin": "Hertfordshire",
+    "sort": "5214"
+  },
+  {
+    "city": "Bilton",
+    "admin": "North Yorkshire",
+    "sort": "5409"
+  },
+  {
+    "city": "Cardenden",
+    "admin": "Fife",
+    "sort": "5420"
+  },
+  {
+    "city": "Polmont",
+    "admin": "Falkirk",
+    "sort": "5320"
+  },
+  {
+    "city": "Dalry",
+    "admin": "North Ayrshire",
+    "sort": "5360"
+  },
+  {
+    "city": "Roundway",
+    "admin": "Wiltshire",
+    "sort": "5290"
+  },
+  {
+    "city": "Holytown",
+    "admin": "North Lanarkshire",
+    "sort": "5160"
+  },
+  {
+    "city": "Pinchbeck",
+    "admin": "Lincolnshire",
+    "sort": "5153"
+  },
+  {
+    "city": "East Calder",
+    "admin": "West Lothian",
+    "sort": "5260"
+  },
+  {
+    "city": "Edwinstowe",
+    "admin": "Nottinghamshire",
+    "sort": "5188"
+  },
+  {
+    "city": "Stornoway",
+    "admin": "Eilean Siar",
+    "sort": "5070"
+  },
+  {
+    "city": "Auchterarder",
+    "admin": "Perth and Kinross",
+    "sort": "5120"
+  },
+  {
+    "city": "Gresford",
+    "admin": "Wrexham",
+    "sort": "5010"
+  },
+  {
+    "city": "Llangefni",
+    "admin": "Isle of Anglesey",
+    "sort": "5116"
+  },
+  {
+    "city": "Hunters Quay",
+    "admin": "Argyll and Bute",
+    "sort": "5198"
+  },
+  {
+    "city": "Middleton-on-Sea",
+    "admin": "West Sussex",
+    "sort": "5077"
+  },
+  {
+    "city": "Basing",
+    "admin": "Hampshire",
+    "sort": "7232"
+  },
+  {
+    "city": "Garswood",
+    "admin": "St. Helens",
+    "sort": "6183"
+  },
+  {
+    "city": "Lea Town",
+    "admin": "Lancashire",
+    "sort": "5962"
+  },
+  {
+    "city": "Sollom",
+    "admin": "Lancashire",
+    "sort": "5350"
+  }
+]

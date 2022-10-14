@@ -1,0 +1,47 @@
+[
+  {
+    "city": "Honiara",
+    "admin": "Honiara",
+    "sort": "84520"
+  },
+  {
+    "city": "Gizo",
+    "admin": "Western",
+    "sort": "6154"
+  },
+  {
+    "city": "Kirakira",
+    "admin": "Makira and Ulawa",
+    "sort": ""
+  },
+  {
+    "city": "Auki",
+    "admin": "Malaita",
+    "sort": ""
+  },
+  {
+    "city": "Taro",
+    "admin": "Choiseul",
+    "sort": ""
+  },
+  {
+    "city": "Lata",
+    "admin": "Temotu",
+    "sort": "553"
+  },
+  {
+    "city": "Tulagi",
+    "admin": "Central",
+    "sort": ""
+  },
+  {
+    "city": "Buala",
+    "admin": "Isabel",
+    "sort": ""
+  },
+  {
+    "city": "Tigoa",
+    "admin": "Rennell and Bellona",
+    "sort": ""
+  }
+]

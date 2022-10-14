@@ -1,0 +1,2342 @@
+[
+  {
+    "city": "Brussels",
+    "admin": "Brussels-Capital Region",
+    "sort": "1743000"
+  },
+  {
+    "city": "Antwerp",
+    "admin": "Flanders",
+    "sort": "529247"
+  },
+  {
+    "city": "Gent",
+    "admin": "Flanders",
+    "sort": "262219"
+  },
+  {
+    "city": "Charleroi",
+    "admin": "Wallonia",
+    "sort": "201816"
+  },
+  {
+    "city": "Liège",
+    "admin": "Wallonia",
+    "sort": "196623"
+  },
+  {
+    "city": "Anderlecht",
+    "admin": "Brussels-Capital Region",
+    "sort": "117412"
+  },
+  {
+    "city": "Bruges",
+    "admin": "Flanders",
+    "sort": "118284"
+  },
+  {
+    "city": "Namur",
+    "admin": "Wallonia",
+    "sort": "110939"
+  },
+  {
+    "city": "Moortebeek",
+    "admin": "Flanders",
+    "sort": "97005"
+  },
+  {
+    "city": "Leuven",
+    "admin": "Flanders",
+    "sort": "100291"
+  },
+  {
+    "city": "Mechelen",
+    "admin": "Flanders",
+    "sort": "86921"
+  },
+  {
+    "city": "Forest",
+    "admin": "Brussels-Capital Region",
+    "sort": "56008"
+  },
+  {
+    "city": "Etterbeek",
+    "admin": "Brussels-Capital Region",
+    "sort": "47786"
+  },
+  {
+    "city": "Jette",
+    "admin": "Brussels-Capital Region",
+    "sort": "43564"
+  },
+  {
+    "city": "Evere",
+    "admin": "Brussels-Capital Region",
+    "sort": "41131"
+  },
+  {
+    "city": "Vilvoorde",
+    "admin": "Flanders",
+    "sort": "44015"
+  },
+  {
+    "city": "Wilrijk",
+    "admin": "Flanders",
+    "sort": "38319"
+  },
+  {
+    "city": "Koekelberg",
+    "admin": "Brussels-Capital Region",
+    "sort": "18541"
+  },
+  {
+    "city": "Sint-Joost-ten-Node",
+    "admin": "Brussels-Capital Region",
+    "sort": "27032"
+  },
+  {
+    "city": "Ganshoren",
+    "admin": "Brussels-Capital Region",
+    "sort": "24865"
+  },
+  {
+    "city": "Mortsel",
+    "admin": "Flanders",
+    "sort": "26157"
+  },
+  {
+    "city": "Saint-Nicolas",
+    "admin": "Wallonia",
+    "sort": "24251"
+  },
+  {
+    "city": "Ekeren",
+    "admin": "Flanders",
+    "sort": "22874"
+  },
+  {
+    "city": "Edegem",
+    "admin": "Flanders",
+    "sort": "21947"
+  },
+  {
+    "city": "Assebroek",
+    "admin": "Flanders",
+    "sort": "19737"
+  },
+  {
+    "city": "Boom",
+    "admin": "Flanders",
+    "sort": "17782"
+  },
+  {
+    "city": "Wondelgem",
+    "admin": "Flanders",
+    "sort": "16932"
+  },
+  {
+    "city": "Wezembeek-Oppem",
+    "admin": "Flanders",
+    "sort": "14021"
+  },
+  {
+    "city": "Kraainem",
+    "admin": "Flanders",
+    "sort": "13690"
+  },
+  {
+    "city": "Hemiksem",
+    "admin": "Flanders",
+    "sort": "11368"
+  },
+  {
+    "city": "Borsbeek",
+    "admin": "Flanders",
+    "sort": "10685"
+  },
+  {
+    "city": "Drogenbos",
+    "admin": "Flanders",
+    "sort": "5599"
+  },
+  {
+    "city": "Mons",
+    "admin": "Wallonia",
+    "sort": "95299"
+  },
+  {
+    "city": "Aalst",
+    "admin": "Flanders",
+    "sort": "85715"
+  },
+  {
+    "city": "La Louvière",
+    "admin": "Wallonia",
+    "sort": "80986"
+  },
+  {
+    "city": "Hasselt",
+    "admin": "Flanders",
+    "sort": "77651"
+  },
+  {
+    "city": "Sint-Niklaas",
+    "admin": "Flanders",
+    "sort": "76756"
+  },
+  {
+    "city": "Kortrijk",
+    "admin": "Flanders",
+    "sort": "76265"
+  },
+  {
+    "city": "Ostend",
+    "admin": "Flanders",
+    "sort": "71332"
+  },
+  {
+    "city": "Tournai",
+    "admin": "Wallonia",
+    "sort": "69554"
+  },
+  {
+    "city": "Genk",
+    "admin": "Flanders",
+    "sort": "66110"
+  },
+  {
+    "city": "Seraing",
+    "admin": "Wallonia",
+    "sort": "64270"
+  },
+  {
+    "city": "Roeselare",
+    "admin": "Flanders",
+    "sort": "62301"
+  },
+  {
+    "city": "Mouscron",
+    "admin": "Wallonia",
+    "sort": "58234"
+  },
+  {
+    "city": "Verviers",
+    "admin": "Wallonia",
+    "sort": "55198"
+  },
+  {
+    "city": "Beveren",
+    "admin": "Flanders",
+    "sort": "48192"
+  },
+  {
+    "city": "Beringen",
+    "admin": "Flanders",
+    "sort": "46065"
+  },
+  {
+    "city": "Dendermonde",
+    "admin": "Flanders",
+    "sort": "45673"
+  },
+  {
+    "city": "Turnhout",
+    "admin": "Flanders",
+    "sort": "44136"
+  },
+  {
+    "city": "Dilbeek",
+    "admin": "Flanders",
+    "sort": "42434"
+  },
+  {
+    "city": "Heist-op-den-Berg",
+    "admin": "Flanders",
+    "sort": "42478"
+  },
+  {
+    "city": "Lokeren",
+    "admin": "Flanders",
+    "sort": "41438"
+  },
+  {
+    "city": "Herstal",
+    "admin": "Wallonia",
+    "sort": "39958"
+  },
+  {
+    "city": "Geel",
+    "admin": "Flanders",
+    "sort": "40709"
+  },
+  {
+    "city": "Sint-Truiden",
+    "admin": "Flanders",
+    "sort": "40672"
+  },
+  {
+    "city": "Braine-l’Alleud",
+    "admin": "Wallonia",
+    "sort": "39837"
+  },
+  {
+    "city": "Halle",
+    "admin": "Flanders",
+    "sort": "39096"
+  },
+  {
+    "city": "Ninove",
+    "admin": "Flanders",
+    "sort": "38692"
+  },
+  {
+    "city": "Waregem",
+    "admin": "Flanders",
+    "sort": "38347"
+  },
+  {
+    "city": "Brasschaat",
+    "admin": "Flanders",
+    "sort": "37850"
+  },
+  {
+    "city": "Mechelen-aan-de-Maas",
+    "admin": "Flanders",
+    "sort": "38193"
+  },
+  {
+    "city": "Grimbergen",
+    "admin": "Flanders",
+    "sort": "37355"
+  },
+  {
+    "city": "Châtelet",
+    "admin": "Wallonia",
+    "sort": "36101"
+  },
+  {
+    "city": "Lierre",
+    "admin": "Flanders",
+    "sort": "36646"
+  },
+  {
+    "city": "Mol",
+    "admin": "Flanders",
+    "sort": "36544"
+  },
+  {
+    "city": "Evergem",
+    "admin": "Flanders",
+    "sort": "35239"
+  },
+  {
+    "city": "Schoten",
+    "admin": "Flanders",
+    "sort": "34462"
+  },
+  {
+    "city": "Ieper",
+    "admin": "Flanders",
+    "sort": "34964"
+  },
+  {
+    "city": "Tienen",
+    "admin": "Flanders",
+    "sort": "34675"
+  },
+  {
+    "city": "Wavre",
+    "admin": "Wallonia",
+    "sort": "34305"
+  },
+  {
+    "city": "Sint-Pieters-Leeuw",
+    "admin": "Flanders",
+    "sort": "34038"
+  },
+  {
+    "city": "Lommel",
+    "admin": "Flanders",
+    "sort": "34044"
+  },
+  {
+    "city": "Menen",
+    "admin": "Flanders",
+    "sort": "33190"
+  },
+  {
+    "city": "Binche",
+    "admin": "Wallonia",
+    "sort": "33598"
+  },
+  {
+    "city": "Geraardsbergen",
+    "admin": "Flanders",
+    "sort": "33403"
+  },
+  {
+    "city": "Asse",
+    "admin": "Flanders",
+    "sort": "32958"
+  },
+  {
+    "city": "Knokke-Heist",
+    "admin": "Flanders",
+    "sort": "33097"
+  },
+  {
+    "city": "Bilzen",
+    "admin": "Flanders",
+    "sort": "32318"
+  },
+  {
+    "city": "Louvain-la-Neuve",
+    "admin": "Wallonia",
+    "sort": "31551"
+  },
+  {
+    "city": "Wevelgem",
+    "admin": "Flanders",
+    "sort": "31412"
+  },
+  {
+    "city": "Courcelles",
+    "admin": "Wallonia",
+    "sort": "31376"
+  },
+  {
+    "city": "Waterloo",
+    "admin": "Wallonia",
+    "sort": "30174"
+  },
+  {
+    "city": "Oudenaarde",
+    "admin": "Flanders",
+    "sort": "31132"
+  },
+  {
+    "city": "Tongeren",
+    "admin": "Flanders",
+    "sort": "31142"
+  },
+  {
+    "city": "Deinze",
+    "admin": "Flanders",
+    "sort": "31085"
+  },
+  {
+    "city": "Aarschot",
+    "admin": "Flanders",
+    "sort": "29965"
+  },
+  {
+    "city": "Temse",
+    "admin": "Flanders",
+    "sort": "29528"
+  },
+  {
+    "city": "Arlon",
+    "admin": "Wallonia",
+    "sort": "29733"
+  },
+  {
+    "city": "Zaventem",
+    "admin": "Flanders",
+    "sort": "28651"
+  },
+  {
+    "city": "Ans",
+    "admin": "Wallonia",
+    "sort": "28238"
+  },
+  {
+    "city": "Ath",
+    "admin": "Wallonia",
+    "sort": "29164"
+  },
+  {
+    "city": "Brecht",
+    "admin": "Flanders",
+    "sort": "29010"
+  },
+  {
+    "city": "Nivelles",
+    "admin": "Wallonia",
+    "sort": "28521"
+  },
+  {
+    "city": "Herentals",
+    "admin": "Flanders",
+    "sort": "28272"
+  },
+  {
+    "city": "Harelbeke",
+    "admin": "Flanders",
+    "sort": "27886"
+  },
+  {
+    "city": "Izegem",
+    "admin": "Flanders",
+    "sort": "27729"
+  },
+  {
+    "city": "Andenne",
+    "admin": "Wallonia",
+    "sort": "27573"
+  },
+  {
+    "city": "Soignies",
+    "admin": "Wallonia",
+    "sort": "27603"
+  },
+  {
+    "city": "Kapellen",
+    "admin": "Flanders",
+    "sort": "26540"
+  },
+  {
+    "city": "Willebroek",
+    "admin": "Flanders",
+    "sort": "26223"
+  },
+  {
+    "city": "Ronse",
+    "admin": "Flanders",
+    "sort": "26337"
+  },
+  {
+    "city": "Flémalle-Haute",
+    "admin": "Wallonia",
+    "sort": "26174"
+  },
+  {
+    "city": "Zottegem",
+    "admin": "Flanders",
+    "sort": "26373"
+  },
+  {
+    "city": "Tubize",
+    "admin": "Wallonia",
+    "sort": "25914"
+  },
+  {
+    "city": "Lanaken",
+    "admin": "Flanders",
+    "sort": "25818"
+  },
+  {
+    "city": "Gembloux",
+    "admin": "Wallonia",
+    "sort": "25933"
+  },
+  {
+    "city": "Wetteren",
+    "admin": "Flanders",
+    "sort": "25477"
+  },
+  {
+    "city": "Oupeye",
+    "admin": "Wallonia",
+    "sort": "25297"
+  },
+  {
+    "city": "Beersel",
+    "admin": "Flanders",
+    "sort": "25069"
+  },
+  {
+    "city": "Overijse",
+    "admin": "Flanders",
+    "sort": "25169"
+  },
+  {
+    "city": "Maaseik",
+    "admin": "Flanders",
+    "sort": "25201"
+  },
+  {
+    "city": "Hamme",
+    "admin": "Flanders",
+    "sort": "24829"
+  },
+  {
+    "city": "Westerlo",
+    "admin": "Flanders",
+    "sort": "24884"
+  },
+  {
+    "city": "Merelbeke",
+    "admin": "Flanders",
+    "sort": "24634"
+  },
+  {
+    "city": "Zwevegem",
+    "admin": "Flanders",
+    "sort": "24619"
+  },
+  {
+    "city": "Manage",
+    "admin": "Wallonia",
+    "sort": "23122"
+  },
+  {
+    "city": "Diest",
+    "admin": "Flanders",
+    "sort": "23824"
+  },
+  {
+    "city": "Maldegem",
+    "admin": "Flanders",
+    "sort": "23689"
+  },
+  {
+    "city": "Oostkamp",
+    "admin": "Flanders",
+    "sort": "23580"
+  },
+  {
+    "city": "Zemst",
+    "admin": "Flanders",
+    "sort": "23325"
+  },
+  {
+    "city": "Saint-Ghislain",
+    "admin": "Wallonia",
+    "sort": "23335"
+  },
+  {
+    "city": "Scherpenheuvel",
+    "admin": "Flanders",
+    "sort": "22952"
+  },
+  {
+    "city": "Nijlen",
+    "admin": "Flanders",
+    "sort": "22813"
+  },
+  {
+    "city": "Fleurus",
+    "admin": "Wallonia",
+    "sort": "22738"
+  },
+  {
+    "city": "Zedelgem",
+    "admin": "Flanders",
+    "sort": "22635"
+  },
+  {
+    "city": "Tervuren",
+    "admin": "Flanders",
+    "sort": "22248"
+  },
+  {
+    "city": "Rixensart",
+    "admin": "Wallonia",
+    "sort": "22401"
+  },
+  {
+    "city": "Balen",
+    "admin": "Flanders",
+    "sort": "22426"
+  },
+  {
+    "city": "Frameries",
+    "admin": "Wallonia",
+    "sort": "21878"
+  },
+  {
+    "city": "Lochristi",
+    "admin": "Flanders",
+    "sort": "22300"
+  },
+  {
+    "city": "Koksijde",
+    "admin": "Flanders",
+    "sort": "21957"
+  },
+  {
+    "city": "Zoersel",
+    "admin": "Flanders",
+    "sort": "21739"
+  },
+  {
+    "city": "Herent",
+    "admin": "Flanders",
+    "sort": "21632"
+  },
+  {
+    "city": "Colfontaine",
+    "admin": "Wallonia",
+    "sort": "20762"
+  },
+  {
+    "city": "Kontich",
+    "admin": "Flanders",
+    "sort": "21074"
+  },
+  {
+    "city": "Braine-le-Comte",
+    "admin": "Wallonia",
+    "sort": "21649"
+  },
+  {
+    "city": "Chaudfontaine",
+    "admin": "Wallonia",
+    "sort": "20935"
+  },
+  {
+    "city": "Zonhoven",
+    "admin": "Flanders",
+    "sort": "21214"
+  },
+  {
+    "city": "Huy",
+    "admin": "Wallonia",
+    "sort": "21293"
+  },
+  {
+    "city": "Bornem",
+    "admin": "Flanders",
+    "sort": "21186"
+  },
+  {
+    "city": "Hoogstraten",
+    "admin": "Flanders",
+    "sort": "21424"
+  },
+  {
+    "city": "Zele",
+    "admin": "Flanders",
+    "sort": "20976"
+  },
+  {
+    "city": "Eeklo",
+    "admin": "Flanders",
+    "sort": "20890"
+  },
+  {
+    "city": "Denderleeuw",
+    "admin": "Flanders",
+    "sort": "20086"
+  },
+  {
+    "city": "Blankenberge",
+    "admin": "Flanders",
+    "sort": "20349"
+  },
+  {
+    "city": "Sint-Katelijne-Waver",
+    "admin": "Flanders",
+    "sort": "20870"
+  },
+  {
+    "city": "Torhout",
+    "admin": "Flanders",
+    "sort": "20530"
+  },
+  {
+    "city": "Wuustwezel",
+    "admin": "Flanders",
+    "sort": "20671"
+  },
+  {
+    "city": "Boussu",
+    "admin": "Wallonia",
+    "sort": "19856"
+  },
+  {
+    "city": "Kortenberg",
+    "admin": "Flanders",
+    "sort": "20214"
+  },
+  {
+    "city": "Quaregnon",
+    "admin": "Wallonia",
+    "sort": "19006"
+  },
+  {
+    "city": "Tielt",
+    "admin": "Flanders",
+    "sort": "20422"
+  },
+  {
+    "city": "Schilde",
+    "admin": "Flanders",
+    "sort": "19585"
+  },
+  {
+    "city": "Zwijndrecht",
+    "admin": "Flanders",
+    "sort": "19002"
+  },
+  {
+    "city": "Morlanwelz-Mariemont",
+    "admin": "Wallonia",
+    "sort": "19019"
+  },
+  {
+    "city": "Lebbeke",
+    "admin": "Flanders",
+    "sort": "19195"
+  },
+  {
+    "city": "Poperinge",
+    "admin": "Flanders",
+    "sort": "19718"
+  },
+  {
+    "city": "Meise",
+    "admin": "Flanders",
+    "sort": "19164"
+  },
+  {
+    "city": "Eupen",
+    "admin": "Wallonia",
+    "sort": "19526"
+  },
+  {
+    "city": "Middelkerke",
+    "admin": "Flanders",
+    "sort": "19371"
+  },
+  {
+    "city": "Sint-Gillis-Waas",
+    "admin": "Flanders",
+    "sort": "19273"
+  },
+  {
+    "city": "Diepenbeek",
+    "admin": "Flanders",
+    "sort": "19137"
+  },
+  {
+    "city": "Essen",
+    "admin": "Flanders",
+    "sort": "19079"
+  },
+  {
+    "city": "Stabroek",
+    "admin": "Flanders",
+    "sort": "18529"
+  },
+  {
+    "city": "Lede",
+    "admin": "Flanders",
+    "sort": "18628"
+  },
+  {
+    "city": "Bredene",
+    "admin": "Flanders",
+    "sort": "17828"
+  },
+  {
+    "city": "Kasterlee",
+    "admin": "Flanders",
+    "sort": "18882"
+  },
+  {
+    "city": "Londerzeel",
+    "admin": "Flanders",
+    "sort": "18620"
+  },
+  {
+    "city": "Sint-Genesius-Rode",
+    "admin": "Flanders",
+    "sort": "18296"
+  },
+  {
+    "city": "Wervik",
+    "admin": "Flanders",
+    "sort": "18643"
+  },
+  {
+    "city": "Haaltert",
+    "admin": "Flanders",
+    "sort": "18443"
+  },
+  {
+    "city": "Ranst",
+    "admin": "Flanders",
+    "sort": "18607"
+  },
+  {
+    "city": "Kalmthout",
+    "admin": "Flanders",
+    "sort": "18608"
+  },
+  {
+    "city": "Tessenderlo",
+    "admin": "Flanders",
+    "sort": "18514"
+  },
+  {
+    "city": "Lessines",
+    "admin": "Wallonia",
+    "sort": "18552"
+  },
+  {
+    "city": "Stekene",
+    "admin": "Flanders",
+    "sort": "18352"
+  },
+  {
+    "city": "Destelbergen",
+    "admin": "Flanders",
+    "sort": "18026"
+  },
+  {
+    "city": "Walcourt",
+    "admin": "Wallonia",
+    "sort": "18376"
+  },
+  {
+    "city": "Fontaine-l’Évêque",
+    "admin": "Wallonia",
+    "sort": "17801"
+  },
+  {
+    "city": "Beerse",
+    "admin": "Flanders",
+    "sort": "17931"
+  },
+  {
+    "city": "Visé",
+    "admin": "Wallonia",
+    "sort": "17767"
+  },
+  {
+    "city": "Wemmel",
+    "admin": "Flanders",
+    "sort": "16347"
+  },
+  {
+    "city": "Duffel",
+    "admin": "Flanders",
+    "sort": "17385"
+  },
+  {
+    "city": "Herzele",
+    "admin": "Flanders",
+    "sort": "17723"
+  },
+  {
+    "city": "Putte",
+    "admin": "Flanders",
+    "sort": "17584"
+  },
+  {
+    "city": "Puurs",
+    "admin": "Flanders",
+    "sort": "17452"
+  },
+  {
+    "city": "Herve",
+    "admin": "Wallonia",
+    "sort": "17598"
+  },
+  {
+    "city": "Fléron",
+    "admin": "Wallonia",
+    "sort": "16495"
+  },
+  {
+    "city": "Marche-en-Famenne",
+    "admin": "Wallonia",
+    "sort": "17455"
+  },
+  {
+    "city": "Pont-à-Celles",
+    "admin": "Wallonia",
+    "sort": "17287"
+  },
+  {
+    "city": "Neerpelt",
+    "admin": "Flanders",
+    "sort": "17174"
+  },
+  {
+    "city": "Soumagne",
+    "admin": "Wallonia",
+    "sort": "16888"
+  },
+  {
+    "city": "Péruwelz",
+    "admin": "Wallonia",
+    "sort": "17113"
+  },
+  {
+    "city": "Aubange",
+    "admin": "Wallonia",
+    "sort": "16927"
+  },
+  {
+    "city": "Dour",
+    "admin": "Wallonia",
+    "sort": "16716"
+  },
+  {
+    "city": "Kruibeke",
+    "admin": "Flanders",
+    "sort": "16657"
+  },
+  {
+    "city": "Rotselaar",
+    "admin": "Flanders",
+    "sort": "16678"
+  },
+  {
+    "city": "Sint-Kruis",
+    "admin": "Flanders",
+    "sort": "15892"
+  },
+  {
+    "city": "Riemst",
+    "admin": "Flanders",
+    "sort": "16665"
+  },
+  {
+    "city": "Diksmuide",
+    "admin": "Flanders",
+    "sort": "16739"
+  },
+  {
+    "city": "Lille",
+    "admin": "Flanders",
+    "sort": "16512"
+  },
+  {
+    "city": "Machelen",
+    "admin": "Flanders",
+    "sort": "15417"
+  },
+  {
+    "city": "Merchtem",
+    "admin": "Flanders",
+    "sort": "16294"
+  },
+  {
+    "city": "Hannut",
+    "admin": "Wallonia",
+    "sort": "16435"
+  },
+  {
+    "city": "Peer",
+    "admin": "Flanders",
+    "sort": "16421"
+  },
+  {
+    "city": "Ciney",
+    "admin": "Wallonia",
+    "sort": "16439"
+  },
+  {
+    "city": "Dison",
+    "admin": "Wallonia",
+    "sort": "15405"
+  },
+  {
+    "city": "Éghezée",
+    "admin": "Wallonia",
+    "sort": "16247"
+  },
+  {
+    "city": "Leopoldsburg",
+    "admin": "Flanders",
+    "sort": "15625"
+  },
+  {
+    "city": "Landen",
+    "admin": "Flanders",
+    "sort": "15961"
+  },
+  {
+    "city": "Bree",
+    "admin": "Flanders",
+    "sort": "16005"
+  },
+  {
+    "city": "Zulte",
+    "admin": "Flanders",
+    "sort": "15720"
+  },
+  {
+    "city": "Ternat",
+    "admin": "Flanders",
+    "sort": "15481"
+  },
+  {
+    "city": "Bastogne",
+    "admin": "Wallonia",
+    "sort": "15894"
+  },
+  {
+    "city": "Beernem",
+    "admin": "Flanders",
+    "sort": "15687"
+  },
+  {
+    "city": "Rumst",
+    "admin": "Flanders",
+    "sort": "15114"
+  },
+  {
+    "city": "Overpelt",
+    "admin": "Flanders",
+    "sort": "15478"
+  },
+  {
+    "city": "Chapelle-lez-Herlaimont",
+    "admin": "Wallonia",
+    "sort": "14900"
+  },
+  {
+    "city": "Waremme",
+    "admin": "Wallonia",
+    "sort": "15168"
+  },
+  {
+    "city": "Aartselaar",
+    "admin": "Flanders",
+    "sort": "14304"
+  },
+  {
+    "city": "Tremelo",
+    "admin": "Flanders",
+    "sort": "14842"
+  },
+  {
+    "city": "Genappe",
+    "admin": "Wallonia",
+    "sort": "15353"
+  },
+  {
+    "city": "Bonheiden",
+    "admin": "Flanders",
+    "sort": "14951"
+  },
+  {
+    "city": "Berlare",
+    "admin": "Flanders",
+    "sort": "14849"
+  },
+  {
+    "city": "Opwijk",
+    "admin": "Flanders",
+    "sort": "14378"
+  },
+  {
+    "city": "Buggenhout",
+    "admin": "Flanders",
+    "sort": "14475"
+  },
+  {
+    "city": "Lummen",
+    "admin": "Flanders",
+    "sort": "14762"
+  },
+  {
+    "city": "Ravels",
+    "admin": "Flanders",
+    "sort": "14871"
+  },
+  {
+    "city": "Anzegem",
+    "admin": "Flanders",
+    "sort": "14609"
+  },
+  {
+    "city": "Thuin",
+    "admin": "Wallonia",
+    "sort": "14671"
+  },
+  {
+    "city": "Sprimont",
+    "admin": "Wallonia",
+    "sort": "14645"
+  },
+  {
+    "city": "Amay",
+    "admin": "Wallonia",
+    "sort": "14305"
+  },
+  {
+    "city": "Herselt",
+    "admin": "Flanders",
+    "sort": "14521"
+  },
+  {
+    "city": "Haacht",
+    "admin": "Flanders",
+    "sort": "14470"
+  },
+  {
+    "city": "Lubbeek",
+    "admin": "Flanders",
+    "sort": "14393"
+  },
+  {
+    "city": "Kuurne",
+    "admin": "Flanders",
+    "sort": "13318"
+  },
+  {
+    "city": "Liedekerke",
+    "admin": "Flanders",
+    "sort": "13188"
+  },
+  {
+    "city": "Wingene",
+    "admin": "Flanders",
+    "sort": "14243"
+  },
+  {
+    "city": "Assenede",
+    "admin": "Flanders",
+    "sort": "14200"
+  },
+  {
+    "city": "Jodoigne",
+    "admin": "Wallonia",
+    "sort": "14079"
+  },
+  {
+    "city": "Beloeil",
+    "admin": "Wallonia",
+    "sort": "14032"
+  },
+  {
+    "city": "Ichtegem",
+    "admin": "Flanders",
+    "sort": "13939"
+  },
+  {
+    "city": "Jabbeke",
+    "admin": "Flanders",
+    "sort": "13880"
+  },
+  {
+    "city": "Enghien",
+    "admin": "Wallonia",
+    "sort": "13734"
+  },
+  {
+    "city": "Wanze",
+    "admin": "Wallonia",
+    "sort": "13576"
+  },
+  {
+    "city": "Wommelgem",
+    "admin": "Flanders",
+    "sort": "12893"
+  },
+  {
+    "city": "Oud-Turnhout",
+    "admin": "Flanders",
+    "sort": "13517"
+  },
+  {
+    "city": "Oosterzele",
+    "admin": "Flanders",
+    "sort": "13546"
+  },
+  {
+    "city": "Couvin",
+    "admin": "Wallonia",
+    "sort": "13782"
+  },
+  {
+    "city": "Boechout",
+    "admin": "Flanders",
+    "sort": "13120"
+  },
+  {
+    "city": "Blegny",
+    "admin": "Wallonia",
+    "sort": "13212"
+  },
+  {
+    "city": "Dinant",
+    "admin": "Wallonia",
+    "sort": "13544"
+  },
+  {
+    "city": "Beyne-Heusay",
+    "admin": "Wallonia",
+    "sort": "12019"
+  },
+  {
+    "city": "Zelzate",
+    "admin": "Flanders",
+    "sort": "12699"
+  },
+  {
+    "city": "Grez-Doiceau",
+    "admin": "Wallonia",
+    "sort": "13368"
+  },
+  {
+    "city": "Arendonk",
+    "admin": "Flanders",
+    "sort": "13281"
+  },
+  {
+    "city": "Keerbergen",
+    "admin": "Flanders",
+    "sort": "12743"
+  },
+  {
+    "city": "Zandhoven",
+    "admin": "Flanders",
+    "sort": "12985"
+  },
+  {
+    "city": "Bocholt",
+    "admin": "Flanders",
+    "sort": "13085"
+  },
+  {
+    "city": "Esneux",
+    "admin": "Wallonia",
+    "sort": "12889"
+  },
+  {
+    "city": "Gavere",
+    "admin": "Flanders",
+    "sort": "12769"
+  },
+  {
+    "city": "Mettet",
+    "admin": "Wallonia",
+    "sort": "13037"
+  },
+  {
+    "city": "Boortmeerbeek",
+    "admin": "Flanders",
+    "sort": "12379"
+  },
+  {
+    "city": "Anderlues",
+    "admin": "Wallonia",
+    "sort": "12254"
+  },
+  {
+    "city": "Herk-de-Stad",
+    "admin": "Flanders",
+    "sort": "12661"
+  },
+  {
+    "city": "De Haan",
+    "admin": "Flanders",
+    "sort": "12635"
+  },
+  {
+    "city": "Gerpinnes",
+    "admin": "Wallonia",
+    "sort": "12660"
+  },
+  {
+    "city": "Olen",
+    "admin": "Flanders",
+    "sort": "12381"
+  },
+  {
+    "city": "Laarne",
+    "admin": "Flanders",
+    "sort": "12487"
+  },
+  {
+    "city": "Kortemark",
+    "admin": "Flanders",
+    "sort": "12584"
+  },
+  {
+    "city": "Malmédy",
+    "admin": "Wallonia",
+    "sort": "12654"
+  },
+  {
+    "city": "Rochefort",
+    "admin": "Wallonia",
+    "sort": "12554"
+  },
+  {
+    "city": "Zonnebeke",
+    "admin": "Flanders",
+    "sort": "12445"
+  },
+  {
+    "city": "Steenokkerzeel",
+    "admin": "Flanders",
+    "sort": "12090"
+  },
+  {
+    "city": "Aywaille",
+    "admin": "Wallonia",
+    "sort": "12405"
+  },
+  {
+    "city": "Deerlijk",
+    "admin": "Flanders",
+    "sort": "11796"
+  },
+  {
+    "city": "Kinrooi",
+    "admin": "Flanders",
+    "sort": "12233"
+  },
+  {
+    "city": "Profondeville",
+    "admin": "Wallonia",
+    "sort": "12204"
+  },
+  {
+    "city": "Nevele",
+    "admin": "Flanders",
+    "sort": "12179"
+  },
+  {
+    "city": "Niel",
+    "admin": "Flanders",
+    "sort": "10424"
+  },
+  {
+    "city": "Gistel",
+    "admin": "Flanders",
+    "sort": "12063"
+  },
+  {
+    "city": "Melle",
+    "admin": "Flanders",
+    "sort": "11574"
+  },
+  {
+    "city": "Farciennes",
+    "admin": "Wallonia",
+    "sort": "11247"
+  },
+  {
+    "city": "Kampenhout",
+    "admin": "Flanders",
+    "sort": "11898"
+  },
+  {
+    "city": "Rijkevorsel",
+    "admin": "Flanders",
+    "sort": "11932"
+  },
+  {
+    "city": "Theux",
+    "admin": "Wallonia",
+    "sort": "12025"
+  },
+  {
+    "city": "Bernissart",
+    "admin": "Wallonia",
+    "sort": "11868"
+  },
+  {
+    "city": "Vosselaar",
+    "admin": "Flanders",
+    "sort": "11159"
+  },
+  {
+    "city": "Wichelen",
+    "admin": "Flanders",
+    "sort": "11578"
+  },
+  {
+    "city": "Alken",
+    "admin": "Flanders",
+    "sort": "11626"
+  },
+  {
+    "city": "Berlaar",
+    "admin": "Flanders",
+    "sort": "11507"
+  },
+  {
+    "city": "Chaumont-Gistoux",
+    "admin": "Wallonia",
+    "sort": "11731"
+  },
+  {
+    "city": "Nieuwpoort",
+    "admin": "Flanders",
+    "sort": "11565"
+  },
+  {
+    "city": "Veurne",
+    "admin": "Flanders",
+    "sort": "11790"
+  },
+  {
+    "city": "Hoeilaart",
+    "admin": "Flanders",
+    "sort": "11172"
+  },
+  {
+    "city": "La Calamine",
+    "admin": "Wallonia",
+    "sort": "11061"
+  },
+  {
+    "city": "Staden",
+    "admin": "Flanders",
+    "sort": "11376"
+  },
+  {
+    "city": "Ingelmunster",
+    "admin": "Flanders",
+    "sort": "10928"
+  },
+  {
+    "city": "De Panne",
+    "admin": "Flanders",
+    "sort": "11129"
+  },
+  {
+    "city": "Grobbendonk",
+    "admin": "Flanders",
+    "sort": "11123"
+  },
+  {
+    "city": "Florennes",
+    "admin": "Wallonia",
+    "sort": "11410"
+  },
+  {
+    "city": "Retie",
+    "admin": "Flanders",
+    "sort": "11240"
+  },
+  {
+    "city": "Oud-Heverlee",
+    "admin": "Flanders",
+    "sort": "11099"
+  },
+  {
+    "city": "Écaussinnes-Lalaing",
+    "admin": "Wallonia",
+    "sort": "11135"
+  },
+  {
+    "city": "Seneffe",
+    "admin": "Wallonia",
+    "sort": "11272"
+  },
+  {
+    "city": "Durbuy",
+    "admin": "Wallonia",
+    "sort": "11374"
+  },
+  {
+    "city": "Virton",
+    "admin": "Wallonia",
+    "sort": "11323"
+  },
+  {
+    "city": "Moorslede",
+    "admin": "Flanders",
+    "sort": "11080"
+  },
+  {
+    "city": "Meulebeke",
+    "admin": "Flanders",
+    "sort": "10906"
+  },
+  {
+    "city": "Damme",
+    "admin": "Flanders",
+    "sort": "11008"
+  },
+  {
+    "city": "De Pinte",
+    "admin": "Flanders",
+    "sort": "10532"
+  },
+  {
+    "city": "Waasmunster",
+    "admin": "Flanders",
+    "sort": "10768"
+  },
+  {
+    "city": "Hulshout",
+    "admin": "Flanders",
+    "sort": "10382"
+  },
+  {
+    "city": "Wijnegem",
+    "admin": "Flanders",
+    "sort": "9711"
+  },
+  {
+    "city": "Villers-la-Ville",
+    "admin": "Wallonia",
+    "sort": "10713"
+  },
+  {
+    "city": "Braine-le-Château",
+    "admin": "Wallonia",
+    "sort": "10447"
+  },
+  {
+    "city": "Borgloon",
+    "admin": "Flanders",
+    "sort": "10697"
+  },
+  {
+    "city": "Court-Saint-Étienne",
+    "admin": "Wallonia",
+    "sort": "10500"
+  },
+  {
+    "city": "Raeren",
+    "admin": "Wallonia",
+    "sort": "10707"
+  },
+  {
+    "city": "Montignies-le-Tilleul",
+    "admin": "Wallonia",
+    "sort": "10136"
+  },
+  {
+    "city": "Estaimpuis",
+    "admin": "Wallonia",
+    "sort": "10424"
+  },
+  {
+    "city": "Opglabbeek",
+    "admin": "Flanders",
+    "sort": "10332"
+  },
+  {
+    "city": "Sint-Lievens-Houtem",
+    "admin": "Flanders",
+    "sort": "10255"
+  },
+  {
+    "city": "Spa",
+    "admin": "Wallonia",
+    "sort": "10378"
+  },
+  {
+    "city": "Begijnendijk",
+    "admin": "Flanders",
+    "sort": "10053"
+  },
+  {
+    "city": "Meerhout",
+    "admin": "Flanders",
+    "sort": "10324"
+  },
+  {
+    "city": "Jurbise",
+    "admin": "Wallonia",
+    "sort": "10417"
+  },
+  {
+    "city": "Plombières",
+    "admin": "Wallonia",
+    "sort": "10401"
+  },
+  {
+    "city": "Avelgem",
+    "admin": "Flanders",
+    "sort": "10065"
+  },
+  {
+    "city": "Welkenraedt",
+    "admin": "Wallonia",
+    "sort": "9920"
+  },
+  {
+    "city": "Bertem",
+    "admin": "Flanders",
+    "sort": "9958"
+  },
+  {
+    "city": "Bierbeek",
+    "admin": "Flanders",
+    "sort": "10025"
+  },
+  {
+    "city": "Hooglede",
+    "admin": "Flanders",
+    "sort": "9950"
+  },
+  {
+    "city": "Houthulst",
+    "admin": "Flanders",
+    "sort": "10032"
+  },
+  {
+    "city": "Lint",
+    "admin": "Flanders",
+    "sort": "8641"
+  },
+  {
+    "city": "Erquelinnes",
+    "admin": "Wallonia",
+    "sort": "9940"
+  },
+  {
+    "city": "Holsbeek",
+    "admin": "Flanders",
+    "sort": "9905"
+  },
+  {
+    "city": "Pepinster",
+    "admin": "Wallonia",
+    "sort": "9765"
+  },
+  {
+    "city": "Huldenberg",
+    "admin": "Flanders",
+    "sort": "9892"
+  },
+  {
+    "city": "Ledegem",
+    "admin": "Flanders",
+    "sort": "9716"
+  },
+  {
+    "city": "Lovendegem",
+    "admin": "Flanders",
+    "sort": "9574"
+  },
+  {
+    "city": "Wielsbeke",
+    "admin": "Flanders",
+    "sort": "9584"
+  },
+  {
+    "city": "Kapelle-op-den-Bos",
+    "admin": "Flanders",
+    "sort": "9396"
+  },
+  {
+    "city": "Hoeselt",
+    "admin": "Flanders",
+    "sort": "9685"
+  },
+  {
+    "city": "Dessel",
+    "admin": "Flanders",
+    "sort": "9540"
+  },
+  {
+    "city": "Chimay",
+    "admin": "Wallonia",
+    "sort": "9841"
+  },
+  {
+    "city": "Saint-Vith",
+    "admin": "Wallonia",
+    "sort": "9682"
+  },
+  {
+    "city": "Halen",
+    "admin": "Flanders",
+    "sort": "9461"
+  },
+  {
+    "city": "Awans",
+    "admin": "Wallonia",
+    "sort": "9353"
+  },
+  {
+    "city": "Oudenburg",
+    "admin": "Flanders",
+    "sort": "9300"
+  },
+  {
+    "city": "Juprelle",
+    "admin": "Wallonia",
+    "sort": "9288"
+  },
+  {
+    "city": "Schelle",
+    "admin": "Flanders",
+    "sort": "8433"
+  },
+  {
+    "city": "Perwez",
+    "admin": "Wallonia",
+    "sort": "9291"
+  },
+  {
+    "city": "Gooik",
+    "admin": "Flanders",
+    "sort": "9236"
+  },
+  {
+    "city": "Hove",
+    "admin": "Flanders",
+    "sort": "8115"
+  },
+  {
+    "city": "La Bruyère",
+    "admin": "Wallonia",
+    "sort": "9226"
+  },
+  {
+    "city": "Herenthout",
+    "admin": "Flanders",
+    "sort": "8951"
+  },
+  {
+    "city": "Yvoir",
+    "admin": "Wallonia",
+    "sort": "9163"
+  },
+  {
+    "city": "Sint-Martens-Lennik",
+    "admin": "Flanders",
+    "sort": "9024"
+  },
+  {
+    "city": "Philippeville",
+    "admin": "Wallonia",
+    "sort": "9228"
+  },
+  {
+    "city": "Ardooie",
+    "admin": "Flanders",
+    "sort": "8988"
+  },
+  {
+    "city": "Bassenge",
+    "admin": "Wallonia",
+    "sort": "8986"
+  },
+  {
+    "city": "Beauraing",
+    "admin": "Wallonia",
+    "sort": "9160"
+  },
+  {
+    "city": "Lichtervelde",
+    "admin": "Flanders",
+    "sort": "8793"
+  },
+  {
+    "city": "Sint-Martens-Latem",
+    "admin": "Flanders",
+    "sort": "8468"
+  },
+  {
+    "city": "Sint-Amands",
+    "admin": "Flanders",
+    "sort": "8480"
+  },
+  {
+    "city": "Koekelare",
+    "admin": "Flanders",
+    "sort": "8784"
+  },
+  {
+    "city": "Galmaarden",
+    "admin": "Flanders",
+    "sort": "8725"
+  },
+  {
+    "city": "Bertrix",
+    "admin": "Wallonia",
+    "sort": "8763"
+  },
+  {
+    "city": "Dentergem",
+    "admin": "Flanders",
+    "sort": "8484"
+  },
+  {
+    "city": "Merksplas",
+    "admin": "Flanders",
+    "sort": "8588"
+  },
+  {
+    "city": "Kortessem",
+    "admin": "Flanders",
+    "sort": "8446"
+  },
+  {
+    "city": "Zomergem",
+    "admin": "Flanders",
+    "sort": "8466"
+  },
+  {
+    "city": "Zoutleeuw",
+    "admin": "Flanders",
+    "sort": "8498"
+  },
+  {
+    "city": "Jalhay",
+    "admin": "Wallonia",
+    "sort": "8590"
+  },
+  {
+    "city": "Sombreffe",
+    "admin": "Wallonia",
+    "sort": "8420"
+  },
+  {
+    "city": "As",
+    "admin": "Flanders",
+    "sort": "8190"
+  },
+  {
+    "city": "Gingelom",
+    "admin": "Flanders",
+    "sort": "8391"
+  },
+  {
+    "city": "Silly",
+    "admin": "Wallonia",
+    "sort": "8407"
+  },
+  {
+    "city": "Trooz",
+    "admin": "Wallonia",
+    "sort": "8172"
+  },
+  {
+    "city": "Habay-la-Vieille",
+    "admin": "Wallonia",
+    "sort": "8387"
+  },
+  {
+    "city": "Boutersem",
+    "admin": "Flanders",
+    "sort": "8167"
+  },
+  {
+    "city": "Messancy",
+    "admin": "Wallonia",
+    "sort": "8185"
+  },
+  {
+    "city": "Waarschoot",
+    "admin": "Flanders",
+    "sort": "7967"
+  },
+  {
+    "city": "Floreffe",
+    "admin": "Wallonia",
+    "sort": "8114"
+  },
+  {
+    "city": "Oostrozebeke",
+    "admin": "Flanders",
+    "sort": "7849"
+  },
+  {
+    "city": "Kruishoutem",
+    "admin": "Flanders",
+    "sort": "8086"
+  },
+  {
+    "city": "Vorselaar",
+    "admin": "Flanders",
+    "sort": "7848"
+  },
+  {
+    "city": "Kortenaken",
+    "admin": "Flanders",
+    "sort": "7875"
+  },
+  {
+    "city": "Antoing",
+    "admin": "Wallonia",
+    "sort": "7760"
+  },
+  {
+    "city": "Mont-Saint-Guibert",
+    "admin": "Wallonia",
+    "sort": "7562"
+  },
+  {
+    "city": "Wachtebeke",
+    "admin": "Flanders",
+    "sort": "7683"
+  },
+  {
+    "city": "Vielsalm",
+    "admin": "Wallonia",
+    "sort": "7821"
+  },
+  {
+    "city": "Zingem",
+    "admin": "Flanders",
+    "sort": "7552"
+  },
+  {
+    "city": "Chastre-Villeroux-Blanmont",
+    "admin": "Wallonia",
+    "sort": "7592"
+  },
+  {
+    "city": "Ruisbroek",
+    "admin": "Flanders",
+    "sort": "6043"
+  },
+  {
+    "city": "Neufchâteau",
+    "admin": "Wallonia",
+    "sort": "7679"
+  },
+  {
+    "city": "Wellen",
+    "admin": "Flanders",
+    "sort": "7402"
+  },
+  {
+    "city": "Dalhem",
+    "admin": "Wallonia",
+    "sort": "7331"
+  },
+  {
+    "city": "La Hulpe",
+    "admin": "Wallonia",
+    "sort": "7320"
+  },
+  {
+    "city": "Waimes",
+    "admin": "Wallonia",
+    "sort": "7429"
+  },
+  {
+    "city": "Zutendaal",
+    "admin": "Flanders",
+    "sort": "7234"
+  },
+  {
+    "city": "Hamois",
+    "admin": "Wallonia",
+    "sort": "7349"
+  },
+  {
+    "city": "Heers",
+    "admin": "Flanders",
+    "sort": "7290"
+  },
+  {
+    "city": "Beauvechain",
+    "admin": "Wallonia",
+    "sort": "7222"
+  },
+  {
+    "city": "Walhain-Saint-Paul",
+    "admin": "Wallonia",
+    "sort": "7167"
+  },
+  {
+    "city": "Gesves",
+    "admin": "Wallonia",
+    "sort": "7210"
+  },
+  {
+    "city": "Nieuwerkerken",
+    "admin": "Flanders",
+    "sort": "6960"
+  },
+  {
+    "city": "Stavelot",
+    "admin": "Wallonia",
+    "sort": "7145"
+  },
+  {
+    "city": "Anhée",
+    "admin": "Wallonia",
+    "sort": "7117"
+  },
+  {
+    "city": "Beaumont",
+    "admin": "Wallonia",
+    "sort": "7137"
+  },
+  {
+    "city": "Hoegaarden",
+    "admin": "Flanders",
+    "sort": "6942"
+  },
+  {
+    "city": "Saint-Georges",
+    "admin": "Wallonia",
+    "sort": "6784"
+  },
+  {
+    "city": "Hensies",
+    "admin": "Wallonia",
+    "sort": "6828"
+  },
+  {
+    "city": "Quiévrain",
+    "admin": "Wallonia",
+    "sort": "6759"
+  },
+  {
+    "city": "Ittre",
+    "admin": "Wallonia",
+    "sort": "6865"
+  },
+  {
+    "city": "Assesse",
+    "admin": "Wallonia",
+    "sort": "6964"
+  },
+  {
+    "city": "Chièvres",
+    "admin": "Wallonia",
+    "sort": "6899"
+  },
+  {
+    "city": "Pittem",
+    "admin": "Flanders",
+    "sort": "6752"
+  },
+  {
+    "city": "Herne",
+    "admin": "Flanders",
+    "sort": "6643"
+  },
+  {
+    "city": "Sint-Laureins",
+    "admin": "Flanders",
+    "sort": "6684"
+  },
+  {
+    "city": "Villers-le-Bouillet",
+    "admin": "Wallonia",
+    "sort": "6503"
+  },
+  {
+    "city": "Kaprijke",
+    "admin": "Flanders",
+    "sort": "6429"
+  },
+  {
+    "city": "Ramillies-Offus",
+    "admin": "Wallonia",
+    "sort": "6394"
+  },
+  {
+    "city": "Moerbeke",
+    "admin": "Flanders",
+    "sort": "6455"
+  },
+  {
+    "city": "Braives",
+    "admin": "Wallonia",
+    "sort": "6325"
+  },
+  {
+    "city": "Bekkevoort",
+    "admin": "Flanders",
+    "sort": "6274"
+  },
+  {
+    "city": "Engis",
+    "admin": "Wallonia",
+    "sort": "6122"
+  },
+  {
+    "city": "Geetbets",
+    "admin": "Flanders",
+    "sort": "6035"
+  },
+  {
+    "city": "Lendelede",
+    "admin": "Flanders",
+    "sort": "5747"
+  },
+  {
+    "city": "Remicourt",
+    "admin": "Wallonia",
+    "sort": "5904"
+  },
+  {
+    "city": "Ellezelles",
+    "admin": "Wallonia",
+    "sort": "6001"
+  },
+  {
+    "city": "Hastière-par-delà",
+    "admin": "Wallonia",
+    "sort": "5979"
+  },
+  {
+    "city": "Lobbes",
+    "admin": "Wallonia",
+    "sort": "5885"
+  },
+  {
+    "city": "Beveren",
+    "admin": "Flanders",
+    "sort": "5219"
+  },
+  {
+    "city": "Nandrin",
+    "admin": "Wallonia",
+    "sort": "5826"
+  },
+  {
+    "city": "Desselgem",
+    "admin": "Flanders",
+    "sort": "5230"
+  },
+  {
+    "city": "Étalle",
+    "admin": "Wallonia",
+    "sort": "5855"
+  },
+  {
+    "city": "Lontzen",
+    "admin": "Wallonia",
+    "sort": "5695"
+  },
+  {
+    "city": "Pecq",
+    "admin": "Wallonia",
+    "sort": "5598"
+  },
+  {
+    "city": "Celles",
+    "admin": "Wallonia",
+    "sort": "5665"
+  },
+  {
+    "city": "Florenville",
+    "admin": "Wallonia",
+    "sort": "5629"
+  },
+  {
+    "city": "Butgenbach",
+    "admin": "Wallonia",
+    "sort": "5605"
+  },
+  {
+    "city": "Somme-Leuze",
+    "admin": "Wallonia",
+    "sort": "5587"
+  },
+  {
+    "city": "Marchin",
+    "admin": "Wallonia",
+    "sort": "5460"
+  },
+  {
+    "city": "Hotton",
+    "admin": "Wallonia",
+    "sort": "5531"
+  },
+  {
+    "city": "Saint-Hubert",
+    "admin": "Wallonia",
+    "sort": "5571"
+  },
+  {
+    "city": "Comblain-au-Pont",
+    "admin": "Wallonia",
+    "sort": "5381"
+  },
+  {
+    "city": "Attert",
+    "admin": "Wallonia",
+    "sort": "5537"
+  },
+  {
+    "city": "Ruiselede",
+    "admin": "Flanders",
+    "sort": "5387"
+  },
+  {
+    "city": "Incourt",
+    "admin": "Wallonia",
+    "sort": "5388"
+  },
+  {
+    "city": "Amblève",
+    "admin": "Wallonia",
+    "sort": "5480"
+  },
+  {
+    "city": "Nassogne",
+    "admin": "Wallonia",
+    "sort": "5474"
+  },
+  {
+    "city": "Bullange",
+    "admin": "Wallonia",
+    "sort": "5473"
+  },
+  {
+    "city": "Glabbeek-Zuurbemde",
+    "admin": "Flanders",
+    "sort": "5298"
+  },
+  {
+    "city": "Paliseul",
+    "admin": "Wallonia",
+    "sort": "5393"
+  },
+  {
+    "city": "Héron",
+    "admin": "Wallonia",
+    "sort": "5277"
+  },
+  {
+    "city": "Rumes",
+    "admin": "Wallonia",
+    "sort": "5186"
+  },
+  {
+    "city": "Léglise",
+    "admin": "Wallonia",
+    "sort": "5366"
+  },
+  {
+    "city": "Bouillon",
+    "admin": "Wallonia",
+    "sort": "5353"
+  },
+  {
+    "city": "Momignies",
+    "admin": "Wallonia",
+    "sort": "5309"
+  },
+  {
+    "city": "Houffalize",
+    "admin": "Wallonia",
+    "sort": "5222"
+  },
+  {
+    "city": "Gouvy",
+    "admin": "Wallonia",
+    "sort": "5206"
+  },
+  {
+    "city": "Chiny",
+    "admin": "Wallonia",
+    "sort": "5175"
+  },
+  {
+    "city": "Libin",
+    "admin": "Wallonia",
+    "sort": "5164"
+  },
+  {
+    "city": "Ohey",
+    "admin": "Wallonia",
+    "sort": "5090"
+  },
+  {
+    "city": "Havelange",
+    "admin": "Wallonia",
+    "sort": "5130"
+  },
+  {
+    "city": "Alveringem",
+    "admin": "Flanders",
+    "sort": "5089"
+  }
+]

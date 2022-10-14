@@ -1,0 +1,237 @@
+[
+  {
+    "city": "Addis Ababa",
+    "admin": "Ādīs Ābeba",
+    "sort": "3041002"
+  },
+  {
+    "city": "Nazrēt",
+    "admin": "Oromīya",
+    "sort": "324000"
+  },
+  {
+    "city": "Gonder",
+    "admin": "Āmara",
+    "sort": "323900"
+  },
+  {
+    "city": "Mekele",
+    "admin": "Tigray",
+    "sort": "323700"
+  },
+  {
+    "city": "Āwasa",
+    "admin": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "sort": "300100"
+  },
+  {
+    "city": "Dire Dawa",
+    "admin": "Dirē Dawa",
+    "sort": "277000"
+  },
+  {
+    "city": "Bahir Dar",
+    "admin": "Āmara",
+    "sort": "243300"
+  },
+  {
+    "city": "Desē",
+    "admin": "Āmara",
+    "sort": "187900"
+  },
+  {
+    "city": "Jīma",
+    "admin": "Oromīya",
+    "sort": "177900"
+  },
+  {
+    "city": "Harar",
+    "admin": "Hārerī Hizb",
+    "sort": "174994"
+  },
+  {
+    "city": "Jijiga",
+    "admin": "Sumalē",
+    "sort": "159300"
+  },
+  {
+    "city": "Shashemenē",
+    "admin": "Oromīya",
+    "sort": "114350"
+  },
+  {
+    "city": "Giyon",
+    "admin": "Oromīya",
+    "sort": "114534"
+  },
+  {
+    "city": "Āsela",
+    "admin": "Oromīya",
+    "sort": "110088"
+  },
+  {
+    "city": "Ādīgrat",
+    "admin": "Tigray",
+    "sort": "104021"
+  },
+  {
+    "city": "Nek’emtē",
+    "admin": "Oromīya",
+    "sort": "73018"
+  },
+  {
+    "city": "Debre Mark’os",
+    "admin": "Āmara",
+    "sort": "70758"
+  },
+  {
+    "city": "Ārba Minch’",
+    "admin": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "sort": "69622"
+  },
+  {
+    "city": "Āksum",
+    "admin": "Tigray",
+    "sort": "66800"
+  },
+  {
+    "city": "Debre Birhan",
+    "admin": "Āmara",
+    "sort": "65231"
+  },
+  {
+    "city": "Hāgere Hiywet",
+    "admin": "Oromīya",
+    "sort": "43920"
+  },
+  {
+    "city": "Goba",
+    "admin": "Oromīya",
+    "sort": "34369"
+  },
+  {
+    "city": "Gīmbī",
+    "admin": "Oromīya",
+    "sort": "31809"
+  },
+  {
+    "city": "Āsosa",
+    "admin": "Bīnshangul Gumuz",
+    "sort": "30512"
+  },
+  {
+    "city": "Negēlē",
+    "admin": "Oromīya",
+    "sort": "11772"
+  },
+  {
+    "city": "Gambēla",
+    "admin": "Gambēla Hizboch",
+    "sort": ""
+  },
+  {
+    "city": "Semera",
+    "admin": "Āfar",
+    "sort": ""
+  },
+  {
+    "city": "Debre Zeyit",
+    "admin": "Oromīya",
+    "sort": "99928"
+  },
+  {
+    "city": "Hosaina",
+    "admin": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "sort": "89300"
+  },
+  {
+    "city": "Godē",
+    "admin": "Sumalē",
+    "sort": "75000"
+  },
+  {
+    "city": "Sodo",
+    "admin": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "sort": "65737"
+  },
+  {
+    "city": "Dīla",
+    "admin": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "sort": "47021"
+  },
+  {
+    "city": "Yirga ‘Alem",
+    "admin": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "sort": "36292"
+  },
+  {
+    "city": "Āreka",
+    "admin": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "sort": "31408"
+  },
+  {
+    "city": "Degeh Bur",
+    "admin": "Sumalē",
+    "sort": "30027"
+  },
+  {
+    "city": "Dembī Dolo",
+    "admin": "Oromīya",
+    "sort": "27780"
+  },
+  {
+    "city": "Burē",
+    "admin": "Āmara",
+    "sort": "25084"
+  },
+  {
+    "city": "Ādēt",
+    "admin": "Āmara",
+    "sort": "21117"
+  },
+  {
+    "city": "Welench’ītī",
+    "admin": "Oromīya",
+    "sort": "20984"
+  },
+  {
+    "city": "Debark’",
+    "admin": "Āmara",
+    "sort": "20839"
+  },
+  {
+    "city": "Batī",
+    "admin": "Āmara",
+    "sort": "20536"
+  },
+  {
+    "city": "Bichena",
+    "admin": "Āmara",
+    "sort": "19916"
+  },
+  {
+    "city": "Lalībela",
+    "admin": "Āmara",
+    "sort": "14668"
+  },
+  {
+    "city": "Dolo Bay",
+    "admin": "Sumalē",
+    "sort": "11810"
+  },
+  {
+    "city": "Gorē",
+    "admin": "Oromīya",
+    "sort": "9352"
+  },
+  {
+    "city": "Gewanē",
+    "admin": "Āfar",
+    "sort": "8408"
+  },
+  {
+    "city": "Gīdolē",
+    "admin": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "sort": "8167"
+  }
+]

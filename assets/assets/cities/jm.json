@@ -1,0 +1,92 @@
+[
+  {
+    "city": "Kingston",
+    "admin": "Kingston",
+    "sort": "580000"
+  },
+  {
+    "city": "Portmore",
+    "admin": "Saint Catherine",
+    "sort": "170000"
+  },
+  {
+    "city": "May Pen",
+    "admin": "Clarendon",
+    "sort": "135142"
+  },
+  {
+    "city": "Spanish Town",
+    "admin": "Saint Catherine",
+    "sort": "131056"
+  },
+  {
+    "city": "Montego Bay",
+    "admin": "Saint James",
+    "sort": "110115"
+  },
+  {
+    "city": "Half Way Tree",
+    "admin": "Saint Andrew",
+    "sort": "96494"
+  },
+  {
+    "city": "Mandeville",
+    "admin": "Manchester",
+    "sort": "48317"
+  },
+  {
+    "city": "Savanna-la-Mar",
+    "admin": "Westmoreland",
+    "sort": "22600"
+  },
+  {
+    "city": "Port Antonio",
+    "admin": "Portland",
+    "sort": "14400"
+  },
+  {
+    "city": "Saint Ann’s Bay",
+    "admin": "Saint Ann",
+    "sort": "13671"
+  },
+  {
+    "city": "Port Maria",
+    "admin": "Saint Mary",
+    "sort": "7906"
+  },
+  {
+    "city": "Falmouth",
+    "admin": "Trelawny",
+    "sort": "7779"
+  },
+  {
+    "city": "Lucea",
+    "admin": "Hanover",
+    "sort": "6002"
+  },
+  {
+    "city": "Black River",
+    "admin": "Saint Elizabeth",
+    "sort": "4261"
+  },
+  {
+    "city": "Morant Bay",
+    "admin": "Saint Thomas",
+    "sort": ""
+  },
+  {
+    "city": "Old Harbour",
+    "admin": "Saint Catherine",
+    "sort": "28665"
+  },
+  {
+    "city": "Linstead",
+    "admin": "Saint Catherine",
+    "sort": "22757"
+  },
+  {
+    "city": "Port Morant",
+    "admin": "Saint Thomas",
+    "sort": "11536"
+  }
+]

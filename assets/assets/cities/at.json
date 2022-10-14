@@ -1,0 +1,1187 @@
+[
+  {
+    "city": "Vienna",
+    "admin": "Wien",
+    "sort": "1911191"
+  },
+  {
+    "city": "Graz",
+    "admin": "Steiermark",
+    "sort": "289440"
+  },
+  {
+    "city": "Linz",
+    "admin": "Oberösterreich",
+    "sort": "204846"
+  },
+  {
+    "city": "Salzburg",
+    "admin": "Salzburg",
+    "sort": "155021"
+  },
+  {
+    "city": "Innsbruck",
+    "admin": "Tirol",
+    "sort": "132493"
+  },
+  {
+    "city": "Klagenfurt",
+    "admin": "Kärnten",
+    "sort": "101403"
+  },
+  {
+    "city": "Sankt Pölten",
+    "admin": "Niederösterreich",
+    "sort": "55514"
+  },
+  {
+    "city": "Bregenz",
+    "admin": "Vorarlberg",
+    "sort": "29806"
+  },
+  {
+    "city": "Mödling",
+    "admin": "Niederösterreich",
+    "sort": "20555"
+  },
+  {
+    "city": "Hall in Tirol",
+    "admin": "Tirol",
+    "sort": "13897"
+  },
+  {
+    "city": "Eisenstadt",
+    "admin": "Burgenland",
+    "sort": "14476"
+  },
+  {
+    "city": "Wels",
+    "admin": "Oberösterreich",
+    "sort": "61233"
+  },
+  {
+    "city": "Villach",
+    "admin": "Kärnten",
+    "sort": "61879"
+  },
+  {
+    "city": "Dornbirn",
+    "admin": "Vorarlberg",
+    "sort": "48067"
+  },
+  {
+    "city": "Wiener Neustadt",
+    "admin": "Niederösterreich",
+    "sort": "44461"
+  },
+  {
+    "city": "Steyr",
+    "admin": "Oberösterreich",
+    "sort": "38331"
+  },
+  {
+    "city": "Leonding",
+    "admin": "Oberösterreich",
+    "sort": "28698"
+  },
+  {
+    "city": "Klosterneuburg",
+    "admin": "Niederösterreich",
+    "sort": "27058"
+  },
+  {
+    "city": "Traun",
+    "admin": "Oberösterreich",
+    "sort": "24477"
+  },
+  {
+    "city": "Wolfsberg",
+    "admin": "Kärnten",
+    "sort": "25035"
+  },
+  {
+    "city": "Krems an der Donau",
+    "admin": "Niederösterreich",
+    "sort": "24610"
+  },
+  {
+    "city": "Leoben",
+    "admin": "Steiermark",
+    "sort": "24645"
+  },
+  {
+    "city": "Amstetten",
+    "admin": "Niederösterreich",
+    "sort": "23656"
+  },
+  {
+    "city": "Lustenau",
+    "admin": "Vorarlberg",
+    "sort": "22821"
+  },
+  {
+    "city": "Kapfenberg",
+    "admin": "Steiermark",
+    "sort": "22798"
+  },
+  {
+    "city": "Hallein",
+    "admin": "Salzburg",
+    "sort": "21150"
+  },
+  {
+    "city": "Kufstein",
+    "admin": "Tirol",
+    "sort": "19223"
+  },
+  {
+    "city": "Traiskirchen",
+    "admin": "Niederösterreich",
+    "sort": "18858"
+  },
+  {
+    "city": "Schwechat",
+    "admin": "Niederösterreich",
+    "sort": "18026"
+  },
+  {
+    "city": "Stockerau",
+    "admin": "Niederösterreich",
+    "sort": "16916"
+  },
+  {
+    "city": "Braunau am Inn",
+    "admin": "Oberösterreich",
+    "sort": "17095"
+  },
+  {
+    "city": "Hohenems",
+    "admin": "Vorarlberg",
+    "sort": "16317"
+  },
+  {
+    "city": "Saalfelden am Steinernen Meer",
+    "admin": "Salzburg",
+    "sort": "16700"
+  },
+  {
+    "city": "Ansfelden",
+    "admin": "Oberösterreich",
+    "sort": "16194"
+  },
+  {
+    "city": "Bruck an der Mur",
+    "admin": "Steiermark",
+    "sort": "15837"
+  },
+  {
+    "city": "Perchtoldsdorf",
+    "admin": "Niederösterreich",
+    "sort": "15047"
+  },
+  {
+    "city": "Telfs",
+    "admin": "Tirol",
+    "sort": "15747"
+  },
+  {
+    "city": "Spittal an der Drau",
+    "admin": "Kärnten",
+    "sort": "15413"
+  },
+  {
+    "city": "Bludenz",
+    "admin": "Vorarlberg",
+    "sort": "14539"
+  },
+  {
+    "city": "Ternitz",
+    "admin": "Niederösterreich",
+    "sort": "14632"
+  },
+  {
+    "city": "Wörgl",
+    "admin": "Tirol",
+    "sort": "13811"
+  },
+  {
+    "city": "Schwaz",
+    "admin": "Tirol",
+    "sort": "13728"
+  },
+  {
+    "city": "Feldkirchen",
+    "admin": "Kärnten",
+    "sort": "14198"
+  },
+  {
+    "city": "Korneuburg",
+    "admin": "Niederösterreich",
+    "sort": "12986"
+  },
+  {
+    "city": "Hard",
+    "admin": "Vorarlberg",
+    "sort": "13495"
+  },
+  {
+    "city": "Bad Ischl",
+    "admin": "Oberösterreich",
+    "sort": "14133"
+  },
+  {
+    "city": "Marchtrenk",
+    "admin": "Oberösterreich",
+    "sort": "13603"
+  },
+  {
+    "city": "Feldbach",
+    "admin": "Steiermark",
+    "sort": "13369"
+  },
+  {
+    "city": "Knittelfeld",
+    "admin": "Steiermark",
+    "sort": "12626"
+  },
+  {
+    "city": "Neunkirchen",
+    "admin": "Niederösterreich",
+    "sort": "12879"
+  },
+  {
+    "city": "Brunn am Gebirge",
+    "admin": "Niederösterreich",
+    "sort": "11864"
+  },
+  {
+    "city": "Gmunden",
+    "admin": "Oberösterreich",
+    "sort": "13191"
+  },
+  {
+    "city": "Vöcklabruck",
+    "admin": "Oberösterreich",
+    "sort": "12179"
+  },
+  {
+    "city": "Sankt Veit an der Glan",
+    "admin": "Kärnten",
+    "sort": "12547"
+  },
+  {
+    "city": "Leibnitz",
+    "admin": "Steiermark",
+    "sort": "12176"
+  },
+  {
+    "city": "Lienz",
+    "admin": "Tirol",
+    "sort": "11844"
+  },
+  {
+    "city": "Rankweil",
+    "admin": "Vorarlberg",
+    "sort": "11852"
+  },
+  {
+    "city": "Enns",
+    "admin": "Oberösterreich",
+    "sort": "11937"
+  },
+  {
+    "city": "Weiz",
+    "admin": "Steiermark",
+    "sort": "11627"
+  },
+  {
+    "city": "Götzis",
+    "admin": "Vorarlberg",
+    "sort": "11473"
+  },
+  {
+    "city": "Bad Vöslau",
+    "admin": "Niederösterreich",
+    "sort": "11844"
+  },
+  {
+    "city": "Ried im Innkreis",
+    "admin": "Oberösterreich",
+    "sort": "11903"
+  },
+  {
+    "city": "Gänserndorf",
+    "admin": "Niederösterreich",
+    "sort": "11404"
+  },
+  {
+    "city": "Hollabrunn",
+    "admin": "Niederösterreich",
+    "sort": "11681"
+  },
+  {
+    "city": "Deutschlandsberg",
+    "admin": "Steiermark",
+    "sort": "11663"
+  },
+  {
+    "city": "Mistelbach",
+    "admin": "Niederösterreich",
+    "sort": "11559"
+  },
+  {
+    "city": "Gerasdorf bei Wien",
+    "admin": "Niederösterreich",
+    "sort": "11155"
+  },
+  {
+    "city": "Waidhofen an der Ybbs",
+    "admin": "Niederösterreich",
+    "sort": "11333"
+  },
+  {
+    "city": "Sankt Johann im Pongau",
+    "admin": "Salzburg",
+    "sort": "11235"
+  },
+  {
+    "city": "Groß-Enzersdorf",
+    "admin": "Niederösterreich",
+    "sort": "11206"
+  },
+  {
+    "city": "Trofaiach",
+    "admin": "Steiermark",
+    "sort": "11125"
+  },
+  {
+    "city": "Ebreichsdorf",
+    "admin": "Niederösterreich",
+    "sort": "10942"
+  },
+  {
+    "city": "Gleisdorf",
+    "admin": "Steiermark",
+    "sort": "10763"
+  },
+  {
+    "city": "Völkermarkt",
+    "admin": "Kärnten",
+    "sort": "10946"
+  },
+  {
+    "city": "Wiener Neudorf",
+    "admin": "Niederösterreich",
+    "sort": "9433"
+  },
+  {
+    "city": "Zwettl",
+    "admin": "Niederösterreich",
+    "sort": "10908"
+  },
+  {
+    "city": "Strasshof an der Nordbahn",
+    "admin": "Niederösterreich",
+    "sort": "10009"
+  },
+  {
+    "city": "Lauterach",
+    "admin": "Vorarlberg",
+    "sort": "10028"
+  },
+  {
+    "city": "Bischofshofen",
+    "admin": "Salzburg",
+    "sort": "10540"
+  },
+  {
+    "city": "Imst",
+    "admin": "Tirol",
+    "sort": "10504"
+  },
+  {
+    "city": "Maria Enzersdorf",
+    "admin": "Niederösterreich",
+    "sort": "8829"
+  },
+  {
+    "city": "Köflach",
+    "admin": "Steiermark",
+    "sort": "9888"
+  },
+  {
+    "city": "Rum",
+    "admin": "Tirol",
+    "sort": "9190"
+  },
+  {
+    "city": "Laakirchen",
+    "admin": "Oberösterreich",
+    "sort": "9861"
+  },
+  {
+    "city": "Judenburg",
+    "admin": "Steiermark",
+    "sort": "9960"
+  },
+  {
+    "city": "Sankt Andrä",
+    "admin": "Kärnten",
+    "sort": "9957"
+  },
+  {
+    "city": "Purkersdorf",
+    "admin": "Niederösterreich",
+    "sort": "9701"
+  },
+  {
+    "city": "Zell am See",
+    "admin": "Salzburg",
+    "sort": "9762"
+  },
+  {
+    "city": "Altmünster",
+    "admin": "Oberösterreich",
+    "sort": "9793"
+  },
+  {
+    "city": "Guntramsdorf",
+    "admin": "Niederösterreich",
+    "sort": "9179"
+  },
+  {
+    "city": "Voitsberg",
+    "admin": "Steiermark",
+    "sort": "9403"
+  },
+  {
+    "city": "Attnang-Puchheim",
+    "admin": "Oberösterreich",
+    "sort": "8944"
+  },
+  {
+    "city": "Sierning",
+    "admin": "Oberösterreich",
+    "sort": "9371"
+  },
+  {
+    "city": "Sankt Johann in Tirol",
+    "admin": "Tirol",
+    "sort": "9428"
+  },
+  {
+    "city": "Sankt Valentin",
+    "admin": "Niederösterreich",
+    "sort": "9340"
+  },
+  {
+    "city": "Wolfurt",
+    "admin": "Vorarlberg",
+    "sort": "8429"
+  },
+  {
+    "city": "Velden am Wörthersee",
+    "admin": "Kärnten",
+    "sort": "8952"
+  },
+  {
+    "city": "Engerwitzdorf",
+    "admin": "Oberösterreich",
+    "sort": "8790"
+  },
+  {
+    "city": "Deutsch-Wagram",
+    "admin": "Niederösterreich",
+    "sort": "8651"
+  },
+  {
+    "city": "Langenzersdorf",
+    "admin": "Niederösterreich",
+    "sort": "8137"
+  },
+  {
+    "city": "Mürzzuschlag",
+    "admin": "Steiermark",
+    "sort": "8654"
+  },
+  {
+    "city": "Stainz",
+    "admin": "Steiermark",
+    "sort": "8653"
+  },
+  {
+    "city": "Fürstenfeld",
+    "admin": "Steiermark",
+    "sort": "8549"
+  },
+  {
+    "city": "Perg",
+    "admin": "Oberösterreich",
+    "sort": "8388"
+  },
+  {
+    "city": "Freistadt",
+    "admin": "Oberösterreich",
+    "sort": "7909"
+  },
+  {
+    "city": "Neulengbach",
+    "admin": "Niederösterreich",
+    "sort": "8281"
+  },
+  {
+    "city": "Kitzbühel",
+    "admin": "Tirol",
+    "sort": "8272"
+  },
+  {
+    "city": "Höchst",
+    "admin": "Vorarlberg",
+    "sort": "7995"
+  },
+  {
+    "city": "Neusiedl am See",
+    "admin": "Burgenland",
+    "sort": "8235"
+  },
+  {
+    "city": "Zirl",
+    "admin": "Tirol",
+    "sort": "8162"
+  },
+  {
+    "city": "Seiersberg",
+    "admin": "Steiermark",
+    "sort": "7351"
+  },
+  {
+    "city": "Liezen",
+    "admin": "Steiermark",
+    "sort": "8191"
+  },
+  {
+    "city": "Bruck an der Leitha",
+    "admin": "Niederösterreich",
+    "sort": "7887"
+  },
+  {
+    "city": "Landeck",
+    "admin": "Tirol",
+    "sort": "7725"
+  },
+  {
+    "city": "Pasching",
+    "admin": "Oberösterreich",
+    "sort": "7552"
+  },
+  {
+    "city": "Kindberg",
+    "admin": "Steiermark",
+    "sort": "8047"
+  },
+  {
+    "city": "Gratkorn",
+    "admin": "Steiermark",
+    "sort": "7892"
+  },
+  {
+    "city": "Sankt Andrä vor dem Hagenthale",
+    "admin": "Niederösterreich",
+    "sort": "7870"
+  },
+  {
+    "city": "Kottingbrunn",
+    "admin": "Niederösterreich",
+    "sort": "7417"
+  },
+  {
+    "city": "Zeltweg",
+    "admin": "Steiermark",
+    "sort": "7212"
+  },
+  {
+    "city": "Herzogenburg",
+    "admin": "Niederösterreich",
+    "sort": "7771"
+  },
+  {
+    "city": "Völs",
+    "admin": "Tirol",
+    "sort": "6738"
+  },
+  {
+    "city": "Wattens",
+    "admin": "Tirol",
+    "sort": "7881"
+  },
+  {
+    "city": "Altach",
+    "admin": "Vorarlberg",
+    "sort": "6624"
+  },
+  {
+    "city": "Fohnsdorf",
+    "admin": "Steiermark",
+    "sort": "7693"
+  },
+  {
+    "city": "Mattighofen",
+    "admin": "Oberösterreich",
+    "sort": "6524"
+  },
+  {
+    "city": "Oberwart",
+    "admin": "Burgenland",
+    "sort": "7572"
+  },
+  {
+    "city": "Ebensee",
+    "admin": "Oberösterreich",
+    "sort": "7717"
+  },
+  {
+    "city": "Gallneukirchen",
+    "admin": "Oberösterreich",
+    "sort": "6492"
+  },
+  {
+    "city": "Langenlois",
+    "admin": "Niederösterreich",
+    "sort": "7609"
+  },
+  {
+    "city": "Pressbaum",
+    "admin": "Niederösterreich",
+    "sort": "7559"
+  },
+  {
+    "city": "Vösendorf",
+    "admin": "Niederösterreich",
+    "sort": "6990"
+  },
+  {
+    "city": "Sieghartskirchen",
+    "admin": "Niederösterreich",
+    "sort": "7528"
+  },
+  {
+    "city": "Vorchdorf",
+    "admin": "Oberösterreich",
+    "sort": "7475"
+  },
+  {
+    "city": "Mattersburg",
+    "admin": "Burgenland",
+    "sort": "7349"
+  },
+  {
+    "city": "Jenbach",
+    "admin": "Tirol",
+    "sort": "7120"
+  },
+  {
+    "city": "Strasswalchen",
+    "admin": "Salzburg",
+    "sort": "7420"
+  },
+  {
+    "city": "Grödig",
+    "admin": "Salzburg",
+    "sort": "7262"
+  },
+  {
+    "city": "Fehring",
+    "admin": "Steiermark",
+    "sort": "7284"
+  },
+  {
+    "city": "Himberg",
+    "admin": "Niederösterreich",
+    "sort": "7375"
+  },
+  {
+    "city": "Bad Goisern",
+    "admin": "Oberösterreich",
+    "sort": "7450"
+  },
+  {
+    "city": "Kuchl",
+    "admin": "Salzburg",
+    "sort": "7274"
+  },
+  {
+    "city": "Kalsdorf bei Graz",
+    "admin": "Steiermark",
+    "sort": "6954"
+  },
+  {
+    "city": "Asten",
+    "admin": "Oberösterreich",
+    "sort": "6613"
+  },
+  {
+    "city": "Wolkersdorf im Weinviertel",
+    "admin": "Niederösterreich",
+    "sort": "7201"
+  },
+  {
+    "city": "Hitzendorf",
+    "admin": "Steiermark",
+    "sort": "7134"
+  },
+  {
+    "city": "Absam",
+    "admin": "Tirol",
+    "sort": "7112"
+  },
+  {
+    "city": "Pottendorf",
+    "admin": "Niederösterreich",
+    "sort": "7049"
+  },
+  {
+    "city": "Ferlach",
+    "admin": "Kärnten",
+    "sort": "7141"
+  },
+  {
+    "city": "Arnoldstein",
+    "admin": "Kärnten",
+    "sort": "7096"
+  },
+  {
+    "city": "Feldkirchen bei Graz",
+    "admin": "Steiermark",
+    "sort": "6622"
+  },
+  {
+    "city": "Eugendorf",
+    "admin": "Salzburg",
+    "sort": "6937"
+  },
+  {
+    "city": "Oberndorf bei Salzburg",
+    "admin": "Salzburg",
+    "sort": "5815"
+  },
+  {
+    "city": "Hörbranz",
+    "admin": "Vorarlberg",
+    "sort": "6346"
+  },
+  {
+    "city": "Bad Hofgastein",
+    "admin": "Salzburg",
+    "sort": "6914"
+  },
+  {
+    "city": "Hartberg",
+    "admin": "Steiermark",
+    "sort": "6650"
+  },
+  {
+    "city": "Garsten",
+    "admin": "Oberösterreich",
+    "sort": "6711"
+  },
+  {
+    "city": "Hainburg an der Donau",
+    "admin": "Niederösterreich",
+    "sort": "6570"
+  },
+  {
+    "city": "Reutte",
+    "admin": "Tirol",
+    "sort": "6704"
+  },
+  {
+    "city": "Eggersdorf bei Graz",
+    "admin": "Steiermark",
+    "sort": "6620"
+  },
+  {
+    "city": "Kremsmünster",
+    "admin": "Oberösterreich",
+    "sort": "6585"
+  },
+  {
+    "city": "Frohnleiten",
+    "admin": "Steiermark",
+    "sort": "6655"
+  },
+  {
+    "city": "Wilhelmsburg",
+    "admin": "Niederösterreich",
+    "sort": "6557"
+  },
+  {
+    "city": "Horn",
+    "admin": "Niederösterreich",
+    "sort": "6520"
+  },
+  {
+    "city": "Schladming",
+    "admin": "Steiermark",
+    "sort": "6660"
+  },
+  {
+    "city": "Neuhofen an der Krems",
+    "admin": "Oberösterreich",
+    "sort": "6269"
+  },
+  {
+    "city": "Seeboden",
+    "admin": "Kärnten",
+    "sort": "6418"
+  },
+  {
+    "city": "Schärding",
+    "admin": "Oberösterreich",
+    "sort": "5253"
+  },
+  {
+    "city": "Eibiswald",
+    "admin": "Steiermark",
+    "sort": "6485"
+  },
+  {
+    "city": "Neumarkt am Wallersee",
+    "admin": "Salzburg",
+    "sort": "6297"
+  },
+  {
+    "city": "Traismauer",
+    "admin": "Niederösterreich",
+    "sort": "6224"
+  },
+  {
+    "city": "Laa an der Thaya",
+    "admin": "Niederösterreich",
+    "sort": "6280"
+  },
+  {
+    "city": "Hörsching",
+    "admin": "Oberösterreich",
+    "sort": "6062"
+  },
+  {
+    "city": "Axams",
+    "admin": "Tirol",
+    "sort": "6048"
+  },
+  {
+    "city": "Markt Sankt Florian",
+    "admin": "Oberösterreich",
+    "sort": "6176"
+  },
+  {
+    "city": "Wagna",
+    "admin": "Steiermark",
+    "sort": "5859"
+  },
+  {
+    "city": "Lochau",
+    "admin": "Vorarlberg",
+    "sort": "5747"
+  },
+  {
+    "city": "Nenzing",
+    "admin": "Vorarlberg",
+    "sort": "6239"
+  },
+  {
+    "city": "Kirchbichl",
+    "admin": "Tirol",
+    "sort": "5855"
+  },
+  {
+    "city": "Gloggnitz",
+    "admin": "Niederösterreich",
+    "sort": "5916"
+  },
+  {
+    "city": "Gunskirchen",
+    "admin": "Oberösterreich",
+    "sort": "6037"
+  },
+  {
+    "city": "Pöllau",
+    "admin": "Steiermark",
+    "sort": "6054"
+  },
+  {
+    "city": "Gnas",
+    "admin": "Steiermark",
+    "sort": "6046"
+  },
+  {
+    "city": "Wildon",
+    "admin": "Steiermark",
+    "sort": "5367"
+  },
+  {
+    "city": "Wilhering",
+    "admin": "Oberösterreich",
+    "sort": "5911"
+  },
+  {
+    "city": "Alkoven",
+    "admin": "Oberösterreich",
+    "sort": "5961"
+  },
+  {
+    "city": "Breitenfurth bei Wien",
+    "admin": "Niederösterreich",
+    "sort": "5853"
+  },
+  {
+    "city": "Thalgau",
+    "admin": "Salzburg",
+    "sort": "5931"
+  },
+  {
+    "city": "Timelkam",
+    "admin": "Oberösterreich",
+    "sort": "5708"
+  },
+  {
+    "city": "Pinkafeld",
+    "admin": "Burgenland",
+    "sort": "5779"
+  },
+  {
+    "city": "Mittermicheldorf",
+    "admin": "Oberösterreich",
+    "sort": "5854"
+  },
+  {
+    "city": "Eberndorf",
+    "admin": "Kärnten",
+    "sort": "5862"
+  },
+  {
+    "city": "Radenthein",
+    "admin": "Kärnten",
+    "sort": "5831"
+  },
+  {
+    "city": "Ybbs an der Donau",
+    "admin": "Niederösterreich",
+    "sort": "5653"
+  },
+  {
+    "city": "Paternion",
+    "admin": "Kärnten",
+    "sort": "5819"
+  },
+  {
+    "city": "Abtenau",
+    "admin": "Salzburg",
+    "sort": "5842"
+  },
+  {
+    "city": "Thalheim bei Wels",
+    "admin": "Oberösterreich",
+    "sort": "5482"
+  },
+  {
+    "city": "Leopoldsdorf",
+    "admin": "Niederösterreich",
+    "sort": "5078"
+  },
+  {
+    "city": "Fischamend",
+    "admin": "Niederösterreich",
+    "sort": "5583"
+  },
+  {
+    "city": "Wernberg",
+    "admin": "Kärnten",
+    "sort": "5587"
+  },
+  {
+    "city": "Tamsweg",
+    "admin": "Salzburg",
+    "sort": "5717"
+  },
+  {
+    "city": "Melk",
+    "admin": "Niederösterreich",
+    "sort": "5529"
+  },
+  {
+    "city": "Bergheim",
+    "admin": "Salzburg",
+    "sort": "5388"
+  },
+  {
+    "city": "Ebbs",
+    "admin": "Tirol",
+    "sort": "5601"
+  },
+  {
+    "city": "Hopfgarten im Brixental",
+    "admin": "Tirol",
+    "sort": "5677"
+  },
+  {
+    "city": "Bad Gleichenberg",
+    "admin": "Steiermark",
+    "sort": "5314"
+  },
+  {
+    "city": "Schwertberg",
+    "admin": "Oberösterreich",
+    "sort": "5365"
+  },
+  {
+    "city": "Elsbethen",
+    "admin": "Salzburg",
+    "sort": "5424"
+  },
+  {
+    "city": "Haag",
+    "admin": "Niederösterreich",
+    "sort": "5548"
+  },
+  {
+    "city": "Spielberg bei Knittelfeld",
+    "admin": "Steiermark",
+    "sort": "5383"
+  },
+  {
+    "city": "Waidhofen an der Thaya",
+    "admin": "Niederösterreich",
+    "sort": "5501"
+  },
+  {
+    "city": "Lenzing",
+    "admin": "Oberösterreich",
+    "sort": "5043"
+  },
+  {
+    "city": "Gmünd",
+    "admin": "Niederösterreich",
+    "sort": "5375"
+  },
+  {
+    "city": "Poysdorf",
+    "admin": "Niederösterreich",
+    "sort": "5527"
+  },
+  {
+    "city": "Lieboch",
+    "admin": "Steiermark",
+    "sort": "5096"
+  },
+  {
+    "city": "Sollenau",
+    "admin": "Niederösterreich",
+    "sort": "5038"
+  },
+  {
+    "city": "Feldkirchen an der Donau",
+    "admin": "Oberösterreich",
+    "sort": "5361"
+  },
+  {
+    "city": "Schrems",
+    "admin": "Niederösterreich",
+    "sort": "5404"
+  },
+  {
+    "city": "Pregarten",
+    "admin": "Oberösterreich",
+    "sort": "5293"
+  },
+  {
+    "city": "Zistersdorf",
+    "admin": "Niederösterreich",
+    "sort": "5391"
+  },
+  {
+    "city": "Sankt Ruprecht an der Raab",
+    "admin": "Steiermark",
+    "sort": "5300"
+  },
+  {
+    "city": "Grieskirchen",
+    "admin": "Oberösterreich",
+    "sort": "5002"
+  },
+  {
+    "city": "Mittersill",
+    "admin": "Salzburg",
+    "sort": "5380"
+  },
+  {
+    "city": "Bad Hall",
+    "admin": "Oberösterreich",
+    "sort": "5043"
+  },
+  {
+    "city": "Ohlsdorf",
+    "admin": "Oberösterreich",
+    "sort": "5209"
+  },
+  {
+    "city": "Stadl-Paura",
+    "admin": "Oberösterreich",
+    "sort": "5053"
+  },
+  {
+    "city": "Pettenbach",
+    "admin": "Oberösterreich",
+    "sort": "5272"
+  },
+  {
+    "city": "Krieglach",
+    "admin": "Steiermark",
+    "sort": "5305"
+  },
+  {
+    "city": "Andorf",
+    "admin": "Oberösterreich",
+    "sort": "5174"
+  },
+  {
+    "city": "Kirchberg in Tirol",
+    "admin": "Tirol",
+    "sort": "5245"
+  },
+  {
+    "city": "Rottenmann",
+    "admin": "Steiermark",
+    "sort": "5232"
+  },
+  {
+    "city": "Gramastetten",
+    "admin": "Oberösterreich",
+    "sort": "5102"
+  },
+  {
+    "city": "Sankt Peter in der Au Dorf",
+    "admin": "Niederösterreich",
+    "sort": "5119"
+  },
+  {
+    "city": "Böheimkirchen",
+    "admin": "Niederösterreich",
+    "sort": "5087"
+  },
+  {
+    "city": "Vomp",
+    "admin": "Tirol",
+    "sort": "5146"
+  },
+  {
+    "city": "Admont",
+    "admin": "Steiermark",
+    "sort": "5010"
+  },
+  {
+    "city": "Hafendorf",
+    "admin": "Steiermark",
+    "sort": "7177"
+  }
+]

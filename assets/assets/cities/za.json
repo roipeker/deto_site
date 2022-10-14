@@ -1,0 +1,547 @@
+[
+  {
+    "city": "Johannesburg",
+    "admin": "Gauteng",
+    "sort": "4434827"
+  },
+  {
+    "city": "Soweto",
+    "admin": "Gauteng",
+    "sort": "1271628"
+  },
+  {
+    "city": "Vereeniging",
+    "admin": "Gauteng",
+    "sort": "1074000"
+  },
+  {
+    "city": "Pretoria",
+    "admin": "Gauteng",
+    "sort": "741651"
+  },
+  {
+    "city": "Cape Town",
+    "admin": "Western Cape",
+    "sort": "433688"
+  },
+  {
+    "city": "Bloemfontein",
+    "admin": "Free State",
+    "sort": "256185"
+  },
+  {
+    "city": "Pietermaritzburg",
+    "admin": "KwaZulu-Natal",
+    "sort": "750845"
+  },
+  {
+    "city": "Durban",
+    "admin": "KwaZulu-Natal",
+    "sort": "595061"
+  },
+  {
+    "city": "Welkom",
+    "admin": "Free State",
+    "sort": "431944"
+  },
+  {
+    "city": "East London",
+    "admin": "Eastern Cape",
+    "sort": "338627"
+  },
+  {
+    "city": "Randburg",
+    "admin": "Gauteng",
+    "sort": "337053"
+  },
+  {
+    "city": "Roodepoort",
+    "admin": "Gauteng",
+    "sort": "326416"
+  },
+  {
+    "city": "Port Elizabeth",
+    "admin": "Eastern Cape",
+    "sort": "312392"
+  },
+  {
+    "city": "Springs",
+    "admin": "Gauteng",
+    "sort": "236083"
+  },
+  {
+    "city": "Centurion",
+    "admin": "Gauteng",
+    "sort": "236580"
+  },
+  {
+    "city": "Sandton",
+    "admin": "Gauteng",
+    "sort": "222415"
+  },
+  {
+    "city": "Polokwane",
+    "admin": "Limpopo",
+    "sort": "220045"
+  },
+  {
+    "city": "Klerksdorp",
+    "admin": "North West",
+    "sort": "178921"
+  },
+  {
+    "city": "Rustenburg",
+    "admin": "North West",
+    "sort": "165976"
+  },
+  {
+    "city": "Kimberley",
+    "admin": "Northern Cape",
+    "sort": "165264"
+  },
+  {
+    "city": "Bhisho",
+    "admin": "Eastern Cape",
+    "sort": "160997"
+  },
+  {
+    "city": "Benoni",
+    "admin": "Gauteng",
+    "sort": "158777"
+  },
+  {
+    "city": "George",
+    "admin": "Western Cape",
+    "sort": "157394"
+  },
+  {
+    "city": "Middelburg",
+    "admin": "Mpumalanga",
+    "sort": "154706"
+  },
+  {
+    "city": "Vryheid",
+    "admin": "KwaZulu-Natal",
+    "sort": "150012"
+  },
+  {
+    "city": "Potchefstroom",
+    "admin": "North West",
+    "sort": "148804"
+  },
+  {
+    "city": "Umtata",
+    "admin": "Eastern Cape",
+    "sort": "137772"
+  },
+  {
+    "city": "Brits",
+    "admin": "North West",
+    "sort": "122497"
+  },
+  {
+    "city": "Alberton",
+    "admin": "Gauteng",
+    "sort": "121536"
+  },
+  {
+    "city": "Upington",
+    "admin": "Northern Cape",
+    "sort": "121189"
+  },
+  {
+    "city": "Paarl",
+    "admin": "Western Cape",
+    "sort": "112045"
+  },
+  {
+    "city": "Uitenhage",
+    "admin": "Eastern Cape",
+    "sort": "103639"
+  },
+  {
+    "city": "Queenstown",
+    "admin": "Eastern Cape",
+    "sort": "105309"
+  },
+  {
+    "city": "Kroonstad",
+    "admin": "Free State",
+    "sort": "103992"
+  },
+  {
+    "city": "Mmabatho",
+    "admin": "North West",
+    "sort": "104428"
+  },
+  {
+    "city": "Bethal",
+    "admin": "Mpumalanga",
+    "sort": "101919"
+  },
+  {
+    "city": "Thohoyandou",
+    "admin": "Limpopo",
+    "sort": "69453"
+  },
+  {
+    "city": "Saldanha",
+    "admin": "Western Cape",
+    "sort": "68284"
+  },
+  {
+    "city": "Vryburg",
+    "admin": "North West",
+    "sort": "49588"
+  },
+  {
+    "city": "Vredenburg",
+    "admin": "Western Cape",
+    "sort": "38382"
+  },
+  {
+    "city": "Cradock",
+    "admin": "Eastern Cape",
+    "sort": "32898"
+  },
+  {
+    "city": "Ulundi",
+    "admin": "KwaZulu-Natal",
+    "sort": "29132"
+  },
+  {
+    "city": "Mahikeng",
+    "admin": "North West",
+    "sort": "15117"
+  },
+  {
+    "city": "Saron",
+    "admin": "Western Cape",
+    "sort": "7843"
+  },
+  {
+    "city": "Nelspruit",
+    "admin": "Mpumalanga",
+    "sort": ""
+  },
+  {
+    "city": "Worcester",
+    "admin": "Western Cape",
+    "sort": "97098"
+  },
+  {
+    "city": "Vanderbijlpark",
+    "admin": "Gauteng",
+    "sort": "95840"
+  },
+  {
+    "city": "Grahamstown",
+    "admin": "Eastern Cape",
+    "sort": "91548"
+  },
+  {
+    "city": "Standerton",
+    "admin": "Mpumalanga",
+    "sort": "74021"
+  },
+  {
+    "city": "Brakpan",
+    "admin": "Gauteng",
+    "sort": "73080"
+  },
+  {
+    "city": "Tzaneen",
+    "admin": "Limpopo",
+    "sort": "67245"
+  },
+  {
+    "city": "Graaff-Reinet",
+    "admin": "Eastern Cape",
+    "sort": "62896"
+  },
+  {
+    "city": "Oudtshoorn",
+    "admin": "Western Cape",
+    "sort": "61507"
+  },
+  {
+    "city": "Mossel Bay",
+    "admin": "Western Cape",
+    "sort": "59031"
+  },
+  {
+    "city": "Port Shepstone",
+    "admin": "KwaZulu-Natal",
+    "sort": "52793"
+  },
+  {
+    "city": "Knysna",
+    "admin": "Western Cape",
+    "sort": "51078"
+  },
+  {
+    "city": "Ladysmith",
+    "admin": "KwaZulu-Natal",
+    "sort": "47375"
+  },
+  {
+    "city": "Kuilsrivier",
+    "admin": "Western Cape",
+    "sort": "46686"
+  },
+  {
+    "city": "Beaufort West",
+    "admin": "Western Cape",
+    "sort": "44737"
+  },
+  {
+    "city": "Aliwal North",
+    "admin": "Eastern Cape",
+    "sort": "44436"
+  },
+  {
+    "city": "Volksrust",
+    "admin": "Mpumalanga",
+    "sort": "43378"
+  },
+  {
+    "city": "Musina",
+    "admin": "Limpopo",
+    "sort": "42678"
+  },
+  {
+    "city": "Malmesbury",
+    "admin": "Western Cape",
+    "sort": "35897"
+  },
+  {
+    "city": "Lebowakgomo",
+    "admin": "Limpopo",
+    "sort": "33308"
+  },
+  {
+    "city": "De Aar",
+    "admin": "Northern Cape",
+    "sort": "32318"
+  },
+  {
+    "city": "Jeffrey’s Bay",
+    "admin": "Eastern Cape",
+    "sort": "27107"
+  },
+  {
+    "city": "Lichtenburg",
+    "admin": "North West",
+    "sort": "26338"
+  },
+  {
+    "city": "Hermanus",
+    "admin": "Western Cape",
+    "sort": "25153"
+  },
+  {
+    "city": "Carletonville",
+    "admin": "Gauteng",
+    "sort": "23000"
+  },
+  {
+    "city": "Robertson",
+    "admin": "Western Cape",
+    "sort": "21929"
+  },
+  {
+    "city": "Bronkhorstspruit",
+    "admin": "Gauteng",
+    "sort": "20769"
+  },
+  {
+    "city": "Komatipoort",
+    "admin": "Mpumalanga",
+    "sort": "20508"
+  },
+  {
+    "city": "Port Alfred",
+    "admin": "Eastern Cape",
+    "sort": "17959"
+  },
+  {
+    "city": "Middelburg",
+    "admin": "Eastern Cape",
+    "sort": "18164"
+  },
+  {
+    "city": "Swellendam",
+    "admin": "Western Cape",
+    "sort": "17537"
+  },
+  {
+    "city": "Bloemhof",
+    "admin": "North West",
+    "sort": "17122"
+  },
+  {
+    "city": "Bethlehem",
+    "admin": "Free State",
+    "sort": "16236"
+  },
+  {
+    "city": "Montagu",
+    "admin": "Western Cape",
+    "sort": "15176"
+  },
+  {
+    "city": "Bredasdorp",
+    "admin": "Western Cape",
+    "sort": "14936"
+  },
+  {
+    "city": "Phalaborwa",
+    "admin": "Limpopo",
+    "sort": "13108"
+  },
+  {
+    "city": "Caledon",
+    "admin": "Western Cape",
+    "sort": "13020"
+  },
+  {
+    "city": "Moorreesburg",
+    "admin": "Western Cape",
+    "sort": "12877"
+  },
+  {
+    "city": "Colesberg",
+    "admin": "Northern Cape",
+    "sort": "12423"
+  },
+  {
+    "city": "Piketberg",
+    "admin": "Western Cape",
+    "sort": "12075"
+  },
+  {
+    "city": "Brandfort",
+    "admin": "Free State",
+    "sort": "12091"
+  },
+  {
+    "city": "Prieska",
+    "admin": "Northern Cape",
+    "sort": "11236"
+  },
+  {
+    "city": "Velddrif",
+    "admin": "Western Cape",
+    "sort": "11017"
+  },
+  {
+    "city": "Kuruman",
+    "admin": "Northern Cape",
+    "sort": "10006"
+  },
+  {
+    "city": "Saint Helena Bay",
+    "admin": "Western Cape",
+    "sort": "11529"
+  },
+  {
+    "city": "Springbok",
+    "admin": "Northern Cape",
+    "sort": "10438"
+  },
+  {
+    "city": "Villiersdorp",
+    "admin": "Western Cape",
+    "sort": "10004"
+  },
+  {
+    "city": "Darling",
+    "admin": "Western Cape",
+    "sort": "10420"
+  },
+  {
+    "city": "Tulbagh",
+    "admin": "Western Cape",
+    "sort": "8969"
+  },
+  {
+    "city": "Citrusdal",
+    "admin": "Western Cape",
+    "sort": "7177"
+  },
+  {
+    "city": "Clanwilliam",
+    "admin": "Western Cape",
+    "sort": "7674"
+  },
+  {
+    "city": "Porterville",
+    "admin": "Western Cape",
+    "sort": "7057"
+  },
+  {
+    "city": "Kleinmond",
+    "admin": "Western Cape",
+    "sort": "6634"
+  },
+  {
+    "city": "Vanrhynsdorp",
+    "admin": "Western Cape",
+    "sort": "6272"
+  },
+  {
+    "city": "Klawer",
+    "admin": "Western Cape",
+    "sort": "6234"
+  },
+  {
+    "city": "Carnarvon",
+    "admin": "Northern Cape",
+    "sort": "5785"
+  },
+  {
+    "city": "Genadendal",
+    "admin": "Western Cape",
+    "sort": "5663"
+  },
+  {
+    "city": "Hopefield",
+    "admin": "Western Cape",
+    "sort": "6460"
+  },
+  {
+    "city": "Port Saint John’s",
+    "admin": "Eastern Cape",
+    "sort": "5939"
+  },
+  {
+    "city": "Lambert’s Bay",
+    "admin": "Western Cape",
+    "sort": "6120"
+  },
+  {
+    "city": "Riviersonderend",
+    "admin": "Western Cape",
+    "sort": "5245"
+  },
+  {
+    "city": "Onrus",
+    "admin": "Western Cape",
+    "sort": "5151"
+  },
+  {
+    "city": "Pofadder",
+    "admin": "Northern Cape",
+    "sort": "4220"
+  },
+  {
+    "city": "Alexander Bay",
+    "admin": "Northern Cape",
+    "sort": "1500"
+  },
+  {
+    "city": "Ubombo",
+    "admin": "KwaZulu-Natal",
+    "sort": "564"
+  }
+]

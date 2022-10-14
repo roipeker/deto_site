@@ -1,0 +1,167 @@
+[
+  {
+    "city": "Bamako",
+    "admin": "Bamako",
+    "sort": "2009109"
+  },
+  {
+    "city": "Sikasso",
+    "admin": "Sikasso",
+    "sort": "213977"
+  },
+  {
+    "city": "Ségou",
+    "admin": "Ségou",
+    "sort": "133501"
+  },
+  {
+    "city": "Mopti",
+    "admin": "Mopti",
+    "sort": "108456"
+  },
+  {
+    "city": "Koutiala",
+    "admin": "Sikasso",
+    "sort": "104927"
+  },
+  {
+    "city": "Kayes",
+    "admin": "Kayes",
+    "sort": "77207"
+  },
+  {
+    "city": "Kati",
+    "admin": "Koulikoro",
+    "sort": "66895"
+  },
+  {
+    "city": "Gao",
+    "admin": "Gao",
+    "sort": "49483"
+  },
+  {
+    "city": "Kita",
+    "admin": "Kayes",
+    "sort": "46435"
+  },
+  {
+    "city": "Timbuktu",
+    "admin": "Tombouctou",
+    "sort": "35330"
+  },
+  {
+    "city": "Koulikoro",
+    "admin": "Koulikoro",
+    "sort": "23919"
+  },
+  {
+    "city": "Kidal",
+    "admin": "Kidal",
+    "sort": "15086"
+  },
+  {
+    "city": "Markala",
+    "admin": "Ségou",
+    "sort": "53738"
+  },
+  {
+    "city": "San",
+    "admin": "Ségou",
+    "sort": "41386"
+  },
+  {
+    "city": "Bougouni",
+    "admin": "Sikasso",
+    "sort": "35450"
+  },
+  {
+    "city": "Djenné",
+    "admin": "Mopti",
+    "sort": "32944"
+  },
+  {
+    "city": "Ansongo",
+    "admin": "Gao",
+    "sort": "32709"
+  },
+  {
+    "city": "Banamba",
+    "admin": "Koulikoro",
+    "sort": "30591"
+  },
+  {
+    "city": "Bourèm Guindou",
+    "admin": "Gao",
+    "sort": "30000"
+  },
+  {
+    "city": "Bafoulabé",
+    "admin": "Kayes",
+    "sort": "26823"
+  },
+  {
+    "city": "Ménaka",
+    "admin": "Gao",
+    "sort": "20702"
+  },
+  {
+    "city": "Nara",
+    "admin": "Koulikoro",
+    "sort": "18459"
+  },
+  {
+    "city": "Kangaba",
+    "admin": "Koulikoro",
+    "sort": "17232"
+  },
+  {
+    "city": "Léré",
+    "admin": "Tombouctou",
+    "sort": "16072"
+  },
+  {
+    "city": "Nioro",
+    "admin": "Kayes",
+    "sort": "14421"
+  },
+  {
+    "city": "Goundam",
+    "admin": "Tombouctou",
+    "sort": "8456"
+  },
+  {
+    "city": "Aguelhok",
+    "admin": "Kidal",
+    "sort": "8080"
+  },
+  {
+    "city": "Sokolo",
+    "admin": "Ségou",
+    "sort": "4374"
+  },
+  {
+    "city": "Tessalit",
+    "admin": "Kidal",
+    "sort": "3612"
+  },
+  {
+    "city": "Yélimané",
+    "admin": "Kayes",
+    "sort": "988"
+  },
+  {
+    "city": "Araouane",
+    "admin": "Tombouctou",
+    "sort": "4026"
+  },
+  {
+    "city": "Taoudenni",
+    "admin": "Tombouctou",
+    "sort": "3019"
+  },
+  {
+    "city": "Satadougou",
+    "admin": "Kayes",
+    "sort": "706"
+  }
+]

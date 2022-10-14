@@ -1,0 +1,47 @@
+[
+  {
+    "city": "San Marino",
+    "admin": "San Marino Città",
+    "sort": "4040"
+  },
+  {
+    "city": "Serravalle",
+    "admin": "Serravalle",
+    "sort": ""
+  },
+  {
+    "city": "Borgo Maggiore",
+    "admin": "Borgo Maggiore",
+    "sort": ""
+  },
+  {
+    "city": "Domagnano",
+    "admin": "Domagnano",
+    "sort": ""
+  },
+  {
+    "city": "Acquaviva",
+    "admin": "Acquaviva",
+    "sort": ""
+  },
+  {
+    "city": "Fiorentino",
+    "admin": "Fiorentino",
+    "sort": ""
+  },
+  {
+    "city": "Montegiardino",
+    "admin": "Montegiardino",
+    "sort": ""
+  },
+  {
+    "city": "Chiesanuova",
+    "admin": "Chiesanuova",
+    "sort": ""
+  },
+  {
+    "city": "Faetano",
+    "admin": "Faetano",
+    "sort": ""
+  }
+]

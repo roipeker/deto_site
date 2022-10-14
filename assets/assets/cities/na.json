@@ -1,0 +1,162 @@
+[
+  {
+    "city": "Windhoek",
+    "admin": "Khomas",
+    "sort": "322500"
+  },
+  {
+    "city": "Rundu",
+    "admin": "Kavango East",
+    "sort": "63431"
+  },
+  {
+    "city": "Oshakati",
+    "admin": "Oshana",
+    "sort": "39679"
+  },
+  {
+    "city": "Swakopmund",
+    "admin": "Erongo",
+    "sort": "34300"
+  },
+  {
+    "city": "Otjiwarongo",
+    "admin": "Otjozondjupa",
+    "sort": "28249"
+  },
+  {
+    "city": "Katima Mulilo",
+    "admin": "Zambezi",
+    "sort": "28699"
+  },
+  {
+    "city": "Rehoboth",
+    "admin": "Hardap",
+    "sort": "25219"
+  },
+  {
+    "city": "Gobabis",
+    "admin": "Omaheke",
+    "sort": "16321"
+  },
+  {
+    "city": "Keetmanshoop",
+    "admin": "//Karas",
+    "sort": "16800"
+  },
+  {
+    "city": "Mariental",
+    "admin": "Hardap",
+    "sort": "12478"
+  },
+  {
+    "city": "Opuwo",
+    "admin": "Kunene",
+    "sort": "4857"
+  },
+  {
+    "city": "Outapi",
+    "admin": "Omusati",
+    "sort": "4606"
+  },
+  {
+    "city": "Eenhana",
+    "admin": "Ohangwena",
+    "sort": ""
+  },
+  {
+    "city": "Omuthiya",
+    "admin": "Oshikoto",
+    "sort": ""
+  },
+  {
+    "city": "Nkurenkuru",
+    "admin": "Kavango West",
+    "sort": ""
+  },
+  {
+    "city": "Walvisbaai",
+    "admin": "Erongo",
+    "sort": "85000"
+  },
+  {
+    "city": "Grootfontein",
+    "admin": "Otjozondjupa",
+    "sort": "24099"
+  },
+  {
+    "city": "Okahandja",
+    "admin": "Otjozondjupa",
+    "sort": "20879"
+  },
+  {
+    "city": "Tsumeb",
+    "admin": "Oshikoto",
+    "sort": "14959"
+  },
+  {
+    "city": "Lüderitz",
+    "admin": "//Karas",
+    "sort": "12537"
+  },
+  {
+    "city": "Oshikango",
+    "admin": "Ohangwena",
+    "sort": "12423"
+  },
+  {
+    "city": "Ongwediva",
+    "admin": "Oshana",
+    "sort": "10964"
+  },
+  {
+    "city": "Omaruru",
+    "admin": "Erongo",
+    "sort": "11547"
+  },
+  {
+    "city": "Bethanie",
+    "admin": "//Karas",
+    "sort": "10363"
+  },
+  {
+    "city": "Usakos",
+    "admin": "Erongo",
+    "sort": "9147"
+  },
+  {
+    "city": "Outjo",
+    "admin": "Kunene",
+    "sort": "6557"
+  },
+  {
+    "city": "Karasburg",
+    "admin": "//Karas",
+    "sort": "6054"
+  },
+  {
+    "city": "Kamanjab",
+    "admin": "Kunene",
+    "sort": "6012"
+  },
+  {
+    "city": "Maltahöhe",
+    "admin": "Hardap",
+    "sort": "6000"
+  },
+  {
+    "city": "Oranjemund",
+    "admin": "//Karas",
+    "sort": "3900"
+  },
+  {
+    "city": "Otavi",
+    "admin": "Otjozondjupa",
+    "sort": "4562"
+  },
+  {
+    "city": "Karibib",
+    "admin": "Erongo",
+    "sort": "6898"
+  }
+]

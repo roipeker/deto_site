@@ -1,0 +1,97 @@
+[
+  {
+    "city": "Libreville",
+    "admin": "Estuaire",
+    "sort": "797003"
+  },
+  {
+    "city": "Port-Gentil",
+    "admin": "Ogooué-Maritime",
+    "sort": "116836"
+  },
+  {
+    "city": "Oyem",
+    "admin": "Woleu-Ntem",
+    "sort": "60685"
+  },
+  {
+    "city": "Franceville",
+    "admin": "Haut-Ogooué",
+    "sort": "42967"
+  },
+  {
+    "city": "Lambaréné",
+    "admin": "Moyen-Ogooué",
+    "sort": "25310"
+  },
+  {
+    "city": "Mouila",
+    "admin": "Ngounié",
+    "sort": "22469"
+  },
+  {
+    "city": "Tchibanga",
+    "admin": "Nyanga",
+    "sort": "19365"
+  },
+  {
+    "city": "Makokou",
+    "admin": "Ogooué-Ivindo",
+    "sort": "17070"
+  },
+  {
+    "city": "Koulamoutou",
+    "admin": "Ogooué-Lolo",
+    "sort": "16222"
+  },
+  {
+    "city": "Moanda",
+    "admin": "Haut-Ogooué",
+    "sort": "30151"
+  },
+  {
+    "city": "Bitam",
+    "admin": "Woleu-Ntem",
+    "sort": "17637"
+  },
+  {
+    "city": "Mitzic",
+    "admin": "Woleu-Ntem",
+    "sort": "4111"
+  },
+  {
+    "city": "Mayumba",
+    "admin": "Nyanga",
+    "sort": "3996"
+  },
+  {
+    "city": "Gamba",
+    "admin": "Ogooué-Maritime",
+    "sort": "9928"
+  },
+  {
+    "city": "Okondja",
+    "admin": "Haut-Ogooué",
+    "sort": "7155"
+  },
+  {
+    "city": "Ndendé",
+    "admin": "Ngounié",
+    "sort": "6200"
+  },
+  {
+    "city": "Mékambo",
+    "admin": "Ogooué-Ivindo",
+    "sort": "3170"
+  },
+  {
+    "city": "Omboué",
+    "admin": "Ogooué-Maritime",
+    "sort": "1667"
+  },
+  {
+    "city": "Bifoun",
+    "admin": "Moyen-Ogooué",
+    "sort": "134"
+  }
+]

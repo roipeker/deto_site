@@ -1,0 +1,387 @@
+[
+  {
+    "city": "Lagos",
+    "admin": "Lagos",
+    "sort": "15487000"
+  },
+  {
+    "city": "Kano",
+    "admin": "Kano",
+    "sort": "3848885"
+  },
+  {
+    "city": "Ibadan",
+    "admin": "Oyo",
+    "sort": "2550593"
+  },
+  {
+    "city": "Aba",
+    "admin": "Abia",
+    "sort": "1530000"
+  },
+  {
+    "city": "Onitsha",
+    "admin": "Anambra",
+    "sort": "1483000"
+  },
+  {
+    "city": "Abuja",
+    "admin": "Federal Capital Territory",
+    "sort": "1235880"
+  },
+  {
+    "city": "Maiduguri",
+    "admin": "Borno",
+    "sort": "1197497"
+  },
+  {
+    "city": "Benin City",
+    "admin": "Edo",
+    "sort": "1147188"
+  },
+  {
+    "city": "Ikare",
+    "admin": "Ondo",
+    "sort": "1099931"
+  },
+  {
+    "city": "Ogbomoso",
+    "admin": "Oyo",
+    "sort": "1032000"
+  },
+  {
+    "city": "Port Harcourt",
+    "admin": "Rivers",
+    "sort": "1005904"
+  },
+  {
+    "city": "Owerri",
+    "admin": "Imo",
+    "sort": "908109"
+  },
+  {
+    "city": "Abeokuta",
+    "admin": "Ogun",
+    "sort": "888924"
+  },
+  {
+    "city": "Ikeja",
+    "admin": "Lagos",
+    "sort": "861300"
+  },
+  {
+    "city": "Akure",
+    "admin": "Ondo",
+    "sort": "847903"
+  },
+  {
+    "city": "Ilorin",
+    "admin": "Kwara",
+    "sort": "847582"
+  },
+  {
+    "city": "Warri",
+    "admin": "Delta",
+    "sort": "830106"
+  },
+  {
+    "city": "Kaduna",
+    "admin": "Kaduna",
+    "sort": "760084"
+  },
+  {
+    "city": "Osogbo",
+    "admin": "Osun",
+    "sort": "731000"
+  },
+  {
+    "city": "Enugu",
+    "admin": "Enugu",
+    "sort": "715774"
+  },
+  {
+    "city": "Bauchi",
+    "admin": "Bauchi",
+    "sort": "693700"
+  },
+  {
+    "city": "Jalingo",
+    "admin": "Taraba",
+    "sort": "660213"
+  },
+  {
+    "city": "Jos",
+    "admin": "Plateau",
+    "sort": "622802"
+  },
+  {
+    "city": "Ile-Ife",
+    "admin": "Osun",
+    "sort": "501952"
+  },
+  {
+    "city": "Calabar",
+    "admin": "Cross River",
+    "sort": "461796"
+  },
+  {
+    "city": "Ado-Ekiti",
+    "admin": "Ekiti",
+    "sort": "446749"
+  },
+  {
+    "city": "Uyo",
+    "admin": "Akwa Ibom",
+    "sort": "429900"
+  },
+  {
+    "city": "Sokoto",
+    "admin": "Sokoto",
+    "sort": "427760"
+  },
+  {
+    "city": "Zaria",
+    "admin": "Kaduna",
+    "sort": "408198"
+  },
+  {
+    "city": "Yola",
+    "admin": "Adamawa",
+    "sort": "392854"
+  },
+  {
+    "city": "Oyo",
+    "admin": "Oyo",
+    "sort": "386723"
+  },
+  {
+    "city": "Gusau",
+    "admin": "Zamfara",
+    "sort": "383162"
+  },
+  {
+    "city": "Umuahia",
+    "admin": "Abia",
+    "sort": "359230"
+  },
+  {
+    "city": "Lafia",
+    "admin": "Nasarawa",
+    "sort": "330712"
+  },
+  {
+    "city": "Minna",
+    "admin": "Niger",
+    "sort": "322163"
+  },
+  {
+    "city": "Katsina",
+    "admin": "Katsina",
+    "sort": "318459"
+  },
+  {
+    "city": "Awka",
+    "admin": "Anambra",
+    "sort": "301657"
+  },
+  {
+    "city": "Owo",
+    "admin": "Ondo",
+    "sort": "276574"
+  },
+  {
+    "city": "Gombe",
+    "admin": "Gombe",
+    "sort": "270366"
+  },
+  {
+    "city": "Ondo",
+    "admin": "Ondo",
+    "sort": "257005"
+  },
+  {
+    "city": "Damaturu",
+    "admin": "Yobe",
+    "sort": "255895"
+  },
+  {
+    "city": "Iwo",
+    "admin": "Osun",
+    "sort": "250443"
+  },
+  {
+    "city": "Sapele",
+    "admin": "Delta",
+    "sort": "242652"
+  },
+  {
+    "city": "Apapa",
+    "admin": "Lagos",
+    "sort": "217362"
+  },
+  {
+    "city": "Mubi",
+    "admin": "Adamawa",
+    "sort": "225705"
+  },
+  {
+    "city": "Ijebu-Ode",
+    "admin": "Ogun",
+    "sort": "209175"
+  },
+  {
+    "city": "Burutu",
+    "admin": "Delta",
+    "sort": "209666"
+  },
+  {
+    "city": "Mai’Adua",
+    "admin": "Katsina",
+    "sort": "201178"
+  },
+  {
+    "city": "Epe",
+    "admin": "Lagos",
+    "sort": "181409"
+  },
+  {
+    "city": "Funtua",
+    "admin": "Katsina",
+    "sort": "180475"
+  },
+  {
+    "city": "Bida",
+    "admin": "Niger",
+    "sort": "173849"
+  },
+  {
+    "city": "Makurdi",
+    "admin": "Benue",
+    "sort": "170925"
+  },
+  {
+    "city": "Zango",
+    "admin": "Katsina",
+    "sort": "154743"
+  },
+  {
+    "city": "Dutse",
+    "admin": "Jigawa",
+    "sort": "153000"
+  },
+  {
+    "city": "Gashua",
+    "admin": "Yobe",
+    "sort": "125817"
+  },
+  {
+    "city": "Bama",
+    "admin": "Borno",
+    "sort": "118121"
+  },
+  {
+    "city": "Nsukka",
+    "admin": "Enugu",
+    "sort": "111017"
+  },
+  {
+    "city": "Nguru",
+    "admin": "Yobe",
+    "sort": "111014"
+  },
+  {
+    "city": "Birnin Kebbi",
+    "admin": "Kebbi",
+    "sort": "108164"
+  },
+  {
+    "city": "Azare",
+    "admin": "Bauchi",
+    "sort": "105687"
+  },
+  {
+    "city": "Lokoja",
+    "admin": "Kogi",
+    "sort": "60579"
+  },
+  {
+    "city": "Asaba",
+    "admin": "Delta",
+    "sort": ""
+  },
+  {
+    "city": "Yenagoa",
+    "admin": "Bayelsa",
+    "sort": ""
+  },
+  {
+    "city": "Abakaliki",
+    "admin": "Ebonyi",
+    "sort": ""
+  },
+  {
+    "city": "Kontagora",
+    "admin": "Niger",
+    "sort": "98754"
+  },
+  {
+    "city": "Iseyin",
+    "admin": "Oyo",
+    "sort": "98071"
+  },
+  {
+    "city": "Biu",
+    "admin": "Borno",
+    "sort": "95005"
+  },
+  {
+    "city": "Wukari",
+    "admin": "Taraba",
+    "sort": "92933"
+  },
+  {
+    "city": "Keffi",
+    "admin": "Nasarawa",
+    "sort": "85911"
+  },
+  {
+    "city": "Potiskum",
+    "admin": "Yobe",
+    "sort": "86002"
+  },
+  {
+    "city": "Idah",
+    "admin": "Kogi",
+    "sort": "79815"
+  },
+  {
+    "city": "Numan",
+    "admin": "Adamawa",
+    "sort": "77617"
+  },
+  {
+    "city": "Otukpo",
+    "admin": "Benue",
+    "sort": "68220"
+  },
+  {
+    "city": "Kumo",
+    "admin": "Gombe",
+    "sort": "35712"
+  },
+  {
+    "city": "Ikot Abasi",
+    "admin": "Akwa Ibom",
+    "sort": "34911"
+  },
+  {
+    "city": "Koko",
+    "admin": "Kebbi",
+    "sort": "25792"
+  },
+  {
+    "city": "Orlu",
+    "admin": "Imo",
+    "sort": "9351"
+  }
+]

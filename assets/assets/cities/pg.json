@@ -1,0 +1,142 @@
+[
+  {
+    "city": "Port Moresby",
+    "admin": "National Capital",
+    "sort": "317374"
+  },
+  {
+    "city": "Lae",
+    "admin": "Morobe",
+    "sort": "100677"
+  },
+  {
+    "city": "Madang",
+    "admin": "Madang",
+    "sort": "62023"
+  },
+  {
+    "city": "Mount Hagen",
+    "admin": "Western Highlands",
+    "sort": "29765"
+  },
+  {
+    "city": "Popondetta",
+    "admin": "Northern",
+    "sort": "28198"
+  },
+  {
+    "city": "Mendi",
+    "admin": "Southern Highlands",
+    "sort": "26252"
+  },
+  {
+    "city": "Wewak",
+    "admin": "East Sepik",
+    "sort": "25143"
+  },
+  {
+    "city": "Goroka",
+    "admin": "Eastern Highlands",
+    "sort": "21507"
+  },
+  {
+    "city": "Kavieng",
+    "admin": "New Ireland",
+    "sort": "19849"
+  },
+  {
+    "city": "Kimbe",
+    "admin": "West New Britain",
+    "sort": "18847"
+  },
+  {
+    "city": "Daru",
+    "admin": "Western",
+    "sort": "12879"
+  },
+  {
+    "city": "Alotau",
+    "admin": "Milne Bay",
+    "sort": "11624"
+  },
+  {
+    "city": "Vanimo",
+    "admin": "West Sepik",
+    "sort": "11204"
+  },
+  {
+    "city": "Kundiawa",
+    "admin": "Chimbu",
+    "sort": "9383"
+  },
+  {
+    "city": "Lorengau",
+    "admin": "Manus",
+    "sort": "5806"
+  },
+  {
+    "city": "Kerema",
+    "admin": "Gulf",
+    "sort": "5646"
+  },
+  {
+    "city": "Wabag",
+    "admin": "Enga",
+    "sort": "3958"
+  },
+  {
+    "city": "Kokopo",
+    "admin": "East New Britain",
+    "sort": ""
+  },
+  {
+    "city": "Kurumul",
+    "admin": "Jiwaka",
+    "sort": ""
+  },
+  {
+    "city": "Tari",
+    "admin": "Hela",
+    "sort": ""
+  },
+  {
+    "city": "Buka",
+    "admin": "Bougainville",
+    "sort": ""
+  },
+  {
+    "city": "Arawa",
+    "admin": "Bougainville",
+    "sort": "40266"
+  },
+  {
+    "city": "Kiunga",
+    "admin": "Western",
+    "sort": "8265"
+  },
+  {
+    "city": "Rabaul",
+    "admin": "East New Britain",
+    "sort": "7024"
+  },
+  {
+    "city": "Kieta",
+    "admin": "Bougainville",
+    "sort": "6958"
+  },
+  {
+    "city": "Sohano",
+    "admin": "Bougainville",
+    "sort": "2338"
+  },
+  {
+    "city": "Hoskins",
+    "admin": "West New Britain",
+    "sort": "871"
+  },
+  {
+    "city": "Amau",
+    "admin": "Central",
+    "sort": "230"
+  }
+]

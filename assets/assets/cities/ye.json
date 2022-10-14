@@ -1,0 +1,212 @@
+[
+  {
+    "city": "Sanaa",
+    "admin": "Amānat al ‘Āşimah",
+    "sort": "2957000"
+  },
+  {
+    "city": "Ta‘izz",
+    "admin": "Ta‘izz",
+    "sort": "615467"
+  },
+  {
+    "city": "Al Ḩudaydah",
+    "admin": "Al Ḩudaydah",
+    "sort": "548433"
+  },
+  {
+    "city": "Aden",
+    "admin": "‘Adan",
+    "sort": "507355"
+  },
+  {
+    "city": "Ibb",
+    "admin": "Ibb",
+    "sort": "350864"
+  },
+  {
+    "city": "Ibb",
+    "admin": "Ibb",
+    "sort": "234837"
+  },
+  {
+    "city": "Dhamār",
+    "admin": "Dhamār",
+    "sort": "160114"
+  },
+  {
+    "city": "Al Mukallā",
+    "admin": "Ḩaḑramawt",
+    "sort": "144137"
+  },
+  {
+    "city": "Ash Shaykh ‘Uthmān",
+    "admin": "‘Adan",
+    "sort": "105248"
+  },
+  {
+    "city": "Tarīm",
+    "admin": "Ḩaḑramawt",
+    "sort": "105552"
+  },
+  {
+    "city": "Şa‘dah",
+    "admin": "Şa‘dah",
+    "sort": "70203"
+  },
+  {
+    "city": "Zinjibār",
+    "admin": "Abyan",
+    "sort": "70801"
+  },
+  {
+    "city": "Ḩajjah",
+    "admin": "Ḩajjah",
+    "sort": "46568"
+  },
+  {
+    "city": "Al Bayḑā’",
+    "admin": "Al Bayḑā’",
+    "sort": "37821"
+  },
+  {
+    "city": "‘Ataq",
+    "admin": "Shabwah",
+    "sort": "37315"
+  },
+  {
+    "city": "Laḩij",
+    "admin": "Laḩij",
+    "sort": "30661"
+  },
+  {
+    "city": "Al Ghayz̧ah",
+    "admin": "Al Mahrah",
+    "sort": "27404"
+  },
+  {
+    "city": "Ma’rib",
+    "admin": "Ma’rib",
+    "sort": "16794"
+  },
+  {
+    "city": "Ḩadībū",
+    "admin": "Arkhabīl Suquţrá",
+    "sort": "11396"
+  },
+  {
+    "city": "Al Maḩwīt",
+    "admin": "Al Maḩwīt",
+    "sort": "10593"
+  },
+  {
+    "city": "‘Amrān",
+    "admin": "‘Amrān",
+    "sort": ""
+  },
+  {
+    "city": "Aḑ Ḑāli‘",
+    "admin": "Aḑ Ḑāli‘",
+    "sort": ""
+  },
+  {
+    "city": "Al Jabīn",
+    "admin": "Raymah",
+    "sort": ""
+  },
+  {
+    "city": "Al Ḩazm",
+    "admin": "Al Jawf",
+    "sort": ""
+  },
+  {
+    "city": "Say’ūn",
+    "admin": "Ḩaḑramawt",
+    "sort": "68747"
+  },
+  {
+    "city": "Ash Shiḩr",
+    "admin": "Ḩaḑramawt",
+    "sort": "68313"
+  },
+  {
+    "city": "Zabīd",
+    "admin": "Al Ḩudaydah",
+    "sort": "50781"
+  },
+  {
+    "city": "Bājil",
+    "admin": "Al Ḩudaydah",
+    "sort": "46005"
+  },
+  {
+    "city": "Radā‘",
+    "admin": "Al Bayḑā’",
+    "sort": "45233"
+  },
+  {
+    "city": "Bayt al Faqīh",
+    "admin": "Al Ḩudaydah",
+    "sort": "41652"
+  },
+  {
+    "city": "Al Qā‘idah",
+    "admin": "Ibb",
+    "sort": "39254"
+  },
+  {
+    "city": "Yarīm",
+    "admin": "Ibb",
+    "sort": "34805"
+  },
+  {
+    "city": "Ja‘ār",
+    "admin": "Abyan",
+    "sort": "29495"
+  },
+  {
+    "city": "Ma‘bar",
+    "admin": "Dhamār",
+    "sort": "24707"
+  },
+  {
+    "city": "Jiblah",
+    "admin": "Ibb",
+    "sort": "15431"
+  },
+  {
+    "city": "Ad Dīs",
+    "admin": "Ḩaḑramawt",
+    "sort": "16614"
+  },
+  {
+    "city": "Khamir",
+    "admin": "‘Amrān",
+    "sort": "15333"
+  },
+  {
+    "city": "Mocha",
+    "admin": "Ta‘izz",
+    "sort": "14562"
+  },
+  {
+    "city": "Raydah",
+    "admin": "‘Amrān",
+    "sort": "13971"
+  },
+  {
+    "city": "Shibām",
+    "admin": "Ḩaḑramawt",
+    "sort": "13316"
+  },
+  {
+    "city": "Ar Rawḑah",
+    "admin": "Shabwah",
+    "sort": "6649"
+  },
+  {
+    "city": "Ḑawrān ad Daydah",
+    "admin": "Dhamār",
+    "sort": "5695"
+  }
+]

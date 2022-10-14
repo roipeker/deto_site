@@ -1,0 +1,112 @@
+[
+  {
+    "city": "Pikine",
+    "admin": "Dakar",
+    "sort": "1170791"
+  },
+  {
+    "city": "Dakar",
+    "admin": "Dakar",
+    "sort": "1146053"
+  },
+  {
+    "city": "Touba",
+    "admin": "Diourbel",
+    "sort": "529176"
+  },
+  {
+    "city": "Thiès",
+    "admin": "Thiès",
+    "sort": "293001"
+  },
+  {
+    "city": "Rufisque",
+    "admin": "Dakar",
+    "sort": "221066"
+  },
+  {
+    "city": "Ziguinchor",
+    "admin": "Ziguinchor",
+    "sort": "205294"
+  },
+  {
+    "city": "Saint-Louis",
+    "admin": "Saint-Louis",
+    "sort": "176000"
+  },
+  {
+    "city": "Kaolack",
+    "admin": "Kaolack",
+    "sort": "172305"
+  },
+  {
+    "city": "Diourbel",
+    "admin": "Diourbel",
+    "sort": "100445"
+  },
+  {
+    "city": "Louga",
+    "admin": "Louga",
+    "sort": "85075"
+  },
+  {
+    "city": "Tambacounda",
+    "admin": "Tambacounda",
+    "sort": "78800"
+  },
+  {
+    "city": "Kolda",
+    "admin": "Kolda",
+    "sort": "62258"
+  },
+  {
+    "city": "Fatick",
+    "admin": "Fatick",
+    "sort": "24243"
+  },
+  {
+    "city": "Kédougou",
+    "admin": "Kédougou",
+    "sort": "18226"
+  },
+  {
+    "city": "Kaffrine",
+    "admin": "Kaffrine",
+    "sort": ""
+  },
+  {
+    "city": "Sédhiou",
+    "admin": "Sédhiou",
+    "sort": ""
+  },
+  {
+    "city": "Matam",
+    "admin": "Matam",
+    "sort": ""
+  },
+  {
+    "city": "Bignona",
+    "admin": "Ziguinchor",
+    "sort": "27826"
+  },
+  {
+    "city": "Kobilo",
+    "admin": "Matam",
+    "sort": "21656"
+  },
+  {
+    "city": "Linguère",
+    "admin": "Louga",
+    "sort": "15482"
+  },
+  {
+    "city": "Kanel",
+    "admin": "Matam",
+    "sort": "12975"
+  },
+  {
+    "city": "Dodji",
+    "admin": "Louga",
+    "sort": "8281"
+  }
+]

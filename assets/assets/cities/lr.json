@@ -1,0 +1,87 @@
+[
+  {
+    "city": "Monrovia",
+    "admin": "Montserrado",
+    "sort": "1021762"
+  },
+  {
+    "city": "Gbarnga",
+    "admin": "Bong",
+    "sort": "45835"
+  },
+  {
+    "city": "Kakata",
+    "admin": "Margibi",
+    "sort": "33945"
+  },
+  {
+    "city": "Harper",
+    "admin": "Maryland",
+    "sort": "32661"
+  },
+  {
+    "city": "Voinjama",
+    "admin": "Lofa",
+    "sort": "26594"
+  },
+  {
+    "city": "Zwedru",
+    "admin": "Grand Gedeh",
+    "sort": "25678"
+  },
+  {
+    "city": "Robertsport",
+    "admin": "Grand Cape Mount",
+    "sort": "11969"
+  },
+  {
+    "city": "Sanniquellie",
+    "admin": "Nimba",
+    "sort": "11415"
+  },
+  {
+    "city": "Greenville",
+    "admin": "Sinoe",
+    "sort": "10374"
+  },
+  {
+    "city": "Bensonville",
+    "admin": "Montserrado",
+    "sort": "4089"
+  },
+  {
+    "city": "Barclayville",
+    "admin": "Grand Kru",
+    "sort": "2733"
+  },
+  {
+    "city": "Cestos City",
+    "admin": "River Cess",
+    "sort": "2578"
+  },
+  {
+    "city": "Buchanan",
+    "admin": "Grand Bassa",
+    "sort": ""
+  },
+  {
+    "city": "Tubmanburg",
+    "admin": "Bomi",
+    "sort": ""
+  },
+  {
+    "city": "Fish Town",
+    "admin": "River Gee",
+    "sort": ""
+  },
+  {
+    "city": "Bopolu",
+    "admin": "Gbarpolu",
+    "sort": ""
+  },
+  {
+    "city": "Upper Buchanan",
+    "admin": "Grand Bassa",
+    "sort": "48315"
+  }
+]

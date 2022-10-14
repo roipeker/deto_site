@@ -1,0 +1,7727 @@
+[
+  {
+    "city": "Shanghai",
+    "admin": "Shanghai",
+    "sort": "22118000"
+  },
+  {
+    "city": "Guangzhou",
+    "admin": "Guangdong",
+    "sort": "21489000"
+  },
+  {
+    "city": "Beijing",
+    "admin": "Beijing",
+    "sort": "19437000"
+  },
+  {
+    "city": "Shenzhen",
+    "admin": "Guangdong",
+    "sort": "14678000"
+  },
+  {
+    "city": "Chengdu",
+    "admin": "Sichuan",
+    "sort": "11920000"
+  },
+  {
+    "city": "Baoding",
+    "admin": "Hebei",
+    "sort": "11860000"
+  },
+  {
+    "city": "Tianjin",
+    "admin": "Tianjin",
+    "sort": "10932000"
+  },
+  {
+    "city": "Linyi",
+    "admin": "Shandong",
+    "sort": "10820000"
+  },
+  {
+    "city": "Shijiazhuang",
+    "admin": "Hebei",
+    "sort": "10784600"
+  },
+  {
+    "city": "Zhengzhou",
+    "admin": "Henan",
+    "sort": "10136000"
+  },
+  {
+    "city": "Nanyang",
+    "admin": "Henan",
+    "sort": "10013600"
+  },
+  {
+    "city": "Wuhan",
+    "admin": "Hubei",
+    "sort": "9729000"
+  },
+  {
+    "city": "Handan",
+    "admin": "Hebei",
+    "sort": "9549700"
+  },
+  {
+    "city": "Weifang",
+    "admin": "Shandong",
+    "sort": "9373000"
+  },
+  {
+    "city": "Zhoukou",
+    "admin": "Henan",
+    "sort": "8953172"
+  },
+  {
+    "city": "Ganzhou",
+    "admin": "Jiangxi",
+    "sort": "8677600"
+  },
+  {
+    "city": "Tongshan",
+    "admin": "Jiangsu",
+    "sort": "8669000"
+  },
+  {
+    "city": "Heze",
+    "admin": "Shandong",
+    "sort": "8287693"
+  },
+  {
+    "city": "Chongqing",
+    "admin": "Chongqing",
+    "sort": "8261000"
+  },
+  {
+    "city": "Fuyang",
+    "admin": "Anhui",
+    "sort": "8200264"
+  },
+  {
+    "city": "Changsha",
+    "admin": "Hunan",
+    "sort": "8154700"
+  },
+  {
+    "city": "Dongguan",
+    "admin": "Guangdong",
+    "sort": "8142000"
+  },
+  {
+    "city": "Jining",
+    "admin": "Shandong",
+    "sort": "8081905"
+  },
+  {
+    "city": "Jinan",
+    "admin": "Shandong",
+    "sort": "7967400"
+  },
+  {
+    "city": "Foshan",
+    "admin": "Guangdong",
+    "sort": "7905700"
+  },
+  {
+    "city": "Nanjing",
+    "admin": "Jiangsu",
+    "sort": "7729000"
+  },
+  {
+    "city": "Changchun",
+    "admin": "Jilin",
+    "sort": "7674439"
+  },
+  {
+    "city": "Tangshan",
+    "admin": "Hebei",
+    "sort": "7577289"
+  },
+  {
+    "city": "Cangzhou",
+    "admin": "Hebei",
+    "sort": "7544300"
+  },
+  {
+    "city": "Hefei",
+    "admin": "Anhui",
+    "sort": "7457027"
+  },
+  {
+    "city": "Shaoyang",
+    "admin": "Hunan",
+    "sort": "7370500"
+  },
+  {
+    "city": "Zhanjiang",
+    "admin": "Guangdong",
+    "sort": "7332000"
+  },
+  {
+    "city": "Shangqiu",
+    "admin": "Henan",
+    "sort": "7325300"
+  },
+  {
+    "city": "Nantong",
+    "admin": "Jiangsu",
+    "sort": "7283622"
+  },
+  {
+    "city": "Yancheng",
+    "admin": "Jiangsu",
+    "sort": "7260240"
+  },
+  {
+    "city": "Nanning",
+    "admin": "Guangxi",
+    "sort": "7254100"
+  },
+  {
+    "city": "Hengyang",
+    "admin": "Hunan",
+    "sort": "7243400"
+  },
+  {
+    "city": "Zhumadian",
+    "admin": "Henan",
+    "sort": "7231234"
+  },
+  {
+    "city": "Shenyang",
+    "admin": "Liaoning",
+    "sort": "7208000"
+  },
+  {
+    "city": "Xingtai",
+    "admin": "Hebei",
+    "sort": "7104103"
+  },
+  {
+    "city": "Xi’an",
+    "admin": "Shaanxi",
+    "sort": "7090000"
+  },
+  {
+    "city": "Yantai",
+    "admin": "Shandong",
+    "sort": "6968202"
+  },
+  {
+    "city": "Luoyang",
+    "admin": "Henan",
+    "sort": "6888500"
+  },
+  {
+    "city": "Kunming",
+    "admin": "Yunnan",
+    "sort": "6850000"
+  },
+  {
+    "city": "Shangrao",
+    "admin": "Jiangxi",
+    "sort": "6810700"
+  },
+  {
+    "city": "Hangzhou",
+    "admin": "Zhejiang",
+    "sort": "6713000"
+  },
+  {
+    "city": "Bijie",
+    "admin": "Guizhou",
+    "sort": "6686100"
+  },
+  {
+    "city": "Quanzhou",
+    "admin": "Fujian",
+    "sort": "6480000"
+  },
+  {
+    "city": "Wuxi",
+    "admin": "Jiangsu",
+    "sort": "6372624"
+  },
+  {
+    "city": "Huanggang",
+    "admin": "Hubei",
+    "sort": "6333000"
+  },
+  {
+    "city": "Maoming",
+    "admin": "Guangdong",
+    "sort": "6313200"
+  },
+  {
+    "city": "Nanchong",
+    "admin": "Sichuan",
+    "sort": "6278614"
+  },
+  {
+    "city": "Zunyi",
+    "admin": "Guizhou",
+    "sort": "6270700"
+  },
+  {
+    "city": "Qujing",
+    "admin": "Yunnan",
+    "sort": "6155400"
+  },
+  {
+    "city": "Xinyang",
+    "admin": "Henan",
+    "sort": "6109106"
+  },
+  {
+    "city": "Jieyang",
+    "admin": "Guangdong",
+    "sort": "6089400"
+  },
+  {
+    "city": "Yulin",
+    "admin": "Guangxi",
+    "sort": "5849700"
+  },
+  {
+    "city": "Changde",
+    "admin": "Hunan",
+    "sort": "5827200"
+  },
+  {
+    "city": "Liaocheng",
+    "admin": "Shandong",
+    "sort": "5789863"
+  },
+  {
+    "city": "Qingdao",
+    "admin": "Shandong",
+    "sort": "5775000"
+  },
+  {
+    "city": "Nangandao",
+    "admin": "Henan",
+    "sort": "5708191"
+  },
+  {
+    "city": "Xiangyang",
+    "admin": "Hubei",
+    "sort": "5680000"
+  },
+  {
+    "city": "Lu’an",
+    "admin": "Anhui",
+    "sort": "5611701"
+  },
+  {
+    "city": "Zhaotong",
+    "admin": "Yunnan",
+    "sort": "5591000"
+  },
+  {
+    "city": "Yichun",
+    "admin": "Jiangxi",
+    "sort": "5573200"
+  },
+  {
+    "city": "Dezhou",
+    "admin": "Shandong",
+    "sort": "5568235"
+  },
+  {
+    "city": "Nanchang",
+    "admin": "Jiangxi",
+    "sort": "5545500"
+  },
+  {
+    "city": "Tai’an",
+    "admin": "Shandong",
+    "sort": "5494207"
+  },
+  {
+    "city": "Dazhou",
+    "admin": "Sichuan",
+    "sort": "5468097"
+  },
+  {
+    "city": "Yongzhou",
+    "admin": "Hunan",
+    "sort": "5452100"
+  },
+  {
+    "city": "Suihua",
+    "admin": "Heilongjiang",
+    "sort": "5418153"
+  },
+  {
+    "city": "Qiqihar",
+    "admin": "Heilongjiang",
+    "sort": "5367003"
+  },
+  {
+    "city": "Suzhou",
+    "admin": "Anhui",
+    "sort": "5352924"
+  },
+  {
+    "city": "Shantou",
+    "admin": "Guangdong",
+    "sort": "5319028"
+  },
+  {
+    "city": "Weinan",
+    "admin": "Shaanxi",
+    "sort": "5286077"
+  },
+  {
+    "city": "Changzhou",
+    "admin": "Jiangsu",
+    "sort": "5278121"
+  },
+  {
+    "city": "Fuzhou",
+    "admin": "Fujian",
+    "sort": "5245000"
+  },
+  {
+    "city": "Pudong",
+    "admin": "Shanghai",
+    "sort": "5187200"
+  },
+  {
+    "city": "Zhangzhou",
+    "admin": "Fujian",
+    "sort": "5140000"
+  },
+  {
+    "city": "Yuncheng",
+    "admin": "Shanxi",
+    "sort": "5134779"
+  },
+  {
+    "city": "Suzhou",
+    "admin": "Jiangsu",
+    "sort": "5103000"
+  },
+  {
+    "city": "Xianyang",
+    "admin": "Shaanxi",
+    "sort": "5096001"
+  },
+  {
+    "city": "Guilin",
+    "admin": "Guangxi",
+    "sort": "5085500"
+  },
+  {
+    "city": "Taizhou",
+    "admin": "Jiangsu",
+    "sort": "5031000"
+  },
+  {
+    "city": "Huaihua",
+    "admin": "Hunan",
+    "sort": "4979600"
+  },
+  {
+    "city": "Ji’an",
+    "admin": "Jiangxi",
+    "sort": "4956600"
+  },
+  {
+    "city": "Xiaoganzhan",
+    "admin": "Hubei",
+    "sort": "4921000"
+  },
+  {
+    "city": "Pingdingshan",
+    "admin": "Henan",
+    "sort": "4904701"
+  },
+  {
+    "city": "Jiujiang",
+    "admin": "Jiangxi",
+    "sort": "4896800"
+  },
+  {
+    "city": "Guiyang",
+    "admin": "Guizhou",
+    "sort": "4881900"
+  },
+  {
+    "city": "Bozhou",
+    "admin": "Anhui",
+    "sort": "4850657"
+  },
+  {
+    "city": "Huizhou",
+    "admin": "Guangdong",
+    "sort": "4830000"
+  },
+  {
+    "city": "Huai’an",
+    "admin": "Jiangsu",
+    "sort": "4799889"
+  },
+  {
+    "city": "Chenzhou",
+    "admin": "Hunan",
+    "sort": "4744500"
+  },
+  {
+    "city": "Anqing",
+    "admin": "Anhui",
+    "sort": "4723000"
+  },
+  {
+    "city": "Suqian",
+    "admin": "Jiangsu",
+    "sort": "4719178"
+  },
+  {
+    "city": "Jiangmen",
+    "admin": "Guangdong",
+    "sort": "4630300"
+  },
+  {
+    "city": "Mianyang",
+    "admin": "Sichuan",
+    "sort": "4613862"
+  },
+  {
+    "city": "Harbin",
+    "admin": "Heilongjiang",
+    "sort": "4583000"
+  },
+  {
+    "city": "Huanglongsi",
+    "admin": "Henan",
+    "sort": "4564900"
+  },
+  {
+    "city": "Zibo",
+    "admin": "Shandong",
+    "sort": "4530597"
+  },
+  {
+    "city": "Dalian",
+    "admin": "Liaoning",
+    "sort": "4480000"
+  },
+  {
+    "city": "Hengshui",
+    "admin": "Hebei",
+    "sort": "4472000"
+  },
+  {
+    "city": "Yibin",
+    "admin": "Sichuan",
+    "sort": "4471896"
+  },
+  {
+    "city": "Yangzhou",
+    "admin": "Jiangsu",
+    "sort": "4459760"
+  },
+  {
+    "city": "Yiyang",
+    "admin": "Hunan",
+    "sort": "4413800"
+  },
+  {
+    "city": "Guigang",
+    "admin": "Guangxi",
+    "sort": "4409200"
+  },
+  {
+    "city": "Xinpu",
+    "admin": "Jiangsu",
+    "sort": "4393482"
+  },
+  {
+    "city": "Meizhou",
+    "admin": "Guangdong",
+    "sort": "4378800"
+  },
+  {
+    "city": "Langfang",
+    "admin": "Hebei",
+    "sort": "4358839"
+  },
+  {
+    "city": "Zhangjiakou",
+    "admin": "Hebei",
+    "sort": "4345485"
+  },
+  {
+    "city": "Chifeng",
+    "admin": "Inner Mongolia",
+    "sort": "4341245"
+  },
+  {
+    "city": "Linfen",
+    "admin": "Shanxi",
+    "sort": "4316610"
+  },
+  {
+    "city": "Jiangguanchi",
+    "admin": "Henan",
+    "sort": "4307488"
+  },
+  {
+    "city": "Luzhou",
+    "admin": "Sichuan",
+    "sort": "4218427"
+  },
+  {
+    "city": "Taiyuan",
+    "admin": "Shanxi",
+    "sort": "4201592"
+  },
+  {
+    "city": "Zhaoqing",
+    "admin": "Guangdong",
+    "sort": "4151700"
+  },
+  {
+    "city": "Xiaoxita",
+    "admin": "Hubei",
+    "sort": "4137900"
+  },
+  {
+    "city": "Xiamen",
+    "admin": "Fujian",
+    "sort": "4110000"
+  },
+  {
+    "city": "Fuzhou",
+    "admin": "Jiangxi",
+    "sort": "4047200"
+  },
+  {
+    "city": "Liuzhou",
+    "admin": "Guangxi",
+    "sort": "4041700"
+  },
+  {
+    "city": "Zhuzhou",
+    "admin": "Hunan",
+    "sort": "4020800"
+  },
+  {
+    "city": "Chuzhou",
+    "admin": "Anhui",
+    "sort": "3937868"
+  },
+  {
+    "city": "Loudi",
+    "admin": "Hunan",
+    "sort": "3931800"
+  },
+  {
+    "city": "Deyang",
+    "admin": "Sichuan",
+    "sort": "3877000"
+  },
+  {
+    "city": "Qingyuan",
+    "admin": "Guangdong",
+    "sort": "3874000"
+  },
+  {
+    "city": "Wuhu",
+    "admin": "Anhui",
+    "sort": "3842100"
+  },
+  {
+    "city": "Binzhou",
+    "admin": "Shandong",
+    "sort": "3748474"
+  },
+  {
+    "city": "Baojishi",
+    "admin": "Shaanxi",
+    "sort": "3738700"
+  },
+  {
+    "city": "Zaozhuang",
+    "admin": "Shandong",
+    "sort": "3729140"
+  },
+  {
+    "city": "Neijiang",
+    "admin": "Sichuan",
+    "sort": "3702847"
+  },
+  {
+    "city": "Baicheng",
+    "admin": "Guangxi",
+    "sort": "3669400"
+  },
+  {
+    "city": "Anshan",
+    "admin": "Liaoning",
+    "sort": "3645884"
+  },
+  {
+    "city": "Lanzhou",
+    "admin": "Gansu",
+    "sort": "3616163"
+  },
+  {
+    "city": "Puyang",
+    "admin": "Henan",
+    "sort": "3598740"
+  },
+  {
+    "city": "Jiaozuo",
+    "admin": "Henan",
+    "sort": "3590700"
+  },
+  {
+    "city": "Hechi",
+    "admin": "Guangxi",
+    "sort": "3545700"
+  },
+  {
+    "city": "Chengde",
+    "admin": "Hebei",
+    "sort": "3473201"
+  },
+  {
+    "city": "Hanzhong",
+    "admin": "Shaanxi",
+    "sort": "3416196"
+  },
+  {
+    "city": "Shiyan",
+    "admin": "Hubei",
+    "sort": "3398000"
+  },
+  {
+    "city": "Siping",
+    "admin": "Jilin",
+    "sort": "3385156"
+  },
+  {
+    "city": "Yulinshi",
+    "admin": "Shaanxi",
+    "sort": "3351436"
+  },
+  {
+    "city": "Changzhi",
+    "admin": "Shanxi",
+    "sort": "3334565"
+  },
+  {
+    "city": "Qinzhou",
+    "admin": "Guangxi",
+    "sort": "3304400"
+  },
+  {
+    "city": "Bazhou",
+    "admin": "Sichuan",
+    "sort": "3283148"
+  },
+  {
+    "city": "Qincheng",
+    "admin": "Gansu",
+    "sort": "3262549"
+  },
+  {
+    "city": "Zhongshan",
+    "admin": "Guangdong",
+    "sort": "3260000"
+  },
+  {
+    "city": "Suining",
+    "admin": "Sichuan",
+    "sort": "3252619"
+  },
+  {
+    "city": "Leshan",
+    "admin": "Sichuan",
+    "sort": "3235759"
+  },
+  {
+    "city": "Guang’an",
+    "admin": "Sichuan",
+    "sort": "3205476"
+  },
+  {
+    "city": "Tongren",
+    "admin": "Guizhou",
+    "sort": "3168800"
+  },
+  {
+    "city": "Bengbu",
+    "admin": "Anhui",
+    "sort": "3164467"
+  },
+  {
+    "city": "Qinhuangdao",
+    "admin": "Hebei",
+    "sort": "3146300"
+  },
+  {
+    "city": "Tongliao",
+    "admin": "Inner Mongolia",
+    "sort": "3139153"
+  },
+  {
+    "city": "Jinzhou",
+    "admin": "Liaoning",
+    "sort": "3126463"
+  },
+  {
+    "city": "Zhenjiang",
+    "admin": "Jiangsu",
+    "sort": "3113384"
+  },
+  {
+    "city": "Ürümqi",
+    "admin": "Xinjiang",
+    "sort": "3112559"
+  },
+  {
+    "city": "Heyuan",
+    "admin": "Guangdong",
+    "sort": "3093900"
+  },
+  {
+    "city": "Xinzhou",
+    "admin": "Shanxi",
+    "sort": "3067501"
+  },
+  {
+    "city": "Wuzhou",
+    "admin": "Guangxi",
+    "sort": "3061100"
+  },
+  {
+    "city": "Chaoyang",
+    "admin": "Liaoning",
+    "sort": "3044641"
+  },
+  {
+    "city": "Shaoguan",
+    "admin": "Guangdong",
+    "sort": "2997600"
+  },
+  {
+    "city": "Shanwei",
+    "admin": "Guangdong",
+    "sort": "2993600"
+  },
+  {
+    "city": "Meishan",
+    "admin": "Sichuan",
+    "sort": "2950545"
+  },
+  {
+    "city": "Ningde",
+    "admin": "Fujian",
+    "sort": "2910000"
+  },
+  {
+    "city": "Daqing",
+    "admin": "Heilongjiang",
+    "sort": "2904532"
+  },
+  {
+    "city": "Putian",
+    "admin": "Fujian",
+    "sort": "2900000"
+  },
+  {
+    "city": "Hohhot",
+    "admin": "Inner Mongolia",
+    "sort": "2866615"
+  },
+  {
+    "city": "Xiangtan",
+    "admin": "Hunan",
+    "sort": "2864800"
+  },
+  {
+    "city": "Weihai",
+    "admin": "Shandong",
+    "sort": "2804771"
+  },
+  {
+    "city": "Rizhao",
+    "admin": "Shandong",
+    "sort": "2801013"
+  },
+  {
+    "city": "Mudanjiang",
+    "admin": "Heilongjiang",
+    "sort": "2798723"
+  },
+  {
+    "city": "Tieling",
+    "admin": "Liaoning",
+    "sort": "2717732"
+  },
+  {
+    "city": "Dingxi",
+    "admin": "Gansu",
+    "sort": "2698624"
+  },
+  {
+    "city": "Nanping",
+    "admin": "Fujian",
+    "sort": "2690000"
+  },
+  {
+    "city": "Zigong",
+    "admin": "Sichuan",
+    "sort": "2678899"
+  },
+  {
+    "city": "Chaozhou",
+    "admin": "Guangdong",
+    "sort": "2656600"
+  },
+  {
+    "city": "Baotou",
+    "admin": "Inner Mongolia",
+    "sort": "2650364"
+  },
+  {
+    "city": "Gulou",
+    "admin": "Fujian",
+    "sort": "2606000"
+  },
+  {
+    "city": "Longyan",
+    "admin": "Fujian",
+    "sort": "2640000"
+  },
+  {
+    "city": "Ankang",
+    "admin": "Shaanxi",
+    "sort": "2629906"
+  },
+  {
+    "city": "Baoshan",
+    "admin": "Yunnan",
+    "sort": "2627000"
+  },
+  {
+    "city": "Huludao",
+    "admin": "Liaoning",
+    "sort": "2623541"
+  },
+  {
+    "city": "Yanjiang",
+    "admin": "Sichuan",
+    "sort": "2593843"
+  },
+  {
+    "city": "Sanming",
+    "admin": "Fujian",
+    "sort": "2580000"
+  },
+  {
+    "city": "Longba",
+    "admin": "Gansu",
+    "sort": "2567718"
+  },
+  {
+    "city": "Yangjiang",
+    "admin": "Guangdong",
+    "sort": "2555600"
+  },
+  {
+    "city": "Jiamusi",
+    "admin": "Heilongjiang",
+    "sort": "2552097"
+  },
+  {
+    "city": "Luohe",
+    "admin": "Henan",
+    "sort": "2544266"
+  },
+  {
+    "city": "Lincang",
+    "admin": "Yunnan",
+    "sort": "2536000"
+  },
+  {
+    "city": "Xuanzhou",
+    "admin": "Anhui",
+    "sort": "2532938"
+  },
+  {
+    "city": "Yunfu",
+    "admin": "Guangdong",
+    "sort": "2526900"
+  },
+  {
+    "city": "Guangyuan",
+    "admin": "Sichuan",
+    "sort": "2484122"
+  },
+  {
+    "city": "Huangshi",
+    "admin": "Hubei",
+    "sort": "2471700"
+  },
+  {
+    "city": "Jilin",
+    "admin": "Jilin",
+    "sort": "2396000"
+  },
+  {
+    "city": "Dandong",
+    "admin": "Liaoning",
+    "sort": "2444697"
+  },
+  {
+    "city": "Lianshan",
+    "admin": "Liaoning",
+    "sort": "2426000"
+  },
+  {
+    "city": "Yingkou",
+    "admin": "Liaoning",
+    "sort": "2428534"
+  },
+  {
+    "city": "Yuxi",
+    "admin": "Yunnan",
+    "sort": "2386000"
+  },
+  {
+    "city": "Anshun",
+    "admin": "Guizhou",
+    "sort": "2353100"
+  },
+  {
+    "city": "Shangzhou",
+    "admin": "Shaanxi",
+    "sort": "2341742"
+  },
+  {
+    "city": "Huainan",
+    "admin": "Anhui",
+    "sort": "2333896"
+  },
+  {
+    "city": "Kuaidamao",
+    "admin": "Jilin",
+    "sort": "2324439"
+  },
+  {
+    "city": "Jincheng",
+    "admin": "Shanxi",
+    "sort": "2279146"
+  },
+  {
+    "city": "Sanmenxia",
+    "admin": "Henan",
+    "sort": "2234018"
+  },
+  {
+    "city": "Laibin",
+    "admin": "Guangxi",
+    "sort": "2233900"
+  },
+  {
+    "city": "Qinbaling",
+    "admin": "Gansu",
+    "sort": "2211191"
+  },
+  {
+    "city": "Xining",
+    "admin": "Qinghai",
+    "sort": "2208708"
+  },
+  {
+    "city": "Ma’anshan",
+    "admin": "Anhui",
+    "sort": "2202899"
+  },
+  {
+    "city": "Yan’an",
+    "admin": "Shaanxi",
+    "sort": "2187009"
+  },
+  {
+    "city": "Gaoping",
+    "admin": "Sichuan",
+    "sort": "2174000"
+  },
+  {
+    "city": "Ningbo",
+    "admin": "Zhejiang",
+    "sort": "2125500"
+  },
+  {
+    "city": "Puning",
+    "admin": "Guangdong",
+    "sort": "2118200"
+  },
+  {
+    "city": "Huaibei",
+    "admin": "Anhui",
+    "sort": "2114276"
+  },
+  {
+    "city": "Qingyang",
+    "admin": "Fujian",
+    "sort": "2111000"
+  },
+  {
+    "city": "Chongzuo",
+    "admin": "Guangxi",
+    "sort": "2099400"
+  },
+  {
+    "city": "Hezhou",
+    "admin": "Guangxi",
+    "sort": "2072600"
+  },
+  {
+    "city": "Pingliang",
+    "admin": "Gansu",
+    "sort": "2068033"
+  },
+  {
+    "city": "Shengli",
+    "admin": "Shandong",
+    "sort": "2035338"
+  },
+  {
+    "city": "Baicheng",
+    "admin": "Jilin",
+    "sort": "2032356"
+  },
+  {
+    "city": "Fushun",
+    "admin": "Liaoning",
+    "sort": "2024000"
+  },
+  {
+    "city": "Yinchuan",
+    "admin": "Ningxia",
+    "sort": "1993088"
+  },
+  {
+    "city": "Pingxiang",
+    "admin": "Jiangxi",
+    "sort": "1933200"
+  },
+  {
+    "city": "Zhuhai",
+    "admin": "Guangdong",
+    "sort": "1891100"
+  },
+  {
+    "city": "Xiping",
+    "admin": "Shanxi",
+    "sort": "1873000"
+  },
+  {
+    "city": "Jixi",
+    "admin": "Heilongjiang",
+    "sort": "1862165"
+  },
+  {
+    "city": "Liaoyang",
+    "admin": "Liaoning",
+    "sort": "1858768"
+  },
+  {
+    "city": "Fuxin",
+    "admin": "Liaoning",
+    "sort": "1819339"
+  },
+  {
+    "city": "Wuwei",
+    "admin": "Gansu",
+    "sort": "1815059"
+  },
+  {
+    "city": "Haikou",
+    "admin": "Hainan",
+    "sort": "1776141"
+  },
+  {
+    "city": "Shuyangzha",
+    "admin": "Jiangsu",
+    "sort": "1770000"
+  },
+  {
+    "city": "Shuozhou",
+    "admin": "Shanxi",
+    "sort": "1714857"
+  },
+  {
+    "city": "Benxi",
+    "admin": "Liaoning",
+    "sort": "1709538"
+  },
+  {
+    "city": "Baiyin",
+    "admin": "Gansu",
+    "sort": "1708751"
+  },
+  {
+    "city": "Sanzhou",
+    "admin": "Chongqing",
+    "sort": "1680000"
+  },
+  {
+    "city": "Beihai",
+    "admin": "Guangxi",
+    "sort": "1680000"
+  },
+  {
+    "city": "Heihe",
+    "admin": "Heilongjiang",
+    "sort": "1673899"
+  },
+  {
+    "city": "Jingdezhen",
+    "admin": "Jiangxi",
+    "sort": "1673200"
+  },
+  {
+    "city": "Yushan",
+    "admin": "Jiangsu",
+    "sort": "1651200"
+  },
+  {
+    "city": "Chengtangcun",
+    "admin": "Shandong",
+    "sort": "1603659"
+  },
+  {
+    "city": "Wenzhou",
+    "admin": "Zhejiang",
+    "sort": "1588700"
+  },
+  {
+    "city": "Hebi",
+    "admin": "Henan",
+    "sort": "1569208"
+  },
+  {
+    "city": "Zhangjiajie",
+    "admin": "Hunan",
+    "sort": "1537900"
+  },
+  {
+    "city": "Changshu",
+    "admin": "Jiangsu",
+    "sort": "1510100"
+  },
+  {
+    "city": "Lianjiang",
+    "admin": "Guangdong",
+    "sort": "1509400"
+  },
+  {
+    "city": "Ximeicun",
+    "admin": "Fujian",
+    "sort": "1508000"
+  },
+  {
+    "city": "Jianguang",
+    "admin": "Jiangxi",
+    "sort": "1507402"
+  },
+  {
+    "city": "Yucheng",
+    "admin": "Sichuan",
+    "sort": "1507258"
+  },
+  {
+    "city": "Guiping",
+    "admin": "Guangxi",
+    "sort": "1496904"
+  },
+  {
+    "city": "Leizhou",
+    "admin": "Guangdong",
+    "sort": "1494700"
+  },
+  {
+    "city": "Huazhou",
+    "admin": "Henan",
+    "sort": "1468061"
+  },
+  {
+    "city": "Shuangyashan",
+    "admin": "Heilongjiang",
+    "sort": "1462626"
+  },
+  {
+    "city": "Pizhou",
+    "admin": "Jiangsu",
+    "sort": "1458038"
+  },
+  {
+    "city": "Yangshe",
+    "admin": "Jiangsu",
+    "sort": "1432044"
+  },
+  {
+    "city": "Guyuan",
+    "admin": "Ningxia",
+    "sort": "1426000"
+  },
+  {
+    "city": "Gaozhou",
+    "admin": "Guangdong",
+    "sort": "1414100"
+  },
+  {
+    "city": "Chizhou",
+    "admin": "Anhui",
+    "sort": "1402518"
+  },
+  {
+    "city": "Fuqing",
+    "admin": "Fujian",
+    "sort": "1390487"
+  },
+  {
+    "city": "Pingdu",
+    "admin": "Shandong",
+    "sort": "1378900"
+  },
+  {
+    "city": "Yutan",
+    "admin": "Hunan",
+    "sort": "1368117"
+  },
+  {
+    "city": "Huangshan",
+    "admin": "Anhui",
+    "sort": "1358980"
+  },
+  {
+    "city": "Liangshi",
+    "admin": "Hunan",
+    "sort": "1335900"
+  },
+  {
+    "city": "Xintai",
+    "admin": "Shandong",
+    "sort": "1315942"
+  },
+  {
+    "city": "Wusong",
+    "admin": "Anhui",
+    "sort": "1311726"
+  },
+  {
+    "city": "Yushu",
+    "admin": "Jilin",
+    "sort": "1304436"
+  },
+  {
+    "city": "Rongcheng",
+    "admin": "Yunnan",
+    "sort": "1302891"
+  },
+  {
+    "city": "Huazhou",
+    "admin": "Guangdong",
+    "sort": "1302100"
+  },
+  {
+    "city": "Yangquan",
+    "admin": "Shanxi",
+    "sort": "1300000"
+  },
+  {
+    "city": "Baishan",
+    "admin": "Jilin",
+    "sort": "1296127"
+  },
+  {
+    "city": "Dayan",
+    "admin": "Yunnan",
+    "sort": "1296000"
+  },
+  {
+    "city": "Haicheng",
+    "admin": "Liaoning",
+    "sort": "1293877"
+  },
+  {
+    "city": "Jiangyin",
+    "admin": "Jiangsu",
+    "sort": "1285785"
+  },
+  {
+    "city": "Huaiyin",
+    "admin": "Jiangsu",
+    "sort": "1264000"
+  },
+  {
+    "city": "Wuzhong",
+    "admin": "Ningxia",
+    "sort": "1284000"
+  },
+  {
+    "city": "Rucheng",
+    "admin": "Jiangsu",
+    "sort": "1267066"
+  },
+  {
+    "city": "Shaoyang",
+    "admin": "Jiangsu",
+    "sort": "1253548"
+  },
+  {
+    "city": "Laiwu",
+    "admin": "Shandong",
+    "sort": "1248636"
+  },
+  {
+    "city": "Jingling",
+    "admin": "Hubei",
+    "sort": "1247400"
+  },
+  {
+    "city": "Yongcheng",
+    "admin": "Henan",
+    "sort": "1240382"
+  },
+  {
+    "city": "Beidao",
+    "admin": "Gansu",
+    "sort": "1225000"
+  },
+  {
+    "city": "Xiangshui",
+    "admin": "Guizhou",
+    "sort": "1221000"
+  },
+  {
+    "city": "Dadukou",
+    "admin": "Sichuan",
+    "sort": "1214121"
+  },
+  {
+    "city": "Zhangye",
+    "admin": "Gansu",
+    "sort": "1199515"
+  },
+  {
+    "city": "Xinyu",
+    "admin": "Jiangxi",
+    "sort": "1186700"
+  },
+  {
+    "city": "Liaoyuan",
+    "admin": "Jilin",
+    "sort": "1176239"
+  },
+  {
+    "city": "Yingtan",
+    "admin": "Jiangxi",
+    "sort": "1175000"
+  },
+  {
+    "city": "Guankou",
+    "admin": "Hunan",
+    "sort": "1168056"
+  },
+  {
+    "city": "Dingzhou",
+    "admin": "Hebei",
+    "sort": "1165182"
+  },
+  {
+    "city": "Lianyuan",
+    "admin": "Hunan",
+    "sort": "1162928"
+  },
+  {
+    "city": "Rongcheng",
+    "admin": "Hubei",
+    "sort": "1162770"
+  },
+  {
+    "city": "Kaiyuan",
+    "admin": "Henan",
+    "sort": "1160000"
+  },
+  {
+    "city": "Leiyang",
+    "admin": "Hunan",
+    "sort": "1151554"
+  },
+  {
+    "city": "Yichun",
+    "admin": "Heilongjiang",
+    "sort": "1148126"
+  },
+  {
+    "city": "Xiantao",
+    "admin": "Hubei",
+    "sort": "1140100"
+  },
+  {
+    "city": "Yingchuan",
+    "admin": "Henan",
+    "sort": "1131896"
+  },
+  {
+    "city": "Xibeijie",
+    "admin": "Gansu",
+    "sort": "1095947"
+  },
+  {
+    "city": "Hanchuan",
+    "admin": "Hubei",
+    "sort": "1092700"
+  },
+  {
+    "city": "Gongzhuling",
+    "admin": "Jilin",
+    "sort": "1092692"
+  },
+  {
+    "city": "Yicheng",
+    "admin": "Jiangsu",
+    "sort": "1082929"
+  },
+  {
+    "city": "Zhufeng",
+    "admin": "Shandong",
+    "sort": "1081960"
+  },
+  {
+    "city": "Taixing",
+    "admin": "Jiangsu",
+    "sort": "1073921"
+  },
+  {
+    "city": "Mizhou",
+    "admin": "Shandong",
+    "sort": "1060000"
+  },
+  {
+    "city": "Xishan",
+    "admin": "Hunan",
+    "sort": "1060000"
+  },
+  {
+    "city": "Ezhou",
+    "admin": "Hubei",
+    "sort": "1059700"
+  },
+  {
+    "city": "Hegang",
+    "admin": "Heilongjiang",
+    "sort": "1058665"
+  },
+  {
+    "city": "Zhongwei",
+    "admin": "Ningxia",
+    "sort": "1046000"
+  },
+  {
+    "city": "Shouguang",
+    "admin": "Shandong",
+    "sort": "1039205"
+  },
+  {
+    "city": "Taizhou",
+    "admin": "Zhejiang",
+    "sort": "1030200"
+  },
+  {
+    "city": "Wafangdian",
+    "admin": "Liaoning",
+    "sort": "1024876"
+  },
+  {
+    "city": "Zhongxiang",
+    "admin": "Hubei",
+    "sort": "1022514"
+  },
+  {
+    "city": "Xinyi",
+    "admin": "Guangdong",
+    "sort": "1013900"
+  },
+  {
+    "city": "Zaoyang",
+    "admin": "Hubei",
+    "sort": "1004741"
+  },
+  {
+    "city": "Shuizhai",
+    "admin": "Henan",
+    "sort": "1003698"
+  },
+  {
+    "city": "Xingyi",
+    "admin": "Guizhou",
+    "sort": "1004132"
+  },
+  {
+    "city": "Xingcheng",
+    "admin": "Guangdong",
+    "sort": "993000"
+  },
+  {
+    "city": "Dongtai",
+    "admin": "Jiangsu",
+    "sort": "990306"
+  },
+  {
+    "city": "Yingcheng",
+    "admin": "Guangdong",
+    "sort": "986400"
+  },
+  {
+    "city": "Luocheng",
+    "admin": "Guangdong",
+    "sort": "984100"
+  },
+  {
+    "city": "Danyang",
+    "admin": "Jiangsu",
+    "sort": "980662"
+  },
+  {
+    "city": "Nada",
+    "admin": "Hainan",
+    "sort": "977700"
+  },
+  {
+    "city": "Wuchuan",
+    "admin": "Guangdong",
+    "sort": "972400"
+  },
+  {
+    "city": "Huilong",
+    "admin": "Jiangsu",
+    "sort": "972525"
+  },
+  {
+    "city": "Shaoxing",
+    "admin": "Zhejiang",
+    "sort": "961200"
+  },
+  {
+    "city": "Taishan",
+    "admin": "Guangdong",
+    "sort": "953900"
+  },
+  {
+    "city": "Fangchenggang",
+    "admin": "Guangxi",
+    "sort": "953300"
+  },
+  {
+    "city": "Anqiu",
+    "admin": "Shandong",
+    "sort": "947723"
+  },
+  {
+    "city": "Feicheng",
+    "admin": "Shandong",
+    "sort": "946627"
+  },
+  {
+    "city": "Meishan",
+    "admin": "Henan",
+    "sort": "936000"
+  },
+  {
+    "city": "Taihe",
+    "admin": "Sichuan",
+    "sort": "924531"
+  },
+  {
+    "city": "Xin’an",
+    "admin": "Jiangsu",
+    "sort": "920628"
+  },
+  {
+    "city": "Taihecun",
+    "admin": "Heilongjiang",
+    "sort": "920471"
+  },
+  {
+    "city": "Qingzhou",
+    "admin": "Shandong",
+    "sort": "914047"
+  },
+  {
+    "city": "Lichuan",
+    "admin": "Hubei",
+    "sort": "913700"
+  },
+  {
+    "city": "Daye",
+    "admin": "Hubei",
+    "sort": "909724"
+  },
+  {
+    "city": "Hengzhou",
+    "admin": "Guangxi",
+    "sort": "908400"
+  },
+  {
+    "city": "Zhuanghe",
+    "admin": "Liaoning",
+    "sort": "905852"
+  },
+  {
+    "city": "Lhasa",
+    "admin": "Tibet",
+    "sort": "902500"
+  },
+  {
+    "city": "Jiaozhou",
+    "admin": "Shandong",
+    "sort": "900500"
+  },
+  {
+    "city": "Yangchun",
+    "admin": "Guangdong",
+    "sort": "891800"
+  },
+  {
+    "city": "Dengtalu",
+    "admin": "Henan",
+    "sort": "887000"
+  },
+  {
+    "city": "Laiyang",
+    "admin": "Shandong",
+    "sort": "874127"
+  },
+  {
+    "city": "Kaifeng Chengguanzhen",
+    "admin": "Henan",
+    "sort": "872000"
+  },
+  {
+    "city": "Gaomi",
+    "admin": "Shandong",
+    "sort": "868715"
+  },
+  {
+    "city": "Hai’an",
+    "admin": "Jiangsu",
+    "sort": "866337"
+  },
+  {
+    "city": "Weichanglu",
+    "admin": "Shandong",
+    "sort": "859424"
+  },
+  {
+    "city": "Shache",
+    "admin": "Xinjiang",
+    "sort": "851374"
+  },
+  {
+    "city": "Leping",
+    "admin": "Jiangxi",
+    "sort": "852800"
+  },
+  {
+    "city": "Hailun",
+    "admin": "Heilongjiang",
+    "sort": "850000"
+  },
+  {
+    "city": "Macheng",
+    "admin": "Hubei",
+    "sort": "849090"
+  },
+  {
+    "city": "Yuci",
+    "admin": "Shanxi",
+    "sort": "840000"
+  },
+  {
+    "city": "Dehui",
+    "admin": "Jilin",
+    "sort": "839786"
+  },
+  {
+    "city": "Tongchuan",
+    "admin": "Shaanxi",
+    "sort": "834437"
+  },
+  {
+    "city": "Rongjiawan",
+    "admin": "Hunan",
+    "sort": "826000"
+  },
+  {
+    "city": "Renqiu",
+    "admin": "Hebei",
+    "sort": "822455"
+  },
+  {
+    "city": "Xindi",
+    "admin": "Hubei",
+    "sort": "819446"
+  },
+  {
+    "city": "Wu’an",
+    "admin": "Hebei",
+    "sort": "819000"
+  },
+  {
+    "city": "Gaoyou",
+    "admin": "Jiangsu",
+    "sort": "811800"
+  },
+  {
+    "city": "Hejian",
+    "admin": "Hebei",
+    "sort": "810306"
+  },
+  {
+    "city": "Yiyang",
+    "admin": "Hunan",
+    "sort": "810447"
+  },
+  {
+    "city": "Puxi",
+    "admin": "Henan",
+    "sort": "809535"
+  },
+  {
+    "city": "Zijinglu",
+    "admin": "Henan",
+    "sort": "807857"
+  },
+  {
+    "city": "Qingping",
+    "admin": "Henan",
+    "sort": "797200"
+  },
+  {
+    "city": "Xiangxiang",
+    "admin": "Hunan",
+    "sort": "787216"
+  },
+  {
+    "city": "Chaohucun",
+    "admin": "Anhui",
+    "sort": "782000"
+  },
+  {
+    "city": "Fuyang",
+    "admin": "Zhejiang",
+    "sort": "771000"
+  },
+  {
+    "city": "Cencheng",
+    "admin": "Guangxi",
+    "sort": "772113"
+  },
+  {
+    "city": "Dali",
+    "admin": "Yunnan",
+    "sort": "771128"
+  },
+  {
+    "city": "Songzi",
+    "admin": "Hubei",
+    "sort": "765911"
+  },
+  {
+    "city": "Laixi",
+    "admin": "Shandong",
+    "sort": "762900"
+  },
+  {
+    "city": "Zhongba",
+    "admin": "Sichuan",
+    "sort": "762140"
+  },
+  {
+    "city": "Qingnian",
+    "admin": "Shandong",
+    "sort": "760781"
+  },
+  {
+    "city": "Xinhualu",
+    "admin": "Henan",
+    "sort": "758079"
+  },
+  {
+    "city": "Guangshui",
+    "admin": "Hubei",
+    "sort": "755910"
+  },
+  {
+    "city": "Sizhan",
+    "admin": "Ningxia",
+    "sort": "751389"
+  },
+  {
+    "city": "Licheng",
+    "admin": "Jiangsu",
+    "sort": "749522"
+  },
+  {
+    "city": "Chengguan",
+    "admin": "Henan",
+    "sort": "740435"
+  },
+  {
+    "city": "Nehe",
+    "admin": "Heilongjiang",
+    "sort": "740000"
+  },
+  {
+    "city": "Zunhua",
+    "admin": "Hebei",
+    "sort": "737011"
+  },
+  {
+    "city": "Wugang",
+    "admin": "Hunan",
+    "sort": "734870"
+  },
+  {
+    "city": "Shuangqiao",
+    "admin": "Henan",
+    "sort": "733000"
+  },
+  {
+    "city": "Langzhong",
+    "admin": "Sichuan",
+    "sort": "728935"
+  },
+  {
+    "city": "Qian’an",
+    "admin": "Hebei",
+    "sort": "728160"
+  },
+  {
+    "city": "Zouping",
+    "admin": "Shandong",
+    "sort": "726722"
+  },
+  {
+    "city": "Anlu",
+    "admin": "Hubei",
+    "sort": "720000"
+  },
+  {
+    "city": "Changsha",
+    "admin": "Guangdong",
+    "sort": "717700"
+  },
+  {
+    "city": "Shihezi",
+    "admin": "Xinjiang",
+    "sort": "717000"
+  },
+  {
+    "city": "Yatou",
+    "admin": "Shandong",
+    "sort": "714211"
+  },
+  {
+    "city": "Xichang",
+    "admin": "Sichuan",
+    "sort": "712434"
+  },
+  {
+    "city": "Chengxiang",
+    "admin": "Jiangsu",
+    "sort": "709500"
+  },
+  {
+    "city": "Dashiqiao",
+    "admin": "Liaoning",
+    "sort": "704891"
+  },
+  {
+    "city": "Shishi",
+    "admin": "Fujian",
+    "sort": "693000"
+  },
+  {
+    "city": "Qianxi",
+    "admin": "Guizhou",
+    "sort": "695947"
+  },
+  {
+    "city": "Miluo Chengguanzhen",
+    "admin": "Hunan",
+    "sort": "692080"
+  },
+  {
+    "city": "Gaizhou",
+    "admin": "Liaoning",
+    "sort": "691595"
+  },
+  {
+    "city": "Leling",
+    "admin": "Shandong",
+    "sort": "689867"
+  },
+  {
+    "city": "Jianshe",
+    "admin": "Henan",
+    "sort": "687130"
+  },
+  {
+    "city": "Jingcheng",
+    "admin": "Jiangsu",
+    "sort": "684360"
+  },
+  {
+    "city": "Xinmin",
+    "admin": "Liaoning",
+    "sort": "680000"
+  },
+  {
+    "city": "Zhongshu",
+    "admin": "Guizhou",
+    "sort": "679624"
+  },
+  {
+    "city": "Xigazê",
+    "admin": "Tibet",
+    "sort": "679771"
+  },
+  {
+    "city": "Guankou",
+    "admin": "Sichuan",
+    "sort": "671200"
+  },
+  {
+    "city": "Songyang",
+    "admin": "Henan",
+    "sort": "668592"
+  },
+  {
+    "city": "Puyang Chengguanzhen",
+    "admin": "Henan",
+    "sort": "666322"
+  },
+  {
+    "city": "Qionghu",
+    "admin": "Hunan",
+    "sort": "667104"
+  },
+  {
+    "city": "Zhaodong",
+    "admin": "Heilongjiang",
+    "sort": "666532"
+  },
+  {
+    "city": "Wenchang",
+    "admin": "Anhui",
+    "sort": "664455"
+  },
+  {
+    "city": "Shulan",
+    "admin": "Jilin",
+    "sort": "663403"
+  },
+  {
+    "city": "Lingbao Chengguanzhen",
+    "admin": "Henan",
+    "sort": "656571"
+  },
+  {
+    "city": "Xiping",
+    "admin": "Yunnan",
+    "sort": "652604"
+  },
+  {
+    "city": "Sanhe",
+    "admin": "Hebei",
+    "sort": "652042"
+  },
+  {
+    "city": "Guixi",
+    "admin": "Jiangxi",
+    "sort": "647240"
+  },
+  {
+    "city": "Tengyue",
+    "admin": "Yunnan",
+    "sort": "644765"
+  },
+  {
+    "city": "Wuxue",
+    "admin": "Hubei",
+    "sort": "644247"
+  },
+  {
+    "city": "Qufu",
+    "admin": "Shandong",
+    "sort": "640498"
+  },
+  {
+    "city": "Gaobeidian",
+    "admin": "Hebei",
+    "sort": "640280"
+  },
+  {
+    "city": "Ruiming",
+    "admin": "Jiangxi",
+    "sort": "640600"
+  },
+  {
+    "city": "Xinshi",
+    "admin": "Hubei",
+    "sort": "636776"
+  },
+  {
+    "city": "Jin’e",
+    "admin": "Sichuan",
+    "sort": "633210"
+  },
+  {
+    "city": "Changping",
+    "admin": "Beijing",
+    "sort": "614821"
+  },
+  {
+    "city": "Xinxing",
+    "admin": "Liaoning",
+    "sort": "627475"
+  },
+  {
+    "city": "Suohe",
+    "admin": "Henan",
+    "sort": "626700"
+  },
+  {
+    "city": "Zhuangyuan",
+    "admin": "Shandong",
+    "sort": "626683"
+  },
+  {
+    "city": "Bazhou",
+    "admin": "Hebei",
+    "sort": "622975"
+  },
+  {
+    "city": "Turpan",
+    "admin": "Xinjiang",
+    "sort": "622903"
+  },
+  {
+    "city": "Meihekou",
+    "admin": "Jilin",
+    "sort": "618251"
+  },
+  {
+    "city": "Jurong",
+    "admin": "Jiangsu",
+    "sort": "617706"
+  },
+  {
+    "city": "Xinji",
+    "admin": "Hebei",
+    "sort": "615919"
+  },
+  {
+    "city": "Sanya",
+    "admin": "Hainan",
+    "sort": "614647"
+  },
+  {
+    "city": "Zhangshu",
+    "admin": "Jiangxi",
+    "sort": "610424"
+  },
+  {
+    "city": "Zhuozhou",
+    "admin": "Hebei",
+    "sort": "603535"
+  },
+  {
+    "city": "Tianchang",
+    "admin": "Anhui",
+    "sort": "602840"
+  },
+  {
+    "city": "Qamdo",
+    "admin": "Tibet",
+    "sort": "598862"
+  },
+  {
+    "city": "Sihui",
+    "admin": "Guangdong",
+    "sort": "593400"
+  },
+  {
+    "city": "Luocheng",
+    "admin": "Sichuan",
+    "sort": "591115"
+  },
+  {
+    "city": "Chuxiong",
+    "admin": "Yunnan",
+    "sort": "588620"
+  },
+  {
+    "city": "Jinhua",
+    "admin": "Zhejiang",
+    "sort": "586000"
+  },
+  {
+    "city": "Shangzhi",
+    "admin": "Heilongjiang",
+    "sort": "585386"
+  },
+  {
+    "city": "Botou",
+    "admin": "Hebei",
+    "sort": "584308"
+  },
+  {
+    "city": "Wancheng",
+    "admin": "Hainan",
+    "sort": "578600"
+  },
+  {
+    "city": "Xiulin",
+    "admin": "Hubei",
+    "sort": "577022"
+  },
+  {
+    "city": "Fu’an",
+    "admin": "Fujian",
+    "sort": "577000"
+  },
+  {
+    "city": "Kumul",
+    "admin": "Xinjiang",
+    "sort": "572400"
+  },
+  {
+    "city": "Luofeng",
+    "admin": "Shandong",
+    "sort": "570898"
+  },
+  {
+    "city": "Lingyuan",
+    "admin": "Liaoning",
+    "sort": "570660"
+  },
+  {
+    "city": "Huzhou",
+    "admin": "Zhejiang",
+    "sort": "569000"
+  },
+  {
+    "city": "Wencheng",
+    "admin": "Hainan",
+    "sort": "568900"
+  },
+  {
+    "city": "Shenzhou",
+    "admin": "Hebei",
+    "sort": "566087"
+  },
+  {
+    "city": "Kuiju",
+    "admin": "Shandong",
+    "sort": "564501"
+  },
+  {
+    "city": "Zhenzhou",
+    "admin": "Jiangsu",
+    "sort": "564021"
+  },
+  {
+    "city": "Jieshou",
+    "admin": "Anhui",
+    "sort": "561956"
+  },
+  {
+    "city": "Dangyang",
+    "admin": "Hubei",
+    "sort": "560000"
+  },
+  {
+    "city": "Luanzhou",
+    "admin": "Hebei",
+    "sort": "554315"
+  },
+  {
+    "city": "Korla",
+    "admin": "Xinjiang",
+    "sort": "549324"
+  },
+  {
+    "city": "Huanghua",
+    "admin": "Hebei",
+    "sort": "548507"
+  },
+  {
+    "city": "Xingcheng",
+    "admin": "Liaoning",
+    "sort": "546176"
+  },
+  {
+    "city": "Kaiyuan",
+    "admin": "Liaoning",
+    "sort": "545624"
+  },
+  {
+    "city": "Fengcheng",
+    "admin": "Liaoning",
+    "sort": "543933"
+  },
+  {
+    "city": "Ghulja",
+    "admin": "Xinjiang",
+    "sort": "542507"
+  },
+  {
+    "city": "Xiangyang",
+    "admin": "Shaanxi",
+    "sort": "541554"
+  },
+  {
+    "city": "Fuding",
+    "admin": "Fujian",
+    "sort": "542000"
+  },
+  {
+    "city": "Chang’an",
+    "admin": "Hunan",
+    "sort": "537500"
+  },
+  {
+    "city": "Aksu",
+    "admin": "Xinjiang",
+    "sort": "535657"
+  },
+  {
+    "city": "Wuhai",
+    "admin": "Inner Mongolia",
+    "sort": "532902"
+  },
+  {
+    "city": "Mingguang",
+    "admin": "Anhui",
+    "sort": "532732"
+  },
+  {
+    "city": "Ailan Mubage",
+    "admin": "Xinjiang",
+    "sort": "526745"
+  },
+  {
+    "city": "Yucheng",
+    "admin": "Shandong",
+    "sort": "522878"
+  },
+  {
+    "city": "Longzhou",
+    "admin": "Hubei",
+    "sort": "520000"
+  },
+  {
+    "city": "Anda",
+    "admin": "Heilongjiang",
+    "sort": "520000"
+  },
+  {
+    "city": "Jinghong",
+    "admin": "Yunnan",
+    "sort": "519935"
+  },
+  {
+    "city": "Heshan",
+    "admin": "Guangdong",
+    "sort": "516500"
+  },
+  {
+    "city": "Zhoushan",
+    "admin": "Zhejiang",
+    "sort": "516000"
+  },
+  {
+    "city": "Jiaji",
+    "admin": "Hainan",
+    "sort": "515700"
+  },
+  {
+    "city": "Beining",
+    "admin": "Liaoning",
+    "sort": "514898"
+  },
+  {
+    "city": "Yanji",
+    "admin": "Jilin",
+    "sort": "513072"
+  },
+  {
+    "city": "Yicheng",
+    "admin": "Hubei",
+    "sort": "512530"
+  },
+  {
+    "city": "Encheng",
+    "admin": "Guangdong",
+    "sort": "509700"
+  },
+  {
+    "city": "Kashgar",
+    "admin": "Xinjiang",
+    "sort": "506640"
+  },
+  {
+    "city": "Yiwu",
+    "admin": "Zhejiang",
+    "sort": "502000"
+  },
+  {
+    "city": "Jiaxing",
+    "admin": "Zhejiang",
+    "sort": "500100"
+  },
+  {
+    "city": "Meicheng",
+    "admin": "Anhui",
+    "sort": "500292"
+  },
+  {
+    "city": "Taozhou",
+    "admin": "Anhui",
+    "sort": "499132"
+  },
+  {
+    "city": "Hongjiang",
+    "admin": "Hunan",
+    "sort": "498100"
+  },
+  {
+    "city": "Dengtacun",
+    "admin": "Liaoning",
+    "sort": "496122"
+  },
+  {
+    "city": "Zhijiang",
+    "admin": "Hubei",
+    "sort": "495995"
+  },
+  {
+    "city": "Chengjiao",
+    "admin": "Henan",
+    "sort": "495744"
+  },
+  {
+    "city": "Beipiao",
+    "admin": "Liaoning",
+    "sort": "496164"
+  },
+  {
+    "city": "Suoluntun",
+    "admin": "Jilin",
+    "sort": "495900"
+  },
+  {
+    "city": "Duyun",
+    "admin": "Guizhou",
+    "sort": "493574"
+  },
+  {
+    "city": "Yuanping",
+    "admin": "Shanxi",
+    "sort": "491213"
+  },
+  {
+    "city": "Shahe",
+    "admin": "Hebei",
+    "sort": "486329"
+  },
+  {
+    "city": "Gaoping",
+    "admin": "Shanxi",
+    "sort": "484862"
+  },
+  {
+    "city": "Dunhua",
+    "admin": "Jilin",
+    "sort": "483811"
+  },
+  {
+    "city": "Kaihua",
+    "admin": "Yunnan",
+    "sort": "481505"
+  },
+  {
+    "city": "Fuyuan",
+    "admin": "Heilongjiang",
+    "sort": "480000"
+  },
+  {
+    "city": "Jiannan",
+    "admin": "Sichuan",
+    "sort": "477868"
+  },
+  {
+    "city": "Nangong",
+    "admin": "Hebei",
+    "sort": "476096"
+  },
+  {
+    "city": "Jiaojiangcun",
+    "admin": "Zhejiang",
+    "sort": "471500"
+  },
+  {
+    "city": "Laohekou",
+    "admin": "Hubei",
+    "sort": "471482"
+  },
+  {
+    "city": "Beian",
+    "admin": "Heilongjiang",
+    "sort": "470000"
+  },
+  {
+    "city": "Fujin",
+    "admin": "Heilongjiang",
+    "sort": "470000"
+  },
+  {
+    "city": "Xiaoyi",
+    "admin": "Shanxi",
+    "sort": "468770"
+  },
+  {
+    "city": "Qingzhen",
+    "admin": "Guizhou",
+    "sort": "467992"
+  },
+  {
+    "city": "Kuqa",
+    "admin": "Xinjiang",
+    "sort": "462588"
+  },
+  {
+    "city": "Xicheng",
+    "admin": "Yunnan",
+    "sort": "459781"
+  },
+  {
+    "city": "Jian’ou",
+    "admin": "Fujian",
+    "sort": "456000"
+  },
+  {
+    "city": "Huadian",
+    "admin": "Jilin",
+    "sort": "455339"
+  },
+  {
+    "city": "Minzhu",
+    "admin": "Jilin",
+    "sort": "453265"
+  },
+  {
+    "city": "Tanbei",
+    "admin": "Henan",
+    "sort": "447701"
+  },
+  {
+    "city": "Yongji",
+    "admin": "Shanxi",
+    "sort": "444724"
+  },
+  {
+    "city": "Danjiangkou",
+    "admin": "Hubei",
+    "sort": "443755"
+  },
+  {
+    "city": "Ning’an",
+    "admin": "Heilongjiang",
+    "sort": "440000"
+  },
+  {
+    "city": "Zhangjiakou Shi Xuanhua Qu",
+    "admin": "Hebei",
+    "sort": "409745"
+  },
+  {
+    "city": "Jinchang",
+    "admin": "Gansu",
+    "sort": "438026"
+  },
+  {
+    "city": "Guangming",
+    "admin": "Jilin",
+    "sort": "437559"
+  },
+  {
+    "city": "Yan’an Beilu",
+    "admin": "Xinjiang",
+    "sort": "426253"
+  },
+  {
+    "city": "Mishan",
+    "admin": "Heilongjiang",
+    "sort": "420000"
+  },
+  {
+    "city": "Hailin",
+    "admin": "Heilongjiang",
+    "sort": "420000"
+  },
+  {
+    "city": "Lecheng",
+    "admin": "Guangdong",
+    "sort": "419500"
+  },
+  {
+    "city": "Zhengjiatun",
+    "admin": "Jilin",
+    "sort": "419529"
+  },
+  {
+    "city": "Pencheng",
+    "admin": "Jiangxi",
+    "sort": "419047"
+  },
+  {
+    "city": "Dalai",
+    "admin": "Jilin",
+    "sort": "418232"
+  },
+  {
+    "city": "Xingren",
+    "admin": "Guizhou",
+    "sort": "417919"
+  },
+  {
+    "city": "Wenlan",
+    "admin": "Yunnan",
+    "sort": "417156"
+  },
+  {
+    "city": "Fenyang",
+    "admin": "Shanxi",
+    "sort": "416212"
+  },
+  {
+    "city": "Nagqu",
+    "admin": "Tibet",
+    "sort": "414554"
+  },
+  {
+    "city": "Fangting",
+    "admin": "Sichuan",
+    "sort": "412758"
+  },
+  {
+    "city": "Linghai",
+    "admin": "Liaoning",
+    "sort": "412513"
+  },
+  {
+    "city": "Taiping",
+    "admin": "Sichuan",
+    "sort": "407594"
+  },
+  {
+    "city": "Jiexiu",
+    "admin": "Shanxi",
+    "sort": "406517"
+  },
+  {
+    "city": "Jiangjiafan",
+    "admin": "Hubei",
+    "sort": "400000"
+  },
+  {
+    "city": "Xushan",
+    "admin": "Zhejiang",
+    "sort": "397000"
+  },
+  {
+    "city": "Yuyao",
+    "admin": "Zhejiang",
+    "sort": "397000"
+  },
+  {
+    "city": "Hejin",
+    "admin": "Shanxi",
+    "sort": "395527"
+  },
+  {
+    "city": "Hancheng",
+    "admin": "Shaanxi",
+    "sort": "391164"
+  },
+  {
+    "city": "Karamay",
+    "admin": "Xinjiang",
+    "sort": "391008"
+  },
+  {
+    "city": "Tieli",
+    "admin": "Heilongjiang",
+    "sort": "390000"
+  },
+  {
+    "city": "Yidu",
+    "admin": "Hubei",
+    "sort": "384598"
+  },
+  {
+    "city": "Lianzhou",
+    "admin": "Guangdong",
+    "sort": "384700"
+  },
+  {
+    "city": "Helixi",
+    "admin": "Anhui",
+    "sort": "376857"
+  },
+  {
+    "city": "Lengshuijiang",
+    "admin": "Hunan",
+    "sort": "370300"
+  },
+  {
+    "city": "Anguo",
+    "admin": "Hebei",
+    "sort": "370317"
+  },
+  {
+    "city": "Panshi",
+    "admin": "Jilin",
+    "sort": "370238"
+  },
+  {
+    "city": "Huichang",
+    "admin": "Henan",
+    "sort": "367113"
+  },
+  {
+    "city": "Yanjiao",
+    "admin": "Hebei",
+    "sort": "363809"
+  },
+  {
+    "city": "Shuanghejiedao",
+    "admin": "Sichuan",
+    "sort": "360000"
+  },
+  {
+    "city": "Wudalianchi",
+    "admin": "Heilongjiang",
+    "sort": "360000"
+  },
+  {
+    "city": "Yong’an",
+    "admin": "Fujian",
+    "sort": "357000"
+  },
+  {
+    "city": "Hongzhai",
+    "admin": "Gansu",
+    "sort": "355037"
+  },
+  {
+    "city": "Licheng",
+    "admin": "Guangxi",
+    "sort": "352472"
+  },
+  {
+    "city": "Yueqing",
+    "admin": "Zhejiang",
+    "sort": "351200"
+  },
+  {
+    "city": "Yakeshi",
+    "admin": "Inner Mongolia",
+    "sort": "352173"
+  },
+  {
+    "city": "Yingmen",
+    "admin": "Gansu",
+    "sort": "350000"
+  },
+  {
+    "city": "Lianran",
+    "admin": "Yunnan",
+    "sort": "341341"
+  },
+  {
+    "city": "Tangdong",
+    "admin": "Hunan",
+    "sort": "337495"
+  },
+  {
+    "city": "Hangu",
+    "admin": "Tianjin",
+    "sort": "332793"
+  },
+  {
+    "city": "Yingzhong",
+    "admin": "Jiangsu",
+    "sort": "334977"
+  },
+  {
+    "city": "Bamiantong",
+    "admin": "Heilongjiang",
+    "sort": "330000"
+  },
+  {
+    "city": "Ulanhot",
+    "admin": "Inner Mongolia",
+    "sort": "327081"
+  },
+  {
+    "city": "Yunzhong",
+    "admin": "Shanxi",
+    "sort": "326849"
+  },
+  {
+    "city": "Binxian",
+    "admin": "Shaanxi",
+    "sort": "323256"
+  },
+  {
+    "city": "Hotan",
+    "admin": "Xinjiang",
+    "sort": "322300"
+  },
+  {
+    "city": "Dongyang",
+    "admin": "Zhejiang",
+    "sort": "322500"
+  },
+  {
+    "city": "Kaiyuan",
+    "admin": "Yunnan",
+    "sort": "322693"
+  },
+  {
+    "city": "Zalantun",
+    "admin": "Inner Mongolia",
+    "sort": "318933"
+  },
+  {
+    "city": "Yakou",
+    "admin": "Henan",
+    "sort": "313828"
+  },
+  {
+    "city": "Datang",
+    "admin": "Guangdong",
+    "sort": "310889"
+  },
+  {
+    "city": "Qianzhou",
+    "admin": "Hunan",
+    "sort": "301000"
+  },
+  {
+    "city": "Quzhou",
+    "admin": "Zhejiang",
+    "sort": "300300"
+  },
+  {
+    "city": "Linhai",
+    "admin": "Zhejiang",
+    "sort": "299500"
+  },
+  {
+    "city": "Hong’an",
+    "admin": "Heilongjiang",
+    "sort": "289999"
+  },
+  {
+    "city": "Hulin",
+    "admin": "Heilongjiang",
+    "sort": "290000"
+  },
+  {
+    "city": "Fuquan",
+    "admin": "Guizhou",
+    "sort": "283904"
+  },
+  {
+    "city": "Tongchuanshi",
+    "admin": "Shaanxi",
+    "sort": "282258"
+  },
+  {
+    "city": "Huozhou",
+    "admin": "Shanxi",
+    "sort": "282905"
+  },
+  {
+    "city": "Jining",
+    "admin": "Inner Mongolia",
+    "sort": "281716"
+  },
+  {
+    "city": "Zhuji",
+    "admin": "Zhejiang",
+    "sort": "278900"
+  },
+  {
+    "city": "Shaowu",
+    "admin": "Fujian",
+    "sort": "278000"
+  },
+  {
+    "city": "Linxia Chengguanzhen",
+    "admin": "Gansu",
+    "sort": "274466"
+  },
+  {
+    "city": "Bijiao",
+    "admin": "Guangdong",
+    "sort": "270310"
+  },
+  {
+    "city": "Wenling",
+    "admin": "Zhejiang",
+    "sort": "263700"
+  },
+  {
+    "city": "Wutong",
+    "admin": "Zhejiang",
+    "sort": "257800"
+  },
+  {
+    "city": "Huayin",
+    "admin": "Shaanxi",
+    "sort": "258113"
+  },
+  {
+    "city": "Jinshi",
+    "admin": "Hunan",
+    "sort": "251064"
+  },
+  {
+    "city": "Manzhouli",
+    "admin": "Inner Mongolia",
+    "sort": "249472"
+  },
+  {
+    "city": "Beichengqu",
+    "admin": "Inner Mongolia",
+    "sort": "245608"
+  },
+  {
+    "city": "Diaobingshancun",
+    "admin": "Liaoning",
+    "sort": "241431"
+  },
+  {
+    "city": "Zhangping",
+    "admin": "Fujian",
+    "sort": "242000"
+  },
+  {
+    "city": "Shanhu",
+    "admin": "Zhejiang",
+    "sort": "240400"
+  },
+  {
+    "city": "Atushi",
+    "admin": "Xinjiang",
+    "sort": "240368"
+  },
+  {
+    "city": "Shenmu",
+    "admin": "Shaanxi",
+    "sort": "237846"
+  },
+  {
+    "city": "Lishui",
+    "admin": "Zhejiang",
+    "sort": "238400"
+  },
+  {
+    "city": "Wuyishan",
+    "admin": "Fujian",
+    "sort": "238000"
+  },
+  {
+    "city": "Chishui",
+    "admin": "Guizhou",
+    "sort": "237052"
+  },
+  {
+    "city": "Bole",
+    "admin": "Xinjiang",
+    "sort": "235585"
+  },
+  {
+    "city": "Jiayuguan",
+    "admin": "Gansu",
+    "sort": "231853"
+  },
+  {
+    "city": "Hunchun",
+    "admin": "Jilin",
+    "sort": "225454"
+  },
+  {
+    "city": "Longjin",
+    "admin": "Guangdong",
+    "sort": "221881"
+  },
+  {
+    "city": "Ji’an Shi",
+    "admin": "Jilin",
+    "sort": "222938"
+  },
+  {
+    "city": "Gujiao",
+    "admin": "Shanxi",
+    "sort": "216723"
+  },
+  {
+    "city": "Golmud",
+    "admin": "Qinghai",
+    "sort": "215214"
+  },
+  {
+    "city": "Rui’an",
+    "admin": "Zhejiang",
+    "sort": "213600"
+  },
+  {
+    "city": "Taisheng",
+    "admin": "Guangdong",
+    "sort": "208589"
+  },
+  {
+    "city": "Dongning",
+    "admin": "Heilongjiang",
+    "sort": "210000"
+  },
+  {
+    "city": "Pinghu",
+    "admin": "Zhejiang",
+    "sort": "208500"
+  },
+  {
+    "city": "Huangyan",
+    "admin": "Zhejiang",
+    "sort": "198713"
+  },
+  {
+    "city": "Jiutai",
+    "admin": "Jilin",
+    "sort": "205399"
+  },
+  {
+    "city": "Puqi",
+    "admin": "Hubei",
+    "sort": "205164"
+  },
+  {
+    "city": "Lanxi",
+    "admin": "Zhejiang",
+    "sort": "203300"
+  },
+  {
+    "city": "Zhugang",
+    "admin": "Zhejiang",
+    "sort": "197400"
+  },
+  {
+    "city": "Helong",
+    "admin": "Jilin",
+    "sort": "197885"
+  },
+  {
+    "city": "Donghua",
+    "admin": "Gansu",
+    "sort": "189333"
+  },
+  {
+    "city": "Xiashi",
+    "admin": "Zhejiang",
+    "sort": "187300"
+  },
+  {
+    "city": "Dunhuang",
+    "admin": "Gansu",
+    "sort": "186027"
+  },
+  {
+    "city": "Luzhang",
+    "admin": "Yunnan",
+    "sort": "184835"
+  },
+  {
+    "city": "Longjing",
+    "admin": "Jilin",
+    "sort": "180307"
+  },
+  {
+    "city": "Tongjiang",
+    "admin": "Heilongjiang",
+    "sort": "180000"
+  },
+  {
+    "city": "Guli",
+    "admin": "Zhejiang",
+    "sort": "178900"
+  },
+  {
+    "city": "Lin’an",
+    "admin": "Yunnan",
+    "sort": "177303"
+  },
+  {
+    "city": "Tiantoujiao",
+    "admin": "Guangdong",
+    "sort": "166774"
+  },
+  {
+    "city": "Linjiang",
+    "admin": "Jilin",
+    "sort": "173903"
+  },
+  {
+    "city": "Fenglu",
+    "admin": "Yunnan",
+    "sort": "169366"
+  },
+  {
+    "city": "Basuo",
+    "admin": "Hainan",
+    "sort": "167636"
+  },
+  {
+    "city": "Kuytun",
+    "admin": "Xinjiang",
+    "sort": "166261"
+  },
+  {
+    "city": "Zhanlicun",
+    "admin": "Guangdong",
+    "sort": "161439"
+  },
+  {
+    "city": "Fukang",
+    "admin": "Xinjiang",
+    "sort": "165006"
+  },
+  {
+    "city": "Simao",
+    "admin": "Yunnan",
+    "sort": "162725"
+  },
+  {
+    "city": "Jinggang",
+    "admin": "Guangdong",
+    "sort": "161343"
+  },
+  {
+    "city": "Tacheng",
+    "admin": "Xinjiang",
+    "sort": "161037"
+  },
+  {
+    "city": "Zhengding",
+    "admin": "Hebei",
+    "sort": "158599"
+  },
+  {
+    "city": "Nan Zhuang",
+    "admin": "Guangdong",
+    "sort": "156902"
+  },
+  {
+    "city": "Chaoshan",
+    "admin": "Guangdong",
+    "sort": "156522"
+  },
+  {
+    "city": "Xiaping",
+    "admin": "Jiangxi",
+    "sort": "157000"
+  },
+  {
+    "city": "Dahuaishu",
+    "admin": "Shanxi",
+    "sort": "151037"
+  },
+  {
+    "city": "Fengyicun",
+    "admin": "Guangdong",
+    "sort": "150138"
+  },
+  {
+    "city": "Dongsheng",
+    "admin": "Guangdong",
+    "sort": "147228"
+  },
+  {
+    "city": "Yima",
+    "admin": "Henan",
+    "sort": "144779"
+  },
+  {
+    "city": "Xintang",
+    "admin": "Guangdong",
+    "sort": "144537"
+  },
+  {
+    "city": "Dongxing",
+    "admin": "Guangxi",
+    "sort": "144709"
+  },
+  {
+    "city": "Altay",
+    "admin": "Xinjiang",
+    "sort": "142000"
+  },
+  {
+    "city": "Jinjiang",
+    "admin": "Hainan",
+    "sort": "142948"
+  },
+  {
+    "city": "Nong’an",
+    "admin": "Jilin",
+    "sort": "141482"
+  },
+  {
+    "city": "Shizhaobi",
+    "admin": "Guangdong",
+    "sort": "140493"
+  },
+  {
+    "city": "Shizuishan",
+    "admin": "Ningxia",
+    "sort": "136570"
+  },
+  {
+    "city": "Yunxian Chengguanzhen",
+    "admin": "Hubei",
+    "sort": "133558"
+  },
+  {
+    "city": "Shuangcheng",
+    "admin": "Heilongjiang",
+    "sort": "130710"
+  },
+  {
+    "city": "Zhangmu Touwei",
+    "admin": "Guangdong",
+    "sort": "132816"
+  },
+  {
+    "city": "Jiangshan",
+    "admin": "Zhejiang",
+    "sort": "133600"
+  },
+  {
+    "city": "Nanqiaotou",
+    "admin": "Guangdong",
+    "sort": "130370"
+  },
+  {
+    "city": "Zhaozhou",
+    "admin": "Hebei",
+    "sort": "127545"
+  },
+  {
+    "city": "Lucheng",
+    "admin": "Sichuan",
+    "sort": "130142"
+  },
+  {
+    "city": "Fengcheng",
+    "admin": "Shanxi",
+    "sort": "128571"
+  },
+  {
+    "city": "Baigou",
+    "admin": "Hebei",
+    "sort": "124274"
+  },
+  {
+    "city": "Shiyan",
+    "admin": "",
+    "sort": "122802"
+  },
+  {
+    "city": "Tumen",
+    "admin": "Jilin",
+    "sort": "128212"
+  },
+  {
+    "city": "Jizhou",
+    "admin": "Hebei",
+    "sort": "124716"
+  },
+  {
+    "city": "Fugu",
+    "admin": "Shaanxi",
+    "sort": "124002"
+  },
+  {
+    "city": "Zhaxi",
+    "admin": "Yunnan",
+    "sort": "124458"
+  },
+  {
+    "city": "Gexianzhuang",
+    "admin": "Hebei",
+    "sort": "122917"
+  },
+  {
+    "city": "Longtian",
+    "admin": "Guangdong",
+    "sort": "123469"
+  },
+  {
+    "city": "Lianhe",
+    "admin": "Heilongjiang",
+    "sort": "121367"
+  },
+  {
+    "city": "Xiangcheng",
+    "admin": "Yunnan",
+    "sort": "121959"
+  },
+  {
+    "city": "Shuixi",
+    "admin": "Guangdong",
+    "sort": "119517"
+  },
+  {
+    "city": "Wuling",
+    "admin": "Shanxi",
+    "sort": "121110"
+  },
+  {
+    "city": "Baisha",
+    "admin": "Zhejiang",
+    "sort": "120300"
+  },
+  {
+    "city": "Xuqiaocun",
+    "admin": "Zhejiang",
+    "sort": "118263"
+  },
+  {
+    "city": "Dongsheng",
+    "admin": "Guangdong",
+    "sort": "117976"
+  },
+  {
+    "city": "Yongqing",
+    "admin": "Hebei",
+    "sort": "118494"
+  },
+  {
+    "city": "Yulu",
+    "admin": "Guangdong",
+    "sort": "117110"
+  },
+  {
+    "city": "Huanren",
+    "admin": "Liaoning",
+    "sort": "116621"
+  },
+  {
+    "city": "Qiaotou",
+    "admin": "Qinghai",
+    "sort": "114712"
+  },
+  {
+    "city": "Shacheng",
+    "admin": "Hebei",
+    "sort": "114569"
+  },
+  {
+    "city": "Zhijiang",
+    "admin": "Hunan",
+    "sort": "113907"
+  },
+  {
+    "city": "Heshan",
+    "admin": "Guangxi",
+    "sort": "114496"
+  },
+  {
+    "city": "Mazhang",
+    "admin": "Guangdong",
+    "sort": "107819"
+  },
+  {
+    "city": "Tangjia",
+    "admin": "Guangdong",
+    "sort": "109152"
+  },
+  {
+    "city": "Changbang",
+    "admin": "Zhejiang",
+    "sort": "110352"
+  },
+  {
+    "city": "Pingquan",
+    "admin": "Hebei",
+    "sort": "110646"
+  },
+  {
+    "city": "Dali",
+    "admin": "Shaanxi",
+    "sort": "109696"
+  },
+  {
+    "city": "Genhe",
+    "admin": "Inner Mongolia",
+    "sort": "110438"
+  },
+  {
+    "city": "Xishancun",
+    "admin": "Guangdong",
+    "sort": "108592"
+  },
+  {
+    "city": "Taoyang",
+    "admin": "Gansu",
+    "sort": "109300"
+  },
+  {
+    "city": "Chongshan",
+    "admin": "Hainan",
+    "sort": "107100"
+  },
+  {
+    "city": "Longjiang",
+    "admin": "Heilongjiang",
+    "sort": "106384"
+  },
+  {
+    "city": "Jincheng",
+    "admin": "Shanxi",
+    "sort": "105038"
+  },
+  {
+    "city": "Aihua",
+    "admin": "Yunnan",
+    "sort": "106054"
+  },
+  {
+    "city": "Fugangcun",
+    "admin": "Guangdong",
+    "sort": "102012"
+  },
+  {
+    "city": "Yunfu",
+    "admin": "Yunnan",
+    "sort": "103532"
+  },
+  {
+    "city": "Dongguazhen",
+    "admin": "Yunnan",
+    "sort": "103115"
+  },
+  {
+    "city": "Yishi",
+    "admin": "Shanxi",
+    "sort": "102090"
+  },
+  {
+    "city": "Yilong",
+    "admin": "Yunnan",
+    "sort": "102923"
+  },
+  {
+    "city": "Houzhuang",
+    "admin": "Shanxi",
+    "sort": "102400"
+  },
+  {
+    "city": "Mengdingjie",
+    "admin": "Yunnan",
+    "sort": "102992"
+  },
+  {
+    "city": "Hengnan",
+    "admin": "Guangdong",
+    "sort": "101415"
+  },
+  {
+    "city": "Mositai",
+    "admin": "Inner Mongolia",
+    "sort": "102214"
+  },
+  {
+    "city": "Jingping",
+    "admin": "Shanxi",
+    "sort": "101297"
+  },
+  {
+    "city": "Liancheng",
+    "admin": "Yunnan",
+    "sort": "101221"
+  },
+  {
+    "city": "Weifen",
+    "admin": "Shanxi",
+    "sort": "100615"
+  },
+  {
+    "city": "Nanxicun",
+    "admin": "Guangdong",
+    "sort": "97747"
+  },
+  {
+    "city": "Wangqing",
+    "admin": "Jilin",
+    "sort": "88732"
+  },
+  {
+    "city": "Yishui",
+    "admin": "Shandong",
+    "sort": "94115"
+  },
+  {
+    "city": "Lingtang",
+    "admin": "Guangdong",
+    "sort": "93835"
+  },
+  {
+    "city": "Fenggang",
+    "admin": "Guangdong",
+    "sort": "93148"
+  },
+  {
+    "city": "Xiancun",
+    "admin": "Guangdong",
+    "sort": "91109"
+  },
+  {
+    "city": "Kargilik",
+    "admin": "Xinjiang",
+    "sort": "75730"
+  },
+  {
+    "city": "Tangxing",
+    "admin": "Shanxi",
+    "sort": "86862"
+  },
+  {
+    "city": "Daxincun",
+    "admin": "Ningxia",
+    "sort": "76536"
+  },
+  {
+    "city": "Xishancun",
+    "admin": "Guangdong",
+    "sort": "83822"
+  },
+  {
+    "city": "Mingxing",
+    "admin": "Shanxi",
+    "sort": "82981"
+  },
+  {
+    "city": "Huolu",
+    "admin": "Hebei",
+    "sort": "78250"
+  },
+  {
+    "city": "Shancheng",
+    "admin": "Shandong",
+    "sort": "74459"
+  },
+  {
+    "city": "Jinsha",
+    "admin": "Guangdong",
+    "sort": "71240"
+  },
+  {
+    "city": "Longkoucun",
+    "admin": "Guangdong",
+    "sort": "72421"
+  },
+  {
+    "city": "Karakax",
+    "admin": "Xinjiang",
+    "sort": "66541"
+  },
+  {
+    "city": "Jinxing",
+    "admin": "Ningxia",
+    "sort": "60086"
+  },
+  {
+    "city": "Lechang",
+    "admin": "Shanxi",
+    "sort": "64587"
+  },
+  {
+    "city": "Suileng",
+    "admin": "Heilongjiang",
+    "sort": "57789"
+  },
+  {
+    "city": "Longxing",
+    "admin": "Shanxi",
+    "sort": "56381"
+  },
+  {
+    "city": "Liuhu",
+    "admin": "Gansu",
+    "sort": "47442"
+  },
+  {
+    "city": "Gutao",
+    "admin": "Shanxi",
+    "sort": "50000"
+  },
+  {
+    "city": "Guozhen",
+    "admin": "Shaanxi",
+    "sort": "49100"
+  },
+  {
+    "city": "Yuchengcun",
+    "admin": "Guangdong",
+    "sort": "43983"
+  },
+  {
+    "city": "Daijiazhuang",
+    "admin": "Hebei",
+    "sort": "44111"
+  },
+  {
+    "city": "Donggangli",
+    "admin": "Hebei",
+    "sort": "24605"
+  },
+  {
+    "city": "Matoupu",
+    "admin": "Hebei",
+    "sort": "40010"
+  },
+  {
+    "city": "Shengli",
+    "admin": "Ningxia",
+    "sort": "36937"
+  },
+  {
+    "city": "Shangzhuangcun",
+    "admin": "Guangdong",
+    "sort": "35570"
+  },
+  {
+    "city": "Yihezhuang",
+    "admin": "Hebei",
+    "sort": "34359"
+  },
+  {
+    "city": "Beidaying",
+    "admin": "Hebei",
+    "sort": "31139"
+  },
+  {
+    "city": "Zhaoyu",
+    "admin": "Shanxi",
+    "sort": "31685"
+  },
+  {
+    "city": "Dongta",
+    "admin": "Ningxia",
+    "sort": "22040"
+  },
+  {
+    "city": "Xingangli",
+    "admin": "Hebei",
+    "sort": "19751"
+  },
+  {
+    "city": "Fengdeng",
+    "admin": "Ningxia",
+    "sort": "12922"
+  },
+  {
+    "city": "Fulin",
+    "admin": "Sichuan",
+    "sort": "1049"
+  },
+  {
+    "city": "Xiongzhou",
+    "admin": "Hebei",
+    "sort": "99693"
+  },
+  {
+    "city": "Xiegang",
+    "admin": "Guangdong",
+    "sort": "99387"
+  },
+  {
+    "city": "Fengning",
+    "admin": "Hebei",
+    "sort": "99673"
+  },
+  {
+    "city": "Fanyang",
+    "admin": "Anhui",
+    "sort": "97300"
+  },
+  {
+    "city": "Wujiaqu",
+    "admin": "Xinjiang",
+    "sort": "96436"
+  },
+  {
+    "city": "Longquan",
+    "admin": "Shanxi",
+    "sort": "95849"
+  },
+  {
+    "city": "Longkeng",
+    "admin": "Guangdong",
+    "sort": "95881"
+  },
+  {
+    "city": "Jinbi",
+    "admin": "Yunnan",
+    "sort": "95639"
+  },
+  {
+    "city": "Xiluodu",
+    "admin": "Yunnan",
+    "sort": "95439"
+  },
+  {
+    "city": "Boli",
+    "admin": "Heilongjiang",
+    "sort": "95260"
+  },
+  {
+    "city": "Yi Xian",
+    "admin": "Hebei",
+    "sort": "94110"
+  },
+  {
+    "city": "Jinshan",
+    "admin": "Yunnan",
+    "sort": "95044"
+  },
+  {
+    "city": "Bayan Hot",
+    "admin": "Inner Mongolia",
+    "sort": "94445"
+  },
+  {
+    "city": "Wangjia",
+    "admin": "Zhejiang",
+    "sort": "93291"
+  },
+  {
+    "city": "Yunnanyi",
+    "admin": "Yunnan",
+    "sort": "93671"
+  },
+  {
+    "city": "Linquan",
+    "admin": "Shanxi",
+    "sort": "91670"
+  },
+  {
+    "city": "Laiyuan",
+    "admin": "Hebei",
+    "sort": "92691"
+  },
+  {
+    "city": "Weiyuan",
+    "admin": "Yunnan",
+    "sort": "91536"
+  },
+  {
+    "city": "Julu",
+    "admin": "Hebei",
+    "sort": "90311"
+  },
+  {
+    "city": "Hezuo",
+    "admin": "Gansu",
+    "sort": "90290"
+  },
+  {
+    "city": "Leping",
+    "admin": "Shanxi",
+    "sort": "88559"
+  },
+  {
+    "city": "Qiantangcun",
+    "admin": "Guangdong",
+    "sort": "88001"
+  },
+  {
+    "city": "Dongchuan",
+    "admin": "Yunnan",
+    "sort": "88481"
+  },
+  {
+    "city": "Pingyuanjie",
+    "admin": "Yunnan",
+    "sort": "88103"
+  },
+  {
+    "city": "Changting",
+    "admin": "Fujian",
+    "sort": "87458"
+  },
+  {
+    "city": "Leshou",
+    "admin": "Hebei",
+    "sort": "88069"
+  },
+  {
+    "city": "Heyunkeng",
+    "admin": "Guangdong",
+    "sort": "86951"
+  },
+  {
+    "city": "Wulan",
+    "admin": "Gansu",
+    "sort": "86990"
+  },
+  {
+    "city": "Menglang",
+    "admin": "Yunnan",
+    "sort": "86877"
+  },
+  {
+    "city": "Dingcheng",
+    "admin": "Hainan",
+    "sort": "86367"
+  },
+  {
+    "city": "Tuncheng",
+    "admin": "Hainan",
+    "sort": "86474"
+  },
+  {
+    "city": "Yaofeng",
+    "admin": "Shanxi",
+    "sort": "86435"
+  },
+  {
+    "city": "Ducheng",
+    "admin": "Guangdong",
+    "sort": "85659"
+  },
+  {
+    "city": "Shaoshanzhan",
+    "admin": "Hunan",
+    "sort": "86036"
+  },
+  {
+    "city": "Longchuan",
+    "admin": "Yunnan",
+    "sort": "86060"
+  },
+  {
+    "city": "Longhua",
+    "admin": "Hebei",
+    "sort": "85697"
+  },
+  {
+    "city": "Luancheng",
+    "admin": "Hebei",
+    "sort": "84068"
+  },
+  {
+    "city": "Korgas",
+    "admin": "Xinjiang",
+    "sort": "85000"
+  },
+  {
+    "city": "Nantingcun",
+    "admin": "Guangdong",
+    "sort": "82944"
+  },
+  {
+    "city": "Wutiancun",
+    "admin": "Guangdong",
+    "sort": "82986"
+  },
+  {
+    "city": "Wuyi",
+    "admin": "Hebei",
+    "sort": "82526"
+  },
+  {
+    "city": "Xiedian",
+    "admin": "Shanxi",
+    "sort": "81386"
+  },
+  {
+    "city": "Kongjiazhuang",
+    "admin": "Hebei",
+    "sort": "81909"
+  },
+  {
+    "city": "Hengkou",
+    "admin": "Shaanxi",
+    "sort": "81086"
+  },
+  {
+    "city": "Xindian",
+    "admin": "Yunnan",
+    "sort": "81667"
+  },
+  {
+    "city": "Shuibian",
+    "admin": "Guangdong",
+    "sort": "81413"
+  },
+  {
+    "city": "Yanggao",
+    "admin": "Guangdong",
+    "sort": "80681"
+  },
+  {
+    "city": "Shiji",
+    "admin": "Guangdong",
+    "sort": "80773"
+  },
+  {
+    "city": "Koktokay",
+    "admin": "Xinjiang",
+    "sort": "80000"
+  },
+  {
+    "city": "Mabai",
+    "admin": "Yunnan",
+    "sort": "79534"
+  },
+  {
+    "city": "Jinhe",
+    "admin": "Yunnan",
+    "sort": "79658"
+  },
+  {
+    "city": "Jiangna",
+    "admin": "Yunnan",
+    "sort": "79448"
+  },
+  {
+    "city": "Pingyi",
+    "admin": "Shandong",
+    "sort": "78254"
+  },
+  {
+    "city": "Hengbei",
+    "admin": "Guangdong",
+    "sort": "78575"
+  },
+  {
+    "city": "Chengbin",
+    "admin": "Hainan",
+    "sort": "77904"
+  },
+  {
+    "city": "Linkou",
+    "admin": "Heilongjiang",
+    "sort": "77754"
+  },
+  {
+    "city": "Funing",
+    "admin": "Hebei",
+    "sort": "76460"
+  },
+  {
+    "city": "Daying",
+    "admin": "Hebei",
+    "sort": "76800"
+  },
+  {
+    "city": "Dongguan",
+    "admin": "Shanxi",
+    "sort": "75135"
+  },
+  {
+    "city": "E’erguna",
+    "admin": "Inner Mongolia",
+    "sort": "76667"
+  },
+  {
+    "city": "Fancheng",
+    "admin": "Shanxi",
+    "sort": "76088"
+  },
+  {
+    "city": "Tailai",
+    "admin": "Heilongjiang",
+    "sort": "75992"
+  },
+  {
+    "city": "Longquan",
+    "admin": "Zhejiang",
+    "sort": "75900"
+  },
+  {
+    "city": "Xinglong",
+    "admin": "Hebei",
+    "sort": "75381"
+  },
+  {
+    "city": "Zhongcheng",
+    "admin": "Yunnan",
+    "sort": "75425"
+  },
+  {
+    "city": "Puqiancun",
+    "admin": "Guangdong",
+    "sort": "75006"
+  },
+  {
+    "city": "Tongye",
+    "admin": "Hebei",
+    "sort": "73428"
+  },
+  {
+    "city": "Chaigoubu",
+    "admin": "Hebei",
+    "sort": "73028"
+  },
+  {
+    "city": "Jingzhou",
+    "admin": "Hebei",
+    "sort": "72806"
+  },
+  {
+    "city": "Lanxi",
+    "admin": "Heilongjiang",
+    "sort": "72528"
+  },
+  {
+    "city": "Zhuolu",
+    "admin": "Hebei",
+    "sort": "72538"
+  },
+  {
+    "city": "Wenping",
+    "admin": "Yunnan",
+    "sort": "71943"
+  },
+  {
+    "city": "Xiangjiaba",
+    "admin": "Yunnan",
+    "sort": "72283"
+  },
+  {
+    "city": "Keshan",
+    "admin": "Heilongjiang",
+    "sort": "72403"
+  },
+  {
+    "city": "Yinying",
+    "admin": "Shanxi",
+    "sort": "70614"
+  },
+  {
+    "city": "Baiquan",
+    "admin": "Heilongjiang",
+    "sort": "70472"
+  },
+  {
+    "city": "Pan’an",
+    "admin": "Gansu",
+    "sort": "70072"
+  },
+  {
+    "city": "Guzhou",
+    "admin": "Guizhou",
+    "sort": "70098"
+  },
+  {
+    "city": "Rongcheng",
+    "admin": "Hebei",
+    "sort": "69143"
+  },
+  {
+    "city": "Zhanggu",
+    "admin": "Sichuan",
+    "sort": "70000"
+  },
+  {
+    "city": "Fanzhuang",
+    "admin": "Hebei",
+    "sort": "69155"
+  },
+  {
+    "city": "Shangchuankou",
+    "admin": "Qinghai",
+    "sort": "69252"
+  },
+  {
+    "city": "Qingquan",
+    "admin": "Gansu",
+    "sort": "69902"
+  },
+  {
+    "city": "Yitiaoshan",
+    "admin": "Gansu",
+    "sort": "68952"
+  },
+  {
+    "city": "Yanghe",
+    "admin": "Ningxia",
+    "sort": "67901"
+  },
+  {
+    "city": "Liuhe",
+    "admin": "Jilin",
+    "sort": "68938"
+  },
+  {
+    "city": "Huishi",
+    "admin": "Gansu",
+    "sort": "68958"
+  },
+  {
+    "city": "Chengjiao Chengguanzhen",
+    "admin": "Gansu",
+    "sort": "67826"
+  },
+  {
+    "city": "Xinhua",
+    "admin": "Yunnan",
+    "sort": "67976"
+  },
+  {
+    "city": "Wanzhuang",
+    "admin": "Hebei",
+    "sort": "67158"
+  },
+  {
+    "city": "Zanhuang",
+    "admin": "Hebei",
+    "sort": "66255"
+  },
+  {
+    "city": "Longshan",
+    "admin": "Guizhou",
+    "sort": "67790"
+  },
+  {
+    "city": "Yuquan",
+    "admin": "Shanxi",
+    "sort": "67449"
+  },
+  {
+    "city": "Lushar",
+    "admin": "Qinghai",
+    "sort": "67153"
+  },
+  {
+    "city": "Guangping",
+    "admin": "Hebei",
+    "sort": "66384"
+  },
+  {
+    "city": "Weiyuan",
+    "admin": "Qinghai",
+    "sort": "66490"
+  },
+  {
+    "city": "Qarqan",
+    "admin": "Xinjiang",
+    "sort": "65572"
+  },
+  {
+    "city": "Huinan",
+    "admin": "Jilin",
+    "sort": "66315"
+  },
+  {
+    "city": "Xieqiaocun",
+    "admin": "Zhejiang",
+    "sort": "65473"
+  },
+  {
+    "city": "Huquan",
+    "admin": "Shanxi",
+    "sort": "66271"
+  },
+  {
+    "city": "Xibang",
+    "admin": "Jiangsu",
+    "sort": "65211"
+  },
+  {
+    "city": "Qinggang",
+    "admin": "Heilongjiang",
+    "sort": "64182"
+  },
+  {
+    "city": "Lingshou",
+    "admin": "Hebei",
+    "sort": "62713"
+  },
+  {
+    "city": "Bamei",
+    "admin": "Yunnan",
+    "sort": "64188"
+  },
+  {
+    "city": "Kangbao",
+    "admin": "Hebei",
+    "sort": "63779"
+  },
+  {
+    "city": "Yangqingcun",
+    "admin": "Guangdong",
+    "sort": "63578"
+  },
+  {
+    "city": "Wenxicun",
+    "admin": "Zhejiang",
+    "sort": "62407"
+  },
+  {
+    "city": "Shangtangcun",
+    "admin": "Guangdong",
+    "sort": "62287"
+  },
+  {
+    "city": "Meihua",
+    "admin": "Hebei",
+    "sort": "60791"
+  },
+  {
+    "city": "Xinmin",
+    "admin": "Shaanxi",
+    "sort": "61441"
+  },
+  {
+    "city": "Yongyang",
+    "admin": "Guizhou",
+    "sort": "60557"
+  },
+  {
+    "city": "Shihe",
+    "admin": "Shanxi",
+    "sort": "60724"
+  },
+  {
+    "city": "Dongcun",
+    "admin": "Shanxi",
+    "sort": "59772"
+  },
+  {
+    "city": "Yongbei",
+    "admin": "Yunnan",
+    "sort": "60099"
+  },
+  {
+    "city": "Lianzhuang",
+    "admin": "Hebei",
+    "sort": "59576"
+  },
+  {
+    "city": "Suifenhe",
+    "admin": "Heilongjiang",
+    "sort": "60000"
+  },
+  {
+    "city": "Huajiang",
+    "admin": "Guizhou",
+    "sort": "59657"
+  },
+  {
+    "city": "Zhoujiajing",
+    "admin": "Jiangsu",
+    "sort": "59300"
+  },
+  {
+    "city": "Gannan",
+    "admin": "Heilongjiang",
+    "sort": "59239"
+  },
+  {
+    "city": "Tianningcun",
+    "admin": "Zhejiang",
+    "sort": "58430"
+  },
+  {
+    "city": "Zengcun",
+    "admin": "Hebei",
+    "sort": "58339"
+  },
+  {
+    "city": "Xikeng",
+    "admin": "Guangdong",
+    "sort": "58890"
+  },
+  {
+    "city": "Wuyang",
+    "admin": "Guizhou",
+    "sort": "58630"
+  },
+  {
+    "city": "Sucun",
+    "admin": "Anhui",
+    "sort": "58300"
+  },
+  {
+    "city": "Yanguancun",
+    "admin": "Zhejiang",
+    "sort": "57609"
+  },
+  {
+    "city": "Sunshi",
+    "admin": "Hebei",
+    "sort": "57980"
+  },
+  {
+    "city": "Ma’erkang",
+    "admin": "Sichuan",
+    "sort": "58437"
+  },
+  {
+    "city": "Jiantang",
+    "admin": "Yunnan",
+    "sort": "58339"
+  },
+  {
+    "city": "Huaniu",
+    "admin": "Gansu",
+    "sort": "57360"
+  },
+  {
+    "city": "Gengzhuangqiao",
+    "admin": "Hebei",
+    "sort": "57617"
+  },
+  {
+    "city": "Xiezhou",
+    "admin": "Shanxi",
+    "sort": "57773"
+  },
+  {
+    "city": "Ping’an",
+    "admin": "Qinghai",
+    "sort": "57152"
+  },
+  {
+    "city": "Qianwu",
+    "admin": "Guangdong",
+    "sort": "57352"
+  },
+  {
+    "city": "Shicun",
+    "admin": "Hebei",
+    "sort": "56736"
+  },
+  {
+    "city": "Chini",
+    "admin": "Guangdong",
+    "sort": "56609"
+  },
+  {
+    "city": "Mengla",
+    "admin": "Yunnan",
+    "sort": "56612"
+  },
+  {
+    "city": "Cui’erzhuang",
+    "admin": "Hebei",
+    "sort": "56096"
+  },
+  {
+    "city": "Bianyang",
+    "admin": "Guizhou",
+    "sort": "56451"
+  },
+  {
+    "city": "Xinqing",
+    "admin": "Heilongjiang",
+    "sort": "55415"
+  },
+  {
+    "city": "Longmen",
+    "admin": "Shaanxi",
+    "sort": "55847"
+  },
+  {
+    "city": "Yongqing",
+    "admin": "Gansu",
+    "sort": "55595"
+  },
+  {
+    "city": "Wangguanzhuang",
+    "admin": "Hebei",
+    "sort": "55258"
+  },
+  {
+    "city": "Changling",
+    "admin": "Jilin",
+    "sort": "55841"
+  },
+  {
+    "city": "Songlindian",
+    "admin": "Hebei",
+    "sort": "54467"
+  },
+  {
+    "city": "Huaishu",
+    "admin": "Hebei",
+    "sort": "54246"
+  },
+  {
+    "city": "Mali",
+    "admin": "Yunnan",
+    "sort": "54511"
+  },
+  {
+    "city": "Xielu",
+    "admin": "Hebei",
+    "sort": "53692"
+  },
+  {
+    "city": "Jinchang",
+    "admin": "Shanxi",
+    "sort": "54533"
+  },
+  {
+    "city": "Dayin",
+    "admin": "Hebei",
+    "sort": "53868"
+  },
+  {
+    "city": "Shidong",
+    "admin": "Guangdong",
+    "sort": "54347"
+  },
+  {
+    "city": "Qingan",
+    "admin": "Heilongjiang",
+    "sort": "53206"
+  },
+  {
+    "city": "Xingcheng",
+    "admin": "Hebei",
+    "sort": "52814"
+  },
+  {
+    "city": "Zhangjiazhuang",
+    "admin": "Hebei",
+    "sort": "52604"
+  },
+  {
+    "city": "Yangmei",
+    "admin": "Guangdong",
+    "sort": "53224"
+  },
+  {
+    "city": "Xincheng",
+    "admin": "Shanxi",
+    "sort": "52903"
+  },
+  {
+    "city": "Yaozhuangcun",
+    "admin": "Zhejiang",
+    "sort": "52619"
+  },
+  {
+    "city": "Huaiyang",
+    "admin": "Hebei",
+    "sort": "50859"
+  },
+  {
+    "city": "Qabqa",
+    "admin": "Qinghai",
+    "sort": "52500"
+  },
+  {
+    "city": "Wangjiazhai",
+    "admin": "Guizhou",
+    "sort": "51869"
+  },
+  {
+    "city": "Shimencun",
+    "admin": "Zhejiang",
+    "sort": "51021"
+  },
+  {
+    "city": "Huazangsi",
+    "admin": "Gansu",
+    "sort": "51603"
+  },
+  {
+    "city": "Zhexiang",
+    "admin": "Yunnan",
+    "sort": "51477"
+  },
+  {
+    "city": "Douyu",
+    "admin": "Hebei",
+    "sort": "49914"
+  },
+  {
+    "city": "Fangcun",
+    "admin": "Hebei",
+    "sort": "49212"
+  },
+  {
+    "city": "Longwan",
+    "admin": "Hebei",
+    "sort": "49949"
+  },
+  {
+    "city": "Qinhe",
+    "admin": "Shanxi",
+    "sort": "50143"
+  },
+  {
+    "city": "Baicheng",
+    "admin": "Xinjiang",
+    "sort": "49207"
+  },
+  {
+    "city": "Huanghuajie",
+    "admin": "Yunnan",
+    "sort": "50032"
+  },
+  {
+    "city": "Nanjian",
+    "admin": "Yunnan",
+    "sort": "50083"
+  },
+  {
+    "city": "Xiazhai",
+    "admin": "Guizhou",
+    "sort": "50000"
+  },
+  {
+    "city": "Lindong",
+    "admin": "Inner Mongolia",
+    "sort": "50000"
+  },
+  {
+    "city": "Shankou",
+    "admin": "Guangdong",
+    "sort": "49896"
+  },
+  {
+    "city": "Nenjiang",
+    "admin": "Heilongjiang",
+    "sort": "50000"
+  },
+  {
+    "city": "Jiuzhou",
+    "admin": "Hebei",
+    "sort": "49616"
+  },
+  {
+    "city": "Zongshizhuang",
+    "admin": "Hebei",
+    "sort": "49014"
+  },
+  {
+    "city": "Liujiaxia",
+    "admin": "Gansu",
+    "sort": "48505"
+  },
+  {
+    "city": "Wofotang",
+    "admin": "Hebei",
+    "sort": "48986"
+  },
+  {
+    "city": "Jiashizhuang",
+    "admin": "Hebei",
+    "sort": "48274"
+  },
+  {
+    "city": "Donglizhuang",
+    "admin": "Hebei",
+    "sort": "48686"
+  },
+  {
+    "city": "Yong’an",
+    "admin": "Chongqing",
+    "sort": "49168"
+  },
+  {
+    "city": "Dongshan",
+    "admin": "Guangdong",
+    "sort": "48229"
+  },
+  {
+    "city": "Longtoushan Jiezi",
+    "admin": "Yunnan",
+    "sort": "48150"
+  },
+  {
+    "city": "Pangkou",
+    "admin": "Hebei",
+    "sort": "47139"
+  },
+  {
+    "city": "Zhujiacun",
+    "admin": "Yunnan",
+    "sort": "48124"
+  },
+  {
+    "city": "Yongping",
+    "admin": "Shaanxi",
+    "sort": "47990"
+  },
+  {
+    "city": "Mengmeng",
+    "admin": "Yunnan",
+    "sort": "47966"
+  },
+  {
+    "city": "Yecun",
+    "admin": "Shaanxi",
+    "sort": "47575"
+  },
+  {
+    "city": "Jitaicun",
+    "admin": "Hebei",
+    "sort": "46974"
+  },
+  {
+    "city": "Qingyuan",
+    "admin": "Guangxi",
+    "sort": "47062"
+  },
+  {
+    "city": "Liulin",
+    "admin": "Shaanxi",
+    "sort": "46991"
+  },
+  {
+    "city": "Tangdukou",
+    "admin": "Hunan",
+    "sort": "45617"
+  },
+  {
+    "city": "Daxiang",
+    "admin": "Guangdong",
+    "sort": "46674"
+  },
+  {
+    "city": "Yehe",
+    "admin": "Hebei",
+    "sort": "46333"
+  },
+  {
+    "city": "Qiutouzhen",
+    "admin": "Hebei",
+    "sort": "46291"
+  },
+  {
+    "city": "Wangtan",
+    "admin": "Hebei",
+    "sort": "46645"
+  },
+  {
+    "city": "Nanzhuangzhen",
+    "admin": "Yunnan",
+    "sort": "46696"
+  },
+  {
+    "city": "Yashan",
+    "admin": "Guangdong",
+    "sort": "46700"
+  },
+  {
+    "city": "Dongzhuosu",
+    "admin": "Hebei",
+    "sort": "45748"
+  },
+  {
+    "city": "Fangguan",
+    "admin": "Hebei",
+    "sort": "46090"
+  },
+  {
+    "city": "Shimenzhai",
+    "admin": "Hebei",
+    "sort": "46356"
+  },
+  {
+    "city": "Zhongzhai",
+    "admin": "Guizhou",
+    "sort": "46267"
+  },
+  {
+    "city": "Anshan",
+    "admin": "Hebei",
+    "sort": "45804"
+  },
+  {
+    "city": "Xingji",
+    "admin": "Hebei",
+    "sort": "44849"
+  },
+  {
+    "city": "Caiguantun",
+    "admin": "Guizhou",
+    "sort": "45580"
+  },
+  {
+    "city": "Changchong",
+    "admin": "Guizhou",
+    "sort": "45702"
+  },
+  {
+    "city": "Xisa",
+    "admin": "Yunnan",
+    "sort": "45518"
+  },
+  {
+    "city": "Baiji",
+    "admin": "Guizhou",
+    "sort": "45576"
+  },
+  {
+    "city": "Nongzhangjie",
+    "admin": "Yunnan",
+    "sort": "45270"
+  },
+  {
+    "city": "Shazhou",
+    "admin": "Gansu",
+    "sort": "44870"
+  },
+  {
+    "city": "Bingmei",
+    "admin": "Guizhou",
+    "sort": "45094"
+  },
+  {
+    "city": "Beiwanglizhen",
+    "admin": "Hebei",
+    "sort": "44112"
+  },
+  {
+    "city": "Shangshan",
+    "admin": "Guangdong",
+    "sort": "44871"
+  },
+  {
+    "city": "Tangjiacun",
+    "admin": "Guangdong",
+    "sort": "44684"
+  },
+  {
+    "city": "Liuquan",
+    "admin": "Hebei",
+    "sort": "44765"
+  },
+  {
+    "city": "Yaopu",
+    "admin": "Guizhou",
+    "sort": "44703"
+  },
+  {
+    "city": "Houbu",
+    "admin": "Shanxi",
+    "sort": "44360"
+  },
+  {
+    "city": "Yaoquan",
+    "admin": "Gansu",
+    "sort": "44372"
+  },
+  {
+    "city": "Qingfengdian",
+    "admin": "Hebei",
+    "sort": "43703"
+  },
+  {
+    "city": "Changtoushang",
+    "admin": "Hainan",
+    "sort": "44326"
+  },
+  {
+    "city": "Tuodian",
+    "admin": "Yunnan",
+    "sort": "44265"
+  },
+  {
+    "city": "Hanerik",
+    "admin": "Xinjiang",
+    "sort": "43751"
+  },
+  {
+    "city": "Jinku",
+    "admin": "Guangdong",
+    "sort": "43623"
+  },
+  {
+    "city": "Xinjun",
+    "admin": "Zhejiang",
+    "sort": "43793"
+  },
+  {
+    "city": "Menghan",
+    "admin": "Yunnan",
+    "sort": "43965"
+  },
+  {
+    "city": "Jiaohe",
+    "admin": "Hebei",
+    "sort": "43547"
+  },
+  {
+    "city": "Khutubi",
+    "admin": "Xinjiang",
+    "sort": "43127"
+  },
+  {
+    "city": "Nandazhang",
+    "admin": "Hebei",
+    "sort": "42934"
+  },
+  {
+    "city": "Zhangliangcun",
+    "admin": "Shanxi",
+    "sort": "43151"
+  },
+  {
+    "city": "Xihuachi",
+    "admin": "Gansu",
+    "sort": "43338"
+  },
+  {
+    "city": "Zhangcun",
+    "admin": "Hebei",
+    "sort": "42911"
+  },
+  {
+    "city": "Wangyuanqiao",
+    "admin": "Ningxia",
+    "sort": "42022"
+  },
+  {
+    "city": "Shuilou",
+    "admin": "Guangdong",
+    "sort": "42578"
+  },
+  {
+    "city": "Nansan",
+    "admin": "Yunnan",
+    "sort": "43097"
+  },
+  {
+    "city": "Loufan",
+    "admin": "Shanxi",
+    "sort": "42520"
+  },
+  {
+    "city": "Shenjiatun",
+    "admin": "Hebei",
+    "sort": "42338"
+  },
+  {
+    "city": "Dusheng",
+    "admin": "Hebei",
+    "sort": "41774"
+  },
+  {
+    "city": "Cuihua",
+    "admin": "Yunnan",
+    "sort": "42262"
+  },
+  {
+    "city": "Yangcunzai",
+    "admin": "Guangdong",
+    "sort": "41958"
+  },
+  {
+    "city": "Liantang",
+    "admin": "Guangdong",
+    "sort": "42141"
+  },
+  {
+    "city": "Wancheng",
+    "admin": "Hebei",
+    "sort": "41080"
+  },
+  {
+    "city": "Machang",
+    "admin": "Guizhou",
+    "sort": "42185"
+  },
+  {
+    "city": "Dacun",
+    "admin": "Shaanxi",
+    "sort": "41763"
+  },
+  {
+    "city": "Lingquan",
+    "admin": "Shanxi",
+    "sort": "41996"
+  },
+  {
+    "city": "Litian Gezhuang",
+    "admin": "Hebei",
+    "sort": "41676"
+  },
+  {
+    "city": "Xinleitou",
+    "admin": "Hebei",
+    "sort": "40761"
+  },
+  {
+    "city": "Yinggen",
+    "admin": "Hainan",
+    "sort": "41835"
+  },
+  {
+    "city": "Nanbaishezhen",
+    "admin": "Hebei",
+    "sort": "41138"
+  },
+  {
+    "city": "Nanmeng",
+    "admin": "Hebei",
+    "sort": "41019"
+  },
+  {
+    "city": "Yangtangxu",
+    "admin": "Guangdong",
+    "sort": "40616"
+  },
+  {
+    "city": "Gaolincun",
+    "admin": "Hebei",
+    "sort": "40729"
+  },
+  {
+    "city": "Baichigan",
+    "admin": "Hebei",
+    "sort": "40748"
+  },
+  {
+    "city": "Tanxia",
+    "admin": "Guangdong",
+    "sort": "41181"
+  },
+  {
+    "city": "Tiegan",
+    "admin": "Hebei",
+    "sort": "40683"
+  },
+  {
+    "city": "Anyuan",
+    "admin": "Gansu",
+    "sort": "40828"
+  },
+  {
+    "city": "Yingzhou Linchang",
+    "admin": "Hainan",
+    "sort": "40925"
+  },
+  {
+    "city": "Shanhe",
+    "admin": "Gansu",
+    "sort": "40728"
+  },
+  {
+    "city": "Taicheng",
+    "admin": "Shanxi",
+    "sort": "40145"
+  },
+  {
+    "city": "Zhujiezhen",
+    "admin": "Yunnan",
+    "sort": "40623"
+  },
+  {
+    "city": "Yian",
+    "admin": "Heilongjiang",
+    "sort": "39924"
+  },
+  {
+    "city": "Longtang",
+    "admin": "Guizhou",
+    "sort": "40094"
+  },
+  {
+    "city": "Oroqen Zizhiqi",
+    "admin": "Inner Mongolia",
+    "sort": "40128"
+  },
+  {
+    "city": "Zhongbai",
+    "admin": "Guizhou",
+    "sort": "39893"
+  },
+  {
+    "city": "Alashankou",
+    "admin": "Xinjiang",
+    "sort": "40000"
+  },
+  {
+    "city": "Jiaozishan",
+    "admin": "Guizhou",
+    "sort": "39551"
+  },
+  {
+    "city": "Xinlizhuang",
+    "admin": "Hebei",
+    "sort": "39474"
+  },
+  {
+    "city": "Weibo",
+    "admin": "Hebei",
+    "sort": "38748"
+  },
+  {
+    "city": "Tianchang",
+    "admin": "Hebei",
+    "sort": "38656"
+  },
+  {
+    "city": "Sanjiang",
+    "admin": "Guangdong",
+    "sort": "39398"
+  },
+  {
+    "city": "Yangfang",
+    "admin": "Hebei",
+    "sort": "38922"
+  },
+  {
+    "city": "Niutuo",
+    "admin": "Hebei",
+    "sort": "38947"
+  },
+  {
+    "city": "Shijiazhuangnan",
+    "admin": "Hebei",
+    "sort": "38403"
+  },
+  {
+    "city": "Sungandiancun",
+    "admin": "Hebei",
+    "sort": "38542"
+  },
+  {
+    "city": "Xiwanzi",
+    "admin": "Hebei",
+    "sort": "38879"
+  },
+  {
+    "city": "Changchunpu",
+    "admin": "Guizhou",
+    "sort": "38896"
+  },
+  {
+    "city": "Bayan",
+    "admin": "Qinghai",
+    "sort": "38315"
+  },
+  {
+    "city": "Xiaguanying",
+    "admin": "Gansu",
+    "sort": "38342"
+  },
+  {
+    "city": "Lanyi",
+    "admin": "Shanxi",
+    "sort": "38431"
+  },
+  {
+    "city": "Monan",
+    "admin": "Hebei",
+    "sort": "38158"
+  },
+  {
+    "city": "Siyang",
+    "admin": "Guizhou",
+    "sort": "38261"
+  },
+  {
+    "city": "Yanqi",
+    "admin": "Xinjiang",
+    "sort": "37649"
+  },
+  {
+    "city": "Dengtangcun",
+    "admin": "Guangdong",
+    "sort": "37983"
+  },
+  {
+    "city": "Xinpo",
+    "admin": "Guangdong",
+    "sort": "36699"
+  },
+  {
+    "city": "Xinqiao",
+    "admin": "Hebei",
+    "sort": "37583"
+  },
+  {
+    "city": "Yamen",
+    "admin": "Guangdong",
+    "sort": "37963"
+  },
+  {
+    "city": "Sanchahe",
+    "admin": "Ningxia",
+    "sort": "37675"
+  },
+  {
+    "city": "Dajiecun",
+    "admin": "Hebei",
+    "sort": "37290"
+  },
+  {
+    "city": "Daiyue",
+    "admin": "Shanxi",
+    "sort": "35894"
+  },
+  {
+    "city": "Jelilyüzi",
+    "admin": "Xinjiang",
+    "sort": "37238"
+  },
+  {
+    "city": "Wangsicun",
+    "admin": "Hebei",
+    "sort": "37184"
+  },
+  {
+    "city": "Shiji",
+    "admin": "Guangdong",
+    "sort": "37402"
+  },
+  {
+    "city": "Fengguangcun",
+    "admin": "Guangdong",
+    "sort": "37337"
+  },
+  {
+    "city": "Shaxi",
+    "admin": "Guangdong",
+    "sort": "36957"
+  },
+  {
+    "city": "Pingxiangcheng",
+    "admin": "Hebei",
+    "sort": "36907"
+  },
+  {
+    "city": "Daying",
+    "admin": "Hebei",
+    "sort": "36660"
+  },
+  {
+    "city": "Tunzi",
+    "admin": "Gansu",
+    "sort": "37179"
+  },
+  {
+    "city": "Akto",
+    "admin": "Xinjiang",
+    "sort": "36270"
+  },
+  {
+    "city": "Anzhou",
+    "admin": "Hebei",
+    "sort": "36619"
+  },
+  {
+    "city": "Baishi Airikecun",
+    "admin": "Xinjiang",
+    "sort": "36982"
+  },
+  {
+    "city": "Zuojiawu",
+    "admin": "Hebei",
+    "sort": "36843"
+  },
+  {
+    "city": "Elixku",
+    "admin": "Xinjiang",
+    "sort": "36793"
+  },
+  {
+    "city": "Dabutou",
+    "admin": "Shanxi",
+    "sort": "36556"
+  },
+  {
+    "city": "Xindian",
+    "admin": "Hebei",
+    "sort": "36195"
+  },
+  {
+    "city": "Beiya",
+    "admin": "Gansu",
+    "sort": "36241"
+  },
+  {
+    "city": "Yejituo",
+    "admin": "Hebei",
+    "sort": "36218"
+  },
+  {
+    "city": "Zhaoqiao",
+    "admin": "Hebei",
+    "sort": "36123"
+  },
+  {
+    "city": "Wangtuan",
+    "admin": "Ningxia",
+    "sort": "36729"
+  },
+  {
+    "city": "Danihe",
+    "admin": "Hebei",
+    "sort": "36313"
+  },
+  {
+    "city": "Bulicun",
+    "admin": "Guangdong",
+    "sort": "36526"
+  },
+  {
+    "city": "Haomen",
+    "admin": "Qinghai",
+    "sort": "36515"
+  },
+  {
+    "city": "Dama",
+    "admin": "Zhejiang",
+    "sort": "35357"
+  },
+  {
+    "city": "Pingshang",
+    "admin": "Guangdong",
+    "sort": "36140"
+  },
+  {
+    "city": "Rongwo",
+    "admin": "Qinghai",
+    "sort": "35612"
+  },
+  {
+    "city": "Zhentang",
+    "admin": "Guangdong",
+    "sort": "35616"
+  },
+  {
+    "city": "Mengdong",
+    "admin": "Yunnan",
+    "sort": "35741"
+  },
+  {
+    "city": "Lixingcun",
+    "admin": "Guangdong",
+    "sort": "34254"
+  },
+  {
+    "city": "Tilingzhai",
+    "admin": "Hebei",
+    "sort": "35197"
+  },
+  {
+    "city": "Douzhuang",
+    "admin": "Hebei",
+    "sort": "34960"
+  },
+  {
+    "city": "Nanzhiqiu",
+    "admin": "Hebei",
+    "sort": "35165"
+  },
+  {
+    "city": "Shenjiabang",
+    "admin": "Zhejiang",
+    "sort": "34963"
+  },
+  {
+    "city": "Jieshang",
+    "admin": "Guizhou",
+    "sort": "35238"
+  },
+  {
+    "city": "Matou",
+    "admin": "Hebei",
+    "sort": "34281"
+  },
+  {
+    "city": "Diaowo",
+    "admin": "Hebei",
+    "sort": "34304"
+  },
+  {
+    "city": "Guying",
+    "admin": "Hebei",
+    "sort": "33884"
+  },
+  {
+    "city": "Yangquan",
+    "admin": "Shanxi",
+    "sort": "34570"
+  },
+  {
+    "city": "Shangzhen",
+    "admin": "Shaanxi",
+    "sort": "34481"
+  },
+  {
+    "city": "Zhangzhengqiao",
+    "admin": "Ningxia",
+    "sort": "34256"
+  },
+  {
+    "city": "Songcaozhen",
+    "admin": "Hebei",
+    "sort": "33601"
+  },
+  {
+    "city": "Xincheng",
+    "admin": "Hebei",
+    "sort": "33248"
+  },
+  {
+    "city": "Youwangjie",
+    "admin": "Yunnan",
+    "sort": "33978"
+  },
+  {
+    "city": "Qingyang",
+    "admin": "Shanxi",
+    "sort": "34098"
+  },
+  {
+    "city": "Datang",
+    "admin": "Guizhou",
+    "sort": "34169"
+  },
+  {
+    "city": "Peyziwat",
+    "admin": "Xinjiang",
+    "sort": "33971"
+  },
+  {
+    "city": "Cishan",
+    "admin": "Hebei",
+    "sort": "33474"
+  },
+  {
+    "city": "Zhaitangcun",
+    "admin": "Guangdong",
+    "sort": "33876"
+  },
+  {
+    "city": "Yinchengpu",
+    "admin": "Hebei",
+    "sort": "32471"
+  },
+  {
+    "city": "Tekes",
+    "admin": "Xinjiang",
+    "sort": "33740"
+  },
+  {
+    "city": "Xiadian",
+    "admin": "Hebei",
+    "sort": "32686"
+  },
+  {
+    "city": "Jishi",
+    "admin": "Qinghai",
+    "sort": "33022"
+  },
+  {
+    "city": "Lianmuqin Kancun",
+    "admin": "Xinjiang",
+    "sort": "33635"
+  },
+  {
+    "city": "Zhanjia",
+    "admin": "Shaanxi",
+    "sort": "32667"
+  },
+  {
+    "city": "Shangcaiyuan",
+    "admin": "Yunnan",
+    "sort": "33287"
+  },
+  {
+    "city": "Shaliuhe",
+    "admin": "Hebei",
+    "sort": "32778"
+  },
+  {
+    "city": "Huangzhuang",
+    "admin": "Hebei",
+    "sort": "32752"
+  },
+  {
+    "city": "Fucheng",
+    "admin": "Gansu",
+    "sort": "32463"
+  },
+  {
+    "city": "Laojiezi",
+    "admin": "Yunnan",
+    "sort": "32998"
+  },
+  {
+    "city": "Baiyan",
+    "admin": "Guizhou",
+    "sort": "32473"
+  },
+  {
+    "city": "Yankou",
+    "admin": "Guizhou",
+    "sort": "32351"
+  },
+  {
+    "city": "Beixinzhuang",
+    "admin": "Hebei",
+    "sort": "31876"
+  },
+  {
+    "city": "Zangang",
+    "admin": "Hebei",
+    "sort": "31671"
+  },
+  {
+    "city": "Zaojiao",
+    "admin": "Gansu",
+    "sort": "32260"
+  },
+  {
+    "city": "Menglie",
+    "admin": "Yunnan",
+    "sort": "32306"
+  },
+  {
+    "city": "Xangda",
+    "admin": "Qinghai",
+    "sort": "32175"
+  },
+  {
+    "city": "Dongxianpo",
+    "admin": "Hebei",
+    "sort": "31410"
+  },
+  {
+    "city": "Jiming",
+    "admin": "Hebei",
+    "sort": "31658"
+  },
+  {
+    "city": "Donggou",
+    "admin": "Shanxi",
+    "sort": "31732"
+  },
+  {
+    "city": "Shentang",
+    "admin": "Guangdong",
+    "sort": "31559"
+  },
+  {
+    "city": "Tongkou",
+    "admin": "Hebei",
+    "sort": "31576"
+  },
+  {
+    "city": "Nilka",
+    "admin": "Xinjiang",
+    "sort": "31907"
+  },
+  {
+    "city": "Shahedian",
+    "admin": "Hebei",
+    "sort": "31370"
+  },
+  {
+    "city": "Fengrenxu",
+    "admin": "Guangdong",
+    "sort": "30324"
+  },
+  {
+    "city": "Dongmaying",
+    "admin": "Hebei",
+    "sort": "30841"
+  },
+  {
+    "city": "Tanmen",
+    "admin": "Hainan",
+    "sort": "31322"
+  },
+  {
+    "city": "Wanghong Yidui",
+    "admin": "Ningxia",
+    "sort": "30943"
+  },
+  {
+    "city": "Huangxicun",
+    "admin": "Guangdong",
+    "sort": "31087"
+  },
+  {
+    "city": "Yingyangcun",
+    "admin": "Guangxi",
+    "sort": "31109"
+  },
+  {
+    "city": "Wenxian Chengguanzhen",
+    "admin": "Gansu",
+    "sort": "31339"
+  },
+  {
+    "city": "Duanshan",
+    "admin": "Guizhou",
+    "sort": "31203"
+  },
+  {
+    "city": "Taozhuangcun",
+    "admin": "Zhejiang",
+    "sort": "30595"
+  },
+  {
+    "city": "Yingshouyingzi",
+    "admin": "Hebei",
+    "sort": "29664"
+  },
+  {
+    "city": "Duanzhuang",
+    "admin": "Shanxi",
+    "sort": "29498"
+  },
+  {
+    "city": "Xinzhaidian",
+    "admin": "Hebei",
+    "sort": "30025"
+  },
+  {
+    "city": "Nanwucun",
+    "admin": "Hebei",
+    "sort": "30427"
+  },
+  {
+    "city": "Wuyuan",
+    "admin": "Inner Mongolia",
+    "sort": "30057"
+  },
+  {
+    "city": "Xinpo",
+    "admin": "Hainan",
+    "sort": "30318"
+  },
+  {
+    "city": "Shetang",
+    "admin": "Gansu",
+    "sort": "29811"
+  },
+  {
+    "city": "Daheba",
+    "admin": "Guizhou",
+    "sort": "30197"
+  },
+  {
+    "city": "Xunjiansi",
+    "admin": "Yunnan",
+    "sort": "30159"
+  },
+  {
+    "city": "Shangpa",
+    "admin": "Yunnan",
+    "sort": "30129"
+  },
+  {
+    "city": "Guotang",
+    "admin": "Guangdong",
+    "sort": "29315"
+  },
+  {
+    "city": "Xiaba",
+    "admin": "Guizhou",
+    "sort": "29848"
+  },
+  {
+    "city": "Shibancun",
+    "admin": "Guangdong",
+    "sort": "29812"
+  },
+  {
+    "city": "Nan’ao",
+    "admin": "Hebei",
+    "sort": "29508"
+  },
+  {
+    "city": "Zhangguzhuang",
+    "admin": "Hebei",
+    "sort": "29079"
+  },
+  {
+    "city": "Shuangtian",
+    "admin": "Guangdong",
+    "sort": "29276"
+  },
+  {
+    "city": "Mangdongshan",
+    "admin": "Yunnan",
+    "sort": "29587"
+  },
+  {
+    "city": "Mashan",
+    "admin": "Shanxi",
+    "sort": "29578"
+  },
+  {
+    "city": "Xinmin",
+    "admin": "Guizhou",
+    "sort": "29614"
+  },
+  {
+    "city": "Toksun",
+    "admin": "Xinjiang",
+    "sort": "29657"
+  },
+  {
+    "city": "Yangshuling",
+    "admin": "Hebei",
+    "sort": "29463"
+  },
+  {
+    "city": "Xiaobazi",
+    "admin": "Guizhou",
+    "sort": "29108"
+  },
+  {
+    "city": "Benhao",
+    "admin": "Hainan",
+    "sort": "29295"
+  },
+  {
+    "city": "Matouying",
+    "admin": "Hebei",
+    "sort": "29021"
+  },
+  {
+    "city": "Duzhuang",
+    "admin": "Hebei",
+    "sort": "28831"
+  },
+  {
+    "city": "Shiqiao",
+    "admin": "Gansu",
+    "sort": "29050"
+  },
+  {
+    "city": "Ciying",
+    "admin": "Yunnan",
+    "sort": "29060"
+  },
+  {
+    "city": "Gonglang",
+    "admin": "Yunnan",
+    "sort": "29004"
+  },
+  {
+    "city": "Dongwang",
+    "admin": "Hebei",
+    "sort": "28317"
+  },
+  {
+    "city": "Tanglou",
+    "admin": "Guangdong",
+    "sort": "28718"
+  },
+  {
+    "city": "Toqsu",
+    "admin": "Xinjiang",
+    "sort": "27454"
+  },
+  {
+    "city": "Chahe",
+    "admin": "Guizhou",
+    "sort": "28711"
+  },
+  {
+    "city": "Heshancun",
+    "admin": "Zhejiang",
+    "sort": "28191"
+  },
+  {
+    "city": "Zhonghechang",
+    "admin": "Guizhou",
+    "sort": "28745"
+  },
+  {
+    "city": "Shangluhu",
+    "admin": "Guangdong",
+    "sort": "28581"
+  },
+  {
+    "city": "Laoaoba",
+    "admin": "Guizhou",
+    "sort": "28595"
+  },
+  {
+    "city": "Zhongtai",
+    "admin": "Gansu",
+    "sort": "28578"
+  },
+  {
+    "city": "Zhailuo",
+    "admin": "Guizhou",
+    "sort": "28463"
+  },
+  {
+    "city": "Qincun",
+    "admin": "Hebei",
+    "sort": "28380"
+  },
+  {
+    "city": "Baishaling",
+    "admin": "Guangdong",
+    "sort": "28419"
+  },
+  {
+    "city": "Huanghuajing",
+    "admin": "Guangdong",
+    "sort": "28282"
+  },
+  {
+    "city": "Gaotan",
+    "admin": "Shaanxi",
+    "sort": "28149"
+  },
+  {
+    "city": "Toli",
+    "admin": "Xinjiang",
+    "sort": "28378"
+  },
+  {
+    "city": "Qujingpu",
+    "admin": "Ningxia",
+    "sort": "28086"
+  },
+  {
+    "city": "Guma",
+    "admin": "Xinjiang",
+    "sort": "28163"
+  },
+  {
+    "city": "Shuiding",
+    "admin": "Xinjiang",
+    "sort": "27702"
+  },
+  {
+    "city": "Langdu",
+    "admin": "Yunnan",
+    "sort": "27859"
+  },
+  {
+    "city": "Yangyuhe",
+    "admin": "Shaanxi",
+    "sort": "27971"
+  },
+  {
+    "city": "Uchturpan",
+    "admin": "Xinjiang",
+    "sort": "27836"
+  },
+  {
+    "city": "Niuchangqiao",
+    "admin": "Guizhou",
+    "sort": "27651"
+  },
+  {
+    "city": "Shilan",
+    "admin": "Guangdong",
+    "sort": "27625"
+  },
+  {
+    "city": "Lufeng",
+    "admin": "Yunnan",
+    "sort": "27731"
+  },
+  {
+    "city": "Gabasumdo",
+    "admin": "Qinghai",
+    "sort": "27742"
+  },
+  {
+    "city": "Zongdi",
+    "admin": "Guizhou",
+    "sort": "27651"
+  },
+  {
+    "city": "Longtan",
+    "admin": "Hebei",
+    "sort": "27639"
+  },
+  {
+    "city": "Narat",
+    "admin": "Xinjiang",
+    "sort": "27572"
+  },
+  {
+    "city": "Wangtang",
+    "admin": "Hainan",
+    "sort": "27569"
+  },
+  {
+    "city": "Xima",
+    "admin": "Hebei",
+    "sort": "26842"
+  },
+  {
+    "city": "Tongyangdao",
+    "admin": "Inner Mongolia",
+    "sort": "27476"
+  },
+  {
+    "city": "Haiyang",
+    "admin": "Hebei",
+    "sort": "27105"
+  },
+  {
+    "city": "Manbengtang",
+    "admin": "Yunnan",
+    "sort": "27448"
+  },
+  {
+    "city": "Bo’ao",
+    "admin": "Hainan",
+    "sort": "27155"
+  },
+  {
+    "city": "Longdian",
+    "admin": "Hebei",
+    "sort": "27084"
+  },
+  {
+    "city": "Kedu",
+    "admin": "Guizhou",
+    "sort": "27363"
+  },
+  {
+    "city": "Zhongshan",
+    "admin": "Gansu",
+    "sort": "27147"
+  },
+  {
+    "city": "Qingshan",
+    "admin": "Yunnan",
+    "sort": "26509"
+  },
+  {
+    "city": "Liqizhuang",
+    "admin": "Hebei",
+    "sort": "26667"
+  },
+  {
+    "city": "Jiangdi",
+    "admin": "Yunnan",
+    "sort": "26863"
+  },
+  {
+    "city": "Zuitou",
+    "admin": "Shaanxi",
+    "sort": "26948"
+  },
+  {
+    "city": "Chuimatan",
+    "admin": "Gansu",
+    "sort": "26044"
+  },
+  {
+    "city": "Hancun",
+    "admin": "Hebei",
+    "sort": "26543"
+  },
+  {
+    "city": "Jinju",
+    "admin": "Guangdong",
+    "sort": "26393"
+  },
+  {
+    "city": "Shangxiao",
+    "admin": "Gansu",
+    "sort": "26686"
+  },
+  {
+    "city": "Chuanliaocun",
+    "admin": "Zhejiang",
+    "sort": "26602"
+  },
+  {
+    "city": "Yuanyangzhen",
+    "admin": "Gansu",
+    "sort": "26352"
+  },
+  {
+    "city": "Ganjing",
+    "admin": "Shaanxi",
+    "sort": "26224"
+  },
+  {
+    "city": "Zhaicun",
+    "admin": "Guangdong",
+    "sort": "26254"
+  },
+  {
+    "city": "Lilancheng",
+    "admin": "Hebei",
+    "sort": "25322"
+  },
+  {
+    "city": "Liushuquan",
+    "admin": "Hebei",
+    "sort": "26178"
+  },
+  {
+    "city": "Shuanghe",
+    "admin": "Shaanxi",
+    "sort": "26171"
+  },
+  {
+    "city": "Bangzha",
+    "admin": "Guizhou",
+    "sort": "26027"
+  },
+  {
+    "city": "Dengjiazhuang",
+    "admin": "Hebei",
+    "sort": "26081"
+  },
+  {
+    "city": "Xishan",
+    "admin": "Guangdong",
+    "sort": "25881"
+  },
+  {
+    "city": "Dongfeng",
+    "admin": "Guangdong",
+    "sort": "26129"
+  },
+  {
+    "city": "Haoping",
+    "admin": "Shaanxi",
+    "sort": "25903"
+  },
+  {
+    "city": "Gaoya",
+    "admin": "Gansu",
+    "sort": "25993"
+  },
+  {
+    "city": "Maozhou",
+    "admin": "Hebei",
+    "sort": "25509"
+  },
+  {
+    "city": "Yinajia",
+    "admin": "Guizhou",
+    "sort": "25745"
+  },
+  {
+    "city": "Nanpingcun",
+    "admin": "Shanxi",
+    "sort": "25710"
+  },
+  {
+    "city": "Lanling",
+    "admin": "Guangdong",
+    "sort": "25043"
+  },
+  {
+    "city": "Haiwei",
+    "admin": "Hainan",
+    "sort": "25568"
+  },
+  {
+    "city": "Fengruncun",
+    "admin": "Shaanxi",
+    "sort": "25236"
+  },
+  {
+    "city": "Yanyan",
+    "admin": "Guangdong",
+    "sort": "25355"
+  },
+  {
+    "city": "Zhongcun",
+    "admin": "Gansu",
+    "sort": "25372"
+  },
+  {
+    "city": "Wumayingcun",
+    "admin": "Hebei",
+    "sort": "25220"
+  },
+  {
+    "city": "Mengdan",
+    "admin": "Yunnan",
+    "sort": "25299"
+  },
+  {
+    "city": "Xiaolongtan",
+    "admin": "Yunnan",
+    "sort": "24986"
+  },
+  {
+    "city": "Dalupo",
+    "admin": "Hainan",
+    "sort": "24923"
+  },
+  {
+    "city": "Wujiaying",
+    "admin": "Shaanxi",
+    "sort": "24861"
+  },
+  {
+    "city": "Yuzhang",
+    "admin": "Guizhou",
+    "sort": "24934"
+  },
+  {
+    "city": "Malanguan",
+    "admin": "Hebei",
+    "sort": "24569"
+  },
+  {
+    "city": "Shitan",
+    "admin": "Guangdong",
+    "sort": "24667"
+  },
+  {
+    "city": "Liangwu",
+    "admin": "Guangdong",
+    "sort": "24838"
+  },
+  {
+    "city": "Zhuchangba",
+    "admin": "Guizhou",
+    "sort": "24281"
+  },
+  {
+    "city": "Dongxiaozhai",
+    "admin": "Hebei",
+    "sort": "24495"
+  },
+  {
+    "city": "Zhenbeibu",
+    "admin": "Ningxia",
+    "sort": "24706"
+  },
+  {
+    "city": "Ziketan",
+    "admin": "Qinghai",
+    "sort": "24758"
+  },
+  {
+    "city": "Tanglin",
+    "admin": "Hebei",
+    "sort": "24041"
+  },
+  {
+    "city": "Shangtianba",
+    "admin": "Yunnan",
+    "sort": "24606"
+  },
+  {
+    "city": "Xinxing",
+    "admin": "Heilongjiang",
+    "sort": "24317"
+  },
+  {
+    "city": "Liushui",
+    "admin": "Shaanxi",
+    "sort": "24149"
+  },
+  {
+    "city": "Hujiachi",
+    "admin": "Hebei",
+    "sort": "24105"
+  },
+  {
+    "city": "Qiaomaichuan",
+    "admin": "Shanxi",
+    "sort": "24233"
+  },
+  {
+    "city": "Dazhuang",
+    "admin": "Hebei",
+    "sort": "23559"
+  },
+  {
+    "city": "Pingtang",
+    "admin": "Guizhou",
+    "sort": "24156"
+  },
+  {
+    "city": "Huilongping",
+    "admin": "Guizhou",
+    "sort": "23976"
+  },
+  {
+    "city": "Baiheqiao",
+    "admin": "Yunnan",
+    "sort": "24113"
+  },
+  {
+    "city": "Lihe",
+    "admin": "Gansu",
+    "sort": "23852"
+  },
+  {
+    "city": "Suonan",
+    "admin": "Gansu",
+    "sort": "23499"
+  },
+  {
+    "city": "Hoh Ereg",
+    "admin": "Inner Mongolia",
+    "sort": "23776"
+  },
+  {
+    "city": "Nanxingguo",
+    "admin": "Hebei",
+    "sort": "23623"
+  },
+  {
+    "city": "Dongsheng",
+    "admin": "Gansu",
+    "sort": "23809"
+  },
+  {
+    "city": "Bazhajiemicun",
+    "admin": "Xinjiang",
+    "sort": "23308"
+  },
+  {
+    "city": "Jurh",
+    "admin": "Inner Mongolia",
+    "sort": "23842"
+  },
+  {
+    "city": "Qianmotou",
+    "admin": "Hebei",
+    "sort": "23282"
+  },
+  {
+    "city": "Xiaping",
+    "admin": "Guangdong",
+    "sort": "23536"
+  },
+  {
+    "city": "Jieshang",
+    "admin": "Guizhou",
+    "sort": "23311"
+  },
+  {
+    "city": "Neihuzhai",
+    "admin": "Guangdong",
+    "sort": "23126"
+  },
+  {
+    "city": "Jiucangzhou",
+    "admin": "Hebei",
+    "sort": "23056"
+  },
+  {
+    "city": "Shiling",
+    "admin": "Guizhou",
+    "sort": "23023"
+  },
+  {
+    "city": "Nanyangcun",
+    "admin": "Shaanxi",
+    "sort": "22654"
+  },
+  {
+    "city": "Yuli",
+    "admin": "Xinjiang",
+    "sort": "22474"
+  },
+  {
+    "city": "Wulongpu",
+    "admin": "Shaanxi",
+    "sort": "22910"
+  },
+  {
+    "city": "Gyêgu",
+    "admin": "Qinghai",
+    "sort": "23000"
+  },
+  {
+    "city": "Huaibaijie",
+    "admin": "Shaanxi",
+    "sort": "22935"
+  },
+  {
+    "city": "Xinsi",
+    "admin": "Gansu",
+    "sort": "22829"
+  },
+  {
+    "city": "Yanshanbu",
+    "admin": "Guizhou",
+    "sort": "22811"
+  },
+  {
+    "city": "Beixingzhuang",
+    "admin": "Shanxi",
+    "sort": "22682"
+  },
+  {
+    "city": "Maying",
+    "admin": "Qinghai",
+    "sort": "22415"
+  },
+  {
+    "city": "Shaomi",
+    "admin": "Guizhou",
+    "sort": "22688"
+  },
+  {
+    "city": "Zhengtun",
+    "admin": "Guizhou",
+    "sort": "22400"
+  },
+  {
+    "city": "Huangzhai",
+    "admin": "Shanxi",
+    "sort": "22233"
+  },
+  {
+    "city": "Gonghe",
+    "admin": "Gansu",
+    "sort": "22375"
+  },
+  {
+    "city": "Gaoguzhuang",
+    "admin": "Hebei",
+    "sort": "22208"
+  },
+  {
+    "city": "Zhedao",
+    "admin": "Yunnan",
+    "sort": "22290"
+  },
+  {
+    "city": "Daxin",
+    "admin": "Guizhou",
+    "sort": "22311"
+  },
+  {
+    "city": "Zhucaoying",
+    "admin": "Hebei",
+    "sort": "22276"
+  },
+  {
+    "city": "Chankou",
+    "admin": "Gansu",
+    "sort": "22273"
+  },
+  {
+    "city": "Pingtan",
+    "admin": "Guangxi",
+    "sort": "22120"
+  },
+  {
+    "city": "Lihuzhuang",
+    "admin": "Hebei",
+    "sort": "21844"
+  },
+  {
+    "city": "Caojiachuan",
+    "admin": "Shanxi",
+    "sort": "22100"
+  },
+  {
+    "city": "Luofa",
+    "admin": "Hebei",
+    "sort": "21369"
+  },
+  {
+    "city": "Qapqal",
+    "admin": "Xinjiang",
+    "sort": "22111"
+  },
+  {
+    "city": "Yaojiafen",
+    "admin": "Hebei",
+    "sort": "21726"
+  },
+  {
+    "city": "Tongzhou",
+    "admin": "Guizhou",
+    "sort": "21848"
+  },
+  {
+    "city": "Xinzhai",
+    "admin": "Guizhou",
+    "sort": "21607"
+  },
+  {
+    "city": "Zhoucun",
+    "admin": "Hebei",
+    "sort": "21401"
+  },
+  {
+    "city": "Tong’anyi",
+    "admin": "Gansu",
+    "sort": "21448"
+  },
+  {
+    "city": "Qia’erbagecun",
+    "admin": "Xinjiang",
+    "sort": "21189"
+  },
+  {
+    "city": "Xintian",
+    "admin": "Yunnan",
+    "sort": "21159"
+  },
+  {
+    "city": "Sanhe",
+    "admin": "Ningxia",
+    "sort": "20844"
+  },
+  {
+    "city": "Youganning",
+    "admin": "Qinghai",
+    "sort": "21323"
+  },
+  {
+    "city": "Jiangjiadong",
+    "admin": "Guangdong",
+    "sort": "21204"
+  },
+  {
+    "city": "Agan",
+    "admin": "Gansu",
+    "sort": "20985"
+  },
+  {
+    "city": "Hancha",
+    "admin": "Shaanxi",
+    "sort": "21149"
+  },
+  {
+    "city": "Anping",
+    "admin": "Hebei",
+    "sort": "20450"
+  },
+  {
+    "city": "Xinnongcun",
+    "admin": "Liaoning",
+    "sort": "21060"
+  },
+  {
+    "city": "Zhangjiazhuang",
+    "admin": "Hebei",
+    "sort": "20227"
+  },
+  {
+    "city": "Yangping",
+    "admin": "Yunnan",
+    "sort": "20852"
+  },
+  {
+    "city": "Hexiang",
+    "admin": "Hainan",
+    "sort": "20729"
+  },
+  {
+    "city": "Hanmayingcun",
+    "admin": "Hebei",
+    "sort": "20713"
+  },
+  {
+    "city": "Gandujie",
+    "admin": "Qinghai",
+    "sort": "20536"
+  },
+  {
+    "city": "Donggou",
+    "admin": "Hainan",
+    "sort": "20393"
+  },
+  {
+    "city": "Qagan Us",
+    "admin": "Qinghai",
+    "sort": "20570"
+  },
+  {
+    "city": "Diguapo",
+    "admin": "Guizhou",
+    "sort": "20049"
+  },
+  {
+    "city": "Guding",
+    "admin": "Guizhou",
+    "sort": "20051"
+  },
+  {
+    "city": "Yuancun",
+    "admin": "Guizhou",
+    "sort": "19913"
+  },
+  {
+    "city": "Jiangjiehe",
+    "admin": "Guizhou",
+    "sort": "20015"
+  },
+  {
+    "city": "Zhaodianzi",
+    "admin": "Hebei",
+    "sort": "19766"
+  },
+  {
+    "city": "Xiaqiaotou",
+    "admin": "Yunnan",
+    "sort": "19922"
+  },
+  {
+    "city": "Liuliang",
+    "admin": "Gansu",
+    "sort": "19582"
+  },
+  {
+    "city": "Liuguang",
+    "admin": "Guizhou",
+    "sort": "19540"
+  },
+  {
+    "city": "Guantiankan",
+    "admin": "Guizhou",
+    "sort": "19665"
+  },
+  {
+    "city": "Hongshui",
+    "admin": "Gansu",
+    "sort": "19718"
+  },
+  {
+    "city": "Doujing",
+    "admin": "Guizhou",
+    "sort": "19563"
+  },
+  {
+    "city": "Yuanhucun",
+    "admin": "Xinjiang",
+    "sort": "19650"
+  },
+  {
+    "city": "Hoxut",
+    "admin": "Xinjiang",
+    "sort": "19520"
+  },
+  {
+    "city": "Xihuangcun",
+    "admin": "Hebei",
+    "sort": "19403"
+  },
+  {
+    "city": "Heishanzuicun",
+    "admin": "Hebei",
+    "sort": "19370"
+  },
+  {
+    "city": "Magitang",
+    "admin": "Qinghai",
+    "sort": "19226"
+  },
+  {
+    "city": "Heishuikeng",
+    "admin": "Shaanxi",
+    "sort": "19357"
+  },
+  {
+    "city": "Tangbian",
+    "admin": "Guizhou",
+    "sort": "19335"
+  },
+  {
+    "city": "Mingjiujie",
+    "admin": "Yunnan",
+    "sort": "19330"
+  },
+  {
+    "city": "Zerong",
+    "admin": "Guizhou",
+    "sort": "19186"
+  },
+  {
+    "city": "Tazishan",
+    "admin": "Hebei",
+    "sort": "19081"
+  },
+  {
+    "city": "Xinhua",
+    "admin": "Gansu",
+    "sort": "18798"
+  },
+  {
+    "city": "Caowotan",
+    "admin": "Gansu",
+    "sort": "19015"
+  },
+  {
+    "city": "Qitai",
+    "admin": "Inner Mongolia",
+    "sort": "18831"
+  },
+  {
+    "city": "Jiaoxiyakou",
+    "admin": "Yunnan",
+    "sort": "18894"
+  },
+  {
+    "city": "Hala",
+    "admin": "Guizhou",
+    "sort": "18797"
+  },
+  {
+    "city": "Longjia",
+    "admin": "Hainan",
+    "sort": "18385"
+  },
+  {
+    "city": "Sanpaicun",
+    "admin": "Guangdong",
+    "sort": "18381"
+  },
+  {
+    "city": "Liuma",
+    "admin": "Guizhou",
+    "sort": "18576"
+  },
+  {
+    "city": "Guanzhai",
+    "admin": "Guizhou",
+    "sort": "18514"
+  },
+  {
+    "city": "Shaogang",
+    "admin": "Ningxia",
+    "sort": "18548"
+  },
+  {
+    "city": "Shaoyu",
+    "admin": "Gansu",
+    "sort": "18327"
+  },
+  {
+    "city": "Qishe",
+    "admin": "Guizhou",
+    "sort": "18154"
+  },
+  {
+    "city": "Shaying",
+    "admin": "Guizhou",
+    "sort": "18203"
+  },
+  {
+    "city": "Gangwuzhen",
+    "admin": "Guizhou",
+    "sort": "18130"
+  },
+  {
+    "city": "Mengjiacun",
+    "admin": "Liaoning",
+    "sort": "17822"
+  },
+  {
+    "city": "Matigou",
+    "admin": "Shaanxi",
+    "sort": "18024"
+  },
+  {
+    "city": "Quanzhang",
+    "admin": "Shanxi",
+    "sort": "17578"
+  },
+  {
+    "city": "Gaoniang",
+    "admin": "Guizhou",
+    "sort": "17878"
+  },
+  {
+    "city": "Yuanquan",
+    "admin": "Gansu",
+    "sort": "17886"
+  },
+  {
+    "city": "Yanggezhuang",
+    "admin": "Hebei",
+    "sort": "16959"
+  },
+  {
+    "city": "Shangjing",
+    "admin": "Guangdong",
+    "sort": "17534"
+  },
+  {
+    "city": "Zhongguyue",
+    "admin": "Hebei",
+    "sort": "17610"
+  },
+  {
+    "city": "Miaojiaping",
+    "admin": "Shaanxi",
+    "sort": "17689"
+  },
+  {
+    "city": "Longjia",
+    "admin": "Shanxi",
+    "sort": "17622"
+  },
+  {
+    "city": "Minquan",
+    "admin": "Gansu",
+    "sort": "17663"
+  },
+  {
+    "city": "Dingjiagouxiang",
+    "admin": "Gansu",
+    "sort": "17639"
+  },
+  {
+    "city": "Duijiang",
+    "admin": "Guizhou",
+    "sort": "17533"
+  },
+  {
+    "city": "Zhoujia",
+    "admin": "Gansu",
+    "sort": "17484"
+  },
+  {
+    "city": "Chedaopo",
+    "admin": "Gansu",
+    "sort": "17608"
+  },
+  {
+    "city": "Dijiasuoxiang",
+    "admin": "Gansu",
+    "sort": "17320"
+  },
+  {
+    "city": "Dazhangzi",
+    "admin": "Hebei",
+    "sort": "16896"
+  },
+  {
+    "city": "Xintangcun",
+    "admin": "Guangdong",
+    "sort": "17100"
+  },
+  {
+    "city": "Manlin",
+    "admin": "Yunnan",
+    "sort": "16921"
+  },
+  {
+    "city": "Xixinzhuangzhen",
+    "admin": "Shanxi",
+    "sort": "16839"
+  },
+  {
+    "city": "Xinlong",
+    "admin": "Hainan",
+    "sort": "17047"
+  },
+  {
+    "city": "Long’e",
+    "admin": "Guizhou",
+    "sort": "16928"
+  },
+  {
+    "city": "Xinying",
+    "admin": "Gansu",
+    "sort": "17018"
+  },
+  {
+    "city": "Miqiao",
+    "admin": "Gansu",
+    "sort": "16886"
+  },
+  {
+    "city": "Dongjiangshui",
+    "admin": "Gansu",
+    "sort": "16816"
+  },
+  {
+    "city": "Dacaozhuang",
+    "admin": "Hebei",
+    "sort": "16709"
+  },
+  {
+    "city": "Liuchuan",
+    "admin": "Guizhou",
+    "sort": "16950"
+  },
+  {
+    "city": "Liuguoju",
+    "admin": "Shaanxi",
+    "sort": "16929"
+  },
+  {
+    "city": "Fuying",
+    "admin": "Hebei",
+    "sort": "16717"
+  },
+  {
+    "city": "Liangyi",
+    "admin": "Gansu",
+    "sort": "16529"
+  },
+  {
+    "city": "Kaiwen",
+    "admin": "Yunnan",
+    "sort": "16738"
+  },
+  {
+    "city": "Wentang",
+    "admin": "Guangdong",
+    "sort": "16542"
+  },
+  {
+    "city": "Zequ",
+    "admin": "Qinghai",
+    "sort": "16666"
+  },
+  {
+    "city": "Jinji",
+    "admin": "Guangdong",
+    "sort": "16493"
+  },
+  {
+    "city": "Xinyuan",
+    "admin": "Qinghai",
+    "sort": "16585"
+  },
+  {
+    "city": "Longchang",
+    "admin": "Guizhou",
+    "sort": "16240"
+  },
+  {
+    "city": "Zhongzai",
+    "admin": "Guizhou",
+    "sort": "16379"
+  },
+  {
+    "city": "Changji",
+    "admin": "Guizhou",
+    "sort": "16308"
+  },
+  {
+    "city": "Yunshan",
+    "admin": "Gansu",
+    "sort": "16220"
+  },
+  {
+    "city": "Taohongpozhen",
+    "admin": "Shanxi",
+    "sort": "16378"
+  },
+  {
+    "city": "Baipingshan",
+    "admin": "Guizhou",
+    "sort": "16330"
+  },
+  {
+    "city": "Bikou",
+    "admin": "Gansu",
+    "sort": "16247"
+  },
+  {
+    "city": "Chaona",
+    "admin": "Gansu",
+    "sort": "16111"
+  },
+  {
+    "city": "Nanzuo",
+    "admin": "Hebei",
+    "sort": "15704"
+  },
+  {
+    "city": "Xiaozhengzhuang",
+    "admin": "Hebei",
+    "sort": "15845"
+  },
+  {
+    "city": "Yaojia",
+    "admin": "Chongqing",
+    "sort": "16072"
+  },
+  {
+    "city": "Hongsi",
+    "admin": "Gansu",
+    "sort": "15938"
+  },
+  {
+    "city": "Chinggil",
+    "admin": "Xinjiang",
+    "sort": "16098"
+  },
+  {
+    "city": "Dalachi",
+    "admin": "Gansu",
+    "sort": "16075"
+  },
+  {
+    "city": "Dianga",
+    "admin": "Gansu",
+    "sort": "15993"
+  },
+  {
+    "city": "Xixucun",
+    "admin": "Hebei",
+    "sort": "15683"
+  },
+  {
+    "city": "Luzhou",
+    "admin": "Guangdong",
+    "sort": "15890"
+  },
+  {
+    "city": "Hedongcun",
+    "admin": "Gansu",
+    "sort": "15667"
+  },
+  {
+    "city": "Machang",
+    "admin": "Shaanxi",
+    "sort": "15552"
+  },
+  {
+    "city": "Chenlu",
+    "admin": "Shaanxi",
+    "sort": "15642"
+  },
+  {
+    "city": "Wenwu",
+    "admin": "Guangdong",
+    "sort": "15662"
+  },
+  {
+    "city": "Jiaojiazhuang",
+    "admin": "Gansu",
+    "sort": "15635"
+  },
+  {
+    "city": "Mangqu",
+    "admin": "Qinghai",
+    "sort": "15609"
+  },
+  {
+    "city": "Banqiao",
+    "admin": "Gansu",
+    "sort": "15486"
+  },
+  {
+    "city": "Baiceng",
+    "admin": "Guizhou",
+    "sort": "15464"
+  },
+  {
+    "city": "Erjie",
+    "admin": "Yunnan",
+    "sort": "15350"
+  },
+  {
+    "city": "Liangwancun",
+    "admin": "Yunnan",
+    "sort": "15239"
+  },
+  {
+    "city": "Xihuangni",
+    "admin": "Hebei",
+    "sort": "15119"
+  },
+  {
+    "city": "Yinhua",
+    "admin": "Shaanxi",
+    "sort": "14999"
+  },
+  {
+    "city": "Majiagoucha",
+    "admin": "Shaanxi",
+    "sort": "15128"
+  },
+  {
+    "city": "Humayingcun",
+    "admin": "Hebei",
+    "sort": "15207"
+  },
+  {
+    "city": "Huchuan",
+    "admin": "Gansu",
+    "sort": "14993"
+  },
+  {
+    "city": "Qiaoyang",
+    "admin": "Gansu",
+    "sort": "14851"
+  },
+  {
+    "city": "Jinta",
+    "admin": "Gansu",
+    "sort": "14830"
+  },
+  {
+    "city": "Shuichecun",
+    "admin": "Guangdong",
+    "sort": "14792"
+  },
+  {
+    "city": "Huasuo",
+    "admin": "Gansu",
+    "sort": "14610"
+  },
+  {
+    "city": "Sanjiang Nongchang",
+    "admin": "Hainan",
+    "sort": "14147"
+  },
+  {
+    "city": "Shimubi",
+    "admin": "Hainan",
+    "sort": "14702"
+  },
+  {
+    "city": "Xincun",
+    "admin": "Yunnan",
+    "sort": "14614"
+  },
+  {
+    "city": "Majia",
+    "admin": "Gansu",
+    "sort": "14391"
+  },
+  {
+    "city": "Yanhewan",
+    "admin": "Shaanxi",
+    "sort": "14499"
+  },
+  {
+    "city": "Wangjiaxian",
+    "admin": "Gansu",
+    "sort": "14400"
+  },
+  {
+    "city": "Sanpozhen",
+    "admin": "Hebei",
+    "sort": "14365"
+  },
+  {
+    "city": "Wulong",
+    "admin": "Guangdong",
+    "sort": "14207"
+  },
+  {
+    "city": "Yanshuiguan",
+    "admin": "Shaanxi",
+    "sort": "14331"
+  },
+  {
+    "city": "Wang’anzhen",
+    "admin": "Hebei",
+    "sort": "14163"
+  },
+  {
+    "city": "Lakoucun",
+    "admin": "Zhejiang",
+    "sort": "14016"
+  },
+  {
+    "city": "Zhipingxiang",
+    "admin": "Gansu",
+    "sort": "13929"
+  },
+  {
+    "city": "Wanding",
+    "admin": "Yunnan",
+    "sort": "13906"
+  },
+  {
+    "city": "Chumpak",
+    "admin": "Xinjiang",
+    "sort": "13983"
+  },
+  {
+    "city": "Taiyong",
+    "admin": "Guizhou",
+    "sort": "13987"
+  },
+  {
+    "city": "Huangyadong",
+    "admin": "Shanxi",
+    "sort": "13857"
+  },
+  {
+    "city": "Ping’anbao",
+    "admin": "Hebei",
+    "sort": "13870"
+  },
+  {
+    "city": "Chaoyangdicun",
+    "admin": "Hebei",
+    "sort": "13773"
+  },
+  {
+    "city": "Jinmingsi",
+    "admin": "Shaanxi",
+    "sort": "13780"
+  },
+  {
+    "city": "Xireg",
+    "admin": "Qinghai",
+    "sort": "13723"
+  },
+  {
+    "city": "Mangha",
+    "admin": "Yunnan",
+    "sort": "13689"
+  },
+  {
+    "city": "Yongcong",
+    "admin": "Guizhou",
+    "sort": "13670"
+  },
+  {
+    "city": "Sunjiayan",
+    "admin": "Guizhou",
+    "sort": "13408"
+  },
+  {
+    "city": "Qingxicun",
+    "admin": "Guangdong",
+    "sort": "13603"
+  },
+  {
+    "city": "Shangping",
+    "admin": "Guangdong",
+    "sort": "13529"
+  },
+  {
+    "city": "Qigexingcun",
+    "admin": "Xinjiang",
+    "sort": "13352"
+  },
+  {
+    "city": "Shanyincun",
+    "admin": "Hebei",
+    "sort": "12957"
+  },
+  {
+    "city": "Bugugoucun",
+    "admin": "Hebei",
+    "sort": "13266"
+  },
+  {
+    "city": "Mahao",
+    "admin": "Guizhou",
+    "sort": "13151"
+  },
+  {
+    "city": "Damaishan",
+    "admin": "Guangdong",
+    "sort": "13230"
+  },
+  {
+    "city": "Ceyu",
+    "admin": "Hebei",
+    "sort": "13161"
+  },
+  {
+    "city": "Huguan Nongchang",
+    "admin": "Guangdong",
+    "sort": "13074"
+  },
+  {
+    "city": "Honggu",
+    "admin": "Gansu",
+    "sort": "12700"
+  },
+  {
+    "city": "Pingtiancun",
+    "admin": "Guangdong",
+    "sort": "12955"
+  },
+  {
+    "city": "Kaji",
+    "admin": "Yunnan",
+    "sort": "13005"
+  },
+  {
+    "city": "Shiwan",
+    "admin": "Shaanxi",
+    "sort": "12942"
+  },
+  {
+    "city": "Tashi",
+    "admin": "Shaanxi",
+    "sort": "12904"
+  },
+  {
+    "city": "Zhongling",
+    "admin": "Guizhou",
+    "sort": "12845"
+  },
+  {
+    "city": "Qiaotouba",
+    "admin": "Gansu",
+    "sort": "12649"
+  },
+  {
+    "city": "Dongyuancun",
+    "admin": "Zhejiang",
+    "sort": "12572"
+  },
+  {
+    "city": "Xiaping",
+    "admin": "Shaanxi",
+    "sort": "12496"
+  },
+  {
+    "city": "Reshuijie",
+    "admin": "Guangdong",
+    "sort": "12461"
+  },
+  {
+    "city": "Nanzhai",
+    "admin": "Guizhou",
+    "sort": "12495"
+  },
+  {
+    "city": "Xinyingheyan",
+    "admin": "Gansu",
+    "sort": "12461"
+  },
+  {
+    "city": "Shichuanxiang",
+    "admin": "Gansu",
+    "sort": "12436"
+  },
+  {
+    "city": "Shuangxianxiang",
+    "admin": "Gansu",
+    "sort": "12322"
+  },
+  {
+    "city": "Xinchangcun",
+    "admin": "Guizhou",
+    "sort": "12394"
+  },
+  {
+    "city": "Xinbocun",
+    "admin": "Hebei",
+    "sort": "12396"
+  },
+  {
+    "city": "Maqu",
+    "admin": "Gansu",
+    "sort": "12333"
+  },
+  {
+    "city": "Zhengdong",
+    "admin": "Yunnan",
+    "sort": "12185"
+  },
+  {
+    "city": "Bajiao",
+    "admin": "Guizhou",
+    "sort": "11745"
+  },
+  {
+    "city": "Liuba",
+    "admin": "Gansu",
+    "sort": "12069"
+  },
+  {
+    "city": "Baohe",
+    "admin": "Shaanxi",
+    "sort": "11897"
+  },
+  {
+    "city": "Baxiangshan",
+    "admin": "Guangdong",
+    "sort": "12039"
+  },
+  {
+    "city": "Xincheng",
+    "admin": "Shanxi",
+    "sort": "11866"
+  },
+  {
+    "city": "Lajia",
+    "admin": "Qinghai",
+    "sort": "12045"
+  },
+  {
+    "city": "Erbaocun",
+    "admin": "Xinjiang",
+    "sort": "11972"
+  },
+  {
+    "city": "Jiajin",
+    "admin": "Guizhou",
+    "sort": "11954"
+  },
+  {
+    "city": "Aheqi",
+    "admin": "Xinjiang",
+    "sort": "11910"
+  },
+  {
+    "city": "Diao’ecun",
+    "admin": "Hebei",
+    "sort": "11631"
+  },
+  {
+    "city": "Xiaoba",
+    "admin": "Guizhou",
+    "sort": "11560"
+  },
+  {
+    "city": "Shengping",
+    "admin": "Yunnan",
+    "sort": "11595"
+  },
+  {
+    "city": "Huanian",
+    "admin": "Yunnan",
+    "sort": "11538"
+  },
+  {
+    "city": "Hejiaji",
+    "admin": "Shaanxi",
+    "sort": "11382"
+  },
+  {
+    "city": "Lijiacha",
+    "admin": "Shaanxi",
+    "sort": "11381"
+  },
+  {
+    "city": "Caotan",
+    "admin": "Gansu",
+    "sort": "11294"
+  },
+  {
+    "city": "Bailin",
+    "admin": "Gansu",
+    "sort": "11144"
+  },
+  {
+    "city": "Sanjiaocheng",
+    "admin": "Qinghai",
+    "sort": "11196"
+  },
+  {
+    "city": "Xintianfeng",
+    "admin": "Guangdong",
+    "sort": "10974"
+  },
+  {
+    "city": "Xinyaoshang",
+    "admin": "Guizhou",
+    "sort": "11010"
+  },
+  {
+    "city": "Longtaixiang",
+    "admin": "Gansu",
+    "sort": "11063"
+  },
+  {
+    "city": "Gucheng",
+    "admin": "Gansu",
+    "sort": "11096"
+  },
+  {
+    "city": "Wen’anyi",
+    "admin": "Shaanxi",
+    "sort": "11075"
+  },
+  {
+    "city": "Wangjiabian",
+    "admin": "Shaanxi",
+    "sort": "11050"
+  },
+  {
+    "city": "Mawu",
+    "admin": "Gansu",
+    "sort": "11015"
+  },
+  {
+    "city": "Pingtouchuanxiang",
+    "admin": "Gansu",
+    "sort": "10978"
+  },
+  {
+    "city": "Ma’ai",
+    "admin": "Gansu",
+    "sort": "10988"
+  },
+  {
+    "city": "Guantingzhan",
+    "admin": "Hebei",
+    "sort": "10863"
+  },
+  {
+    "city": "Sanjiangkou",
+    "admin": "Yunnan",
+    "sort": "10860"
+  },
+  {
+    "city": "Gaohucun",
+    "admin": "Zhejiang",
+    "sort": "10725"
+  },
+  {
+    "city": "Xiaozui",
+    "admin": "Gansu",
+    "sort": "10713"
+  },
+  {
+    "city": "Chuqung",
+    "admin": "Qinghai",
+    "sort": "10659"
+  },
+  {
+    "city": "Kuiyibagecun",
+    "admin": "Xinjiang",
+    "sort": "10553"
+  },
+  {
+    "city": "Bangshang",
+    "admin": "Sichuan",
+    "sort": "10561"
+  },
+  {
+    "city": "Nanfang",
+    "admin": "Guangdong",
+    "sort": "10180"
+  },
+  {
+    "city": "Kangning",
+    "admin": "Gansu",
+    "sort": "10300"
+  },
+  {
+    "city": "Shenjiaba",
+    "admin": "Shaanxi",
+    "sort": "10413"
+  },
+  {
+    "city": "Haikoucun",
+    "admin": "Zhejiang",
+    "sort": "10368"
+  },
+  {
+    "city": "Qiushanxiang",
+    "admin": "Gansu",
+    "sort": "10310"
+  },
+  {
+    "city": "Biandanshan",
+    "admin": "Guizhou",
+    "sort": "10183"
+  },
+  {
+    "city": "Fenggeling",
+    "admin": "Shaanxi",
+    "sort": "10250"
+  },
+  {
+    "city": "Fanzhao",
+    "admin": "Guizhou",
+    "sort": "10165"
+  },
+  {
+    "city": "Tanggemu Nongchang",
+    "admin": "Qinghai",
+    "sort": "10214"
+  },
+  {
+    "city": "Hongliuwan",
+    "admin": "Gansu",
+    "sort": "10079"
+  },
+  {
+    "city": "Gar",
+    "admin": "Tibet",
+    "sort": "10000"
+  },
+  {
+    "city": "Dongcha",
+    "admin": "Gansu",
+    "sort": "9920"
+  },
+  {
+    "city": "Ruoqiang",
+    "admin": "Xinjiang",
+    "sort": "9872"
+  },
+  {
+    "city": "Pagqên",
+    "admin": "Qinghai",
+    "sort": "9530"
+  },
+  {
+    "city": "Baluntaicun",
+    "admin": "Xinjiang",
+    "sort": "9220"
+  },
+  {
+    "city": "Dashouping",
+    "admin": "Guangdong",
+    "sort": "8913"
+  },
+  {
+    "city": "Taxkorgan",
+    "admin": "Xinjiang",
+    "sort": "8919"
+  },
+  {
+    "city": "Nanzhangcheng",
+    "admin": "Hebei",
+    "sort": "8707"
+  },
+  {
+    "city": "Gyümai",
+    "admin": "Qinghai",
+    "sort": "8706"
+  },
+  {
+    "city": "Hongwansi",
+    "admin": "Gansu",
+    "sort": "8125"
+  },
+  {
+    "city": "Shankoucun",
+    "admin": "Zhejiang",
+    "sort": "8010"
+  },
+  {
+    "city": "Hongmao",
+    "admin": "Hainan",
+    "sort": "8153"
+  },
+  {
+    "city": "Heyin",
+    "admin": "Qinghai",
+    "sort": "7642"
+  },
+  {
+    "city": "Xiaoshengcun",
+    "admin": "Guangdong",
+    "sort": "7819"
+  },
+  {
+    "city": "Dongping",
+    "admin": "Guangdong",
+    "sort": "7764"
+  },
+  {
+    "city": "Hongliuyuan",
+    "admin": "Gansu",
+    "sort": "7673"
+  },
+  {
+    "city": "Cangyanshanzhen",
+    "admin": "Hebei",
+    "sort": "6908"
+  },
+  {
+    "city": "Sêraitang",
+    "admin": "Qinghai",
+    "sort": "6907"
+  },
+  {
+    "city": "Chugqênsumdo",
+    "admin": "Qinghai",
+    "sort": "6834"
+  },
+  {
+    "city": "Jiaotanzhuang",
+    "admin": "Hebei",
+    "sort": "6576"
+  },
+  {
+    "city": "Gyangzê",
+    "admin": "Tibet",
+    "sort": "6000"
+  },
+  {
+    "city": "Zhongcha",
+    "admin": "Sichuan",
+    "sort": "6000"
+  },
+  {
+    "city": "Mengjiazhuang",
+    "admin": "Hebei",
+    "sort": "5654"
+  },
+  {
+    "city": "Dabancheng",
+    "admin": "Xinjiang",
+    "sort": "5540"
+  },
+  {
+    "city": "Xibaipo",
+    "admin": "Hebei",
+    "sort": "5142"
+  },
+  {
+    "city": "Jinzhong",
+    "admin": "Yunnan",
+    "sort": "5170"
+  },
+  {
+    "city": "Dachi",
+    "admin": "Shaanxi",
+    "sort": "5047"
+  },
+  {
+    "city": "Kailu",
+    "admin": "Inner Mongolia",
+    "sort": "2809"
+  },
+  {
+    "city": "Linxi",
+    "admin": "Inner Mongolia",
+    "sort": "679"
+  },
+  {
+    "city": "Dujiashigou",
+    "admin": "Shaanxi",
+    "sort": "9966"
+  },
+  {
+    "city": "Yueyaquan",
+    "admin": "Gansu",
+    "sort": "9977"
+  },
+  {
+    "city": "Jixian",
+    "admin": "Gansu",
+    "sort": "9822"
+  },
+  {
+    "city": "Dangcheng",
+    "admin": "Gansu",
+    "sort": "9792"
+  },
+  {
+    "city": "Xiba",
+    "admin": "Gansu",
+    "sort": "9753"
+  },
+  {
+    "city": "Shiyuan",
+    "admin": "Gansu",
+    "sort": "9583"
+  },
+  {
+    "city": "Zengjiaba",
+    "admin": "Shaanxi",
+    "sort": "9708"
+  },
+  {
+    "city": "Aweitancun",
+    "admin": "Xinjiang",
+    "sort": "9622"
+  },
+  {
+    "city": "Xiada",
+    "admin": "Guangdong",
+    "sort": "9560"
+  },
+  {
+    "city": "Zhangping",
+    "admin": "Shanxi",
+    "sort": "9477"
+  },
+  {
+    "city": "Benbutucun",
+    "admin": "Xinjiang",
+    "sort": "9408"
+  },
+  {
+    "city": "Xiangping",
+    "admin": "Guangdong",
+    "sort": "9169"
+  },
+  {
+    "city": "Leichi",
+    "admin": "Shaanxi",
+    "sort": "9192"
+  },
+  {
+    "city": "Dazhuangzi",
+    "admin": "Gansu",
+    "sort": "9130"
+  },
+  {
+    "city": "Daping",
+    "admin": "Guangdong",
+    "sort": "8753"
+  },
+  {
+    "city": "Zhujiagua",
+    "admin": "Shaanxi",
+    "sort": "8507"
+  },
+  {
+    "city": "Hukou",
+    "admin": "Shaanxi",
+    "sort": "8338"
+  },
+  {
+    "city": "Huohua",
+    "admin": "Guizhou",
+    "sort": "8126"
+  },
+  {
+    "city": "Baili",
+    "admin": "Gansu",
+    "sort": "8150"
+  },
+  {
+    "city": "Guazhoucun",
+    "admin": "Gansu",
+    "sort": "8022"
+  },
+  {
+    "city": "Gucheng",
+    "admin": "Gansu",
+    "sort": "7621"
+  },
+  {
+    "city": "Datian",
+    "admin": "Guangdong",
+    "sort": "7030"
+  },
+  {
+    "city": "Guanzhuang",
+    "admin": "Shaanxi",
+    "sort": "7038"
+  },
+  {
+    "city": "Azitan",
+    "admin": "Gansu",
+    "sort": "6881"
+  },
+  {
+    "city": "Yangjiagetai",
+    "admin": "Shaanxi",
+    "sort": "6909"
+  },
+  {
+    "city": "Dagou",
+    "admin": "Gansu",
+    "sort": "6673"
+  },
+  {
+    "city": "Shechengtan",
+    "admin": "Shanxi",
+    "sort": "6546"
+  },
+  {
+    "city": "Bingzhongluo",
+    "admin": "Yunnan",
+    "sort": "6465"
+  },
+  {
+    "city": "Jiyek",
+    "admin": "Xinjiang",
+    "sort": "6433"
+  },
+  {
+    "city": "Fangjiata",
+    "admin": "Shaanxi",
+    "sort": "6379"
+  },
+  {
+    "city": "Jinshan",
+    "admin": "Gansu",
+    "sort": "5645"
+  },
+  {
+    "city": "Jiajiaping",
+    "admin": "Shaanxi",
+    "sort": "5602"
+  },
+  {
+    "city": "Renzhuangcun",
+    "admin": "Zhejiang",
+    "sort": "5432"
+  },
+  {
+    "city": "Cairima",
+    "admin": "Gansu",
+    "sort": "5463"
+  },
+  {
+    "city": "Hejiachuan",
+    "admin": "Shaanxi",
+    "sort": "5449"
+  },
+  {
+    "city": "Sanmucha",
+    "admin": "Gansu",
+    "sort": "5398"
+  },
+  {
+    "city": "Taoyan",
+    "admin": "Gansu",
+    "sort": "5329"
+  },
+  {
+    "city": "Jingping",
+    "admin": "Gansu",
+    "sort": "5149"
+  },
+  {
+    "city": "Dayi",
+    "admin": "Gansu",
+    "sort": "5114"
+  },
+  {
+    "city": "Biancang",
+    "admin": "Gansu",
+    "sort": "5040"
+  },
+  {
+    "city": "Nichicun",
+    "admin": "Tibet",
+    "sort": "100"
+  }
+]

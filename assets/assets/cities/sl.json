@@ -1,0 +1,32 @@
+[
+  {
+    "city": "Freetown",
+    "admin": "Western Area",
+    "sort": "951000"
+  },
+  {
+    "city": "Bo",
+    "admin": "Southern",
+    "sort": "233684"
+  },
+  {
+    "city": "Kenema",
+    "admin": "Eastern",
+    "sort": "188463"
+  },
+  {
+    "city": "Makeni",
+    "admin": "Northern",
+    "sort": "87679"
+  },
+  {
+    "city": "Port Loko",
+    "admin": "Northern",
+    "sort": ""
+  },
+  {
+    "city": "Koidu-Bulma",
+    "admin": "Eastern",
+    "sort": "87539"
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "city": "Lima",
+    "admin": "Lima",
+    "sort": "8992000"
+  },
+  {
+    "city": "Callao",
+    "admin": "Callao",
+    "sort": "1129854"
+  },
+  {
+    "city": "Arequipa",
+    "admin": "Arequipa",
+    "sort": "1008290"
+  },
+  {
+    "city": "Trujillo",
+    "admin": "La Libertad",
+    "sort": "919899"
+  },
+  {
+    "city": "Chiclayo",
+    "admin": "Lambayeque",
+    "sort": "552508"
+  },
+  {
+    "city": "Chimbote",
+    "admin": "Ancash",
+    "sort": "497875"
+  },
+  {
+    "city": "Piura",
+    "admin": "Piura",
+    "sort": "473025"
+  },
+  {
+    "city": "Cusco",
+    "admin": "Cusco",
+    "sort": "428450"
+  },
+  {
+    "city": "Huancayo",
+    "admin": "Junín",
+    "sort": "378203"
+  },
+  {
+    "city": "Iquitos",
+    "admin": "Loreto",
+    "sort": "377609"
+  },
+  {
+    "city": "Pucallpa",
+    "admin": "Ucayali",
+    "sort": "326040"
+  },
+  {
+    "city": "Juliaca",
+    "admin": "Puno",
+    "sort": "291189"
+  },
+  {
+    "city": "Tacna",
+    "admin": "Tacna",
+    "sort": "286240"
+  },
+  {
+    "city": "Ica",
+    "admin": "Ica",
+    "sort": "282407"
+  },
+  {
+    "city": "Tarapoto",
+    "admin": "San Martín",
+    "sort": "240453"
+  },
+  {
+    "city": "Huacho",
+    "admin": "Lima",
+    "sort": "200585"
+  },
+  {
+    "city": "Cajamarca",
+    "admin": "Cajamarca",
+    "sort": "201329"
+  },
+  {
+    "city": "Huánuco",
+    "admin": "Huánuco",
+    "sort": "196627"
+  },
+  {
+    "city": "Ayacucho",
+    "admin": "Ayacucho",
+    "sort": "180766"
+  },
+  {
+    "city": "Paita",
+    "admin": "Piura",
+    "sort": "179346"
+  },
+  {
+    "city": "Sullana",
+    "admin": "Piura",
+    "sort": "162434"
+  },
+  {
+    "city": "Huaycan",
+    "admin": "Lima",
+    "sort": "160000"
+  },
+  {
+    "city": "Barranca",
+    "admin": "Lima",
+    "sort": "144381"
+  },
+  {
+    "city": "Puno",
+    "admin": "Puno",
+    "sort": "128637"
+  },
+  {
+    "city": "Huaraz",
+    "admin": "Ancash",
+    "sort": "118836"
+  },
+  {
+    "city": "Pisco",
+    "admin": "Ica",
+    "sort": "109965"
+  },
+  {
+    "city": "Tumbes",
+    "admin": "Tumbes",
+    "sort": "96946"
+  },
+  {
+    "city": "Puerto Maldonado",
+    "admin": "Madre de Dios",
+    "sort": "85024"
+  },
+  {
+    "city": "Abancay",
+    "admin": "Apurímac",
+    "sort": "72277"
+  },
+  {
+    "city": "Moquegua",
+    "admin": "Moquegua",
+    "sort": "69882"
+  },
+  {
+    "city": "Cerro de Pasco",
+    "admin": "Pasco",
+    "sort": "58899"
+  },
+  {
+    "city": "Moyobamba",
+    "admin": "San Martín",
+    "sort": "50073"
+  },
+  {
+    "city": "Huancavelica",
+    "admin": "Huancavelica",
+    "sort": "49570"
+  },
+  {
+    "city": "Chachapoyas",
+    "admin": "Amazonas",
+    "sort": "32026"
+  },
+  {
+    "city": "Talara",
+    "admin": "Piura",
+    "sort": "91444"
+  },
+  {
+    "city": "Chosica",
+    "admin": "Lima",
+    "sort": "88606"
+  },
+  {
+    "city": "Andahuaylas",
+    "admin": "Apurímac",
+    "sort": "80000"
+  },
+  {
+    "city": "Huaral",
+    "admin": "Lima",
+    "sort": "79011"
+  },
+  {
+    "city": "Chulucanas",
+    "admin": "Piura",
+    "sort": "68835"
+  },
+  {
+    "city": "Ilo",
+    "admin": "Moquegua",
+    "sort": "66118"
+  },
+  {
+    "city": "Chincha Alta",
+    "admin": "Ica",
+    "sort": "63671"
+  },
+  {
+    "city": "Yurimaguas",
+    "admin": "Loreto",
+    "sort": "62903"
+  },
+  {
+    "city": "Lambayeque",
+    "admin": "Lambayeque",
+    "sort": "58276"
+  },
+  {
+    "city": "Chota",
+    "admin": "Cajamarca",
+    "sort": "54611"
+  },
+  {
+    "city": "Tarma",
+    "admin": "Junín",
+    "sort": "54078"
+  },
+  {
+    "city": "Jaén",
+    "admin": "Cajamarca",
+    "sort": "52493"
+  },
+  {
+    "city": "Tingo María",
+    "admin": "Huánuco",
+    "sort": "46191"
+  },
+  {
+    "city": "Bagua Grande",
+    "admin": "Amazonas",
+    "sort": "40947"
+  },
+  {
+    "city": "Huaura",
+    "admin": "Lima",
+    "sort": "40400"
+  },
+  {
+    "city": "Juanjuí",
+    "admin": "San Martín",
+    "sort": "37715"
+  },
+  {
+    "city": "Virú",
+    "admin": "La Libertad",
+    "sort": "36029"
+  },
+  {
+    "city": "Sicuani",
+    "admin": "Cusco",
+    "sort": "33575"
+  },
+  {
+    "city": "Forbe Oroya",
+    "admin": "Junín",
+    "sort": "33000"
+  },
+  {
+    "city": "Chancay",
+    "admin": "Lima",
+    "sort": "32312"
+  },
+  {
+    "city": "Ferreñafe",
+    "admin": "Lambayeque",
+    "sort": "31777"
+  },
+  {
+    "city": "Sechura",
+    "admin": "Piura",
+    "sort": "32144"
+  },
+  {
+    "city": "Pativilca",
+    "admin": "Lima",
+    "sort": "31905"
+  },
+  {
+    "city": "Huamachuco",
+    "admin": "La Libertad",
+    "sort": "30835"
+  },
+  {
+    "city": "Huanta",
+    "admin": "Ayacucho",
+    "sort": "30234"
+  },
+  {
+    "city": "Casma",
+    "admin": "Ancash",
+    "sort": "30000"
+  },
+  {
+    "city": "Tocache Nuevo",
+    "admin": "San Martín",
+    "sort": "29029"
+  },
+  {
+    "city": "Jauja",
+    "admin": "Junín",
+    "sort": "27560"
+  },
+  {
+    "city": "Mollendo",
+    "admin": "Arequipa",
+    "sort": "28305"
+  },
+  {
+    "city": "Pacasmayo",
+    "admin": "La Libertad",
+    "sort": "26125"
+  },
+  {
+    "city": "San Vicente de Cañete",
+    "admin": "Lima",
+    "sort": "25829"
+  },
+  {
+    "city": "Otuzco",
+    "admin": "La Libertad",
+    "sort": "25134"
+  },
+  {
+    "city": "Santo Tomás",
+    "admin": "Cusco",
+    "sort": "25087"
+  },
+  {
+    "city": "Carás",
+    "admin": "Ancash",
+    "sort": "23841"
+  },
+  {
+    "city": "Nazca",
+    "admin": "Ica",
+    "sort": "22859"
+  },
+  {
+    "city": "Camaná",
+    "admin": "Arequipa",
+    "sort": "20956"
+  },
+  {
+    "city": "Juli",
+    "admin": "Puno",
+    "sort": "21462"
+  },
+  {
+    "city": "Ayaviri",
+    "admin": "Puno",
+    "sort": "19310"
+  },
+  {
+    "city": "Contamana",
+    "admin": "Loreto",
+    "sort": "18921"
+  },
+  {
+    "city": "Requena",
+    "admin": "Loreto",
+    "sort": "18000"
+  },
+  {
+    "city": "Zarumilla",
+    "admin": "Tumbes",
+    "sort": "16971"
+  },
+  {
+    "city": "Puerto Pimentel",
+    "admin": "Lambayeque",
+    "sort": "15552"
+  },
+  {
+    "city": "San Pedro de Lloc",
+    "admin": "La Libertad",
+    "sort": "16198"
+  },
+  {
+    "city": "Huarmey",
+    "admin": "Ancash",
+    "sort": "16172"
+  },
+  {
+    "city": "Ilave",
+    "admin": "Puno",
+    "sort": "16033"
+  },
+  {
+    "city": "Puquio",
+    "admin": "Ayacucho",
+    "sort": "15870"
+  },
+  {
+    "city": "Junín",
+    "admin": "Junín",
+    "sort": "15320"
+  },
+  {
+    "city": "San Ramón",
+    "admin": "Junín",
+    "sort": "14708"
+  },
+  {
+    "city": "Lamas",
+    "admin": "San Martín",
+    "sort": "13693"
+  },
+  {
+    "city": "Motupe",
+    "admin": "Lambayeque",
+    "sort": "13681"
+  },
+  {
+    "city": "Cajabamba",
+    "admin": "Cajamarca",
+    "sort": "13486"
+  },
+  {
+    "city": "Chilca",
+    "admin": "Lima",
+    "sort": "12884"
+  },
+  {
+    "city": "Oxapampa",
+    "admin": "Pasco",
+    "sort": "12826"
+  },
+  {
+    "city": "Santiago",
+    "admin": "Ica",
+    "sort": "10449"
+  },
+  {
+    "city": "Salaverry",
+    "admin": "La Libertad",
+    "sort": "10066"
+  },
+  {
+    "city": "Satipo",
+    "admin": "Junín",
+    "sort": "10052"
+  },
+  {
+    "city": "Yungay",
+    "admin": "Ancash",
+    "sort": "8000"
+  },
+  {
+    "city": "Coracora",
+    "admin": "Ayacucho",
+    "sort": "7420"
+  },
+  {
+    "city": "Desaguadero",
+    "admin": "Puno",
+    "sort": "5329"
+  },
+  {
+    "city": "Caballococha",
+    "admin": "Loreto",
+    "sort": "3195"
+  },
+  {
+    "city": "Urubamba",
+    "admin": "Cusco",
+    "sort": "2700"
+  },
+  {
+    "city": "Nauta",
+    "admin": "Loreto",
+    "sort": "2500"
+  },
+  {
+    "city": "Olmos",
+    "admin": "Lambayeque",
+    "sort": "9800"
+  },
+  {
+    "city": "Putina",
+    "admin": "Puno",
+    "sort": "8118"
+  },
+  {
+    "city": "Lagunas",
+    "admin": "Loreto",
+    "sort": "7215"
+  },
+  {
+    "city": "Tournavista",
+    "admin": "Huánuco",
+    "sort": "511"
+  },
+  {
+    "city": "Güeppí",
+    "admin": "Loreto",
+    "sort": "10"
+  },
+  {
+    "city": "Rocafuerte",
+    "admin": "Loreto",
+    "sort": "40"
+  },
+  {
+    "city": "Andoas",
+    "admin": "Loreto",
+    "sort": "10"
+  },
+  {
+    "city": "Puca Urco",
+    "admin": "Loreto",
+    "sort": "10"
+  },
+  {
+    "city": "Soldado Bartra",
+    "admin": "Loreto",
+    "sort": "10"
+  }
+]

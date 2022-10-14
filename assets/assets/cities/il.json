@@ -1,0 +1,387 @@
+[
+  {
+    "city": "Jerusalem",
+    "admin": "Jerusalem",
+    "sort": "919438"
+  },
+  {
+    "city": "Tel Aviv-Yafo",
+    "admin": "Tel Aviv",
+    "sort": "451523"
+  },
+  {
+    "city": "Haifa",
+    "admin": "Haifa",
+    "sort": "281087"
+  },
+  {
+    "city": "Rishon LeẔiyyon",
+    "admin": "Central",
+    "sort": "249860"
+  },
+  {
+    "city": "Petaẖ Tiqwa",
+    "admin": "Central",
+    "sort": "236169"
+  },
+  {
+    "city": "Ashdod",
+    "admin": "Southern",
+    "sort": "220174"
+  },
+  {
+    "city": "Netanya",
+    "admin": "Central",
+    "sort": "217244"
+  },
+  {
+    "city": "Beersheba",
+    "admin": "Southern",
+    "sort": "209000"
+  },
+  {
+    "city": "Bené Beraq",
+    "admin": "Tel Aviv",
+    "sort": "193774"
+  },
+  {
+    "city": "Holon",
+    "admin": "Tel Aviv",
+    "sort": "188834"
+  },
+  {
+    "city": "Ramat Gan",
+    "admin": "Tel Aviv",
+    "sort": "152596"
+  },
+  {
+    "city": "Bat Yam",
+    "admin": "Tel Aviv",
+    "sort": "128800"
+  },
+  {
+    "city": "Ashqelon",
+    "admin": "Southern",
+    "sort": "134454"
+  },
+  {
+    "city": "Reẖovot",
+    "admin": "Central",
+    "sort": "132671"
+  },
+  {
+    "city": "Bet Shemesh",
+    "admin": "Jerusalem",
+    "sort": "114371"
+  },
+  {
+    "city": "Kefar Sava",
+    "admin": "Central",
+    "sort": "100800"
+  },
+  {
+    "city": "Herẕliyya",
+    "admin": "Tel Aviv",
+    "sort": "93989"
+  },
+  {
+    "city": "Nazareth",
+    "admin": "Northern",
+    "sort": "83400"
+  },
+  {
+    "city": "Ra‘ananna",
+    "admin": "Central",
+    "sort": "74000"
+  },
+  {
+    "city": "Ramla",
+    "admin": "Central",
+    "sort": "75500"
+  },
+  {
+    "city": "Givatayim",
+    "admin": "Tel Aviv",
+    "sort": "59518"
+  },
+  {
+    "city": "Hod HaSharon",
+    "admin": "Central",
+    "sort": "56659"
+  },
+  {
+    "city": "Qiryat Ata",
+    "admin": "Haifa",
+    "sort": "55464"
+  },
+  {
+    "city": "Rosh Ha‘Ayin",
+    "admin": "Central",
+    "sort": "56300"
+  },
+  {
+    "city": "Umm el Faḥm",
+    "admin": "Haifa",
+    "sort": "55300"
+  },
+  {
+    "city": "Nes Ẕiyyona",
+    "admin": "Central",
+    "sort": "50200"
+  },
+  {
+    "city": "El‘ad",
+    "admin": "Central",
+    "sort": "46896"
+  },
+  {
+    "city": "Ramat HaSharon",
+    "admin": "Tel Aviv",
+    "sort": "46700"
+  },
+  {
+    "city": "Karmiel",
+    "admin": "Northern",
+    "sort": "45300"
+  },
+  {
+    "city": "Qiryat Ono",
+    "admin": "Tel Aviv",
+    "sort": "37791"
+  },
+  {
+    "city": "Ben Zakkay",
+    "admin": "Central",
+    "sort": "42314"
+  },
+  {
+    "city": "Qiryat Bialik",
+    "admin": "Haifa",
+    "sort": "39900"
+  },
+  {
+    "city": "Or Yehuda",
+    "admin": "Tel Aviv",
+    "sort": "36706"
+  },
+  {
+    "city": "Shefar‘am",
+    "admin": "Northern",
+    "sort": "41600"
+  },
+  {
+    "city": "Yehud",
+    "admin": "Central",
+    "sort": "29146"
+  },
+  {
+    "city": "Giv‘at Shemu’él",
+    "admin": "Central",
+    "sort": "25298"
+  },
+  {
+    "city": "Gedera",
+    "admin": "Central",
+    "sort": "26217"
+  },
+  {
+    "city": "Eṭ Ṭīra",
+    "admin": "Central",
+    "sort": "26200"
+  },
+  {
+    "city": "Gan Yavne",
+    "admin": "Central",
+    "sort": "22453"
+  },
+  {
+    "city": "Kafr Qāsim",
+    "admin": "Central",
+    "sort": "21848"
+  },
+  {
+    "city": "Qalansuwa",
+    "admin": "Central",
+    "sort": "21451"
+  },
+  {
+    "city": "Hadera",
+    "admin": "Haifa",
+    "sort": "91707"
+  },
+  {
+    "city": "Modi‘in Makkabbim Re‘ut",
+    "admin": "Central",
+    "sort": "90013"
+  },
+  {
+    "city": "Lod",
+    "admin": "Central",
+    "sort": "75700"
+  },
+  {
+    "city": "Rahat",
+    "admin": "Southern",
+    "sort": "64462"
+  },
+  {
+    "city": "Nahariyya",
+    "admin": "Northern",
+    "sort": "60000"
+  },
+  {
+    "city": "Eilat",
+    "admin": "Southern",
+    "sort": "51935"
+  },
+  {
+    "city": "‘Akko",
+    "admin": "Northern",
+    "sort": "47675"
+  },
+  {
+    "city": "Afula",
+    "admin": "Northern",
+    "sort": "44930"
+  },
+  {
+    "city": "Tiberias",
+    "admin": "Northern",
+    "sort": "44200"
+  },
+  {
+    "city": "Pardés H̱anna Karkur",
+    "admin": "Haifa",
+    "sort": "42100"
+  },
+  {
+    "city": "Eṭ Ṭaiyiba",
+    "admin": "Central",
+    "sort": "43100"
+  },
+  {
+    "city": "Qiryat Moẕqin",
+    "admin": "Haifa",
+    "sort": "40160"
+  },
+  {
+    "city": "Qiryat Yam",
+    "admin": "Haifa",
+    "sort": "39416"
+  },
+  {
+    "city": "Ma‘alot Tarshīḥā",
+    "admin": "Northern",
+    "sort": "36000"
+  },
+  {
+    "city": "Ẕefat",
+    "admin": "Northern",
+    "sort": "35700"
+  },
+  {
+    "city": "Tamra",
+    "admin": "Northern",
+    "sort": "34000"
+  },
+  {
+    "city": "Dimona",
+    "admin": "Southern",
+    "sort": "34135"
+  },
+  {
+    "city": "Sakhnīn",
+    "admin": "Northern",
+    "sort": "31100"
+  },
+  {
+    "city": "Netivot",
+    "admin": "Southern",
+    "sort": "31314"
+  },
+  {
+    "city": "Ofaqim",
+    "admin": "Southern",
+    "sort": "27771"
+  },
+  {
+    "city": "Migdal Ha‘Emeq",
+    "admin": "Northern",
+    "sort": "25600"
+  },
+  {
+    "city": "Nesher",
+    "admin": "Haifa",
+    "sort": "23700"
+  },
+  {
+    "city": "Arad",
+    "admin": "Southern",
+    "sort": "24436"
+  },
+  {
+    "city": "Kefar Yona",
+    "admin": "Central",
+    "sort": "21611"
+  },
+  {
+    "city": "Tirat Karmel",
+    "admin": "Haifa",
+    "sort": "22200"
+  },
+  {
+    "city": "Sederot",
+    "admin": "Southern",
+    "sort": "23090"
+  },
+  {
+    "city": "Qiryat Mal’akhi",
+    "admin": "Southern",
+    "sort": "23100"
+  },
+  {
+    "city": "Qiryat Shemona",
+    "admin": "Northern",
+    "sort": "23076"
+  },
+  {
+    "city": "Yoqne‘am ‘Illit",
+    "admin": "Northern",
+    "sort": "21383"
+  },
+  {
+    "city": "Be’er Ya‘aqov",
+    "admin": "Central",
+    "sort": "18401"
+  },
+  {
+    "city": "Or ‘Aqiva",
+    "admin": "Haifa",
+    "sort": "17759"
+  },
+  {
+    "city": "Bet She’an",
+    "admin": "Northern",
+    "sort": "18200"
+  },
+  {
+    "city": "Majdal Shams",
+    "admin": "Northern",
+    "sort": "15973"
+  },
+  {
+    "city": "Jisr ez Zarqā",
+    "admin": "Haifa",
+    "sort": "13962"
+  },
+  {
+    "city": "Omer",
+    "admin": "Southern",
+    "sort": "7339"
+  },
+  {
+    "city": "Buq‘ātā",
+    "admin": "Northern",
+    "sort": "6329"
+  }
+]

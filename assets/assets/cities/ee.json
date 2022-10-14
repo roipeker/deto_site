@@ -1,0 +1,127 @@
+[
+  {
+    "city": "Tallinn",
+    "admin": "Harjumaa",
+    "sort": "438341"
+  },
+  {
+    "city": "Tartu",
+    "admin": "Tartumaa",
+    "sort": "91407"
+  },
+  {
+    "city": "Pärnu",
+    "admin": "Pärnumaa",
+    "sort": "39438"
+  },
+  {
+    "city": "Viljandi",
+    "admin": "Viljandimaa",
+    "sort": "16875"
+  },
+  {
+    "city": "Rakvere",
+    "admin": "Lääne-Virumaa",
+    "sort": "14984"
+  },
+  {
+    "city": "Kuressaare",
+    "admin": "Saaremaa",
+    "sort": "13097"
+  },
+  {
+    "city": "Valga",
+    "admin": "Valgamaa",
+    "sort": "12182"
+  },
+  {
+    "city": "Võru",
+    "admin": "Võrumaa",
+    "sort": "11533"
+  },
+  {
+    "city": "Jõhvi",
+    "admin": "Ida-Virumaa",
+    "sort": "10541"
+  },
+  {
+    "city": "Haapsalu",
+    "admin": "Läänemaa",
+    "sort": "9675"
+  },
+  {
+    "city": "Paide",
+    "admin": "Järvamaa",
+    "sort": "7905"
+  },
+  {
+    "city": "Jõgeva",
+    "admin": "Jõgevamaa",
+    "sort": "5073"
+  },
+  {
+    "city": "Põlva",
+    "admin": "Põlvamaa",
+    "sort": "5324"
+  },
+  {
+    "city": "Rapla",
+    "admin": "Raplamaa",
+    "sort": "5069"
+  },
+  {
+    "city": "Kärdla",
+    "admin": "Hiiumaa",
+    "sort": "3230"
+  },
+  {
+    "city": "Narva",
+    "admin": "Ida-Virumaa",
+    "sort": "53424"
+  },
+  {
+    "city": "Kohtla-Järve",
+    "admin": "Ida-Virumaa",
+    "sort": "32577"
+  },
+  {
+    "city": "Maardu",
+    "admin": "Harjumaa",
+    "sort": "15284"
+  },
+  {
+    "city": "Sillamäe",
+    "admin": "Ida-Virumaa",
+    "sort": "12230"
+  },
+  {
+    "city": "Keila",
+    "admin": "Harjumaa",
+    "sort": "10078"
+  },
+  {
+    "city": "Saue",
+    "admin": "Harjumaa",
+    "sort": "5631"
+  },
+  {
+    "city": "Elva",
+    "admin": "Tartumaa",
+    "sort": "5669"
+  },
+  {
+    "city": "Tapa",
+    "admin": "Lääne-Virumaa",
+    "sort": "5706"
+  },
+  {
+    "city": "Kiviõli",
+    "admin": "Ida-Virumaa",
+    "sort": "5504"
+  },
+  {
+    "city": "Türi",
+    "admin": "Järvamaa",
+    "sort": "5257"
+  }
+]

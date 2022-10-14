@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Suva",
+    "admin": "Rewa",
+    "sort": "88271"
+  },
+  {
+    "city": "Lautoka",
+    "admin": "Ba",
+    "sort": "52220"
+  },
+  {
+    "city": "Nausori",
+    "admin": "Tailevu",
+    "sort": "47604"
+  },
+  {
+    "city": "Nadi",
+    "admin": "Ba",
+    "sort": "42284"
+  },
+  {
+    "city": "Labasa",
+    "admin": "Macuata",
+    "sort": "27949"
+  },
+  {
+    "city": "Ba",
+    "admin": "Ba",
+    "sort": "18526"
+  },
+  {
+    "city": "Sigatoka",
+    "admin": "Nadroga and Navosa",
+    "sort": "9622"
+  },
+  {
+    "city": "Vaileka",
+    "admin": "Ra",
+    "sort": "5078"
+  }
+]

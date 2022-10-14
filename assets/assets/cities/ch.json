@@ -1,0 +1,1792 @@
+[
+  {
+    "city": "Bern",
+    "admin": "Bern",
+    "sort": "133798"
+  },
+  {
+    "city": "Zürich",
+    "admin": "Zürich",
+    "sort": "434008"
+  },
+  {
+    "city": "Geneva",
+    "admin": "Genève",
+    "sort": "201818"
+  },
+  {
+    "city": "Basel",
+    "admin": "Basel-Stadt",
+    "sort": "177827"
+  },
+  {
+    "city": "Lausanne",
+    "admin": "Vaud",
+    "sort": "138905"
+  },
+  {
+    "city": "Winterthur",
+    "admin": "Zürich",
+    "sort": "109775"
+  },
+  {
+    "city": "Lucerne",
+    "admin": "Luzern",
+    "sort": "81691"
+  },
+  {
+    "city": "Sankt Gallen",
+    "admin": "Sankt Gallen",
+    "sort": "75833"
+  },
+  {
+    "city": "Biel/Bienne",
+    "admin": "Bern",
+    "sort": "54456"
+  },
+  {
+    "city": "Thun",
+    "admin": "Bern",
+    "sort": "43743"
+  },
+  {
+    "city": "Bellinzona",
+    "admin": "Ticino",
+    "sort": "43220"
+  },
+  {
+    "city": "Fribourg",
+    "admin": "Fribourg",
+    "sort": "38365"
+  },
+  {
+    "city": "Vernier",
+    "admin": "Genève",
+    "sort": "35132"
+  },
+  {
+    "city": "Schaffhausen",
+    "admin": "Schaffhausen",
+    "sort": "36587"
+  },
+  {
+    "city": "Chur",
+    "admin": "Graubünden",
+    "sort": "35038"
+  },
+  {
+    "city": "Neuchâtel",
+    "admin": "Neuchâtel",
+    "sort": "33475"
+  },
+  {
+    "city": "Yverdon-les-Bains",
+    "admin": "Vaud",
+    "sort": "30157"
+  },
+  {
+    "city": "Zug",
+    "admin": "Zug",
+    "sort": "30542"
+  },
+  {
+    "city": "Carouge",
+    "admin": "Genève",
+    "sort": "22336"
+  },
+  {
+    "city": "Dübendorf",
+    "admin": "Zürich",
+    "sort": "28002"
+  },
+  {
+    "city": "Dietikon",
+    "admin": "Zürich",
+    "sort": "26936"
+  },
+  {
+    "city": "Vevey",
+    "admin": "Vaud",
+    "sort": "19891"
+  },
+  {
+    "city": "Renens",
+    "admin": "Vaud",
+    "sort": "20927"
+  },
+  {
+    "city": "Meyrin",
+    "admin": "Genève",
+    "sort": "24144"
+  },
+  {
+    "city": "Onex",
+    "admin": "Genève",
+    "sort": "18977"
+  },
+  {
+    "city": "Allschwil",
+    "admin": "Basel-Landschaft",
+    "sort": "21150"
+  },
+  {
+    "city": "Opfikon",
+    "admin": "Zürich",
+    "sort": "19864"
+  },
+  {
+    "city": "Nyon",
+    "admin": "Vaud",
+    "sort": "20272"
+  },
+  {
+    "city": "Aarau",
+    "admin": "Aargau",
+    "sort": "21268"
+  },
+  {
+    "city": "Reinach",
+    "admin": "Basel-Landschaft",
+    "sort": "19144"
+  },
+  {
+    "city": "Schlieren",
+    "admin": "Zürich",
+    "sort": "18666"
+  },
+  {
+    "city": "Pully",
+    "admin": "Vaud",
+    "sort": "18313"
+  },
+  {
+    "city": "Adliswil",
+    "admin": "Zürich",
+    "sort": "18731"
+  },
+  {
+    "city": "Thalwil",
+    "admin": "Zürich",
+    "sort": "17784"
+  },
+  {
+    "city": "Ostermundigen",
+    "admin": "Bern",
+    "sort": "17546"
+  },
+  {
+    "city": "Morges",
+    "admin": "Vaud",
+    "sort": "15838"
+  },
+  {
+    "city": "Solothurn",
+    "admin": "Solothurn",
+    "sort": "16777"
+  },
+  {
+    "city": "Binningen",
+    "admin": "Basel-Landschaft",
+    "sort": "15580"
+  },
+  {
+    "city": "Wallisellen",
+    "admin": "Zürich",
+    "sort": "15855"
+  },
+  {
+    "city": "Prilly",
+    "admin": "Vaud",
+    "sort": "12399"
+  },
+  {
+    "city": "Thônex",
+    "admin": "Genève",
+    "sort": "14122"
+  },
+  {
+    "city": "Arbon",
+    "admin": "Thurgau",
+    "sort": "14537"
+  },
+  {
+    "city": "Schwyz",
+    "admin": "Schwyz",
+    "sort": "15181"
+  },
+  {
+    "city": "La Tour-de-Peilz",
+    "admin": "Vaud",
+    "sort": "11829"
+  },
+  {
+    "city": "Liestal",
+    "admin": "Basel-Landschaft",
+    "sort": "14390"
+  },
+  {
+    "city": "Chêne-Bougeries",
+    "admin": "Genève",
+    "sort": "12215"
+  },
+  {
+    "city": "Le Grand-Saconnex",
+    "admin": "Genève",
+    "sort": "12162"
+  },
+  {
+    "city": "Rorschach",
+    "admin": "Sankt Gallen",
+    "sort": "9439"
+  },
+  {
+    "city": "Birsfelden",
+    "admin": "Basel-Landschaft",
+    "sort": "10299"
+  },
+  {
+    "city": "Villars-sur-Glâne",
+    "admin": "Fribourg",
+    "sort": "12092"
+  },
+  {
+    "city": "Delémont",
+    "admin": "Jura",
+    "sort": "12682"
+  },
+  {
+    "city": "Männedorf",
+    "admin": "Zürich",
+    "sort": "10957"
+  },
+  {
+    "city": "Chavannes-près-Renens",
+    "admin": "Vaud",
+    "sort": "7724"
+  },
+  {
+    "city": "Massagno",
+    "admin": "Ticino",
+    "sort": "6227"
+  },
+  {
+    "city": "Widnau",
+    "admin": "Sankt Gallen",
+    "sort": "9616"
+  },
+  {
+    "city": "Epalinges",
+    "admin": "Vaud",
+    "sort": "9611"
+  },
+  {
+    "city": "Kilchberg",
+    "admin": "Zürich",
+    "sort": "8437"
+  },
+  {
+    "city": "Nidau",
+    "admin": "Bern",
+    "sort": "6815"
+  },
+  {
+    "city": "Sarnen",
+    "admin": "Obwalden",
+    "sort": "10368"
+  },
+  {
+    "city": "Altdorf",
+    "admin": "Uri",
+    "sort": "9401"
+  },
+  {
+    "city": "Oberengstringen",
+    "admin": "Zürich",
+    "sort": "6569"
+  },
+  {
+    "city": "Stans",
+    "admin": "Nidwalden",
+    "sort": "8393"
+  },
+  {
+    "city": "Bottmingen",
+    "admin": "Basel-Landschaft",
+    "sort": "6691"
+  },
+  {
+    "city": "Rolle",
+    "admin": "Vaud",
+    "sort": "6259"
+  },
+  {
+    "city": "Préverenges",
+    "admin": "Vaud",
+    "sort": "5287"
+  },
+  {
+    "city": "Gerlafingen",
+    "admin": "Solothurn",
+    "sort": "5202"
+  },
+  {
+    "city": "Greifensee",
+    "admin": "Zürich",
+    "sort": "5345"
+  },
+  {
+    "city": "Glarus",
+    "admin": "Glarus",
+    "sort": "5996"
+  },
+  {
+    "city": "Appenzell",
+    "admin": "Appenzell Innerrhoden",
+    "sort": "5750"
+  },
+  {
+    "city": "Lugano",
+    "admin": "Ticino",
+    "sort": "63185"
+  },
+  {
+    "city": "Köniz",
+    "admin": "Bern",
+    "sort": "41507"
+  },
+  {
+    "city": "La Chaux-de-Fonds",
+    "admin": "Neuchâtel",
+    "sort": "38965"
+  },
+  {
+    "city": "Sion",
+    "admin": "Valais",
+    "sort": "34708"
+  },
+  {
+    "city": "Uster",
+    "admin": "Zürich",
+    "sort": "34442"
+  },
+  {
+    "city": "Landecy",
+    "admin": "Genève",
+    "sort": "31942"
+  },
+  {
+    "city": "Emmen",
+    "admin": "Luzern",
+    "sort": "29292"
+  },
+  {
+    "city": "Rapperswil-Jona",
+    "admin": "Sankt Gallen",
+    "sort": "26989"
+  },
+  {
+    "city": "Kriens",
+    "admin": "Luzern",
+    "sort": "26997"
+  },
+  {
+    "city": "Montreux",
+    "admin": "Vaud",
+    "sort": "25984"
+  },
+  {
+    "city": "Frauenfeld",
+    "admin": "Thurgau",
+    "sort": "25442"
+  },
+  {
+    "city": "Wetzikon",
+    "admin": "Zürich",
+    "sort": "24452"
+  },
+  {
+    "city": "Baar",
+    "admin": "Zug",
+    "sort": "24322"
+  },
+  {
+    "city": "Wil",
+    "admin": "Sankt Gallen",
+    "sort": "23768"
+  },
+  {
+    "city": "Kreuzlingen",
+    "admin": "Thurgau",
+    "sort": "21801"
+  },
+  {
+    "city": "Bulle",
+    "admin": "Fribourg",
+    "sort": "22709"
+  },
+  {
+    "city": "Riehen",
+    "admin": "Basel-Stadt",
+    "sort": "21448"
+  },
+  {
+    "city": "Horgen",
+    "admin": "Zürich",
+    "sort": "22662"
+  },
+  {
+    "city": "Wädenswil",
+    "admin": "Zürich",
+    "sort": "21716"
+  },
+  {
+    "city": "Wettingen",
+    "admin": "Aargau",
+    "sort": "20721"
+  },
+  {
+    "city": "Bülach",
+    "admin": "Zürich",
+    "sort": "20046"
+  },
+  {
+    "city": "Baden",
+    "admin": "Aargau",
+    "sort": "19122"
+  },
+  {
+    "city": "Kloten",
+    "admin": "Zürich",
+    "sort": "19362"
+  },
+  {
+    "city": "Volketswil",
+    "admin": "Zürich",
+    "sort": "18615"
+  },
+  {
+    "city": "Regensdorf",
+    "admin": "Zürich",
+    "sort": "18253"
+  },
+  {
+    "city": "Muttenz",
+    "admin": "Basel-Landschaft",
+    "sort": "17805"
+  },
+  {
+    "city": "Gossau",
+    "admin": "Sankt Gallen",
+    "sort": "18171"
+  },
+  {
+    "city": "Martigny",
+    "admin": "Valais",
+    "sort": "17998"
+  },
+  {
+    "city": "Olten",
+    "admin": "Solothurn",
+    "sort": "17133"
+  },
+  {
+    "city": "Littau",
+    "admin": "Luzern",
+    "sort": "17224"
+  },
+  {
+    "city": "Monthey",
+    "admin": "Valais",
+    "sort": "17563"
+  },
+  {
+    "city": "Pratteln",
+    "admin": "Basel-Landschaft",
+    "sort": "16621"
+  },
+  {
+    "city": "Grenchen",
+    "admin": "Solothurn",
+    "sort": "17140"
+  },
+  {
+    "city": "Freienbach",
+    "admin": "Schwyz",
+    "sort": "16269"
+  },
+  {
+    "city": "Wohlen",
+    "admin": "Aargau",
+    "sort": "16078"
+  },
+  {
+    "city": "Burgdorf",
+    "admin": "Bern",
+    "sort": "16280"
+  },
+  {
+    "city": "Steffisburg",
+    "admin": "Bern",
+    "sort": "15816"
+  },
+  {
+    "city": "Sierre",
+    "admin": "Valais",
+    "sort": "16860"
+  },
+  {
+    "city": "Locarno",
+    "admin": "Ticino",
+    "sort": "16012"
+  },
+  {
+    "city": "Langenthal",
+    "admin": "Bern",
+    "sort": "15639"
+  },
+  {
+    "city": "Herisau",
+    "admin": "Appenzell Ausserrhoden",
+    "sort": "15780"
+  },
+  {
+    "city": "Lyss",
+    "admin": "Bern",
+    "sort": "15279"
+  },
+  {
+    "city": "Stäfa",
+    "admin": "Zürich",
+    "sort": "14389"
+  },
+  {
+    "city": "Einsiedeln",
+    "admin": "Schwyz",
+    "sort": "15550"
+  },
+  {
+    "city": "Mendrisio",
+    "admin": "Ticino",
+    "sort": "14942"
+  },
+  {
+    "city": "Küsnacht",
+    "admin": "Zürich",
+    "sort": "14250"
+  },
+  {
+    "city": "Horw",
+    "admin": "Luzern",
+    "sort": "14243"
+  },
+  {
+    "city": "Richterswil",
+    "admin": "Zürich",
+    "sort": "13407"
+  },
+  {
+    "city": "Meilen",
+    "admin": "Zürich",
+    "sort": "13999"
+  },
+  {
+    "city": "Oftringen",
+    "admin": "Aargau",
+    "sort": "13791"
+  },
+  {
+    "city": "Muri",
+    "admin": "Bern",
+    "sort": "13051"
+  },
+  {
+    "city": "Versoix",
+    "admin": "Genève",
+    "sort": "13422"
+  },
+  {
+    "city": "Gland",
+    "admin": "Vaud",
+    "sort": "13106"
+  },
+  {
+    "city": "Zollikon",
+    "admin": "Zürich",
+    "sort": "13008"
+  },
+  {
+    "city": "Amriswil",
+    "admin": "Thurgau",
+    "sort": "13534"
+  },
+  {
+    "city": "Rheinfelden",
+    "admin": "Aargau",
+    "sort": "13337"
+  },
+  {
+    "city": "Münchenstein",
+    "admin": "Basel-Landschaft",
+    "sort": "12096"
+  },
+  {
+    "city": "Uzwil",
+    "admin": "Sankt Gallen",
+    "sort": "12885"
+  },
+  {
+    "city": "Spiez",
+    "admin": "Bern",
+    "sort": "12810"
+  },
+  {
+    "city": "Küssnacht",
+    "admin": "Schwyz",
+    "sort": "13084"
+  },
+  {
+    "city": "Brig-Glis",
+    "admin": "Valais",
+    "sort": "13109"
+  },
+  {
+    "city": "Buchs",
+    "admin": "Sankt Gallen",
+    "sort": "12612"
+  },
+  {
+    "city": "Veyrier",
+    "admin": "Genève",
+    "sort": "11609"
+  },
+  {
+    "city": "Rüti",
+    "admin": "Zürich",
+    "sort": "12098"
+  },
+  {
+    "city": "Affoltern am Albis",
+    "admin": "Zürich",
+    "sort": "12080"
+  },
+  {
+    "city": "Spreitenbach",
+    "admin": "Aargau",
+    "sort": "11788"
+  },
+  {
+    "city": "Brugg",
+    "admin": "Aargau",
+    "sort": "11129"
+  },
+  {
+    "city": "Bassersdorf",
+    "admin": "Zürich",
+    "sort": "11593"
+  },
+  {
+    "city": "Zofingen",
+    "admin": "Aargau",
+    "sort": "11655"
+  },
+  {
+    "city": "Oberwil",
+    "admin": "Basel-Landschaft",
+    "sort": "11136"
+  },
+  {
+    "city": "Plan-les-Ouates",
+    "admin": "Genève",
+    "sort": "10656"
+  },
+  {
+    "city": "Romanshorn",
+    "admin": "Thurgau",
+    "sort": "11167"
+  },
+  {
+    "city": "Pfäffikon",
+    "admin": "Zürich",
+    "sort": "11817"
+  },
+  {
+    "city": "Weinfelden",
+    "admin": "Thurgau",
+    "sort": "11534"
+  },
+  {
+    "city": "Arth",
+    "admin": "Schwyz",
+    "sort": "11983"
+  },
+  {
+    "city": "Altstätten",
+    "admin": "Sankt Gallen",
+    "sort": "11730"
+  },
+  {
+    "city": "Belp",
+    "admin": "Bern",
+    "sort": "11439"
+  },
+  {
+    "city": "Worb",
+    "admin": "Bern",
+    "sort": "11311"
+  },
+  {
+    "city": "Neuhausen am Rheinfall",
+    "admin": "Schaffhausen",
+    "sort": "10510"
+  },
+  {
+    "city": "Aesch",
+    "admin": "Basel-Landschaft",
+    "sort": "10352"
+  },
+  {
+    "city": "Hinwil",
+    "admin": "Zürich",
+    "sort": "11179"
+  },
+  {
+    "city": "Waltikon",
+    "admin": "Zürich",
+    "sort": "10600"
+  },
+  {
+    "city": "Möhlin",
+    "admin": "Aargau",
+    "sort": "11042"
+  },
+  {
+    "city": "Sursee",
+    "admin": "Luzern",
+    "sort": "9900"
+  },
+  {
+    "city": "Risch",
+    "admin": "Zug",
+    "sort": "10857"
+  },
+  {
+    "city": "Lutry",
+    "admin": "Vaud",
+    "sort": "10289"
+  },
+  {
+    "city": "Lenzburg",
+    "admin": "Aargau",
+    "sort": "10569"
+  },
+  {
+    "city": "Flawil",
+    "admin": "Sankt Gallen",
+    "sort": "10520"
+  },
+  {
+    "city": "Suhr",
+    "admin": "Aargau",
+    "sort": "10424"
+  },
+  {
+    "city": "Therwil",
+    "admin": "Basel-Landschaft",
+    "sort": "9947"
+  },
+  {
+    "city": "Goldach",
+    "admin": "Sankt Gallen",
+    "sort": "9269"
+  },
+  {
+    "city": "Urdorf",
+    "admin": "Zürich",
+    "sort": "9768"
+  },
+  {
+    "city": "Bernex",
+    "admin": "Genève",
+    "sort": "10233"
+  },
+  {
+    "city": "Davos",
+    "admin": "Graubünden",
+    "sort": "10862"
+  },
+  {
+    "city": "Le Locle",
+    "admin": "Neuchâtel",
+    "sort": "10433"
+  },
+  {
+    "city": "Maur",
+    "admin": "Zürich",
+    "sort": "10148"
+  },
+  {
+    "city": "Zuchwil",
+    "admin": "Solothurn",
+    "sort": "8875"
+  },
+  {
+    "city": "Hochdorf",
+    "admin": "Luzern",
+    "sort": "9832"
+  },
+  {
+    "city": "Aigle",
+    "admin": "Valais",
+    "sort": "10131"
+  },
+  {
+    "city": "Arlesheim",
+    "admin": "Basel-Landschaft",
+    "sort": "9202"
+  },
+  {
+    "city": "Wittenbach",
+    "admin": "Sankt Gallen",
+    "sort": "9691"
+  },
+  {
+    "city": "Gossau",
+    "admin": "Zürich",
+    "sort": "9937"
+  },
+  {
+    "city": "Neuenhof",
+    "admin": "Aargau",
+    "sort": "8824"
+  },
+  {
+    "city": "Lachen",
+    "admin": "Schwyz",
+    "sort": "8754"
+  },
+  {
+    "city": "Payerne",
+    "admin": "Vaud",
+    "sort": "9943"
+  },
+  {
+    "city": "Naters",
+    "admin": "Valais",
+    "sort": "10073"
+  },
+  {
+    "city": "Embrach",
+    "admin": "Zürich",
+    "sort": "9419"
+  },
+  {
+    "city": "Wald",
+    "admin": "Zürich",
+    "sort": "9758"
+  },
+  {
+    "city": "Steinhaus",
+    "admin": "Luzern",
+    "sort": "10025"
+  },
+  {
+    "city": "Niederhasli",
+    "admin": "Zürich",
+    "sort": "9188"
+  },
+  {
+    "city": "Estavayer-le-Lac",
+    "admin": "Fribourg",
+    "sort": "9712"
+  },
+  {
+    "city": "Fällanden",
+    "admin": "Zürich",
+    "sort": "8575"
+  },
+  {
+    "city": "Aarburg",
+    "admin": "Aargau",
+    "sort": "8068"
+  },
+  {
+    "city": "Rothrist",
+    "admin": "Aargau",
+    "sort": "9121"
+  },
+  {
+    "city": "Eschenbach",
+    "admin": "Sankt Gallen",
+    "sort": "9602"
+  },
+  {
+    "city": "Obersiggenthal",
+    "admin": "Aargau",
+    "sort": "8565"
+  },
+  {
+    "city": "Ingenbohl",
+    "admin": "Schwyz",
+    "sort": "8912"
+  },
+  {
+    "city": "Schübelbach",
+    "admin": "Schwyz",
+    "sort": "9249"
+  },
+  {
+    "city": "Langnau",
+    "admin": "Bern",
+    "sort": "9366"
+  },
+  {
+    "city": "Oberentfelden",
+    "admin": "Aargau",
+    "sort": "8360"
+  },
+  {
+    "city": "Dietlikon",
+    "admin": "Zürich",
+    "sort": "7685"
+  },
+  {
+    "city": "Aadorf",
+    "admin": "Thurgau",
+    "sort": "9036"
+  },
+  {
+    "city": "Chiasso",
+    "admin": "Ticino",
+    "sort": "7975"
+  },
+  {
+    "city": "Buchs",
+    "admin": "Aargau",
+    "sort": "7966"
+  },
+  {
+    "city": "Au",
+    "admin": "Sankt Gallen",
+    "sort": "7788"
+  },
+  {
+    "city": "Reinach",
+    "admin": "Aargau",
+    "sort": "8498"
+  },
+  {
+    "city": "Le Mont-sur-Lausanne",
+    "admin": "Vaud",
+    "sort": "8523"
+  },
+  {
+    "city": "Crissier",
+    "admin": "Vaud",
+    "sort": "7930"
+  },
+  {
+    "city": "Landquart",
+    "admin": "Graubünden",
+    "sort": "8849"
+  },
+  {
+    "city": "Hombrechtikon",
+    "admin": "Zürich",
+    "sort": "8595"
+  },
+  {
+    "city": "Hünenberg",
+    "admin": "Zug",
+    "sort": "8807"
+  },
+  {
+    "city": "Kirchberg",
+    "admin": "Sankt Gallen",
+    "sort": "9072"
+  },
+  {
+    "city": "Biberist",
+    "admin": "Solothurn",
+    "sort": "8567"
+  },
+  {
+    "city": "Marly",
+    "admin": "Fribourg",
+    "sort": "8193"
+  },
+  {
+    "city": "Windisch",
+    "admin": "Aargau",
+    "sort": "7654"
+  },
+  {
+    "city": "Unterägeri",
+    "admin": "Zug",
+    "sort": "8867"
+  },
+  {
+    "city": "Egg",
+    "admin": "Zürich",
+    "sort": "8596"
+  },
+  {
+    "city": "Oberriet",
+    "admin": "Sankt Gallen",
+    "sort": "8878"
+  },
+  {
+    "city": "Fully",
+    "admin": "Valais",
+    "sort": "8759"
+  },
+  {
+    "city": "Wattwil",
+    "admin": "Sankt Gallen",
+    "sort": "8736"
+  },
+  {
+    "city": "Bussy",
+    "admin": "Vaud",
+    "sort": "8736"
+  },
+  {
+    "city": "Bad Zurzach",
+    "admin": "Aargau",
+    "sort": "8476"
+  },
+  {
+    "city": "Conthey",
+    "admin": "Valais",
+    "sort": "8691"
+  },
+  {
+    "city": "Mels",
+    "admin": "Sankt Gallen",
+    "sort": "8620"
+  },
+  {
+    "city": "Rümlang",
+    "admin": "Zürich",
+    "sort": "7929"
+  },
+  {
+    "city": "Murten",
+    "admin": "Fribourg",
+    "sort": "8222"
+  },
+  {
+    "city": "Minusio",
+    "admin": "Ticino",
+    "sort": "7303"
+  },
+  {
+    "city": "Visp",
+    "admin": "Valais",
+    "sort": "7891"
+  },
+  {
+    "city": "Bremgarten",
+    "admin": "Aargau",
+    "sort": "7765"
+  },
+  {
+    "city": "Muri",
+    "admin": "Aargau",
+    "sort": "7810"
+  },
+  {
+    "city": "Hirslen",
+    "admin": "Zürich",
+    "sort": "7465"
+  },
+  {
+    "city": "Wollerau",
+    "admin": "Schwyz",
+    "sort": "7255"
+  },
+  {
+    "city": "Sirnach",
+    "admin": "Thurgau",
+    "sort": "7767"
+  },
+  {
+    "city": "Domat/Ems",
+    "admin": "Graubünden",
+    "sort": "8037"
+  },
+  {
+    "city": "Langnau am Albis",
+    "admin": "Zürich",
+    "sort": "7500"
+  },
+  {
+    "city": "Rorschacherberg",
+    "admin": "Sankt Gallen",
+    "sort": "7285"
+  },
+  {
+    "city": "Seuzach",
+    "admin": "Zürich",
+    "sort": "7291"
+  },
+  {
+    "city": "Dürnten",
+    "admin": "Zürich",
+    "sort": "7518"
+  },
+  {
+    "city": "Meggen",
+    "admin": "Luzern",
+    "sort": "7238"
+  },
+  {
+    "city": "Düdingen",
+    "admin": "Fribourg",
+    "sort": "7961"
+  },
+  {
+    "city": "Gränichen",
+    "admin": "Aargau",
+    "sort": "7733"
+  },
+  {
+    "city": "Bagnes",
+    "admin": "Valais",
+    "sort": "8096"
+  },
+  {
+    "city": "Untersiggenthal",
+    "admin": "Aargau",
+    "sort": "7240"
+  },
+  {
+    "city": "Heimberg",
+    "admin": "Bern",
+    "sort": "6827"
+  },
+  {
+    "city": "Rothenburg",
+    "admin": "Luzern",
+    "sort": "7571"
+  },
+  {
+    "city": "Willisau",
+    "admin": "Luzern",
+    "sort": "7780"
+  },
+  {
+    "city": "Dornach",
+    "admin": "Solothurn",
+    "sort": "6778"
+  },
+  {
+    "city": "Villmergen",
+    "admin": "Aargau",
+    "sort": "7324"
+  },
+  {
+    "city": "Herzogenbuchsee",
+    "admin": "Bern",
+    "sort": "7197"
+  },
+  {
+    "city": "Uetikon am See",
+    "admin": "Zürich",
+    "sort": "6145"
+  },
+  {
+    "city": "Frenkendorf",
+    "admin": "Basel-Landschaft",
+    "sort": "6435"
+  },
+  {
+    "city": "Bex",
+    "admin": "Vaud",
+    "sort": "7747"
+  },
+  {
+    "city": "Savièse",
+    "admin": "Valais",
+    "sort": "7712"
+  },
+  {
+    "city": "Rüschlikon",
+    "admin": "Zürich",
+    "sort": "5830"
+  },
+  {
+    "city": "Bubikon",
+    "admin": "Zürich",
+    "sort": "7194"
+  },
+  {
+    "city": "Oberglatt",
+    "admin": "Zürich",
+    "sort": "6964"
+  },
+  {
+    "city": "Moutier",
+    "admin": "Bern",
+    "sort": "7378"
+  },
+  {
+    "city": "Derendingen",
+    "admin": "Solothurn",
+    "sort": "6483"
+  },
+  {
+    "city": "Ollon",
+    "admin": "Vaud",
+    "sort": "7461"
+  },
+  {
+    "city": "Orbe",
+    "admin": "Vaud",
+    "sort": "6987"
+  },
+  {
+    "city": "Peseux",
+    "admin": "Neuchâtel",
+    "sort": "5809"
+  },
+  {
+    "city": "Erlenbach",
+    "admin": "Zürich",
+    "sort": "5567"
+  },
+  {
+    "city": "Sissach",
+    "admin": "Basel-Landschaft",
+    "sort": "6681"
+  },
+  {
+    "city": "Altendorf",
+    "admin": "Schwyz",
+    "sort": "7081"
+  },
+  {
+    "city": "Trimbach",
+    "admin": "Solothurn",
+    "sort": "6543"
+  },
+  {
+    "city": "Reiden",
+    "admin": "Luzern",
+    "sort": "7131"
+  },
+  {
+    "city": "Buchrain",
+    "admin": "Luzern",
+    "sort": "6116"
+  },
+  {
+    "city": "Buchs",
+    "admin": "Zürich",
+    "sort": "6303"
+  },
+  {
+    "city": "Neuenkirch",
+    "admin": "Luzern",
+    "sort": "7062"
+  },
+  {
+    "city": "Menziken",
+    "admin": "Aargau",
+    "sort": "6330"
+  },
+  {
+    "city": "Uznach",
+    "admin": "Sankt Gallen",
+    "sort": "6416"
+  },
+  {
+    "city": "Thal",
+    "admin": "Sankt Gallen",
+    "sort": "6570"
+  },
+  {
+    "city": "Würenlos",
+    "admin": "Aargau",
+    "sort": "6482"
+  },
+  {
+    "city": "Grabs",
+    "admin": "Sankt Gallen",
+    "sort": "7068"
+  },
+  {
+    "city": "Wiesendangen",
+    "admin": "Zürich",
+    "sort": "6521"
+  },
+  {
+    "city": "Porrentruy",
+    "admin": "Jura",
+    "sort": "6675"
+  },
+  {
+    "city": "Châtel-Saint-Denis",
+    "admin": "Fribourg",
+    "sort": "6969"
+  },
+  {
+    "city": "Cologny",
+    "admin": "Genève",
+    "sort": "5570"
+  },
+  {
+    "city": "Fehraltorf",
+    "admin": "Zürich",
+    "sort": "6378"
+  },
+  {
+    "city": "Diepoldsau",
+    "admin": "Sankt Gallen",
+    "sort": "6469"
+  },
+  {
+    "city": "Frutigen",
+    "admin": "Bern",
+    "sort": "6921"
+  },
+  {
+    "city": "Schwerzenbach",
+    "admin": "Zürich",
+    "sort": "5088"
+  },
+  {
+    "city": "Ruswil",
+    "admin": "Luzern",
+    "sort": "6856"
+  },
+  {
+    "city": "Herrliberg",
+    "admin": "Zürich",
+    "sort": "6290"
+  },
+  {
+    "city": "Vétroz",
+    "admin": "Valais",
+    "sort": "6372"
+  },
+  {
+    "city": "Schwarzenburg",
+    "admin": "Bern",
+    "sort": "6829"
+  },
+  {
+    "city": "Dielsdorf",
+    "admin": "Zürich",
+    "sort": "5940"
+  },
+  {
+    "city": "Birmensdorf",
+    "admin": "Zürich",
+    "sort": "6385"
+  },
+  {
+    "city": "Oberrieden",
+    "admin": "Zürich",
+    "sort": "5083"
+  },
+  {
+    "city": "Interlaken",
+    "admin": "Bern",
+    "sort": "5592"
+  },
+  {
+    "city": "Saanen",
+    "admin": "Bern",
+    "sort": "6817"
+  },
+  {
+    "city": "Oberuzwil",
+    "admin": "Sankt Gallen",
+    "sort": "6412"
+  },
+  {
+    "city": "Gelterkinden",
+    "admin": "Basel-Landschaft",
+    "sort": "6200"
+  },
+  {
+    "city": "Oensingen",
+    "admin": "Solothurn",
+    "sort": "6284"
+  },
+  {
+    "city": "Mellingen",
+    "admin": "Aargau",
+    "sort": "5633"
+  },
+  {
+    "city": "Courtepin",
+    "admin": "Fribourg",
+    "sort": "5451"
+  },
+  {
+    "city": "Colombier",
+    "admin": "Neuchâtel",
+    "sort": "5547"
+  },
+  {
+    "city": "Sankt Margrethen",
+    "admin": "Appenzell Ausserrhoden",
+    "sort": "5886"
+  },
+  {
+    "city": "Beromünster",
+    "admin": "Luzern",
+    "sort": "6580"
+  },
+  {
+    "city": "Saint-Prex",
+    "admin": "Vaud",
+    "sort": "5679"
+  },
+  {
+    "city": "Kaiseraugst",
+    "admin": "Aargau",
+    "sort": "5576"
+  },
+  {
+    "city": "Losone",
+    "admin": "Ticino",
+    "sort": "6701"
+  },
+  {
+    "city": "Küttigen",
+    "admin": "Aargau",
+    "sort": "6180"
+  },
+  {
+    "city": "Teufen",
+    "admin": "Appenzell Ausserrhoden",
+    "sort": "6265"
+  },
+  {
+    "city": "Ascona",
+    "admin": "Ticino",
+    "sort": "5534"
+  },
+  {
+    "city": "Fislisbach",
+    "admin": "Aargau",
+    "sort": "5544"
+  },
+  {
+    "city": "Bolligen",
+    "admin": "Bern",
+    "sort": "6262"
+  },
+  {
+    "city": "Kirchberg",
+    "admin": "Bern",
+    "sort": "5965"
+  },
+  {
+    "city": "Echallens",
+    "admin": "Vaud",
+    "sort": "5740"
+  },
+  {
+    "city": "Blonay",
+    "admin": "Vaud",
+    "sort": "6173"
+  },
+  {
+    "city": "Bischofszell",
+    "admin": "Thurgau",
+    "sort": "6016"
+  },
+  {
+    "city": "Moudon",
+    "admin": "Vaud",
+    "sort": "6135"
+  },
+  {
+    "city": "Boudry",
+    "admin": "Neuchâtel",
+    "sort": "6152"
+  },
+  {
+    "city": "Balsthal",
+    "admin": "Solothurn",
+    "sort": "6117"
+  },
+  {
+    "city": "Uetendorf",
+    "admin": "Bern",
+    "sort": "5892"
+  },
+  {
+    "city": "Kerns",
+    "admin": "Obwalden",
+    "sort": "6337"
+  },
+  {
+    "city": "Jegenstorf",
+    "admin": "Bern",
+    "sort": "5742"
+  },
+  {
+    "city": "Zell",
+    "admin": "Zürich",
+    "sort": "5929"
+  },
+  {
+    "city": "Gebenstorf",
+    "admin": "Aargau",
+    "sort": "5414"
+  },
+  {
+    "city": "Rupperswil",
+    "admin": "Aargau",
+    "sort": "5486"
+  },
+  {
+    "city": "Bonstetten",
+    "admin": "Zürich",
+    "sort": "5543"
+  },
+  {
+    "city": "Obererli",
+    "admin": "Schwyz",
+    "sort": "6080"
+  },
+  {
+    "city": "Biasca",
+    "admin": "Ticino",
+    "sort": "6115"
+  },
+  {
+    "city": "Bellach",
+    "admin": "Solothurn",
+    "sort": "5214"
+  },
+  {
+    "city": "Adligenswil",
+    "admin": "Luzern",
+    "sort": "5391"
+  },
+  {
+    "city": "Unterseen",
+    "admin": "Bern",
+    "sort": "5750"
+  },
+  {
+    "city": "Saxon",
+    "admin": "Valais",
+    "sort": "5897"
+  },
+  {
+    "city": "Nürensdorf",
+    "admin": "Zürich",
+    "sort": "5591"
+  },
+  {
+    "city": "Lausen",
+    "admin": "Basel-Landschaft",
+    "sort": "5209"
+  },
+  {
+    "city": "Alpnach",
+    "admin": "Obwalden",
+    "sort": "6031"
+  },
+  {
+    "city": "Frick",
+    "admin": "Aargau",
+    "sort": "5563"
+  },
+  {
+    "city": "Hergiswil",
+    "admin": "Nidwalden",
+    "sort": "5777"
+  },
+  {
+    "city": "Lindau",
+    "admin": "Zürich",
+    "sort": "5621"
+  },
+  {
+    "city": "Münchwilen",
+    "admin": "Thurgau",
+    "sort": "5377"
+  },
+  {
+    "city": "Zumikon",
+    "admin": "Zürich",
+    "sort": "5120"
+  },
+  {
+    "city": "Obfelden",
+    "admin": "Zürich",
+    "sort": "5340"
+  },
+  {
+    "city": "Laufen",
+    "admin": "Basel-Landschaft",
+    "sort": "5556"
+  },
+  {
+    "city": "Ettingen",
+    "admin": "Basel-Landschaft",
+    "sort": "5156"
+  },
+  {
+    "city": "Lengnau",
+    "admin": "Bern",
+    "sort": "5254"
+  },
+  {
+    "city": "Villeneuve",
+    "admin": "Vaud",
+    "sort": "5767"
+  },
+  {
+    "city": "Neftenbach",
+    "admin": "Zürich",
+    "sort": "5553"
+  },
+  {
+    "city": "Dulliken",
+    "admin": "Solothurn",
+    "sort": "5048"
+  },
+  {
+    "city": "Buochs",
+    "admin": "Nidwalden",
+    "sort": "5312"
+  },
+  {
+    "city": "Seon",
+    "admin": "Aargau",
+    "sort": "5288"
+  },
+  {
+    "city": "Walenstadt",
+    "admin": "Sankt Gallen",
+    "sort": "5679"
+  },
+  {
+    "city": "Wangen bei Olten",
+    "admin": "Solothurn",
+    "sort": "5056"
+  },
+  {
+    "city": "Fraubrunnen",
+    "admin": "Bern",
+    "sort": "5106"
+  },
+  {
+    "city": "Romont",
+    "admin": "Fribourg",
+    "sort": "5276"
+  },
+  {
+    "city": "Schattdorf",
+    "admin": "Uri",
+    "sort": "5418"
+  },
+  {
+    "city": "Eglisau",
+    "admin": "Zürich",
+    "sort": "5170"
+  },
+  {
+    "city": "Dagmersellen",
+    "admin": "Luzern",
+    "sort": "5503"
+  },
+  {
+    "city": "Thayngen",
+    "admin": "Schaffhausen",
+    "sort": "5453"
+  },
+  {
+    "city": "Sennwald",
+    "admin": "Sankt Gallen",
+    "sort": "5592"
+  },
+  {
+    "city": "Konolfingen Dorf",
+    "admin": "Bern",
+    "sort": "5282"
+  },
+  {
+    "city": "Zermatt",
+    "admin": "Valais",
+    "sort": "5643"
+  },
+  {
+    "city": "Root",
+    "admin": "Luzern",
+    "sort": "5040"
+  },
+  {
+    "city": "Glattfelden",
+    "admin": "Zürich",
+    "sort": "5189"
+  },
+  {
+    "city": "Feusisberg",
+    "admin": "Schwyz",
+    "sort": "5262"
+  },
+  {
+    "city": "Saint Légier-La Chiésaz",
+    "admin": "Vaud",
+    "sort": "5184"
+  },
+  {
+    "city": "Wangen",
+    "admin": "Schwyz",
+    "sort": "5053"
+  },
+  {
+    "city": "Vechigen",
+    "admin": "Bern",
+    "sort": "5298"
+  },
+  {
+    "city": "Hägendorf",
+    "admin": "Solothurn",
+    "sort": "5137"
+  },
+  {
+    "city": "Hitzkirch",
+    "admin": "Luzern",
+    "sort": "5201"
+  },
+  {
+    "city": "Gommiswald",
+    "admin": "Sankt Gallen",
+    "sort": "5164"
+  },
+  {
+    "city": "Sevelen",
+    "admin": "Sankt Gallen",
+    "sort": "5103"
+  },
+  {
+    "city": "Bäretswil",
+    "admin": "Zürich",
+    "sort": "5026"
+  },
+  {
+    "city": "Sachseln",
+    "admin": "Obwalden",
+    "sort": "5146"
+  },
+  {
+    "city": "Ebnat-Kappel",
+    "admin": "Sankt Gallen",
+    "sort": "5031"
+  },
+  {
+    "city": "Sumiswald",
+    "admin": "Bern",
+    "sort": "5046"
+  }
+]

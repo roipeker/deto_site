@@ -1,0 +1,687 @@
+[
+  {
+    "city": "Bratislava",
+    "admin": "Bratislavský",
+    "sort": "475503"
+  },
+  {
+    "city": "Košice",
+    "admin": "Košický",
+    "sort": "238593"
+  },
+  {
+    "city": "Petržalka",
+    "admin": "Bratislavský",
+    "sort": "114000"
+  },
+  {
+    "city": "Prešov",
+    "admin": "Prešovský",
+    "sort": "88680"
+  },
+  {
+    "city": "Žilina",
+    "admin": "Žilinský",
+    "sort": "82704"
+  },
+  {
+    "city": "Banská Bystrica",
+    "admin": "Banskobystrický",
+    "sort": "78327"
+  },
+  {
+    "city": "Nitra",
+    "admin": "Nitriansky",
+    "sort": "77374"
+  },
+  {
+    "city": "Trnava",
+    "admin": "Trnavský",
+    "sort": "65382"
+  },
+  {
+    "city": "Trenčín",
+    "admin": "Trenčiansky",
+    "sort": "55593"
+  },
+  {
+    "city": "Martin",
+    "admin": "Žilinský",
+    "sort": "54978"
+  },
+  {
+    "city": "Poprad",
+    "admin": "Prešovský",
+    "sort": "52037"
+  },
+  {
+    "city": "Prievidza",
+    "admin": "Nitriansky",
+    "sort": "46059"
+  },
+  {
+    "city": "Zvolen",
+    "admin": "Banskobystrický",
+    "sort": "42476"
+  },
+  {
+    "city": "Považská Bystrica",
+    "admin": "Nitriansky",
+    "sort": "39837"
+  },
+  {
+    "city": "Michalovce",
+    "admin": "Košický",
+    "sort": "39151"
+  },
+  {
+    "city": "Nové Zámky",
+    "admin": "Nitriansky",
+    "sort": "38172"
+  },
+  {
+    "city": "Spišská Nová Ves",
+    "admin": "Košický",
+    "sort": "37326"
+  },
+  {
+    "city": "Humenné",
+    "admin": "Prešovský",
+    "sort": "33441"
+  },
+  {
+    "city": "Komárno",
+    "admin": "Nitriansky",
+    "sort": "33927"
+  },
+  {
+    "city": "Liptovský Mikuláš",
+    "admin": "Žilinský",
+    "sort": "32593"
+  },
+  {
+    "city": "Bardejov",
+    "admin": "Prešovský",
+    "sort": "32587"
+  },
+  {
+    "city": "Levice",
+    "admin": "Nitriansky",
+    "sort": "31974"
+  },
+  {
+    "city": "Lučenec",
+    "admin": "Banskobystrický",
+    "sort": "27991"
+  },
+  {
+    "city": "Piešťany",
+    "admin": "Trnavský",
+    "sort": "27681"
+  },
+  {
+    "city": "Ružomberok",
+    "admin": "Žilinský",
+    "sort": "26854"
+  },
+  {
+    "city": "Topoľčany",
+    "admin": "Nitriansky",
+    "sort": "25492"
+  },
+  {
+    "city": "Pezinok",
+    "admin": "Bratislavský",
+    "sort": "24900"
+  },
+  {
+    "city": "Trebišov",
+    "admin": "Košický",
+    "sort": "24587"
+  },
+  {
+    "city": "Čadca",
+    "admin": "Žilinský",
+    "sort": "24315"
+  },
+  {
+    "city": "Dubnica nad Váhom",
+    "admin": "Nitriansky",
+    "sort": "24068"
+  },
+  {
+    "city": "Rimavská Sobota",
+    "admin": "Banskobystrický",
+    "sort": "24010"
+  },
+  {
+    "city": "Partizánske",
+    "admin": "Nitriansky",
+    "sort": "22653"
+  },
+  {
+    "city": "Dunajská Streda",
+    "admin": "Trnavský",
+    "sort": "22643"
+  },
+  {
+    "city": "Vranov nad Topľou",
+    "admin": "Prešovský",
+    "sort": "22589"
+  },
+  {
+    "city": "Šaľa",
+    "admin": "Nitriansky",
+    "sort": "22219"
+  },
+  {
+    "city": "Hlohovec",
+    "admin": "Trnavský",
+    "sort": "21715"
+  },
+  {
+    "city": "Brezno",
+    "admin": "Banskobystrický",
+    "sort": "21082"
+  },
+  {
+    "city": "Senica",
+    "admin": "Trnavský",
+    "sort": "20342"
+  },
+  {
+    "city": "Nové Mesto nad Váhom",
+    "admin": "Nitriansky",
+    "sort": "20066"
+  },
+  {
+    "city": "Senec",
+    "admin": "Bratislavský",
+    "sort": "20116"
+  },
+  {
+    "city": "Snina",
+    "admin": "Prešovský",
+    "sort": "19855"
+  },
+  {
+    "city": "Žiar nad Hronom",
+    "admin": "Banskobystrický",
+    "sort": "19188"
+  },
+  {
+    "city": "Malacky",
+    "admin": "Bratislavský",
+    "sort": "18935"
+  },
+  {
+    "city": "Rožňava",
+    "admin": "Košický",
+    "sort": "19190"
+  },
+  {
+    "city": "Dolný Kubín",
+    "admin": "Žilinský",
+    "sort": "18905"
+  },
+  {
+    "city": "Bánovce nad Bebravou",
+    "admin": "Nitriansky",
+    "sort": "18350"
+  },
+  {
+    "city": "Púchov",
+    "admin": "Nitriansky",
+    "sort": "17810"
+  },
+  {
+    "city": "Handlová",
+    "admin": "Nitriansky",
+    "sort": "17119"
+  },
+  {
+    "city": "Kežmarok",
+    "admin": "Prešovský",
+    "sort": "16481"
+  },
+  {
+    "city": "Stará Ľubovňa",
+    "admin": "Prešovský",
+    "sort": "16348"
+  },
+  {
+    "city": "Sered’",
+    "admin": "Trnavský",
+    "sort": "15726"
+  },
+  {
+    "city": "Kysucké Nové Mesto",
+    "admin": "Žilinský",
+    "sort": "15132"
+  },
+  {
+    "city": "Galanta",
+    "admin": "Trnavský",
+    "sort": "15029"
+  },
+  {
+    "city": "Skalica",
+    "admin": "Trnavský",
+    "sort": "14967"
+  },
+  {
+    "city": "Detva",
+    "admin": "Banskobystrický",
+    "sort": "14751"
+  },
+  {
+    "city": "Levoča",
+    "admin": "Prešovský",
+    "sort": "14803"
+  },
+  {
+    "city": "Šamorín",
+    "admin": "Trnavský",
+    "sort": "13324"
+  },
+  {
+    "city": "Sabinov",
+    "admin": "Prešovský",
+    "sort": "12700"
+  },
+  {
+    "city": "Veľký Krtíš",
+    "admin": "Banskobystrický",
+    "sort": "12115"
+  },
+  {
+    "city": "Stupava",
+    "admin": "Bratislavský",
+    "sort": "12595"
+  },
+  {
+    "city": "Revúca",
+    "admin": "Banskobystrický",
+    "sort": "12249"
+  },
+  {
+    "city": "Nová Dubnica",
+    "admin": "Nitriansky",
+    "sort": "11134"
+  },
+  {
+    "city": "Zlaté Moravce",
+    "admin": "Nitriansky",
+    "sort": "11583"
+  },
+  {
+    "city": "Myjava",
+    "admin": "Nitriansky",
+    "sort": "11708"
+  },
+  {
+    "city": "Moldava nad Bodvou",
+    "admin": "Košický",
+    "sort": "11260"
+  },
+  {
+    "city": "Svidník",
+    "admin": "Prešovský",
+    "sort": "11096"
+  },
+  {
+    "city": "Bytča",
+    "admin": "Žilinský",
+    "sort": "11362"
+  },
+  {
+    "city": "Holíč",
+    "admin": "Trnavský",
+    "sort": "11171"
+  },
+  {
+    "city": "Fiľakovo",
+    "admin": "Banskobystrický",
+    "sort": "10654"
+  },
+  {
+    "city": "Štúrovo",
+    "admin": "Nitriansky",
+    "sort": "10524"
+  },
+  {
+    "city": "Stropkov",
+    "admin": "Prešovský",
+    "sort": "10654"
+  },
+  {
+    "city": "Kolárovo",
+    "admin": "Nitriansky",
+    "sort": "10546"
+  },
+  {
+    "city": "Banská Štiavnica",
+    "admin": "Banskobystrický",
+    "sort": "10097"
+  },
+  {
+    "city": "Šurany",
+    "admin": "Nitriansky",
+    "sort": "9878"
+  },
+  {
+    "city": "Modra",
+    "admin": "Bratislavský",
+    "sort": "9346"
+  },
+  {
+    "city": "Tvrdošín",
+    "admin": "Žilinský",
+    "sort": "9195"
+  },
+  {
+    "city": "Svit",
+    "admin": "Prešovský",
+    "sort": "7624"
+  },
+  {
+    "city": "Veľké Kapušany",
+    "admin": "Košický",
+    "sort": "9004"
+  },
+  {
+    "city": "Krompachy",
+    "admin": "Košický",
+    "sort": "8828"
+  },
+  {
+    "city": "Bernolákovo",
+    "admin": "Bratislavský",
+    "sort": "8801"
+  },
+  {
+    "city": "Stará Turá",
+    "admin": "Nitriansky",
+    "sort": "8932"
+  },
+  {
+    "city": "Veľký Meder",
+    "admin": "Trnavský",
+    "sort": "8828"
+  },
+  {
+    "city": "Vráble",
+    "admin": "Nitriansky",
+    "sort": "8656"
+  },
+  {
+    "city": "Smižany",
+    "admin": "Košický",
+    "sort": "8698"
+  },
+  {
+    "city": "Sečovce",
+    "admin": "Košický",
+    "sort": "8441"
+  },
+  {
+    "city": "Vrútky",
+    "admin": "Žilinský",
+    "sort": "7760"
+  },
+  {
+    "city": "Námestovo",
+    "admin": "Žilinský",
+    "sort": "7876"
+  },
+  {
+    "city": "Krupina",
+    "admin": "Banskobystrický",
+    "sort": "7890"
+  },
+  {
+    "city": "Liptovský Hrádok",
+    "admin": "Žilinský",
+    "sort": "7528"
+  },
+  {
+    "city": "Kráľovský Chlmec",
+    "admin": "Košický",
+    "sort": "7505"
+  },
+  {
+    "city": "Turzovka",
+    "admin": "Žilinský",
+    "sort": "7559"
+  },
+  {
+    "city": "Hnúšťa",
+    "admin": "Banskobystrický",
+    "sort": "7490"
+  },
+  {
+    "city": "Hriňová",
+    "admin": "Banskobystrický",
+    "sort": "7535"
+  },
+  {
+    "city": "Hurbanovo",
+    "admin": "Nitriansky",
+    "sort": "7469"
+  },
+  {
+    "city": "Šahy",
+    "admin": "Nitriansky",
+    "sort": "7321"
+  },
+  {
+    "city": "Nová Baňa",
+    "admin": "Banskobystrický",
+    "sort": "7364"
+  },
+  {
+    "city": "Ivanka pri Dunaji",
+    "admin": "Bratislavský",
+    "sort": "6971"
+  },
+  {
+    "city": "Trstená",
+    "admin": "Žilinský",
+    "sort": "7368"
+  },
+  {
+    "city": "Tornaľa",
+    "admin": "Banskobystrický",
+    "sort": "7252"
+  },
+  {
+    "city": "Chorvátský Grob",
+    "admin": "Bratislavský",
+    "sort": "6830"
+  },
+  {
+    "city": "Krásno nad Kysucou",
+    "admin": "Žilinský",
+    "sort": "6783"
+  },
+  {
+    "city": "Lipany",
+    "admin": "Prešovský",
+    "sort": "6484"
+  },
+  {
+    "city": "Želiezovce",
+    "admin": "Nitriansky",
+    "sort": "6859"
+  },
+  {
+    "city": "Jarovnice",
+    "admin": "Prešovský",
+    "sort": "6643"
+  },
+  {
+    "city": "Spišská Belá",
+    "admin": "Prešovský",
+    "sort": "6657"
+  },
+  {
+    "city": "Medzilaborce",
+    "admin": "Prešovský",
+    "sort": "6612"
+  },
+  {
+    "city": "Sobrance",
+    "admin": "Košický",
+    "sort": "6170"
+  },
+  {
+    "city": "Turčianske Teplice",
+    "admin": "Žilinský",
+    "sort": "6390"
+  },
+  {
+    "city": "Nemšová",
+    "admin": "Nitriansky",
+    "sort": "6368"
+  },
+  {
+    "city": "Žarnovica",
+    "admin": "Banskobystrický",
+    "sort": "6284"
+  },
+  {
+    "city": "Čaňa",
+    "admin": "Košický",
+    "sort": "5882"
+  },
+  {
+    "city": "Vrbové",
+    "admin": "Trnavský",
+    "sort": "5907"
+  },
+  {
+    "city": "Gelnica",
+    "admin": "Košický",
+    "sort": "6099"
+  },
+  {
+    "city": "Svätý Jur",
+    "admin": "Bratislavský",
+    "sort": "5941"
+  },
+  {
+    "city": "Beluša",
+    "admin": "Nitriansky",
+    "sort": "5925"
+  },
+  {
+    "city": "Rajec",
+    "admin": "Žilinský",
+    "sort": "5816"
+  },
+  {
+    "city": "Poltár",
+    "admin": "Banskobystrický",
+    "sort": "5693"
+  },
+  {
+    "city": "Oščadnica",
+    "admin": "Žilinský",
+    "sort": "5701"
+  },
+  {
+    "city": "Dobšiná",
+    "admin": "Košický",
+    "sort": "5696"
+  },
+  {
+    "city": "Rovinka",
+    "admin": "Bratislavský",
+    "sort": "5136"
+  },
+  {
+    "city": "Slovenský Grob",
+    "admin": "Bratislavský",
+    "sort": "5202"
+  },
+  {
+    "city": "Ilava",
+    "admin": "Nitriansky",
+    "sort": "5485"
+  },
+  {
+    "city": "Raková",
+    "admin": "Žilinský",
+    "sort": "5507"
+  },
+  {
+    "city": "Veľký Šariš",
+    "admin": "Prešovský",
+    "sort": "5404"
+  },
+  {
+    "city": "Zákamenné",
+    "admin": "Žilinský",
+    "sort": "5442"
+  },
+  {
+    "city": "Lendak",
+    "admin": "Prešovský",
+    "sort": "5269"
+  },
+  {
+    "city": "Gabčíkovo",
+    "admin": "Trnavský",
+    "sort": "5391"
+  },
+  {
+    "city": "Kremnica",
+    "admin": "Banskobystrický",
+    "sort": "5358"
+  },
+  {
+    "city": "Veľké Čaníkovce",
+    "admin": "Bratislavský",
+    "sort": "5260"
+  },
+  {
+    "city": "Sládkovičovo",
+    "admin": "Trnavský",
+    "sort": "5281"
+  },
+  {
+    "city": "Skalité",
+    "admin": "Žilinský",
+    "sort": "5248"
+  },
+  {
+    "city": "Tvrdošovce",
+    "admin": "Nitriansky",
+    "sort": "5156"
+  },
+  {
+    "city": "Gbely",
+    "admin": "Trnavský",
+    "sort": "5155"
+  },
+  {
+    "city": "Rabča",
+    "admin": "Žilinský",
+    "sort": "5006"
+  },
+  {
+    "city": "Nesvady",
+    "admin": "Nitriansky",
+    "sort": "5094"
+  },
+  {
+    "city": "Čierny Balog",
+    "admin": "Banskobystrický",
+    "sort": "5132"
+  },
+  {
+    "city": "Dvory nad Žitavou",
+    "admin": "Nitriansky",
+    "sort": "5084"
+  }
+]

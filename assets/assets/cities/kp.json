@@ -1,0 +1,187 @@
+[
+  {
+    "city": "Pyongyang",
+    "admin": "P’yŏngyang",
+    "sort": "2863000"
+  },
+  {
+    "city": "Nampo",
+    "admin": "P’yŏngnam",
+    "sort": "1127000"
+  },
+  {
+    "city": "Hamhŭng",
+    "admin": "Hamnam",
+    "sort": "768551"
+  },
+  {
+    "city": "Ch’ŏngjin",
+    "admin": "Hambuk",
+    "sort": "667929"
+  },
+  {
+    "city": "Sunch’ŏn",
+    "admin": "P’yŏngnam",
+    "sort": "437000"
+  },
+  {
+    "city": "Wŏnsan",
+    "admin": "Kangwŏn",
+    "sort": "363127"
+  },
+  {
+    "city": "Sinŭiju",
+    "admin": "P’yŏngbuk",
+    "sort": "352000"
+  },
+  {
+    "city": "Tanch’ŏn",
+    "admin": "Hamnam",
+    "sort": "345876"
+  },
+  {
+    "city": "Kaesŏng",
+    "admin": "Hwangnam",
+    "sort": "338155"
+  },
+  {
+    "city": "Kaech’ŏn",
+    "admin": "P’yŏngnam",
+    "sort": "319554"
+  },
+  {
+    "city": "Sariwŏn",
+    "admin": "Hwangbuk",
+    "sort": "307764"
+  },
+  {
+    "city": "Kanggye",
+    "admin": "Chagang",
+    "sort": "251971"
+  },
+  {
+    "city": "Haeju",
+    "admin": "Hwangnam",
+    "sort": "241599"
+  },
+  {
+    "city": "Anju",
+    "admin": "P’yŏngnam",
+    "sort": "240117"
+  },
+  {
+    "city": "P’yŏng-dong",
+    "admin": "P’yŏngyang",
+    "sort": "236583"
+  },
+  {
+    "city": "Rajin",
+    "admin": "Nasŏn",
+    "sort": "196954"
+  },
+  {
+    "city": "Kusŏng",
+    "admin": "P’yŏngbuk",
+    "sort": "196515"
+  },
+  {
+    "city": "Hyesan",
+    "admin": "Yanggang",
+    "sort": "192680"
+  },
+  {
+    "city": "Chŏngju",
+    "admin": "P’yŏngbuk",
+    "sort": "189742"
+  },
+  {
+    "city": "Chaedŏk",
+    "admin": "Hambuk",
+    "sort": "187270"
+  },
+  {
+    "city": "Hŭich’ŏn",
+    "admin": "Chagang",
+    "sort": "168180"
+  },
+  {
+    "city": "Hoeryŏng",
+    "admin": "Hambuk",
+    "sort": "153532"
+  },
+  {
+    "city": "Sinpo",
+    "admin": "Hamnam",
+    "sort": "152759"
+  },
+  {
+    "city": "Songnim",
+    "admin": "Hwangbuk",
+    "sort": "128831"
+  },
+  {
+    "city": "Munch’ŏn",
+    "admin": "Kangwŏn",
+    "sort": "122934"
+  },
+  {
+    "city": "Manpo",
+    "admin": "Chagang",
+    "sort": "116760"
+  },
+  {
+    "city": "Ŏgujin",
+    "admin": "P’yŏngyang",
+    "sort": ""
+  },
+  {
+    "city": "Samga-ri",
+    "admin": "P’yŏngyang",
+    "sort": ""
+  },
+  {
+    "city": "Namsan",
+    "admin": "Hwangnam",
+    "sort": ""
+  },
+  {
+    "city": "Namsan",
+    "admin": "Hambuk",
+    "sort": "80146"
+  },
+  {
+    "city": "Ongjang",
+    "admin": "Hwangnam",
+    "sort": "69195"
+  },
+  {
+    "city": "P’yŏngsan",
+    "admin": "Hwangbuk",
+    "sort": "66260"
+  },
+  {
+    "city": "Changyŏn",
+    "admin": "Hwangnam",
+    "sort": "48984"
+  },
+  {
+    "city": "Sil-li",
+    "admin": "P’yŏngnam",
+    "sort": "19463"
+  },
+  {
+    "city": "Ch’osan-ŭp",
+    "admin": "Chagang",
+    "sort": "7786"
+  },
+  {
+    "city": "P’ungsan",
+    "admin": "Yanggang",
+    "sort": "3839"
+  },
+  {
+    "city": "Taedong",
+    "admin": "P’yŏngbuk",
+    "sort": "1884"
+  }
+]

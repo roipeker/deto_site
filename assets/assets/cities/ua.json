@@ -1,0 +1,2682 @@
+[
+  {
+    "city": "Kyiv",
+    "admin": "Kyyiv, Misto",
+    "sort": "2963199"
+  },
+  {
+    "city": "Kharkiv",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "1446107"
+  },
+  {
+    "city": "Odesa",
+    "admin": "Odes’ka Oblast’",
+    "sort": "1017699"
+  },
+  {
+    "city": "Dnipro",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "980948"
+  },
+  {
+    "city": "Donetsk",
+    "admin": "Donets’ka Oblast’",
+    "sort": "929063"
+  },
+  {
+    "city": "Zaporizhzhia",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "741717"
+  },
+  {
+    "city": "Lviv",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "724314"
+  },
+  {
+    "city": "Kryvyi Rih",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "629695"
+  },
+  {
+    "city": "Sevastopol",
+    "admin": "Sevastopol’, Misto",
+    "sort": "509992"
+  },
+  {
+    "city": "Mykolaiv",
+    "admin": "Mykolayivs’ka Oblast’",
+    "sort": "498748"
+  },
+  {
+    "city": "Mariupol",
+    "admin": "Donets’ka Oblast’",
+    "sort": "449498"
+  },
+  {
+    "city": "Luhansk",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "417990"
+  },
+  {
+    "city": "Vinnytsia",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "371855"
+  },
+  {
+    "city": "Simferopol",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "341799"
+  },
+  {
+    "city": "Makiivka",
+    "admin": "Donets’ka Oblast’",
+    "sort": "343158"
+  },
+  {
+    "city": "Poltava",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "317847"
+  },
+  {
+    "city": "Chernihiv",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "294522"
+  },
+  {
+    "city": "Kherson",
+    "admin": "Khersons’ka Oblast’",
+    "sort": "291428"
+  },
+  {
+    "city": "Cherkasy",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "276360"
+  },
+  {
+    "city": "Khmelnytskyi",
+    "admin": "Khmel’nyts’ka Oblast’",
+    "sort": "274176"
+  },
+  {
+    "city": "Zhytomyr",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "264452"
+  },
+  {
+    "city": "Chernivtsi",
+    "admin": "Chernivets’ka Oblast’",
+    "sort": "266550"
+  },
+  {
+    "city": "Sumy",
+    "admin": "Sums’ka Oblast’",
+    "sort": "265758"
+  },
+  {
+    "city": "Horlivka",
+    "admin": "Donets’ka Oblast’",
+    "sort": "256714"
+  },
+  {
+    "city": "Rivne",
+    "admin": "Rivnens’ka Oblast’",
+    "sort": "246574"
+  },
+  {
+    "city": "Ivano-Frankivsk",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "236602"
+  },
+  {
+    "city": "Kamianske",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "235066"
+  },
+  {
+    "city": "Kropyvnytskyi",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "227413"
+  },
+  {
+    "city": "Ternopil",
+    "admin": "Ternopil’s’ka Oblast’",
+    "sort": "218653"
+  },
+  {
+    "city": "Lutsk",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "216505"
+  },
+  {
+    "city": "Kremenchuk",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "220174"
+  },
+  {
+    "city": "Bila Tserkva",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "208944"
+  },
+  {
+    "city": "Kramatorsk",
+    "admin": "Donets’ka Oblast’",
+    "sort": "159445"
+  },
+  {
+    "city": "Melitopol",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "154992"
+  },
+  {
+    "city": "Sievierodonetsk",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "150000"
+  },
+  {
+    "city": "Kerch",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "149566"
+  },
+  {
+    "city": "Drohobych",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "124269"
+  },
+  {
+    "city": "Khrustalnyi",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "124000"
+  },
+  {
+    "city": "Uzhhorod",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "114897"
+  },
+  {
+    "city": "Berdiansk",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "114205"
+  },
+  {
+    "city": "Sloviansk",
+    "admin": "Donets’ka Oblast’",
+    "sort": "113196"
+  },
+  {
+    "city": "Nikopol",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "110669"
+  },
+  {
+    "city": "Pavlohrad",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "106082"
+  },
+  {
+    "city": "Yevpatoriia",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "106158"
+  },
+  {
+    "city": "Alchevsk",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "105398"
+  },
+  {
+    "city": "Brovary",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "102856"
+  },
+  {
+    "city": "Konotop",
+    "admin": "Sums’ka Oblast’",
+    "sort": "103547"
+  },
+  {
+    "city": "Kamianets-Podilskyi",
+    "admin": "Khmel’nyts’ka Oblast’",
+    "sort": "100462"
+  },
+  {
+    "city": "Mukacheve",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "86257"
+  },
+  {
+    "city": "Uman",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "82762"
+  },
+  {
+    "city": "Chervonohrad",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "82395"
+  },
+  {
+    "city": "Khartsyzk",
+    "admin": "Donets’ka Oblast’",
+    "sort": "59763"
+  },
+  {
+    "city": "Stryi",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "59325"
+  },
+  {
+    "city": "Chornomorsk",
+    "admin": "Odes’ka Oblast’",
+    "sort": "59800"
+  },
+  {
+    "city": "Novohrad-Volynskyi",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "56288"
+  },
+  {
+    "city": "Myrnohrad",
+    "admin": "Donets’ka Oblast’",
+    "sort": "50360"
+  },
+  {
+    "city": "Rovenky",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "46734"
+  },
+  {
+    "city": "Myrhorod",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "40160"
+  },
+  {
+    "city": "Bucha",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "35162"
+  },
+  {
+    "city": "Chuhuiv",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "33144"
+  },
+  {
+    "city": "Sukhodilsk",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "21324"
+  },
+  {
+    "city": "Kotsyubyns’ke",
+    "admin": "Kyyiv, Misto",
+    "sort": "16337"
+  },
+  {
+    "city": "Hostomel",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "16190"
+  },
+  {
+    "city": "Vynnyky",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "15723"
+  },
+  {
+    "city": "Hirnyk",
+    "admin": "Donets’ka Oblast’",
+    "sort": "11378"
+  },
+  {
+    "city": "Komyshany",
+    "admin": "Khersons’ka Oblast’",
+    "sort": "6941"
+  },
+  {
+    "city": "Karnaukhivka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "6631"
+  },
+  {
+    "city": "Lysychansk",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "96161"
+  },
+  {
+    "city": "Dovzhansk",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "95153"
+  },
+  {
+    "city": "Oleksandriia",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "82345"
+  },
+  {
+    "city": "Yalta",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "79458"
+  },
+  {
+    "city": "Yenakiieve",
+    "admin": "Donets’ka Oblast’",
+    "sort": "79348"
+  },
+  {
+    "city": "Bakhmut",
+    "admin": "Donets’ka Oblast’",
+    "sort": "75798"
+  },
+  {
+    "city": "Shostka",
+    "admin": "Sums’ka Oblast’",
+    "sort": "76788"
+  },
+  {
+    "city": "Stakhanov",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "75745"
+  },
+  {
+    "city": "Berdychiv",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "76229"
+  },
+  {
+    "city": "Nizhyn",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "73283"
+  },
+  {
+    "city": "Kostiantynivka",
+    "admin": "Donets’ka Oblast’",
+    "sort": "72888"
+  },
+  {
+    "city": "Izmail",
+    "admin": "Odes’ka Oblast’",
+    "sort": "71411"
+  },
+  {
+    "city": "Novomoskovsk",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "70749"
+  },
+  {
+    "city": "Kovel",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "69089"
+  },
+  {
+    "city": "Smila",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "68536"
+  },
+  {
+    "city": "Kalush",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "66406"
+  },
+  {
+    "city": "Korosten",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "63525"
+  },
+  {
+    "city": "Pokrovsk",
+    "admin": "Donets’ka Oblast’",
+    "sort": "63437"
+  },
+  {
+    "city": "Kolomyia",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "61269"
+  },
+  {
+    "city": "Boryspil",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "62281"
+  },
+  {
+    "city": "Rubizhne",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "59951"
+  },
+  {
+    "city": "Druzhkivka",
+    "admin": "Donets’ka Oblast’",
+    "sort": "59400"
+  },
+  {
+    "city": "Bilhorod-Dnistrovskyi",
+    "admin": "Odes’ka Oblast’",
+    "sort": "57210"
+  },
+  {
+    "city": "Irpin",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "56806"
+  },
+  {
+    "city": "Antratsyt",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "54640"
+  },
+  {
+    "city": "Lozova",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "55827"
+  },
+  {
+    "city": "Enerhodar",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "53567"
+  },
+  {
+    "city": "Pryluky",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "53395"
+  },
+  {
+    "city": "Horishni Plavni",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "52167"
+  },
+  {
+    "city": "Novovolynsk",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "52188"
+  },
+  {
+    "city": "Shakhtarsk",
+    "admin": "Donets’ka Oblast’",
+    "sort": "49482"
+  },
+  {
+    "city": "Brianka",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "47512"
+  },
+  {
+    "city": "Snizhne",
+    "admin": "Donets’ka Oblast’",
+    "sort": "47259"
+  },
+  {
+    "city": "Marhanets",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "47141"
+  },
+  {
+    "city": "Fastiv",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "45907"
+  },
+  {
+    "city": "Lubny",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "45786"
+  },
+  {
+    "city": "Svitlovodsk",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "45312"
+  },
+  {
+    "city": "Nova Kakhovka",
+    "admin": "Khersons’ka Oblast’",
+    "sort": "45069"
+  },
+  {
+    "city": "Zhovti Vody",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "44766"
+  },
+  {
+    "city": "Krasnodon",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "43683"
+  },
+  {
+    "city": "Shepetivka",
+    "admin": "Khmel’nyts’ka Oblast’",
+    "sort": "41415"
+  },
+  {
+    "city": "Podilsk",
+    "admin": "Odes’ka Oblast’",
+    "sort": "40155"
+  },
+  {
+    "city": "Romny",
+    "admin": "Sums’ka Oblast’",
+    "sort": "40316"
+  },
+  {
+    "city": "Vyshneve",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "39900"
+  },
+  {
+    "city": "Pokrov",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "39497"
+  },
+  {
+    "city": "Vasylkiv",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "37696"
+  },
+  {
+    "city": "Dubno",
+    "admin": "Rivnens’ka Oblast’",
+    "sort": "37545"
+  },
+  {
+    "city": "Pervomaisk",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "38801"
+  },
+  {
+    "city": "Dzhankoi",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "38714"
+  },
+  {
+    "city": "Boryslav",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "37093"
+  },
+  {
+    "city": "Holubivske",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "36388"
+  },
+  {
+    "city": "Yasynuvata",
+    "admin": "Donets’ka Oblast’",
+    "sort": "35303"
+  },
+  {
+    "city": "Netishyn",
+    "admin": "Khmel’nyts’ka Oblast’",
+    "sort": "36921"
+  },
+  {
+    "city": "Zhmerynka",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "34353"
+  },
+  {
+    "city": "Avdiivka",
+    "admin": "Donets’ka Oblast’",
+    "sort": "34938"
+  },
+  {
+    "city": "Kakhovka",
+    "admin": "Khersons’ka Oblast’",
+    "sort": "35900"
+  },
+  {
+    "city": "Toretsk",
+    "admin": "Donets’ka Oblast’",
+    "sort": "34378"
+  },
+  {
+    "city": "Sambir",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "34444"
+  },
+  {
+    "city": "Boyarka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "35411"
+  },
+  {
+    "city": "Voznesensk",
+    "admin": "Mykolayivs’ka Oblast’",
+    "sort": "35243"
+  },
+  {
+    "city": "Hlukhiv",
+    "admin": "Sums’ka Oblast’",
+    "sort": "33478"
+  },
+  {
+    "city": "Obukhiv",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "33204"
+  },
+  {
+    "city": "Yuzhne",
+    "admin": "Odes’ka Oblast’",
+    "sort": "32100"
+  },
+  {
+    "city": "Mohyliv-Podilskyi",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "30589"
+  },
+  {
+    "city": "Kostopil",
+    "admin": "Rivnens’ka Oblast’",
+    "sort": "31463"
+  },
+  {
+    "city": "Tokmak",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "31016"
+  },
+  {
+    "city": "Novoyavorovskoye",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "30723"
+  },
+  {
+    "city": "Synelnykove",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "30724"
+  },
+  {
+    "city": "Pervomaiskyi",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "30048"
+  },
+  {
+    "city": "Alushta",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "29668"
+  },
+  {
+    "city": "Khmilnyk",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "27941"
+  },
+  {
+    "city": "Truskavets",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "28867"
+  },
+  {
+    "city": "Balakliia",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "28868"
+  },
+  {
+    "city": "Novyi Rozdil",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "28745"
+  },
+  {
+    "city": "Chortkiv",
+    "admin": "Ternopil’s’ka Oblast’",
+    "sort": "28393"
+  },
+  {
+    "city": "Pershotravensk",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "28363"
+  },
+  {
+    "city": "Khust",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "28206"
+  },
+  {
+    "city": "Khrestivka",
+    "admin": "Donets’ka Oblast’",
+    "sort": "28149"
+  },
+  {
+    "city": "Ternivka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "27929"
+  },
+  {
+    "city": "Vyshhorod",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "27825"
+  },
+  {
+    "city": "Zolotonosha",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "27847"
+  },
+  {
+    "city": "Bakhchysarai",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "27351"
+  },
+  {
+    "city": "Pereyaslav-Khmel’nyts’kyy",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "27088"
+  },
+  {
+    "city": "Sofiyivs’ka Borshchahivka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "26571"
+  },
+  {
+    "city": "Perevalsk",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "26132"
+  },
+  {
+    "city": "Malyn",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "26204"
+  },
+  {
+    "city": "Yany Kapu",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "25769"
+  },
+  {
+    "city": "Haisyn",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "25672"
+  },
+  {
+    "city": "Vynohradiv",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "25403"
+  },
+  {
+    "city": "Korostyshiv",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "25445"
+  },
+  {
+    "city": "Saky",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "24282"
+  },
+  {
+    "city": "Slavutych",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "25030"
+  },
+  {
+    "city": "Kaniv",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "24532"
+  },
+  {
+    "city": "Selydove",
+    "admin": "Donets’ka Oblast’",
+    "sort": "23793"
+  },
+  {
+    "city": "Zolochiv",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "23986"
+  },
+  {
+    "city": "Berehove",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "23732"
+  },
+  {
+    "city": "Brody",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "23752"
+  },
+  {
+    "city": "Koziatyn",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "23610"
+  },
+  {
+    "city": "Vilnohirsk",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "23235"
+  },
+  {
+    "city": "Molodohvardiisk",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "22937"
+  },
+  {
+    "city": "Znamianka",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "22936"
+  },
+  {
+    "city": "Ladyzhyn",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "22682"
+  },
+  {
+    "city": "Nadvirna",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "22447"
+  },
+  {
+    "city": "Lyman",
+    "admin": "Donets’ka Oblast’",
+    "sort": "22315"
+  },
+  {
+    "city": "Merefa",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "21794"
+  },
+  {
+    "city": "Bilohorodka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "21367"
+  },
+  {
+    "city": "Sokal",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "20986"
+  },
+  {
+    "city": "Liubotyn",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "20887"
+  },
+  {
+    "city": "Kremenets",
+    "admin": "Ternopil’s’ka Oblast’",
+    "sort": "20837"
+  },
+  {
+    "city": "Dolyna",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "20691"
+  },
+  {
+    "city": "Yahotyn",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "19613"
+  },
+  {
+    "city": "Pidhorodne",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "19524"
+  },
+  {
+    "city": "Balta",
+    "admin": "Odes’ka Oblast’",
+    "sort": "19353"
+  },
+  {
+    "city": "Henichesk",
+    "admin": "Khersons’ka Oblast’",
+    "sort": "19253"
+  },
+  {
+    "city": "Dolynska",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "19287"
+  },
+  {
+    "city": "Kalynivka",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "18906"
+  },
+  {
+    "city": "Polohy",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "18886"
+  },
+  {
+    "city": "Piatykhatky",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "18845"
+  },
+  {
+    "city": "Starobilsk",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "18796"
+  },
+  {
+    "city": "Vovchansk",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "18644"
+  },
+  {
+    "city": "Dniprorudne",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "18468"
+  },
+  {
+    "city": "Bakhmach",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "18441"
+  },
+  {
+    "city": "Korsun-Shevchenkivskyi",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "18401"
+  },
+  {
+    "city": "Amvrosiivka",
+    "admin": "Donets’ka Oblast’",
+    "sort": "18413"
+  },
+  {
+    "city": "Svatove",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "18417"
+  },
+  {
+    "city": "Zuhres",
+    "admin": "Donets’ka Oblast’",
+    "sort": "18024"
+  },
+  {
+    "city": "Skadovsk",
+    "admin": "Khersons’ka Oblast’",
+    "sort": "17344"
+  },
+  {
+    "city": "Bolhrad",
+    "admin": "Odes’ka Oblast’",
+    "sort": "17400"
+  },
+  {
+    "city": "Berezhany",
+    "admin": "Ternopil’s’ka Oblast’",
+    "sort": "17316"
+  },
+  {
+    "city": "Svalyava",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "17234"
+  },
+  {
+    "city": "Zvenyhorodka",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "17078"
+  },
+  {
+    "city": "Vatutine",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "16888"
+  },
+  {
+    "city": "Iziaslav",
+    "admin": "Khmel’nyts’ka Oblast’",
+    "sort": "16901"
+  },
+  {
+    "city": "Sudak",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "16756"
+  },
+  {
+    "city": "Berezan",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "16506"
+  },
+  {
+    "city": "Horodok",
+    "admin": "Khmel’nyts’ka Oblast’",
+    "sort": "16516"
+  },
+  {
+    "city": "Bilohirsk",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "16428"
+  },
+  {
+    "city": "Verkhivtseve",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "16364"
+  },
+  {
+    "city": "Horodok",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "16158"
+  },
+  {
+    "city": "Okhtyrka",
+    "admin": "Sums’ka Oblast’",
+    "sort": "15694"
+  },
+  {
+    "city": "Bar",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "16136"
+  },
+  {
+    "city": "Ukrainka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "16056"
+  },
+  {
+    "city": "Dunaivtsi",
+    "admin": "Khmel’nyts’ka Oblast’",
+    "sort": "15914"
+  },
+  {
+    "city": "Skvyra",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "15889"
+  },
+  {
+    "city": "Yuvileine",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "15830"
+  },
+  {
+    "city": "Ovruch",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "15795"
+  },
+  {
+    "city": "Putyvl",
+    "admin": "Sums’ka Oblast’",
+    "sort": "15778"
+  },
+  {
+    "city": "Ostroh",
+    "admin": "Rivnens’ka Oblast’",
+    "sort": "15642"
+  },
+  {
+    "city": "Rakhiv",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "15621"
+  },
+  {
+    "city": "Bohodukhiv",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "15576"
+  },
+  {
+    "city": "Burshtyn",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "15039"
+  },
+  {
+    "city": "Tulchyn",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "15051"
+  },
+  {
+    "city": "Vil’nyans’k",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "15044"
+  },
+  {
+    "city": "Nyzhnia Krynka",
+    "admin": "Donets’ka Oblast’",
+    "sort": "13927"
+  },
+  {
+    "city": "Vuhledar",
+    "admin": "Donets’ka Oblast’",
+    "sort": "14822"
+  },
+  {
+    "city": "Ochakiv",
+    "admin": "Mykolayivs’ka Oblast’",
+    "sort": "14705"
+  },
+  {
+    "city": "Hulyaypole",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "14678"
+  },
+  {
+    "city": "Radomyshl",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "14607"
+  },
+  {
+    "city": "Stanytsia Luhanska",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "14543"
+  },
+  {
+    "city": "Orikhiv",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "14479"
+  },
+  {
+    "city": "Zolote",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "14376"
+  },
+  {
+    "city": "Kivertsi",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "14050"
+  },
+  {
+    "city": "Zhovkva",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "13834"
+  },
+  {
+    "city": "Zhashkiv",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "13853"
+  },
+  {
+    "city": "Horodyshche",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "13799"
+  },
+  {
+    "city": "Apostolove",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "13792"
+  },
+  {
+    "city": "Hola Prystan",
+    "admin": "Khersons’ka Oblast’",
+    "sort": "13760"
+  },
+  {
+    "city": "Bunhe",
+    "admin": "Donets’ka Oblast’",
+    "sort": "13633"
+  },
+  {
+    "city": "Talne",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "13558"
+  },
+  {
+    "city": "Kaharlyk",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "13544"
+  },
+  {
+    "city": "Zelenodolsk",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "13349"
+  },
+  {
+    "city": "Berezne",
+    "admin": "Rivnens’ka Oblast’",
+    "sort": "13285"
+  },
+  {
+    "city": "Nosivka",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "13310"
+  },
+  {
+    "city": "Borodyanka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "13230"
+  },
+  {
+    "city": "Slobozhanske",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "13221"
+  },
+  {
+    "city": "Lebedyn",
+    "admin": "Sums’ka Oblast’",
+    "sort": "13247"
+  },
+  {
+    "city": "Vasylivka",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "13166"
+  },
+  {
+    "city": "Velykodolynske",
+    "admin": "Odes’ka Oblast’",
+    "sort": "13036"
+  },
+  {
+    "city": "Tetiiv",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "13015"
+  },
+  {
+    "city": "Rozhyshche",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "12953"
+  },
+  {
+    "city": "Yavoriv",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "12888"
+  },
+  {
+    "city": "Novhorod-Siverskyi",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "12862"
+  },
+  {
+    "city": "Bershad",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "12795"
+  },
+  {
+    "city": "Perehinske",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "12762"
+  },
+  {
+    "city": "Hvardiiske",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "12711"
+  },
+  {
+    "city": "Kamianka-Dniprovska",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "12638"
+  },
+  {
+    "city": "Shchastia",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "12629"
+  },
+  {
+    "city": "Buchach",
+    "admin": "Ternopil’s’ka Oblast’",
+    "sort": "12511"
+  },
+  {
+    "city": "Koriukivka",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "12539"
+  },
+  {
+    "city": "Kamin-Kashyrskyi",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "12489"
+  },
+  {
+    "city": "Hnivan",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "12314"
+  },
+  {
+    "city": "Beryslav",
+    "admin": "Khersons’ka Oblast’",
+    "sort": "12123"
+  },
+  {
+    "city": "Uzyn",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "12077"
+  },
+  {
+    "city": "Bilovodsk",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "12000"
+  },
+  {
+    "city": "Mykhailivka",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "11949"
+  },
+  {
+    "city": "Ukrainsk",
+    "admin": "Donets’ka Oblast’",
+    "sort": "11824"
+  },
+  {
+    "city": "Horodnia",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "11852"
+  },
+  {
+    "city": "Ovidiopol",
+    "admin": "Odes’ka Oblast’",
+    "sort": "11741"
+  },
+  {
+    "city": "Baranivka",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "11765"
+  },
+  {
+    "city": "Bilopillya",
+    "admin": "Sums’ka Oblast’",
+    "sort": "11743"
+  },
+  {
+    "city": "Vasylkivka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "11738"
+  },
+  {
+    "city": "Nemyriv",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "11697"
+  },
+  {
+    "city": "Prymorsk",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "11679"
+  },
+  {
+    "city": "Mena",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "11670"
+  },
+  {
+    "city": "Mala Vyska",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "11614"
+  },
+  {
+    "city": "Kalmiuske",
+    "admin": "Donets’ka Oblast’",
+    "sort": "11603"
+  },
+  {
+    "city": "Lokhvytsya",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "11485"
+  },
+  {
+    "city": "Myronivka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "11478"
+  },
+  {
+    "city": "Yakymivka",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "11481"
+  },
+  {
+    "city": "Snovsk",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "11390"
+  },
+  {
+    "city": "Illintsi",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "11270"
+  },
+  {
+    "city": "Sosnivka",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "11058"
+  },
+  {
+    "city": "Chornomorske",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "11039"
+  },
+  {
+    "city": "Zhydachiv",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "10962"
+  },
+  {
+    "city": "Rokytne",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "10938"
+  },
+  {
+    "city": "Hurzuf",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "9117"
+  },
+  {
+    "city": "Bobrovytsia",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "10894"
+  },
+  {
+    "city": "Bobrynets",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "10898"
+  },
+  {
+    "city": "Novgorodskoye",
+    "admin": "Donets’ka Oblast’",
+    "sort": "10227"
+  },
+  {
+    "city": "Manevychi",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "10825"
+  },
+  {
+    "city": "Hrebinka",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "10805"
+  },
+  {
+    "city": "Baryshivka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "10783"
+  },
+  {
+    "city": "Khrystynivka",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "10762"
+  },
+  {
+    "city": "Kurman",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "10766"
+  },
+  {
+    "city": "Ichnia",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "10709"
+  },
+  {
+    "city": "Inkerman",
+    "admin": "Sevastopol’, Misto",
+    "sort": "10196"
+  },
+  {
+    "city": "Bolekhiv",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "10476"
+  },
+  {
+    "city": "Lyuboml’",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "10466"
+  },
+  {
+    "city": "Olevsk",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "10457"
+  },
+  {
+    "city": "Ivankiv",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "10439"
+  },
+  {
+    "city": "Krasnoilsk",
+    "admin": "Chernivets’ka Oblast’",
+    "sort": "10351"
+  },
+  {
+    "city": "Verkhnodniprovsk",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "10314"
+  },
+  {
+    "city": "Letychiv",
+    "admin": "Khmel’nyts’ka Oblast’",
+    "sort": "10335"
+  },
+  {
+    "city": "Korolevo",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "10165"
+  },
+  {
+    "city": "Bilenke",
+    "admin": "Donets’ka Oblast’",
+    "sort": "9136"
+  },
+  {
+    "city": "Oster",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "10245"
+  },
+  {
+    "city": "Radyvyliv",
+    "admin": "Rivnens’ka Oblast’",
+    "sort": "10190"
+  },
+  {
+    "city": "Tarashcha",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "10195"
+  },
+  {
+    "city": "Sniatyn",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "9942"
+  },
+  {
+    "city": "Shyroke",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "10202"
+  },
+  {
+    "city": "Borzna",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "10205"
+  },
+  {
+    "city": "Teplodar",
+    "admin": "Odes’ka Oblast’",
+    "sort": "10148"
+  },
+  {
+    "city": "Shpola",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "10133"
+  },
+  {
+    "city": "Sofiivka",
+    "admin": "Donets’ka Oblast’",
+    "sort": "9597"
+  },
+  {
+    "city": "Dubove",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "9938"
+  },
+  {
+    "city": "Ratne",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "9955"
+  },
+  {
+    "city": "Pereshchepyne",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "9931"
+  },
+  {
+    "city": "Pokrovske",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "9910"
+  },
+  {
+    "city": "Zinkiv",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "9856"
+  },
+  {
+    "city": "Kobeliaky",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "9841"
+  },
+  {
+    "city": "Berezivka",
+    "admin": "Odes’ka Oblast’",
+    "sort": "9845"
+  },
+  {
+    "city": "Makariv",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "9836"
+  },
+  {
+    "city": "Vesele",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "9719"
+  },
+  {
+    "city": "Khodoriv",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "9605"
+  },
+  {
+    "city": "Izium",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "9609"
+  },
+  {
+    "city": "Bilozerka",
+    "admin": "Khersons’ka Oblast’",
+    "sort": "9565"
+  },
+  {
+    "city": "Mizhhiria",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "9567"
+  },
+  {
+    "city": "Velyka Dymerka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "9554"
+  },
+  {
+    "city": "Bezliudivka",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "9436"
+  },
+  {
+    "city": "Pohrebyshche",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "9525"
+  },
+  {
+    "city": "Nyzhnohirskyi",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "9460"
+  },
+  {
+    "city": "Dubrovytsya",
+    "admin": "Rivnens’ka Oblast’",
+    "sort": "9424"
+  },
+  {
+    "city": "Tysmenytsia",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "9287"
+  },
+  {
+    "city": "Irshava",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "9276"
+  },
+  {
+    "city": "Khotyn",
+    "admin": "Chernivets’ka Oblast’",
+    "sort": "9262"
+  },
+  {
+    "city": "Masandra",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "8571"
+  },
+  {
+    "city": "Velykyi Bychkiv",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "9255"
+  },
+  {
+    "city": "Horodenka",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "9113"
+  },
+  {
+    "city": "Valky",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "9235"
+  },
+  {
+    "city": "Kalanchak",
+    "admin": "Khersons’ka Oblast’",
+    "sort": "9224"
+  },
+  {
+    "city": "Obukhivka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "9175"
+  },
+  {
+    "city": "Stryzhavka",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "9137"
+  },
+  {
+    "city": "Horokhiv",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "9134"
+  },
+  {
+    "city": "Velyki Luchky",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "9028"
+  },
+  {
+    "city": "Tiachiv",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "9019"
+  },
+  {
+    "city": "Kozova",
+    "admin": "Ternopil’s’ka Oblast’",
+    "sort": "8989"
+  },
+  {
+    "city": "Uspenka",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "8974"
+  },
+  {
+    "city": "Pomichna",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "8994"
+  },
+  {
+    "city": "Chop",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "8897"
+  },
+  {
+    "city": "Monastyryshche",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "8925"
+  },
+  {
+    "city": "Tlumach",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "8886"
+  },
+  {
+    "city": "Ilarionove",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "8854"
+  },
+  {
+    "city": "Kryzhopil",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "8788"
+  },
+  {
+    "city": "Rava-Rus’ka",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "8647"
+  },
+  {
+    "city": "Solotvyno",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "8632"
+  },
+  {
+    "city": "Chyhyryn",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "8658"
+  },
+  {
+    "city": "Busk",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "8624"
+  },
+  {
+    "city": "Barvynkove",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "8660"
+  },
+  {
+    "city": "Bushtyno",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "8562"
+  },
+  {
+    "city": "Andrushivka",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "8606"
+  },
+  {
+    "city": "Yasinia",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "8579"
+  },
+  {
+    "city": "Kosiv",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "8522"
+  },
+  {
+    "city": "Yasnohirka",
+    "admin": "Donets’ka Oblast’",
+    "sort": "8034"
+  },
+  {
+    "city": "Lypovets",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "8463"
+  },
+  {
+    "city": "Buryn",
+    "admin": "Sums’ka Oblast’",
+    "sort": "8476"
+  },
+  {
+    "city": "Deliatyn",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "8386"
+  },
+  {
+    "city": "Lanivtsi",
+    "admin": "Ternopil’s’ka Oblast’",
+    "sort": "8401"
+  },
+  {
+    "city": "Vyshkovo",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "8288"
+  },
+  {
+    "city": "Mala Danylivka",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "8228"
+  },
+  {
+    "city": "Bohorodchany",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "8222"
+  },
+  {
+    "city": "Zavodske",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "8180"
+  },
+  {
+    "city": "Novi Sanzhary",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "8179"
+  },
+  {
+    "city": "Kvasyliv",
+    "admin": "Rivnens’ka Oblast’",
+    "sort": "8117"
+  },
+  {
+    "city": "Lysianka",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "8161"
+  },
+  {
+    "city": "Krasnopillya",
+    "admin": "Sums’ka Oblast’",
+    "sort": "8165"
+  },
+  {
+    "city": "Tarutyne",
+    "admin": "Odes’ka Oblast’",
+    "sort": "8125"
+  },
+  {
+    "city": "Manhush",
+    "admin": "Donets’ka Oblast’",
+    "sort": "8127"
+  },
+  {
+    "city": "Yaremche",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "8094"
+  },
+  {
+    "city": "Ananiv",
+    "admin": "Odes’ka Oblast’",
+    "sort": "8077"
+  },
+  {
+    "city": "Kushuhum",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "8032"
+  },
+  {
+    "city": "Semenivka",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "8052"
+  },
+  {
+    "city": "Pidvolochysk",
+    "admin": "Ternopil’s’ka Oblast’",
+    "sort": "7977"
+  },
+  {
+    "city": "Lanchyn",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "7923"
+  },
+  {
+    "city": "Kozelets",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "7968"
+  },
+  {
+    "city": "Pivdenne",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "7705"
+  },
+  {
+    "city": "Vylkove",
+    "admin": "Odes’ka Oblast’",
+    "sort": "7804"
+  },
+  {
+    "city": "Rohatyn",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "7797"
+  },
+  {
+    "city": "Nemishayeve",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "7766"
+  },
+  {
+    "city": "Vorzel",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "6441"
+  },
+  {
+    "city": "Kryve Ozero",
+    "admin": "Mykolayivs’ka Oblast’",
+    "sort": "7717"
+  },
+  {
+    "city": "Khoroshiv",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "7644"
+  },
+  {
+    "city": "Trostianets",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "7655"
+  },
+  {
+    "city": "Novoselytsia",
+    "admin": "Chernivets’ka Oblast’",
+    "sort": "7588"
+  },
+  {
+    "city": "Dykanka",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "7662"
+  },
+  {
+    "city": "Teresva",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "7589"
+  },
+  {
+    "city": "Vapniarka",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "7612"
+  },
+  {
+    "city": "Solone",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "7628"
+  },
+  {
+    "city": "Velykyy Bereznyy",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "7559"
+  },
+  {
+    "city": "Bereznehuvate",
+    "admin": "Mykolayivs’ka Oblast’",
+    "sort": "7552"
+  },
+  {
+    "city": "Krasnokutsk",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "7455"
+  },
+  {
+    "city": "Romaniv",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "7416"
+  },
+  {
+    "city": "Tsarychanka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "7415"
+  },
+  {
+    "city": "Mezhova",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "7380"
+  },
+  {
+    "city": "Rzhyshchiv",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "7359"
+  },
+  {
+    "city": "Borova",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "7316"
+  },
+  {
+    "city": "Rudno",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "7213"
+  },
+  {
+    "city": "Lymanske",
+    "admin": "Odes’ka Oblast’",
+    "sort": "7249"
+  },
+  {
+    "city": "Shyriaieve",
+    "admin": "Odes’ka Oblast’",
+    "sort": "7238"
+  },
+  {
+    "city": "Poninka",
+    "admin": "Khmel’nyts’ka Oblast’",
+    "sort": "7189"
+  },
+  {
+    "city": "Ripky",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "7174"
+  },
+  {
+    "city": "Isliam-Terek",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "7067"
+  },
+  {
+    "city": "Sharhorod",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "7029"
+  },
+  {
+    "city": "Petropavlivka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "7032"
+  },
+  {
+    "city": "Molochansk",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "7040"
+  },
+  {
+    "city": "Piskivka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "6896"
+  },
+  {
+    "city": "Sakhnovshchyna",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "7010"
+  },
+  {
+    "city": "Turka",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "6968"
+  },
+  {
+    "city": "Vorozhba",
+    "admin": "Sums’ka Oblast’",
+    "sort": "6972"
+  },
+  {
+    "city": "Sosnytsia",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "6983"
+  },
+  {
+    "city": "Pryvillya",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "6970"
+  },
+  {
+    "city": "Kazanka",
+    "admin": "Mykolayivs’ka Oblast’",
+    "sort": "6972"
+  },
+  {
+    "city": "Tomakivka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "6957"
+  },
+  {
+    "city": "Shevchenkove",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "6959"
+  },
+  {
+    "city": "Vilshany",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "6865"
+  },
+  {
+    "city": "Chynadiyovo",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "6860"
+  },
+  {
+    "city": "Dobroslav",
+    "admin": "Odes’ka Oblast’",
+    "sort": "6863"
+  },
+  {
+    "city": "Nova Maiachka",
+    "admin": "Khersons’ka Oblast’",
+    "sort": "6811"
+  },
+  {
+    "city": "Bilmak",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "6802"
+  },
+  {
+    "city": "Hornostaivka",
+    "admin": "Khersons’ka Oblast’",
+    "sort": "6745"
+  },
+  {
+    "city": "Oleksandrivsk",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "6709"
+  },
+  {
+    "city": "Sofiivka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "6748"
+  },
+  {
+    "city": "Irshansk",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "6718"
+  },
+  {
+    "city": "Perechyn",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "6683"
+  },
+  {
+    "city": "Lityn",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "6658"
+  },
+  {
+    "city": "Staryi Sambir",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "6630"
+  },
+  {
+    "city": "Svesa",
+    "admin": "Sums’ka Oblast’",
+    "sort": "6644"
+  },
+  {
+    "city": "Voronovytsia",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "6564"
+  },
+  {
+    "city": "Yemilchyne",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "6616"
+  },
+  {
+    "city": "Nova Praha",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "6593"
+  },
+  {
+    "city": "Sudova Vyshnya",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "6538"
+  },
+  {
+    "city": "Ivanychi",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "6551"
+  },
+  {
+    "city": "Pryazovske",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "6578"
+  },
+  {
+    "city": "Tsuman",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "6548"
+  },
+  {
+    "city": "Slatyne",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "6483"
+  },
+  {
+    "city": "Bilokurakyne",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "6560"
+  },
+  {
+    "city": "Dobrotvir",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "6450"
+  },
+  {
+    "city": "Drabiv",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "6450"
+  },
+  {
+    "city": "Halych",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "6196"
+  },
+  {
+    "city": "Chervonohryhorivka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "6348"
+  },
+  {
+    "city": "Stavyshche",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "6339"
+  },
+  {
+    "city": "Petropavlivs’ka Borshchahivka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "6125"
+  },
+  {
+    "city": "Vinkivtsi",
+    "admin": "Khmel’nyts’ka Oblast’",
+    "sort": "6330"
+  },
+  {
+    "city": "Turbiv",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "6326"
+  },
+  {
+    "city": "Velyki Mosty",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "6298"
+  },
+  {
+    "city": "Mahdalynivka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "6335"
+  },
+  {
+    "city": "Teplyk",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "6280"
+  },
+  {
+    "city": "Arbuzynka",
+    "admin": "Mykolayivs’ka Oblast’",
+    "sort": "6266"
+  },
+  {
+    "city": "Blahovishchenske",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "6232"
+  },
+  {
+    "city": "Hvardiys’ke",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "6207"
+  },
+  {
+    "city": "Balabyne",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "6010"
+  },
+  {
+    "city": "Partenit",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "6089"
+  },
+  {
+    "city": "Kehychivka",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "6090"
+  },
+  {
+    "city": "Sutysky",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "6069"
+  },
+  {
+    "city": "Volodarka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "5996"
+  },
+  {
+    "city": "Morshyn",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "5850"
+  },
+  {
+    "city": "Koreiz",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "5455"
+  },
+  {
+    "city": "Murovani Kurylivtsi",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "5872"
+  },
+  {
+    "city": "Ozerne",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "5851"
+  },
+  {
+    "city": "Bryukhovychi",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "5400"
+  },
+  {
+    "city": "Chornukhyne",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "5725"
+  },
+  {
+    "city": "Verkhovyna",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "5829"
+  },
+  {
+    "city": "Chernihivka",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "5813"
+  },
+  {
+    "city": "Veselynove",
+    "admin": "Mykolayivs’ka Oblast’",
+    "sort": "5785"
+  },
+  {
+    "city": "Hrebinky",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "5749"
+  },
+  {
+    "city": "Lyubeshiv",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "5762"
+  },
+  {
+    "city": "Dobrovelychkivka",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "5763"
+  },
+  {
+    "city": "Popilnia",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "5724"
+  },
+  {
+    "city": "Turiys’k",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "5676"
+  },
+  {
+    "city": "Velyka Novosilka",
+    "admin": "Donets’ka Oblast’",
+    "sort": "5666"
+  },
+  {
+    "city": "Dniprovske",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "5628"
+  },
+  {
+    "city": "Oleksandriiske",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "5672"
+  },
+  {
+    "city": "Novhorodka",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "5675"
+  },
+  {
+    "city": "Dymer",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "5582"
+  },
+  {
+    "city": "Chudniv",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "5583"
+  },
+  {
+    "city": "Broshniv-Osada",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "5557"
+  },
+  {
+    "city": "Savyntsi",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "5571"
+  },
+  {
+    "city": "Tomashpil",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "5527"
+  },
+  {
+    "city": "Korop",
+    "admin": "Chernihivs’ka Oblast’",
+    "sort": "5545"
+  },
+  {
+    "city": "Nova Borova",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "5517"
+  },
+  {
+    "city": "Hubynykha",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "5509"
+  },
+  {
+    "city": "Katerynopil",
+    "admin": "Cherkas’ka Oblast’",
+    "sort": "5513"
+  },
+  {
+    "city": "Otyniia",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "5444"
+  },
+  {
+    "city": "Nedryhayliv",
+    "admin": "Sums’ka Oblast’",
+    "sort": "5511"
+  },
+  {
+    "city": "Stara Syniava",
+    "admin": "Khmel’nyts’ka Oblast’",
+    "sort": "5501"
+  },
+  {
+    "city": "Stepanivka",
+    "admin": "Sums’ka Oblast’",
+    "sort": "5490"
+  },
+  {
+    "city": "Pulyny",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "5411"
+  },
+  {
+    "city": "Pechenizhyn",
+    "admin": "Ivano-Frankivs’ka Oblast’",
+    "sort": "5253"
+  },
+  {
+    "city": "Hoshcha",
+    "admin": "Rivnens’ka Oblast’",
+    "sort": "5319"
+  },
+  {
+    "city": "Pishchanka",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "5322"
+  },
+  {
+    "city": "Shatsk",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "5320"
+  },
+  {
+    "city": "Bratske",
+    "admin": "Mykolayivs’ka Oblast’",
+    "sort": "5313"
+  },
+  {
+    "city": "Opishnya",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "5292"
+  },
+  {
+    "city": "Komyshuvakha",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "5269"
+  },
+  {
+    "city": "Pechenihy",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "5264"
+  },
+  {
+    "city": "Novohuivynske",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "5236"
+  },
+  {
+    "city": "Horodnytsia",
+    "admin": "Zhytomyrs’ka Oblast’",
+    "sort": "5256"
+  },
+  {
+    "city": "Kupiansk",
+    "admin": "Kharkivs’ka Oblast’",
+    "sort": "5124"
+  },
+  {
+    "city": "Bratslav",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "5241"
+  },
+  {
+    "city": "Stara Vyzhivka",
+    "admin": "Volyns’ka Oblast’",
+    "sort": "5248"
+  },
+  {
+    "city": "Novomykolayivka",
+    "admin": "Zaporiz’ka Oblast’",
+    "sort": "5238"
+  },
+  {
+    "city": "Chemerivtsi",
+    "admin": "Khmel’nyts’ka Oblast’",
+    "sort": "5200"
+  },
+  {
+    "city": "Kalynivka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "5198"
+  },
+  {
+    "city": "Volovets",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "5128"
+  },
+  {
+    "city": "Kyrnasivka",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "5087"
+  },
+  {
+    "city": "Klavdiyevo-Tarasove",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "5029"
+  },
+  {
+    "city": "Kolochava",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "5029"
+  },
+  {
+    "city": "Bohdanivka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "5016"
+  },
+  {
+    "city": "Z·hurivka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "5036"
+  },
+  {
+    "city": "Chechelnyk",
+    "admin": "Vinnyts’ka Oblast’",
+    "sort": "5002"
+  },
+  {
+    "city": "Syurte",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "9460"
+  },
+  {
+    "city": "Nerubaiske",
+    "admin": "Odes’ka Oblast’",
+    "sort": "8558"
+  },
+  {
+    "city": "Ivanivka",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "8243"
+  },
+  {
+    "city": "Velykyi Dalnyk",
+    "admin": "Odes’ka Oblast’",
+    "sort": "7655"
+  },
+  {
+    "city": "Dovhe",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "6790"
+  },
+  {
+    "city": "Velyki Komiaty",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "6772"
+  },
+  {
+    "city": "Rozsoshentsi",
+    "admin": "Poltavs’ka Oblast’",
+    "sort": "6731"
+  },
+  {
+    "city": "Lozuvatka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "6730"
+  },
+  {
+    "city": "Kubei",
+    "admin": "Odes’ka Oblast’",
+    "sort": "6544"
+  },
+  {
+    "city": "Bile",
+    "admin": "Luhans’ka Oblast’",
+    "sort": "6512"
+  },
+  {
+    "city": "Fontanka",
+    "admin": "Odes’ka Oblast’",
+    "sort": "6260"
+  },
+  {
+    "city": "Kushnytsia",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "6100"
+  },
+  {
+    "city": "Ahrarne",
+    "admin": "Krym, Avtonomna Respublika",
+    "sort": "6034"
+  },
+  {
+    "city": "Sokilnyky",
+    "admin": "L’vivs’ka Oblast’",
+    "sort": "5727"
+  },
+  {
+    "city": "Horonda",
+    "admin": "Zakarpats’ka Oblast’",
+    "sort": "5630"
+  },
+  {
+    "city": "Zoria",
+    "admin": "Odes’ka Oblast’",
+    "sort": "5528"
+  },
+  {
+    "city": "Horenka",
+    "admin": "Kyyivs’ka Oblast’",
+    "sort": "5358"
+  },
+  {
+    "city": "Rivne",
+    "admin": "Kirovohrads’ka Oblast’",
+    "sort": "5505"
+  },
+  {
+    "city": "Mykolayivka",
+    "admin": "Dnipropetrovs’ka Oblast’",
+    "sort": "5318"
+  },
+  {
+    "city": "Yalta",
+    "admin": "Donets’ka Oblast’",
+    "sort": "5159"
+  }
+]

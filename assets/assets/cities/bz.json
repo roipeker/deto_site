@@ -1,0 +1,47 @@
+[
+  {
+    "city": "Belmopan",
+    "admin": "Cayo",
+    "sort": "17222"
+  },
+  {
+    "city": "Belize City",
+    "admin": "Belize",
+    "sort": "57169"
+  },
+  {
+    "city": "Orange Walk",
+    "admin": "Orange Walk",
+    "sort": "18000"
+  },
+  {
+    "city": "San Ignacio",
+    "admin": "Cayo",
+    "sort": "16977"
+  },
+  {
+    "city": "Dangriga",
+    "admin": "Stann Creek",
+    "sort": "9096"
+  },
+  {
+    "city": "Corozal",
+    "admin": "Corozal",
+    "sort": "8800"
+  },
+  {
+    "city": "Punta Gorda",
+    "admin": "Toledo",
+    "sort": "5026"
+  },
+  {
+    "city": "San Pedro",
+    "admin": "Belize",
+    "sort": "11767"
+  },
+  {
+    "city": "Ladyville",
+    "admin": "Belize",
+    "sort": "5458"
+  }
+]

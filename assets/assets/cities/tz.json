@@ -1,0 +1,322 @@
+[
+  {
+    "city": "Dar es Salaam",
+    "admin": "Dar es Salaam",
+    "sort": "7461000"
+  },
+  {
+    "city": "Dodoma",
+    "admin": "Dodoma",
+    "sort": "410956"
+  },
+  {
+    "city": "Arusha",
+    "admin": "Arusha",
+    "sort": "416442"
+  },
+  {
+    "city": "Mwanza",
+    "admin": "Mwanza",
+    "sort": "385810"
+  },
+  {
+    "city": "Mbeya",
+    "admin": "Mbeya",
+    "sort": "291649"
+  },
+  {
+    "city": "Tanga",
+    "admin": "Tanga",
+    "sort": "243580"
+  },
+  {
+    "city": "Morogoro",
+    "admin": "Morogoro",
+    "sort": "207000"
+  },
+  {
+    "city": "Zanzibar",
+    "admin": "Zanzibar Urban/West",
+    "sort": "205870"
+  },
+  {
+    "city": "Sumbawanga",
+    "admin": "Rukwa",
+    "sort": "147483"
+  },
+  {
+    "city": "Moshi",
+    "admin": "Kilimanjaro",
+    "sort": "144739"
+  },
+  {
+    "city": "Kigoma",
+    "admin": "Kigoma",
+    "sort": "135234"
+  },
+  {
+    "city": "Tabora",
+    "admin": "Tabora",
+    "sort": "127880"
+  },
+  {
+    "city": "Tukuyu",
+    "admin": "Mbeya",
+    "sort": "127570"
+  },
+  {
+    "city": "Iringa",
+    "admin": "Iringa",
+    "sort": "111820"
+  },
+  {
+    "city": "Shinyanga",
+    "admin": "Shinyanga",
+    "sort": "107362"
+  },
+  {
+    "city": "Bukoba",
+    "admin": "Kagera",
+    "sort": "100504"
+  },
+  {
+    "city": "Musoma",
+    "admin": "Mara",
+    "sort": "103497"
+  },
+  {
+    "city": "Songea",
+    "admin": "Ruvuma",
+    "sort": "99961"
+  },
+  {
+    "city": "Mtwara",
+    "admin": "Mtwara",
+    "sort": "92602"
+  },
+  {
+    "city": "Mpanda",
+    "admin": "Katavi",
+    "sort": "73338"
+  },
+  {
+    "city": "Singida",
+    "admin": "Singida",
+    "sort": "62432"
+  },
+  {
+    "city": "Chake Chake",
+    "admin": "Pemba South",
+    "sort": "49959"
+  },
+  {
+    "city": "Njombe",
+    "admin": "Njombe",
+    "sort": "46724"
+  },
+  {
+    "city": "Lindi",
+    "admin": "Lindi",
+    "sort": "41549"
+  },
+  {
+    "city": "Kahama",
+    "admin": "Shinyanga",
+    "sort": "36014"
+  },
+  {
+    "city": "Babati",
+    "admin": "Manyara",
+    "sort": "30975"
+  },
+  {
+    "city": "Wete",
+    "admin": "Pemba North",
+    "sort": "26450"
+  },
+  {
+    "city": "Nzega",
+    "admin": "Tabora",
+    "sort": "26584"
+  },
+  {
+    "city": "Kibaha",
+    "admin": "Coast",
+    "sort": "23050"
+  },
+  {
+    "city": "Bububu",
+    "admin": "Zanzibar Urban/West",
+    "sort": "15666"
+  },
+  {
+    "city": "Bariadi",
+    "admin": "Simiyu",
+    "sort": ""
+  },
+  {
+    "city": "Geita",
+    "admin": "Geita",
+    "sort": "1536"
+  },
+  {
+    "city": "Mahonda",
+    "admin": "Zanzibar North",
+    "sort": ""
+  },
+  {
+    "city": "Vwawa",
+    "admin": "Mbeya",
+    "sort": ""
+  },
+  {
+    "city": "Koani",
+    "admin": "Zanzibar Central/South",
+    "sort": ""
+  },
+  {
+    "city": "Kilosa",
+    "admin": "Morogoro",
+    "sort": "91889"
+  },
+  {
+    "city": "Uvinza",
+    "admin": "Kigoma",
+    "sort": "80350"
+  },
+  {
+    "city": "Ifakara",
+    "admin": "Morogoro",
+    "sort": "49528"
+  },
+  {
+    "city": "Korogwe",
+    "admin": "Tanga",
+    "sort": "44000"
+  },
+  {
+    "city": "Tunduma",
+    "admin": "Mbeya",
+    "sort": "36556"
+  },
+  {
+    "city": "Masasi",
+    "admin": "Mtwara",
+    "sort": "36032"
+  },
+  {
+    "city": "Bagamoyo",
+    "admin": "Coast",
+    "sort": "35000"
+  },
+  {
+    "city": "Biharamulo",
+    "admin": "Kagera",
+    "sort": "34038"
+  },
+  {
+    "city": "Kasulu",
+    "admin": "Kigoma",
+    "sort": "33452"
+  },
+  {
+    "city": "Kibiti",
+    "admin": "Coast",
+    "sort": "30163"
+  },
+  {
+    "city": "Sikonge",
+    "admin": "Tabora",
+    "sort": "27113"
+  },
+  {
+    "city": "Kakonko",
+    "admin": "Kigoma",
+    "sort": "24688"
+  },
+  {
+    "city": "Itigi",
+    "admin": "Singida",
+    "sort": "19711"
+  },
+  {
+    "city": "Mpwapwa",
+    "admin": "Dodoma",
+    "sort": "19806"
+  },
+  {
+    "city": "Ngara",
+    "admin": "Kagera",
+    "sort": "16890"
+  },
+  {
+    "city": "Same",
+    "admin": "Kilimanjaro",
+    "sort": "17455"
+  },
+  {
+    "city": "Mikumi",
+    "admin": "Morogoro",
+    "sort": "16780"
+  },
+  {
+    "city": "Karema",
+    "admin": "Katavi",
+    "sort": "16385"
+  },
+  {
+    "city": "Nyahanga",
+    "admin": "Simiyu",
+    "sort": "16092"
+  },
+  {
+    "city": "Mbulu",
+    "admin": "Manyara",
+    "sort": "13430"
+  },
+  {
+    "city": "Kilindoni",
+    "admin": "Coast",
+    "sort": "12409"
+  },
+  {
+    "city": "Ngorongoro",
+    "admin": "Arusha",
+    "sort": "10836"
+  },
+  {
+    "city": "Mbamba Bay",
+    "admin": "Ruvuma",
+    "sort": "8997"
+  },
+  {
+    "city": "Mkokotoni",
+    "admin": "Zanzibar North",
+    "sort": "2572"
+  },
+  {
+    "city": "Manyoni",
+    "admin": "Singida",
+    "sort": "310"
+  },
+  {
+    "city": "Oldeani",
+    "admin": "Arusha",
+    "sort": "8000"
+  },
+  {
+    "city": "Kipili",
+    "admin": "Rukwa",
+    "sort": "1533"
+  },
+  {
+    "city": "Tunduru",
+    "admin": "Ruvuma",
+    "sort": "600"
+  },
+  {
+    "city": "Kanyato",
+    "admin": "Kigoma",
+    "sort": "232"
+  }
+]

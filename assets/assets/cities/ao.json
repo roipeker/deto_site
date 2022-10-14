@@ -1,0 +1,467 @@
+[
+  {
+    "city": "Luanda",
+    "admin": "Luanda",
+    "sort": "8883000"
+  },
+  {
+    "city": "Cacuaco",
+    "admin": "Luanda",
+    "sort": "1279488"
+  },
+  {
+    "city": "Lubango",
+    "admin": "Huíla",
+    "sort": "776249"
+  },
+  {
+    "city": "Huambo",
+    "admin": "Huambo",
+    "sort": "665564"
+  },
+  {
+    "city": "Benguela",
+    "admin": "Benguela",
+    "sort": "561775"
+  },
+  {
+    "city": "Cabinda",
+    "admin": "Cabinda",
+    "sort": "550000"
+  },
+  {
+    "city": "Belas",
+    "admin": "Luanda",
+    "sort": "500000"
+  },
+  {
+    "city": "Talatona",
+    "admin": "Luanda",
+    "sort": "500000"
+  },
+  {
+    "city": "Lobito",
+    "admin": "Benguela",
+    "sort": "393079"
+  },
+  {
+    "city": "Saurimo",
+    "admin": "Lunda Sul",
+    "sort": "393000"
+  },
+  {
+    "city": "Cubal",
+    "admin": "Benguela",
+    "sort": "357618"
+  },
+  {
+    "city": "Uíge",
+    "admin": "Uíge",
+    "sort": "322531"
+  },
+  {
+    "city": "Menongue",
+    "admin": "Kuando Kubango",
+    "sort": "320914"
+  },
+  {
+    "city": "Vila Teixeira da Silva",
+    "admin": "Huambo",
+    "sort": "294494"
+  },
+  {
+    "city": "Sumbe",
+    "admin": "Kwanza Sul",
+    "sort": "279968"
+  },
+  {
+    "city": "Gabela",
+    "admin": "Kwanza Sul",
+    "sort": "271843"
+  },
+  {
+    "city": "Moçâmedes",
+    "admin": "Namibe",
+    "sort": "255000"
+  },
+  {
+    "city": "Ganda",
+    "admin": "Benguela",
+    "sort": "235486"
+  },
+  {
+    "city": "Barra do Dande",
+    "admin": "Bengo",
+    "sort": "222528"
+  },
+  {
+    "city": "Tchitato",
+    "admin": "Lunda Norte",
+    "sort": "195136"
+  },
+  {
+    "city": "Chibia",
+    "admin": "Huíla",
+    "sort": "190670"
+  },
+  {
+    "city": "Cuango",
+    "admin": "Lunda Norte",
+    "sort": "183767"
+  },
+  {
+    "city": "Catumbela",
+    "admin": "Benguela",
+    "sort": "175805"
+  },
+  {
+    "city": "Catape",
+    "admin": "Huíla",
+    "sort": "167820"
+  },
+  {
+    "city": "Bocoio",
+    "admin": "Benguela",
+    "sort": "164685"
+  },
+  {
+    "city": "Quibala",
+    "admin": "Kwanza Sul",
+    "sort": "163991"
+  },
+  {
+    "city": "Ndalatando",
+    "admin": "Kwanza Norte",
+    "sort": "161584"
+  },
+  {
+    "city": "Quipungo",
+    "admin": "Huíla",
+    "sort": "158918"
+  },
+  {
+    "city": "Lucapa",
+    "admin": "Lunda Norte",
+    "sort": "154305"
+  },
+  {
+    "city": "Mbanza Kongo",
+    "admin": "Zaire",
+    "sort": "148000"
+  },
+  {
+    "city": "Namacunde",
+    "admin": "Cunene",
+    "sort": "142047"
+  },
+  {
+    "city": "Negage",
+    "admin": "Uíge",
+    "sort": "137559"
+  },
+  {
+    "city": "Porto Amboim",
+    "admin": "Kwanza Sul",
+    "sort": "137000"
+  },
+  {
+    "city": "Londuimbali",
+    "admin": "Huambo",
+    "sort": "134254"
+  },
+  {
+    "city": "Chicomba",
+    "admin": "Huíla",
+    "sort": "131807"
+  },
+  {
+    "city": "Chinguar",
+    "admin": "Bié",
+    "sort": "129370"
+  },
+  {
+    "city": "Catabola",
+    "admin": "Bié",
+    "sort": "126631"
+  },
+  {
+    "city": "Malanje",
+    "admin": "Malanje",
+    "sort": "125856"
+  },
+  {
+    "city": "Ondjiva",
+    "admin": "Cunene",
+    "sort": "121537"
+  },
+  {
+    "city": "Catchiungo",
+    "admin": "Huambo",
+    "sort": "120677"
+  },
+  {
+    "city": "Cassongue",
+    "admin": "Kwanza Sul",
+    "sort": "117000"
+  },
+  {
+    "city": "Cuito",
+    "admin": "Bié",
+    "sort": "114000"
+  },
+  {
+    "city": "Quilengues",
+    "admin": "Huíla",
+    "sort": "113825"
+  },
+  {
+    "city": "Mungo",
+    "admin": "Huambo",
+    "sort": "113417"
+  },
+  {
+    "city": "Balombo",
+    "admin": "Benguela",
+    "sort": "108965"
+  },
+  {
+    "city": "Baía Farta",
+    "admin": "Benguela",
+    "sort": "107841"
+  },
+  {
+    "city": "Ndjamba",
+    "admin": "Huíla",
+    "sort": "105090"
+  },
+  {
+    "city": "Caxito",
+    "admin": "Bengo",
+    "sort": "77276"
+  },
+  {
+    "city": "Luena",
+    "admin": "Moxico",
+    "sort": "21115"
+  },
+  {
+    "city": "Dundo",
+    "admin": "Lunda Norte",
+    "sort": "11985"
+  },
+  {
+    "city": "Quilenda",
+    "admin": "Kwanza Sul",
+    "sort": "97648"
+  },
+  {
+    "city": "Caimbambo",
+    "admin": "Benguela",
+    "sort": "90838"
+  },
+  {
+    "city": "Cambambe",
+    "admin": "Kwanza Norte",
+    "sort": "90766"
+  },
+  {
+    "city": "Uacu Cungo",
+    "admin": "Kwanza Sul",
+    "sort": "90000"
+  },
+  {
+    "city": "Luau",
+    "admin": "Moxico",
+    "sort": "90000"
+  },
+  {
+    "city": "Conda",
+    "admin": "Kwanza Sul",
+    "sort": "89479"
+  },
+  {
+    "city": "Humpata",
+    "admin": "Huíla",
+    "sort": "89144"
+  },
+  {
+    "city": "Chongoroi",
+    "admin": "Benguela",
+    "sort": "87278"
+  },
+  {
+    "city": "Capenda Camulemba",
+    "admin": "Lunda Norte",
+    "sort": "80000"
+  },
+  {
+    "city": "Kuvango",
+    "admin": "Huíla",
+    "sort": "78543"
+  },
+  {
+    "city": "Chitembo",
+    "admin": "Bié",
+    "sort": "78156"
+  },
+  {
+    "city": "Cahama",
+    "admin": "Cunene",
+    "sort": "70061"
+  },
+  {
+    "city": "Soio",
+    "admin": "Zaire",
+    "sort": "67491"
+  },
+  {
+    "city": "Chipindo",
+    "admin": "Huíla",
+    "sort": "64714"
+  },
+  {
+    "city": "Camabatela",
+    "admin": "Kwanza Norte",
+    "sort": "61769"
+  },
+  {
+    "city": "Nambuangongo",
+    "admin": "Bengo",
+    "sort": "60883"
+  },
+  {
+    "city": "Cuemba",
+    "admin": "Bié",
+    "sort": "56963"
+  },
+  {
+    "city": "Ucuma",
+    "admin": "Huambo",
+    "sort": "55054"
+  },
+  {
+    "city": "Cuchi",
+    "admin": "Kuando Kubango",
+    "sort": "42974"
+  },
+  {
+    "city": "Cuito Cuanavale",
+    "admin": "Kuando Kubango",
+    "sort": "40829"
+  },
+  {
+    "city": "Porto Alexandre",
+    "admin": "Namibe",
+    "sort": "40000"
+  },
+  {
+    "city": "Tchindjendje",
+    "admin": "Huambo",
+    "sort": "30443"
+  },
+  {
+    "city": "Mavinga",
+    "admin": "Kuando Kubango",
+    "sort": "30000"
+  },
+  {
+    "city": "Caluquembe",
+    "admin": "Huíla",
+    "sort": "25933"
+  },
+  {
+    "city": "Longonjo",
+    "admin": "Huambo",
+    "sort": "24350"
+  },
+  {
+    "city": "Alto-Cuilo",
+    "admin": "Lunda Sul",
+    "sort": "21004"
+  },
+  {
+    "city": "Cacongo",
+    "admin": "Cabinda",
+    "sort": "21000"
+  },
+  {
+    "city": "Lubalo",
+    "admin": "Lunda Norte",
+    "sort": "20631"
+  },
+  {
+    "city": "Camacupa",
+    "admin": "Bié",
+    "sort": "19150"
+  },
+  {
+    "city": "Ambriz",
+    "admin": "Bengo",
+    "sort": "17000"
+  },
+  {
+    "city": "Bolongongo",
+    "admin": "Kwanza Norte",
+    "sort": "13019"
+  },
+  {
+    "city": "Nzeto",
+    "admin": "Zaire",
+    "sort": "11633"
+  },
+  {
+    "city": "Songo",
+    "admin": "Uíge",
+    "sort": "10579"
+  },
+  {
+    "city": "Dondo",
+    "admin": "Kwanza Norte",
+    "sort": "2353"
+  },
+  {
+    "city": "Muconda",
+    "admin": "Lunda Sul",
+    "sort": "2324"
+  },
+  {
+    "city": "Chibemba",
+    "admin": "Huíla",
+    "sort": "1502"
+  },
+  {
+    "city": "Cacolo",
+    "admin": "Lunda Sul",
+    "sort": "984"
+  },
+  {
+    "city": "Xangongo",
+    "admin": "Cunene",
+    "sort": "447"
+  },
+  {
+    "city": "Cazombo",
+    "admin": "Moxico",
+    "sort": "298"
+  },
+  {
+    "city": "Bala Cangamba",
+    "admin": "Moxico",
+    "sort": "1307"
+  },
+  {
+    "city": "Calulo",
+    "admin": "Kwanza Sul",
+    "sort": "795"
+  },
+  {
+    "city": "Calenga",
+    "admin": "Bié",
+    "sort": "531"
+  },
+  {
+    "city": "Tchitado",
+    "admin": "Cunene",
+    "sort": "500"
+  }
+]

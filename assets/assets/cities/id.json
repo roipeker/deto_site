@@ -1,0 +1,702 @@
+[
+  {
+    "city": "Jakarta",
+    "admin": "Jakarta",
+    "sort": "35362000"
+  },
+  {
+    "city": "Bandung",
+    "admin": "Jawa Barat",
+    "sort": "2875673"
+  },
+  {
+    "city": "Surabaya",
+    "admin": "Jawa Timur",
+    "sort": "2885555"
+  },
+  {
+    "city": "Bekasi",
+    "admin": "Jawa Barat",
+    "sort": "2381053"
+  },
+  {
+    "city": "Depok",
+    "admin": "Jawa Barat",
+    "sort": "2330333"
+  },
+  {
+    "city": "Tangerang",
+    "admin": "Jawa Barat",
+    "sort": "2237006"
+  },
+  {
+    "city": "Medan",
+    "admin": "Sumatera Utara",
+    "sort": "2109330"
+  },
+  {
+    "city": "Semarang",
+    "admin": "Jawa Tengah",
+    "sort": "1621384"
+  },
+  {
+    "city": "Palembang",
+    "admin": "Sumatera Selatan",
+    "sort": "1535952"
+  },
+  {
+    "city": "Makassar",
+    "admin": "Sulawesi Selatan",
+    "sort": "1338663"
+  },
+  {
+    "city": "Cilacap",
+    "admin": "Jawa Tengah",
+    "sort": "1174964"
+  },
+  {
+    "city": "Bandar Lampung",
+    "admin": "Lampung",
+    "sort": "1166761"
+  },
+  {
+    "city": "Bogor",
+    "admin": "Jawa Barat",
+    "sort": "1030720"
+  },
+  {
+    "city": "Bagam",
+    "admin": "Kepulauan Riau",
+    "sort": "1029808"
+  },
+  {
+    "city": "Pekanbaru",
+    "admin": "Riau",
+    "sort": "983356"
+  },
+  {
+    "city": "Padang",
+    "admin": "Sumatera Barat",
+    "sort": "914970"
+  },
+  {
+    "city": "Malang",
+    "admin": "Jawa Timur",
+    "sort": "866118"
+  },
+  {
+    "city": "Denpasar",
+    "admin": "Bali",
+    "sort": "834881"
+  },
+  {
+    "city": "Samarinda",
+    "admin": "Kalimantan Timur",
+    "sort": "753370"
+  },
+  {
+    "city": "Banjarmasin",
+    "admin": "Kalimantan Selatan",
+    "sort": "692793"
+  },
+  {
+    "city": "Tasikmalaya",
+    "admin": "Jawa Barat",
+    "sort": "678027"
+  },
+  {
+    "city": "Pontianak",
+    "admin": "Kalimantan Barat",
+    "sort": "618388"
+  },
+  {
+    "city": "Serang",
+    "admin": "Banten",
+    "sort": "613356"
+  },
+  {
+    "city": "Jambi",
+    "admin": "Jambi",
+    "sort": "602187"
+  },
+  {
+    "city": "Cimahi",
+    "admin": "Jawa Barat",
+    "sort": "586580"
+  },
+  {
+    "city": "Balikpapan",
+    "admin": "Kalimantan Timur",
+    "sort": "598043"
+  },
+  {
+    "city": "Surakarta",
+    "admin": "Jawa Tengah",
+    "sort": "552118"
+  },
+  {
+    "city": "Manado",
+    "admin": "Sulawesi Utara",
+    "sort": "461636"
+  },
+  {
+    "city": "Kupang",
+    "admin": "Nusa Tenggara Timur",
+    "sort": "433970"
+  },
+  {
+    "city": "Yogyakarta",
+    "admin": "Yogyakarta",
+    "sort": "422732"
+  },
+  {
+    "city": "Mataram",
+    "admin": "Nusa Tenggara Barat",
+    "sort": "408900"
+  },
+  {
+    "city": "Jayapura",
+    "admin": "Papua",
+    "sort": "413283"
+  },
+  {
+    "city": "Cilegon",
+    "admin": "Banten",
+    "sort": "387543"
+  },
+  {
+    "city": "Ambon",
+    "admin": "Maluku",
+    "sort": "372249"
+  },
+  {
+    "city": "Bengkulu",
+    "admin": "Bengkulu",
+    "sort": "360495"
+  },
+  {
+    "city": "Palu",
+    "admin": "Sulawesi Tengah",
+    "sort": "359350"
+  },
+  {
+    "city": "Kendari",
+    "admin": "Sulawesi Tenggara",
+    "sort": "331013"
+  },
+  {
+    "city": "Sukabumi",
+    "admin": "Jawa Barat",
+    "sort": "320970"
+  },
+  {
+    "city": "Cirebon",
+    "admin": "Jawa Barat",
+    "sort": "316126"
+  },
+  {
+    "city": "Pekalongan",
+    "admin": "Jawa Tengah",
+    "sort": "298386"
+  },
+  {
+    "city": "Jember",
+    "admin": "Jawa Timur",
+    "sort": "298585"
+  },
+  {
+    "city": "Tegal",
+    "admin": "Jawa Tengah",
+    "sort": "275789"
+  },
+  {
+    "city": "Pematangsiantar",
+    "admin": "Sumatera Utara",
+    "sort": "278055"
+  },
+  {
+    "city": "Sorong",
+    "admin": "Papua Barat",
+    "sort": "272349"
+  },
+  {
+    "city": "Majene",
+    "admin": "Sulawesi Barat",
+    "sort": "272377"
+  },
+  {
+    "city": "Binjai",
+    "admin": "Sumatera Utara",
+    "sort": "269053"
+  },
+  {
+    "city": "Dumai",
+    "admin": "Riau",
+    "sort": "264084"
+  },
+  {
+    "city": "Kediri",
+    "admin": "Jawa Timur",
+    "sort": "252000"
+  },
+  {
+    "city": "Palangkaraya",
+    "admin": "Kalimantan Tengah",
+    "sort": "249434"
+  },
+  {
+    "city": "Banda Aceh",
+    "admin": "Aceh",
+    "sort": "235305"
+  },
+  {
+    "city": "Singaraja",
+    "admin": "Bali",
+    "sort": "234468"
+  },
+  {
+    "city": "Singkawang",
+    "admin": "Kalimantan Barat",
+    "sort": "230376"
+  },
+  {
+    "city": "Probolinggo",
+    "admin": "Jawa Timur",
+    "sort": "223159"
+  },
+  {
+    "city": "Padangsidempuan",
+    "admin": "Sumatera Utara",
+    "sort": "225544"
+  },
+  {
+    "city": "Bitung",
+    "admin": "Sulawesi Utara",
+    "sort": "218520"
+  },
+  {
+    "city": "Banjarbaru",
+    "admin": "Kalimantan Selatan",
+    "sort": "216600"
+  },
+  {
+    "city": "Lubuklinggau",
+    "admin": "Sumatera Selatan",
+    "sort": "208225"
+  },
+  {
+    "city": "Ternate",
+    "admin": "Maluku Utara",
+    "sort": "204215"
+  },
+  {
+    "city": "Tanjungpinang",
+    "admin": "Kepulauan Riau",
+    "sort": "203008"
+  },
+  {
+    "city": "Tarakan",
+    "admin": "Kalimantan Utara",
+    "sort": "201635"
+  },
+  {
+    "city": "Martapura",
+    "admin": "Kalimantan Selatan",
+    "sort": "198239"
+  },
+  {
+    "city": "Gorontalo",
+    "admin": "Gorontalo",
+    "sort": "191897"
+  },
+  {
+    "city": "Madiun",
+    "admin": "Jawa Timur",
+    "sort": "186099"
+  },
+  {
+    "city": "Pasuruan",
+    "admin": "Jawa Timur",
+    "sort": "186262"
+  },
+  {
+    "city": "Batu",
+    "admin": "Jawa Timur",
+    "sort": "190184"
+  },
+  {
+    "city": "Prabumulih",
+    "admin": "Sumatera Selatan",
+    "sort": "188082"
+  },
+  {
+    "city": "Banjar",
+    "admin": "Jawa Barat",
+    "sort": "182819"
+  },
+  {
+    "city": "Pinrang",
+    "admin": "Sulawesi Selatan",
+    "sort": "182731"
+  },
+  {
+    "city": "Lhokseumawe",
+    "admin": "Aceh",
+    "sort": "180200"
+  },
+  {
+    "city": "Palopo",
+    "admin": "Sulawesi Selatan",
+    "sort": "180130"
+  },
+  {
+    "city": "Purwakarta",
+    "admin": "Jawa Barat",
+    "sort": "179233"
+  },
+  {
+    "city": "Langsa",
+    "admin": "Aceh",
+    "sort": "178334"
+  },
+  {
+    "city": "Salatiga",
+    "admin": "Jawa Tengah",
+    "sort": "175288"
+  },
+  {
+    "city": "Tebingtinggi",
+    "admin": "Sumatera Utara",
+    "sort": "169786"
+  },
+  {
+    "city": "Banyuwangi",
+    "admin": "Jawa Timur",
+    "sort": "172424"
+  },
+  {
+    "city": "Tanjungbalai",
+    "admin": "Sumatera Utara",
+    "sort": "165763"
+  },
+  {
+    "city": "Metro",
+    "admin": "Lampung",
+    "sort": "161799"
+  },
+  {
+    "city": "Bontang",
+    "admin": "Kalimantan Timur",
+    "sort": "161413"
+  },
+  {
+    "city": "Baubau",
+    "admin": "Sulawesi Tenggara",
+    "sort": "152143"
+  },
+  {
+    "city": "Saumlaki",
+    "admin": "Maluku",
+    "sort": "149790"
+  },
+  {
+    "city": "Mojokerto",
+    "admin": "Jawa Timur",
+    "sort": "130196"
+  },
+  {
+    "city": "Gunungsitoli",
+    "admin": "Sumatera Utara",
+    "sort": "137104"
+  },
+  {
+    "city": "Bima",
+    "admin": "Nusa Tenggara Barat",
+    "sort": "136492"
+  },
+  {
+    "city": "Pageralam",
+    "admin": "Sumatera Selatan",
+    "sort": "136244"
+  },
+  {
+    "city": "Blitar",
+    "admin": "Jawa Timur",
+    "sort": "132018"
+  },
+  {
+    "city": "Parepare",
+    "admin": "Sulawesi Selatan",
+    "sort": "129542"
+  },
+  {
+    "city": "Payakumbuh",
+    "admin": "Sumatera Barat",
+    "sort": "125608"
+  },
+  {
+    "city": "Pangkalpinang",
+    "admin": "Kepulauan Bangka Belitung",
+    "sort": "125933"
+  },
+  {
+    "city": "Magelang",
+    "admin": "Jawa Tengah",
+    "sort": "124912"
+  },
+  {
+    "city": "Indramayu",
+    "admin": "Jawa Barat",
+    "sort": "123263"
+  },
+  {
+    "city": "Pati",
+    "admin": "Jawa Tengah",
+    "sort": "122785"
+  },
+  {
+    "city": "Kotamobagu",
+    "admin": "Sulawesi Utara",
+    "sort": "120597"
+  },
+  {
+    "city": "Bukittinggi",
+    "admin": "Sumatera Barat",
+    "sort": "113326"
+  },
+  {
+    "city": "Raba",
+    "admin": "Nusa Tenggara Barat",
+    "sort": "106101"
+  },
+  {
+    "city": "Maumere",
+    "admin": "Nusa Tenggara Timur",
+    "sort": "104285"
+  },
+  {
+    "city": "Biak",
+    "admin": "Papua",
+    "sort": "103610"
+  },
+  {
+    "city": "Soasio",
+    "admin": "Maluku Utara",
+    "sort": "103171"
+  },
+  {
+    "city": "Sungai Penuh",
+    "admin": "Jambi",
+    "sort": "101325"
+  },
+  {
+    "city": "Sibolga",
+    "admin": "Sumatera Utara",
+    "sort": "94971"
+  },
+  {
+    "city": "Manokwari",
+    "admin": "Papua Barat",
+    "sort": "74504"
+  },
+  {
+    "city": "Padangpanjang",
+    "admin": "Sumatera Barat",
+    "sort": "52422"
+  },
+  {
+    "city": "Kulat",
+    "admin": "Bali",
+    "sort": "30012"
+  },
+  {
+    "city": "Sofifi",
+    "admin": "Maluku Utara",
+    "sort": "2000"
+  },
+  {
+    "city": "Mamuju",
+    "admin": "Sulawesi Barat",
+    "sort": ""
+  },
+  {
+    "city": "Tanjung Selor",
+    "admin": "Kalimantan Utara",
+    "sort": ""
+  },
+  {
+    "city": "Tomohon",
+    "admin": "Sulawesi Utara",
+    "sort": "96411"
+  },
+  {
+    "city": "Sampit",
+    "admin": "Kalimantan Tengah",
+    "sort": "92710"
+  },
+  {
+    "city": "Pariaman",
+    "admin": "Sumatera Barat",
+    "sort": "85485"
+  },
+  {
+    "city": "Sumenep",
+    "admin": "Jawa Timur",
+    "sort": "84656"
+  },
+  {
+    "city": "Tual",
+    "admin": "Maluku",
+    "sort": "82955"
+  },
+  {
+    "city": "Watampone",
+    "admin": "Sulawesi Selatan",
+    "sort": "81629"
+  },
+  {
+    "city": "Subulussalam",
+    "admin": "Aceh",
+    "sort": "78801"
+  },
+  {
+    "city": "Ende",
+    "admin": "Nusa Tenggara Timur",
+    "sort": "77205"
+  },
+  {
+    "city": "Tuban",
+    "admin": "Jawa Timur",
+    "sort": "76242"
+  },
+  {
+    "city": "Solok",
+    "admin": "Sumatera Barat",
+    "sort": "68602"
+  },
+  {
+    "city": "Lahat",
+    "admin": "Sumatera Selatan",
+    "sort": "65906"
+  },
+  {
+    "city": "Meulaboh",
+    "admin": "Aceh",
+    "sort": "64646"
+  },
+  {
+    "city": "Tanjungpandan",
+    "admin": "Kepulauan Bangka Belitung",
+    "sort": "62374"
+  },
+  {
+    "city": "Sawahlunto",
+    "admin": "Sumatera Barat",
+    "sort": "61427"
+  },
+  {
+    "city": "Ruteng",
+    "admin": "Nusa Tenggara Timur",
+    "sort": "53976"
+  },
+  {
+    "city": "Waingapu",
+    "admin": "Nusa Tenggara Timur",
+    "sort": "48828"
+  },
+  {
+    "city": "Luwuk",
+    "admin": "Sulawesi Tengah",
+    "sort": "47778"
+  },
+  {
+    "city": "Amahai",
+    "admin": "Maluku",
+    "sort": "47653"
+  },
+  {
+    "city": "Poso",
+    "admin": "Sulawesi Tengah",
+    "sort": "47110"
+  },
+  {
+    "city": "Pemangkat",
+    "admin": "Kalimantan Barat",
+    "sort": "44783"
+  },
+  {
+    "city": "Nabire",
+    "admin": "Papua",
+    "sort": "43898"
+  },
+  {
+    "city": "Rantepao",
+    "admin": "Sulawesi Selatan",
+    "sort": "43123"
+  },
+  {
+    "city": "Kotabumi",
+    "admin": "Lampung",
+    "sort": "42366"
+  },
+  {
+    "city": "Amuntai",
+    "admin": "Kalimantan Selatan",
+    "sort": "41554"
+  },
+  {
+    "city": "Sabang",
+    "admin": "Aceh",
+    "sort": "38077"
+  },
+  {
+    "city": "Praya",
+    "admin": "Nusa Tenggara Barat",
+    "sort": "35183"
+  },
+  {
+    "city": "Kuala Kapuas",
+    "admin": "Kalimantan Tengah",
+    "sort": "35632"
+  },
+  {
+    "city": "Merauke",
+    "admin": "Papua",
+    "sort": "34412"
+  },
+  {
+    "city": "Tinipuka",
+    "admin": "Papua",
+    "sort": "26021"
+  },
+  {
+    "city": "Ubud",
+    "admin": "Bali",
+    "sort": "10873"
+  },
+  {
+    "city": "Makale",
+    "admin": "Sulawesi Selatan",
+    "sort": "9960"
+  },
+  {
+    "city": "Padang Bulan",
+    "admin": "Riau",
+    "sort": "7745"
+  },
+  {
+    "city": "Cipeutir",
+    "admin": "Jawa Barat",
+    "sort": "5716"
+  },
+  {
+    "city": "Tarutung",
+    "admin": "Sumatera Utara",
+    "sort": "1305"
+  },
+  {
+    "city": "Buton",
+    "admin": "Kepulauan Riau",
+    "sort": "140"
+  }
+]

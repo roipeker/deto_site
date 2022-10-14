@@ -1,0 +1,207 @@
+[
+  {
+    "city": "Dublin",
+    "admin": "Dublin",
+    "sort": "553165"
+  },
+  {
+    "city": "Cork",
+    "admin": "Cork",
+    "sort": "208669"
+  },
+  {
+    "city": "Galway",
+    "admin": "Galway",
+    "sort": "79504"
+  },
+  {
+    "city": "Limerick",
+    "admin": "Limerick",
+    "sort": "58319"
+  },
+  {
+    "city": "Waterford",
+    "admin": "Waterford",
+    "sort": "48369"
+  },
+  {
+    "city": "Drogheda",
+    "admin": "Louth",
+    "sort": "40956"
+  },
+  {
+    "city": "Dún Dealgan",
+    "admin": "Louth",
+    "sort": "39004"
+  },
+  {
+    "city": "Swords",
+    "admin": "Fingal",
+    "sort": "36924"
+  },
+  {
+    "city": "Blackrock",
+    "admin": "Dún Laoghaire-Rathdown",
+    "sort": "28557"
+  },
+  {
+    "city": "Tralee",
+    "admin": "Kerry",
+    "sort": "26384"
+  },
+  {
+    "city": "Dunleary",
+    "admin": "Dún Laoghaire-Rathdown",
+    "sort": "23857"
+  },
+  {
+    "city": "Ennis",
+    "admin": "Clare",
+    "sort": "24253"
+  },
+  {
+    "city": "Carlow",
+    "admin": "Carlow",
+    "sort": "24272"
+  },
+  {
+    "city": "Naas",
+    "admin": "Kildare",
+    "sort": "21393"
+  },
+  {
+    "city": "Wexford",
+    "admin": "Wexford",
+    "sort": "20188"
+  },
+  {
+    "city": "Kilkenny",
+    "admin": "Kilkenny",
+    "sort": "22179"
+  },
+  {
+    "city": "Sligo",
+    "admin": "Sligo",
+    "sort": "19199"
+  },
+  {
+    "city": "Monaghan",
+    "admin": "Monaghan",
+    "sort": "5937"
+  },
+  {
+    "city": "Ros Comáin",
+    "admin": "Roscommon",
+    "sort": "4860"
+  },
+  {
+    "city": "Tallaght",
+    "admin": "South Dublin",
+    "sort": ""
+  },
+  {
+    "city": "Wicklow",
+    "admin": "Wicklow",
+    "sort": ""
+  },
+  {
+    "city": "Clonmel",
+    "admin": "Tipperary",
+    "sort": ""
+  },
+  {
+    "city": "Trim",
+    "admin": "Meath",
+    "sort": ""
+  },
+  {
+    "city": "Carrick on Shannon",
+    "admin": "Leitrim",
+    "sort": ""
+  },
+  {
+    "city": "Tullamore",
+    "admin": "Offaly",
+    "sort": ""
+  },
+  {
+    "city": "Castlebar",
+    "admin": "Mayo",
+    "sort": ""
+  },
+  {
+    "city": "Mullingar",
+    "admin": "Westmeath",
+    "sort": ""
+  },
+  {
+    "city": "Longford",
+    "admin": "Longford",
+    "sort": ""
+  },
+  {
+    "city": "Nenagh",
+    "admin": "Tipperary",
+    "sort": ""
+  },
+  {
+    "city": "Port Laoise",
+    "admin": "Laois",
+    "sort": ""
+  },
+  {
+    "city": "An Cabhán",
+    "admin": "Cavan",
+    "sort": ""
+  },
+  {
+    "city": "Lifford",
+    "admin": "Donegal",
+    "sort": ""
+  },
+  {
+    "city": "Leixlip",
+    "admin": "Kildare",
+    "sort": "15504"
+  },
+  {
+    "city": "Cobh",
+    "admin": "Cork",
+    "sort": "12347"
+  },
+  {
+    "city": "Killarney",
+    "admin": "Kerry",
+    "sort": "11902"
+  },
+  {
+    "city": "Shannon",
+    "admin": "Clare",
+    "sort": "9222"
+  },
+  {
+    "city": "Dungarvan",
+    "admin": "Waterford",
+    "sort": "7991"
+  },
+  {
+    "city": "Kildare",
+    "admin": "Kildare",
+    "sort": "7538"
+  },
+  {
+    "city": "Carrigtohill",
+    "admin": "Cork",
+    "sort": "6665"
+  },
+  {
+    "city": "Dunboyne",
+    "admin": "Meath",
+    "sort": "5713"
+  },
+  {
+    "city": "Donegal",
+    "admin": "Donegal",
+    "sort": "2618"
+  }
+]

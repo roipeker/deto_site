@@ -1,0 +1,10702 @@
+[
+  {
+    "city": "Rome",
+    "admin": "Lazio",
+    "sort": "2872800"
+  },
+  {
+    "city": "Milan",
+    "admin": "Lombardy",
+    "sort": "1366180"
+  },
+  {
+    "city": "Naples",
+    "admin": "Campania",
+    "sort": "966144"
+  },
+  {
+    "city": "Turin",
+    "admin": "Piedmont",
+    "sort": "870952"
+  },
+  {
+    "city": "Palermo",
+    "admin": "Sicilia",
+    "sort": "668405"
+  },
+  {
+    "city": "Genoa",
+    "admin": "Liguria",
+    "sort": "580097"
+  },
+  {
+    "city": "Bologna",
+    "admin": "Emilia-Romagna",
+    "sort": "389261"
+  },
+  {
+    "city": "Florence",
+    "admin": "Tuscany",
+    "sort": "380948"
+  },
+  {
+    "city": "Bari",
+    "admin": "Puglia",
+    "sort": "323370"
+  },
+  {
+    "city": "Catania",
+    "admin": "Sicilia",
+    "sort": "311584"
+  },
+  {
+    "city": "Venice",
+    "admin": "Veneto",
+    "sort": "261321"
+  },
+  {
+    "city": "Verona",
+    "admin": "Veneto",
+    "sort": "257275"
+  },
+  {
+    "city": "Messina",
+    "admin": "Sicilia",
+    "sort": "234293"
+  },
+  {
+    "city": "Padova",
+    "admin": "Veneto",
+    "sort": "210440"
+  },
+  {
+    "city": "Trieste",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "204338"
+  },
+  {
+    "city": "Taranto",
+    "admin": "Puglia",
+    "sort": "198283"
+  },
+  {
+    "city": "Brescia",
+    "admin": "Lombardy",
+    "sort": "196745"
+  },
+  {
+    "city": "Parma",
+    "admin": "Emilia-Romagna",
+    "sort": "195687"
+  },
+  {
+    "city": "Prato",
+    "admin": "Tuscany",
+    "sort": "193325"
+  },
+  {
+    "city": "Modena",
+    "admin": "Emilia-Romagna",
+    "sort": "185273"
+  },
+  {
+    "city": "Reggio di Calabria",
+    "admin": "Calabria",
+    "sort": "181447"
+  },
+  {
+    "city": "Reggio Emilia",
+    "admin": "Emilia-Romagna",
+    "sort": "171944"
+  },
+  {
+    "city": "Perugia",
+    "admin": "Umbria",
+    "sort": "165683"
+  },
+  {
+    "city": "Livorno",
+    "admin": "Tuscany",
+    "sort": "158371"
+  },
+  {
+    "city": "Ravenna",
+    "admin": "Emilia-Romagna",
+    "sort": "159115"
+  },
+  {
+    "city": "Cagliari",
+    "admin": "Sardegna",
+    "sort": "154106"
+  },
+  {
+    "city": "Foggia",
+    "admin": "Puglia",
+    "sort": "151372"
+  },
+  {
+    "city": "Rimini",
+    "admin": "Emilia-Romagna",
+    "sort": "149403"
+  },
+  {
+    "city": "Salerno",
+    "admin": "Campania",
+    "sort": "133970"
+  },
+  {
+    "city": "Ferrara",
+    "admin": "Emilia-Romagna",
+    "sort": "132278"
+  },
+  {
+    "city": "Monza",
+    "admin": "Lombardy",
+    "sort": "123598"
+  },
+  {
+    "city": "Latina",
+    "admin": "Lazio",
+    "sort": "126470"
+  },
+  {
+    "city": "Giugliano in Campania",
+    "admin": "Campania",
+    "sort": "124361"
+  },
+  {
+    "city": "Bergamo",
+    "admin": "Lombardy",
+    "sort": "120923"
+  },
+  {
+    "city": "Pescara",
+    "admin": "Abruzzo",
+    "sort": "119217"
+  },
+  {
+    "city": "Siracusa",
+    "admin": "Sicilia",
+    "sort": "121171"
+  },
+  {
+    "city": "Trento",
+    "admin": "Trentino-Alto Adige",
+    "sort": "117997"
+  },
+  {
+    "city": "Forlì",
+    "admin": "Emilia-Romagna",
+    "sort": "117863"
+  },
+  {
+    "city": "Sassari",
+    "admin": "Sardegna",
+    "sort": "116641"
+  },
+  {
+    "city": "Vicenza",
+    "admin": "Veneto",
+    "sort": "111620"
+  },
+  {
+    "city": "Terni",
+    "admin": "Umbria",
+    "sort": "111189"
+  },
+  {
+    "city": "Bolzano",
+    "admin": "Trentino-Alto Adige",
+    "sort": "107317"
+  },
+  {
+    "city": "Novara",
+    "admin": "Piedmont",
+    "sort": "104183"
+  },
+  {
+    "city": "Piacenza",
+    "admin": "Emilia-Romagna",
+    "sort": "103082"
+  },
+  {
+    "city": "Mestre",
+    "admin": "Veneto",
+    "sort": "89376"
+  },
+  {
+    "city": "Ancona",
+    "admin": "Marche",
+    "sort": "100924"
+  },
+  {
+    "city": "Catanzaro",
+    "admin": "Calabria",
+    "sort": "89718"
+  },
+  {
+    "city": "Sesto San Giovanni",
+    "admin": "Lombardy",
+    "sort": "81773"
+  },
+  {
+    "city": "Torre del Greco",
+    "admin": "Campania",
+    "sort": "85332"
+  },
+  {
+    "city": "Busto Arsizio",
+    "admin": "Lombardy",
+    "sort": "83045"
+  },
+  {
+    "city": "Como",
+    "admin": "Lombardy",
+    "sort": "83320"
+  },
+  {
+    "city": "Casoria",
+    "admin": "Campania",
+    "sort": "77087"
+  },
+  {
+    "city": "Cinisello Balsamo",
+    "admin": "Lombardy",
+    "sort": "75723"
+  },
+  {
+    "city": "Ragusa",
+    "admin": "Sicilia",
+    "sort": "73638"
+  },
+  {
+    "city": "Castellammare di Stabia",
+    "admin": "Campania",
+    "sort": "65922"
+  },
+  {
+    "city": "L’Aquila",
+    "admin": "Abruzzo",
+    "sort": "69439"
+  },
+  {
+    "city": "Portici",
+    "admin": "Campania",
+    "sort": "54577"
+  },
+  {
+    "city": "Afragola",
+    "admin": "Campania",
+    "sort": "64817"
+  },
+  {
+    "city": "Potenza",
+    "admin": "Basilicata",
+    "sort": "67211"
+  },
+  {
+    "city": "Marano di Napoli",
+    "admin": "Campania",
+    "sort": "59862"
+  },
+  {
+    "city": "Legnano",
+    "admin": "Lombardy",
+    "sort": "60177"
+  },
+  {
+    "city": "Aversa",
+    "admin": "Campania",
+    "sort": "52794"
+  },
+  {
+    "city": "San Giorgio a Cremano",
+    "admin": "Campania",
+    "sort": "45122"
+  },
+  {
+    "city": "Gallarate",
+    "admin": "Lombardy",
+    "sort": "53425"
+  },
+  {
+    "city": "Ercolano",
+    "admin": "Campania",
+    "sort": "52763"
+  },
+  {
+    "city": "Cologno Monzese",
+    "admin": "Lombardy",
+    "sort": "47720"
+  },
+  {
+    "city": "Scafati",
+    "admin": "Campania",
+    "sort": "50686"
+  },
+  {
+    "city": "Rho",
+    "admin": "Lombardy",
+    "sort": "50904"
+  },
+  {
+    "city": "Collegno",
+    "admin": "Piedmont",
+    "sort": "49597"
+  },
+  {
+    "city": "Lissone",
+    "admin": "Lombardy",
+    "sort": "45535"
+  },
+  {
+    "city": "Campobasso",
+    "admin": "Molise",
+    "sort": "49262"
+  },
+  {
+    "city": "Nichelino",
+    "admin": "Piedmont",
+    "sort": "47721"
+  },
+  {
+    "city": "Paderno Dugnano",
+    "admin": "Lombardy",
+    "sort": "46701"
+  },
+  {
+    "city": "Seregno",
+    "admin": "Lombardy",
+    "sort": "45131"
+  },
+  {
+    "city": "Torre Annunziata",
+    "admin": "Campania",
+    "sort": "42406"
+  },
+  {
+    "city": "Melito di Napoli",
+    "admin": "Campania",
+    "sort": "37943"
+  },
+  {
+    "city": "Rozzano",
+    "admin": "Lombardy",
+    "sort": "42442"
+  },
+  {
+    "city": "Desio",
+    "admin": "Lombardy",
+    "sort": "42079"
+  },
+  {
+    "city": "Pomigliano d’Arco",
+    "admin": "Campania",
+    "sort": "39819"
+  },
+  {
+    "city": "Saronno",
+    "admin": "Lombardy",
+    "sort": "39419"
+  },
+  {
+    "city": "Cesano Maderno",
+    "admin": "Lombardy",
+    "sort": "38637"
+  },
+  {
+    "city": "Mugnano di Napoli",
+    "admin": "Campania",
+    "sort": "34996"
+  },
+  {
+    "city": "Ciampino",
+    "admin": "Lazio",
+    "sort": "38645"
+  },
+  {
+    "city": "Arzano",
+    "admin": "Campania",
+    "sort": "34217"
+  },
+  {
+    "city": "Corsico",
+    "admin": "Lombardy",
+    "sort": "34727"
+  },
+  {
+    "city": "Grugliasco",
+    "admin": "Piedmont",
+    "sort": "37592"
+  },
+  {
+    "city": "Pioltello",
+    "admin": "Lombardy",
+    "sort": "36920"
+  },
+  {
+    "city": "Sant’Antimo",
+    "admin": "Campania",
+    "sort": "33892"
+  },
+  {
+    "city": "Bollate",
+    "admin": "Lombardy",
+    "sort": "36486"
+  },
+  {
+    "city": "Casalecchio di Reno",
+    "admin": "Emilia-Romagna",
+    "sort": "36456"
+  },
+  {
+    "city": "Brugherio",
+    "admin": "Lombardy",
+    "sort": "34868"
+  },
+  {
+    "city": "Limbiate",
+    "admin": "Lombardy",
+    "sort": "35141"
+  },
+  {
+    "city": "Riccione Marina",
+    "admin": "Emilia-Romagna",
+    "sort": "35003"
+  },
+  {
+    "city": "Cernusco sul Naviglio",
+    "admin": "Lombardy",
+    "sort": "34341"
+  },
+  {
+    "city": "Angri",
+    "admin": "Campania",
+    "sort": "34126"
+  },
+  {
+    "city": "Villaricca",
+    "admin": "Campania",
+    "sort": "31223"
+  },
+  {
+    "city": "Aosta",
+    "admin": "Valle d’Aosta",
+    "sort": "34082"
+  },
+  {
+    "city": "Frattamaggiore",
+    "admin": "Campania",
+    "sort": "29738"
+  },
+  {
+    "city": "San Donato Milanese",
+    "admin": "Lombardy",
+    "sort": "32664"
+  },
+  {
+    "city": "Santa Maria Capua Vetere",
+    "admin": "Campania",
+    "sort": "32893"
+  },
+  {
+    "city": "Bresso",
+    "admin": "Lombardy",
+    "sort": "26259"
+  },
+  {
+    "city": "San Giuseppe Vesuviano",
+    "admin": "Campania",
+    "sort": "31612"
+  },
+  {
+    "city": "Aci Catena",
+    "admin": "Sicilia",
+    "sort": "29418"
+  },
+  {
+    "city": "Boscoreale",
+    "admin": "Campania",
+    "sort": "27927"
+  },
+  {
+    "city": "Garbagnate Milanese",
+    "admin": "Lombardy",
+    "sort": "27155"
+  },
+  {
+    "city": "Chiavari",
+    "admin": "Liguria",
+    "sort": "27410"
+  },
+  {
+    "city": "Cardito",
+    "admin": "Campania",
+    "sort": "22601"
+  },
+  {
+    "city": "Qualiano",
+    "admin": "Campania",
+    "sort": "25755"
+  },
+  {
+    "city": "Muggiò",
+    "admin": "Lombardy",
+    "sort": "23581"
+  },
+  {
+    "city": "Seriate",
+    "admin": "Lombardy",
+    "sort": "25358"
+  },
+  {
+    "city": "Pompei",
+    "admin": "Campania",
+    "sort": "25207"
+  },
+  {
+    "city": "Seveso",
+    "admin": "Lombardy",
+    "sort": "23456"
+  },
+  {
+    "city": "Meda",
+    "admin": "Lombardy",
+    "sort": "23463"
+  },
+  {
+    "city": "San Giovanni la Punta",
+    "admin": "Sicilia",
+    "sort": "23399"
+  },
+  {
+    "city": "Cusano Milanino",
+    "admin": "Lombardy",
+    "sort": "18797"
+  },
+  {
+    "city": "Cormano",
+    "admin": "Lombardy",
+    "sort": "20019"
+  },
+  {
+    "city": "Frattaminore",
+    "admin": "Campania",
+    "sort": "16131"
+  },
+  {
+    "city": "Senago",
+    "admin": "Lombardy",
+    "sort": "21500"
+  },
+  {
+    "city": "Novate Milanese",
+    "admin": "Lombardy",
+    "sort": "20003"
+  },
+  {
+    "city": "Monserrato",
+    "admin": "Sardegna",
+    "sort": "19771"
+  },
+  {
+    "city": "Trentola",
+    "admin": "Campania",
+    "sort": "19844"
+  },
+  {
+    "city": "Ischia",
+    "admin": "Campania",
+    "sort": "20118"
+  },
+  {
+    "city": "Arese",
+    "admin": "Lombardy",
+    "sort": "19347"
+  },
+  {
+    "city": "Cercola",
+    "admin": "Campania",
+    "sort": "18007"
+  },
+  {
+    "city": "Sant’Antonio Abate",
+    "admin": "Campania",
+    "sort": "19704"
+  },
+  {
+    "city": "Melegnano",
+    "admin": "Lombardy",
+    "sort": "18127"
+  },
+  {
+    "city": "Beinasco",
+    "admin": "Piedmont",
+    "sort": "17856"
+  },
+  {
+    "city": "Cattolica",
+    "admin": "Emilia-Romagna",
+    "sort": "17177"
+  },
+  {
+    "city": "Brusciano",
+    "admin": "Campania",
+    "sort": "16371"
+  },
+  {
+    "city": "Sant’Arpino",
+    "admin": "Campania",
+    "sort": "14606"
+  },
+  {
+    "city": "Casandrino",
+    "admin": "Campania",
+    "sort": "14125"
+  },
+  {
+    "city": "Castellanza",
+    "admin": "Lombardy",
+    "sort": "14340"
+  },
+  {
+    "city": "Baranzate",
+    "admin": "Lombardy",
+    "sort": "12003"
+  },
+  {
+    "city": "Solaro",
+    "admin": "Lombardy",
+    "sort": "14163"
+  },
+  {
+    "city": "Varedo",
+    "admin": "Lombardy",
+    "sort": "13446"
+  },
+  {
+    "city": "Monte di Procida",
+    "admin": "Campania",
+    "sort": "12743"
+  },
+  {
+    "city": "Calvizzano",
+    "admin": "Campania",
+    "sort": "12182"
+  },
+  {
+    "city": "Canegrate",
+    "admin": "Lombardy",
+    "sort": "12574"
+  },
+  {
+    "city": "Biassono",
+    "admin": "Lombardy",
+    "sort": "12164"
+  },
+  {
+    "city": "San Gregorio di Catania",
+    "admin": "Sicilia",
+    "sort": "11880"
+  },
+  {
+    "city": "Capodrise",
+    "admin": "Campania",
+    "sort": "10133"
+  },
+  {
+    "city": "Procida",
+    "admin": "Campania",
+    "sort": "10465"
+  },
+  {
+    "city": "San Marzano sul Sarno",
+    "admin": "Campania",
+    "sort": "10499"
+  },
+  {
+    "city": "Cesa",
+    "admin": "Campania",
+    "sort": "9039"
+  },
+  {
+    "city": "Portico di Caserta",
+    "admin": "Campania",
+    "sort": "7903"
+  },
+  {
+    "city": "Casapulla",
+    "admin": "Campania",
+    "sort": "8597"
+  },
+  {
+    "city": "Sant’Agnello",
+    "admin": "Campania",
+    "sort": "9125"
+  },
+  {
+    "city": "Torre Boldone",
+    "admin": "Lombardy",
+    "sort": "8755"
+  },
+  {
+    "city": "Mariglianella",
+    "admin": "Campania",
+    "sort": "7924"
+  },
+  {
+    "city": "Recale",
+    "admin": "Campania",
+    "sort": "7710"
+  },
+  {
+    "city": "Rovellasca",
+    "admin": "Lombardy",
+    "sort": "7797"
+  },
+  {
+    "city": "Cimitile",
+    "admin": "Campania",
+    "sort": "7167"
+  },
+  {
+    "city": "Barlassina",
+    "admin": "Lombardy",
+    "sort": "7015"
+  },
+  {
+    "city": "Carnate",
+    "admin": "Lombardy",
+    "sort": "7327"
+  },
+  {
+    "city": "Isola delle Femmine",
+    "admin": "Sicilia",
+    "sort": "7249"
+  },
+  {
+    "city": "Gorle",
+    "admin": "Lombardy",
+    "sort": "6557"
+  },
+  {
+    "city": "Albiate",
+    "admin": "Lombardy",
+    "sort": "6352"
+  },
+  {
+    "city": "Udine",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "99518"
+  },
+  {
+    "city": "Andria",
+    "admin": "Puglia",
+    "sort": "99857"
+  },
+  {
+    "city": "Arezzo",
+    "admin": "Tuscany",
+    "sort": "99419"
+  },
+  {
+    "city": "Cesena",
+    "admin": "Emilia-Romagna",
+    "sort": "96760"
+  },
+  {
+    "city": "Pesaro",
+    "admin": "Marche",
+    "sort": "94958"
+  },
+  {
+    "city": "Lecce",
+    "admin": "Puglia",
+    "sort": "95441"
+  },
+  {
+    "city": "Barletta",
+    "admin": "Puglia",
+    "sort": "94477"
+  },
+  {
+    "city": "Alessandria",
+    "admin": "Piedmont",
+    "sort": "93980"
+  },
+  {
+    "city": "La Spezia",
+    "admin": "Liguria",
+    "sort": "93311"
+  },
+  {
+    "city": "Pisa",
+    "admin": "Tuscany",
+    "sort": "90118"
+  },
+  {
+    "city": "Pistoia",
+    "admin": "Tuscany",
+    "sort": "90195"
+  },
+  {
+    "city": "Lucca",
+    "admin": "Tuscany",
+    "sort": "89243"
+  },
+  {
+    "city": "Brindisi",
+    "admin": "Puglia",
+    "sort": "87141"
+  },
+  {
+    "city": "Treviso",
+    "admin": "Veneto",
+    "sort": "84954"
+  },
+  {
+    "city": "Marsala",
+    "admin": "Sicilia",
+    "sort": "82802"
+  },
+  {
+    "city": "Pozzuoli",
+    "admin": "Campania",
+    "sort": "81141"
+  },
+  {
+    "city": "Grosseto",
+    "admin": "Tuscany",
+    "sort": "82036"
+  },
+  {
+    "city": "Varese",
+    "admin": "Lombardy",
+    "sort": "80544"
+  },
+  {
+    "city": "Fiumicino",
+    "admin": "Lazio",
+    "sort": "79630"
+  },
+  {
+    "city": "Caserta",
+    "admin": "Campania",
+    "sort": "75561"
+  },
+  {
+    "city": "Asti",
+    "admin": "Piedmont",
+    "sort": "76211"
+  },
+  {
+    "city": "Gela",
+    "admin": "Sicilia",
+    "sort": "74858"
+  },
+  {
+    "city": "Pavia",
+    "admin": "Lombardy",
+    "sort": "72773"
+  },
+  {
+    "city": "Cremona",
+    "admin": "Lombardy",
+    "sort": "72077"
+  },
+  {
+    "city": "Carpi",
+    "admin": "Emilia-Romagna",
+    "sort": "71148"
+  },
+  {
+    "city": "Quartu Sant’Elena",
+    "admin": "Sardegna",
+    "sort": "70879"
+  },
+  {
+    "city": "Altamura",
+    "admin": "Puglia",
+    "sort": "70514"
+  },
+  {
+    "city": "Imola",
+    "admin": "Emilia-Romagna",
+    "sort": "69936"
+  },
+  {
+    "city": "Massa",
+    "admin": "Tuscany",
+    "sort": "69037"
+  },
+  {
+    "city": "Cosenza",
+    "admin": "Calabria",
+    "sort": "67239"
+  },
+  {
+    "city": "Viterbo",
+    "admin": "Lazio",
+    "sort": "67798"
+  },
+  {
+    "city": "Trapani",
+    "admin": "Sicilia",
+    "sort": "67923"
+  },
+  {
+    "city": "Vittoria",
+    "admin": "Sicilia",
+    "sort": "64212"
+  },
+  {
+    "city": "Pomezia",
+    "admin": "Lazio",
+    "sort": "63641"
+  },
+  {
+    "city": "Crotone",
+    "admin": "Calabria",
+    "sort": "63941"
+  },
+  {
+    "city": "Vigevano",
+    "admin": "Lombardy",
+    "sort": "63153"
+  },
+  {
+    "city": "Carrara",
+    "admin": "Tuscany",
+    "sort": "62537"
+  },
+  {
+    "city": "Caltanissetta",
+    "admin": "Sicilia",
+    "sort": "62317"
+  },
+  {
+    "city": "Viareggio",
+    "admin": "Tuscany",
+    "sort": "62079"
+  },
+  {
+    "city": "Fano",
+    "admin": "Marche",
+    "sort": "60978"
+  },
+  {
+    "city": "Acerra",
+    "admin": "Campania",
+    "sort": "59910"
+  },
+  {
+    "city": "Savona",
+    "admin": "Liguria",
+    "sort": "60632"
+  },
+  {
+    "city": "Matera",
+    "admin": "Basilicata",
+    "sort": "60403"
+  },
+  {
+    "city": "Molfetta",
+    "admin": "Puglia",
+    "sort": "59470"
+  },
+  {
+    "city": "Olbia",
+    "admin": "Sardegna",
+    "sort": "60261"
+  },
+  {
+    "city": "Benevento",
+    "admin": "Campania",
+    "sort": "59789"
+  },
+  {
+    "city": "Agrigento",
+    "admin": "Sicilia",
+    "sort": "59329"
+  },
+  {
+    "city": "Faenza",
+    "admin": "Emilia-Romagna",
+    "sort": "58797"
+  },
+  {
+    "city": "Cerignola",
+    "admin": "Puglia",
+    "sort": "58540"
+  },
+  {
+    "city": "Moncalieri",
+    "admin": "Piedmont",
+    "sort": "57234"
+  },
+  {
+    "city": "Foligno",
+    "admin": "Umbria",
+    "sort": "56999"
+  },
+  {
+    "city": "Manfredonia",
+    "admin": "Puglia",
+    "sort": "56906"
+  },
+  {
+    "city": "Bagheria",
+    "admin": "Sicilia",
+    "sort": "55047"
+  },
+  {
+    "city": "Cuneo",
+    "admin": "Piedmont",
+    "sort": "56281"
+  },
+  {
+    "city": "Tivoli",
+    "admin": "Lazio",
+    "sort": "56542"
+  },
+  {
+    "city": "Trani",
+    "admin": "Puglia",
+    "sort": "56031"
+  },
+  {
+    "city": "Bisceglie",
+    "admin": "Puglia",
+    "sort": "55385"
+  },
+  {
+    "city": "San Remo",
+    "admin": "Liguria",
+    "sort": "54529"
+  },
+  {
+    "city": "Bitonto",
+    "admin": "Puglia",
+    "sort": "55127"
+  },
+  {
+    "city": "Modica",
+    "admin": "Sicilia",
+    "sort": "54530"
+  },
+  {
+    "city": "Teramo",
+    "admin": "Abruzzo",
+    "sort": "54338"
+  },
+  {
+    "city": "Cava de’ Tirreni",
+    "admin": "Campania",
+    "sort": "53130"
+  },
+  {
+    "city": "Montesilvano",
+    "admin": "Abruzzo",
+    "sort": "54194"
+  },
+  {
+    "city": "Siena",
+    "admin": "Tuscany",
+    "sort": "53901"
+  },
+  {
+    "city": "Avellino",
+    "admin": "Campania",
+    "sort": "53908"
+  },
+  {
+    "city": "Velletri",
+    "admin": "Lazio",
+    "sort": "53188"
+  },
+  {
+    "city": "Anzio",
+    "admin": "Lazio",
+    "sort": "52381"
+  },
+  {
+    "city": "Acireale",
+    "admin": "Sicilia",
+    "sort": "52269"
+  },
+  {
+    "city": "San Severo",
+    "admin": "Puglia",
+    "sort": "53015"
+  },
+  {
+    "city": "Pordenone",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "51127"
+  },
+  {
+    "city": "Civitavecchia",
+    "admin": "Lazio",
+    "sort": "51595"
+  },
+  {
+    "city": "Battipaglia",
+    "admin": "Campania",
+    "sort": "51005"
+  },
+  {
+    "city": "Mazara del Vallo",
+    "admin": "Sicilia",
+    "sort": "51488"
+  },
+  {
+    "city": "Chieti",
+    "admin": "Abruzzo",
+    "sort": "50770"
+  },
+  {
+    "city": "Rovigo",
+    "admin": "Veneto",
+    "sort": "51149"
+  },
+  {
+    "city": "Scandicci",
+    "admin": "Tuscany",
+    "sort": "50645"
+  },
+  {
+    "city": "Misterbianco",
+    "admin": "Sicilia",
+    "sort": "49992"
+  },
+  {
+    "city": "Nettuno",
+    "admin": "Lazio",
+    "sort": "49852"
+  },
+  {
+    "city": "Ardea",
+    "admin": "Lazio",
+    "sort": "49663"
+  },
+  {
+    "city": "Casalnuovo di Napoli",
+    "admin": "Campania",
+    "sort": "49250"
+  },
+  {
+    "city": "Rivoli",
+    "admin": "Piedmont",
+    "sort": "48629"
+  },
+  {
+    "city": "Mantova",
+    "admin": "Lombardy",
+    "sort": "49409"
+  },
+  {
+    "city": "Sesto Fiorentino",
+    "admin": "Tuscany",
+    "sort": "49091"
+  },
+  {
+    "city": "Chioggia",
+    "admin": "Veneto",
+    "sort": "49430"
+  },
+  {
+    "city": "Empoli",
+    "admin": "Tuscany",
+    "sort": "48626"
+  },
+  {
+    "city": "Monopoli",
+    "admin": "Puglia",
+    "sort": "48964"
+  },
+  {
+    "city": "Lecco",
+    "admin": "Lombardy",
+    "sort": "48177"
+  },
+  {
+    "city": "San Benedetto del Tronto",
+    "admin": "Marche",
+    "sort": "47351"
+  },
+  {
+    "city": "Ascoli Piceno",
+    "admin": "Marche",
+    "sort": "48773"
+  },
+  {
+    "city": "Martina Franca",
+    "admin": "Puglia",
+    "sort": "48786"
+  },
+  {
+    "city": "Settimo Torinese",
+    "admin": "Piedmont",
+    "sort": "47220"
+  },
+  {
+    "city": "Corato",
+    "admin": "Puglia",
+    "sort": "48262"
+  },
+  {
+    "city": "Campi Bisenzio",
+    "admin": "Tuscany",
+    "sort": "46696"
+  },
+  {
+    "city": "Paterno",
+    "admin": "Sicilia",
+    "sort": "47827"
+  },
+  {
+    "city": "Rieti",
+    "admin": "Lazio",
+    "sort": "47436"
+  },
+  {
+    "city": "Frosinone",
+    "admin": "Lazio",
+    "sort": "46063"
+  },
+  {
+    "city": "Vercelli",
+    "admin": "Piedmont",
+    "sort": "46181"
+  },
+  {
+    "city": "Terracina",
+    "admin": "Lazio",
+    "sort": "46323"
+  },
+  {
+    "city": "Capannori",
+    "admin": "Tuscany",
+    "sort": "46072"
+  },
+  {
+    "city": "Lodi",
+    "admin": "Lombardy",
+    "sort": "45252"
+  },
+  {
+    "city": "Marino",
+    "admin": "Lazio",
+    "sort": "44472"
+  },
+  {
+    "city": "Nocera Inferiore",
+    "admin": "Campania",
+    "sort": "45784"
+  },
+  {
+    "city": "Cascina",
+    "admin": "Tuscany",
+    "sort": "45212"
+  },
+  {
+    "city": "Alcamo",
+    "admin": "Sicilia",
+    "sort": "45273"
+  },
+  {
+    "city": "Biella",
+    "admin": "Piedmont",
+    "sort": "44324"
+  },
+  {
+    "city": "Senigallia",
+    "admin": "Marche",
+    "sort": "44616"
+  },
+  {
+    "city": "Bassano del Grappa",
+    "admin": "Veneto",
+    "sort": "43481"
+  },
+  {
+    "city": "Alghero",
+    "admin": "Sardegna",
+    "sort": "43964"
+  },
+  {
+    "city": "Gravina in Puglia",
+    "admin": "Puglia",
+    "sort": "43816"
+  },
+  {
+    "city": "Civitanova Marche",
+    "admin": "Marche",
+    "sort": "42353"
+  },
+  {
+    "city": "Albano Laziale",
+    "admin": "Lazio",
+    "sort": "41314"
+  },
+  {
+    "city": "Avezzano",
+    "admin": "Abruzzo",
+    "sort": "42276"
+  },
+  {
+    "city": "Imperia",
+    "admin": "Liguria",
+    "sort": "42602"
+  },
+  {
+    "city": "San Donà di Piave",
+    "admin": "Veneto",
+    "sort": "41794"
+  },
+  {
+    "city": "Macerata",
+    "admin": "Marche",
+    "sort": "41776"
+  },
+  {
+    "city": "Monterotondo",
+    "admin": "Lazio",
+    "sort": "41144"
+  },
+  {
+    "city": "Barcellona-Pozzo di Gotto",
+    "admin": "Sicilia",
+    "sort": "41389"
+  },
+  {
+    "city": "Merano",
+    "admin": "Trentino-Alto Adige",
+    "sort": "40485"
+  },
+  {
+    "city": "Vasto",
+    "admin": "Abruzzo",
+    "sort": "41433"
+  },
+  {
+    "city": "Sassuolo",
+    "admin": "Emilia-Romagna",
+    "sort": "40826"
+  },
+  {
+    "city": "Cantù",
+    "admin": "Lombardy",
+    "sort": "39932"
+  },
+  {
+    "city": "Ladispoli",
+    "admin": "Lazio",
+    "sort": "41604"
+  },
+  {
+    "city": "Marcianise",
+    "admin": "Campania",
+    "sort": "39792"
+  },
+  {
+    "city": "Sciacca",
+    "admin": "Sicilia",
+    "sort": "40488"
+  },
+  {
+    "city": "Rovereto",
+    "admin": "Trentino-Alto Adige",
+    "sort": "39825"
+  },
+  {
+    "city": "Iesi",
+    "admin": "Marche",
+    "sort": "40210"
+  },
+  {
+    "city": "Corigliano Calabro",
+    "admin": "Calabria",
+    "sort": "40478"
+  },
+  {
+    "city": "Eboli",
+    "admin": "Campania",
+    "sort": "40058"
+  },
+  {
+    "city": "Maddaloni",
+    "admin": "Campania",
+    "sort": "39026"
+  },
+  {
+    "city": "Fondi",
+    "admin": "Lazio",
+    "sort": "39779"
+  },
+  {
+    "city": "Fasano",
+    "admin": "Puglia",
+    "sort": "39683"
+  },
+  {
+    "city": "Voghera",
+    "admin": "Lombardy",
+    "sort": "39354"
+  },
+  {
+    "city": "Città di Castello",
+    "admin": "Umbria",
+    "sort": "39632"
+  },
+  {
+    "city": "Schio",
+    "admin": "Veneto",
+    "sort": "39082"
+  },
+  {
+    "city": "Modugno",
+    "admin": "Puglia",
+    "sort": "38453"
+  },
+  {
+    "city": "San Giuliano Milanese",
+    "admin": "Lombardy",
+    "sort": "38314"
+  },
+  {
+    "city": "Carini",
+    "admin": "Sicilia",
+    "sort": "38936"
+  },
+  {
+    "city": "Monreale",
+    "admin": "Sicilia",
+    "sort": "39047"
+  },
+  {
+    "city": "Caivano",
+    "admin": "Campania",
+    "sort": "37654"
+  },
+  {
+    "city": "Mira",
+    "admin": "Veneto",
+    "sort": "38573"
+  },
+  {
+    "city": "Caltagirone",
+    "admin": "Sicilia",
+    "sort": "38295"
+  },
+  {
+    "city": "Cerveteri",
+    "admin": "Lazio",
+    "sort": "37977"
+  },
+  {
+    "city": "Spoleto",
+    "admin": "Umbria",
+    "sort": "37964"
+  },
+  {
+    "city": "Formia",
+    "admin": "Lazio",
+    "sort": "38032"
+  },
+  {
+    "city": "Chieri",
+    "admin": "Piedmont",
+    "sort": "36958"
+  },
+  {
+    "city": "Fermo",
+    "admin": "Marche",
+    "sort": "37238"
+  },
+  {
+    "city": "Cisterna di Latina",
+    "admin": "Lazio",
+    "sort": "36980"
+  },
+  {
+    "city": "Licata",
+    "admin": "Sicilia",
+    "sort": "37008"
+  },
+  {
+    "city": "Rossano",
+    "admin": "Calabria",
+    "sort": "36598"
+  },
+  {
+    "city": "Pinerolo",
+    "admin": "Piedmont",
+    "sort": "35947"
+  },
+  {
+    "city": "Nuoro",
+    "admin": "Sardegna",
+    "sort": "36579"
+  },
+  {
+    "city": "Francavilla Fontana",
+    "admin": "Puglia",
+    "sort": "36358"
+  },
+  {
+    "city": "Cassino",
+    "admin": "Lazio",
+    "sort": "36497"
+  },
+  {
+    "city": "Rende",
+    "admin": "Calabria",
+    "sort": "35727"
+  },
+  {
+    "city": "Augusta",
+    "admin": "Sicilia",
+    "sort": "35854"
+  },
+  {
+    "city": "Somma Vesuviana",
+    "admin": "Campania",
+    "sort": "34981"
+  },
+  {
+    "city": "Canicattì",
+    "admin": "Sicilia",
+    "sort": "35722"
+  },
+  {
+    "city": "Cento",
+    "admin": "Emilia-Romagna",
+    "sort": "35547"
+  },
+  {
+    "city": "Adrano",
+    "admin": "Sicilia",
+    "sort": "35633"
+  },
+  {
+    "city": "Conegliano",
+    "admin": "Veneto",
+    "sort": "35082"
+  },
+  {
+    "city": "Segrate",
+    "admin": "Lombardy",
+    "sort": "35492"
+  },
+  {
+    "city": "Belluno",
+    "admin": "Veneto",
+    "sort": "35710"
+  },
+  {
+    "city": "Lanciano",
+    "admin": "Abruzzo",
+    "sort": "35002"
+  },
+  {
+    "city": "Osimo",
+    "admin": "Marche",
+    "sort": "35071"
+  },
+  {
+    "city": "Crema",
+    "admin": "Lombardy",
+    "sort": "34264"
+  },
+  {
+    "city": "Gorizia",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "34411"
+  },
+  {
+    "city": "Venaria Reale",
+    "admin": "Piedmont",
+    "sort": "33564"
+  },
+  {
+    "city": "Formigine",
+    "admin": "Emilia-Romagna",
+    "sort": "34347"
+  },
+  {
+    "city": "Nola",
+    "admin": "Campania",
+    "sort": "34467"
+  },
+  {
+    "city": "Casale Monferrato",
+    "admin": "Piedmont",
+    "sort": "34010"
+  },
+  {
+    "city": "Vibo Valentia",
+    "admin": "Calabria",
+    "sort": "33642"
+  },
+  {
+    "city": "Termoli",
+    "admin": "Molise",
+    "sort": "33583"
+  },
+  {
+    "city": "Mascalucia",
+    "admin": "Sicilia",
+    "sort": "32167"
+  },
+  {
+    "city": "Piombino",
+    "admin": "Tuscany",
+    "sort": "33855"
+  },
+  {
+    "city": "Castelfranco Veneto",
+    "admin": "Veneto",
+    "sort": "33435"
+  },
+  {
+    "city": "Villafranca di Verona",
+    "admin": "Veneto",
+    "sort": "33232"
+  },
+  {
+    "city": "Abbiategrasso",
+    "admin": "Lombardy",
+    "sort": "32737"
+  },
+  {
+    "city": "Castelfranco Emilia",
+    "admin": "Emilia-Romagna",
+    "sort": "32894"
+  },
+  {
+    "city": "San Lazzaro di Savena",
+    "admin": "Emilia-Romagna",
+    "sort": "32473"
+  },
+  {
+    "city": "Lucera",
+    "admin": "Puglia",
+    "sort": "33085"
+  },
+  {
+    "city": "Massafra",
+    "admin": "Puglia",
+    "sort": "32861"
+  },
+  {
+    "city": "Camaiore",
+    "admin": "Tuscany",
+    "sort": "32328"
+  },
+  {
+    "city": "Favara",
+    "admin": "Sicilia",
+    "sort": "32299"
+  },
+  {
+    "city": "Lugo",
+    "admin": "Emilia-Romagna",
+    "sort": "32317"
+  },
+  {
+    "city": "Milazzo",
+    "admin": "Sicilia",
+    "sort": "31231"
+  },
+  {
+    "city": "Grottaglie",
+    "admin": "Puglia",
+    "sort": "31890"
+  },
+  {
+    "city": "Alba",
+    "admin": "Piedmont",
+    "sort": "31498"
+  },
+  {
+    "city": "Partinico",
+    "admin": "Sicilia",
+    "sort": "31786"
+  },
+  {
+    "city": "Oristano",
+    "admin": "Sardegna",
+    "sort": "31671"
+  },
+  {
+    "city": "Montebelluna",
+    "admin": "Veneto",
+    "sort": "31258"
+  },
+  {
+    "city": "Avola",
+    "admin": "Sicilia",
+    "sort": "31408"
+  },
+  {
+    "city": "Gubbio",
+    "admin": "Umbria",
+    "sort": "31736"
+  },
+  {
+    "city": "San Giuliano Terme",
+    "admin": "Tuscany",
+    "sort": "31447"
+  },
+  {
+    "city": "Sarno",
+    "admin": "Campania",
+    "sort": "31625"
+  },
+  {
+    "city": "Castelvetrano",
+    "admin": "Sicilia",
+    "sort": "31503"
+  },
+  {
+    "city": "Nardò",
+    "admin": "Puglia",
+    "sort": "31431"
+  },
+  {
+    "city": "Verbania",
+    "admin": "Piedmont",
+    "sort": "30709"
+  },
+  {
+    "city": "Ostuni",
+    "admin": "Puglia",
+    "sort": "31197"
+  },
+  {
+    "city": "Manduria",
+    "admin": "Puglia",
+    "sort": "31159"
+  },
+  {
+    "city": "Rosignano Marittimo",
+    "admin": "Tuscany",
+    "sort": "31039"
+  },
+  {
+    "city": "Marigliano",
+    "admin": "Campania",
+    "sort": "29879"
+  },
+  {
+    "city": "Fabriano",
+    "admin": "Marche",
+    "sort": "30809"
+  },
+  {
+    "city": "Treviglio",
+    "admin": "Lombardy",
+    "sort": "29815"
+  },
+  {
+    "city": "Rapallo",
+    "admin": "Liguria",
+    "sort": "29728"
+  },
+  {
+    "city": "Bra",
+    "admin": "Piedmont",
+    "sort": "29645"
+  },
+  {
+    "city": "Selargius",
+    "admin": "Sardegna",
+    "sort": "28986"
+  },
+  {
+    "city": "Canosa di Puglia",
+    "admin": "Puglia",
+    "sort": "29847"
+  },
+  {
+    "city": "Comiso",
+    "admin": "Sicilia",
+    "sort": "29845"
+  },
+  {
+    "city": "Misilmeri",
+    "admin": "Sicilia",
+    "sort": "29376"
+  },
+  {
+    "city": "Parabiago",
+    "admin": "Lombardy",
+    "sort": "27842"
+  },
+  {
+    "city": "Spinea",
+    "admin": "Veneto",
+    "sort": "27909"
+  },
+  {
+    "city": "Monfalcone",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "28107"
+  },
+  {
+    "city": "Desenzano del Garda",
+    "admin": "Lombardy",
+    "sort": "28982"
+  },
+  {
+    "city": "Poggibonsi",
+    "admin": "Tuscany",
+    "sort": "29031"
+  },
+  {
+    "city": "Gragnano",
+    "admin": "Campania",
+    "sort": "28897"
+  },
+  {
+    "city": "Mondragone",
+    "admin": "Campania",
+    "sort": "28797"
+  },
+  {
+    "city": "Carmagnola",
+    "admin": "Piedmont",
+    "sort": "28969"
+  },
+  {
+    "city": "Pontedera",
+    "admin": "Tuscany",
+    "sort": "29168"
+  },
+  {
+    "city": "Sant’Anastasia",
+    "admin": "Campania",
+    "sort": "27690"
+  },
+  {
+    "city": "Alatri",
+    "admin": "Lazio",
+    "sort": "28763"
+  },
+  {
+    "city": "Cervia",
+    "admin": "Emilia-Romagna",
+    "sort": "28700"
+  },
+  {
+    "city": "Cecina",
+    "admin": "Tuscany",
+    "sort": "28112"
+  },
+  {
+    "city": "Vittorio Veneto",
+    "admin": "Veneto",
+    "sort": "28389"
+  },
+  {
+    "city": "Novi Ligure",
+    "admin": "Piedmont",
+    "sort": "28210"
+  },
+  {
+    "city": "Giarre",
+    "admin": "Sicilia",
+    "sort": "27546"
+  },
+  {
+    "city": "Triggiano",
+    "admin": "Puglia",
+    "sort": "27180"
+  },
+  {
+    "city": "Assisi",
+    "admin": "Umbria",
+    "sort": "28352"
+  },
+  {
+    "city": "Carbonia",
+    "admin": "Sardegna",
+    "sort": "28265"
+  },
+  {
+    "city": "Mogliano Veneto",
+    "admin": "Veneto",
+    "sort": "27852"
+  },
+  {
+    "city": "San Giovanni in Persiceto",
+    "admin": "Emilia-Romagna",
+    "sort": "28153"
+  },
+  {
+    "city": "Bacoli",
+    "admin": "Campania",
+    "sort": "26412"
+  },
+  {
+    "city": "Belpasso",
+    "admin": "Sicilia",
+    "sort": "28126"
+  },
+  {
+    "city": "San Miniato",
+    "admin": "Tuscany",
+    "sort": "27950"
+  },
+  {
+    "city": "Porto Sant’Elpidio",
+    "admin": "Marche",
+    "sort": "26408"
+  },
+  {
+    "city": "Gioia del Colle",
+    "admin": "Puglia",
+    "sort": "27644"
+  },
+  {
+    "city": "Mirano",
+    "admin": "Veneto",
+    "sort": "27169"
+  },
+  {
+    "city": "Lainate",
+    "admin": "Lombardy",
+    "sort": "25763"
+  },
+  {
+    "city": "Erice",
+    "admin": "Sicilia",
+    "sort": "27655"
+  },
+  {
+    "city": "Tortona",
+    "admin": "Piedmont",
+    "sort": "27299"
+  },
+  {
+    "city": "Terlizzi",
+    "admin": "Puglia",
+    "sort": "27125"
+  },
+  {
+    "city": "Vimercate",
+    "admin": "Lombardy",
+    "sort": "26170"
+  },
+  {
+    "city": "Enna",
+    "admin": "Sicilia",
+    "sort": "27243"
+  },
+  {
+    "city": "Albignasego",
+    "admin": "Veneto",
+    "sort": "26071"
+  },
+  {
+    "city": "San Giovanni Rotondo",
+    "admin": "Puglia",
+    "sort": "27172"
+  },
+  {
+    "city": "Galatina",
+    "admin": "Puglia",
+    "sort": "26887"
+  },
+  {
+    "city": "Fidenza",
+    "admin": "Emilia-Romagna",
+    "sort": "26898"
+  },
+  {
+    "city": "Assèmini",
+    "admin": "Sardegna",
+    "sort": "26901"
+  },
+  {
+    "city": "Scicli",
+    "admin": "Sicilia",
+    "sort": "27051"
+  },
+  {
+    "city": "Falconara Marittima",
+    "admin": "Marche",
+    "sort": "26063"
+  },
+  {
+    "city": "Mesagne",
+    "admin": "Puglia",
+    "sort": "26836"
+  },
+  {
+    "city": "Quarrata",
+    "admin": "Tuscany",
+    "sort": "26460"
+  },
+  {
+    "city": "Noicattaro",
+    "admin": "Puglia",
+    "sort": "26325"
+  },
+  {
+    "city": "Niscemi",
+    "admin": "Sicilia",
+    "sort": "26946"
+  },
+  {
+    "city": "Putignano",
+    "admin": "Puglia",
+    "sort": "26679"
+  },
+  {
+    "city": "Iglesias",
+    "admin": "Sardegna",
+    "sort": "26784"
+  },
+  {
+    "city": "Chivasso",
+    "admin": "Piedmont",
+    "sort": "26730"
+  },
+  {
+    "city": "Santeramo in Colle",
+    "admin": "Puglia",
+    "sort": "26592"
+  },
+  {
+    "city": "Francavilla al Mare",
+    "admin": "Abruzzo",
+    "sort": "25663"
+  },
+  {
+    "city": "Mariano Comense",
+    "admin": "Lombardy",
+    "sort": "24956"
+  },
+  {
+    "city": "San Giovanni Lupatoto",
+    "admin": "Veneto",
+    "sort": "25337"
+  },
+  {
+    "city": "Giussano",
+    "admin": "Lombardy",
+    "sort": "25945"
+  },
+  {
+    "city": "Cesenatico",
+    "admin": "Emilia-Romagna",
+    "sort": "25959"
+  },
+  {
+    "city": "Valdagno",
+    "admin": "Veneto",
+    "sort": "26016"
+  },
+  {
+    "city": "Iesolo",
+    "admin": "Veneto",
+    "sort": "26199"
+  },
+  {
+    "city": "Vignola",
+    "admin": "Emilia-Romagna",
+    "sort": "25313"
+  },
+  {
+    "city": "Conversano",
+    "admin": "Puglia",
+    "sort": "26171"
+  },
+  {
+    "city": "Termini Imerese",
+    "admin": "Sicilia",
+    "sort": "26029"
+  },
+  {
+    "city": "Arzignano",
+    "admin": "Veneto",
+    "sort": "25605"
+  },
+  {
+    "city": "Sora",
+    "admin": "Lazio",
+    "sort": "25972"
+  },
+  {
+    "city": "Castel Volturno",
+    "admin": "Campania",
+    "sort": "25847"
+  },
+  {
+    "city": "Roseto degli Abruzzi",
+    "admin": "Abruzzo",
+    "sort": "25588"
+  },
+  {
+    "city": "Montichiari",
+    "admin": "Lombardy",
+    "sort": "25714"
+  },
+  {
+    "city": "Correggio",
+    "admin": "Emilia-Romagna",
+    "sort": "25664"
+  },
+  {
+    "city": "Mola di Bari",
+    "admin": "Puglia",
+    "sort": "25393"
+  },
+  {
+    "city": "Scandiano",
+    "admin": "Emilia-Romagna",
+    "sort": "25758"
+  },
+  {
+    "city": "Bagno a Ripoli",
+    "admin": "Tuscany",
+    "sort": "25483"
+  },
+  {
+    "city": "Legnago",
+    "admin": "Veneto",
+    "sort": "25259"
+  },
+  {
+    "city": "Thiene",
+    "admin": "Veneto",
+    "sort": "24309"
+  },
+  {
+    "city": "Dalmine",
+    "admin": "Lombardy",
+    "sort": "23495"
+  },
+  {
+    "city": "Ruvo di Puglia",
+    "admin": "Puglia",
+    "sort": "25328"
+  },
+  {
+    "city": "Genzano di Roma",
+    "admin": "Lazio",
+    "sort": "23892"
+  },
+  {
+    "city": "Portogruaro",
+    "admin": "Veneto",
+    "sort": "24959"
+  },
+  {
+    "city": "Sezze",
+    "admin": "Lazio",
+    "sort": "24954"
+  },
+  {
+    "city": "Magenta",
+    "admin": "Lombardy",
+    "sort": "23906"
+  },
+  {
+    "city": "Ottaviano",
+    "admin": "Campania",
+    "sort": "23710"
+  },
+  {
+    "city": "Montevarchi",
+    "admin": "Tuscany",
+    "sort": "24440"
+  },
+  {
+    "city": "Giulianova",
+    "admin": "Abruzzo",
+    "sort": "23875"
+  },
+  {
+    "city": "Albenga",
+    "admin": "Liguria",
+    "sort": "24042"
+  },
+  {
+    "city": "Sulmona",
+    "admin": "Abruzzo",
+    "sort": "24173"
+  },
+  {
+    "city": "Fossano",
+    "admin": "Piedmont",
+    "sort": "24372"
+  },
+  {
+    "city": "Copertino",
+    "admin": "Puglia",
+    "sort": "24094"
+  },
+  {
+    "city": "Orbassano",
+    "admin": "Piedmont",
+    "sort": "23365"
+  },
+  {
+    "city": "Nocera Superiore",
+    "admin": "Campania",
+    "sort": "24369"
+  },
+  {
+    "city": "Noto",
+    "admin": "Sicilia",
+    "sort": "24028"
+  },
+  {
+    "city": "Pietrasanta",
+    "admin": "Tuscany",
+    "sort": "23662"
+  },
+  {
+    "city": "Ivrea",
+    "admin": "Piedmont",
+    "sort": "23442"
+  },
+  {
+    "city": "Castiglione delle Stiviere",
+    "admin": "Lombardy",
+    "sort": "23570"
+  },
+  {
+    "city": "Montecchio Maggiore",
+    "admin": "Veneto",
+    "sort": "23316"
+  },
+  {
+    "city": "Ventimiglia",
+    "admin": "Liguria",
+    "sort": "24065"
+  },
+  {
+    "city": "Biancavilla",
+    "admin": "Sicilia",
+    "sort": "23948"
+  },
+  {
+    "city": "Capoterra",
+    "admin": "Sardegna",
+    "sort": "23583"
+  },
+  {
+    "city": "Mirandola",
+    "admin": "Emilia-Romagna",
+    "sort": "23650"
+  },
+  {
+    "city": "Ceccano",
+    "admin": "Lazio",
+    "sort": "23380"
+  },
+  {
+    "city": "Poggiomarino",
+    "admin": "Campania",
+    "sort": "21993"
+  },
+  {
+    "city": "Lentini",
+    "admin": "Sicilia",
+    "sort": "23526"
+  },
+  {
+    "city": "Fucecchio",
+    "admin": "Tuscany",
+    "sort": "23275"
+  },
+  {
+    "city": "Nova Milanese",
+    "admin": "Lombardy",
+    "sort": "23334"
+  },
+  {
+    "city": "Floridia",
+    "admin": "Sicilia",
+    "sort": "22694"
+  },
+  {
+    "city": "Frascati",
+    "admin": "Lazio",
+    "sort": "22450"
+  },
+  {
+    "city": "Ortona",
+    "admin": "Abruzzo",
+    "sort": "23111"
+  },
+  {
+    "city": "Mentana",
+    "admin": "Lazio",
+    "sort": "23126"
+  },
+  {
+    "city": "Mercato San Severino",
+    "admin": "Campania",
+    "sort": "22335"
+  },
+  {
+    "city": "Vigonza",
+    "admin": "Veneto",
+    "sort": "22958"
+  },
+  {
+    "city": "Palma di Montechiaro",
+    "admin": "Sicilia",
+    "sort": "22663"
+  },
+  {
+    "city": "Selvazzano Dentro",
+    "admin": "Veneto",
+    "sort": "22903"
+  },
+  {
+    "city": "Trezzano sul Naviglio",
+    "admin": "Lombardy",
+    "sort": "20956"
+  },
+  {
+    "city": "Sarzana",
+    "admin": "Liguria",
+    "sort": "22133"
+  },
+  {
+    "city": "Massarosa",
+    "admin": "Tuscany",
+    "sort": "22430"
+  },
+  {
+    "city": "Mondovì",
+    "admin": "Piedmont",
+    "sort": "22444"
+  },
+  {
+    "city": "Sondrio",
+    "admin": "Lombardy",
+    "sort": "21642"
+  },
+  {
+    "city": "Pachino",
+    "admin": "Sicilia",
+    "sort": "22237"
+  },
+  {
+    "city": "Sant’Arcangelo di Romagna",
+    "admin": "Emilia-Romagna",
+    "sort": "22171"
+  },
+  {
+    "city": "Porto Torres",
+    "admin": "Sardegna",
+    "sort": "22367"
+  },
+  {
+    "city": "Paese",
+    "admin": "Veneto",
+    "sort": "21992"
+  },
+  {
+    "city": "Ariano Irpino",
+    "admin": "Campania",
+    "sort": "22448"
+  },
+  {
+    "city": "Martellago",
+    "admin": "Veneto",
+    "sort": "21502"
+  },
+  {
+    "city": "Ginosa",
+    "admin": "Puglia",
+    "sort": "22430"
+  },
+  {
+    "city": "Agropoli",
+    "admin": "Campania",
+    "sort": "21874"
+  },
+  {
+    "city": "Gorgonzola",
+    "admin": "Lombardy",
+    "sort": "20529"
+  },
+  {
+    "city": "Casal di Principe",
+    "admin": "Campania",
+    "sort": "21482"
+  },
+  {
+    "city": "Borgomanero",
+    "admin": "Piedmont",
+    "sort": "21719"
+  },
+  {
+    "city": "Cornaredo",
+    "admin": "Lombardy",
+    "sort": "20534"
+  },
+  {
+    "city": "Palestrina",
+    "admin": "Lazio",
+    "sort": "21872"
+  },
+  {
+    "city": "Bressanone",
+    "admin": "Trentino-Alto Adige",
+    "sort": "22011"
+  },
+  {
+    "city": "Comacchio",
+    "admin": "Emilia-Romagna",
+    "sort": "22188"
+  },
+  {
+    "city": "Castrovillari",
+    "admin": "Calabria",
+    "sort": "22037"
+  },
+  {
+    "city": "Cortona",
+    "admin": "Tuscany",
+    "sort": "22057"
+  },
+  {
+    "city": "San Bonifacio",
+    "admin": "Veneto",
+    "sort": "21397"
+  },
+  {
+    "city": "Isernia",
+    "admin": "Molise",
+    "sort": "21666"
+  },
+  {
+    "city": "Colle di Val d’Elsa",
+    "admin": "Tuscany",
+    "sort": "21651"
+  },
+  {
+    "city": "Piazza Armerina",
+    "admin": "Sicilia",
+    "sort": "21775"
+  },
+  {
+    "city": "Monsummano",
+    "admin": "Tuscany",
+    "sort": "21141"
+  },
+  {
+    "city": "Pergine Valsugana",
+    "admin": "Trentino-Alto Adige",
+    "sort": "21384"
+  },
+  {
+    "city": "Corciano",
+    "admin": "Umbria",
+    "sort": "21427"
+  },
+  {
+    "city": "Palo del Colle",
+    "admin": "Puglia",
+    "sort": "21488"
+  },
+  {
+    "city": "Montecatini Terme",
+    "admin": "Tuscany",
+    "sort": "20540"
+  },
+  {
+    "city": "Follonica",
+    "admin": "Tuscany",
+    "sort": "21308"
+  },
+  {
+    "city": "Anagni",
+    "admin": "Lazio",
+    "sort": "21404"
+  },
+  {
+    "city": "Argenta",
+    "admin": "Emilia-Romagna",
+    "sort": "21521"
+  },
+  {
+    "city": "Grottaferrata",
+    "admin": "Lazio",
+    "sort": "20460"
+  },
+  {
+    "city": "Savigliano",
+    "admin": "Piedmont",
+    "sort": "21526"
+  },
+  {
+    "city": "Romano di Lombardia",
+    "admin": "Lombardy",
+    "sort": "20486"
+  },
+  {
+    "city": "Suzzara",
+    "admin": "Lombardy",
+    "sort": "21154"
+  },
+  {
+    "city": "Rosolini",
+    "admin": "Sicilia",
+    "sort": "21206"
+  },
+  {
+    "city": "Colleferro",
+    "admin": "Lazio",
+    "sort": "21394"
+  },
+  {
+    "city": "Sestu",
+    "admin": "Sardegna",
+    "sort": "20958"
+  },
+  {
+    "city": "Recanati",
+    "admin": "Marche",
+    "sort": "21186"
+  },
+  {
+    "city": "Sessa Aurunca",
+    "admin": "Campania",
+    "sort": "21252"
+  },
+  {
+    "city": "Ferentino",
+    "admin": "Lazio",
+    "sort": "20992"
+  },
+  {
+    "city": "San Salvo",
+    "admin": "Abruzzo",
+    "sort": "20184"
+  },
+  {
+    "city": "Trecate",
+    "admin": "Piedmont",
+    "sort": "20566"
+  },
+  {
+    "city": "Gallipoli",
+    "admin": "Puglia",
+    "sort": "20545"
+  },
+  {
+    "city": "Abano Terme",
+    "admin": "Veneto",
+    "sort": "20101"
+  },
+  {
+    "city": "Castel San Pietro Terme",
+    "admin": "Emilia-Romagna",
+    "sort": "20862"
+  },
+  {
+    "city": "Rivalta di Torino",
+    "admin": "Piedmont",
+    "sort": "20185"
+  },
+  {
+    "city": "Bussolengo",
+    "admin": "Veneto",
+    "sort": "20142"
+  },
+  {
+    "city": "Oderzo",
+    "admin": "Veneto",
+    "sort": "20466"
+  },
+  {
+    "city": "Vico Equense",
+    "admin": "Campania",
+    "sort": "20919"
+  },
+  {
+    "city": "Pallazzolo sull’Oglio",
+    "admin": "Lombardy",
+    "sort": "20026"
+  },
+  {
+    "city": "Feltre",
+    "admin": "Veneto",
+    "sort": "20608"
+  },
+  {
+    "city": "Giovinazzo",
+    "admin": "Puglia",
+    "sort": "20348"
+  },
+  {
+    "city": "Pontassieve",
+    "admin": "Tuscany",
+    "sort": "20607"
+  },
+  {
+    "city": "Lastra a Signa",
+    "admin": "Tuscany",
+    "sort": "20308"
+  },
+  {
+    "city": "Cittadella",
+    "admin": "Veneto",
+    "sort": "20145"
+  },
+  {
+    "city": "Gaeta",
+    "admin": "Lazio",
+    "sort": "20545"
+  },
+  {
+    "city": "Sabaudia",
+    "admin": "Lazio",
+    "sort": "20536"
+  },
+  {
+    "city": "Acquaviva delle Fonti",
+    "admin": "Puglia",
+    "sort": "20600"
+  },
+  {
+    "city": "Casarano",
+    "admin": "Puglia",
+    "sort": "20070"
+  },
+  {
+    "city": "Veroli",
+    "admin": "Lazio",
+    "sort": "20414"
+  },
+  {
+    "city": "Gioia Tauro",
+    "admin": "Calabria",
+    "sort": "20076"
+  },
+  {
+    "city": "San Mauro Torinese",
+    "admin": "Piedmont",
+    "sort": "19048"
+  },
+  {
+    "city": "Acri",
+    "admin": "Calabria",
+    "sort": "20442"
+  },
+  {
+    "city": "Sacile",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "19905"
+  },
+  {
+    "city": "Montalto Uffugo",
+    "admin": "Calabria",
+    "sort": "20213"
+  },
+  {
+    "city": "Piove di Sacco",
+    "admin": "Veneto",
+    "sort": "19902"
+  },
+  {
+    "city": "Melzo",
+    "admin": "Lombardy",
+    "sort": "18493"
+  },
+  {
+    "city": "Orvieto",
+    "admin": "Umbria",
+    "sort": "20253"
+  },
+  {
+    "city": "Minturno",
+    "admin": "Lazio",
+    "sort": "19804"
+  },
+  {
+    "city": "Acqui Terme",
+    "admin": "Piedmont",
+    "sort": "19651"
+  },
+  {
+    "city": "Viadana",
+    "admin": "Lombardy",
+    "sort": "20044"
+  },
+  {
+    "city": "Villabate",
+    "admin": "Sicilia",
+    "sort": "20051"
+  },
+  {
+    "city": "Cassano d’Adda",
+    "admin": "Lombardy",
+    "sort": "19057"
+  },
+  {
+    "city": "Casamassima",
+    "admin": "Puglia",
+    "sort": "19777"
+  },
+  {
+    "city": "Ceglie Messapico",
+    "admin": "Puglia",
+    "sort": "19833"
+  },
+  {
+    "city": "Rovato",
+    "admin": "Lombardy",
+    "sort": "19223"
+  },
+  {
+    "city": "Salsomaggiore Terme",
+    "admin": "Emilia-Romagna",
+    "sort": "19710"
+  },
+  {
+    "city": "Signa",
+    "admin": "Tuscany",
+    "sort": "18901"
+  },
+  {
+    "city": "Spoltore",
+    "admin": "Abruzzo",
+    "sort": "19378"
+  },
+  {
+    "city": "Castellana Grotte",
+    "admin": "Puglia",
+    "sort": "19582"
+  },
+  {
+    "city": "Ariccia",
+    "admin": "Lazio",
+    "sort": "18851"
+  },
+  {
+    "city": "Arcore",
+    "admin": "Lombardy",
+    "sort": "17916"
+  },
+  {
+    "city": "Pescia",
+    "admin": "Tuscany",
+    "sort": "19584"
+  },
+  {
+    "city": "Grumo Nevano",
+    "admin": "Campania",
+    "sort": "17939"
+  },
+  {
+    "city": "Carate Brianza",
+    "admin": "Lombardy",
+    "sort": "17952"
+  },
+  {
+    "city": "Casalgrande",
+    "admin": "Emilia-Romagna",
+    "sort": "19234"
+  },
+  {
+    "city": "Tradate",
+    "admin": "Lombardy",
+    "sort": "18861"
+  },
+  {
+    "city": "Ciriè",
+    "admin": "Piedmont",
+    "sort": "18639"
+  },
+  {
+    "city": "Anguillara Sabazia",
+    "admin": "Lazio",
+    "sort": "19426"
+  },
+  {
+    "city": "Tolentino",
+    "admin": "Marche",
+    "sort": "19409"
+  },
+  {
+    "city": "Adria",
+    "admin": "Veneto",
+    "sort": "19436"
+  },
+  {
+    "city": "Pozzallo",
+    "admin": "Sicilia",
+    "sort": "19466"
+  },
+  {
+    "city": "Chiari",
+    "admin": "Lombardy",
+    "sort": "18944"
+  },
+  {
+    "city": "Scorzè",
+    "admin": "Veneto",
+    "sort": "18848"
+  },
+  {
+    "city": "Montemurlo",
+    "admin": "Tuscany",
+    "sort": "18779"
+  },
+  {
+    "city": "San Vito dei Normanni",
+    "admin": "Puglia",
+    "sort": "19095"
+  },
+  {
+    "city": "Bracciano",
+    "admin": "Lazio",
+    "sort": "19219"
+  },
+  {
+    "city": "Narni",
+    "admin": "Umbria",
+    "sort": "19252"
+  },
+  {
+    "city": "Aci Sant’Antonio",
+    "admin": "Sicilia",
+    "sort": "18076"
+  },
+  {
+    "city": "Agliana",
+    "admin": "Tuscany",
+    "sort": "17789"
+  },
+  {
+    "city": "Santa Marinella",
+    "admin": "Lazio",
+    "sort": "18921"
+  },
+  {
+    "city": "Corbetta",
+    "admin": "Lombardy",
+    "sort": "18302"
+  },
+  {
+    "city": "Noci",
+    "admin": "Puglia",
+    "sort": "19115"
+  },
+  {
+    "city": "Forio",
+    "admin": "Campania",
+    "sort": "17840"
+  },
+  {
+    "city": "Valenza",
+    "admin": "Piedmont",
+    "sort": "18804"
+  },
+  {
+    "city": "Palmi",
+    "admin": "Calabria",
+    "sort": "18606"
+  },
+  {
+    "city": "Castelfidardo",
+    "admin": "Marche",
+    "sort": "18601"
+  },
+  {
+    "city": "Palma Campania",
+    "admin": "Campania",
+    "sort": "18218"
+  },
+  {
+    "city": "Valenzano",
+    "admin": "Puglia",
+    "sort": "17952"
+  },
+  {
+    "city": "Bronte",
+    "admin": "Sicilia",
+    "sort": "18963"
+  },
+  {
+    "city": "Ghedi",
+    "admin": "Lombardy",
+    "sort": "18719"
+  },
+  {
+    "city": "Aci Castello",
+    "admin": "Sicilia",
+    "sort": "18577"
+  },
+  {
+    "city": "Ribera",
+    "admin": "Sicilia",
+    "sort": "18832"
+  },
+  {
+    "city": "Zola Predosa",
+    "admin": "Emilia-Romagna",
+    "sort": "18939"
+  },
+  {
+    "city": "Castel Maggiore",
+    "admin": "Emilia-Romagna",
+    "sort": "18349"
+  },
+  {
+    "city": "Sestri Levante",
+    "admin": "Liguria",
+    "sort": "18339"
+  },
+  {
+    "city": "Marsciano",
+    "admin": "Umbria",
+    "sort": "18701"
+  },
+  {
+    "city": "Siderno Marina",
+    "admin": "Calabria",
+    "sort": "18231"
+  },
+  {
+    "city": "Domodossola",
+    "admin": "Piedmont",
+    "sort": "18237"
+  },
+  {
+    "city": "Laives",
+    "admin": "Trentino-Alto Adige",
+    "sort": "17954"
+  },
+  {
+    "city": "Rutigliano",
+    "admin": "Puglia",
+    "sort": "18591"
+  },
+  {
+    "city": "Capua",
+    "admin": "Campania",
+    "sort": "18293"
+  },
+  {
+    "city": "Terzigno",
+    "admin": "Campania",
+    "sort": "18584"
+  },
+  {
+    "city": "Malnate",
+    "admin": "Lombardy",
+    "sort": "16784"
+  },
+  {
+    "city": "Budrio",
+    "admin": "Emilia-Romagna",
+    "sort": "18440"
+  },
+  {
+    "city": "Zagarolo",
+    "admin": "Lazio",
+    "sort": "17933"
+  },
+  {
+    "city": "Borgo San Lorenzo",
+    "admin": "Tuscany",
+    "sort": "18419"
+  },
+  {
+    "city": "Cordenons",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "18210"
+  },
+  {
+    "city": "Somma Lombardo",
+    "admin": "Lombardy",
+    "sort": "17919"
+  },
+  {
+    "city": "Savignano sul Rubicone",
+    "admin": "Emilia-Romagna",
+    "sort": "17744"
+  },
+  {
+    "city": "Nerviano",
+    "admin": "Lombardy",
+    "sort": "17176"
+  },
+  {
+    "city": "Albino",
+    "admin": "Lombardy",
+    "sort": "17903"
+  },
+  {
+    "city": "Villorba",
+    "admin": "Veneto",
+    "sort": "17879"
+  },
+  {
+    "city": "Santa Maria di Sala",
+    "admin": "Veneto",
+    "sort": "17774"
+  },
+  {
+    "city": "Cassano al Ionio",
+    "admin": "Calabria",
+    "sort": "18270"
+  },
+  {
+    "city": "Piossasco",
+    "admin": "Piedmont",
+    "sort": "18322"
+  },
+  {
+    "city": "Alpignano",
+    "admin": "Piedmont",
+    "sort": "16811"
+  },
+  {
+    "city": "Calenzano",
+    "admin": "Tuscany",
+    "sort": "17914"
+  },
+  {
+    "city": "Marcon",
+    "admin": "Veneto",
+    "sort": "17447"
+  },
+  {
+    "city": "Maranello",
+    "admin": "Emilia-Romagna",
+    "sort": "17590"
+  },
+  {
+    "city": "Sona",
+    "admin": "Veneto",
+    "sort": "17694"
+  },
+  {
+    "city": "Pescantina",
+    "admin": "Veneto",
+    "sort": "17236"
+  },
+  {
+    "city": "Valguarnera Caropepe",
+    "admin": "Sicilia",
+    "sort": "18040"
+  },
+  {
+    "city": "Sorrento",
+    "admin": "Campania",
+    "sort": "16405"
+  },
+  {
+    "city": "Polignano a Mare",
+    "admin": "Puglia",
+    "sort": "18022"
+  },
+  {
+    "city": "Baronissi",
+    "admin": "Campania",
+    "sort": "17051"
+  },
+  {
+    "city": "Arco",
+    "admin": "Trentino-Alto Adige",
+    "sort": "17716"
+  },
+  {
+    "city": "Melfi",
+    "admin": "Basilicata",
+    "sort": "17878"
+  },
+  {
+    "city": "Policoro",
+    "admin": "Basilicata",
+    "sort": "17694"
+  },
+  {
+    "city": "Monselice",
+    "admin": "Veneto",
+    "sort": "17572"
+  },
+  {
+    "city": "Porto San Giorgio",
+    "admin": "Marche",
+    "sort": "16068"
+  },
+  {
+    "city": "Carlentini",
+    "admin": "Sicilia",
+    "sort": "17741"
+  },
+  {
+    "city": "Orta Nova",
+    "admin": "Puglia",
+    "sort": "17675"
+  },
+  {
+    "city": "Isola Capo Rizzuto",
+    "admin": "Calabria",
+    "sort": "17832"
+  },
+  {
+    "city": "Bovisio Masciago",
+    "admin": "Lombardy",
+    "sort": "16929"
+  },
+  {
+    "city": "Preganziol",
+    "admin": "Veneto",
+    "sort": "16957"
+  },
+  {
+    "city": "Pianoro",
+    "admin": "Emilia-Romagna",
+    "sort": "17503"
+  },
+  {
+    "city": "Tricase",
+    "admin": "Puglia",
+    "sort": "17525"
+  },
+  {
+    "city": "Sìnnai",
+    "admin": "Sardegna",
+    "sort": "17562"
+  },
+  {
+    "city": "Rocca di Papa",
+    "admin": "Lazio",
+    "sort": "17201"
+  },
+  {
+    "city": "Pisticci",
+    "admin": "Basilicata",
+    "sort": "17602"
+  },
+  {
+    "city": "San Giovanni Valdarno",
+    "admin": "Tuscany",
+    "sort": "16812"
+  },
+  {
+    "city": "Vimodrone",
+    "admin": "Lombardy",
+    "sort": "17016"
+  },
+  {
+    "city": "Rubano",
+    "admin": "Veneto",
+    "sort": "16448"
+  },
+  {
+    "city": "Castelfiorentino",
+    "admin": "Tuscany",
+    "sort": "17283"
+  },
+  {
+    "city": "Adelfia",
+    "admin": "Puglia",
+    "sort": "16963"
+  },
+  {
+    "city": "Sant’Elpidio a Mare",
+    "admin": "Marche",
+    "sort": "17144"
+  },
+  {
+    "city": "Concorezzo",
+    "admin": "Lombardy",
+    "sort": "15644"
+  },
+  {
+    "city": "Pavullo nel Frignano",
+    "admin": "Emilia-Romagna",
+    "sort": "17361"
+  },
+  {
+    "city": "Cadoneghe",
+    "admin": "Veneto",
+    "sort": "16176"
+  },
+  {
+    "city": "Riva del Garda",
+    "admin": "Trentino-Alto Adige",
+    "sort": "17370"
+  },
+  {
+    "city": "Saviano",
+    "admin": "Campania",
+    "sort": "16182"
+  },
+  {
+    "city": "Gussago",
+    "admin": "Lombardy",
+    "sort": "16681"
+  },
+  {
+    "city": "San Casciano in Val di Pesa",
+    "admin": "Tuscany",
+    "sort": "17171"
+  },
+  {
+    "city": "Bareggio",
+    "admin": "Lombardy",
+    "sort": "17304"
+  },
+  {
+    "city": "Carovigno",
+    "admin": "Puglia",
+    "sort": "17120"
+  },
+  {
+    "city": "Erba",
+    "admin": "Lombardy",
+    "sort": "16346"
+  },
+  {
+    "city": "Fiorano Modenese",
+    "admin": "Emilia-Romagna",
+    "sort": "17099"
+  },
+  {
+    "city": "Campagna",
+    "admin": "Campania",
+    "sort": "17169"
+  },
+  {
+    "city": "Saluzzo",
+    "admin": "Piedmont",
+    "sort": "16958"
+  },
+  {
+    "city": "Castellaneta",
+    "admin": "Puglia",
+    "sort": "17069"
+  },
+  {
+    "city": "San Giovanni in Fiore",
+    "admin": "Calabria",
+    "sort": "17059"
+  },
+  {
+    "city": "Martinsicuro",
+    "admin": "Abruzzo",
+    "sort": "15992"
+  },
+  {
+    "city": "Torre Maggiore",
+    "admin": "Puglia",
+    "sort": "17069"
+  },
+  {
+    "city": "Grottammare",
+    "admin": "Marche",
+    "sort": "16166"
+  },
+  {
+    "city": "Vedelago",
+    "admin": "Veneto",
+    "sort": "16781"
+  },
+  {
+    "city": "Scordia",
+    "admin": "Sicilia",
+    "sort": "16919"
+  },
+  {
+    "city": "Samarate",
+    "admin": "Lombardy",
+    "sort": "16018"
+  },
+  {
+    "city": "Lentate sul Seveso",
+    "admin": "Lombardy",
+    "sort": "15878"
+  },
+  {
+    "city": "Giaveno",
+    "admin": "Piedmont",
+    "sort": "16747"
+  },
+  {
+    "city": "Agrate Brianza",
+    "admin": "Lombardy",
+    "sort": "15540"
+  },
+  {
+    "city": "Leinì",
+    "admin": "Piedmont",
+    "sort": "16375"
+  },
+  {
+    "city": "Medicina",
+    "admin": "Emilia-Romagna",
+    "sort": "16768"
+  },
+  {
+    "city": "Este",
+    "admin": "Veneto",
+    "sort": "16364"
+  },
+  {
+    "city": "Monesiglio",
+    "admin": "Piedmont",
+    "sort": "16631"
+  },
+  {
+    "city": "Bagnacavallo",
+    "admin": "Emilia-Romagna",
+    "sort": "16780"
+  },
+  {
+    "city": "Lonigo",
+    "admin": "Veneto",
+    "sort": "16466"
+  },
+  {
+    "city": "Cerea",
+    "admin": "Veneto",
+    "sort": "16517"
+  },
+  {
+    "city": "Caravaggio",
+    "admin": "Lombardy",
+    "sort": "16261"
+  },
+  {
+    "city": "Colle Salvetti",
+    "admin": "Tuscany",
+    "sort": "16693"
+  },
+  {
+    "city": "Porto Empedocle",
+    "admin": "Sicilia",
+    "sort": "16701"
+  },
+  {
+    "city": "Capurso",
+    "admin": "Puglia",
+    "sort": "15682"
+  },
+  {
+    "city": "Todi",
+    "admin": "Umbria",
+    "sort": "16606"
+  },
+  {
+    "city": "Palagonia",
+    "admin": "Sicilia",
+    "sort": "16654"
+  },
+  {
+    "city": "Reggello",
+    "admin": "Tuscany",
+    "sort": "16543"
+  },
+  {
+    "city": "Noale",
+    "admin": "Veneto",
+    "sort": "16017"
+  },
+  {
+    "city": "Codogno",
+    "admin": "Lombardy",
+    "sort": "15901"
+  },
+  {
+    "city": "Brunico",
+    "admin": "Trentino-Alto Adige",
+    "sort": "16580"
+  },
+  {
+    "city": "Umbertide",
+    "admin": "Umbria",
+    "sort": "16530"
+  },
+  {
+    "city": "Besana in Brianza",
+    "admin": "Lombardy",
+    "sort": "15573"
+  },
+  {
+    "city": "Bovolone",
+    "admin": "Veneto",
+    "sort": "16078"
+  },
+  {
+    "city": "Ispica",
+    "admin": "Sicilia",
+    "sort": "16307"
+  },
+  {
+    "city": "Sava",
+    "admin": "Puglia",
+    "sort": "16076"
+  },
+  {
+    "city": "Copparo",
+    "admin": "Emilia-Romagna",
+    "sort": "16294"
+  },
+  {
+    "city": "Codroipo",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "16165"
+  },
+  {
+    "city": "Palagiano",
+    "admin": "Puglia",
+    "sort": "16105"
+  },
+  {
+    "city": "Tarquinia",
+    "admin": "Lazio",
+    "sort": "16269"
+  },
+  {
+    "city": "Ponsacco",
+    "admin": "Tuscany",
+    "sort": "15539"
+  },
+  {
+    "city": "Ospitaletto",
+    "admin": "Lombardy",
+    "sort": "14711"
+  },
+  {
+    "city": "Civita Castellana",
+    "admin": "Lazio",
+    "sort": "16262"
+  },
+  {
+    "city": "Nonantola",
+    "admin": "Emilia-Romagna",
+    "sort": "15957"
+  },
+  {
+    "city": "Merate",
+    "admin": "Lombardy",
+    "sort": "14891"
+  },
+  {
+    "city": "Pianezza",
+    "admin": "Piedmont",
+    "sort": "15309"
+  },
+  {
+    "city": "Certaldo",
+    "admin": "Tuscany",
+    "sort": "16023"
+  },
+  {
+    "city": "Galliate",
+    "admin": "Piedmont",
+    "sort": "15685"
+  },
+  {
+    "city": "San Cesareo",
+    "admin": "Lazio",
+    "sort": "15552"
+  },
+  {
+    "city": "Potenza Picena",
+    "admin": "Marche",
+    "sort": "15827"
+  },
+  {
+    "city": "Altopascio",
+    "admin": "Tuscany",
+    "sort": "15572"
+  },
+  {
+    "city": "Valmontone",
+    "admin": "Lazio",
+    "sort": "16073"
+  },
+  {
+    "city": "Paola",
+    "admin": "Calabria",
+    "sort": "15716"
+  },
+  {
+    "city": "Azzano Decimo",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "15744"
+  },
+  {
+    "city": "Sansepolcro",
+    "admin": "Tuscany",
+    "sort": "15876"
+  },
+  {
+    "city": "Rescaldina",
+    "admin": "Lombardy",
+    "sort": "14185"
+  },
+  {
+    "city": "Fiano Romano",
+    "admin": "Lazio",
+    "sort": "15556"
+  },
+  {
+    "city": "Volpiano",
+    "admin": "Piedmont",
+    "sort": "15453"
+  },
+  {
+    "city": "San Martino Buon Albergo",
+    "admin": "Veneto",
+    "sort": "15482"
+  },
+  {
+    "city": "Mottola",
+    "admin": "Puglia",
+    "sort": "15842"
+  },
+  {
+    "city": "Casalpusterlengo",
+    "admin": "Lombardy",
+    "sort": "15280"
+  },
+  {
+    "city": "Galatone",
+    "admin": "Puglia",
+    "sort": "15544"
+  },
+  {
+    "city": "Surbo",
+    "admin": "Puglia",
+    "sort": "15115"
+  },
+  {
+    "city": "Carugate",
+    "admin": "Lombardy",
+    "sort": "15482"
+  },
+  {
+    "city": "Taurianova",
+    "admin": "Calabria",
+    "sort": "15501"
+  },
+  {
+    "city": "Castenaso",
+    "admin": "Emilia-Romagna",
+    "sort": "15363"
+  },
+  {
+    "city": "Omegna",
+    "admin": "Piedmont",
+    "sort": "15285"
+  },
+  {
+    "city": "Cassina de’ Pecchi",
+    "admin": "Lombardy",
+    "sort": "13849"
+  },
+  {
+    "city": "Molinella",
+    "admin": "Emilia-Romagna",
+    "sort": "15642"
+  },
+  {
+    "city": "Silvi Paese",
+    "admin": "Abruzzo",
+    "sort": "15708"
+  },
+  {
+    "city": "San Giorgio Ionico",
+    "admin": "Puglia",
+    "sort": "15101"
+  },
+  {
+    "city": "Finale Emilia",
+    "admin": "Emilia-Romagna",
+    "sort": "15581"
+  },
+  {
+    "city": "Riposto",
+    "admin": "Sicilia",
+    "sort": "14620"
+  },
+  {
+    "city": "Castelnuovo Rangone",
+    "admin": "Emilia-Romagna",
+    "sort": "15035"
+  },
+  {
+    "city": "Opera",
+    "admin": "Lombardy",
+    "sort": "13858"
+  },
+  {
+    "city": "Valeggio sul Mincio",
+    "admin": "Veneto",
+    "sort": "15424"
+  },
+  {
+    "city": "Casalmaggiore",
+    "admin": "Lombardy",
+    "sort": "15425"
+  },
+  {
+    "city": "Mortara",
+    "admin": "Lombardy",
+    "sort": "15362"
+  },
+  {
+    "city": "Dolo",
+    "admin": "Veneto",
+    "sort": "15022"
+  },
+  {
+    "city": "Corridonia",
+    "admin": "Marche",
+    "sort": "15362"
+  },
+  {
+    "city": "Soliera",
+    "admin": "Emilia-Romagna",
+    "sort": "15296"
+  },
+  {
+    "city": "Castellarano",
+    "admin": "Emilia-Romagna",
+    "sort": "15326"
+  },
+  {
+    "city": "Chiaravalle",
+    "admin": "Marche",
+    "sort": "14733"
+  },
+  {
+    "city": "Castiglione del Lago",
+    "admin": "Umbria",
+    "sort": "15479"
+  },
+  {
+    "city": "Fiorenzuola d’Arda",
+    "admin": "Emilia-Romagna",
+    "sort": "15276"
+  },
+  {
+    "city": "Cerro Maggiore",
+    "admin": "Lombardy",
+    "sort": "15211"
+  },
+  {
+    "city": "Santa Croce sull’ Arno",
+    "admin": "Tuscany",
+    "sort": "14627"
+  },
+  {
+    "city": "Rubiera",
+    "admin": "Emilia-Romagna",
+    "sort": "14833"
+  },
+  {
+    "city": "Calolziocorte",
+    "admin": "Lombardy",
+    "sort": "13877"
+  },
+  {
+    "city": "Pedara",
+    "admin": "Sicilia",
+    "sort": "14613"
+  },
+  {
+    "city": "Malo",
+    "admin": "Veneto",
+    "sort": "14855"
+  },
+  {
+    "city": "Castellammare del Golfo",
+    "admin": "Sicilia",
+    "sort": "15209"
+  },
+  {
+    "city": "Zevio",
+    "admin": "Veneto",
+    "sort": "15048"
+  },
+  {
+    "city": "Guastalla",
+    "admin": "Emilia-Romagna",
+    "sort": "15032"
+  },
+  {
+    "city": "Sannicandro Garganico",
+    "admin": "Puglia",
+    "sort": "15224"
+  },
+  {
+    "city": "San Vito al Tagliamento",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "15063"
+  },
+  {
+    "city": "Pineto",
+    "admin": "Abruzzo",
+    "sort": "14915"
+  },
+  {
+    "city": "Santa Maria a Vico",
+    "admin": "Campania",
+    "sort": "14004"
+  },
+  {
+    "city": "Città Sant’Angelo",
+    "admin": "Abruzzo",
+    "sort": "15034"
+  },
+  {
+    "city": "Laterza",
+    "admin": "Puglia",
+    "sort": "15171"
+  },
+  {
+    "city": "Campodarsego",
+    "admin": "Veneto",
+    "sort": "14675"
+  },
+  {
+    "city": "Sommacampagna",
+    "admin": "Veneto",
+    "sort": "14802"
+  },
+  {
+    "city": "Cossato",
+    "admin": "Piedmont",
+    "sort": "14633"
+  },
+  {
+    "city": "Rosarno",
+    "admin": "Calabria",
+    "sort": "14776"
+  },
+  {
+    "city": "Cirò Marina",
+    "admin": "Calabria",
+    "sort": "14794"
+  },
+  {
+    "city": "Gualdo Tadino",
+    "admin": "Umbria",
+    "sort": "15018"
+  },
+  {
+    "city": "Trepuzzi",
+    "admin": "Puglia",
+    "sort": "14512"
+  },
+  {
+    "city": "Tavagnacco",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "14981"
+  },
+  {
+    "city": "Rosà",
+    "admin": "Veneto",
+    "sort": "14499"
+  },
+  {
+    "city": "Sasso Marconi",
+    "admin": "Emilia-Romagna",
+    "sort": "14903"
+  },
+  {
+    "city": "Pontinia",
+    "admin": "Lazio",
+    "sort": "14915"
+  },
+  {
+    "city": "Sorso",
+    "admin": "Sardegna",
+    "sort": "14826"
+  },
+  {
+    "city": "Carmignano",
+    "admin": "Tuscany",
+    "sort": "14663"
+  },
+  {
+    "city": "Massalubrense",
+    "admin": "Campania",
+    "sort": "14294"
+  },
+  {
+    "city": "Magione",
+    "admin": "Umbria",
+    "sort": "14815"
+  },
+  {
+    "city": "Vinci",
+    "admin": "Tuscany",
+    "sort": "14650"
+  },
+  {
+    "city": "Impruneta",
+    "admin": "Tuscany",
+    "sort": "14618"
+  },
+  {
+    "city": "Busto Garolfo",
+    "admin": "Lombardy",
+    "sort": "13851"
+  },
+  {
+    "city": "Mondolfo",
+    "admin": "Marche",
+    "sort": "14265"
+  },
+  {
+    "city": "Arona",
+    "admin": "Piedmont",
+    "sort": "13966"
+  },
+  {
+    "city": "Collecchio",
+    "admin": "Emilia-Romagna",
+    "sort": "14634"
+  },
+  {
+    "city": "Montelupo Fiorentino",
+    "admin": "Tuscany",
+    "sort": "14247"
+  },
+  {
+    "city": "Maglie",
+    "admin": "Puglia",
+    "sort": "14196"
+  },
+  {
+    "city": "Cassano delle Murge",
+    "admin": "Puglia",
+    "sort": "14765"
+  },
+  {
+    "city": "Castel San Giorgio",
+    "admin": "Campania",
+    "sort": "13784"
+  },
+  {
+    "city": "Roncade",
+    "admin": "Veneto",
+    "sort": "14561"
+  },
+  {
+    "city": "Villa San Giovanni",
+    "admin": "Calabria",
+    "sort": "13667"
+  },
+  {
+    "city": "Piano di Sorrento",
+    "admin": "Campania",
+    "sort": "13008"
+  },
+  {
+    "city": "Monteroni di Lecce",
+    "admin": "Puglia",
+    "sort": "13923"
+  },
+  {
+    "city": "Trinitapoli",
+    "admin": "Puglia",
+    "sort": "14649"
+  },
+  {
+    "city": "Orbetello",
+    "admin": "Tuscany",
+    "sort": "14744"
+  },
+  {
+    "city": "Travagliato",
+    "admin": "Lombardy",
+    "sort": "13930"
+  },
+  {
+    "city": "Villasanta",
+    "admin": "Lombardy",
+    "sort": "13972"
+  },
+  {
+    "city": "Mascali",
+    "admin": "Sicilia",
+    "sort": "14301"
+  },
+  {
+    "city": "Latiano",
+    "admin": "Puglia",
+    "sort": "14403"
+  },
+  {
+    "city": "Cicciano",
+    "admin": "Campania",
+    "sort": "12897"
+  },
+  {
+    "city": "Alzano Lombardo",
+    "admin": "Lombardy",
+    "sort": "13637"
+  },
+  {
+    "city": "Urbino",
+    "admin": "Marche",
+    "sort": "14558"
+  },
+  {
+    "city": "Priverno",
+    "admin": "Lazio",
+    "sort": "14365"
+  },
+  {
+    "city": "Leno",
+    "admin": "Lombardy",
+    "sort": "14322"
+  },
+  {
+    "city": "Cefalù",
+    "admin": "Sicilia",
+    "sort": "14298"
+  },
+  {
+    "city": "Oleggio",
+    "admin": "Piedmont",
+    "sort": "14135"
+  },
+  {
+    "city": "Squinzano",
+    "admin": "Puglia",
+    "sort": "14031"
+  },
+  {
+    "city": "Fiesole",
+    "admin": "Tuscany",
+    "sort": "14150"
+  },
+  {
+    "city": "Locorotondo",
+    "admin": "Puglia",
+    "sort": "14190"
+  },
+  {
+    "city": "Luino",
+    "admin": "Lombardy",
+    "sort": "14454"
+  },
+  {
+    "city": "Taggia",
+    "admin": "Liguria",
+    "sort": "14003"
+  },
+  {
+    "city": "Amantea",
+    "admin": "Calabria",
+    "sort": "13975"
+  },
+  {
+    "city": "Caselle Torinese",
+    "admin": "Piedmont",
+    "sort": "13958"
+  },
+  {
+    "city": "Marostica",
+    "admin": "Veneto",
+    "sort": "14039"
+  },
+  {
+    "city": "Fisciano",
+    "admin": "Campania",
+    "sort": "13967"
+  },
+  {
+    "city": "Taglio",
+    "admin": "Veneto",
+    "sort": "14298"
+  },
+  {
+    "city": "Artena",
+    "admin": "Lazio",
+    "sort": "14107"
+  },
+  {
+    "city": "Cervignano del Friuli",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "13881"
+  },
+  {
+    "city": "Rezzato",
+    "admin": "Lombardy",
+    "sort": "13576"
+  },
+  {
+    "city": "Bondeno",
+    "admin": "Emilia-Romagna",
+    "sort": "14217"
+  },
+  {
+    "city": "Veglie",
+    "admin": "Puglia",
+    "sort": "13947"
+  },
+  {
+    "city": "Olgiate Olona",
+    "admin": "Lombardy",
+    "sort": "12444"
+  },
+  {
+    "city": "San Ferdinando di Puglia",
+    "admin": "Puglia",
+    "sort": "13828"
+  },
+  {
+    "city": "Fara in Sabina",
+    "admin": "Lazio",
+    "sort": "13904"
+  },
+  {
+    "city": "Leverano",
+    "admin": "Puglia",
+    "sort": "14145"
+  },
+  {
+    "city": "Vetralla",
+    "admin": "Lazio",
+    "sort": "14020"
+  },
+  {
+    "city": "Tempio Pausania",
+    "admin": "Sardegna",
+    "sort": "14052"
+  },
+  {
+    "city": "Villacidro",
+    "admin": "Sardegna",
+    "sort": "14019"
+  },
+  {
+    "city": "Sarezzo",
+    "admin": "Lombardy",
+    "sort": "13337"
+  },
+  {
+    "city": "Casatenovo",
+    "admin": "Lombardy",
+    "sort": "13042"
+  },
+  {
+    "city": "Montepulciano",
+    "admin": "Tuscany",
+    "sort": "13984"
+  },
+  {
+    "city": "Múggia",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "13111"
+  },
+  {
+    "city": "Lariano",
+    "admin": "Lazio",
+    "sort": "13448"
+  },
+  {
+    "city": "Vieste",
+    "admin": "Puglia",
+    "sort": "13943"
+  },
+  {
+    "city": "Montesarchio",
+    "admin": "Campania",
+    "sort": "13508"
+  },
+  {
+    "city": "Statte",
+    "admin": "Puglia",
+    "sort": "13808"
+  },
+  {
+    "city": "Misano Adriatico",
+    "admin": "Emilia-Romagna",
+    "sort": "13400"
+  },
+  {
+    "city": "Dueville",
+    "admin": "Veneto",
+    "sort": "13804"
+  },
+  {
+    "city": "Novellara",
+    "admin": "Emilia-Romagna",
+    "sort": "13721"
+  },
+  {
+    "city": "Fagnano Olona",
+    "admin": "Lombardy",
+    "sort": "12510"
+  },
+  {
+    "city": "San Prisco",
+    "admin": "Campania",
+    "sort": "12333"
+  },
+  {
+    "city": "Lanuvio",
+    "admin": "Lazio",
+    "sort": "13580"
+  },
+  {
+    "city": "Cavarzere",
+    "admin": "Veneto",
+    "sort": "13791"
+  },
+  {
+    "city": "Sant’Angelo Lodigiano",
+    "admin": "Lombardy",
+    "sort": "13202"
+  },
+  {
+    "city": "San Pietro Vernotico",
+    "admin": "Puglia",
+    "sort": "13556"
+  },
+  {
+    "city": "Forlimpopoli",
+    "admin": "Emilia-Romagna",
+    "sort": "13294"
+  },
+  {
+    "city": "Latisana",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "13478"
+  },
+  {
+    "city": "Arzachena",
+    "admin": "Sardegna",
+    "sort": "13756"
+  },
+  {
+    "city": "Crispiano",
+    "admin": "Puglia",
+    "sort": "13693"
+  },
+  {
+    "city": "Castel San Giovanni",
+    "admin": "Emilia-Romagna",
+    "sort": "13756"
+  },
+  {
+    "city": "Camponogara",
+    "admin": "Veneto",
+    "sort": "13117"
+  },
+  {
+    "city": "Quartucciu",
+    "admin": "Sardegna",
+    "sort": "13234"
+  },
+  {
+    "city": "Grammichele",
+    "admin": "Sicilia",
+    "sort": "13267"
+  },
+  {
+    "city": "Castelfranco di Sotto",
+    "admin": "Tuscany",
+    "sort": "13396"
+  },
+  {
+    "city": "Vigodarzere",
+    "admin": "Veneto",
+    "sort": "13017"
+  },
+  {
+    "city": "Salzano",
+    "admin": "Veneto",
+    "sort": "12911"
+  },
+  {
+    "city": "Nicosia",
+    "admin": "Sicilia",
+    "sort": "13588"
+  },
+  {
+    "city": "San Martino di Lupari",
+    "admin": "Veneto",
+    "sort": "13104"
+  },
+  {
+    "city": "Crevalcore",
+    "admin": "Emilia-Romagna",
+    "sort": "13501"
+  },
+  {
+    "city": "Montefiascone",
+    "admin": "Lazio",
+    "sort": "13498"
+  },
+  {
+    "city": "Melilli",
+    "admin": "Sicilia",
+    "sort": "13519"
+  },
+  {
+    "city": "San Gennaro Vesuviano",
+    "admin": "Campania",
+    "sort": "11910"
+  },
+  {
+    "city": "Montespertoli",
+    "admin": "Tuscany",
+    "sort": "13497"
+  },
+  {
+    "city": "San Marco in Lamis",
+    "admin": "Puglia",
+    "sort": "13583"
+  },
+  {
+    "city": "Manerbio",
+    "admin": "Lombardy",
+    "sort": "13109"
+  },
+  {
+    "city": "Calderara di Reno",
+    "admin": "Emilia-Romagna",
+    "sort": "13224"
+  },
+  {
+    "city": "Tezze sul Brenta",
+    "admin": "Veneto",
+    "sort": "12817"
+  },
+  {
+    "city": "Patti",
+    "admin": "Sicilia",
+    "sort": "13266"
+  },
+  {
+    "city": "Gricignano d’Aversa",
+    "admin": "Campania",
+    "sort": "12296"
+  },
+  {
+    "city": "Lavagna",
+    "admin": "Liguria",
+    "sort": "12617"
+  },
+  {
+    "city": "Loreto",
+    "admin": "Marche",
+    "sort": "12802"
+  },
+  {
+    "city": "Casale sul Sile",
+    "admin": "Veneto",
+    "sort": "13032"
+  },
+  {
+    "city": "Lavello",
+    "admin": "Basilicata",
+    "sort": "13411"
+  },
+  {
+    "city": "Quattro Castella",
+    "admin": "Emilia-Romagna",
+    "sort": "13217"
+  },
+  {
+    "city": "Formello",
+    "admin": "Lazio",
+    "sort": "13070"
+  },
+  {
+    "city": "Rionero in Vulture",
+    "admin": "Basilicata",
+    "sort": "13236"
+  },
+  {
+    "city": "Chiampo",
+    "admin": "Veneto",
+    "sort": "12879"
+  },
+  {
+    "city": "Capaci",
+    "admin": "Sicilia",
+    "sort": "11549"
+  },
+  {
+    "city": "Calcinaia",
+    "admin": "Tuscany",
+    "sort": "12582"
+  },
+  {
+    "city": "Carpenedolo",
+    "admin": "Lombardy",
+    "sort": "12957"
+  },
+  {
+    "city": "Varazze",
+    "admin": "Liguria",
+    "sort": "13113"
+  },
+  {
+    "city": "Palombara Sabina",
+    "admin": "Lazio",
+    "sort": "13200"
+  },
+  {
+    "city": "Cavallino",
+    "admin": "Puglia",
+    "sort": "12808"
+  },
+  {
+    "city": "Castiglion Fiorentino",
+    "admin": "Tuscany",
+    "sort": "13228"
+  },
+  {
+    "city": "Ficarazzi",
+    "admin": "Sicilia",
+    "sort": "13080"
+  },
+  {
+    "city": "Porto Recanati",
+    "admin": "Marche",
+    "sort": "12609"
+  },
+  {
+    "city": "Trebaseleghe",
+    "admin": "Veneto",
+    "sort": "12916"
+  },
+  {
+    "city": "Capo d’Orlando",
+    "admin": "Sicilia",
+    "sort": "13320"
+  },
+  {
+    "city": "Seravezza",
+    "admin": "Tuscany",
+    "sort": "12962"
+  },
+  {
+    "city": "Montegranaro",
+    "admin": "Marche",
+    "sort": "12876"
+  },
+  {
+    "city": "Calcinato",
+    "admin": "Lombardy",
+    "sort": "12894"
+  },
+  {
+    "city": "Cairo Montenotte",
+    "admin": "Liguria",
+    "sort": "13145"
+  },
+  {
+    "city": "Pontecorvo",
+    "admin": "Lazio",
+    "sort": "13125"
+  },
+  {
+    "city": "San Biagio di Callalta",
+    "admin": "Veneto",
+    "sort": "12996"
+  },
+  {
+    "city": "Apricena",
+    "admin": "Puglia",
+    "sort": "13174"
+  },
+  {
+    "city": "Castelnuovo di Verona",
+    "admin": "Veneto",
+    "sort": "13137"
+  },
+  {
+    "city": "Morbegno",
+    "admin": "Lombardy",
+    "sort": "12407"
+  },
+  {
+    "city": "Raffadali",
+    "admin": "Sicilia",
+    "sort": "12650"
+  },
+  {
+    "city": "Barrafranca",
+    "admin": "Sicilia",
+    "sort": "12960"
+  },
+  {
+    "city": "Spilamberto",
+    "admin": "Emilia-Romagna",
+    "sort": "12767"
+  },
+  {
+    "city": "Terrasini Favarotta",
+    "admin": "Sicilia",
+    "sort": "12535"
+  },
+  {
+    "city": "Stezzano",
+    "admin": "Lombardy",
+    "sort": "13112"
+  },
+  {
+    "city": "Monteprandone",
+    "admin": "Marche",
+    "sort": "12678"
+  },
+  {
+    "city": "Santa Maria a Monte",
+    "admin": "Tuscany",
+    "sort": "13061"
+  },
+  {
+    "city": "Leonforte",
+    "admin": "Sicilia",
+    "sort": "13106"
+  },
+  {
+    "city": "Noceto",
+    "admin": "Emilia-Romagna",
+    "sort": "12919"
+  },
+  {
+    "city": "Bagnolo Mella",
+    "admin": "Lombardy",
+    "sort": "12677"
+  },
+  {
+    "city": "Campiglia Marittima",
+    "admin": "Tuscany",
+    "sort": "13018"
+  },
+  {
+    "city": "Santo Stino di Livenza",
+    "admin": "Veneto",
+    "sort": "12855"
+  },
+  {
+    "city": "Solofra",
+    "admin": "Campania",
+    "sort": "12470"
+  },
+  {
+    "city": "Trezzo sull’Adda",
+    "admin": "Lombardy",
+    "sort": "12090"
+  },
+  {
+    "city": "Mercogliano",
+    "admin": "Campania",
+    "sort": "12369"
+  },
+  {
+    "city": "Borgosesia",
+    "admin": "Piedmont",
+    "sort": "12676"
+  },
+  {
+    "city": "Montecorvino Rovella",
+    "admin": "Campania",
+    "sort": "12682"
+  },
+  {
+    "city": "Pianiga",
+    "admin": "Veneto",
+    "sort": "12363"
+  },
+  {
+    "city": "Arluno",
+    "admin": "Lombardy",
+    "sort": "12000"
+  },
+  {
+    "city": "Monte San Giovanni Campano",
+    "admin": "Lazio",
+    "sort": "12706"
+  },
+  {
+    "city": "Lipari",
+    "admin": "Sicilia",
+    "sort": "12819"
+  },
+  {
+    "city": "Castel Goffredo",
+    "admin": "Lombardy",
+    "sort": "12633"
+  },
+  {
+    "city": "Rivarolo Canavese",
+    "admin": "Piedmont",
+    "sort": "12539"
+  },
+  {
+    "city": "Grumo Appula",
+    "admin": "Puglia",
+    "sort": "12710"
+  },
+  {
+    "city": "Sala Consilina",
+    "admin": "Campania",
+    "sort": "12636"
+  },
+  {
+    "city": "Locri",
+    "admin": "Calabria",
+    "sort": "12367"
+  },
+  {
+    "city": "Francofonte",
+    "admin": "Sicilia",
+    "sort": "12661"
+  },
+  {
+    "city": "Figline Valdarno",
+    "admin": "Tuscany",
+    "sort": "12646"
+  },
+  {
+    "city": "Fontanafredda",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "12521"
+  },
+  {
+    "city": "Sant’Agata di Militello",
+    "admin": "Sicilia",
+    "sort": "12393"
+  },
+  {
+    "city": "Sinalunga",
+    "admin": "Tuscany",
+    "sort": "12573"
+  },
+  {
+    "city": "Altavilla Vicentina",
+    "admin": "Veneto",
+    "sort": "12013"
+  },
+  {
+    "city": "Paullo",
+    "admin": "Lombardy",
+    "sort": "11429"
+  },
+  {
+    "city": "Olgiate Comasco",
+    "admin": "Lombardy",
+    "sort": "11633"
+  },
+  {
+    "city": "Pieve di Soligo",
+    "admin": "Veneto",
+    "sort": "12057"
+  },
+  {
+    "city": "Orzinuovi",
+    "admin": "Lombardy",
+    "sort": "12419"
+  },
+  {
+    "city": "Ronchi dei Legionari",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "11971"
+  },
+  {
+    "city": "Avigliana",
+    "admin": "Piedmont",
+    "sort": "12599"
+  },
+  {
+    "city": "Anzola dell’Emilia",
+    "admin": "Emilia-Romagna",
+    "sort": "12310"
+  },
+  {
+    "city": "Monte Compatri",
+    "admin": "Lazio",
+    "sort": "12134"
+  },
+  {
+    "city": "Lana",
+    "admin": "Trentino-Alto Adige",
+    "sort": "12286"
+  },
+  {
+    "city": "Cinisi",
+    "admin": "Sicilia",
+    "sort": "12250"
+  },
+  {
+    "city": "San Mauro Pascoli",
+    "admin": "Emilia-Romagna",
+    "sort": "11929"
+  },
+  {
+    "city": "Camposampiero",
+    "admin": "Veneto",
+    "sort": "12043"
+  },
+  {
+    "city": "Spresiano",
+    "admin": "Veneto",
+    "sort": "12136"
+  },
+  {
+    "city": "San Pietro in Casale",
+    "admin": "Emilia-Romagna",
+    "sort": "12418"
+  },
+  {
+    "city": "Gavardo",
+    "admin": "Lombardy",
+    "sort": "12197"
+  },
+  {
+    "city": "Casciana Terme",
+    "admin": "Tuscany",
+    "sort": "12444"
+  },
+  {
+    "city": "Menfi",
+    "admin": "Sicilia",
+    "sort": "12471"
+  },
+  {
+    "city": "Russi",
+    "admin": "Emilia-Romagna",
+    "sort": "12309"
+  },
+  {
+    "city": "Borgo San Dalmazzo",
+    "admin": "Piedmont",
+    "sort": "12492"
+  },
+  {
+    "city": "Ugento",
+    "admin": "Puglia",
+    "sort": "12412"
+  },
+  {
+    "city": "Motta Sant’Anastasia",
+    "admin": "Sicilia",
+    "sort": "12189"
+  },
+  {
+    "city": "Valmadrera",
+    "admin": "Lombardy",
+    "sort": "11601"
+  },
+  {
+    "city": "San Severino Marche",
+    "admin": "Marche",
+    "sort": "12456"
+  },
+  {
+    "city": "Taviano",
+    "admin": "Puglia",
+    "sort": "11972"
+  },
+  {
+    "city": "Cornedo Vicentino",
+    "admin": "Veneto",
+    "sort": "11982"
+  },
+  {
+    "city": "Bernalda",
+    "admin": "Basilicata",
+    "sort": "12453"
+  },
+  {
+    "city": "Teano",
+    "admin": "Campania",
+    "sort": "12303"
+  },
+  {
+    "city": "Terranuova Bracciolini",
+    "admin": "Tuscany",
+    "sort": "12292"
+  },
+  {
+    "city": "Eraclea",
+    "admin": "Veneto",
+    "sort": "12276"
+  },
+  {
+    "city": "Lizzanello",
+    "admin": "Puglia",
+    "sort": "11934"
+  },
+  {
+    "city": "Monte Sant’Angelo",
+    "admin": "Puglia",
+    "sort": "12342"
+  },
+  {
+    "city": "Granarolo del l’Emilia",
+    "admin": "Emilia-Romagna",
+    "sort": "12032"
+  },
+  {
+    "city": "Villa Literno",
+    "admin": "Campania",
+    "sort": "12184"
+  },
+  {
+    "city": "Monteforte Irpino",
+    "admin": "Campania",
+    "sort": "11933"
+  },
+  {
+    "city": "Occhiobello",
+    "admin": "Rovigo",
+    "sort": "11993"
+  },
+  {
+    "city": "Sedriano",
+    "admin": "Lombardy",
+    "sort": "12246"
+  },
+  {
+    "city": "Sant’Ambrogio di Valpolicella",
+    "admin": "Veneto",
+    "sort": "11818"
+  },
+  {
+    "city": "Spilimbergo",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "12151"
+  },
+  {
+    "city": "Bibbiena",
+    "admin": "Tuscany",
+    "sort": "12177"
+  },
+  {
+    "city": "Torri di Quartesolo",
+    "admin": "Veneto",
+    "sort": "11684"
+  },
+  {
+    "city": "Stradella",
+    "admin": "Lombardy",
+    "sort": "11637"
+  },
+  {
+    "city": "Rottofreno",
+    "admin": "Emilia-Romagna",
+    "sort": "12220"
+  },
+  {
+    "city": "Tortoreto",
+    "admin": "Abruzzo",
+    "sort": "11757"
+  },
+  {
+    "city": "Taurisano",
+    "admin": "Puglia",
+    "sort": "11770"
+  },
+  {
+    "city": "Casièr",
+    "admin": "Veneto",
+    "sort": "11412"
+  },
+  {
+    "city": "Vecchiano",
+    "admin": "Tuscany",
+    "sort": "12082"
+  },
+  {
+    "city": "Atripalda",
+    "admin": "Campania",
+    "sort": "10968"
+  },
+  {
+    "city": "Portoferraio",
+    "admin": "Tuscany",
+    "sort": "11955"
+  },
+  {
+    "city": "Isola del Liri",
+    "admin": "Lazio",
+    "sort": "11482"
+  },
+  {
+    "city": "Rocca Priora",
+    "admin": "Lazio",
+    "sort": "12060"
+  },
+  {
+    "city": "Lonate Pozzolo",
+    "admin": "Lombardy",
+    "sort": "11786"
+  },
+  {
+    "city": "Pulsano",
+    "admin": "Puglia",
+    "sort": "11504"
+  },
+  {
+    "city": "Lauria Inferiore",
+    "admin": "Basilicata",
+    "sort": "12092"
+  },
+  {
+    "city": "Carmiano",
+    "admin": "Puglia",
+    "sort": "12068"
+  },
+  {
+    "city": "Margherita di Savoia",
+    "admin": "Puglia",
+    "sort": "11771"
+  },
+  {
+    "city": "Susegana",
+    "admin": "Veneto",
+    "sort": "11831"
+  },
+  {
+    "city": "Priolo Gargallo",
+    "admin": "Sicilia",
+    "sort": "11883"
+  },
+  {
+    "city": "Gambettola",
+    "admin": "Emilia-Romagna",
+    "sort": "10704"
+  },
+  {
+    "city": "Bitetto",
+    "admin": "Puglia",
+    "sort": "12006"
+  },
+  {
+    "city": "Alfonsine",
+    "admin": "Emilia-Romagna",
+    "sort": "11953"
+  },
+  {
+    "city": "Fiume Veneto",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "11729"
+  },
+  {
+    "city": "Loano",
+    "admin": "Liguria",
+    "sort": "11224"
+  },
+  {
+    "city": "Cave",
+    "admin": "Lazio",
+    "sort": "11381"
+  },
+  {
+    "city": "Borgaro Torinese",
+    "admin": "Piedmont",
+    "sort": "11931"
+  },
+  {
+    "city": "Casteldaccia",
+    "admin": "Sicilia",
+    "sort": "11655"
+  },
+  {
+    "city": "Caldogno",
+    "admin": "Veneto",
+    "sort": "11272"
+  },
+  {
+    "city": "Santa Flavia",
+    "admin": "Sicilia",
+    "sort": "11212"
+  },
+  {
+    "city": "Gardone Val Trompia",
+    "admin": "Lombardy",
+    "sort": "11538"
+  },
+  {
+    "city": "Serravalle Pistoiese",
+    "admin": "Tuscany",
+    "sort": "11689"
+  },
+  {
+    "city": "Arenzano",
+    "admin": "Liguria",
+    "sort": "11478"
+  },
+  {
+    "city": "Campobello di Mazara",
+    "admin": "Sicilia",
+    "sort": "11769"
+  },
+  {
+    "city": "Finale Ligure",
+    "admin": "Liguria",
+    "sort": "11613"
+  },
+  {
+    "city": "San Michele al Tagliamento",
+    "admin": "Veneto",
+    "sort": "11822"
+  },
+  {
+    "city": "Castenedolo",
+    "admin": "Lombardy",
+    "sort": "11482"
+  },
+  {
+    "city": "Amelia",
+    "admin": "Umbria",
+    "sort": "11828"
+  },
+  {
+    "city": "Maniago",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "11746"
+  },
+  {
+    "city": "Lendinara",
+    "admin": "Veneto",
+    "sort": "11694"
+  },
+  {
+    "city": "Giffoni Valle Piana",
+    "admin": "Campania",
+    "sort": "11899"
+  },
+  {
+    "city": "Pellezzano",
+    "admin": "Campania",
+    "sort": "11101"
+  },
+  {
+    "city": "Macerata Campania",
+    "admin": "Campania",
+    "sort": "10507"
+  },
+  {
+    "city": "Mazzarino",
+    "admin": "Sicilia",
+    "sort": "11842"
+  },
+  {
+    "city": "Matino",
+    "admin": "Puglia",
+    "sort": "11444"
+  },
+  {
+    "city": "Sant’Ilario d’Enza",
+    "admin": "Emilia-Romagna",
+    "sort": "11263"
+  },
+  {
+    "city": "Castano Primo",
+    "admin": "Lombardy",
+    "sort": "11228"
+  },
+  {
+    "city": "Codigoro",
+    "admin": "Emilia-Romagna",
+    "sort": "11740"
+  },
+  {
+    "city": "Campagnano di Roma",
+    "admin": "Lazio",
+    "sort": "11561"
+  },
+  {
+    "city": "Venosa",
+    "admin": "Basilicata",
+    "sort": "11732"
+  },
+  {
+    "city": "Guspini",
+    "admin": "Sardegna",
+    "sort": "11725"
+  },
+  {
+    "city": "Trofarello",
+    "admin": "Piedmont",
+    "sort": "10901"
+  },
+  {
+    "city": "Cologno al Serio",
+    "admin": "Lombardy",
+    "sort": "11180"
+  },
+  {
+    "city": "Ponte San Pietro",
+    "admin": "Lombardy",
+    "sort": "11502"
+  },
+  {
+    "city": "Cisternino",
+    "admin": "Puglia",
+    "sort": "11553"
+  },
+  {
+    "city": "Zero Branco",
+    "admin": "Veneto",
+    "sort": "11329"
+  },
+  {
+    "city": "Carbonera",
+    "admin": "Veneto",
+    "sort": "11183"
+  },
+  {
+    "city": "Poggio a Caiano",
+    "admin": "Tuscany",
+    "sort": "10048"
+  },
+  {
+    "city": "Portomaggiore",
+    "admin": "Emilia-Romagna",
+    "sort": "11630"
+  },
+  {
+    "city": "Musile di Piave",
+    "admin": "Veneto",
+    "sort": "11461"
+  },
+  {
+    "city": "Isola della Scala",
+    "admin": "Veneto",
+    "sort": "11545"
+  },
+  {
+    "city": "Ravanusa",
+    "admin": "Sicilia",
+    "sort": "11471"
+  },
+  {
+    "city": "Taormina",
+    "admin": "Sicilia",
+    "sort": "10872"
+  },
+  {
+    "city": "Ovada",
+    "admin": "Piedmont",
+    "sort": "11365"
+  },
+  {
+    "city": "Caorle",
+    "admin": "Veneto",
+    "sort": "11606"
+  },
+  {
+    "city": "Mestrino",
+    "admin": "Veneto",
+    "sort": "11502"
+  },
+  {
+    "city": "Trecastagni",
+    "admin": "Sicilia",
+    "sort": "11074"
+  },
+  {
+    "city": "Bonate di Sopra",
+    "admin": "Lombardy",
+    "sort": "10020"
+  },
+  {
+    "city": "Montegrotto Terme",
+    "admin": "Veneto",
+    "sort": "11448"
+  },
+  {
+    "city": "Camisano Vicentino",
+    "admin": "Veneto",
+    "sort": "11248"
+  },
+  {
+    "city": "Boscotrecase",
+    "admin": "Campania",
+    "sort": "10247"
+  },
+  {
+    "city": "Siniscola",
+    "admin": "Sardegna",
+    "sort": "11531"
+  },
+  {
+    "city": "Sesto Calende",
+    "admin": "Lombardy",
+    "sort": "11141"
+  },
+  {
+    "city": "Riesi",
+    "admin": "Sicilia",
+    "sort": "11402"
+  },
+  {
+    "city": "Melito di Porto Salvo",
+    "admin": "Calabria",
+    "sort": "11240"
+  },
+  {
+    "city": "Nembro",
+    "admin": "Lombardy",
+    "sort": "11530"
+  },
+  {
+    "city": "Castelvetro di Modena",
+    "admin": "Emilia-Romagna",
+    "sort": "11303"
+  },
+  {
+    "city": "Montopoli in Val d’Arno",
+    "admin": "Tuscany",
+    "sort": "11149"
+  },
+  {
+    "city": "Scalea",
+    "admin": "Calabria",
+    "sort": "11022"
+  },
+  {
+    "city": "Lurate Caccivio",
+    "admin": "Lombardy",
+    "sort": "9847"
+  },
+  {
+    "city": "Paceco",
+    "admin": "Sicilia",
+    "sort": "11307"
+  },
+  {
+    "city": "Cerese",
+    "admin": "Lombardy",
+    "sort": "11141"
+  },
+  {
+    "city": "Cornate d’Adda",
+    "admin": "Lombardy",
+    "sort": "10715"
+  },
+  {
+    "city": "Avigliano",
+    "admin": "Basilicata",
+    "sort": "11350"
+  },
+  {
+    "city": "Piazzola sul Brenta",
+    "admin": "Veneto",
+    "sort": "11189"
+  },
+  {
+    "city": "Venafro",
+    "admin": "Molise",
+    "sort": "11209"
+  },
+  {
+    "city": "La Maddalena",
+    "admin": "Sardegna",
+    "sort": "11233"
+  },
+  {
+    "city": "Botticino Sera",
+    "admin": "Lombardy",
+    "sort": "10857"
+  },
+  {
+    "city": "Creazzo",
+    "admin": "Veneto",
+    "sort": "11373"
+  },
+  {
+    "city": "Cazzago San Martino",
+    "admin": "Lombardy",
+    "sort": "10933"
+  },
+  {
+    "city": "Alassio",
+    "admin": "Liguria",
+    "sort": "10791"
+  },
+  {
+    "city": "Cividale del Friuli",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "11176"
+  },
+  {
+    "city": "Bitritto",
+    "admin": "Puglia",
+    "sort": "11277"
+  },
+  {
+    "city": "Cepagatti",
+    "admin": "Abruzzo",
+    "sort": "11014"
+  },
+  {
+    "city": "Tortolì",
+    "admin": "Sardegna",
+    "sort": "11081"
+  },
+  {
+    "city": "San Giustino",
+    "admin": "Umbria",
+    "sort": "11213"
+  },
+  {
+    "city": "Usmate Velate",
+    "admin": "Lombardy",
+    "sort": "10293"
+  },
+  {
+    "city": "Acate",
+    "admin": "Sicilia",
+    "sort": "11325"
+  },
+  {
+    "city": "Cislago",
+    "admin": "Lombardy",
+    "sort": "10394"
+  },
+  {
+    "city": "Sant’Agata de’ Goti",
+    "admin": "Campania",
+    "sort": "11151"
+  },
+  {
+    "city": "Sant’Antìoco",
+    "admin": "Sardegna",
+    "sort": "11152"
+  },
+  {
+    "city": "Aulla",
+    "admin": "Tuscany",
+    "sort": "11092"
+  },
+  {
+    "city": "Belmonte Mezzagno",
+    "admin": "Sicilia",
+    "sort": "11239"
+  },
+  {
+    "city": "Polistena",
+    "admin": "Calabria",
+    "sort": "10373"
+  },
+  {
+    "city": "Cerreto Guidi",
+    "admin": "Tuscany",
+    "sort": "11010"
+  },
+  {
+    "city": "Fino Mornasco",
+    "admin": "Lombardy",
+    "sort": "9865"
+  },
+  {
+    "city": "Santa Croce Camerina",
+    "admin": "Sicilia",
+    "sort": "10955"
+  },
+  {
+    "city": "Cameri",
+    "admin": "Piedmont",
+    "sort": "10907"
+  },
+  {
+    "city": "Corleone",
+    "admin": "Sicilia",
+    "sort": "11128"
+  },
+  {
+    "city": "Castel Mella",
+    "admin": "Lombardy",
+    "sort": "11010"
+  },
+  {
+    "city": "San Valentino Torio",
+    "admin": "Campania",
+    "sort": "10937"
+  },
+  {
+    "city": "Trevignano",
+    "admin": "Veneto",
+    "sort": "10759"
+  },
+  {
+    "city": "Inzago",
+    "admin": "Lombardy",
+    "sort": "10949"
+  },
+  {
+    "city": "Bertinoro",
+    "admin": "Emilia-Romagna",
+    "sort": "10947"
+  },
+  {
+    "city": "Campolongo Maggiore",
+    "admin": "Veneto",
+    "sort": "10678"
+  },
+  {
+    "city": "Montale",
+    "admin": "Tuscany",
+    "sort": "10777"
+  },
+  {
+    "city": "Motta di Livenza",
+    "admin": "Veneto",
+    "sort": "10801"
+  },
+  {
+    "city": "Gemona del Friuli",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "10869"
+  },
+  {
+    "city": "Martinengo",
+    "admin": "Lombardy",
+    "sort": "10560"
+  },
+  {
+    "city": "Montechiarugolo",
+    "admin": "Emilia-Romagna",
+    "sort": "10976"
+  },
+  {
+    "city": "Grezzana",
+    "admin": "Veneto",
+    "sort": "10805"
+  },
+  {
+    "city": "Racale",
+    "admin": "Puglia",
+    "sort": "11011"
+  },
+  {
+    "city": "Celano",
+    "admin": "Abruzzo",
+    "sort": "10885"
+  },
+  {
+    "city": "Montecchio Emilia",
+    "admin": "Emilia-Romagna",
+    "sort": "10578"
+  },
+  {
+    "city": "San Felice sul Panaro",
+    "admin": "Emilia-Romagna",
+    "sort": "10802"
+  },
+  {
+    "city": "Monte San Pietro",
+    "admin": "Emilia-Romagna",
+    "sort": "10960"
+  },
+  {
+    "city": "Lomazzo",
+    "admin": "Lombardy",
+    "sort": "9929"
+  },
+  {
+    "city": "Medesano",
+    "admin": "Emilia-Romagna",
+    "sort": "10850"
+  },
+  {
+    "city": "Salò",
+    "admin": "Lombardy",
+    "sort": "10603"
+  },
+  {
+    "city": "Canelli",
+    "admin": "Piedmont",
+    "sort": "10430"
+  },
+  {
+    "city": "Cadelbosco di Sopra",
+    "admin": "Emilia-Romagna",
+    "sort": "10691"
+  },
+  {
+    "city": "Barberino di Mugello",
+    "admin": "Tuscany",
+    "sort": "10924"
+  },
+  {
+    "city": "Massa Lombarda",
+    "admin": "Emilia-Romagna",
+    "sort": "10646"
+  },
+  {
+    "city": "Casaluce",
+    "admin": "Campania",
+    "sort": "9893"
+  },
+  {
+    "city": "Montignoso",
+    "admin": "Tuscany",
+    "sort": "10311"
+  },
+  {
+    "city": "Barano d’Ischia",
+    "admin": "Campania",
+    "sort": "10001"
+  },
+  {
+    "city": "San Maurizio Canavese",
+    "admin": "Piedmont",
+    "sort": "10312"
+  },
+  {
+    "city": "Ramacca",
+    "admin": "Sicilia",
+    "sort": "10866"
+  },
+  {
+    "city": "Cori",
+    "admin": "Lazio",
+    "sort": "10893"
+  },
+  {
+    "city": "Itri",
+    "admin": "Lazio",
+    "sort": "10761"
+  },
+  {
+    "city": "Capena",
+    "admin": "Lazio",
+    "sort": "10799"
+  },
+  {
+    "city": "Fiuggi",
+    "admin": "Lazio",
+    "sort": "10511"
+  },
+  {
+    "city": "Randazzo",
+    "admin": "Sicilia",
+    "sort": "10763"
+  },
+  {
+    "city": "Vigonovo",
+    "admin": "Veneto",
+    "sort": "9998"
+  },
+  {
+    "city": "Lerici",
+    "admin": "Liguria",
+    "sort": "10133"
+  },
+  {
+    "city": "Nizza Monferrato",
+    "admin": "Piedmont",
+    "sort": "10313"
+  },
+  {
+    "city": "Vanzago",
+    "admin": "Lombardy",
+    "sort": "9224"
+  },
+  {
+    "city": "Alberobello",
+    "admin": "Puglia",
+    "sort": "10725"
+  },
+  {
+    "city": "Coriano",
+    "admin": "Emilia-Romagna",
+    "sort": "10522"
+  },
+  {
+    "city": "Locate di Triulzi",
+    "admin": "Lombardy",
+    "sort": "9943"
+  },
+  {
+    "city": "Poirino",
+    "admin": "Piedmont",
+    "sort": "10576"
+  },
+  {
+    "city": "Salemi",
+    "admin": "Sicilia",
+    "sort": "10647"
+  },
+  {
+    "city": "Silea",
+    "admin": "Veneto",
+    "sort": "10163"
+  },
+  {
+    "city": "Torre Santa Susanna",
+    "admin": "Puglia",
+    "sort": "10510"
+  },
+  {
+    "city": "Peschiera del Garda",
+    "admin": "Veneto",
+    "sort": "10583"
+  },
+  {
+    "city": "Atessa",
+    "admin": "Abruzzo",
+    "sort": "10580"
+  },
+  {
+    "city": "Recco",
+    "admin": "Liguria",
+    "sort": "9683"
+  },
+  {
+    "city": "Roccapiemonte",
+    "admin": "Campania",
+    "sort": "8977"
+  },
+  {
+    "city": "Castelli Calepio",
+    "admin": "Lombardy",
+    "sort": "10453"
+  },
+  {
+    "city": "Castrolibero",
+    "admin": "Calabria",
+    "sort": "9809"
+  },
+  {
+    "city": "Castelletto sopra Ticino",
+    "admin": "Piedmont",
+    "sort": "9969"
+  },
+  {
+    "city": "Vittuone",
+    "admin": "Lombardy",
+    "sort": "9152"
+  },
+  {
+    "city": "Conselve",
+    "admin": "Veneto",
+    "sort": "10224"
+  },
+  {
+    "city": "Isola Vicentina",
+    "admin": "Veneto",
+    "sort": "10242"
+  },
+  {
+    "city": "Mussomeli",
+    "admin": "Sicilia",
+    "sort": "10556"
+  },
+  {
+    "city": "Ozieri",
+    "admin": "Sardegna",
+    "sort": "10575"
+  },
+  {
+    "city": "Bibbiano",
+    "admin": "Emilia-Romagna",
+    "sort": "10241"
+  },
+  {
+    "city": "Rignano Flaminio",
+    "admin": "Lazio",
+    "sort": "10328"
+  },
+  {
+    "city": "Castelnovo ne’ Monti",
+    "admin": "Emilia-Romagna",
+    "sort": "10473"
+  },
+  {
+    "city": "Santa Teresa di Riva",
+    "admin": "Sicilia",
+    "sort": "9403"
+  },
+  {
+    "city": "Partanna",
+    "admin": "Sicilia",
+    "sort": "10422"
+  },
+  {
+    "city": "Campi Salentina",
+    "admin": "Puglia",
+    "sort": "10322"
+  },
+  {
+    "city": "Trescore Balneario",
+    "admin": "Lombardy",
+    "sort": "9814"
+  },
+  {
+    "city": "Cutro",
+    "admin": "Calabria",
+    "sort": "10462"
+  },
+  {
+    "city": "Concordia Sagittaria",
+    "admin": "Veneto",
+    "sort": "10373"
+  },
+  {
+    "city": "Bagnara Calabra",
+    "admin": "Calabria",
+    "sort": "10120"
+  },
+  {
+    "city": "San Giorgio del Sannio",
+    "admin": "Campania",
+    "sort": "10064"
+  },
+  {
+    "city": "Valdobbiadene",
+    "admin": "Veneto",
+    "sort": "10349"
+  },
+  {
+    "city": "Altofonte",
+    "admin": "Sicilia",
+    "sort": "10218"
+  },
+  {
+    "city": "San Vendemiano",
+    "admin": "Veneto",
+    "sort": "9958"
+  },
+  {
+    "city": "Langhirano",
+    "admin": "Emilia-Romagna",
+    "sort": "10346"
+  },
+  {
+    "city": "Aradeo",
+    "admin": "Puglia",
+    "sort": "9381"
+  },
+  {
+    "city": "Trabia",
+    "admin": "Sicilia",
+    "sort": "10430"
+  },
+  {
+    "city": "Cittanova",
+    "admin": "Calabria",
+    "sort": "10284"
+  },
+  {
+    "city": "Quinto di Treviso",
+    "admin": "Veneto",
+    "sort": "9912"
+  },
+  {
+    "city": "Bomporto",
+    "admin": "Emilia-Romagna",
+    "sort": "10170"
+  },
+  {
+    "city": "Volpago del Montello",
+    "admin": "Veneto",
+    "sort": "10199"
+  },
+  {
+    "city": "Bordighera",
+    "admin": "Liguria",
+    "sort": "10412"
+  },
+  {
+    "city": "Terralba",
+    "admin": "Sardegna",
+    "sort": "10196"
+  },
+  {
+    "city": "Vaprio d’Adda",
+    "admin": "Lombardy",
+    "sort": "9114"
+  },
+  {
+    "city": "Badia Polesine",
+    "admin": "Veneto",
+    "sort": "10348"
+  },
+  {
+    "city": "Verucchio",
+    "admin": "Emilia-Romagna",
+    "sort": "10012"
+  },
+  {
+    "city": "Induno Olona",
+    "admin": "Lombardy",
+    "sort": "10266"
+  },
+  {
+    "city": "Vaiano",
+    "admin": "Tuscany",
+    "sort": "10068"
+  },
+  {
+    "city": "Capriolo",
+    "admin": "Lombardy",
+    "sort": "9467"
+  },
+  {
+    "city": "Goito",
+    "admin": "Lombardy",
+    "sort": "10222"
+  },
+  {
+    "city": "Volterra",
+    "admin": "Tuscany",
+    "sort": "10290"
+  },
+  {
+    "city": "Crosia",
+    "admin": "Calabria",
+    "sort": "9863"
+  },
+  {
+    "city": "Montemarciano",
+    "admin": "Marche",
+    "sort": "9872"
+  },
+  {
+    "city": "Mandello del Lario",
+    "admin": "Lombardy",
+    "sort": "10313"
+  },
+  {
+    "city": "Cermenate",
+    "admin": "Lombardy",
+    "sort": "9187"
+  },
+  {
+    "city": "Santo Stefano di Magra",
+    "admin": "Massa-Carrara",
+    "sort": "9613"
+  },
+  {
+    "city": "Novi di Modena",
+    "admin": "Emilia-Romagna",
+    "sort": "10107"
+  },
+  {
+    "city": "Sermoneta",
+    "admin": "Lazio",
+    "sort": "10077"
+  },
+  {
+    "city": "Fiumefreddo di Sicilia",
+    "admin": "Sicilia",
+    "sort": "9505"
+  },
+  {
+    "city": "Sant’Egidio alla Vibrata",
+    "admin": "Abruzzo",
+    "sort": "9753"
+  },
+  {
+    "city": "Busca",
+    "admin": "Piedmont",
+    "sort": "10110"
+  },
+  {
+    "city": "Soverato Marina",
+    "admin": "Calabria",
+    "sort": "9095"
+  },
+  {
+    "city": "Elmas",
+    "admin": "Sardegna",
+    "sort": "9546"
+  },
+  {
+    "city": "Bisignano",
+    "admin": "Calabria",
+    "sort": "10128"
+  },
+  {
+    "city": "Cuorgnè",
+    "admin": "Piedmont",
+    "sort": "9728"
+  },
+  {
+    "city": "Oppeano",
+    "admin": "Veneto",
+    "sort": "10017"
+  },
+  {
+    "city": "Sedico",
+    "admin": "Veneto",
+    "sort": "10119"
+  },
+  {
+    "city": "Tolmezzo",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "10051"
+  },
+  {
+    "city": "Asola",
+    "admin": "Lombardy",
+    "sort": "10069"
+  },
+  {
+    "city": "Castellamonte",
+    "admin": "Piedmont",
+    "sort": "9946"
+  },
+  {
+    "city": "Cetraro",
+    "admin": "Calabria",
+    "sort": "10048"
+  },
+  {
+    "city": "Vigasio",
+    "admin": "Veneto",
+    "sort": "10134"
+  },
+  {
+    "city": "Cingoli",
+    "admin": "Marche",
+    "sort": "10119"
+  },
+  {
+    "city": "San Sebastiano al Vesuvio",
+    "admin": "Campania",
+    "sort": "9057"
+  },
+  {
+    "city": "Racconigi",
+    "admin": "Piedmont",
+    "sort": "9958"
+  },
+  {
+    "city": "Pogliano Milanese",
+    "admin": "Lombardy",
+    "sort": "8406"
+  },
+  {
+    "city": "Bucine",
+    "admin": "Tuscany",
+    "sort": "10087"
+  },
+  {
+    "city": "Gavirate",
+    "admin": "Lombardy",
+    "sort": "9374"
+  },
+  {
+    "city": "Bruino",
+    "admin": "Piedmont",
+    "sort": "8598"
+  },
+  {
+    "city": "Morrovalle",
+    "admin": "Marche",
+    "sort": "10056"
+  },
+  {
+    "city": "Sovicille",
+    "admin": "Tuscany",
+    "sort": "10057"
+  },
+  {
+    "city": "Bagnolo in Piano",
+    "admin": "Emilia-Romagna",
+    "sort": "9752"
+  },
+  {
+    "city": "Gambolò",
+    "admin": "Lombardy",
+    "sort": "9916"
+  },
+  {
+    "city": "Cavriago",
+    "admin": "Emilia-Romagna",
+    "sort": "9917"
+  },
+  {
+    "city": "Melendugno",
+    "admin": "Puglia",
+    "sort": "9999"
+  },
+  {
+    "city": "Meldola",
+    "admin": "Emilia-Romagna",
+    "sort": "9978"
+  },
+  {
+    "city": "Macomer",
+    "admin": "Sardegna",
+    "sort": "10019"
+  },
+  {
+    "city": "Brembate",
+    "admin": "Lombardy",
+    "sort": "8551"
+  },
+  {
+    "city": "Mori",
+    "admin": "Trentino-Alto Adige",
+    "sort": "9846"
+  },
+  {
+    "city": "San Felice Circeo",
+    "admin": "Lazio",
+    "sort": "10054"
+  },
+  {
+    "city": "Sannicandro di Bari",
+    "admin": "Puglia",
+    "sort": "9902"
+  },
+  {
+    "city": "Inverigo",
+    "admin": "Lombardy",
+    "sort": "9146"
+  },
+  {
+    "city": "San Pancrazio Salentino",
+    "admin": "Puglia",
+    "sort": "9882"
+  },
+  {
+    "city": "Garlasco",
+    "admin": "Lombardy",
+    "sort": "9805"
+  },
+  {
+    "city": "Barga",
+    "admin": "Tuscany",
+    "sort": "9898"
+  },
+  {
+    "city": "Santa Margherita Ligure",
+    "admin": "Liguria",
+    "sort": "9124"
+  },
+  {
+    "city": "Urgnano",
+    "admin": "Lombardy",
+    "sort": "9908"
+  },
+  {
+    "city": "Gassino Torinese",
+    "admin": "Piedmont",
+    "sort": "9559"
+  },
+  {
+    "city": "Lizzano",
+    "admin": "Puglia",
+    "sort": "9990"
+  },
+  {
+    "city": "Ruffano",
+    "admin": "Puglia",
+    "sort": "9741"
+  },
+  {
+    "city": "Magnago",
+    "admin": "Lombardy",
+    "sort": "9167"
+  },
+  {
+    "city": "Campobello di Licata",
+    "admin": "Sicilia",
+    "sort": "9860"
+  },
+  {
+    "city": "Boves",
+    "admin": "Piedmont",
+    "sort": "9788"
+  },
+  {
+    "city": "Pasian di Prato",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "9363"
+  },
+  {
+    "city": "Mareno di Piave",
+    "admin": "Veneto",
+    "sort": "9613"
+  },
+  {
+    "city": "Gessate",
+    "admin": "Lombardy",
+    "sort": "8821"
+  },
+  {
+    "city": "Monteriggioni",
+    "admin": "Tuscany",
+    "sort": "9937"
+  },
+  {
+    "city": "Conselice",
+    "admin": "Emilia-Romagna",
+    "sort": "9779"
+  },
+  {
+    "city": "Montescaglioso",
+    "admin": "Basilicata",
+    "sort": "9877"
+  },
+  {
+    "city": "Deruta",
+    "admin": "Umbria",
+    "sort": "9713"
+  },
+  {
+    "city": "Castel Bolognese",
+    "admin": "Emilia-Romagna",
+    "sort": "9628"
+  },
+  {
+    "city": "Argelato",
+    "admin": "Emilia-Romagna",
+    "sort": "9865"
+  },
+  {
+    "city": "Poggio Renatico",
+    "admin": "Emilia-Romagna",
+    "sort": "9791"
+  },
+  {
+    "city": "Monticello Conte Otto",
+    "admin": "Veneto",
+    "sort": "9026"
+  },
+  {
+    "city": "San Giovanni in Marignano",
+    "admin": "Emilia-Romagna",
+    "sort": "9455"
+  },
+  {
+    "city": "Bellinzago Novarese",
+    "admin": "Piedmont",
+    "sort": "9646"
+  },
+  {
+    "city": "Resana",
+    "admin": "Veneto",
+    "sort": "9509"
+  },
+  {
+    "city": "Siano",
+    "admin": "Campania",
+    "sort": "9883"
+  },
+  {
+    "city": "Giardini",
+    "admin": "Sicilia",
+    "sort": "9337"
+  },
+  {
+    "city": "Broni",
+    "admin": "Lombardy",
+    "sort": "9411"
+  },
+  {
+    "city": "Piombino Dese",
+    "admin": "Veneto",
+    "sort": "9539"
+  },
+  {
+    "city": "Triuggio",
+    "admin": "Lombardy",
+    "sort": "8763"
+  },
+  {
+    "city": "Dolianova",
+    "admin": "Sardegna",
+    "sort": "9696"
+  },
+  {
+    "city": "Mozzate",
+    "admin": "Lombardy",
+    "sort": "8971"
+  },
+  {
+    "city": "Sorbolo",
+    "admin": "Emilia-Romagna",
+    "sort": "9563"
+  },
+  {
+    "city": "Matelica",
+    "admin": "Marche",
+    "sort": "9665"
+  },
+  {
+    "city": "Flero",
+    "admin": "Lombardy",
+    "sort": "8879"
+  },
+  {
+    "city": "Loria",
+    "admin": "Veneto",
+    "sort": "9358"
+  },
+  {
+    "city": "Zafferana Etnea",
+    "admin": "Sicilia",
+    "sort": "9607"
+  },
+  {
+    "city": "San Marzano di San Giuseppe",
+    "admin": "Puglia",
+    "sort": "9228"
+  },
+  {
+    "city": "Lavis",
+    "admin": "Trentino-Alto Adige",
+    "sort": "8969"
+  },
+  {
+    "city": "Foiano della Chiana",
+    "admin": "Tuscany",
+    "sort": "9470"
+  },
+  {
+    "city": "Cavriglia",
+    "admin": "Tuscany",
+    "sort": "9543"
+  },
+  {
+    "city": "Maserada sul Piave",
+    "admin": "Veneto",
+    "sort": "9374"
+  },
+  {
+    "city": "Castelleone",
+    "admin": "Lombardy",
+    "sort": "9472"
+  },
+  {
+    "city": "Monte Porzio Catone",
+    "admin": "Lazio",
+    "sort": "8718"
+  },
+  {
+    "city": "Porto Tolle",
+    "admin": "Veneto",
+    "sort": "9663"
+  },
+  {
+    "city": "Fiesso d’Artico",
+    "admin": "Veneto",
+    "sort": "8341"
+  },
+  {
+    "city": "Besozzo",
+    "admin": "Lombardy",
+    "sort": "9005"
+  },
+  {
+    "city": "Traversetolo",
+    "admin": "Emilia-Romagna",
+    "sort": "9474"
+  },
+  {
+    "city": "Maserà di Padova",
+    "admin": "Veneto",
+    "sort": "9127"
+  },
+  {
+    "city": "Striano",
+    "admin": "Campania",
+    "sort": "8522"
+  },
+  {
+    "city": "Gatteo",
+    "admin": "Emilia-Romagna",
+    "sort": "8988"
+  },
+  {
+    "city": "Santa Lucia di Piave",
+    "admin": "Veneto",
+    "sort": "9160"
+  },
+  {
+    "city": "Brugnera",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "9290"
+  },
+  {
+    "city": "Marano Vicentino",
+    "admin": "Veneto",
+    "sort": "9529"
+  },
+  {
+    "city": "Capriate San Gervasio",
+    "admin": "Lombardy",
+    "sort": "8173"
+  },
+  {
+    "city": "Nepi",
+    "admin": "Lazio",
+    "sort": "9549"
+  },
+  {
+    "city": "Castel Gandolfo",
+    "admin": "Lazio",
+    "sort": "8922"
+  },
+  {
+    "city": "Legnaro",
+    "admin": "Veneto",
+    "sort": "8948"
+  },
+  {
+    "city": "Istrana",
+    "admin": "Veneto",
+    "sort": "9197"
+  },
+  {
+    "city": "Fossombrone",
+    "admin": "Marche",
+    "sort": "9454"
+  },
+  {
+    "city": "Mendicino",
+    "admin": "Calabria",
+    "sort": "9503"
+  },
+  {
+    "city": "Viagrande",
+    "admin": "Sicilia",
+    "sort": "8677"
+  },
+  {
+    "city": "Aragona",
+    "admin": "Sicilia",
+    "sort": "9409"
+  },
+  {
+    "city": "Villa Castelli",
+    "admin": "Puglia",
+    "sort": "9269"
+  },
+  {
+    "city": "Marnate",
+    "admin": "Lombardy",
+    "sort": "7903"
+  },
+  {
+    "city": "La Loggia",
+    "admin": "Piedmont",
+    "sort": "8841"
+  },
+  {
+    "city": "Mosciano Sant’Angelo",
+    "admin": "Abruzzo",
+    "sort": "9316"
+  },
+  {
+    "city": "Savignano sul Panaro",
+    "admin": "Emilia-Romagna",
+    "sort": "9142"
+  },
+  {
+    "city": "Martano",
+    "admin": "Puglia",
+    "sort": "9087"
+  },
+  {
+    "city": "Gaggiano",
+    "admin": "Lombardy",
+    "sort": "9146"
+  },
+  {
+    "city": "Iseo",
+    "admin": "Lombardy",
+    "sort": "9168"
+  },
+  {
+    "city": "Belvedere Marittimo",
+    "admin": "Calabria",
+    "sort": "9239"
+  },
+  {
+    "city": "Castellabate",
+    "admin": "Campania",
+    "sort": "9233"
+  },
+  {
+    "city": "Parabita",
+    "admin": "Puglia",
+    "sort": "9047"
+  },
+  {
+    "city": "Filottrano",
+    "admin": "Marche",
+    "sort": "9332"
+  },
+  {
+    "city": "Missaglia",
+    "admin": "Lombardy",
+    "sort": "8700"
+  },
+  {
+    "city": "Asolo",
+    "admin": "Veneto",
+    "sort": "9089"
+  },
+  {
+    "city": "Pandino",
+    "admin": "Lombardy",
+    "sort": "9035"
+  },
+  {
+    "city": "Pizzo",
+    "admin": "Calabria",
+    "sort": "9329"
+  },
+  {
+    "city": "Trebisacce",
+    "admin": "Calabria",
+    "sort": "9095"
+  },
+  {
+    "city": "Treia",
+    "admin": "Marche",
+    "sort": "9309"
+  },
+  {
+    "city": "Porcari",
+    "admin": "Tuscany",
+    "sort": "8904"
+  },
+  {
+    "city": "Bovalino Marina",
+    "admin": "Calabria",
+    "sort": "8898"
+  },
+  {
+    "city": "Coccaglio",
+    "admin": "Lombardy",
+    "sort": "8664"
+  },
+  {
+    "city": "Folignano",
+    "admin": "Marche",
+    "sort": "9182"
+  },
+  {
+    "city": "Castegnato",
+    "admin": "Lombardy",
+    "sort": "8449"
+  },
+  {
+    "city": "Monteforte d’Alpone",
+    "admin": "Veneto",
+    "sort": "8917"
+  },
+  {
+    "city": "Podenzano",
+    "admin": "Emilia-Romagna",
+    "sort": "9144"
+  },
+  {
+    "city": "Segni",
+    "admin": "Lazio",
+    "sort": "9192"
+  },
+  {
+    "city": "Pietra Ligure",
+    "admin": "Liguria",
+    "sort": "8481"
+  },
+  {
+    "city": "Cherasco",
+    "admin": "Piedmont",
+    "sort": "9224"
+  },
+  {
+    "city": "Lacchiarella",
+    "admin": "Lombardy",
+    "sort": "8959"
+  },
+  {
+    "city": "Tirano",
+    "admin": "Lombardy",
+    "sort": "9050"
+  },
+  {
+    "city": "Reggiolo",
+    "admin": "Emilia-Romagna",
+    "sort": "9110"
+  },
+  {
+    "city": "Borgo a Buggiano",
+    "admin": "Tuscany",
+    "sort": "8772"
+  },
+  {
+    "city": "Inveruno",
+    "admin": "Lombardy",
+    "sort": "8605"
+  },
+  {
+    "city": "Teolo",
+    "admin": "Veneto",
+    "sort": "9014"
+  },
+  {
+    "city": "Borgosatollo",
+    "admin": "Lombardy",
+    "sort": "9271"
+  },
+  {
+    "city": "Carignano",
+    "admin": "Piedmont",
+    "sort": "9274"
+  },
+  {
+    "city": "Gonzaga",
+    "admin": "Lombardy",
+    "sort": "9103"
+  },
+  {
+    "city": "Vignate",
+    "admin": "Lombardy",
+    "sort": "9269"
+  },
+  {
+    "city": "Troina",
+    "admin": "Sicilia",
+    "sort": "9202"
+  },
+  {
+    "city": "Malalbergo",
+    "admin": "Emilia-Romagna",
+    "sort": "9087"
+  },
+  {
+    "city": "Colorno",
+    "admin": "Emilia-Romagna",
+    "sort": "9056"
+  },
+  {
+    "city": "Soresina",
+    "admin": "Lombardy",
+    "sort": "8915"
+  },
+  {
+    "city": "Montagnana",
+    "admin": "Veneto",
+    "sort": "9026"
+  },
+  {
+    "city": "Luzzi",
+    "admin": "Calabria",
+    "sort": "9206"
+  },
+  {
+    "city": "Ponte Buggianese",
+    "admin": "Tuscany",
+    "sort": "8919"
+  },
+  {
+    "city": "Serramanna",
+    "admin": "Sardegna",
+    "sort": "9110"
+  },
+  {
+    "city": "Tarcento",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "8964"
+  },
+  {
+    "city": "Borgoricco",
+    "admin": "Veneto",
+    "sort": "8774"
+  },
+  {
+    "city": "Curno",
+    "admin": "Lombardy",
+    "sort": "7574"
+  },
+  {
+    "city": "Oggiono",
+    "admin": "Lombardy",
+    "sort": "9075"
+  },
+  {
+    "city": "Verdello",
+    "admin": "Lombardy",
+    "sort": "8082"
+  },
+  {
+    "city": "Zogno",
+    "admin": "Lombardy",
+    "sort": "8926"
+  },
+  {
+    "city": "Petilia Policastro",
+    "admin": "Calabria",
+    "sort": "9073"
+  },
+  {
+    "city": "Aviano",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "9080"
+  },
+  {
+    "city": "Monteroni d’Arbia",
+    "admin": "Tuscany",
+    "sort": "9070"
+  },
+  {
+    "city": "Costa Volpino",
+    "admin": "Lombardy",
+    "sort": "9151"
+  },
+  {
+    "city": "Castagneto Carducci",
+    "admin": "Tuscany",
+    "sort": "9088"
+  },
+  {
+    "city": "Tombolo",
+    "admin": "Veneto",
+    "sort": "8390"
+  },
+  {
+    "city": "Castelnuovo Berardenga",
+    "admin": "Tuscany",
+    "sort": "9086"
+  },
+  {
+    "city": "Binasco",
+    "admin": "Lombardy",
+    "sort": "7257"
+  },
+  {
+    "city": "Civitella in Val di Chiana",
+    "admin": "Tuscany",
+    "sort": "9035"
+  },
+  {
+    "city": "Guardiagrele",
+    "admin": "Abruzzo",
+    "sort": "8966"
+  },
+  {
+    "city": "Cogoleto",
+    "admin": "Liguria",
+    "sort": "9123"
+  },
+  {
+    "city": "Cutrofiano",
+    "admin": "Puglia",
+    "sort": "8958"
+  },
+  {
+    "city": "Vergiate",
+    "admin": "Lombardy",
+    "sort": "8711"
+  },
+  {
+    "city": "Farra di Soligo",
+    "admin": "Veneto",
+    "sort": "8798"
+  },
+  {
+    "city": "Roccastrada",
+    "admin": "Tuscany",
+    "sort": "9074"
+  },
+  {
+    "city": "Trissino",
+    "admin": "Veneto",
+    "sort": "8709"
+  },
+  {
+    "city": "Felino",
+    "admin": "Emilia-Romagna",
+    "sort": "8873"
+  },
+  {
+    "city": "Galbiate",
+    "admin": "Lombardy",
+    "sort": "8545"
+  },
+  {
+    "city": "Sorisole",
+    "admin": "Lombardy",
+    "sort": "9042"
+  },
+  {
+    "city": "Noventa Vicentina",
+    "admin": "Veneto",
+    "sort": "9015"
+  },
+  {
+    "city": "Villa Guardia",
+    "admin": "Lombardy",
+    "sort": "8041"
+  },
+  {
+    "city": "Palazzolo Acreide",
+    "admin": "Sicilia",
+    "sort": "8665"
+  },
+  {
+    "city": "Subiaco",
+    "admin": "Lazio",
+    "sort": "8916"
+  },
+  {
+    "city": "Ceprano",
+    "admin": "Lazio",
+    "sort": "8823"
+  },
+  {
+    "city": "Laveno-Mombello",
+    "admin": "Lombardy",
+    "sort": "8684"
+  },
+  {
+    "city": "Morlupo",
+    "admin": "Lazio",
+    "sort": "8689"
+  },
+  {
+    "city": "San Giorgio di Piano",
+    "admin": "Emilia-Romagna",
+    "sort": "8749"
+  },
+  {
+    "city": "Albinea",
+    "admin": "Emilia-Romagna",
+    "sort": "8830"
+  },
+  {
+    "city": "Cavenago di Brianza",
+    "admin": "Lombardy",
+    "sort": "7350"
+  },
+  {
+    "city": "Meta",
+    "admin": "Campania",
+    "sort": "7947"
+  },
+  {
+    "city": "Santa Venerina",
+    "admin": "Sicilia",
+    "sort": "8553"
+  },
+  {
+    "city": "Montalto di Castro",
+    "admin": "Lazio",
+    "sort": "8978"
+  },
+  {
+    "city": "Breganze",
+    "admin": "Veneto",
+    "sort": "8586"
+  },
+  {
+    "city": "Vicopisano",
+    "admin": "Tuscany",
+    "sort": "8642"
+  },
+  {
+    "city": "Minerbio",
+    "admin": "Emilia-Romagna",
+    "sort": "8760"
+  },
+  {
+    "city": "Luzzara",
+    "admin": "Reggio Emilia",
+    "sort": "8962"
+  },
+  {
+    "city": "Ala",
+    "admin": "Trentino-Alto Adige",
+    "sort": "8887"
+  },
+  {
+    "city": "Clusone",
+    "admin": "Lombardy",
+    "sort": "8608"
+  },
+  {
+    "city": "Lequile",
+    "admin": "Puglia",
+    "sort": "8689"
+  },
+  {
+    "city": "San Giuseppe Iato",
+    "admin": "Sicilia",
+    "sort": "8634"
+  },
+  {
+    "city": "Orte",
+    "admin": "Lazio",
+    "sort": "8795"
+  },
+  {
+    "city": "Castelnuovo di Magra",
+    "admin": "Liguria",
+    "sort": "8346"
+  },
+  {
+    "city": "Minervino Murge",
+    "admin": "Puglia",
+    "sort": "8864"
+  },
+  {
+    "city": "Rossano Veneto",
+    "admin": "Veneto",
+    "sort": "8130"
+  },
+  {
+    "city": "Rignano sull’Arno",
+    "admin": "Tuscany",
+    "sort": "8718"
+  },
+  {
+    "city": "Zanica",
+    "admin": "Lombardy",
+    "sort": "8744"
+  },
+  {
+    "city": "Brandizzo",
+    "admin": "Piedmont",
+    "sort": "8822"
+  },
+  {
+    "city": "Campogalliano",
+    "admin": "Emilia-Romagna",
+    "sort": "8808"
+  },
+  {
+    "city": "Erchie",
+    "admin": "Puglia",
+    "sort": "8671"
+  },
+  {
+    "city": "Castelnuovo di Porto",
+    "admin": "Lazio",
+    "sort": "8564"
+  },
+  {
+    "city": "Pianella",
+    "admin": "Abruzzo",
+    "sort": "8652"
+  },
+  {
+    "city": "Castelbuono",
+    "admin": "Sicilia",
+    "sort": "8688"
+  },
+  {
+    "city": "Boville Ernica",
+    "admin": "Lazio",
+    "sort": "8525"
+  },
+  {
+    "city": "Origgio",
+    "admin": "Lombardy",
+    "sort": "7827"
+  },
+  {
+    "city": "Casarsa della Delizia",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "8404"
+  },
+  {
+    "city": "Vestignè",
+    "admin": "Piedmont",
+    "sort": "8796"
+  },
+  {
+    "city": "Prata di Pordenone",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "8426"
+  },
+  {
+    "city": "Monte San Savino",
+    "admin": "Tuscany",
+    "sort": "8675"
+  },
+  {
+    "city": "Sandrigo",
+    "admin": "Veneto",
+    "sort": "8457"
+  },
+  {
+    "city": "Solarino",
+    "admin": "Sicilia",
+    "sort": "8130"
+  },
+  {
+    "city": "Roverbella",
+    "admin": "Lombardy",
+    "sort": "8610"
+  },
+  {
+    "city": "Casorate Primo",
+    "admin": "Lombardy",
+    "sort": "8680"
+  },
+  {
+    "city": "Monte Urano",
+    "admin": "Marche",
+    "sort": "8218"
+  },
+  {
+    "city": "Chiusi",
+    "admin": "Tuscany",
+    "sort": "8558"
+  },
+  {
+    "city": "Spello",
+    "admin": "Umbria",
+    "sort": "8565"
+  },
+  {
+    "city": "Castelnovo di Sotto",
+    "admin": "Emilia-Romagna",
+    "sort": "8459"
+  },
+  {
+    "city": "Ronciglione",
+    "admin": "Lazio",
+    "sort": "8537"
+  },
+  {
+    "city": "San Gavino Monreale",
+    "admin": "Sardegna",
+    "sort": "8594"
+  },
+  {
+    "city": "Vallo della Lucania",
+    "admin": "Campania",
+    "sort": "8352"
+  },
+  {
+    "city": "Nogara",
+    "admin": "Veneto",
+    "sort": "8457"
+  },
+  {
+    "city": "Zoppola",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "8483"
+  },
+  {
+    "city": "Cologna Veneta",
+    "admin": "Veneto",
+    "sort": "8468"
+  },
+  {
+    "city": "Volvera",
+    "admin": "Piedmont",
+    "sort": "8639"
+  },
+  {
+    "city": "Caerano di San Marco",
+    "admin": "Veneto",
+    "sort": "8000"
+  },
+  {
+    "city": "Bientina",
+    "admin": "Tuscany",
+    "sort": "8377"
+  },
+  {
+    "city": "Vigliano Biellese",
+    "admin": "Piedmont",
+    "sort": "7738"
+  },
+  {
+    "city": "Santhià",
+    "admin": "Piedmont",
+    "sort": "8496"
+  },
+  {
+    "city": "Sortino",
+    "admin": "Sicilia",
+    "sort": "8561"
+  },
+  {
+    "city": "Concordia sulla Secchia",
+    "admin": "Emilia-Romagna",
+    "sort": "8440"
+  },
+  {
+    "city": "San Sperate",
+    "admin": "Sardegna",
+    "sort": "8318"
+  },
+  {
+    "city": "Dorgali",
+    "admin": "Sardegna",
+    "sort": "8596"
+  },
+  {
+    "city": "Gavorrano",
+    "admin": "Tuscany",
+    "sort": "8567"
+  },
+  {
+    "city": "Ittiri",
+    "admin": "Sardegna",
+    "sort": "8541"
+  },
+  {
+    "city": "Leporano",
+    "admin": "Puglia",
+    "sort": "8085"
+  },
+  {
+    "city": "Ponte di Piave",
+    "admin": "Veneto",
+    "sort": "8352"
+  },
+  {
+    "city": "Ferrandina",
+    "admin": "Basilicata",
+    "sort": "8593"
+  },
+  {
+    "city": "Calvisano",
+    "admin": "Lombardy",
+    "sort": "8543"
+  },
+  {
+    "city": "Bovezzo",
+    "admin": "Lombardy",
+    "sort": "7433"
+  },
+  {
+    "city": "Cagli",
+    "admin": "Marche",
+    "sort": "8546"
+  },
+  {
+    "city": "Caprino Veronese",
+    "admin": "Veneto",
+    "sort": "8399"
+  },
+  {
+    "city": "Sanluri",
+    "admin": "Sardegna",
+    "sort": "8464"
+  },
+  {
+    "city": "Sirmione",
+    "admin": "Lombardy",
+    "sort": "8243"
+  },
+  {
+    "city": "Sala Bolognese",
+    "admin": "Emilia-Romagna",
+    "sort": "8372"
+  },
+  {
+    "city": "Albano Sant’Alessandro",
+    "admin": "Lombardy",
+    "sort": "8244"
+  },
+  {
+    "city": "Vietri sul Mare",
+    "admin": "Campania",
+    "sort": "7726"
+  },
+  {
+    "city": "Decimomannu",
+    "admin": "Sardegna",
+    "sort": "8234"
+  },
+  {
+    "city": "Fermignano",
+    "admin": "Marche",
+    "sort": "8482"
+  },
+  {
+    "city": "San Damiano d’Asti",
+    "admin": "Piedmont",
+    "sort": "8347"
+  },
+  {
+    "city": "Airola",
+    "admin": "Campania",
+    "sort": "8390"
+  },
+  {
+    "city": "Villafranca Tirrena",
+    "admin": "Sicilia",
+    "sort": "8469"
+  },
+  {
+    "city": "Stra",
+    "admin": "Veneto",
+    "sort": "7635"
+  },
+  {
+    "city": "Fusignano",
+    "admin": "Emilia-Romagna",
+    "sort": "8164"
+  },
+  {
+    "city": "Fabrica di Roma",
+    "admin": "Lazio",
+    "sort": "8256"
+  },
+  {
+    "city": "Verolanuova",
+    "admin": "Lombardy",
+    "sort": "8175"
+  },
+  {
+    "city": "San Cesario di Lecce",
+    "admin": "Puglia",
+    "sort": "8169"
+  },
+  {
+    "city": "Vedano Olona",
+    "admin": "Lombardy",
+    "sort": "7425"
+  },
+  {
+    "city": "Novoli",
+    "admin": "Puglia",
+    "sort": "8024"
+  },
+  {
+    "city": "Toritto",
+    "admin": "Puglia",
+    "sort": "8352"
+  },
+  {
+    "city": "Fontaniva",
+    "admin": "Veneto",
+    "sort": "8061"
+  },
+  {
+    "city": "Gravellona Toce",
+    "admin": "Piedmont",
+    "sort": "7887"
+  },
+  {
+    "city": "Luni",
+    "admin": "Liguria",
+    "sort": "8360"
+  },
+  {
+    "city": "Massa",
+    "admin": "Tuscany",
+    "sort": "7924"
+  },
+  {
+    "city": "Altavilla Milicia",
+    "admin": "Sicilia",
+    "sort": "8340"
+  },
+  {
+    "city": "Tuscania",
+    "admin": "Lazio",
+    "sort": "8369"
+  },
+  {
+    "city": "Rivolta d’Adda",
+    "admin": "Lombardy",
+    "sort": "8140"
+  },
+  {
+    "city": "Pino Troinese",
+    "admin": "Piedmont",
+    "sort": "8365"
+  },
+  {
+    "city": "Cairate",
+    "admin": "Lombardy",
+    "sort": "7720"
+  },
+  {
+    "city": "Soriano nel Cimino",
+    "admin": "Lazio",
+    "sort": "8290"
+  },
+  {
+    "city": "Calusco d’Adda",
+    "admin": "Lombardy",
+    "sort": "8378"
+  },
+  {
+    "city": "Serramazzoni",
+    "admin": "Emilia-Romagna",
+    "sort": "8304"
+  },
+  {
+    "city": "Ponte nell’Alpi",
+    "admin": "Veneto",
+    "sort": "8250"
+  },
+  {
+    "city": "Salice Salentino",
+    "admin": "Puglia",
+    "sort": "8253"
+  },
+  {
+    "city": "Trevi",
+    "admin": "Umbria",
+    "sort": "8363"
+  },
+  {
+    "city": "Monte San Giusto",
+    "admin": "Marche",
+    "sort": "7984"
+  },
+  {
+    "city": "Quarto d’Altino",
+    "admin": "Veneto",
+    "sort": "8094"
+  },
+  {
+    "city": "Venegono Superiore",
+    "admin": "Lombardy",
+    "sort": "7293"
+  },
+  {
+    "city": "Taglio di Po",
+    "admin": "Veneto",
+    "sort": "8271"
+  },
+  {
+    "city": "Vado Ligure",
+    "admin": "Liguria",
+    "sort": "8369"
+  },
+  {
+    "city": "Appiano Gentile",
+    "admin": "Lombardy",
+    "sort": "7750"
+  },
+  {
+    "city": "Piovene Rocchette",
+    "admin": "Veneto",
+    "sort": "8344"
+  },
+  {
+    "city": "None",
+    "admin": "Piedmont",
+    "sort": "8015"
+  },
+  {
+    "city": "Boiano",
+    "admin": "Molise",
+    "sort": "8178"
+  },
+  {
+    "city": "Massa Marittima",
+    "admin": "Tuscany",
+    "sort": "8286"
+  },
+  {
+    "city": "Cervaro",
+    "admin": "Lazio",
+    "sort": "8093"
+  },
+  {
+    "city": "Cuggiono",
+    "admin": "Lombardy",
+    "sort": "8290"
+  },
+  {
+    "city": "Grottaminarda",
+    "admin": "Campania",
+    "sort": "8004"
+  },
+  {
+    "city": "Paliano",
+    "admin": "Lazio",
+    "sort": "8163"
+  },
+  {
+    "city": "Racalmuto",
+    "admin": "Sicilia",
+    "sort": "8155"
+  },
+  {
+    "city": "Agira",
+    "admin": "Sicilia",
+    "sort": "8222"
+  },
+  {
+    "city": "Campoformido",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "7891"
+  },
+  {
+    "city": "Villa di Serio",
+    "admin": "Lombardy",
+    "sort": "6777"
+  },
+  {
+    "city": "San Giovanni Gemini",
+    "admin": "Sicilia",
+    "sort": "7947"
+  },
+  {
+    "city": "Vicchio",
+    "admin": "Tuscany",
+    "sort": "8183"
+  },
+  {
+    "city": "Fuscaldo",
+    "admin": "Calabria",
+    "sort": "8108"
+  },
+  {
+    "city": "Costabissara",
+    "admin": "Veneto",
+    "sort": "7658"
+  },
+  {
+    "city": "Gattinara",
+    "admin": "Piedmont",
+    "sort": "7987"
+  },
+  {
+    "city": "San Daniele del Friuli",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "7987"
+  },
+  {
+    "city": "Petrosino",
+    "admin": "Sicilia",
+    "sort": "8181"
+  },
+  {
+    "city": "Chiaramonte Gulfi",
+    "admin": "Sicilia",
+    "sort": "8126"
+  },
+  {
+    "city": "Caccamo",
+    "admin": "Sicilia",
+    "sort": "8139"
+  },
+  {
+    "city": "Campomarino",
+    "admin": "Molise",
+    "sort": "8074"
+  },
+  {
+    "city": "San Martino in Rio",
+    "admin": "Emilia-Romagna",
+    "sort": "8111"
+  },
+  {
+    "city": "Grumello del Monte",
+    "admin": "Lombardy",
+    "sort": "7427"
+  },
+  {
+    "city": "Montorio al Vomano",
+    "admin": "Abruzzo",
+    "sort": "8013"
+  },
+  {
+    "city": "Forte dei Marmi",
+    "admin": "Tuscany",
+    "sort": "7335"
+  },
+  {
+    "city": "Cariati",
+    "admin": "Calabria",
+    "sort": "8156"
+  },
+  {
+    "city": "Cellole",
+    "admin": "Campania",
+    "sort": "7937"
+  },
+  {
+    "city": "Tavullia",
+    "admin": "Marche",
+    "sort": "7961"
+  },
+  {
+    "city": "Vobarno",
+    "admin": "Lombardy",
+    "sort": "8112"
+  },
+  {
+    "city": "Pisogne",
+    "admin": "Lombardy",
+    "sort": "7982"
+  },
+  {
+    "city": "Breda di Piave",
+    "admin": "Veneto",
+    "sort": "7835"
+  },
+  {
+    "city": "Levico Terme",
+    "admin": "Trentino-Alto Adige",
+    "sort": "8000"
+  },
+  {
+    "city": "Serra Riccò",
+    "admin": "Liguria",
+    "sort": "7826"
+  },
+  {
+    "city": "Tricesimo",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "7687"
+  },
+  {
+    "city": "Loreggia",
+    "admin": "Veneto",
+    "sort": "7708"
+  },
+  {
+    "city": "Turbigo",
+    "admin": "Lombardy",
+    "sort": "7246"
+  },
+  {
+    "city": "Carmignano di Brenta",
+    "admin": "Veneto",
+    "sort": "7576"
+  },
+  {
+    "city": "Fara Gera d’Adda",
+    "admin": "Lombardy",
+    "sort": "8017"
+  },
+  {
+    "city": "Cologne",
+    "admin": "Lombardy",
+    "sort": "7534"
+  },
+  {
+    "city": "Colico",
+    "admin": "Lombardy",
+    "sort": "7853"
+  },
+  {
+    "city": "Sacrofano",
+    "admin": "Lazio",
+    "sort": "7799"
+  },
+  {
+    "city": "Manziana",
+    "admin": "Lazio",
+    "sort": "7737"
+  },
+  {
+    "city": "Maracalagonis",
+    "admin": "Sardegna",
+    "sort": "7980"
+  },
+  {
+    "city": "Casteltermini",
+    "admin": "Sicilia",
+    "sort": "7976"
+  },
+  {
+    "city": "Arcugnano",
+    "admin": "Veneto",
+    "sort": "7853"
+  },
+  {
+    "city": "Anacapri",
+    "admin": "Campania",
+    "sort": "6962"
+  },
+  {
+    "city": "Tropea",
+    "admin": "Calabria",
+    "sort": "6307"
+  },
+  {
+    "city": "Cumiana",
+    "admin": "Piedmont",
+    "sort": "7873"
+  },
+  {
+    "city": "Borgonovo Val Tidone",
+    "admin": "Emilia-Romagna",
+    "sort": "7952"
+  },
+  {
+    "city": "Chiavenna",
+    "admin": "Lombardy",
+    "sort": "7313"
+  },
+  {
+    "city": "Bosa",
+    "admin": "Sardegna",
+    "sort": "7927"
+  },
+  {
+    "city": "Torrile",
+    "admin": "Emilia-Romagna",
+    "sort": "7774"
+  },
+  {
+    "city": "Bolano",
+    "admin": "Liguria",
+    "sort": "7836"
+  },
+  {
+    "city": "Limena",
+    "admin": "Veneto",
+    "sort": "7925"
+  },
+  {
+    "city": "Motta Visconti",
+    "admin": "Lombardy",
+    "sort": "7980"
+  },
+  {
+    "city": "Rizziconi",
+    "admin": "Calabria",
+    "sort": "7783"
+  },
+  {
+    "city": "Crescentino",
+    "admin": "Piedmont",
+    "sort": "7814"
+  },
+  {
+    "city": "Marmirolo",
+    "admin": "Lombardy",
+    "sort": "7789"
+  },
+  {
+    "city": "Toscolano",
+    "admin": "Lombardy",
+    "sort": "7836"
+  },
+  {
+    "city": "Mozzecane",
+    "admin": "Verona",
+    "sort": "7656"
+  },
+  {
+    "city": "Cartoceto",
+    "admin": "Marche",
+    "sort": "7936"
+  },
+  {
+    "city": "Galliera Veneta",
+    "admin": "Veneto",
+    "sort": "7133"
+  },
+  {
+    "city": "Cambiago",
+    "admin": "Lombardy",
+    "sort": "6954"
+  },
+  {
+    "city": "Teggiano",
+    "admin": "Campania",
+    "sort": "7794"
+  },
+  {
+    "city": "Villa Cortese",
+    "admin": "Lombardy",
+    "sort": "6171"
+  },
+  {
+    "city": "Pasiano",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "7736"
+  },
+  {
+    "city": "Olginate",
+    "admin": "Lombardy",
+    "sort": "7024"
+  },
+  {
+    "city": "Pelago",
+    "admin": "Tuscany",
+    "sort": "7751"
+  },
+  {
+    "city": "Tavernelle in Val di Pesa",
+    "admin": "Tuscany",
+    "sort": "7753"
+  },
+  {
+    "city": "Avella",
+    "admin": "Campania",
+    "sort": "7810"
+  },
+  {
+    "city": "Carpaneto Piacentino",
+    "admin": "Emilia-Romagna",
+    "sort": "7733"
+  },
+  {
+    "city": "Pantelleria",
+    "admin": "Trapani",
+    "sort": "7759"
+  },
+  {
+    "city": "San Colombano al Lambro",
+    "admin": "Lombardy",
+    "sort": "7394"
+  },
+  {
+    "city": "Palagianello",
+    "admin": "Puglia",
+    "sort": "7834"
+  },
+  {
+    "city": "San Gimignano",
+    "admin": "Tuscany",
+    "sort": "7774"
+  },
+  {
+    "city": "Lamporecchio",
+    "admin": "Tuscany",
+    "sort": "7493"
+  },
+  {
+    "city": "Soncino",
+    "admin": "Lombardy",
+    "sort": "7648"
+  },
+  {
+    "city": "Curtarolo",
+    "admin": "Veneto",
+    "sort": "7317"
+  },
+  {
+    "city": "Carnago",
+    "admin": "Lombardy",
+    "sort": "6722"
+  },
+  {
+    "city": "Marcellina",
+    "admin": "Lazio",
+    "sort": "7325"
+  },
+  {
+    "city": "Castellalto",
+    "admin": "Abruzzo",
+    "sort": "7578"
+  },
+  {
+    "city": "Mirabella Eclano",
+    "admin": "Campania",
+    "sort": "7573"
+  },
+  {
+    "city": "Castiglione Olona",
+    "admin": "Lombardy",
+    "sort": "7669"
+  },
+  {
+    "city": "Barge",
+    "admin": "Piedmont",
+    "sort": "7699"
+  },
+  {
+    "city": "Pratola Peligna",
+    "admin": "Abruzzo",
+    "sort": "7528"
+  },
+  {
+    "city": "Agerola",
+    "admin": "Campania",
+    "sort": "7695"
+  },
+  {
+    "city": "Vigarano Mainarda",
+    "admin": "Emilia-Romagna",
+    "sort": "7592"
+  },
+  {
+    "city": "Fivizzano",
+    "admin": "Tuscany",
+    "sort": "7730"
+  },
+  {
+    "city": "San Giórgio di Nogaro",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "7467"
+  },
+  {
+    "city": "Vitulazio",
+    "admin": "Campania",
+    "sort": "7436"
+  },
+  {
+    "city": "Città della Pieve",
+    "admin": "Umbria",
+    "sort": "7686"
+  },
+  {
+    "city": "Vico del Gargano",
+    "admin": "Puglia",
+    "sort": "7674"
+  },
+  {
+    "city": "Fossò",
+    "admin": "Veneto",
+    "sort": "7041"
+  },
+  {
+    "city": "Vezzano Ligure",
+    "admin": "Liguria",
+    "sort": "7320"
+  },
+  {
+    "city": "Solesino",
+    "admin": "Veneto",
+    "sort": "7025"
+  },
+  {
+    "city": "Luserna San Giovanni",
+    "admin": "Piedmont",
+    "sort": "7297"
+  },
+  {
+    "city": "Nicolosi",
+    "admin": "Sicilia",
+    "sort": "7528"
+  },
+  {
+    "city": "San Filippo della Mela",
+    "admin": "Sicilia",
+    "sort": "7006"
+  },
+  {
+    "city": "Santa Maria di Licodia",
+    "admin": "Sicilia",
+    "sort": "7691"
+  },
+  {
+    "city": "Villa d’Almè",
+    "admin": "Lombardy",
+    "sort": "6672"
+  },
+  {
+    "city": "Spinetoli",
+    "admin": "Marche",
+    "sort": "7132"
+  },
+  {
+    "city": "Melissano",
+    "admin": "Puglia",
+    "sort": "7129"
+  },
+  {
+    "city": "Vergato",
+    "admin": "Emilia-Romagna",
+    "sort": "7664"
+  },
+  {
+    "city": "Sarnico",
+    "admin": "Lombardy",
+    "sort": "6688"
+  },
+  {
+    "city": "Cotignola",
+    "admin": "Emilia-Romagna",
+    "sort": "7479"
+  },
+  {
+    "city": "Caluso",
+    "admin": "Piedmont",
+    "sort": "7496"
+  },
+  {
+    "city": "Capri",
+    "admin": "Campania",
+    "sort": "7159"
+  },
+  {
+    "city": "Sant’Angelo di Piove di Sacco",
+    "admin": "Veneto",
+    "sort": "7170"
+  },
+  {
+    "city": "Sonnino",
+    "admin": "Lazio",
+    "sort": "7560"
+  },
+  {
+    "city": "Santa Giustina in Colle",
+    "admin": "Veneto",
+    "sort": "7269"
+  },
+  {
+    "city": "Carosino",
+    "admin": "Puglia",
+    "sort": "7028"
+  },
+  {
+    "city": "Adro",
+    "admin": "Lombardy",
+    "sort": "7168"
+  },
+  {
+    "city": "Staranzano",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "7297"
+  },
+  {
+    "city": "Saltara",
+    "admin": "Marche",
+    "sort": "6966"
+  },
+  {
+    "city": "Borgetto",
+    "admin": "Sicilia",
+    "sort": "7374"
+  },
+  {
+    "city": "Roccasecca",
+    "admin": "Lazio",
+    "sort": "7481"
+  },
+  {
+    "city": "Ferno",
+    "admin": "Lombardy",
+    "sort": "6850"
+  },
+  {
+    "city": "Calimera",
+    "admin": "Puglia",
+    "sort": "7009"
+  },
+  {
+    "city": "Mapello",
+    "admin": "Lombardy",
+    "sort": "6840"
+  },
+  {
+    "city": "Candelo",
+    "admin": "Piedmont",
+    "sort": "7548"
+  },
+  {
+    "city": "Brisighella",
+    "admin": "Emilia-Romagna",
+    "sort": "7579"
+  },
+  {
+    "city": "Naro",
+    "admin": "Sicilia",
+    "sort": "7580"
+  },
+  {
+    "city": "Cavaria",
+    "admin": "Lombardy",
+    "sort": "5834"
+  },
+  {
+    "city": "Castello di Godego",
+    "admin": "Veneto",
+    "sort": "7190"
+  },
+  {
+    "city": "Castel Madama",
+    "admin": "Lazio",
+    "sort": "7328"
+  },
+  {
+    "city": "Passirano",
+    "admin": "Lombardy",
+    "sort": "7054"
+  },
+  {
+    "city": "Camerano",
+    "admin": "Marche",
+    "sort": "7218"
+  },
+  {
+    "city": "Lodi Vecchio",
+    "admin": "Lombardy",
+    "sort": "7570"
+  },
+  {
+    "city": "Dairago",
+    "admin": "Lombardy",
+    "sort": "6420"
+  },
+  {
+    "city": "Cormòns",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "7347"
+  },
+  {
+    "city": "Sant’Agata Bolognese",
+    "admin": "Emilia-Romagna",
+    "sort": "7344"
+  },
+  {
+    "city": "Vallecrosia",
+    "admin": "Liguria",
+    "sort": "6972"
+  },
+  {
+    "city": "Zanè",
+    "admin": "Veneto",
+    "sort": "6661"
+  },
+  {
+    "city": "Campofelice di Roccella",
+    "admin": "Sicilia",
+    "sort": "7516"
+  },
+  {
+    "city": "Pieve di Cento",
+    "admin": "Emilia-Romagna",
+    "sort": "7068"
+  },
+  {
+    "city": "Nole",
+    "admin": "Piedmont",
+    "sort": "6895"
+  },
+  {
+    "city": "San Zenone",
+    "admin": "Veneto",
+    "sort": "7435"
+  },
+  {
+    "city": "Canicattini Bagni",
+    "admin": "Sicilia",
+    "sort": "7032"
+  },
+  {
+    "city": "Longiano",
+    "admin": "Emilia-Romagna",
+    "sort": "7190"
+  },
+  {
+    "city": "Loreto Aprutino",
+    "admin": "Abruzzo",
+    "sort": "7369"
+  },
+  {
+    "city": "Volta Mantovana",
+    "admin": "Lombardy",
+    "sort": "7339"
+  },
+  {
+    "city": "Brugine",
+    "admin": "Veneto",
+    "sort": "7116"
+  },
+  {
+    "city": "San Marco Argentano",
+    "admin": "Calabria",
+    "sort": "7380"
+  },
+  {
+    "city": "Buttapietra",
+    "admin": "Veneto",
+    "sort": "7062"
+  },
+  {
+    "city": "Torregrotta",
+    "admin": "Sicilia",
+    "sort": "7403"
+  },
+  {
+    "city": "Tito",
+    "admin": "Basilicata",
+    "sort": "7355"
+  },
+  {
+    "city": "Poviglio",
+    "admin": "Emilia-Romagna",
+    "sort": "7285"
+  },
+  {
+    "city": "Balestrate",
+    "admin": "Sicilia",
+    "sort": "6446"
+  },
+  {
+    "city": "Ceriano Laghetto",
+    "admin": "Lombardy",
+    "sort": "6526"
+  },
+  {
+    "city": "Arconate",
+    "admin": "Lombardy",
+    "sort": "6645"
+  },
+  {
+    "city": "Rufina",
+    "admin": "Tuscany",
+    "sort": "7266"
+  },
+  {
+    "city": "Soave",
+    "admin": "Veneto",
+    "sort": "7108"
+  },
+  {
+    "city": "Sennori",
+    "admin": "Sardegna",
+    "sort": "7190"
+  },
+  {
+    "city": "Sparanise",
+    "admin": "Campania",
+    "sort": "7376"
+  },
+  {
+    "city": "Torrita di Siena",
+    "admin": "Tuscany",
+    "sort": "7276"
+  },
+  {
+    "city": "Zelo Buon Persico",
+    "admin": "Lombardy",
+    "sort": "7373"
+  },
+  {
+    "city": "Lignano Sabbiadoro",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "6948"
+  },
+  {
+    "city": "Canova",
+    "admin": "Lombardy",
+    "sort": "6461"
+  },
+  {
+    "city": "Pederobba",
+    "admin": "Veneto",
+    "sort": "7353"
+  },
+  {
+    "city": "Roggiano Gravina",
+    "admin": "Calabria",
+    "sort": "7205"
+  },
+  {
+    "city": "Noventa di Piave",
+    "admin": "Veneto",
+    "sort": "6966"
+  },
+  {
+    "city": "San Fior di Sopra",
+    "admin": "Veneto",
+    "sort": "6958"
+  },
+  {
+    "city": "Manciano",
+    "admin": "Tuscany",
+    "sort": "7309"
+  },
+  {
+    "city": "Castiglione della Pescaia",
+    "admin": "Tuscany",
+    "sort": "7289"
+  },
+  {
+    "city": "Campagna Lupia",
+    "admin": "Veneto",
+    "sort": "7225"
+  },
+  {
+    "city": "Montecosaro",
+    "admin": "Marche",
+    "sort": "7206"
+  },
+  {
+    "city": "Cavezzo",
+    "admin": "Emilia-Romagna",
+    "sort": "7031"
+  },
+  {
+    "city": "Montecassiano",
+    "admin": "Marche",
+    "sort": "7080"
+  },
+  {
+    "city": "Cordignano",
+    "admin": "Veneto",
+    "sort": "7024"
+  },
+  {
+    "city": "Novafeltria",
+    "admin": "Marche",
+    "sort": "7119"
+  },
+  {
+    "city": "Arpino",
+    "admin": "Lazio",
+    "sort": "7150"
+  },
+  {
+    "city": "Bardolino",
+    "admin": "Veneto",
+    "sort": "7147"
+  },
+  {
+    "city": "Militello in Val di Catania",
+    "admin": "Sicilia",
+    "sort": "7262"
+  },
+  {
+    "city": "Montelabbate",
+    "admin": "Marche",
+    "sort": "6915"
+  },
+  {
+    "city": "Cernobbio",
+    "admin": "Lombardy",
+    "sort": "6718"
+  },
+  {
+    "city": "Montalbano Ionico",
+    "admin": "Basilicata",
+    "sort": "7208"
+  },
+  {
+    "city": "Gioiosa Ionica",
+    "admin": "Calabria",
+    "sort": "7059"
+  },
+  {
+    "city": "Carinola",
+    "admin": "Campania",
+    "sort": "7248"
+  },
+  {
+    "city": "Povegliano Veronese",
+    "admin": "Veneto",
+    "sort": "7233"
+  },
+  {
+    "city": "Chianciano Terme",
+    "admin": "Tuscany",
+    "sort": "7050"
+  },
+  {
+    "city": "Vazzola",
+    "admin": "Veneto",
+    "sort": "6972"
+  },
+  {
+    "city": "Cagnano Varano",
+    "admin": "Puglia",
+    "sort": "7194"
+  },
+  {
+    "city": "Corte Franca",
+    "admin": "Lombardy",
+    "sort": "7201"
+  },
+  {
+    "city": "Pontremoli",
+    "admin": "Tuscany",
+    "sort": "7193"
+  },
+  {
+    "city": "Regalbuto",
+    "admin": "Sicilia",
+    "sort": "7190"
+  },
+  {
+    "city": "Rovello Porro",
+    "admin": "Lombardy",
+    "sort": "6122"
+  },
+  {
+    "city": "Rivergaro",
+    "admin": "Emilia-Romagna",
+    "sort": "7066"
+  },
+  {
+    "city": "Varallo",
+    "admin": "Piedmont",
+    "sort": "7146"
+  },
+  {
+    "city": "Altavilla Silentina",
+    "admin": "Campania",
+    "sort": "7083"
+  },
+  {
+    "city": "Spino d’Adda",
+    "admin": "Lombardy",
+    "sort": "6873"
+  },
+  {
+    "city": "Camerota",
+    "admin": "Campania",
+    "sort": "7107"
+  },
+  {
+    "city": "Campli",
+    "admin": "Abruzzo",
+    "sort": "7110"
+  },
+  {
+    "city": "Gioiosa Marea",
+    "admin": "Sicilia",
+    "sort": "6942"
+  },
+  {
+    "city": "Pegognaga",
+    "admin": "Lombardy",
+    "sort": "7046"
+  },
+  {
+    "city": "Cassolnovo",
+    "admin": "Lombardy",
+    "sort": "6976"
+  },
+  {
+    "city": "Spezzano Albanese",
+    "admin": "Calabria",
+    "sort": "6977"
+  },
+  {
+    "city": "Santi Cosma e Damiano",
+    "admin": "Lazio",
+    "sort": "6972"
+  },
+  {
+    "city": "Grazzanise",
+    "admin": "Campania",
+    "sort": "7041"
+  },
+  {
+    "city": "Sapri",
+    "admin": "Campania",
+    "sort": "6716"
+  },
+  {
+    "city": "Cles",
+    "admin": "Trentino-Alto Adige",
+    "sort": "7009"
+  },
+  {
+    "city": "Trino",
+    "admin": "Piedmont",
+    "sort": "7085"
+  },
+  {
+    "city": "Baricella",
+    "admin": "Emilia-Romagna",
+    "sort": "7030"
+  },
+  {
+    "city": "Caulonia",
+    "admin": "Calabria",
+    "sort": "7110"
+  },
+  {
+    "city": "Dronero",
+    "admin": "Piedmont",
+    "sort": "7058"
+  },
+  {
+    "city": "Vernole",
+    "admin": "Puglia",
+    "sort": "7062"
+  },
+  {
+    "city": "Scorrano",
+    "admin": "Puglia",
+    "sort": "6974"
+  },
+  {
+    "city": "Pontevico",
+    "admin": "Lombardy",
+    "sort": "7118"
+  },
+  {
+    "city": "Urbania",
+    "admin": "Marche",
+    "sort": "7076"
+  },
+  {
+    "city": "Vipiteno",
+    "admin": "Trentino-Alto Adige",
+    "sort": "6956"
+  },
+  {
+    "city": "Centallo",
+    "admin": "Piedmont",
+    "sort": "7002"
+  },
+  {
+    "city": "Venegono Inferiore",
+    "admin": "Lombardy",
+    "sort": "6124"
+  },
+  {
+    "city": "Fontanellato",
+    "admin": "Emilia-Romagna",
+    "sort": "7034"
+  },
+  {
+    "city": "Mezzolombardo",
+    "admin": "Trentino-Alto Adige",
+    "sort": "7156"
+  },
+  {
+    "city": "Cava Manara",
+    "admin": "Lombardy",
+    "sort": "6766"
+  },
+  {
+    "city": "Sassoferrato",
+    "admin": "Marche",
+    "sort": "7104"
+  },
+  {
+    "city": "Zibido San Giacomo",
+    "admin": "Lombardy",
+    "sort": "6872"
+  },
+  {
+    "city": "Quiliano",
+    "admin": "Liguria",
+    "sort": "7137"
+  },
+  {
+    "city": "Morciano di Romagna",
+    "admin": "Emilia-Romagna",
+    "sort": "7020"
+  },
+  {
+    "city": "Buttigliera Alta",
+    "admin": "Piedmont",
+    "sort": "6347"
+  },
+  {
+    "city": "Pozzuolo del Friuli",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "6927"
+  },
+  {
+    "city": "Orosei",
+    "admin": "Sardegna",
+    "sort": "7049"
+  },
+  {
+    "city": "Pantigliate",
+    "admin": "Lombardy",
+    "sort": "6058"
+  },
+  {
+    "city": "Roccadaspide",
+    "admin": "Campania",
+    "sort": "7116"
+  },
+  {
+    "city": "Campomorone",
+    "admin": "Liguria",
+    "sort": "6849"
+  },
+  {
+    "city": "Asciano",
+    "admin": "Tuscany",
+    "sort": "7076"
+  },
+  {
+    "city": "Troia",
+    "admin": "Puglia",
+    "sort": "7100"
+  },
+  {
+    "city": "Serino",
+    "admin": "Campania",
+    "sort": "6968"
+  },
+  {
+    "city": "Monte San Vito",
+    "admin": "Marche",
+    "sort": "6787"
+  },
+  {
+    "city": "Manoppello",
+    "admin": "Abruzzo",
+    "sort": "6920"
+  },
+  {
+    "city": "Roncoferraro",
+    "admin": "Lombardy",
+    "sort": "6982"
+  },
+  {
+    "city": "Casteggio",
+    "admin": "Lombardy",
+    "sort": "6712"
+  },
+  {
+    "city": "Borgo a Mozzano",
+    "admin": "Tuscany",
+    "sort": "6994"
+  },
+  {
+    "city": "Borgo",
+    "admin": "Trentino-Alto Adige",
+    "sort": "6949"
+  },
+  {
+    "city": "Lazise",
+    "admin": "Veneto",
+    "sort": "6958"
+  },
+  {
+    "city": "Martignacco",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "6812"
+  },
+  {
+    "city": "Senise",
+    "admin": "Basilicata",
+    "sort": "6995"
+  },
+  {
+    "city": "San Benedetto Po",
+    "admin": "Lombardy",
+    "sort": "7040"
+  },
+  {
+    "city": "Oliena",
+    "admin": "Sardegna",
+    "sort": "7018"
+  },
+  {
+    "city": "Settimo San Pietro",
+    "admin": "Sardegna",
+    "sort": "6760"
+  },
+  {
+    "city": "Albisola Marina",
+    "admin": "Liguria",
+    "sort": "5387"
+  },
+  {
+    "city": "Pignola",
+    "admin": "Basilicata",
+    "sort": "6908"
+  },
+  {
+    "city": "Busseto",
+    "admin": "Emilia-Romagna",
+    "sort": "6939"
+  },
+  {
+    "city": "Bellante",
+    "admin": "Abruzzo",
+    "sort": "6997"
+  },
+  {
+    "city": "Gradisca d’Isonzo",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "6452"
+  },
+  {
+    "city": "Cerano",
+    "admin": "Piedmont",
+    "sort": "6813"
+  },
+  {
+    "city": "Villasor",
+    "admin": "Sardegna",
+    "sort": "6937"
+  },
+  {
+    "city": "Marina di Gioiosa Ionica",
+    "admin": "Calabria",
+    "sort": "6603"
+  },
+  {
+    "city": "Marcallo con Casone",
+    "admin": "Lombardy",
+    "sort": "6250"
+  },
+  {
+    "city": "Camerino",
+    "admin": "Marche",
+    "sort": "6956"
+  },
+  {
+    "city": "Praia a Mare",
+    "admin": "Calabria",
+    "sort": "6717"
+  },
+  {
+    "city": "Olevano sul Tusciano",
+    "admin": "Campania",
+    "sort": "6743"
+  },
+  {
+    "city": "Alliste",
+    "admin": "Puglia",
+    "sort": "6702"
+  },
+  {
+    "city": "Roccarainola",
+    "admin": "Campania",
+    "sort": "6940"
+  },
+  {
+    "city": "Villadossola",
+    "admin": "Piedmont",
+    "sort": "6617"
+  },
+  {
+    "city": "Santa Giustina",
+    "admin": "Veneto",
+    "sort": "6780"
+  },
+  {
+    "city": "Arosio",
+    "admin": "Lombardy",
+    "sort": "5019"
+  },
+  {
+    "city": "Borgo Val di Taro",
+    "admin": "Emilia-Romagna",
+    "sort": "6907"
+  },
+  {
+    "city": "San Cipriano Picentino",
+    "admin": "Campania",
+    "sort": "6571"
+  },
+  {
+    "city": "Marzabotto",
+    "admin": "Emilia-Romagna",
+    "sort": "6853"
+  },
+  {
+    "city": "Caraglio",
+    "admin": "Piedmont",
+    "sort": "6782"
+  },
+  {
+    "city": "Lercara Friddi",
+    "admin": "Sicilia",
+    "sort": "6764"
+  },
+  {
+    "city": "Mileto",
+    "admin": "Calabria",
+    "sort": "6742"
+  },
+  {
+    "city": "Salgareda",
+    "admin": "Veneto",
+    "sort": "6681"
+  },
+  {
+    "city": "Olevano Romano",
+    "admin": "Lazio",
+    "sort": "6664"
+  },
+  {
+    "city": "Camposano",
+    "admin": "Campania",
+    "sort": "5320"
+  },
+  {
+    "city": "Ostiglia",
+    "admin": "Lombardy",
+    "sort": "6741"
+  },
+  {
+    "city": "Mercato Saraceno",
+    "admin": "Emilia-Romagna",
+    "sort": "6837"
+  },
+  {
+    "city": "Brendola",
+    "admin": "Veneto",
+    "sort": "6624"
+  },
+  {
+    "city": "Sommatino",
+    "admin": "Sicilia",
+    "sort": "6877"
+  },
+  {
+    "city": "Almenno San Salvatore",
+    "admin": "Lombardy",
+    "sort": "5677"
+  },
+  {
+    "city": "Pietraperzia",
+    "admin": "Sicilia",
+    "sort": "6817"
+  },
+  {
+    "city": "Sant’Agostino",
+    "admin": "Emilia-Romagna",
+    "sort": "6842"
+  },
+  {
+    "city": "Nervesa della Battaglia",
+    "admin": "Veneto",
+    "sort": "6675"
+  },
+  {
+    "city": "Montegiorgio",
+    "admin": "Marche",
+    "sort": "6723"
+  },
+  {
+    "city": "Mesola",
+    "admin": "Emilia-Romagna",
+    "sort": "6778"
+  },
+  {
+    "city": "Montebello Vicentino",
+    "admin": "Veneto",
+    "sort": "6542"
+  },
+  {
+    "city": "Piedimonte San Germano",
+    "admin": "Lazio",
+    "sort": "6469"
+  },
+  {
+    "city": "Torgiano",
+    "admin": "Umbria",
+    "sort": "6662"
+  },
+  {
+    "city": "Almenno San Bartolomeo",
+    "admin": "Lombardy",
+    "sort": "6247"
+  },
+  {
+    "city": "San Vincenzo",
+    "admin": "Tuscany",
+    "sort": "6827"
+  },
+  {
+    "city": "Nova Siri",
+    "admin": "Basilicata",
+    "sort": "6810"
+  },
+  {
+    "city": "Cittaducale",
+    "admin": "Lazio",
+    "sort": "6719"
+  },
+  {
+    "city": "Castello d’Argile",
+    "admin": "Emilia-Romagna",
+    "sort": "6583"
+  },
+  {
+    "city": "Bolzano Vicentino",
+    "admin": "Veneto",
+    "sort": "6480"
+  },
+  {
+    "city": "Robecco sul Naviglio",
+    "admin": "Lombardy",
+    "sort": "6723"
+  },
+  {
+    "city": "Sermide",
+    "admin": "Lombardy",
+    "sort": "6089"
+  },
+  {
+    "city": "Landriano",
+    "admin": "Lombardy",
+    "sort": "6377"
+  },
+  {
+    "city": "Almese",
+    "admin": "Piedmont",
+    "sort": "6426"
+  },
+  {
+    "city": "Castel di Sangro",
+    "admin": "Abruzzo",
+    "sort": "6705"
+  },
+  {
+    "city": "Poggio Rusco",
+    "admin": "Lombardy",
+    "sort": "6623"
+  },
+  {
+    "city": "Mede",
+    "admin": "Lombardy",
+    "sort": "6576"
+  },
+  {
+    "city": "Cellamare",
+    "admin": "Puglia",
+    "sort": "5792"
+  },
+  {
+    "city": "Ciserano",
+    "admin": "Lombardy",
+    "sort": "5696"
+  },
+  {
+    "city": "Cornuda",
+    "admin": "Veneto",
+    "sort": "6267"
+  },
+  {
+    "city": "Serra San Bruno",
+    "admin": "Calabria",
+    "sort": "6604"
+  },
+  {
+    "city": "Montelepre",
+    "admin": "Sicilia",
+    "sort": "6142"
+  },
+  {
+    "city": "San Donaci",
+    "admin": "Puglia",
+    "sort": "6569"
+  },
+  {
+    "city": "Larino",
+    "admin": "Molise",
+    "sort": "6680"
+  },
+  {
+    "city": "Tagliacozzo",
+    "admin": "Abruzzo",
+    "sort": "6755"
+  },
+  {
+    "city": "Ghisalba",
+    "admin": "Lombardy",
+    "sort": "6170"
+  },
+  {
+    "city": "Diano Marina",
+    "admin": "Liguria",
+    "sort": "5867"
+  },
+  {
+    "city": "Buia",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "6484"
+  },
+  {
+    "city": "Marineo",
+    "admin": "Sicilia",
+    "sort": "6541"
+  },
+  {
+    "city": "Curinga",
+    "admin": "Calabria",
+    "sort": "6719"
+  },
+  {
+    "city": "Verzuolo",
+    "admin": "Piedmont",
+    "sort": "6480"
+  },
+  {
+    "city": "Notaresco",
+    "admin": "Abruzzo",
+    "sort": "6702"
+  },
+  {
+    "city": "San Martino Siccomario",
+    "admin": "Lombardy",
+    "sort": "6278"
+  },
+  {
+    "city": "Pollenza",
+    "admin": "Marche",
+    "sort": "6549"
+  },
+  {
+    "city": "Robbiate",
+    "admin": "Lombardy",
+    "sort": "6337"
+  },
+  {
+    "city": "Cellino San Marco",
+    "admin": "Puglia",
+    "sort": "6530"
+  },
+  {
+    "city": "Cinquefrondi",
+    "admin": "Calabria",
+    "sort": "6480"
+  },
+  {
+    "city": "Carapelle",
+    "admin": "Puglia",
+    "sort": "6692"
+  },
+  {
+    "city": "Avetrana",
+    "admin": "Puglia",
+    "sort": "6604"
+  },
+  {
+    "city": "Trezzano Rosa",
+    "admin": "Lombardy",
+    "sort": "5183"
+  },
+  {
+    "city": "Montenero di Bisaccia",
+    "admin": "Molise",
+    "sort": "6612"
+  },
+  {
+    "city": "Calci",
+    "admin": "Tuscany",
+    "sort": "6418"
+  },
+  {
+    "city": "Misinto",
+    "admin": "Lombardy",
+    "sort": "5576"
+  },
+  {
+    "city": "Pizzighettone",
+    "admin": "Lombardy",
+    "sort": "6465"
+  },
+  {
+    "city": "Vairano Patenora",
+    "admin": "Campania",
+    "sort": "6515"
+  },
+  {
+    "city": "Albizzate",
+    "admin": "Lombardy",
+    "sort": "5299"
+  },
+  {
+    "city": "Marcaria",
+    "admin": "Lombardy",
+    "sort": "6591"
+  },
+  {
+    "city": "Sutri",
+    "admin": "Lazio",
+    "sort": "6643"
+  },
+  {
+    "city": "Dozza",
+    "admin": "Emilia-Romagna",
+    "sort": "6588"
+  },
+  {
+    "city": "Gualtieri",
+    "admin": "Emilia-Romagna",
+    "sort": "6471"
+  },
+  {
+    "city": "Castronno",
+    "admin": "Lombardy",
+    "sort": "5253"
+  },
+  {
+    "city": "Sammichele di Bari",
+    "admin": "Puglia",
+    "sort": "6454"
+  },
+  {
+    "city": "Capannoli",
+    "admin": "Tuscany",
+    "sort": "6359"
+  },
+  {
+    "city": "Poggio Mirteto",
+    "admin": "Lazio",
+    "sort": "6391"
+  },
+  {
+    "city": "Fabbrico",
+    "admin": "Emilia-Romagna",
+    "sort": "6609"
+  },
+  {
+    "city": "Roccella Ionica",
+    "admin": "Calabria",
+    "sort": "6450"
+  },
+  {
+    "city": "Montesano sulla Marcellana",
+    "admin": "Campania",
+    "sort": "6544"
+  },
+  {
+    "city": "Strongoli",
+    "admin": "Calabria",
+    "sort": "6518"
+  },
+  {
+    "city": "Gallicano nel Lazio",
+    "admin": "Lazio",
+    "sort": "6343"
+  },
+  {
+    "city": "Capranica",
+    "admin": "Lazio",
+    "sort": "6430"
+  },
+  {
+    "city": "San Marco Evangelista",
+    "admin": "Campania",
+    "sort": "6577"
+  },
+  {
+    "city": "Meolo",
+    "admin": "Veneto",
+    "sort": "6345"
+  },
+  {
+    "city": "Gonnosfanàdiga",
+    "admin": "Sardegna",
+    "sort": "6530"
+  },
+  {
+    "city": "Calatafimi",
+    "admin": "Sicilia",
+    "sort": "6537"
+  },
+  {
+    "city": "Arcole",
+    "admin": "Veneto",
+    "sort": "6246"
+  },
+  {
+    "city": "Solbiate Olona",
+    "admin": "Lombardy",
+    "sort": "5466"
+  },
+  {
+    "city": "San Giorgio in Bosco",
+    "admin": "Veneto",
+    "sort": "6346"
+  },
+  {
+    "city": "Fossacesia",
+    "admin": "Abruzzo",
+    "sort": "6358"
+  },
+  {
+    "city": "Quinzano d’Oglio",
+    "admin": "Lombardy",
+    "sort": "6271"
+  },
+  {
+    "city": "Codevigo",
+    "admin": "Veneto",
+    "sort": "6463"
+  },
+  {
+    "city": "Albanella",
+    "admin": "Campania",
+    "sort": "6394"
+  },
+  {
+    "city": "Spinazzola",
+    "admin": "Puglia",
+    "sort": "6515"
+  },
+  {
+    "city": "Livigno",
+    "admin": "Lombardy",
+    "sort": "6550"
+  },
+  {
+    "city": "Castelgomberto",
+    "admin": "Veneto",
+    "sort": "6188"
+  },
+  {
+    "city": "Rosolina",
+    "admin": "Veneto",
+    "sort": "6456"
+  },
+  {
+    "city": "Lurago d’Erba",
+    "admin": "Lombardy",
+    "sort": "5383"
+  },
+  {
+    "city": "Villaverla",
+    "admin": "Veneto",
+    "sort": "6138"
+  },
+  {
+    "city": "Sesto al Reghena",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "6367"
+  },
+  {
+    "city": "Sant’Arcangelo",
+    "admin": "Basilicata",
+    "sort": "6448"
+  },
+  {
+    "city": "San Cesario sul Panaro",
+    "admin": "Emilia-Romagna",
+    "sort": "6460"
+  },
+  {
+    "city": "Brolo",
+    "admin": "Sicilia",
+    "sort": "5767"
+  },
+  {
+    "city": "Pontenure",
+    "admin": "Emilia-Romagna",
+    "sort": "6499"
+  },
+  {
+    "city": "Offanengo",
+    "admin": "Lombardy",
+    "sort": "6031"
+  },
+  {
+    "city": "Barzanò",
+    "admin": "Lombardy",
+    "sort": "5101"
+  },
+  {
+    "city": "Casorate Sempione",
+    "admin": "Lombardy",
+    "sort": "5687"
+  },
+  {
+    "city": "Sommariva del Bosco",
+    "admin": "Piedmont",
+    "sort": "6321"
+  },
+  {
+    "city": "Labico",
+    "admin": "Lazio",
+    "sort": "6469"
+  },
+  {
+    "city": "San Michele Salentino",
+    "admin": "Puglia",
+    "sort": "6258"
+  },
+  {
+    "city": "Caneva",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "6339"
+  },
+  {
+    "city": "Medolla",
+    "admin": "Emilia-Romagna",
+    "sort": "6253"
+  },
+  {
+    "city": "Sernaglia della Battaglia",
+    "admin": "Veneto",
+    "sort": "6176"
+  },
+  {
+    "city": "Pimonte",
+    "admin": "Campania",
+    "sort": "6003"
+  },
+  {
+    "city": "Asiago",
+    "admin": "Veneto",
+    "sort": "6441"
+  },
+  {
+    "city": "Monzuno",
+    "admin": "Emilia-Romagna",
+    "sort": "6375"
+  },
+  {
+    "city": "Susa",
+    "admin": "Piedmont",
+    "sort": "6340"
+  },
+  {
+    "city": "Villanuova sul clisi",
+    "admin": "Lombardy",
+    "sort": "5827"
+  },
+  {
+    "city": "Fagagna",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "6296"
+  },
+  {
+    "city": "Arquata Scrivia",
+    "admin": "Piedmont",
+    "sort": "6397"
+  },
+  {
+    "city": "Subbiano",
+    "admin": "Tuscany",
+    "sort": "6373"
+  },
+  {
+    "city": "Belgioioso",
+    "admin": "Lombardy",
+    "sort": "6201"
+  },
+  {
+    "city": "Porto Cesareo",
+    "admin": "Puglia",
+    "sort": "6272"
+  },
+  {
+    "city": "Collepasso",
+    "admin": "Puglia",
+    "sort": "5979"
+  },
+  {
+    "city": "Strambino",
+    "admin": "Piedmont",
+    "sort": "6170"
+  },
+  {
+    "city": "San Marcello Pistoiese",
+    "admin": "Tuscany",
+    "sort": "6370"
+  },
+  {
+    "city": "Cambiano",
+    "admin": "Piedmont",
+    "sort": "6008"
+  },
+  {
+    "city": "Abbadia San Salvatore",
+    "admin": "Tuscany",
+    "sort": "6325"
+  },
+  {
+    "city": "Vidigulfo",
+    "admin": "Lombardy",
+    "sort": "6422"
+  },
+  {
+    "city": "Recoaro Terme",
+    "admin": "Veneto",
+    "sort": "6306"
+  },
+  {
+    "city": "San Canzian d’lsonzo",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "6227"
+  },
+  {
+    "city": "Monte San Biagio",
+    "admin": "Lazio",
+    "sort": "6308"
+  },
+  {
+    "city": "Ceggia",
+    "admin": "Veneto",
+    "sort": "6123"
+  },
+  {
+    "city": "Rivignano",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "6265"
+  },
+  {
+    "city": "San Giovanni al Natisone",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "6137"
+  },
+  {
+    "city": "Fossalta di Portogruaro",
+    "admin": "Veneto",
+    "sort": "6190"
+  },
+  {
+    "city": "Lesina",
+    "admin": "Puglia",
+    "sort": "6347"
+  },
+  {
+    "city": "Cavaion Veronese",
+    "admin": "Veneto",
+    "sort": "5924"
+  },
+  {
+    "city": "Calcinate",
+    "admin": "Lombardy",
+    "sort": "5985"
+  },
+  {
+    "city": "Cisano Bergamasco",
+    "admin": "Lombardy",
+    "sort": "6377"
+  },
+  {
+    "city": "Alessano",
+    "admin": "Puglia",
+    "sort": "6371"
+  },
+  {
+    "city": "Nicotera",
+    "admin": "Calabria",
+    "sort": "6155"
+  },
+  {
+    "city": "Rudiano",
+    "admin": "Lombardy",
+    "sort": "5783"
+  },
+  {
+    "city": "Serravalle Scrivia",
+    "admin": "Piedmont",
+    "sort": "5993"
+  },
+  {
+    "city": "Mesoraca",
+    "admin": "Calabria",
+    "sort": "6357"
+  },
+  {
+    "city": "Cogorno",
+    "admin": "Liguria",
+    "sort": "5731"
+  },
+  {
+    "city": "Vanzaghello",
+    "admin": "Lombardy",
+    "sort": "5389"
+  },
+  {
+    "city": "Predappio Alta",
+    "admin": "Emilia-Romagna",
+    "sort": "6287"
+  },
+  {
+    "city": "Tortorici",
+    "admin": "Sicilia",
+    "sort": "6259"
+  },
+  {
+    "city": "Ravarino",
+    "admin": "Emilia-Romagna",
+    "sort": "6132"
+  },
+  {
+    "city": "San Polo d’Enza in Caviano",
+    "admin": "Emilia-Romagna",
+    "sort": "6156"
+  },
+  {
+    "city": "Palosco",
+    "admin": "Lombardy",
+    "sort": "5808"
+  },
+  {
+    "city": "Mattinata",
+    "admin": "Puglia",
+    "sort": "6261"
+  },
+  {
+    "city": "Santa Margherita di Belice",
+    "admin": "Sicilia",
+    "sort": "6338"
+  },
+  {
+    "city": "Crocetta del Montello",
+    "admin": "Veneto",
+    "sort": "6106"
+  },
+  {
+    "city": "Trasacco",
+    "admin": "Abruzzo",
+    "sort": "6198"
+  },
+  {
+    "city": "San Benigno Canavese",
+    "admin": "Piedmont",
+    "sort": "6044"
+  },
+  {
+    "city": "Roveredo in Piano",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "5939"
+  },
+  {
+    "city": "Besnate",
+    "admin": "Lombardy",
+    "sort": "5558"
+  },
+  {
+    "city": "Remanzacco",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "6104"
+  },
+  {
+    "city": "Carloforte",
+    "admin": "Sardegna",
+    "sort": "6173"
+  },
+  {
+    "city": "Poggiardo",
+    "admin": "Puglia",
+    "sort": "5992"
+  },
+  {
+    "city": "Montebello Ionico",
+    "admin": "Calabria",
+    "sort": "6179"
+  },
+  {
+    "city": "San Lucido",
+    "admin": "Calabria",
+    "sort": "6062"
+  },
+  {
+    "city": "Godega di Sant’Urbano",
+    "admin": "Veneto",
+    "sort": "6034"
+  },
+  {
+    "city": "Guidizzolo",
+    "admin": "Lombardy",
+    "sort": "6013"
+  },
+  {
+    "city": "Gaiarine",
+    "admin": "Veneto",
+    "sort": "6070"
+  },
+  {
+    "city": "Casorezzo",
+    "admin": "Lombardy",
+    "sort": "5454"
+  },
+  {
+    "city": "Sumirago",
+    "admin": "Lombardy",
+    "sort": "6149"
+  },
+  {
+    "city": "Collecorvino",
+    "admin": "Abruzzo",
+    "sort": "6060"
+  },
+  {
+    "city": "Cadeo",
+    "admin": "Emilia-Romagna",
+    "sort": "6083"
+  },
+  {
+    "city": "Silandro",
+    "admin": "Trentino-Alto Adige",
+    "sort": "6181"
+  },
+  {
+    "city": "Cammarata",
+    "admin": "Sicilia",
+    "sort": "6197"
+  },
+  {
+    "city": "Casalbordino",
+    "admin": "Abruzzo",
+    "sort": "6090"
+  },
+  {
+    "city": "Domusnovas",
+    "admin": "Sardegna",
+    "sort": "6145"
+  },
+  {
+    "city": "Motta San Giovanni",
+    "admin": "Calabria",
+    "sort": "6086"
+  },
+  {
+    "city": "Maiolati Spontini",
+    "admin": "Marche",
+    "sort": "6187"
+  },
+  {
+    "city": "Poppi",
+    "admin": "Tuscany",
+    "sort": "6153"
+  },
+  {
+    "city": "Luco dei Marsi",
+    "admin": "Abruzzo",
+    "sort": "6065"
+  },
+  {
+    "city": "Lioni",
+    "admin": "Campania",
+    "sort": "6153"
+  },
+  {
+    "city": "Sant’Elia Fiumerapido",
+    "admin": "Lazio",
+    "sort": "6048"
+  },
+  {
+    "city": "Rio Saliceto",
+    "admin": "Emilia-Romagna",
+    "sort": "6136"
+  },
+  {
+    "city": "Ascoli Satriano",
+    "admin": "Puglia",
+    "sort": "6167"
+  },
+  {
+    "city": "Truccazzano",
+    "admin": "Lombardy",
+    "sort": "5913"
+  },
+  {
+    "city": "Torreglia",
+    "admin": "Veneto",
+    "sort": "6119"
+  },
+  {
+    "city": "Tortora",
+    "admin": "Calabria",
+    "sort": "6163"
+  },
+  {
+    "city": "Piana degli Albanesi",
+    "admin": "Sicilia",
+    "sort": "6157"
+  },
+  {
+    "city": "Monteiasi",
+    "admin": "Puglia",
+    "sort": "5580"
+  },
+  {
+    "city": "Quinto Vicentino",
+    "admin": "Veneto",
+    "sort": "5815"
+  },
+  {
+    "city": "Pignataro Maggiore",
+    "admin": "Campania",
+    "sort": "5964"
+  },
+  {
+    "city": "Castelnuovo di Garfagnana",
+    "admin": "Tuscany",
+    "sort": "5936"
+  },
+  {
+    "city": "Vernio",
+    "admin": "Tuscany",
+    "sort": "6048"
+  },
+  {
+    "city": "Santorso",
+    "admin": "Veneto",
+    "sort": "5711"
+  },
+  {
+    "city": "Maiano",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "5932"
+  },
+  {
+    "city": "Borso del Grappa",
+    "admin": "Veneto",
+    "sort": "5955"
+  },
+  {
+    "city": "Genazzano",
+    "admin": "Lazio",
+    "sort": "5949"
+  },
+  {
+    "city": "Torrebelvicino",
+    "admin": "Veneto",
+    "sort": "5849"
+  },
+  {
+    "city": "Castelsardo",
+    "admin": "Sardegna",
+    "sort": "5990"
+  },
+  {
+    "city": "Bellona",
+    "admin": "Campania",
+    "sort": "6106"
+  },
+  {
+    "city": "Candiolo",
+    "admin": "Piedmont",
+    "sort": "5644"
+  },
+  {
+    "city": "Vizzini",
+    "admin": "Sicilia",
+    "sort": "6072"
+  },
+  {
+    "city": "Siziano",
+    "admin": "Lombardy",
+    "sort": "6074"
+  },
+  {
+    "city": "Monterenzio",
+    "admin": "Emilia-Romagna",
+    "sort": "6110"
+  },
+  {
+    "city": "Fornovo di Taro",
+    "admin": "Emilia-Romagna",
+    "sort": "6004"
+  },
+  {
+    "city": "Nereto",
+    "admin": "Abruzzo",
+    "sort": "5342"
+  },
+  {
+    "city": "San Giovanni Suèrgiu",
+    "admin": "Sardegna",
+    "sort": "6018"
+  },
+  {
+    "city": "Serradifalco",
+    "admin": "Sicilia",
+    "sort": "5959"
+  },
+  {
+    "city": "Acque Dolci",
+    "admin": "Sicilia",
+    "sort": "5663"
+  },
+  {
+    "city": "Rosate",
+    "admin": "Lombardy",
+    "sort": "5785"
+  },
+  {
+    "city": "Brignano Gera d’Adda",
+    "admin": "Lombardy",
+    "sort": "6009"
+  },
+  {
+    "city": "Alezio",
+    "admin": "Puglia",
+    "sort": "5732"
+  },
+  {
+    "city": "Gozzano",
+    "admin": "Piedmont",
+    "sort": "5622"
+  },
+  {
+    "city": "Ostellato",
+    "admin": "Emilia-Romagna",
+    "sort": "6030"
+  },
+  {
+    "city": "Bagnolo Piemonte",
+    "admin": "Piedmont",
+    "sort": "5969"
+  },
+  {
+    "city": "Bagnolo San Vito",
+    "admin": "Lombardy",
+    "sort": "5938"
+  },
+  {
+    "city": "Lonate Ceppino",
+    "admin": "Lombardy",
+    "sort": "5012"
+  },
+  {
+    "city": "Mel",
+    "admin": "Veneto",
+    "sort": "5968"
+  },
+  {
+    "city": "Ronco all’Adige",
+    "admin": "Veneto",
+    "sort": "6001"
+  },
+  {
+    "city": "Bagni di Lucca",
+    "admin": "Tuscany",
+    "sort": "5997"
+  },
+  {
+    "city": "Gualdo Cattaneo",
+    "admin": "Umbria",
+    "sort": "5965"
+  },
+  {
+    "city": "Villanova Mondovì",
+    "admin": "Piedmont",
+    "sort": "5795"
+  },
+  {
+    "city": "Amalfi",
+    "admin": "Campania",
+    "sort": "5102"
+  },
+  {
+    "city": "San Dorligo della Valle",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "5754"
+  },
+  {
+    "city": "Villa Bartolomea",
+    "admin": "Veneto",
+    "sort": "5880"
+  },
+  {
+    "city": "Bussoleno",
+    "admin": "Piedmont",
+    "sort": "5824"
+  },
+  {
+    "city": "Costigliole d’Asti",
+    "admin": "Piedmont",
+    "sort": "5822"
+  },
+  {
+    "city": "Romentino",
+    "admin": "Piedmont",
+    "sort": "5659"
+  },
+  {
+    "city": "Stornara",
+    "admin": "Puglia",
+    "sort": "5802"
+  },
+  {
+    "city": "Corigliano d’Otranto",
+    "admin": "Puglia",
+    "sort": "5768"
+  },
+  {
+    "city": "Girifalco",
+    "admin": "Calabria",
+    "sort": "5827"
+  },
+  {
+    "city": "Picerno",
+    "admin": "Basilicata",
+    "sort": "5869"
+  },
+  {
+    "city": "Canale",
+    "admin": "Piedmont",
+    "sort": "5624"
+  },
+  {
+    "city": "Ornago",
+    "admin": "Lombardy",
+    "sort": "5075"
+  },
+  {
+    "city": "Montalcino",
+    "admin": "Tuscany",
+    "sort": "5919"
+  },
+  {
+    "city": "Certosa di Pavia",
+    "admin": "Lombardy",
+    "sort": "5435"
+  },
+  {
+    "city": "Longare",
+    "admin": "Veneto",
+    "sort": "5684"
+  },
+  {
+    "city": "Loro Ciuffenna",
+    "admin": "Tuscany",
+    "sort": "5862"
+  },
+  {
+    "city": "Ospedaletto Euganeo",
+    "admin": "Veneto",
+    "sort": "5651"
+  },
+  {
+    "city": "Ceva",
+    "admin": "Piedmont",
+    "sort": "5774"
+  },
+  {
+    "city": "Bracigliano",
+    "admin": "Campania",
+    "sort": "5524"
+  },
+  {
+    "city": "Fontanelle",
+    "admin": "Veneto",
+    "sort": "5744"
+  },
+  {
+    "city": "Maiori",
+    "admin": "Campania",
+    "sort": "5570"
+  },
+  {
+    "city": "Bagno di Romagna",
+    "admin": "Emilia-Romagna",
+    "sort": "5874"
+  },
+  {
+    "city": "Rogliano",
+    "admin": "Calabria",
+    "sort": "5758"
+  },
+  {
+    "city": "Sambuca di Sicilia",
+    "admin": "Sicilia",
+    "sort": "5834"
+  },
+  {
+    "city": "Viggiù",
+    "admin": "Lombardy",
+    "sort": "5318"
+  },
+  {
+    "city": "Naturno",
+    "admin": "Trentino-Alto Adige",
+    "sort": "5805"
+  },
+  {
+    "city": "Buti",
+    "admin": "Tuscany",
+    "sort": "5644"
+  },
+  {
+    "city": "Lovere",
+    "admin": "Lombardy",
+    "sort": "5224"
+  },
+  {
+    "city": "Sannicola",
+    "admin": "Puglia",
+    "sort": "5864"
+  },
+  {
+    "city": "Ascea",
+    "admin": "Campania",
+    "sort": "5855"
+  },
+  {
+    "city": "Busalla",
+    "admin": "Liguria",
+    "sort": "5545"
+  },
+  {
+    "city": "Camporosso",
+    "admin": "Liguria",
+    "sort": "5559"
+  },
+  {
+    "city": "Cortina d’Ampezzo",
+    "admin": "Veneto",
+    "sort": "5842"
+  },
+  {
+    "city": "Angera",
+    "admin": "Lombardy",
+    "sort": "5546"
+  },
+  {
+    "city": "Trevignano Romano",
+    "admin": "Lazio",
+    "sort": "5711"
+  },
+  {
+    "city": "Campo San Martino",
+    "admin": "Veneto",
+    "sort": "5753"
+  },
+  {
+    "city": "Dello",
+    "admin": "Lombardy",
+    "sort": "5601"
+  },
+  {
+    "city": "Villa del Conte",
+    "admin": "Veneto",
+    "sort": "5522"
+  },
+  {
+    "city": "Robbio",
+    "admin": "Lombardy",
+    "sort": "5828"
+  },
+  {
+    "city": "San Secondo Parmense",
+    "admin": "Emilia-Romagna",
+    "sort": "5685"
+  },
+  {
+    "city": "Brescello",
+    "admin": "Emilia-Romagna",
+    "sort": "5601"
+  },
+  {
+    "city": "Grotte",
+    "admin": "Sicilia",
+    "sort": "5600"
+  },
+  {
+    "city": "Fontevivo",
+    "admin": "Emilia-Romagna",
+    "sort": "5615"
+  },
+  {
+    "city": "Guagnano",
+    "admin": "Puglia",
+    "sort": "5681"
+  },
+  {
+    "city": "Palmanova",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "5419"
+  },
+  {
+    "city": "Camogli",
+    "admin": "Liguria",
+    "sort": "5300"
+  },
+  {
+    "city": "Arce",
+    "admin": "Lazio",
+    "sort": "5670"
+  },
+  {
+    "city": "Riolo Terme",
+    "admin": "Emilia-Romagna",
+    "sort": "5681"
+  },
+  {
+    "city": "Rocca di Neto",
+    "admin": "Calabria",
+    "sort": "5681"
+  },
+  {
+    "city": "Sala Baganza",
+    "admin": "Emilia-Romagna",
+    "sort": "5622"
+  },
+  {
+    "city": "Otranto",
+    "admin": "Puglia",
+    "sort": "5799"
+  },
+  {
+    "city": "Casaleone",
+    "admin": "Veneto",
+    "sort": "5648"
+  },
+  {
+    "city": "San Giorgio Piacentino",
+    "admin": "Emilia-Romagna",
+    "sort": "5673"
+  },
+  {
+    "city": "Uzzano",
+    "admin": "Tuscany",
+    "sort": "5722"
+  },
+  {
+    "city": "Gattatico",
+    "admin": "Emilia-Romagna",
+    "sort": "5744"
+  },
+  {
+    "city": "Trivero",
+    "admin": "Piedmont",
+    "sort": "5582"
+  },
+  {
+    "city": "Chiaravalle Centrale",
+    "admin": "Calabria",
+    "sort": "5536"
+  },
+  {
+    "city": "Gabicce",
+    "admin": "Marche",
+    "sort": "5713"
+  },
+  {
+    "city": "Arienzo",
+    "admin": "Campania",
+    "sort": "5374"
+  },
+  {
+    "city": "Nocera Umbra",
+    "admin": "Umbria",
+    "sort": "5711"
+  },
+  {
+    "city": "San Paolo di Civitate",
+    "admin": "Puglia",
+    "sort": "5740"
+  },
+  {
+    "city": "Pratovecchio",
+    "admin": "Tuscany",
+    "sort": "5697"
+  },
+  {
+    "city": "Spirano",
+    "admin": "Lombardy",
+    "sort": "5730"
+  },
+  {
+    "city": "Pavia di Udine",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "5573"
+  },
+  {
+    "city": "Pomarance",
+    "admin": "Tuscany",
+    "sort": "5708"
+  },
+  {
+    "city": "Diamante",
+    "admin": "Calabria",
+    "sort": "5295"
+  },
+  {
+    "city": "Villanova d’Asti",
+    "admin": "Piedmont",
+    "sort": "5686"
+  },
+  {
+    "city": "Cividate al Piano",
+    "admin": "Lombardy",
+    "sort": "5185"
+  },
+  {
+    "city": "Cancello",
+    "admin": "Campania",
+    "sort": "5715"
+  },
+  {
+    "city": "Genzano di Lucania",
+    "admin": "Basilicata",
+    "sort": "5688"
+  },
+  {
+    "city": "Passignano sul Trasimeno",
+    "admin": "Umbria",
+    "sort": "5712"
+  },
+  {
+    "city": "Casalserugo",
+    "admin": "Veneto",
+    "sort": "5360"
+  },
+  {
+    "city": "Castelverde",
+    "admin": "Lombardy",
+    "sort": "5685"
+  },
+  {
+    "city": "Mezzocorona",
+    "admin": "Trentino-Alto Adige",
+    "sort": "5477"
+  },
+  {
+    "city": "Apice",
+    "admin": "Campania",
+    "sort": "5578"
+  },
+  {
+    "city": "San Tammaro",
+    "admin": "Campania",
+    "sort": "5529"
+  },
+  {
+    "city": "Panicale",
+    "admin": "Umbria",
+    "sort": "5606"
+  },
+  {
+    "city": "Marsico Vetere",
+    "admin": "Basilicata",
+    "sort": "5531"
+  },
+  {
+    "city": "Campagnola Emilia",
+    "admin": "Emilia-Romagna",
+    "sort": "5639"
+  },
+  {
+    "city": "Quistello",
+    "admin": "Lombardy",
+    "sort": "5552"
+  },
+  {
+    "city": "Casoli",
+    "admin": "Abruzzo",
+    "sort": "5585"
+  },
+  {
+    "city": "Cupra Marittima",
+    "admin": "Marche",
+    "sort": "5358"
+  },
+  {
+    "city": "Gossolengo",
+    "admin": "Emilia-Romagna",
+    "sort": "5652"
+  },
+  {
+    "city": "Moglia",
+    "admin": "Lombardy",
+    "sort": "5487"
+  },
+  {
+    "city": "San Donato di Lecce",
+    "admin": "Puglia",
+    "sort": "5656"
+  },
+  {
+    "city": "Montefalco",
+    "admin": "Umbria",
+    "sort": "5577"
+  },
+  {
+    "city": "Sarcedo",
+    "admin": "Veneto",
+    "sort": "5274"
+  },
+  {
+    "city": "Sannazzaro de’ Burgondi",
+    "admin": "Lombardy",
+    "sort": "5422"
+  },
+  {
+    "city": "Custonaci",
+    "admin": "Sicilia",
+    "sort": "5571"
+  },
+  {
+    "city": "Povegliano",
+    "admin": "Veneto",
+    "sort": "5243"
+  },
+  {
+    "city": "Telgate",
+    "admin": "Lombardy",
+    "sort": "5040"
+  },
+  {
+    "city": "Peveragno",
+    "admin": "Piedmont",
+    "sort": "5561"
+  },
+  {
+    "city": "Poncarale",
+    "admin": "Lombardy",
+    "sort": "5229"
+  },
+  {
+    "city": "Boretto",
+    "admin": "Emilia-Romagna",
+    "sort": "5345"
+  },
+  {
+    "city": "Borgo San Giacomo",
+    "admin": "Lombardy",
+    "sort": "5455"
+  },
+  {
+    "city": "Caiazzo",
+    "admin": "Campania",
+    "sort": "5489"
+  },
+  {
+    "city": "Bentivoglio",
+    "admin": "Emilia-Romagna",
+    "sort": "5513"
+  },
+  {
+    "city": "Almè",
+    "admin": "Lombardy",
+    "sort": "5604"
+  },
+  {
+    "city": "Botricello",
+    "admin": "Calabria",
+    "sort": "5274"
+  },
+  {
+    "city": "Sovere",
+    "admin": "Lombardy",
+    "sort": "5319"
+  },
+  {
+    "city": "Ceriale",
+    "admin": "Liguria",
+    "sort": "5571"
+  },
+  {
+    "city": "Ispra",
+    "admin": "Lombardy",
+    "sort": "5276"
+  },
+  {
+    "city": "Dicomano",
+    "admin": "Tuscany",
+    "sort": "5517"
+  },
+  {
+    "city": "Cavour",
+    "admin": "Piedmont",
+    "sort": "5492"
+  },
+  {
+    "city": "Soleto",
+    "admin": "Puglia",
+    "sort": "5422"
+  },
+  {
+    "city": "Aquino",
+    "admin": "Lazio",
+    "sort": "5319"
+  },
+  {
+    "city": "Torchiarolo",
+    "admin": "Puglia",
+    "sort": "5419"
+  },
+  {
+    "city": "Codognè",
+    "admin": "Veneto",
+    "sort": "5339"
+  },
+  {
+    "city": "San Vito Chietino",
+    "admin": "Abruzzo",
+    "sort": "5270"
+  },
+  {
+    "city": "Anghiari",
+    "admin": "Tuscany",
+    "sort": "5536"
+  },
+  {
+    "city": "Gandino",
+    "admin": "Lombardy",
+    "sort": "5390"
+  },
+  {
+    "city": "Povoletto",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "5425"
+  },
+  {
+    "city": "Cilavegna",
+    "admin": "Lombardy",
+    "sort": "5548"
+  },
+  {
+    "city": "Levanto",
+    "admin": "Liguria",
+    "sort": "5403"
+  },
+  {
+    "city": "Canzo",
+    "admin": "Lombardy",
+    "sort": "5081"
+  },
+  {
+    "city": "Favria",
+    "admin": "Piedmont",
+    "sort": "5186"
+  },
+  {
+    "city": "Carcare",
+    "admin": "Liguria",
+    "sort": "5534"
+  },
+  {
+    "city": "Cotronei",
+    "admin": "Calabria",
+    "sort": "5465"
+  },
+  {
+    "city": "Davoli",
+    "admin": "Calabria",
+    "sort": "5531"
+  },
+  {
+    "city": "Castiglione dei Pepoli",
+    "admin": "Emilia-Romagna",
+    "sort": "5514"
+  },
+  {
+    "city": "Rivanazzano",
+    "admin": "Lombardy",
+    "sort": "5326"
+  },
+  {
+    "city": "Stornarella",
+    "admin": "Puglia",
+    "sort": "5344"
+  },
+  {
+    "city": "Presicce",
+    "admin": "Puglia",
+    "sort": "5285"
+  },
+  {
+    "city": "Lanzo Torinese",
+    "admin": "Piedmont",
+    "sort": "5011"
+  },
+  {
+    "city": "Montepaone",
+    "admin": "Calabria",
+    "sort": "5390"
+  },
+  {
+    "city": "Galliera",
+    "admin": "Emilia-Romagna",
+    "sort": "5451"
+  },
+  {
+    "city": "Lagonegro",
+    "admin": "Basilicata",
+    "sort": "5442"
+  },
+  {
+    "city": "Caprarola",
+    "admin": "Lazio",
+    "sort": "5395"
+  },
+  {
+    "city": "Lanusei",
+    "admin": "Sardegna",
+    "sort": "5387"
+  },
+  {
+    "city": "Calatabiano",
+    "admin": "Sicilia",
+    "sort": "5274"
+  },
+  {
+    "city": "Sant’Omero",
+    "admin": "Abruzzo",
+    "sort": "5317"
+  },
+  {
+    "city": "Limana",
+    "admin": "Veneto",
+    "sort": "5335"
+  },
+  {
+    "city": "Borgo Ticino",
+    "admin": "Piedmont",
+    "sort": "5089"
+  },
+  {
+    "city": "Basiliano",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "5345"
+  },
+  {
+    "city": "Colle Umberto",
+    "admin": "Veneto",
+    "sort": "5093"
+  },
+  {
+    "city": "Fragagnano",
+    "admin": "Puglia",
+    "sort": "5232"
+  },
+  {
+    "city": "Cavallermaggiore",
+    "admin": "Piedmont",
+    "sort": "5455"
+  },
+  {
+    "city": "Giavera del Montello",
+    "admin": "Veneto",
+    "sort": "5200"
+  },
+  {
+    "city": "Padula",
+    "admin": "Campania",
+    "sort": "5377"
+  },
+  {
+    "city": "Illasi",
+    "admin": "Veneto",
+    "sort": "5243"
+  },
+  {
+    "city": "Acquapendente",
+    "admin": "Lazio",
+    "sort": "5439"
+  },
+  {
+    "city": "Corsano",
+    "admin": "Puglia",
+    "sort": "5432"
+  },
+  {
+    "city": "Montanaro",
+    "admin": "Piedmont",
+    "sort": "5191"
+  },
+  {
+    "city": "Gizzeria",
+    "admin": "Calabria",
+    "sort": "5296"
+  },
+  {
+    "city": "Esine",
+    "admin": "Lombardy",
+    "sort": "5249"
+  },
+  {
+    "city": "Ripi",
+    "admin": "Lazio",
+    "sort": "5249"
+  },
+  {
+    "city": "Gazzaniga",
+    "admin": "Lombardy",
+    "sort": "5058"
+  },
+  {
+    "city": "Vitorchiano",
+    "admin": "Lazio",
+    "sort": "5235"
+  },
+  {
+    "city": "Centuripe",
+    "admin": "Sicilia",
+    "sort": "5373"
+  },
+  {
+    "city": "Monticelli d’Ongina",
+    "admin": "Emilia-Romagna",
+    "sort": "5287"
+  },
+  {
+    "city": "Rodigo",
+    "admin": "Lombardy",
+    "sort": "5272"
+  },
+  {
+    "city": "Pagnacco",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "5059"
+  },
+  {
+    "city": "Santa Teresa Gallura",
+    "admin": "Sardegna",
+    "sort": "5390"
+  },
+  {
+    "city": "Muro Lucano",
+    "admin": "Basilicata",
+    "sort": "5344"
+  },
+  {
+    "city": "Oppido Mamertina",
+    "admin": "Calabria",
+    "sort": "5290"
+  },
+  {
+    "city": "Villapiana",
+    "admin": "Calabria",
+    "sort": "5367"
+  },
+  {
+    "city": "Forino",
+    "admin": "Campania",
+    "sort": "5357"
+  },
+  {
+    "city": "Albaredo d’Adige",
+    "admin": "Veneto",
+    "sort": "5190"
+  },
+  {
+    "city": "Carsoli",
+    "admin": "Abruzzo",
+    "sort": "5314"
+  },
+  {
+    "city": "Rapolano Terme",
+    "admin": "Tuscany",
+    "sort": "5305"
+  },
+  {
+    "city": "Veronella",
+    "admin": "Veneto",
+    "sort": "5116"
+  },
+  {
+    "city": "Sarroch",
+    "admin": "Sardegna",
+    "sort": "5283"
+  },
+  {
+    "city": "Casal Velino",
+    "admin": "Campania",
+    "sort": "5322"
+  },
+  {
+    "city": "Gazzo Veronese",
+    "admin": "Veneto",
+    "sort": "5347"
+  },
+  {
+    "city": "San Cipirello",
+    "admin": "Sicilia",
+    "sort": "5347"
+  },
+  {
+    "city": "Castellucchio",
+    "admin": "Lombardy",
+    "sort": "5235"
+  },
+  {
+    "city": "Maruggio",
+    "admin": "Puglia",
+    "sort": "5241"
+  },
+  {
+    "city": "Campegine",
+    "admin": "Emilia-Romagna",
+    "sort": "5121"
+  },
+  {
+    "city": "Linguaglossa",
+    "admin": "Sicilia",
+    "sort": "5337"
+  },
+  {
+    "city": "Castelvetro Piacentino",
+    "admin": "Emilia-Romagna",
+    "sort": "5331"
+  },
+  {
+    "city": "Montemiletto",
+    "admin": "Campania",
+    "sort": "5288"
+  },
+  {
+    "city": "Chiusa",
+    "admin": "Trentino-Alto Adige",
+    "sort": "5235"
+  },
+  {
+    "city": "Chions",
+    "admin": "Friuli-Venezia Giulia",
+    "sort": "5180"
+  },
+  {
+    "city": "Bottanuco",
+    "admin": "Lombardy",
+    "sort": "5137"
+  },
+  {
+    "city": "Muravera",
+    "admin": "Sardegna",
+    "sort": "5273"
+  },
+  {
+    "city": "Canino",
+    "admin": "Lazio",
+    "sort": "5284"
+  },
+  {
+    "city": "Monte Libretti",
+    "admin": "Lazio",
+    "sort": "5326"
+  },
+  {
+    "city": "Coreglia Antelminelli",
+    "admin": "Tuscany",
+    "sort": "5220"
+  },
+  {
+    "city": "Correzzola",
+    "admin": "Veneto",
+    "sort": "5194"
+  },
+  {
+    "city": "San Pietro di Feletto",
+    "admin": "Veneto",
+    "sort": "5234"
+  },
+  {
+    "city": "Castelnuovo Scrivia",
+    "admin": "Piedmont",
+    "sort": "5193"
+  },
+  {
+    "city": "Monteveglio",
+    "admin": "Emilia-Romagna",
+    "sort": "5286"
+  },
+  {
+    "city": "Guglionesi",
+    "admin": "Molise",
+    "sort": "5246"
+  },
+  {
+    "city": "Longarone",
+    "admin": "Veneto",
+    "sort": "5254"
+  },
+  {
+    "city": "Cerda",
+    "admin": "Sicilia",
+    "sort": "5176"
+  },
+  {
+    "city": "Maser",
+    "admin": "Veneto",
+    "sort": "5094"
+  },
+  {
+    "city": "Cannobio",
+    "admin": "Piedmont",
+    "sort": "5190"
+  },
+  {
+    "city": "Vigone",
+    "admin": "Piedmont",
+    "sort": "5163"
+  },
+  {
+    "city": "Malles Venosta",
+    "admin": "Trentino-Alto Adige",
+    "sort": "5265"
+  },
+  {
+    "city": "San Giovanni Ilarione",
+    "admin": "Veneto",
+    "sort": "5085"
+  },
+  {
+    "city": "Corropoli",
+    "admin": "Abruzzo",
+    "sort": "5054"
+  },
+  {
+    "city": "Marano sul Panaro",
+    "admin": "Emilia-Romagna",
+    "sort": "5167"
+  },
+  {
+    "city": "Polla",
+    "admin": "Campania",
+    "sort": "5273"
+  },
+  {
+    "city": "Mugnano del Cardinale",
+    "admin": "Campania",
+    "sort": "5270"
+  },
+  {
+    "city": "Neviano",
+    "admin": "Puglia",
+    "sort": "5228"
+  },
+  {
+    "city": "Santa Caterina Villarmosa",
+    "admin": "Sicilia",
+    "sort": "5253"
+  },
+  {
+    "city": "Centola",
+    "admin": "Campania",
+    "sort": "5153"
+  },
+  {
+    "city": "Bucchianico",
+    "admin": "Abruzzo",
+    "sort": "5126"
+  },
+  {
+    "city": "Lagundo",
+    "admin": "Trentino-Alto Adige",
+    "sort": "5046"
+  },
+  {
+    "city": "Mansuè",
+    "admin": "Veneto",
+    "sort": "5070"
+  },
+  {
+    "city": "Portoscuso",
+    "admin": "Sardegna",
+    "sort": "5104"
+  },
+  {
+    "city": "Laces",
+    "admin": "Trentino-Alto Adige",
+    "sort": "5216"
+  },
+  {
+    "city": "Samassi",
+    "admin": "Sardegna",
+    "sort": "5110"
+  },
+  {
+    "city": "Tricarico",
+    "admin": "Basilicata",
+    "sort": "5202"
+  },
+  {
+    "city": "Tuglie",
+    "admin": "Puglia",
+    "sort": "5213"
+  },
+  {
+    "city": "Vaglia",
+    "admin": "Tuscany",
+    "sort": "5134"
+  },
+  {
+    "city": "Castrignano del Capo",
+    "admin": "Puglia",
+    "sort": "5193"
+  },
+  {
+    "city": "Gottolengo",
+    "admin": "Lombardy",
+    "sort": "5184"
+  },
+  {
+    "city": "Grassano",
+    "admin": "Basilicata",
+    "sort": "5077"
+  },
+  {
+    "city": "Baselga di Pinè",
+    "admin": "Trentino-Alto Adige",
+    "sort": "5075"
+  },
+  {
+    "city": "Giussago",
+    "admin": "Lombardy",
+    "sort": "5186"
+  },
+  {
+    "city": "Celle Ligure",
+    "admin": "Liguria",
+    "sort": "5184"
+  },
+  {
+    "city": "Melicucco",
+    "admin": "Calabria",
+    "sort": "5057"
+  },
+  {
+    "city": "Villadose",
+    "admin": "Veneto",
+    "sort": "5014"
+  },
+  {
+    "city": "Capistrello",
+    "admin": "Abruzzo",
+    "sort": "5154"
+  },
+  {
+    "city": "Assoro",
+    "admin": "Sicilia",
+    "sort": "5090"
+  },
+  {
+    "city": "Ardore",
+    "admin": "Calabria",
+    "sort": "5114"
+  },
+  {
+    "city": "Montecastrilli",
+    "admin": "Umbria",
+    "sort": "5037"
+  },
+  {
+    "city": "Lesignano de’ Bagni",
+    "admin": "Emilia-Romagna",
+    "sort": "5005"
+  },
+  {
+    "city": "Gagliano del Capo",
+    "admin": "Puglia",
+    "sort": "5098"
+  },
+  {
+    "city": "Mineo",
+    "admin": "Sicilia",
+    "sort": "5088"
+  },
+  {
+    "city": "Bevagna",
+    "admin": "Umbria",
+    "sort": "5013"
+  },
+  {
+    "city": "Maratea",
+    "admin": "Basilicata",
+    "sort": "5088"
+  },
+  {
+    "city": "Laureana di Borrello",
+    "admin": "Calabria",
+    "sort": "5080"
+  },
+  {
+    "city": "Condofuri",
+    "admin": "Calabria",
+    "sort": "5053"
+  },
+  {
+    "city": "Castelbellino",
+    "admin": "Marche",
+    "sort": "5009"
+  },
+  {
+    "city": "Bella",
+    "admin": "Basilicata",
+    "sort": "5014"
+  },
+  {
+    "city": "Agnone",
+    "admin": "Molise",
+    "sort": "5008"
+  },
+  {
+    "city": "Tolfa",
+    "admin": "Lazio",
+    "sort": "5006"
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "city": "Pristina",
+    "admin": "Prishtinë",
+    "sort": ""
+  },
+  {
+    "city": "Malishevë",
+    "admin": "Malishevë",
+    "sort": "54613"
+  },
+  {
+    "city": "Klinë",
+    "admin": "Klinë",
+    "sort": "38496"
+  },
+  {
+    "city": "Kamenicë",
+    "admin": "Kamenicë",
+    "sort": "36085"
+  },
+  {
+    "city": "Fushë Kosovë",
+    "admin": "Fushë Kosovë",
+    "sort": "33997"
+  },
+  {
+    "city": "Shtime",
+    "admin": "Shtime",
+    "sort": "27324"
+  },
+  {
+    "city": "Hani i Elezit",
+    "admin": "Hani i Elezit",
+    "sort": "9403"
+  },
+  {
+    "city": "Mamushë",
+    "admin": "Mamushë",
+    "sort": "5507"
+  },
+  {
+    "city": "Junik",
+    "admin": "Junik",
+    "sort": "6084"
+  },
+  {
+    "city": "Ranillug",
+    "admin": "Ranillug",
+    "sort": "5800"
+  },
+  {
+    "city": "Partesh",
+    "admin": "Partesh",
+    "sort": "5300"
+  },
+  {
+    "city": "Deçan",
+    "admin": "Deçan",
+    "sort": "3803"
+  },
+  {
+    "city": "Ferizaj",
+    "admin": "Ferizaj",
+    "sort": ""
+  },
+  {
+    "city": "Prizren",
+    "admin": "Prizren",
+    "sort": ""
+  },
+  {
+    "city": "Gllogovc",
+    "admin": "Gllogovc",
+    "sort": ""
+  },
+  {
+    "city": "Gjilan",
+    "admin": "Gjilan",
+    "sort": ""
+  },
+  {
+    "city": "Mitrovicë",
+    "admin": "",
+    "sort": ""
+  },
+  {
+    "city": "Obiliq",
+    "admin": "Obiliq",
+    "sort": ""
+  },
+  {
+    "city": "Rahovec",
+    "admin": "Rahovec",
+    "sort": ""
+  },
+  {
+    "city": "Vushtrri",
+    "admin": "Vushtrri",
+    "sort": ""
+  },
+  {
+    "city": "Lipjan",
+    "admin": "Lipjan",
+    "sort": ""
+  },
+  {
+    "city": "Suharekë",
+    "admin": "Suharekë",
+    "sort": ""
+  },
+  {
+    "city": "Gjakovë",
+    "admin": "Gjakovë",
+    "sort": ""
+  },
+  {
+    "city": "Pejë",
+    "admin": "Pejë",
+    "sort": ""
+  },
+  {
+    "city": "Viti",
+    "admin": "Viti",
+    "sort": ""
+  },
+  {
+    "city": "Kaçanik",
+    "admin": "Kaçanik",
+    "sort": ""
+  },
+  {
+    "city": "Skenderaj",
+    "admin": "Skenderaj",
+    "sort": ""
+  },
+  {
+    "city": "Podujevë",
+    "admin": "Podujevë",
+    "sort": ""
+  },
+  {
+    "city": "Zveçan",
+    "admin": "Zveçan",
+    "sort": ""
+  },
+  {
+    "city": "Kllokot",
+    "admin": "Kllokot",
+    "sort": ""
+  },
+  {
+    "city": "Istog",
+    "admin": "Istog",
+    "sort": ""
+  },
+  {
+    "city": "Dragash",
+    "admin": "Dragash",
+    "sort": ""
+  },
+  {
+    "city": "Shtërpcë",
+    "admin": "Shtërpcë",
+    "sort": ""
+  },
+  {
+    "city": "Zubin Potok",
+    "admin": "Zubin Potok",
+    "sort": ""
+  },
+  {
+    "city": "Leposaviq",
+    "admin": "Leposaviq",
+    "sort": ""
+  },
+  {
+    "city": "Graçanicë",
+    "admin": "Graçanicë",
+    "sort": ""
+  },
+  {
+    "city": "Novobërdë",
+    "admin": "Novobërdë",
+    "sort": ""
+  },
+  {
+    "city": "Matiçan",
+    "admin": "Prishtinë",
+    "sort": "13876"
+  },
+  {
+    "city": "Pozharan",
+    "admin": "Viti",
+    "sort": "11749"
+  },
+  {
+    "city": "Dushanovë",
+    "admin": "Prizren",
+    "sort": "9398"
+  },
+  {
+    "city": "Hajvali",
+    "admin": "Prishtinë",
+    "sort": "7391"
+  },
+  {
+    "city": "Donje Žabare",
+    "admin": "Mitrovicë e Jug",
+    "sort": "7394"
+  },
+  {
+    "city": "Lubizhdë",
+    "admin": "Prizren",
+    "sort": "5982"
+  },
+  {
+    "city": "Bresje",
+    "admin": "Fushë Kosovë",
+    "sort": "5596"
+  },
+  {
+    "city": "Korishë",
+    "admin": "Prizren",
+    "sort": "5279"
+  },
+  {
+    "city": "Vitomiricë",
+    "admin": "Pejë",
+    "sort": "5409"
+  },
+  {
+    "city": "Damjan",
+    "admin": "Gjakovë",
+    "sort": "5133"
+  }
+]

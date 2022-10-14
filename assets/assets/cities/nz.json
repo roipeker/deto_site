@@ -1,0 +1,362 @@
+[
+  {
+    "city": "Auckland",
+    "admin": "Auckland",
+    "sort": "1346091"
+  },
+  {
+    "city": "Wellington",
+    "admin": "Wellington",
+    "sort": "418500"
+  },
+  {
+    "city": "Christchurch",
+    "admin": "Canterbury",
+    "sort": "383200"
+  },
+  {
+    "city": "Manukau City",
+    "admin": "Auckland",
+    "sort": "375600"
+  },
+  {
+    "city": "Northcote",
+    "admin": "Auckland",
+    "sort": "205605"
+  },
+  {
+    "city": "Waitakere",
+    "admin": "Auckland",
+    "sort": "208100"
+  },
+  {
+    "city": "Hamilton",
+    "admin": "Waikato",
+    "sort": "176500"
+  },
+  {
+    "city": "Tauranga",
+    "admin": "Bay of Plenty",
+    "sort": "135000"
+  },
+  {
+    "city": "Lower Hutt",
+    "admin": "Wellington",
+    "sort": "103400"
+  },
+  {
+    "city": "Dunedin",
+    "admin": "Otago",
+    "sort": "99885"
+  },
+  {
+    "city": "Palmerston North",
+    "admin": "Manawatu-Wanganui",
+    "sort": "76236"
+  },
+  {
+    "city": "Napier",
+    "admin": "Hawke’s Bay",
+    "sort": "62241"
+  },
+  {
+    "city": "Whangarei",
+    "admin": "Northland",
+    "sort": "50784"
+  },
+  {
+    "city": "Nelson",
+    "admin": "Nelson",
+    "sort": "49300"
+  },
+  {
+    "city": "Invercargill",
+    "admin": "Southland",
+    "sort": "47625"
+  },
+  {
+    "city": "Gisborne",
+    "admin": "Gisborne",
+    "sort": "34527"
+  },
+  {
+    "city": "Blenheim",
+    "admin": "Marlborough",
+    "sort": "26400"
+  },
+  {
+    "city": "Richmond",
+    "admin": "Tasman",
+    "sort": "15000"
+  },
+  {
+    "city": "Whakatane",
+    "admin": "Bay of Plenty",
+    "sort": "15795"
+  },
+  {
+    "city": "Mosgiel",
+    "admin": "Otago",
+    "sort": "13400"
+  },
+  {
+    "city": "Greymouth",
+    "admin": "West Coast",
+    "sort": "7965"
+  },
+  {
+    "city": "Stratford",
+    "admin": "Taranaki",
+    "sort": "5740"
+  },
+  {
+    "city": "Waitangi",
+    "admin": "Chatham Islands",
+    "sort": "177"
+  },
+  {
+    "city": "Porirua",
+    "admin": "Wellington",
+    "sort": "55218"
+  },
+  {
+    "city": "Rotorua",
+    "admin": "Bay of Plenty",
+    "sort": "54204"
+  },
+  {
+    "city": "New Plymouth",
+    "admin": "Taranaki",
+    "sort": "53988"
+  },
+  {
+    "city": "Upper Hutt",
+    "admin": "Wellington",
+    "sort": "41000"
+  },
+  {
+    "city": "Whanganui",
+    "admin": "Manawatu-Wanganui",
+    "sort": "39400"
+  },
+  {
+    "city": "Paraparaumu",
+    "admin": "Wellington",
+    "sort": "28701"
+  },
+  {
+    "city": "Timaru",
+    "admin": "Canterbury",
+    "sort": "27501"
+  },
+  {
+    "city": "Pukekohe East",
+    "admin": "Auckland",
+    "sort": "26300"
+  },
+  {
+    "city": "Taupo",
+    "admin": "Waikato",
+    "sort": "23622"
+  },
+  {
+    "city": "Masterton",
+    "admin": "Wellington",
+    "sort": "19818"
+  },
+  {
+    "city": "Cambridge",
+    "admin": "Waikato",
+    "sort": "18651"
+  },
+  {
+    "city": "Levin",
+    "admin": "Manawatu-Wanganui",
+    "sort": "17670"
+  },
+  {
+    "city": "Ashton",
+    "admin": "Canterbury",
+    "sort": "17700"
+  },
+  {
+    "city": "Macetown",
+    "admin": "Otago",
+    "sort": "16600"
+  },
+  {
+    "city": "Feilding",
+    "admin": "Manawatu-Wanganui",
+    "sort": "15990"
+  },
+  {
+    "city": "Rolleston",
+    "admin": "Canterbury",
+    "sort": "16350"
+  },
+  {
+    "city": "Havelock North",
+    "admin": "Hawke’s Bay",
+    "sort": "13950"
+  },
+  {
+    "city": "Tokoroa",
+    "admin": "Waikato",
+    "sort": "13572"
+  },
+  {
+    "city": "Waikanae",
+    "admin": "Wellington",
+    "sort": "12100"
+  },
+  {
+    "city": "Te Awamutu",
+    "admin": "Waikato",
+    "sort": "12195"
+  },
+  {
+    "city": "Hawera",
+    "admin": "Taranaki",
+    "sort": "9792"
+  },
+  {
+    "city": "Waiuku",
+    "admin": "Auckland",
+    "sort": "9171"
+  },
+  {
+    "city": "Glencoe",
+    "admin": "Southland",
+    "sort": "9750"
+  },
+  {
+    "city": "Wanaka",
+    "admin": "Otago",
+    "sort": "8900"
+  },
+  {
+    "city": "Te Puke",
+    "admin": "Bay of Plenty",
+    "sort": "8230"
+  },
+  {
+    "city": "Matamata",
+    "admin": "Waikato",
+    "sort": "7806"
+  },
+  {
+    "city": "Thames",
+    "admin": "Waikato",
+    "sort": "7293"
+  },
+  {
+    "city": "Mount Maunganui",
+    "admin": "Bay of Plenty",
+    "sort": "6510"
+  },
+  {
+    "city": "Ngaruawahia",
+    "admin": "Waikato",
+    "sort": "6580"
+  },
+  {
+    "city": "Kawerau",
+    "admin": "Bay of Plenty",
+    "sort": "7080"
+  },
+  {
+    "city": "Kerikeri",
+    "admin": "Northland",
+    "sort": "6960"
+  },
+  {
+    "city": "Waitara",
+    "admin": "Taranaki",
+    "sort": "6915"
+  },
+  {
+    "city": "Cromwell",
+    "admin": "Otago",
+    "sort": "5440"
+  },
+  {
+    "city": "Kaitaia",
+    "admin": "Northland",
+    "sort": "5868"
+  },
+  {
+    "city": "Lincoln",
+    "admin": "Canterbury",
+    "sort": "6030"
+  },
+  {
+    "city": "Alexandra",
+    "admin": "Otago",
+    "sort": "5475"
+  },
+  {
+    "city": "Marton",
+    "admin": "Manawatu-Wanganui",
+    "sort": "5200"
+  },
+  {
+    "city": "Whitianga",
+    "admin": "Waikato",
+    "sort": "5130"
+  },
+  {
+    "city": "Waihi",
+    "admin": "Waikato",
+    "sort": "5310"
+  },
+  {
+    "city": "Warkworth",
+    "admin": "Auckland",
+    "sort": "5320"
+  },
+  {
+    "city": "Tuakau",
+    "admin": "Waikato",
+    "sort": "5016"
+  },
+  {
+    "city": "Turangi",
+    "admin": "Waikato",
+    "sort": "3320"
+  },
+  {
+    "city": "Westport",
+    "admin": "West Coast",
+    "sort": "4660"
+  },
+  {
+    "city": "Renwick",
+    "admin": "Marlborough",
+    "sort": "2418"
+  },
+  {
+    "city": "Hokitika",
+    "admin": "West Coast",
+    "sort": "2892"
+  },
+  {
+    "city": "Te Anau",
+    "admin": "Southland",
+    "sort": "2250"
+  },
+  {
+    "city": "Kaikoura",
+    "admin": "Canterbury",
+    "sort": "2210"
+  },
+  {
+    "city": "Halfmoon Bay",
+    "admin": "Southland",
+    "sort": "300"
+  },
+  {
+    "city": "Kairaki",
+    "admin": "Canterbury",
+    "sort": "225"
+  }
+]

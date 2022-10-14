@@ -1,0 +1,3127 @@
+[
+  {
+    "city": "Toronto",
+    "admin": "Ontario",
+    "sort": "5429524"
+  },
+  {
+    "city": "Montréal",
+    "admin": "Quebec",
+    "sort": "3519595"
+  },
+  {
+    "city": "Vancouver",
+    "admin": "British Columbia",
+    "sort": "2264823"
+  },
+  {
+    "city": "Calgary",
+    "admin": "Alberta",
+    "sort": "1239220"
+  },
+  {
+    "city": "Edmonton",
+    "admin": "Alberta",
+    "sort": "1062643"
+  },
+  {
+    "city": "Ottawa",
+    "admin": "Ontario",
+    "sort": "989567"
+  },
+  {
+    "city": "Winnipeg",
+    "admin": "Manitoba",
+    "sort": "705244"
+  },
+  {
+    "city": "Quebec City",
+    "admin": "Quebec",
+    "sort": "705103"
+  },
+  {
+    "city": "Kitchener",
+    "admin": "Ontario",
+    "sort": "470015"
+  },
+  {
+    "city": "Halifax",
+    "admin": "Nova Scotia",
+    "sort": "403131"
+  },
+  {
+    "city": "Victoria",
+    "admin": "British Columbia",
+    "sort": "335696"
+  },
+  {
+    "city": "Mississauga",
+    "admin": "Ontario",
+    "sort": "721599"
+  },
+  {
+    "city": "Hamilton",
+    "admin": "Ontario",
+    "sort": "693645"
+  },
+  {
+    "city": "Brampton",
+    "admin": "Ontario",
+    "sort": "593638"
+  },
+  {
+    "city": "Surrey",
+    "admin": "British Columbia",
+    "sort": "517887"
+  },
+  {
+    "city": "Laval",
+    "admin": "Quebec",
+    "sort": "422993"
+  },
+  {
+    "city": "London",
+    "admin": "Ontario",
+    "sort": "383822"
+  },
+  {
+    "city": "Markham",
+    "admin": "Ontario",
+    "sort": "328966"
+  },
+  {
+    "city": "St. Catharines",
+    "admin": "Ontario",
+    "sort": "309319"
+  },
+  {
+    "city": "Niagara Falls",
+    "admin": "Ontario",
+    "sort": "308596"
+  },
+  {
+    "city": "Vaughan",
+    "admin": "Ontario",
+    "sort": "306233"
+  },
+  {
+    "city": "Gatineau",
+    "admin": "Quebec",
+    "sort": "276245"
+  },
+  {
+    "city": "Windsor",
+    "admin": "Ontario",
+    "sort": "276165"
+  },
+  {
+    "city": "Saskatoon",
+    "admin": "Saskatchewan",
+    "sort": "246376"
+  },
+  {
+    "city": "Longueuil",
+    "admin": "Quebec",
+    "sort": "239700"
+  },
+  {
+    "city": "Burnaby",
+    "admin": "British Columbia",
+    "sort": "232755"
+  },
+  {
+    "city": "Regina",
+    "admin": "Saskatchewan",
+    "sort": "215106"
+  },
+  {
+    "city": "Richmond",
+    "admin": "British Columbia",
+    "sort": "198309"
+  },
+  {
+    "city": "Richmond Hill",
+    "admin": "Ontario",
+    "sort": "195022"
+  },
+  {
+    "city": "Oakville",
+    "admin": "Ontario",
+    "sort": "193832"
+  },
+  {
+    "city": "Burlington",
+    "admin": "Ontario",
+    "sort": "183314"
+  },
+  {
+    "city": "Barrie",
+    "admin": "Ontario",
+    "sort": "172657"
+  },
+  {
+    "city": "Oshawa",
+    "admin": "Ontario",
+    "sort": "166000"
+  },
+  {
+    "city": "Sherbrooke",
+    "admin": "Quebec",
+    "sort": "161323"
+  },
+  {
+    "city": "Saguenay",
+    "admin": "Quebec",
+    "sort": "144746"
+  },
+  {
+    "city": "Lévis",
+    "admin": "Quebec",
+    "sort": "143414"
+  },
+  {
+    "city": "Kelowna",
+    "admin": "British Columbia",
+    "sort": "142146"
+  },
+  {
+    "city": "Abbotsford",
+    "admin": "British Columbia",
+    "sort": "141397"
+  },
+  {
+    "city": "Coquitlam",
+    "admin": "British Columbia",
+    "sort": "139284"
+  },
+  {
+    "city": "Trois-Rivières",
+    "admin": "Quebec",
+    "sort": "134413"
+  },
+  {
+    "city": "Guelph",
+    "admin": "Ontario",
+    "sort": "131794"
+  },
+  {
+    "city": "Cambridge",
+    "admin": "Ontario",
+    "sort": "129920"
+  },
+  {
+    "city": "Whitby",
+    "admin": "Ontario",
+    "sort": "128377"
+  },
+  {
+    "city": "Ajax",
+    "admin": "Ontario",
+    "sort": "119677"
+  },
+  {
+    "city": "Langley",
+    "admin": "British Columbia",
+    "sort": "117285"
+  },
+  {
+    "city": "Saanich",
+    "admin": "British Columbia",
+    "sort": "114148"
+  },
+  {
+    "city": "Terrebonne",
+    "admin": "Quebec",
+    "sort": "111575"
+  },
+  {
+    "city": "Milton",
+    "admin": "Ontario",
+    "sort": "110128"
+  },
+  {
+    "city": "St. John's",
+    "admin": "Newfoundland and Labrador",
+    "sort": "108860.00"
+  },
+  {
+    "city": "Moncton",
+    "admin": "New Brunswick",
+    "sort": "108620"
+  },
+  {
+    "city": "Thunder Bay",
+    "admin": "Ontario",
+    "sort": "107909"
+  },
+  {
+    "city": "Dieppe",
+    "admin": "New Brunswick",
+    "sort": "107068"
+  },
+  {
+    "city": "Waterloo",
+    "admin": "Ontario",
+    "sort": "104986"
+  },
+  {
+    "city": "Delta",
+    "admin": "British Columbia",
+    "sort": "102238"
+  },
+  {
+    "city": "Chatham",
+    "admin": "Ontario",
+    "sort": "101647.00"
+  },
+  {
+    "city": "Red Deer",
+    "admin": "Alberta",
+    "sort": "100418"
+  },
+  {
+    "city": "Kamloops",
+    "admin": "British Columbia",
+    "sort": "100046"
+  },
+  {
+    "city": "Newmarket",
+    "admin": "Ontario",
+    "sort": "84224"
+  },
+  {
+    "city": "White Rock",
+    "admin": "British Columbia",
+    "sort": "82368"
+  },
+  {
+    "city": "New Westminster",
+    "admin": "British Columbia",
+    "sort": "70996"
+  },
+  {
+    "city": "Port Coquitlam",
+    "admin": "British Columbia",
+    "sort": "58612"
+  },
+  {
+    "city": "Dollard-des-Ormeaux",
+    "admin": "Quebec",
+    "sort": "49637"
+  },
+  {
+    "city": "Duncan",
+    "admin": "British Columbia",
+    "sort": "44451"
+  },
+  {
+    "city": "Côte-Saint-Luc",
+    "admin": "Quebec",
+    "sort": "32448.00"
+  },
+  {
+    "city": "Sainte-Thérèse",
+    "admin": "Quebec",
+    "sort": "26025"
+  },
+  {
+    "city": "Saint-Lambert",
+    "admin": "Quebec",
+    "sort": "21861"
+  },
+  {
+    "city": "Kirkland",
+    "admin": "Quebec",
+    "sort": "20151"
+  },
+  {
+    "city": "Westmount",
+    "admin": "Quebec",
+    "sort": "19931"
+  },
+  {
+    "city": "Mont-Royal",
+    "admin": "Quebec",
+    "sort": "19503"
+  },
+  {
+    "city": "Sainte-Marthe-sur-le-Lac",
+    "admin": "Quebec",
+    "sort": "18074"
+  },
+  {
+    "city": "Esquimalt",
+    "admin": "British Columbia",
+    "sort": "17655"
+  },
+  {
+    "city": "Deux-Montagnes",
+    "admin": "Quebec",
+    "sort": "17553"
+  },
+  {
+    "city": "L’Ancienne-Lorette",
+    "admin": "Quebec",
+    "sort": "16745"
+  },
+  {
+    "city": "Pincourt",
+    "admin": "Quebec",
+    "sort": "14558"
+  },
+  {
+    "city": "Sidney",
+    "admin": "British Columbia",
+    "sort": "11672"
+  },
+  {
+    "city": "Bois-des-Filion",
+    "admin": "Quebec",
+    "sort": "9485"
+  },
+  {
+    "city": "Hampstead",
+    "admin": "Quebec",
+    "sort": "7153"
+  },
+  {
+    "city": "Charlemagne",
+    "admin": "Quebec",
+    "sort": "5853"
+  },
+  {
+    "city": "L’Epiphanie",
+    "admin": "Quebec",
+    "sort": "5353"
+  },
+  {
+    "city": "Montréal-Ouest",
+    "admin": "Quebec",
+    "sort": "5085"
+  },
+  {
+    "city": "Brantford",
+    "admin": "Ontario",
+    "sort": "97496"
+  },
+  {
+    "city": "Cape Breton",
+    "admin": "Nova Scotia",
+    "sort": "94285"
+  },
+  {
+    "city": "Lethbridge",
+    "admin": "Alberta",
+    "sort": "92729"
+  },
+  {
+    "city": "Saint-Jean-sur-Richelieu",
+    "admin": "Quebec",
+    "sort": "92394"
+  },
+  {
+    "city": "Clarington",
+    "admin": "Ontario",
+    "sort": "92013"
+  },
+  {
+    "city": "Pickering",
+    "admin": "Ontario",
+    "sort": "91771"
+  },
+  {
+    "city": "Nanaimo",
+    "admin": "British Columbia",
+    "sort": "90504"
+  },
+  {
+    "city": "Sudbury",
+    "admin": "Ontario",
+    "sort": "88054"
+  },
+  {
+    "city": "North Vancouver",
+    "admin": "British Columbia",
+    "sort": "85935.00"
+  },
+  {
+    "city": "Brossard",
+    "admin": "Quebec",
+    "sort": "85721"
+  },
+  {
+    "city": "Repentigny",
+    "admin": "Quebec",
+    "sort": "84965"
+  },
+  {
+    "city": "Chilliwack",
+    "admin": "British Columbia",
+    "sort": "83788"
+  },
+  {
+    "city": "Maple Ridge",
+    "admin": "British Columbia",
+    "sort": "82256"
+  },
+  {
+    "city": "Peterborough",
+    "admin": "Ontario",
+    "sort": "82094"
+  },
+  {
+    "city": "Kawartha Lakes",
+    "admin": "Ontario",
+    "sort": "75423"
+  },
+  {
+    "city": "Prince George",
+    "admin": "British Columbia",
+    "sort": "74003"
+  },
+  {
+    "city": "Sault Ste. Marie",
+    "admin": "Ontario",
+    "sort": "73368"
+  },
+  {
+    "city": "Sarnia",
+    "admin": "Ontario",
+    "sort": "71594"
+  },
+  {
+    "city": "Wood Buffalo",
+    "admin": "Alberta",
+    "sort": "71589.00"
+  },
+  {
+    "city": "Châteauguay",
+    "admin": "Quebec",
+    "sort": "70812"
+  },
+  {
+    "city": "Saint-Jérôme",
+    "admin": "Quebec",
+    "sort": "69598"
+  },
+  {
+    "city": "Drummondville",
+    "admin": "Quebec",
+    "sort": "68601"
+  },
+  {
+    "city": "Saint John",
+    "admin": "New Brunswick",
+    "sort": "67575"
+  },
+  {
+    "city": "Caledon",
+    "admin": "Ontario",
+    "sort": "66502"
+  },
+  {
+    "city": "St. Albert",
+    "admin": "Alberta",
+    "sort": "65589"
+  },
+  {
+    "city": "Granby",
+    "admin": "Quebec",
+    "sort": "63433"
+  },
+  {
+    "city": "Medicine Hat",
+    "admin": "Alberta",
+    "sort": "63260"
+  },
+  {
+    "city": "Grande Prairie",
+    "admin": "Alberta",
+    "sort": "63166"
+  },
+  {
+    "city": "St. Thomas",
+    "admin": "Ontario",
+    "sort": "61707"
+  },
+  {
+    "city": "Airdrie",
+    "admin": "Alberta",
+    "sort": "61581"
+  },
+  {
+    "city": "Halton Hills",
+    "admin": "Ontario",
+    "sort": "61161"
+  },
+  {
+    "city": "Saint-Hyacinthe",
+    "admin": "Quebec",
+    "sort": "59614"
+  },
+  {
+    "city": "Lac-Brome",
+    "admin": "Quebec",
+    "sort": "58889"
+  },
+  {
+    "city": "Fredericton",
+    "admin": "New Brunswick",
+    "sort": "58220"
+  },
+  {
+    "city": "Blainville",
+    "admin": "Quebec",
+    "sort": "56363"
+  },
+  {
+    "city": "Aurora",
+    "admin": "Ontario",
+    "sort": "55445"
+  },
+  {
+    "city": "Welland",
+    "admin": "Ontario",
+    "sort": "52293"
+  },
+  {
+    "city": "North Bay",
+    "admin": "Ontario",
+    "sort": "51553"
+  },
+  {
+    "city": "Beloeil",
+    "admin": "Quebec",
+    "sort": "50796"
+  },
+  {
+    "city": "Belleville",
+    "admin": "Ontario",
+    "sort": "50716"
+  },
+  {
+    "city": "Mirabel",
+    "admin": "Quebec",
+    "sort": "50513"
+  },
+  {
+    "city": "Shawinigan",
+    "admin": "Quebec",
+    "sort": "50060"
+  },
+  {
+    "city": "Brandon",
+    "admin": "Manitoba",
+    "sort": "48859"
+  },
+  {
+    "city": "Rimouski",
+    "admin": "Quebec",
+    "sort": "48664"
+  },
+  {
+    "city": "Cornwall",
+    "admin": "Ontario",
+    "sort": "46589"
+  },
+  {
+    "city": "Stouffville",
+    "admin": "Ontario",
+    "sort": "45837"
+  },
+  {
+    "city": "Georgina",
+    "admin": "Ontario",
+    "sort": "45418"
+  },
+  {
+    "city": "Victoriaville",
+    "admin": "Quebec",
+    "sort": "45309"
+  },
+  {
+    "city": "Vernon",
+    "admin": "British Columbia",
+    "sort": "44600"
+  },
+  {
+    "city": "Saint-Eustache",
+    "admin": "Quebec",
+    "sort": "44154"
+  },
+  {
+    "city": "Quinte West",
+    "admin": "Ontario",
+    "sort": "43577"
+  },
+  {
+    "city": "Charlottetown",
+    "admin": "Prince Edward Island",
+    "sort": "42602"
+  },
+  {
+    "city": "Mascouche",
+    "admin": "Quebec",
+    "sort": "42491"
+  },
+  {
+    "city": "West Vancouver",
+    "admin": "British Columbia",
+    "sort": "42473"
+  },
+  {
+    "city": "Salaberry-de-Valleyfield",
+    "admin": "Quebec",
+    "sort": "42410"
+  },
+  {
+    "city": "Rouyn-Noranda",
+    "admin": "Quebec",
+    "sort": "42334"
+  },
+  {
+    "city": "Timmins",
+    "admin": "Ontario",
+    "sort": "41788"
+  },
+  {
+    "city": "Sorel-Tracy",
+    "admin": "Quebec",
+    "sort": "41629"
+  },
+  {
+    "city": "New Tecumseth",
+    "admin": "Ontario",
+    "sort": "41439"
+  },
+  {
+    "city": "Woodstock",
+    "admin": "Ontario",
+    "sort": "40902"
+  },
+  {
+    "city": "Boucherville",
+    "admin": "Quebec",
+    "sort": "40753"
+  },
+  {
+    "city": "Mission",
+    "admin": "British Columbia",
+    "sort": "38833"
+  },
+  {
+    "city": "Vaudreuil-Dorion",
+    "admin": "Quebec",
+    "sort": "38117"
+  },
+  {
+    "city": "Brant",
+    "admin": "Ontario",
+    "sort": "36707"
+  },
+  {
+    "city": "Lakeshore",
+    "admin": "Ontario",
+    "sort": "36611.00"
+  },
+  {
+    "city": "Innisfil",
+    "admin": "Ontario",
+    "sort": "36566"
+  },
+  {
+    "city": "Prince Albert",
+    "admin": "Saskatchewan",
+    "sort": "35926"
+  },
+  {
+    "city": "Langford Station",
+    "admin": "British Columbia",
+    "sort": "35342"
+  },
+  {
+    "city": "Bradford West Gwillimbury",
+    "admin": "Ontario",
+    "sort": "35325"
+  },
+  {
+    "city": "Campbell River",
+    "admin": "British Columbia",
+    "sort": "35138"
+  },
+  {
+    "city": "Spruce Grove",
+    "admin": "Alberta",
+    "sort": "34066"
+  },
+  {
+    "city": "Moose Jaw",
+    "admin": "Saskatchewan",
+    "sort": "33890"
+  },
+  {
+    "city": "Penticton",
+    "admin": "British Columbia",
+    "sort": "33761"
+  },
+  {
+    "city": "Port Moody",
+    "admin": "British Columbia",
+    "sort": "33551"
+  },
+  {
+    "city": "Leamington",
+    "admin": "Ontario",
+    "sort": "32991"
+  },
+  {
+    "city": "East Kelowna",
+    "admin": "British Columbia",
+    "sort": "32655"
+  },
+  {
+    "city": "Val-d’Or",
+    "admin": "Quebec",
+    "sort": "31862"
+  },
+  {
+    "city": "Owen Sound",
+    "admin": "Ontario",
+    "sort": "31820"
+  },
+  {
+    "city": "Stratford",
+    "admin": "Ontario",
+    "sort": "31465"
+  },
+  {
+    "city": "Lloydminster",
+    "admin": "Saskatchewan",
+    "sort": "31410"
+  },
+  {
+    "city": "Pointe-Claire",
+    "admin": "Quebec",
+    "sort": "31380"
+  },
+  {
+    "city": "Orillia",
+    "admin": "Ontario",
+    "sort": "31166"
+  },
+  {
+    "city": "Alma",
+    "admin": "Quebec",
+    "sort": "30904"
+  },
+  {
+    "city": "Orangeville",
+    "admin": "Ontario",
+    "sort": "30734"
+  },
+  {
+    "city": "Fort Erie",
+    "admin": "Ontario",
+    "sort": "30710"
+  },
+  {
+    "city": "LaSalle",
+    "admin": "Ontario",
+    "sort": "30180"
+  },
+  {
+    "city": "Sainte-Julie",
+    "admin": "Quebec",
+    "sort": "30104"
+  },
+  {
+    "city": "Leduc",
+    "admin": "Alberta",
+    "sort": "29993"
+  },
+  {
+    "city": "North Cowichan",
+    "admin": "British Columbia",
+    "sort": "29676"
+  },
+  {
+    "city": "Chambly",
+    "admin": "Quebec",
+    "sort": "29120.00"
+  },
+  {
+    "city": "Okotoks",
+    "admin": "Alberta",
+    "sort": "28881"
+  },
+  {
+    "city": "Sept-Îles",
+    "admin": "Quebec",
+    "sort": "28534"
+  },
+  {
+    "city": "Centre Wellington",
+    "admin": "Ontario",
+    "sort": "28191"
+  },
+  {
+    "city": "Saint-Constant",
+    "admin": "Quebec",
+    "sort": "27359"
+  },
+  {
+    "city": "Grimsby",
+    "admin": "Ontario",
+    "sort": "27314"
+  },
+  {
+    "city": "Boisbriand",
+    "admin": "Quebec",
+    "sort": "26884"
+  },
+  {
+    "city": "Conception Bay South",
+    "admin": "Newfoundland and Labrador",
+    "sort": "26199"
+  },
+  {
+    "city": "Saint-Bruno-de-Montarville",
+    "admin": "Quebec",
+    "sort": "26107"
+  },
+  {
+    "city": "Cochrane",
+    "admin": "Alberta",
+    "sort": "25853"
+  },
+  {
+    "city": "Thetford Mines",
+    "admin": "Quebec",
+    "sort": "25709"
+  },
+  {
+    "city": "Courtenay",
+    "admin": "British Columbia",
+    "sort": "25599"
+  },
+  {
+    "city": "Magog",
+    "admin": "Quebec",
+    "sort": "25358"
+  },
+  {
+    "city": "Whitehorse",
+    "admin": "Yukon",
+    "sort": "25085.00"
+  },
+  {
+    "city": "Woolwich",
+    "admin": "Ontario",
+    "sort": "25006"
+  },
+  {
+    "city": "Clarence-Rockland",
+    "admin": "Ontario",
+    "sort": "24512"
+  },
+  {
+    "city": "Fort Saskatchewan",
+    "admin": "Alberta",
+    "sort": "24149"
+  },
+  {
+    "city": "East Gwillimbury",
+    "admin": "Ontario",
+    "sort": "23991"
+  },
+  {
+    "city": "Lincoln",
+    "admin": "Ontario",
+    "sort": "23787"
+  },
+  {
+    "city": "La Prairie",
+    "admin": "Quebec",
+    "sort": "23357"
+  },
+  {
+    "city": "Tecumseh",
+    "admin": "Ontario",
+    "sort": "23229"
+  },
+  {
+    "city": "Mount Pearl Park",
+    "admin": "Newfoundland and Labrador",
+    "sort": "22957"
+  },
+  {
+    "city": "Amherstburg",
+    "admin": "Ontario",
+    "sort": "21936"
+  },
+  {
+    "city": "Brockville",
+    "admin": "Ontario",
+    "sort": "21854"
+  },
+  {
+    "city": "Collingwood",
+    "admin": "Ontario",
+    "sort": "21793"
+  },
+  {
+    "city": "Scugog",
+    "admin": "Ontario",
+    "sort": "21617"
+  },
+  {
+    "city": "Kingsville",
+    "admin": "Ontario",
+    "sort": "21552"
+  },
+  {
+    "city": "Baie-Comeau",
+    "admin": "Quebec",
+    "sort": "21536"
+  },
+  {
+    "city": "Paradise",
+    "admin": "Newfoundland and Labrador",
+    "sort": "21389"
+  },
+  {
+    "city": "Uxbridge",
+    "admin": "Ontario",
+    "sort": "21176"
+  },
+  {
+    "city": "Essa",
+    "admin": "Ontario",
+    "sort": "21083"
+  },
+  {
+    "city": "Candiac",
+    "admin": "Quebec",
+    "sort": "21047"
+  },
+  {
+    "city": "Oro-Medonte",
+    "admin": "Ontario",
+    "sort": "21036"
+  },
+  {
+    "city": "Varennes",
+    "admin": "Quebec",
+    "sort": "20994"
+  },
+  {
+    "city": "Strathroy-Caradoc",
+    "admin": "Ontario",
+    "sort": "20867"
+  },
+  {
+    "city": "Wasaga Beach",
+    "admin": "Ontario",
+    "sort": "20675"
+  },
+  {
+    "city": "New Glasgow",
+    "admin": "Nova Scotia",
+    "sort": "20609"
+  },
+  {
+    "city": "Wilmot",
+    "admin": "Ontario",
+    "sort": "20545"
+  },
+  {
+    "city": "Essex",
+    "admin": "Ontario",
+    "sort": "20427"
+  },
+  {
+    "city": "Fort St. John",
+    "admin": "British Columbia",
+    "sort": "20155"
+  },
+  {
+    "city": "L’Assomption",
+    "admin": "Quebec",
+    "sort": "20065"
+  },
+  {
+    "city": "Saint-Lazare",
+    "admin": "Quebec",
+    "sort": "19889"
+  },
+  {
+    "city": "Chestermere",
+    "admin": "Alberta",
+    "sort": "19887"
+  },
+  {
+    "city": "Huntsville",
+    "admin": "Ontario",
+    "sort": "19816"
+  },
+  {
+    "city": "Corner Brook",
+    "admin": "Newfoundland and Labrador",
+    "sort": "19806.00"
+  },
+  {
+    "city": "Riverview",
+    "admin": "New Brunswick",
+    "sort": "19667"
+  },
+  {
+    "city": "Lloydminster",
+    "admin": "Alberta",
+    "sort": "19645.00"
+  },
+  {
+    "city": "Joliette",
+    "admin": "Quebec",
+    "sort": "19621"
+  },
+  {
+    "city": "Yellowknife",
+    "admin": "Northwest Territories",
+    "sort": "19569.00"
+  },
+  {
+    "city": "Squamish",
+    "admin": "British Columbia",
+    "sort": "19512"
+  },
+  {
+    "city": "Rivière-du-Loup",
+    "admin": "Quebec",
+    "sort": "19447"
+  },
+  {
+    "city": "Cobourg",
+    "admin": "Ontario",
+    "sort": "19440"
+  },
+  {
+    "city": "Cranbrook",
+    "admin": "British Columbia",
+    "sort": "19259"
+  },
+  {
+    "city": "Beaconsfield",
+    "admin": "Quebec",
+    "sort": "19115"
+  },
+  {
+    "city": "Springwater",
+    "admin": "Ontario",
+    "sort": "19059"
+  },
+  {
+    "city": "Dorval",
+    "admin": "Quebec",
+    "sort": "18980"
+  },
+  {
+    "city": "Thorold",
+    "admin": "Ontario",
+    "sort": "18801"
+  },
+  {
+    "city": "Camrose",
+    "admin": "Alberta",
+    "sort": "18742"
+  },
+  {
+    "city": "South Frontenac",
+    "admin": "Ontario",
+    "sort": "18646"
+  },
+  {
+    "city": "Pitt Meadows",
+    "admin": "British Columbia",
+    "sort": "18573"
+  },
+  {
+    "city": "Port Colborne",
+    "admin": "Ontario",
+    "sort": "18306"
+  },
+  {
+    "city": "Quispamsis",
+    "admin": "New Brunswick",
+    "sort": "18245"
+  },
+  {
+    "city": "Mont-Saint-Hilaire",
+    "admin": "Quebec",
+    "sort": "18200"
+  },
+  {
+    "city": "Bathurst",
+    "admin": "New Brunswick",
+    "sort": "18154"
+  },
+  {
+    "city": "Saint-Augustin-de-Desmaures",
+    "admin": "Quebec",
+    "sort": "18141"
+  },
+  {
+    "city": "Oak Bay",
+    "admin": "British Columbia",
+    "sort": "18094"
+  },
+  {
+    "city": "Salmon Arm",
+    "admin": "British Columbia",
+    "sort": "17706"
+  },
+  {
+    "city": "Port Alberni",
+    "admin": "British Columbia",
+    "sort": "17678"
+  },
+  {
+    "city": "Miramichi",
+    "admin": "New Brunswick",
+    "sort": "17537.00"
+  },
+  {
+    "city": "Niagara-on-the-Lake",
+    "admin": "Ontario",
+    "sort": "17511"
+  },
+  {
+    "city": "Saint-Lin--Laurentides",
+    "admin": "Quebec",
+    "sort": "17463"
+  },
+  {
+    "city": "Beaumont",
+    "admin": "Alberta",
+    "sort": "17396"
+  },
+  {
+    "city": "Middlesex Centre",
+    "admin": "Ontario",
+    "sort": "17262"
+  },
+  {
+    "city": "Inverness",
+    "admin": "Nova Scotia",
+    "sort": "17235"
+  },
+  {
+    "city": "Stony Plain",
+    "admin": "Alberta",
+    "sort": "17189"
+  },
+  {
+    "city": "Petawawa",
+    "admin": "Ontario",
+    "sort": "17187"
+  },
+  {
+    "city": "Pelham",
+    "admin": "Ontario",
+    "sort": "17110"
+  },
+  {
+    "city": "Selwyn",
+    "admin": "Ontario",
+    "sort": "17060"
+  },
+  {
+    "city": "Loyalist",
+    "admin": "Ontario",
+    "sort": "16971"
+  },
+  {
+    "city": "Midland",
+    "admin": "Ontario",
+    "sort": "16864"
+  },
+  {
+    "city": "Colwood",
+    "admin": "British Columbia",
+    "sort": "16859"
+  },
+  {
+    "city": "Central Saanich",
+    "admin": "British Columbia",
+    "sort": "16814"
+  },
+  {
+    "city": "Sainte-Catherine",
+    "admin": "Quebec",
+    "sort": "16762"
+  },
+  {
+    "city": "Port Hope",
+    "admin": "Ontario",
+    "sort": "16753"
+  },
+  {
+    "city": "Saint-Basile-le-Grand",
+    "admin": "Quebec",
+    "sort": "16736"
+  },
+  {
+    "city": "Swift Current",
+    "admin": "Saskatchewan",
+    "sort": "16604"
+  },
+  {
+    "city": "Edmundston",
+    "admin": "New Brunswick",
+    "sort": "16580"
+  },
+  {
+    "city": "Russell",
+    "admin": "Ontario",
+    "sort": "16520"
+  },
+  {
+    "city": "North Grenville",
+    "admin": "Ontario",
+    "sort": "16451"
+  },
+  {
+    "city": "Yorkton",
+    "admin": "Saskatchewan",
+    "sort": "16343"
+  },
+  {
+    "city": "Tracadie",
+    "admin": "New Brunswick",
+    "sort": "16114.00"
+  },
+  {
+    "city": "Bracebridge",
+    "admin": "Ontario",
+    "sort": "16010"
+  },
+  {
+    "city": "Greater Napanee",
+    "admin": "Ontario",
+    "sort": "15892"
+  },
+  {
+    "city": "Tillsonburg",
+    "admin": "Ontario",
+    "sort": "15872"
+  },
+  {
+    "city": "Steinbach",
+    "admin": "Manitoba",
+    "sort": "15829"
+  },
+  {
+    "city": "Hanover",
+    "admin": "Manitoba",
+    "sort": "15733"
+  },
+  {
+    "city": "Terrace",
+    "admin": "British Columbia",
+    "sort": "15723"
+  },
+  {
+    "city": "Springfield",
+    "admin": "Manitoba",
+    "sort": "15342"
+  },
+  {
+    "city": "Gaspé",
+    "admin": "Quebec",
+    "sort": "15163"
+  },
+  {
+    "city": "Kenora",
+    "admin": "Ontario",
+    "sort": "15096"
+  },
+  {
+    "city": "Cold Lake",
+    "admin": "Alberta",
+    "sort": "14961"
+  },
+  {
+    "city": "Summerside",
+    "admin": "Prince Edward Island",
+    "sort": "14829"
+  },
+  {
+    "city": "Comox",
+    "admin": "British Columbia",
+    "sort": "14828"
+  },
+  {
+    "city": "Sylvan Lake",
+    "admin": "Alberta",
+    "sort": "14816"
+  },
+  {
+    "city": "West Lincoln",
+    "admin": "Ontario",
+    "sort": "14500"
+  },
+  {
+    "city": "Matane",
+    "admin": "Quebec",
+    "sort": "14462"
+  },
+  {
+    "city": "Brooks",
+    "admin": "Alberta",
+    "sort": "14451"
+  },
+  {
+    "city": "Sainte-Anne-des-Plaines",
+    "admin": "Quebec",
+    "sort": "14421.00"
+  },
+  {
+    "city": "West Nipissing / Nipissing Ouest",
+    "admin": "Ontario",
+    "sort": "14364"
+  },
+  {
+    "city": "Rosemère",
+    "admin": "Quebec",
+    "sort": "14294"
+  },
+  {
+    "city": "Mistassini",
+    "admin": "Quebec",
+    "sort": "14250.00"
+  },
+  {
+    "city": "Grand Falls",
+    "admin": "Newfoundland and Labrador",
+    "sort": "14171.00"
+  },
+  {
+    "city": "Clearview",
+    "admin": "Ontario",
+    "sort": "14151"
+  },
+  {
+    "city": "St. Clair",
+    "admin": "Ontario",
+    "sort": "14086"
+  },
+  {
+    "city": "Canmore",
+    "admin": "Alberta",
+    "sort": "13992"
+  },
+  {
+    "city": "North Battleford",
+    "admin": "Saskatchewan",
+    "sort": "13888"
+  },
+  {
+    "city": "Pembroke",
+    "admin": "Ontario",
+    "sort": "13882"
+  },
+  {
+    "city": "Mont-Laurier",
+    "admin": "Quebec",
+    "sort": "13779"
+  },
+  {
+    "city": "Strathmore",
+    "admin": "Alberta",
+    "sort": "13756"
+  },
+  {
+    "city": "Saugeen Shores",
+    "admin": "Ontario",
+    "sort": "13715"
+  },
+  {
+    "city": "Thompson",
+    "admin": "Manitoba",
+    "sort": "13678"
+  },
+  {
+    "city": "Lavaltrie",
+    "admin": "Quebec",
+    "sort": "13657"
+  },
+  {
+    "city": "High River",
+    "admin": "Alberta",
+    "sort": "13584"
+  },
+  {
+    "city": "Severn",
+    "admin": "Ontario",
+    "sort": "13477"
+  },
+  {
+    "city": "Sainte-Sophie",
+    "admin": "Quebec",
+    "sort": "13375"
+  },
+  {
+    "city": "Saint-Charles-Borromée",
+    "admin": "Quebec",
+    "sort": "13321"
+  },
+  {
+    "city": "Portage La Prairie",
+    "admin": "Manitoba",
+    "sort": "13304"
+  },
+  {
+    "city": "Thames Centre",
+    "admin": "Ontario",
+    "sort": "13191"
+  },
+  {
+    "city": "Mississippi Mills",
+    "admin": "Ontario",
+    "sort": "13163"
+  },
+  {
+    "city": "Powell River",
+    "admin": "British Columbia",
+    "sort": "13157"
+  },
+  {
+    "city": "South Glengarry",
+    "admin": "Ontario",
+    "sort": "13150"
+  },
+  {
+    "city": "North Perth",
+    "admin": "Ontario",
+    "sort": "13130"
+  },
+  {
+    "city": "Mercier",
+    "admin": "Quebec",
+    "sort": "13115"
+  },
+  {
+    "city": "South Stormont",
+    "admin": "Ontario",
+    "sort": "13110"
+  },
+  {
+    "city": "Saint-Colomban",
+    "admin": "Quebec",
+    "sort": "13080"
+  },
+  {
+    "city": "Lacombe",
+    "admin": "Alberta",
+    "sort": "13057"
+  },
+  {
+    "city": "Sooke",
+    "admin": "British Columbia",
+    "sort": "13001"
+  },
+  {
+    "city": "Dawson Creek",
+    "admin": "British Columbia",
+    "sort": "12978"
+  },
+  {
+    "city": "Lake Country",
+    "admin": "British Columbia",
+    "sort": "12922"
+  },
+  {
+    "city": "Trent Hills",
+    "admin": "Ontario",
+    "sort": "12900"
+  },
+  {
+    "city": "Sainte-Marie",
+    "admin": "Quebec",
+    "sort": "12889"
+  },
+  {
+    "city": "Guelph/Eramosa",
+    "admin": "Ontario",
+    "sort": "12854"
+  },
+  {
+    "city": "Truro",
+    "admin": "Nova Scotia",
+    "sort": "12826"
+  },
+  {
+    "city": "Amos",
+    "admin": "Quebec",
+    "sort": "12823"
+  },
+  {
+    "city": "The Nation / La Nation",
+    "admin": "Ontario",
+    "sort": "12808"
+  },
+  {
+    "city": "Ingersoll",
+    "admin": "Ontario",
+    "sort": "12757"
+  },
+  {
+    "city": "Winkler",
+    "admin": "Manitoba",
+    "sort": "12660"
+  },
+  {
+    "city": "Wetaskiwin",
+    "admin": "Alberta",
+    "sort": "12655"
+  },
+  {
+    "city": "Central Elgin",
+    "admin": "Ontario",
+    "sort": "12607"
+  },
+  {
+    "city": "Lachute",
+    "admin": "Quebec",
+    "sort": "12551"
+  },
+  {
+    "city": "West Grey",
+    "admin": "Ontario",
+    "sort": "12518"
+  },
+  {
+    "city": "Parksville",
+    "admin": "British Columbia",
+    "sort": "12514"
+  },
+  {
+    "city": "Cowansville",
+    "admin": "Quebec",
+    "sort": "12489"
+  },
+  {
+    "city": "Bécancour",
+    "admin": "Quebec",
+    "sort": "12438"
+  },
+  {
+    "city": "Gravenhurst",
+    "admin": "Ontario",
+    "sort": "12311"
+  },
+  {
+    "city": "Perth East",
+    "admin": "Ontario",
+    "sort": "12261"
+  },
+  {
+    "city": "Prince Rupert",
+    "admin": "British Columbia",
+    "sort": "12220"
+  },
+  {
+    "city": "Prévost",
+    "admin": "Quebec",
+    "sort": "12171"
+  },
+  {
+    "city": "Sainte-Adèle",
+    "admin": "Quebec",
+    "sort": "12137"
+  },
+  {
+    "city": "Kentville",
+    "admin": "Nova Scotia",
+    "sort": "12088"
+  },
+  {
+    "city": "Beauharnois",
+    "admin": "Quebec",
+    "sort": "12011"
+  },
+  {
+    "city": "Les Îles-de-la-Madeleine",
+    "admin": "Quebec",
+    "sort": "12010"
+  },
+  {
+    "city": "Wellington North",
+    "admin": "Ontario",
+    "sort": "11914"
+  },
+  {
+    "city": "St. Andrews",
+    "admin": "Manitoba",
+    "sort": "11913"
+  },
+  {
+    "city": "Carleton Place",
+    "admin": "Ontario",
+    "sort": "11901"
+  },
+  {
+    "city": "Whistler",
+    "admin": "British Columbia",
+    "sort": "11854"
+  },
+  {
+    "city": "Brighton",
+    "admin": "Ontario",
+    "sort": "11844"
+  },
+  {
+    "city": "Tiny",
+    "admin": "Ontario",
+    "sort": "11787"
+  },
+  {
+    "city": "Gander",
+    "admin": "Newfoundland and Labrador",
+    "sort": "11688"
+  },
+  {
+    "city": "Rothesay",
+    "admin": "New Brunswick",
+    "sort": "11659"
+  },
+  {
+    "city": "Brock",
+    "admin": "Ontario",
+    "sort": "11642"
+  },
+  {
+    "city": "Summerland",
+    "admin": "British Columbia",
+    "sort": "11615"
+  },
+  {
+    "city": "Val-des-Monts",
+    "admin": "Quebec",
+    "sort": "11582"
+  },
+  {
+    "city": "Taché",
+    "admin": "Manitoba",
+    "sort": "11568"
+  },
+  {
+    "city": "Montmagny",
+    "admin": "Quebec",
+    "sort": "11491"
+  },
+  {
+    "city": "Erin",
+    "admin": "Ontario",
+    "sort": "11439"
+  },
+  {
+    "city": "Kincardine",
+    "admin": "Ontario",
+    "sort": "11389"
+  },
+  {
+    "city": "North Dundas",
+    "admin": "Ontario",
+    "sort": "11278"
+  },
+  {
+    "city": "Wellesley",
+    "admin": "Ontario",
+    "sort": "11260"
+  },
+  {
+    "city": "Estevan",
+    "admin": "Saskatchewan",
+    "sort": "11258"
+  },
+  {
+    "city": "North Saanich",
+    "admin": "British Columbia",
+    "sort": "11249"
+  },
+  {
+    "city": "Warman",
+    "admin": "Saskatchewan",
+    "sort": "11020"
+  },
+  {
+    "city": "La Tuque",
+    "admin": "Quebec",
+    "sort": "11001.00"
+  },
+  {
+    "city": "Norwich",
+    "admin": "Ontario",
+    "sort": "11001"
+  },
+  {
+    "city": "Meaford",
+    "admin": "Ontario",
+    "sort": "10991"
+  },
+  {
+    "city": "Adjala-Tosorontio",
+    "admin": "Ontario",
+    "sort": "10975"
+  },
+  {
+    "city": "Hamilton Township",
+    "admin": "Ontario",
+    "sort": "10942.00"
+  },
+  {
+    "city": "St. Clements",
+    "admin": "Manitoba",
+    "sort": "10876"
+  },
+  {
+    "city": "Saint-Amable",
+    "admin": "Quebec",
+    "sort": "10870"
+  },
+  {
+    "city": "Weyburn",
+    "admin": "Saskatchewan",
+    "sort": "10870"
+  },
+  {
+    "city": "South Dundas",
+    "admin": "Ontario",
+    "sort": "10833"
+  },
+  {
+    "city": "L’Île-Perrot",
+    "admin": "Quebec",
+    "sort": "10756"
+  },
+  {
+    "city": "Notre-Dame-de-l'Île-Perrot",
+    "admin": "Quebec",
+    "sort": "10756"
+  },
+  {
+    "city": "Williams Lake",
+    "admin": "British Columbia",
+    "sort": "10753"
+  },
+  {
+    "city": "Elliot Lake",
+    "admin": "Ontario",
+    "sort": "10741"
+  },
+  {
+    "city": "Cantley",
+    "admin": "Quebec",
+    "sort": "10699"
+  },
+  {
+    "city": "Nelson",
+    "admin": "British Columbia",
+    "sort": "10664"
+  },
+  {
+    "city": "Lambton Shores",
+    "admin": "Ontario",
+    "sort": "10631"
+  },
+  {
+    "city": "Mapleton",
+    "admin": "Ontario",
+    "sort": "10527.00"
+  },
+  {
+    "city": "Georgian Bluffs",
+    "admin": "Ontario",
+    "sort": "10479"
+  },
+  {
+    "city": "Rawdon",
+    "admin": "Quebec",
+    "sort": "10416"
+  },
+  {
+    "city": "Campbellton",
+    "admin": "New Brunswick",
+    "sort": "10411"
+  },
+  {
+    "city": "View Royal",
+    "admin": "British Columbia",
+    "sort": "10408"
+  },
+  {
+    "city": "Coldstream",
+    "admin": "British Columbia",
+    "sort": "10314"
+  },
+  {
+    "city": "Chester",
+    "admin": "Nova Scotia",
+    "sort": "10310"
+  },
+  {
+    "city": "Queens",
+    "admin": "Nova Scotia",
+    "sort": "10307"
+  },
+  {
+    "city": "Selkirk",
+    "admin": "Manitoba",
+    "sort": "10278"
+  },
+  {
+    "city": "Saint-Félicien",
+    "admin": "Quebec",
+    "sort": "10278"
+  },
+  {
+    "city": "Hawkesbury",
+    "admin": "Ontario",
+    "sort": "10263"
+  },
+  {
+    "city": "Roberval",
+    "admin": "Quebec",
+    "sort": "10227"
+  },
+  {
+    "city": "Sainte-Agathe-des-Monts",
+    "admin": "Quebec",
+    "sort": "10223"
+  },
+  {
+    "city": "North Dumfries",
+    "admin": "Ontario",
+    "sort": "10215"
+  },
+  {
+    "city": "Rideau Lakes",
+    "admin": "Ontario",
+    "sort": "10207"
+  },
+  {
+    "city": "Sechelt",
+    "admin": "British Columbia",
+    "sort": "10200"
+  },
+  {
+    "city": "North Glengarry",
+    "admin": "Ontario",
+    "sort": "10109"
+  },
+  {
+    "city": "South Huron",
+    "admin": "Ontario",
+    "sort": "10096"
+  },
+  {
+    "city": "Marieville",
+    "admin": "Quebec",
+    "sort": "10094"
+  },
+  {
+    "city": "Tay",
+    "admin": "Ontario",
+    "sort": "10033"
+  },
+  {
+    "city": "Temiskaming Shores",
+    "admin": "Ontario",
+    "sort": "9920"
+  },
+  {
+    "city": "Hinton",
+    "admin": "Alberta",
+    "sort": "9882"
+  },
+  {
+    "city": "Saint-Sauveur",
+    "admin": "Quebec",
+    "sort": "9881"
+  },
+  {
+    "city": "Quesnel",
+    "admin": "British Columbia",
+    "sort": "9879"
+  },
+  {
+    "city": "Elizabethtown-Kitley",
+    "admin": "Ontario",
+    "sort": "9854"
+  },
+  {
+    "city": "Morinville",
+    "admin": "Alberta",
+    "sort": "9848"
+  },
+  {
+    "city": "Grey Highlands",
+    "admin": "Ontario",
+    "sort": "9804"
+  },
+  {
+    "city": "Stratford",
+    "admin": "Prince Edward Island",
+    "sort": "9706"
+  },
+  {
+    "city": "Alfred and Plantagenet",
+    "admin": "Ontario",
+    "sort": "9680"
+  },
+  {
+    "city": "Mont-Tremblant",
+    "admin": "Quebec",
+    "sort": "9646"
+  },
+  {
+    "city": "Martensville",
+    "admin": "Saskatchewan",
+    "sort": "9645"
+  },
+  {
+    "city": "Saint-Raymond",
+    "admin": "Quebec",
+    "sort": "9615"
+  },
+  {
+    "city": "Amherst",
+    "admin": "Nova Scotia",
+    "sort": "9550"
+  },
+  {
+    "city": "Ramara",
+    "admin": "Ontario",
+    "sort": "9488"
+  },
+  {
+    "city": "Leeds and the Thousand Islands",
+    "admin": "Ontario",
+    "sort": "9465"
+  },
+  {
+    "city": "Carignan",
+    "admin": "Quebec",
+    "sort": "9462"
+  },
+  {
+    "city": "Brockton",
+    "admin": "Ontario",
+    "sort": "9461"
+  },
+  {
+    "city": "Laurentian Valley",
+    "admin": "Ontario",
+    "sort": "9387"
+  },
+  {
+    "city": "East St. Paul",
+    "admin": "Manitoba",
+    "sort": "9372"
+  },
+  {
+    "city": "Lorraine",
+    "admin": "Quebec",
+    "sort": "9352"
+  },
+  {
+    "city": "Sainte-Julienne",
+    "admin": "Quebec",
+    "sort": "9331"
+  },
+  {
+    "city": "Blackfalds",
+    "admin": "Alberta",
+    "sort": "9328"
+  },
+  {
+    "city": "Malahide",
+    "admin": "Ontario",
+    "sort": "9292"
+  },
+  {
+    "city": "Oromocto",
+    "admin": "New Brunswick",
+    "sort": "9223"
+  },
+  {
+    "city": "Olds",
+    "admin": "Alberta",
+    "sort": "9184"
+  },
+  {
+    "city": "Huron East",
+    "admin": "Ontario",
+    "sort": "9138"
+  },
+  {
+    "city": "Stanley",
+    "admin": "Manitoba",
+    "sort": "9038.00"
+  },
+  {
+    "city": "Penetanguishene",
+    "admin": "Ontario",
+    "sort": "8962"
+  },
+  {
+    "city": "Qualicum Beach",
+    "admin": "British Columbia",
+    "sort": "8943"
+  },
+  {
+    "city": "Notre-Dame-des-Prairies",
+    "admin": "Quebec",
+    "sort": "8868"
+  },
+  {
+    "city": "West Perth",
+    "admin": "Ontario",
+    "sort": "8865"
+  },
+  {
+    "city": "Cavan Monaghan",
+    "admin": "Ontario",
+    "sort": "8829"
+  },
+  {
+    "city": "Arnprior",
+    "admin": "Ontario",
+    "sort": "8795"
+  },
+  {
+    "city": "Smiths Falls",
+    "admin": "Ontario",
+    "sort": "8780"
+  },
+  {
+    "city": "Pont-Rouge",
+    "admin": "Quebec",
+    "sort": "8723"
+  },
+  {
+    "city": "Champlain",
+    "admin": "Ontario",
+    "sort": "8706"
+  },
+  {
+    "city": "Coaticook",
+    "admin": "Quebec",
+    "sort": "8698"
+  },
+  {
+    "city": "Minto",
+    "admin": "Ontario",
+    "sort": "8671"
+  },
+  {
+    "city": "Morden",
+    "admin": "Manitoba",
+    "sort": "8668"
+  },
+  {
+    "city": "Mono",
+    "admin": "Ontario",
+    "sort": "8609"
+  },
+  {
+    "city": "Ladysmith",
+    "admin": "British Columbia",
+    "sort": "8537"
+  },
+  {
+    "city": "Bridgewater",
+    "admin": "Nova Scotia",
+    "sort": "8532"
+  },
+  {
+    "city": "Dauphin",
+    "admin": "Manitoba",
+    "sort": "8457.00"
+  },
+  {
+    "city": "Otterburn Park",
+    "admin": "Quebec",
+    "sort": "8450"
+  },
+  {
+    "city": "Taber",
+    "admin": "Alberta",
+    "sort": "8428"
+  },
+  {
+    "city": "South Bruce Peninsula",
+    "admin": "Ontario",
+    "sort": "8416"
+  },
+  {
+    "city": "Edson",
+    "admin": "Alberta",
+    "sort": "8414"
+  },
+  {
+    "city": "Farnham",
+    "admin": "Quebec",
+    "sort": "8330"
+  },
+  {
+    "city": "Kapuskasing",
+    "admin": "Ontario",
+    "sort": "8292"
+  },
+  {
+    "city": "La Malbaie",
+    "admin": "Quebec",
+    "sort": "8271"
+  },
+  {
+    "city": "Renfrew",
+    "admin": "Ontario",
+    "sort": "8223"
+  },
+  {
+    "city": "Coaldale",
+    "admin": "Alberta",
+    "sort": "8215"
+  },
+  {
+    "city": "Portugal Cove-St. Philip's",
+    "admin": "Newfoundland and Labrador",
+    "sort": "8147"
+  },
+  {
+    "city": "Zorra",
+    "admin": "Ontario",
+    "sort": "8138"
+  },
+  {
+    "city": "Kitimat",
+    "admin": "British Columbia",
+    "sort": "8131"
+  },
+  {
+    "city": "Shelburne",
+    "admin": "Ontario",
+    "sort": "8126"
+  },
+  {
+    "city": "Saint-Hippolyte",
+    "admin": "Quebec",
+    "sort": "8083"
+  },
+  {
+    "city": "Castlegar",
+    "admin": "British Columbia",
+    "sort": "8039"
+  },
+  {
+    "city": "Church Point",
+    "admin": "Nova Scotia",
+    "sort": "8018"
+  },
+  {
+    "city": "Drumheller",
+    "admin": "Alberta",
+    "sort": "7982"
+  },
+  {
+    "city": "Kirkland Lake",
+    "admin": "Ontario",
+    "sort": "7981"
+  },
+  {
+    "city": "Argyle",
+    "admin": "Nova Scotia",
+    "sort": "7899"
+  },
+  {
+    "city": "Torbay",
+    "admin": "Newfoundland and Labrador",
+    "sort": "7899"
+  },
+  {
+    "city": "La Pêche",
+    "admin": "Quebec",
+    "sort": "7863"
+  },
+  {
+    "city": "Banff",
+    "admin": "Alberta",
+    "sort": "7847"
+  },
+  {
+    "city": "Innisfail",
+    "admin": "Alberta",
+    "sort": "7847"
+  },
+  {
+    "city": "Nicolet",
+    "admin": "Quebec",
+    "sort": "7828"
+  },
+  {
+    "city": "Rockwood",
+    "admin": "Manitoba",
+    "sort": "7823"
+  },
+  {
+    "city": "Drummond/North Elmsley",
+    "admin": "Ontario",
+    "sort": "7773"
+  },
+  {
+    "city": "Dryden",
+    "admin": "Ontario",
+    "sort": "7749"
+  },
+  {
+    "city": "Fort Frances",
+    "admin": "Ontario",
+    "sort": "7739"
+  },
+  {
+    "city": "La Sarre",
+    "admin": "Quebec",
+    "sort": "7719"
+  },
+  {
+    "city": "Trail",
+    "admin": "British Columbia",
+    "sort": "7709"
+  },
+  {
+    "city": "Chandler",
+    "admin": "Quebec",
+    "sort": "7703"
+  },
+  {
+    "city": "Stone Mills",
+    "admin": "Ontario",
+    "sort": "7702"
+  },
+  {
+    "city": "Hanover",
+    "admin": "Ontario",
+    "sort": "7688"
+  },
+  {
+    "city": "South-West Oxford",
+    "admin": "Ontario",
+    "sort": "7664"
+  },
+  {
+    "city": "Acton Vale",
+    "admin": "Quebec",
+    "sort": "7664"
+  },
+  {
+    "city": "Bromont",
+    "admin": "Quebec",
+    "sort": "7649"
+  },
+  {
+    "city": "Beckwith",
+    "admin": "Ontario",
+    "sort": "7644"
+  },
+  {
+    "city": "Goderich",
+    "admin": "Ontario",
+    "sort": "7628"
+  },
+  {
+    "city": "Plympton-Wyoming",
+    "admin": "Ontario",
+    "sort": "7576"
+  },
+  {
+    "city": "Central Huron",
+    "admin": "Ontario",
+    "sort": "7576"
+  },
+  {
+    "city": "Rigaud",
+    "admin": "Quebec",
+    "sort": "7566"
+  },
+  {
+    "city": "Louiseville",
+    "admin": "Quebec",
+    "sort": "7517"
+  },
+  {
+    "city": "Chibougamau",
+    "admin": "Quebec",
+    "sort": "7504"
+  },
+  {
+    "city": "Aylmer",
+    "admin": "Ontario",
+    "sort": "7492"
+  },
+  {
+    "city": "Delson",
+    "admin": "Quebec",
+    "sort": "7462"
+  },
+  {
+    "city": "Kimberley",
+    "admin": "British Columbia",
+    "sort": "7425"
+  },
+  {
+    "city": "Blandford-Blenheim",
+    "admin": "Ontario",
+    "sort": "7399"
+  },
+  {
+    "city": "Bayham",
+    "admin": "Ontario",
+    "sort": "7396"
+  },
+  {
+    "city": "Augusta",
+    "admin": "Ontario",
+    "sort": "7353"
+  },
+  {
+    "city": "Puslinch",
+    "admin": "Ontario",
+    "sort": "7336"
+  },
+  {
+    "city": "Beauport",
+    "admin": "Quebec",
+    "sort": "7281"
+  },
+  {
+    "city": "Saint-Rémi",
+    "admin": "Quebec",
+    "sort": "7265"
+  },
+  {
+    "city": "St. Marys",
+    "admin": "Ontario",
+    "sort": "7265"
+  },
+  {
+    "city": "Drayton Valley",
+    "admin": "Alberta",
+    "sort": "7235"
+  },
+  {
+    "city": "Ponoka",
+    "admin": "Alberta",
+    "sort": "7229"
+  },
+  {
+    "city": "Labrador City",
+    "admin": "Newfoundland and Labrador",
+    "sort": "7220"
+  },
+  {
+    "city": "Donnacona",
+    "admin": "Quebec",
+    "sort": "7200"
+  },
+  {
+    "city": "Southgate",
+    "admin": "Ontario",
+    "sort": "7190"
+  },
+  {
+    "city": "McNab/Braeside",
+    "admin": "Ontario",
+    "sort": "7178"
+  },
+  {
+    "city": "Macdonald",
+    "admin": "Manitoba",
+    "sort": "7162"
+  },
+  {
+    "city": "Baie-Saint-Paul",
+    "admin": "Quebec",
+    "sort": "7146"
+  },
+  {
+    "city": "Merritt",
+    "admin": "British Columbia",
+    "sort": "7139"
+  },
+  {
+    "city": "Bluewater",
+    "admin": "Ontario",
+    "sort": "7136"
+  },
+  {
+    "city": "East Zorra-Tavistock",
+    "admin": "Ontario",
+    "sort": "7129"
+  },
+  {
+    "city": "Stoneham-et-Tewkesbury",
+    "admin": "Quebec",
+    "sort": "7106"
+  },
+  {
+    "city": "Asbestos",
+    "admin": "Quebec",
+    "sort": "7096"
+  },
+  {
+    "city": "Huron-Kinloss",
+    "admin": "Ontario",
+    "sort": "7069"
+  },
+  {
+    "city": "Coteau-du-Lac",
+    "admin": "Quebec",
+    "sort": "7044"
+  },
+  {
+    "city": "The Blue Mountains",
+    "admin": "Ontario",
+    "sort": "7025"
+  },
+  {
+    "city": "Whitewater Region",
+    "admin": "Ontario",
+    "sort": "7009"
+  },
+  {
+    "city": "Edwardsburgh/Cardinal",
+    "admin": "Ontario",
+    "sort": "6959"
+  },
+  {
+    "city": "Sainte-Anne-des-Monts",
+    "admin": "Quebec",
+    "sort": "6933"
+  },
+  {
+    "city": "Old Chelsea",
+    "admin": "Quebec",
+    "sort": "6909"
+  },
+  {
+    "city": "North Stormont",
+    "admin": "Ontario",
+    "sort": "6873"
+  },
+  {
+    "city": "Alnwick/Haldimand",
+    "admin": "Ontario",
+    "sort": "6869"
+  },
+  {
+    "city": "Peace River",
+    "admin": "Alberta",
+    "sort": "6842"
+  },
+  {
+    "city": "Arran-Elderslie",
+    "admin": "Ontario",
+    "sort": "6803"
+  },
+  {
+    "city": "Saint-Zotique",
+    "admin": "Quebec",
+    "sort": "6773"
+  },
+  {
+    "city": "Val-Shefford",
+    "admin": "Quebec",
+    "sort": "6711"
+  },
+  {
+    "city": "Douro-Dummer",
+    "admin": "Ontario",
+    "sort": "6709"
+  },
+  {
+    "city": "Plessisville",
+    "admin": "Quebec",
+    "sort": "6688"
+  },
+  {
+    "city": "Ritchot",
+    "admin": "Manitoba",
+    "sort": "6679"
+  },
+  {
+    "city": "Otonabee-South Monaghan",
+    "admin": "Ontario",
+    "sort": "6670"
+  },
+  {
+    "city": "Shediac",
+    "admin": "New Brunswick",
+    "sort": "6664"
+  },
+  {
+    "city": "Slave Lake",
+    "admin": "Alberta",
+    "sort": "6651"
+  },
+  {
+    "city": "Port-Cartier",
+    "admin": "Quebec",
+    "sort": "6651"
+  },
+  {
+    "city": "Barrington",
+    "admin": "Nova Scotia",
+    "sort": "6646"
+  },
+  {
+    "city": "Rocky Mountain House",
+    "admin": "Alberta",
+    "sort": "6635"
+  },
+  {
+    "city": "Chatsworth",
+    "admin": "Ontario",
+    "sort": "6630"
+  },
+  {
+    "city": "Stephenville",
+    "admin": "Newfoundland and Labrador",
+    "sort": "6623"
+  },
+  {
+    "city": "Devon",
+    "admin": "Alberta",
+    "sort": "6578"
+  },
+  {
+    "city": "Yarmouth",
+    "admin": "Nova Scotia",
+    "sort": "6518"
+  },
+  {
+    "city": "Boischatel",
+    "admin": "Quebec",
+    "sort": "6465"
+  },
+  {
+    "city": "Parry Sound",
+    "admin": "Ontario",
+    "sort": "6408"
+  },
+  {
+    "city": "Pointe-Calumet",
+    "admin": "Quebec",
+    "sort": "6396"
+  },
+  {
+    "city": "Beaubassin East / Beaubassin-est",
+    "admin": "New Brunswick",
+    "sort": "6376.00"
+  },
+  {
+    "city": "Wainfleet",
+    "admin": "Ontario",
+    "sort": "6372"
+  },
+  {
+    "city": "Cramahe",
+    "admin": "Ontario",
+    "sort": "6355"
+  },
+  {
+    "city": "Beauceville",
+    "admin": "Quebec",
+    "sort": "6354"
+  },
+  {
+    "city": "North Middlesex",
+    "admin": "Ontario",
+    "sort": "6352"
+  },
+  {
+    "city": "Amqui",
+    "admin": "Quebec",
+    "sort": "6322"
+  },
+  {
+    "city": "Sainte-Catherine-de-la-Jacques-Cartier",
+    "admin": "Quebec",
+    "sort": "6319"
+  },
+  {
+    "city": "Clarenville",
+    "admin": "Newfoundland and Labrador",
+    "sort": "6291"
+  },
+  {
+    "city": "Mont-Joli",
+    "admin": "Quebec",
+    "sort": "6281"
+  },
+  {
+    "city": "Wainwright",
+    "admin": "Alberta",
+    "sort": "6270"
+  },
+  {
+    "city": "Contrecoeur",
+    "admin": "Quebec",
+    "sort": "6252"
+  },
+  {
+    "city": "Saint-Joseph-du-Lac",
+    "admin": "Quebec",
+    "sort": "6195"
+  },
+  {
+    "city": "Hope",
+    "admin": "British Columbia",
+    "sort": "6181"
+  },
+  {
+    "city": "Gimli",
+    "admin": "Manitoba",
+    "sort": "6181"
+  },
+  {
+    "city": "Saint-Apollinaire",
+    "admin": "Quebec",
+    "sort": "6110"
+  },
+  {
+    "city": "Hindon Hill",
+    "admin": "Ontario",
+    "sort": "6088"
+  },
+  {
+    "city": "Les Cèdres",
+    "admin": "Quebec",
+    "sort": "6079"
+  },
+  {
+    "city": "La Broquerie",
+    "admin": "Manitoba",
+    "sort": "6076"
+  },
+  {
+    "city": "Kent",
+    "admin": "British Columbia",
+    "sort": "6067"
+  },
+  {
+    "city": "Tweed",
+    "admin": "Ontario",
+    "sort": "6044"
+  },
+  {
+    "city": "Saint-Félix-de-Valois",
+    "admin": "Quebec",
+    "sort": "6029"
+  },
+  {
+    "city": "Bay Roberts",
+    "admin": "Newfoundland and Labrador",
+    "sort": "6012"
+  },
+  {
+    "city": "Melfort",
+    "admin": "Saskatchewan",
+    "sort": "5992"
+  },
+  {
+    "city": "Bonnyville",
+    "admin": "Alberta",
+    "sort": "5975"
+  },
+  {
+    "city": "Stettler",
+    "admin": "Alberta",
+    "sort": "5952"
+  },
+  {
+    "city": "Saint-Calixte",
+    "admin": "Quebec",
+    "sort": "5934"
+  },
+  {
+    "city": "Lac-Mégantic",
+    "admin": "Quebec",
+    "sort": "5932"
+  },
+  {
+    "city": "Perth",
+    "admin": "Ontario",
+    "sort": "5930"
+  },
+  {
+    "city": "Oliver Paipoonge",
+    "admin": "Ontario",
+    "sort": "5922"
+  },
+  {
+    "city": "Humboldt",
+    "admin": "Saskatchewan",
+    "sort": "5869"
+  },
+  {
+    "city": "Pontiac",
+    "admin": "Quebec",
+    "sort": "5850"
+  },
+  {
+    "city": "St. Paul",
+    "admin": "Alberta",
+    "sort": "5827"
+  },
+  {
+    "city": "Petrolia",
+    "admin": "Ontario",
+    "sort": "5742"
+  },
+  {
+    "city": "Southwest Middlesex",
+    "admin": "Ontario",
+    "sort": "5723"
+  },
+  {
+    "city": "Front of Yonge",
+    "admin": "Ontario",
+    "sort": "5710"
+  },
+  {
+    "city": "Vegreville",
+    "admin": "Alberta",
+    "sort": "5708"
+  },
+  {
+    "city": "Sainte-Brigitte-de-Laval",
+    "admin": "Quebec",
+    "sort": "5696"
+  },
+  {
+    "city": "Verchères",
+    "admin": "Quebec",
+    "sort": "5692"
+  },
+  {
+    "city": "The Pas",
+    "admin": "Manitoba",
+    "sort": "5689"
+  },
+  {
+    "city": "Saint-Césaire",
+    "admin": "Quebec",
+    "sort": "5686"
+  },
+  {
+    "city": "La Ronge",
+    "admin": "Saskatchewan",
+    "sort": "5671"
+  },
+  {
+    "city": "Tay Valley",
+    "admin": "Ontario",
+    "sort": "5665"
+  },
+  {
+    "city": "South Bruce",
+    "admin": "Ontario",
+    "sort": "5639"
+  },
+  {
+    "city": "McMasterville",
+    "admin": "Quebec",
+    "sort": "5615"
+  },
+  {
+    "city": "Redcliff",
+    "admin": "Alberta",
+    "sort": "5600"
+  },
+  {
+    "city": "Saint-Philippe",
+    "admin": "Quebec",
+    "sort": "5495"
+  },
+  {
+    "city": "Richelieu",
+    "admin": "Quebec",
+    "sort": "5467"
+  },
+  {
+    "city": "Notre-Dame-du-Mont-Carmel",
+    "admin": "Quebec",
+    "sort": "5467"
+  },
+  {
+    "city": "L'Ange-Gardien",
+    "admin": "Quebec",
+    "sort": "5464"
+  },
+  {
+    "city": "Sainte-Martine",
+    "admin": "Quebec",
+    "sort": "5461"
+  },
+  {
+    "city": "Saint-Pie",
+    "admin": "Quebec",
+    "sort": "5438"
+  },
+  {
+    "city": "Peachland",
+    "admin": "British Columbia",
+    "sort": "5428"
+  },
+  {
+    "city": "Ashfield-Colborne-Wawanosh",
+    "admin": "Ontario",
+    "sort": "5422"
+  },
+  {
+    "city": "Trent Lakes",
+    "admin": "Ontario",
+    "sort": "5397"
+  },
+  {
+    "city": "Northern Rockies",
+    "admin": "British Columbia",
+    "sort": "5393"
+  },
+  {
+    "city": "West St. Paul",
+    "admin": "Manitoba",
+    "sort": "5368"
+  },
+  {
+    "city": "Windsor",
+    "admin": "Quebec",
+    "sort": "5367"
+  },
+  {
+    "city": "Creston",
+    "admin": "British Columbia",
+    "sort": "5351"
+  },
+  {
+    "city": "Smithers",
+    "admin": "British Columbia",
+    "sort": "5351"
+  },
+  {
+    "city": "Cornwall",
+    "admin": "Prince Edward Island",
+    "sort": "5348"
+  },
+  {
+    "city": "Meadow Lake",
+    "admin": "Saskatchewan",
+    "sort": "5344"
+  },
+  {
+    "city": "Lanark Highlands",
+    "admin": "Ontario",
+    "sort": "5338"
+  },
+  {
+    "city": "Sackville",
+    "admin": "New Brunswick",
+    "sort": "5331"
+  },
+  {
+    "city": "Grand Falls",
+    "admin": "New Brunswick",
+    "sort": "5326"
+  },
+  {
+    "city": "Cochrane",
+    "admin": "Ontario",
+    "sort": "5321"
+  },
+  {
+    "city": "Marystown",
+    "admin": "Newfoundland and Labrador",
+    "sort": "5316"
+  },
+  {
+    "city": "Sioux Lookout",
+    "admin": "Ontario",
+    "sort": "5272"
+  },
+  {
+    "city": "Didsbury",
+    "admin": "Alberta",
+    "sort": "5268"
+  },
+  {
+    "city": "Fernie",
+    "admin": "British Columbia",
+    "sort": "5249"
+  },
+  {
+    "city": "Deer Lake",
+    "admin": "Newfoundland and Labrador",
+    "sort": "5249"
+  },
+  {
+    "city": "Woodstock",
+    "admin": "New Brunswick",
+    "sort": "5228"
+  },
+  {
+    "city": "Val-David",
+    "admin": "Quebec",
+    "sort": "5209"
+  },
+  {
+    "city": "Flin Flon",
+    "admin": "Saskatchewan",
+    "sort": "5185"
+  },
+  {
+    "city": "Hudson",
+    "admin": "Quebec",
+    "sort": "5165"
+  },
+  {
+    "city": "Gananoque",
+    "admin": "Ontario",
+    "sort": "5159"
+  },
+  {
+    "city": "Brokenhead",
+    "admin": "Manitoba",
+    "sort": "5122.00"
+  },
+  {
+    "city": "Saint-Paul",
+    "admin": "Quebec",
+    "sort": "5122"
+  },
+  {
+    "city": "Westlock",
+    "admin": "Alberta",
+    "sort": "5101"
+  },
+  {
+    "city": "Témiscouata-sur-le-Lac",
+    "admin": "Quebec",
+    "sort": "5096"
+  },
+  {
+    "city": "Shannon",
+    "admin": "Quebec",
+    "sort": "5086"
+  },
+  {
+    "city": "Osoyoos",
+    "admin": "British Columbia",
+    "sort": "5085"
+  },
+  {
+    "city": "Hearst",
+    "admin": "Ontario",
+    "sort": "5070"
+  },
+  {
+    "city": "Antigonish",
+    "admin": "Nova Scotia",
+    "sort": "5002"
+  },
+  {
+    "city": "Corman Park No. 344",
+    "admin": "Saskatchewan",
+    "sort": "8568.00"
+  },
+  {
+    "city": "Happy Valley",
+    "admin": "Newfoundland and Labrador",
+    "sort": "8109.00"
+  },
+  {
+    "city": "Iqaluit",
+    "admin": "Nunavut",
+    "sort": "7740.00"
+  },
+  {
+    "city": "Brownsburg",
+    "admin": "Quebec",
+    "sort": "7122.00"
+  },
+  {
+    "city": "Saint-Lambert-de-Lauzon",
+    "admin": "Quebec",
+    "sort": "6647.00"
+  },
+  {
+    "city": "Muskoka Falls",
+    "admin": "Ontario",
+    "sort": "6588.00"
+  },
+  {
+    "city": "Dysart et al",
+    "admin": "Ontario",
+    "sort": "6280.00"
+  },
+  {
+    "city": "Beresford",
+    "admin": "New Brunswick",
+    "sort": "6248.00"
+  },
+  {
+    "city": "Douglas",
+    "admin": "New Brunswick",
+    "sort": "6154.00"
+  },
+  {
+    "city": "Princeville",
+    "admin": "Quebec",
+    "sort": "5693"
+  },
+  {
+    "city": "Crowsnest Pass",
+    "admin": "Alberta",
+    "sort": "5589.00"
+  },
+  {
+    "city": "Cookshire",
+    "admin": "Quebec",
+    "sort": "5393.00"
+  },
+  {
+    "city": "Saint-Honoré",
+    "admin": "Quebec",
+    "sort": "5257"
+  },
+  {
+    "city": "Burton",
+    "admin": "New Brunswick",
+    "sort": "5119.00"
+  },
+  {
+    "city": "Spallumcheen",
+    "admin": "British Columbia",
+    "sort": "5106.00"
+  },
+  {
+    "city": "Saint-Henri",
+    "admin": "Quebec",
+    "sort": "5023"
+  },
+  {
+    "city": "Ste. Anne",
+    "admin": "Manitoba",
+    "sort": "5003.00"
+  }
+]

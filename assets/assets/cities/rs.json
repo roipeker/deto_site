@@ -1,0 +1,762 @@
+[
+  {
+    "city": "Belgrade",
+    "admin": "Beograd",
+    "sort": "1378682"
+  },
+  {
+    "city": "Novi Sad",
+    "admin": "Novi Sad",
+    "sort": "380000"
+  },
+  {
+    "city": "Niš",
+    "admin": "Niš",
+    "sort": "183164"
+  },
+  {
+    "city": "Zemun",
+    "admin": "Beograd",
+    "sort": "161596"
+  },
+  {
+    "city": "Kragujevac",
+    "admin": "Kragujevac",
+    "sort": "150623"
+  },
+  {
+    "city": "Valjevo",
+    "admin": "Valjevo",
+    "sort": "90312"
+  },
+  {
+    "city": "Loznica",
+    "admin": "Loznica",
+    "sort": "86413"
+  },
+  {
+    "city": "Zrenjanin",
+    "admin": "Zrenjanin",
+    "sort": "76511"
+  },
+  {
+    "city": "Pančevo",
+    "admin": "Pančevo",
+    "sort": "76203"
+  },
+  {
+    "city": "Čačak",
+    "admin": "Čačak",
+    "sort": "71883"
+  },
+  {
+    "city": "Novi Pazar",
+    "admin": "Novi Pazar",
+    "sort": "66527"
+  },
+  {
+    "city": "Kraljevo",
+    "admin": "Kraljevo",
+    "sort": "66688"
+  },
+  {
+    "city": "Leskovac",
+    "admin": "Leskovac",
+    "sort": "60288"
+  },
+  {
+    "city": "Užice",
+    "admin": "Užice",
+    "sort": "59747"
+  },
+  {
+    "city": "Kruševac",
+    "admin": "Kruševac",
+    "sort": "58745"
+  },
+  {
+    "city": "Vranje",
+    "admin": "Vranje",
+    "sort": "55138"
+  },
+  {
+    "city": "Sombor",
+    "admin": "Sombor",
+    "sort": "51471"
+  },
+  {
+    "city": "Kikinda",
+    "admin": "Kikinda",
+    "sort": "38065"
+  },
+  {
+    "city": "Prijepolje",
+    "admin": "Prijepolje",
+    "sort": "37059"
+  },
+  {
+    "city": "Vršac",
+    "admin": "Vršac",
+    "sort": "35701"
+  },
+  {
+    "city": "Bor",
+    "admin": "Bor",
+    "sort": "34159"
+  },
+  {
+    "city": "Subotica",
+    "admin": "Subotica",
+    "sort": "29919"
+  },
+  {
+    "city": "Bačka Palanka",
+    "admin": "Bačka Palanka",
+    "sort": "29449"
+  },
+  {
+    "city": "Bajina Bašta",
+    "admin": "Bajina Bašta",
+    "sort": "26022"
+  },
+  {
+    "city": "Vrbas",
+    "admin": "Vrbas",
+    "sort": "24112"
+  },
+  {
+    "city": "Ćuprija",
+    "admin": "Ćuprija",
+    "sort": "20585"
+  },
+  {
+    "city": "Senta",
+    "admin": "Senta",
+    "sort": "20302"
+  },
+  {
+    "city": "Trstenik",
+    "admin": "Trstenik",
+    "sort": "17180"
+  },
+  {
+    "city": "Bačka Topola",
+    "admin": "Bačka Topola",
+    "sort": "16171"
+  },
+  {
+    "city": "Sjenica",
+    "admin": "Sjenica",
+    "sort": "14060"
+  },
+  {
+    "city": "Bela Crkva",
+    "admin": "Bela Crkva",
+    "sort": "10675"
+  },
+  {
+    "city": "Ada",
+    "admin": "Ada",
+    "sort": "10547"
+  },
+  {
+    "city": "Vrnjačka Banja",
+    "admin": "Vrnjačka Banja",
+    "sort": "10065"
+  },
+  {
+    "city": "Kanjiža",
+    "admin": "Kanjiža",
+    "sort": "9871"
+  },
+  {
+    "city": "Žabalj",
+    "admin": "Žabalj",
+    "sort": "9161"
+  },
+  {
+    "city": "Odžaci",
+    "admin": "Odžaci",
+    "sort": "9021"
+  },
+  {
+    "city": "Sremski Karlovci",
+    "admin": "Sremski Karlovci",
+    "sort": "8750"
+  },
+  {
+    "city": "Beočin",
+    "admin": "Beočin",
+    "sort": "8058"
+  },
+  {
+    "city": "Sokobanja",
+    "admin": "Sokobanja",
+    "sort": "7982"
+  },
+  {
+    "city": "Lapovo",
+    "admin": "Lapovo",
+    "sort": "7143"
+  },
+  {
+    "city": "Kovačica",
+    "admin": "Kovačica",
+    "sort": "6764"
+  },
+  {
+    "city": "Bogatić",
+    "admin": "Bogatić",
+    "sort": "6488"
+  },
+  {
+    "city": "Bački Petrovac",
+    "admin": "Bački Petrovac",
+    "sort": "6155"
+  },
+  {
+    "city": "Bač",
+    "admin": "Bač",
+    "sort": "6087"
+  },
+  {
+    "city": "Irig",
+    "admin": "Irig",
+    "sort": "4848"
+  },
+  {
+    "city": "Čoka",
+    "admin": "Čoka",
+    "sort": "4707"
+  },
+  {
+    "city": "Tutin",
+    "admin": "Tutin",
+    "sort": ""
+  },
+  {
+    "city": "Alibunar",
+    "admin": "Alibunar",
+    "sort": "3431"
+  },
+  {
+    "city": "Aranđelovac",
+    "admin": "Aranđelovac",
+    "sort": ""
+  },
+  {
+    "city": "Ivanjica",
+    "admin": "Ivanjica",
+    "sort": ""
+  },
+  {
+    "city": "Priboj",
+    "admin": "Priboj",
+    "sort": ""
+  },
+  {
+    "city": "Jagodina",
+    "admin": "Jagodina",
+    "sort": ""
+  },
+  {
+    "city": "Šabac",
+    "admin": "Šabac",
+    "sort": ""
+  },
+  {
+    "city": "Smederevo",
+    "admin": "Smederevo",
+    "sort": ""
+  },
+  {
+    "city": "Arilje",
+    "admin": "Arilje",
+    "sort": ""
+  },
+  {
+    "city": "Vladičin Han",
+    "admin": "Vladičin Han",
+    "sort": ""
+  },
+  {
+    "city": "Nova Varoš",
+    "admin": "Nova Varoš",
+    "sort": ""
+  },
+  {
+    "city": "Kuršumlija",
+    "admin": "Kuršumlija",
+    "sort": ""
+  },
+  {
+    "city": "Aleksandrovac",
+    "admin": "Aleksandrovac",
+    "sort": ""
+  },
+  {
+    "city": "Gornji Milanovac",
+    "admin": "Gornji Milanovac",
+    "sort": ""
+  },
+  {
+    "city": "Svrljig",
+    "admin": "Svrljig",
+    "sort": ""
+  },
+  {
+    "city": "Raška",
+    "admin": "Raška",
+    "sort": ""
+  },
+  {
+    "city": "Pirot",
+    "admin": "Pirot",
+    "sort": ""
+  },
+  {
+    "city": "Prokuplje",
+    "admin": "Prokuplje",
+    "sort": ""
+  },
+  {
+    "city": "Brus",
+    "admin": "Brus",
+    "sort": ""
+  },
+  {
+    "city": "Surdulica",
+    "admin": "Surdulica",
+    "sort": ""
+  },
+  {
+    "city": "Ub",
+    "admin": "Ub",
+    "sort": ""
+  },
+  {
+    "city": "Lučani",
+    "admin": "Lučani",
+    "sort": ""
+  },
+  {
+    "city": "Požega",
+    "admin": "Požega",
+    "sort": ""
+  },
+  {
+    "city": "Smederevska Palanka",
+    "admin": "Smederevska Palanka",
+    "sort": ""
+  },
+  {
+    "city": "Babušnica",
+    "admin": "Babušnica",
+    "sort": ""
+  },
+  {
+    "city": "Vlasotince",
+    "admin": "Vlasotince",
+    "sort": ""
+  },
+  {
+    "city": "Ljubovija",
+    "admin": "Ljubovija",
+    "sort": ""
+  },
+  {
+    "city": "Lajkovac",
+    "admin": "Lajkovac",
+    "sort": ""
+  },
+  {
+    "city": "Kosjerić",
+    "admin": "Kosjerić",
+    "sort": ""
+  },
+  {
+    "city": "Mionica",
+    "admin": "Mionica",
+    "sort": ""
+  },
+  {
+    "city": "Bela Palanka",
+    "admin": "Bela Palanka",
+    "sort": ""
+  },
+  {
+    "city": "Sremska Mitrovica",
+    "admin": "Sremska Mitrovica",
+    "sort": ""
+  },
+  {
+    "city": "Požarevac",
+    "admin": "Požarevac",
+    "sort": ""
+  },
+  {
+    "city": "Krupanj",
+    "admin": "Krupanj",
+    "sort": ""
+  },
+  {
+    "city": "Knjaževac",
+    "admin": "Knjaževac",
+    "sort": ""
+  },
+  {
+    "city": "Zaječar",
+    "admin": "Zaječar",
+    "sort": ""
+  },
+  {
+    "city": "Paraćin",
+    "admin": "Paraćin",
+    "sort": ""
+  },
+  {
+    "city": "Lebane",
+    "admin": "Lebane",
+    "sort": ""
+  },
+  {
+    "city": "Rača",
+    "admin": "Rača",
+    "sort": ""
+  },
+  {
+    "city": "Aleksinac",
+    "admin": "Aleksinac",
+    "sort": ""
+  },
+  {
+    "city": "Osečina",
+    "admin": "Osečina",
+    "sort": ""
+  },
+  {
+    "city": "Despotovac",
+    "admin": "Despotovac",
+    "sort": ""
+  },
+  {
+    "city": "Čajetina",
+    "admin": "Čajetina",
+    "sort": ""
+  },
+  {
+    "city": "Ljig",
+    "admin": "Ljig",
+    "sort": ""
+  },
+  {
+    "city": "Inđija",
+    "admin": "Inđija",
+    "sort": ""
+  },
+  {
+    "city": "Varvarin",
+    "admin": "Varvarin",
+    "sort": ""
+  },
+  {
+    "city": "Crna Trava",
+    "admin": "Crna Trava",
+    "sort": "434"
+  },
+  {
+    "city": "Mali Zvornik",
+    "admin": "Mali Zvornik",
+    "sort": ""
+  },
+  {
+    "city": "Blace",
+    "admin": "Blace",
+    "sort": ""
+  },
+  {
+    "city": "Ruma",
+    "admin": "Ruma",
+    "sort": ""
+  },
+  {
+    "city": "Doljevac",
+    "admin": "Doljevac",
+    "sort": ""
+  },
+  {
+    "city": "Batočina",
+    "admin": "Batočina",
+    "sort": ""
+  },
+  {
+    "city": "Negotin",
+    "admin": "Negotin",
+    "sort": ""
+  },
+  {
+    "city": "Veliko Gradište",
+    "admin": "Veliko Gradište",
+    "sort": ""
+  },
+  {
+    "city": "Dimitrovgrad",
+    "admin": "Dimitrovgrad",
+    "sort": ""
+  },
+  {
+    "city": "Velika Plana",
+    "admin": "Velika Plana",
+    "sort": ""
+  },
+  {
+    "city": "Petrovac na Mlavi",
+    "admin": "Petrovac na Mlavi",
+    "sort": ""
+  },
+  {
+    "city": "Svilajnac",
+    "admin": "Svilajnac",
+    "sort": ""
+  },
+  {
+    "city": "Boljevac",
+    "admin": "Boljevac",
+    "sort": ""
+  },
+  {
+    "city": "Kladovo",
+    "admin": "Kladovo",
+    "sort": ""
+  },
+  {
+    "city": "Stara Pazova",
+    "admin": "Stara Pazova",
+    "sort": ""
+  },
+  {
+    "city": "Šid",
+    "admin": "Šid",
+    "sort": ""
+  },
+  {
+    "city": "Bojnik",
+    "admin": "Bojnik",
+    "sort": ""
+  },
+  {
+    "city": "Topola",
+    "admin": "Topola",
+    "sort": ""
+  },
+  {
+    "city": "Merošina",
+    "admin": "Merošina",
+    "sort": ""
+  },
+  {
+    "city": "Temerin",
+    "admin": "Temerin",
+    "sort": ""
+  },
+  {
+    "city": "Kula",
+    "admin": "Kula",
+    "sort": ""
+  },
+  {
+    "city": "Apatin",
+    "admin": "Apatin",
+    "sort": ""
+  },
+  {
+    "city": "Žitorađa",
+    "admin": "Žitorađa",
+    "sort": ""
+  },
+  {
+    "city": "Kovin",
+    "admin": "Kovin",
+    "sort": ""
+  },
+  {
+    "city": "Koceljeva",
+    "admin": "Koceljeva",
+    "sort": ""
+  },
+  {
+    "city": "Gadžin Han",
+    "admin": "Gadžin Han",
+    "sort": ""
+  },
+  {
+    "city": "Ćićevac",
+    "admin": "Ćićevac",
+    "sort": ""
+  },
+  {
+    "city": "Pećinci",
+    "admin": "Pećinci",
+    "sort": ""
+  },
+  {
+    "city": "Bosilegrad",
+    "admin": "Bosilegrad",
+    "sort": ""
+  },
+  {
+    "city": "Vladimirci",
+    "admin": "Vladimirci",
+    "sort": ""
+  },
+  {
+    "city": "Ražanj",
+    "admin": "Ražanj",
+    "sort": ""
+  },
+  {
+    "city": "Kučevo",
+    "admin": "Kučevo",
+    "sort": ""
+  },
+  {
+    "city": "Plandište",
+    "admin": "Plandište",
+    "sort": ""
+  },
+  {
+    "city": "Medveđa",
+    "admin": "Medveđa",
+    "sort": ""
+  },
+  {
+    "city": "Bečej",
+    "admin": "Bečej",
+    "sort": ""
+  },
+  {
+    "city": "Opovo",
+    "admin": "Opovo",
+    "sort": ""
+  },
+  {
+    "city": "Rekovac",
+    "admin": "Rekovac",
+    "sort": ""
+  },
+  {
+    "city": "Knić",
+    "admin": "Knić",
+    "sort": ""
+  },
+  {
+    "city": "Titel",
+    "admin": "Titel",
+    "sort": ""
+  },
+  {
+    "city": "Sečanj",
+    "admin": "Sečanj",
+    "sort": ""
+  },
+  {
+    "city": "Žabari",
+    "admin": "Žabari",
+    "sort": ""
+  },
+  {
+    "city": "Malo Crniće",
+    "admin": "Malo Crniće",
+    "sort": ""
+  },
+  {
+    "city": "Srbobran",
+    "admin": "Srbobran",
+    "sort": ""
+  },
+  {
+    "city": "Mali Iđoš",
+    "admin": "Mali Iđoš",
+    "sort": ""
+  },
+  {
+    "city": "Žitište",
+    "admin": "Žitište",
+    "sort": ""
+  },
+  {
+    "city": "Novi Kneževac",
+    "admin": "Novi Kneževac",
+    "sort": ""
+  },
+  {
+    "city": "Novi Bečej",
+    "admin": "Novi Bečej",
+    "sort": ""
+  },
+  {
+    "city": "Golubac",
+    "admin": "Golubac",
+    "sort": ""
+  },
+  {
+    "city": "Nova Crnja",
+    "admin": "Nova Crnja",
+    "sort": ""
+  },
+  {
+    "city": "Majdanpek",
+    "admin": "Majdanpek",
+    "sort": ""
+  },
+  {
+    "city": "Trgovište",
+    "admin": "Trgovište",
+    "sort": ""
+  },
+  {
+    "city": "Žagubica",
+    "admin": "Žagubica",
+    "sort": ""
+  },
+  {
+    "city": "Preševo",
+    "admin": "Preševo",
+    "sort": ""
+  },
+  {
+    "city": "Bujanovac",
+    "admin": "Bujanovac",
+    "sort": ""
+  },
+  {
+    "city": "Batajnica",
+    "admin": "Beograd",
+    "sort": "48600"
+  },
+  {
+    "city": "Melenci",
+    "admin": "Srednje Banatski Okrug",
+    "sort": "6737"
+  },
+  {
+    "city": "Horgoš",
+    "admin": "Severno Banatski Okrug",
+    "sort": "6325"
+  },
+  {
+    "city": "Banatski Karlovac",
+    "admin": "Južno Banatski Okrug",
+    "sort": "5820"
+  },
+  {
+    "city": "Debeljača",
+    "admin": "Južno Banatski Okrug",
+    "sort": "5325"
+  },
+  {
+    "city": "Stara Moravica",
+    "admin": "Severno Bački Okrug",
+    "sort": "5051"
+  }
+]

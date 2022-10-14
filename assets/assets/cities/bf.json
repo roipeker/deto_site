@@ -1,0 +1,202 @@
+[
+  {
+    "city": "Ouagadougou",
+    "admin": "Centre",
+    "sort": "2453496"
+  },
+  {
+    "city": "Bobo-Dioulasso",
+    "admin": "Hauts-Bassins",
+    "sort": "903887"
+  },
+  {
+    "city": "Koudougou",
+    "admin": "Centre-Ouest",
+    "sort": "160207"
+  },
+  {
+    "city": "Ouahigouya",
+    "admin": "Nord",
+    "sort": "124580"
+  },
+  {
+    "city": "Kaya",
+    "admin": "Centre-Nord",
+    "sort": "122949"
+  },
+  {
+    "city": "Banfora",
+    "admin": "Cascades",
+    "sort": "117200"
+  },
+  {
+    "city": "Fada Ngourma",
+    "admin": "Est",
+    "sort": "73200"
+  },
+  {
+    "city": "Dédougou",
+    "admin": "Boucle du Mouhoun",
+    "sort": "63617"
+  },
+  {
+    "city": "Tenkodogo",
+    "admin": "Centre-Est",
+    "sort": "58600"
+  },
+  {
+    "city": "Dori",
+    "admin": "Sahel",
+    "sort": "46521"
+  },
+  {
+    "city": "Manga",
+    "admin": "Centre-Sud",
+    "sort": "28612"
+  },
+  {
+    "city": "Ziniaré",
+    "admin": "Plateau-Central",
+    "sort": "12703"
+  },
+  {
+    "city": "Gaoua",
+    "admin": "Sud-Ouest",
+    "sort": ""
+  },
+  {
+    "city": "Pouytenga",
+    "admin": "Centre-Est",
+    "sort": "99950"
+  },
+  {
+    "city": "Houndé",
+    "admin": "Hauts-Bassins",
+    "sort": "87154"
+  },
+  {
+    "city": "Djibo",
+    "admin": "Sahel",
+    "sort": "61456"
+  },
+  {
+    "city": "Kongoussi",
+    "admin": "Centre-Nord",
+    "sort": "53641"
+  },
+  {
+    "city": "Titao",
+    "admin": "Nord",
+    "sort": "48242"
+  },
+  {
+    "city": "Koupéla",
+    "admin": "Centre-Est",
+    "sort": "45900"
+  },
+  {
+    "city": "Garango",
+    "admin": "Centre-Est",
+    "sort": "45150"
+  },
+  {
+    "city": "Gaoua",
+    "admin": "Sud-Ouest",
+    "sort": "45189"
+  },
+  {
+    "city": "Gourcy",
+    "admin": "Nord",
+    "sort": "40144"
+  },
+  {
+    "city": "Yako",
+    "admin": "Nord",
+    "sort": "38689"
+  },
+  {
+    "city": "Zorgo",
+    "admin": "Plateau-Central",
+    "sort": "35406"
+  },
+  {
+    "city": "Réo",
+    "admin": "Centre-Ouest",
+    "sort": "33893"
+  },
+  {
+    "city": "Léo",
+    "admin": "Centre-Ouest",
+    "sort": "33717"
+  },
+  {
+    "city": "Niangoloko",
+    "admin": "Cascades",
+    "sort": "33500"
+  },
+  {
+    "city": "Kombissiri",
+    "admin": "Centre-Sud",
+    "sort": "30137"
+  },
+  {
+    "city": "Nouna",
+    "admin": "Boucle du Mouhoun",
+    "sort": "29048"
+  },
+  {
+    "city": "Diapaga",
+    "admin": "Est",
+    "sort": "26013"
+  },
+  {
+    "city": "Orodara",
+    "admin": "Hauts-Bassins",
+    "sort": "18632"
+  },
+  {
+    "city": "Pô",
+    "admin": "Centre-Sud",
+    "sort": "17924"
+  },
+  {
+    "city": "Tougan",
+    "admin": "Boucle du Mouhoun",
+    "sort": "17590"
+  },
+  {
+    "city": "Boulsa",
+    "admin": "Centre-Nord",
+    "sort": "17489"
+  },
+  {
+    "city": "Diébougou",
+    "admin": "Sud-Ouest",
+    "sort": "12732"
+  },
+  {
+    "city": "Salanso",
+    "admin": "Boucle du Mouhoun",
+    "sort": "10385"
+  },
+  {
+    "city": "Bogandé",
+    "admin": "Est",
+    "sort": "9854"
+  },
+  {
+    "city": "Gorom-Gorom",
+    "admin": "Sahel",
+    "sort": "6691"
+  },
+  {
+    "city": "Sapouy",
+    "admin": "Centre-Ouest",
+    "sort": "3837"
+  },
+  {
+    "city": "Sebba",
+    "admin": "Sahel",
+    "sort": "3273"
+  }
+]

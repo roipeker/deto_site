@@ -1,0 +1,137 @@
+[
+  {
+    "city": "Ulaanbaatar",
+    "admin": "Ulaanbaatar",
+    "sort": "1396288"
+  },
+  {
+    "city": "Mörön",
+    "admin": "Hövsgöl",
+    "sort": "134530"
+  },
+  {
+    "city": "Erdenet",
+    "admin": "Orhon",
+    "sort": "101260"
+  },
+  {
+    "city": "Darhan",
+    "admin": "Darhan-Uul",
+    "sort": "74738"
+  },
+  {
+    "city": "Choybalsan",
+    "admin": "Dornod",
+    "sort": "38150"
+  },
+  {
+    "city": "Ölgiy",
+    "admin": "Bayan-Ölgiy",
+    "sort": "28496"
+  },
+  {
+    "city": "Bayanhongor",
+    "admin": "Bayanhongor",
+    "sort": "26252"
+  },
+  {
+    "city": "Ulaangom",
+    "admin": "Uvs",
+    "sort": "26319"
+  },
+  {
+    "city": "Hovd",
+    "admin": "Hovd",
+    "sort": "26023"
+  },
+  {
+    "city": "Sühbaatar",
+    "admin": "Selenge",
+    "sort": "24235"
+  },
+  {
+    "city": "Uliastay",
+    "admin": "Dzavhan",
+    "sort": "22006"
+  },
+  {
+    "city": "Arvayheer",
+    "admin": "Övörhangay",
+    "sort": "20000"
+  },
+  {
+    "city": "Saynshand",
+    "admin": "Dornogovĭ",
+    "sort": "19891"
+  },
+  {
+    "city": "Tsetserleg",
+    "admin": "Arhangay",
+    "sort": "18519"
+  },
+  {
+    "city": "Altay",
+    "admin": "Govĭ-Altay",
+    "sort": "15800"
+  },
+  {
+    "city": "Dzuunmod",
+    "admin": "Töv",
+    "sort": "14660"
+  },
+  {
+    "city": "Öndörhaan",
+    "admin": "Hentiy",
+    "sort": "14723"
+  },
+  {
+    "city": "Baruun-Urt",
+    "admin": "Sühbaatar",
+    "sort": "14297"
+  },
+  {
+    "city": "Bulgan",
+    "admin": "Bulgan",
+    "sort": "12323"
+  },
+  {
+    "city": "Mandalgovĭ",
+    "admin": "Dundgovĭ",
+    "sort": "2984"
+  },
+  {
+    "city": "Dalandzadgad",
+    "admin": "Ömnögovĭ",
+    "sort": ""
+  },
+  {
+    "city": "Choyr",
+    "admin": "Govĭsümber",
+    "sort": ""
+  },
+  {
+    "city": "Darhan",
+    "admin": "Selenge",
+    "sort": "74738"
+  },
+  {
+    "city": "Dalanzadgad",
+    "admin": "Ömnögovĭ",
+    "sort": "19396"
+  },
+  {
+    "city": "Dzüünharaa",
+    "admin": "Selenge",
+    "sort": "18830"
+  },
+  {
+    "city": "Ulaan-Uul",
+    "admin": "Dornogovĭ",
+    "sort": "3726"
+  },
+  {
+    "city": "Hödrögö",
+    "admin": "Dzavhan",
+    "sort": "10"
+  }
+]

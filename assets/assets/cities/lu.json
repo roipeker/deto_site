@@ -1,0 +1,117 @@
+[
+  {
+    "city": "Luxembourg",
+    "admin": "Luxembourg",
+    "sort": "128512"
+  },
+  {
+    "city": "Esch-sur-Alzette",
+    "admin": "Esch-sur-Alzette",
+    "sort": "36228"
+  },
+  {
+    "city": "Diekirch",
+    "admin": "Diekirch",
+    "sort": "7047"
+  },
+  {
+    "city": "Echternach",
+    "admin": "Echternach",
+    "sort": "5650"
+  },
+  {
+    "city": "Wiltz",
+    "admin": "Wiltz",
+    "sort": "5427"
+  },
+  {
+    "city": "Grevenmacher",
+    "admin": "Grevenmacher",
+    "sort": "4981"
+  },
+  {
+    "city": "Remich",
+    "admin": "Remich",
+    "sort": "3787"
+  },
+  {
+    "city": "Vianden",
+    "admin": "Vianden",
+    "sort": "2161"
+  },
+  {
+    "city": "Capellen",
+    "admin": "Capellen",
+    "sort": "1986"
+  },
+  {
+    "city": "Clervaux",
+    "admin": "Clervaux",
+    "sort": "1468"
+  },
+  {
+    "city": "Mersch",
+    "admin": "Mersch",
+    "sort": ""
+  },
+  {
+    "city": "Redange-sur-Attert",
+    "admin": "Redange",
+    "sort": ""
+  },
+  {
+    "city": "Dudelange",
+    "admin": "Esch-sur-Alzette",
+    "sort": "21513"
+  },
+  {
+    "city": "Differdange",
+    "admin": "Esch-sur-Alzette",
+    "sort": "15455"
+  },
+  {
+    "city": "Rodange",
+    "admin": "Esch-sur-Alzette",
+    "sort": "7485"
+  },
+  {
+    "city": "Niedercorn",
+    "admin": "Esch-sur-Alzette",
+    "sort": "7354"
+  },
+  {
+    "city": "Belvaux",
+    "admin": "Esch-sur-Alzette",
+    "sort": "7826"
+  },
+  {
+    "city": "Soleuvre",
+    "admin": "Esch-sur-Alzette",
+    "sort": "6248"
+  },
+  {
+    "city": "Rumelange",
+    "admin": "Esch-sur-Alzette",
+    "sort": "5613"
+  },
+  {
+    "city": "Kayl",
+    "admin": "Esch-sur-Alzette",
+    "sort": "5658"
+  },
+  {
+    "city": "Steinfort",
+    "admin": "Capellen",
+    "sort": "5617"
+  },
+  {
+    "city": "Bascharage",
+    "admin": "Capellen",
+    "sort": "5715"
+  },
+  {
+    "city": "Mondorf-les-Bains",
+    "admin": "Remich",
+    "sort": "5404"
+  }
+]

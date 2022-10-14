@@ -1,0 +1,47 @@
+[
+  {
+    "city": "Dubai",
+    "admin": "Dubayy",
+    "sort": "2502715"
+  },
+  {
+    "city": "Abu Dhabi",
+    "admin": "Abū Z̧aby",
+    "sort": "1483000"
+  },
+  {
+    "city": "Sharjah",
+    "admin": "Ash Shāriqah",
+    "sort": "1247749"
+  },
+  {
+    "city": "Al ‘Ayn",
+    "admin": "Abū Z̧aby",
+    "sort": "766936"
+  },
+  {
+    "city": "‘Ajmān",
+    "admin": "‘Ajmān",
+    "sort": "490035"
+  },
+  {
+    "city": "Ra’s al Khaymah",
+    "admin": "Ra’s al Khaymah",
+    "sort": "115949"
+  },
+  {
+    "city": "Al Fujayrah",
+    "admin": "Al Fujayrah",
+    "sort": "93673"
+  },
+  {
+    "city": "Umm al Qaywayn",
+    "admin": "Umm al Qaywayn",
+    "sort": "44411"
+  },
+  {
+    "city": "Madīnat Zāyid",
+    "admin": "Abū Z̧aby",
+    "sort": "29095"
+  }
+]

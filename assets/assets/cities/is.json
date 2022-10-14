@@ -1,0 +1,67 @@
+[
+  {
+    "city": "Reykjavík",
+    "admin": "",
+    "sort": "128793"
+  },
+  {
+    "city": "Kópavogur",
+    "admin": "",
+    "sort": "34140"
+  },
+  {
+    "city": "Hafnarfjörður",
+    "admin": "",
+    "sort": "28703"
+  },
+  {
+    "city": "Akureyri",
+    "admin": "Norðurland Eystra",
+    "sort": "18925"
+  },
+  {
+    "city": "Keflavík",
+    "admin": "Suðurnes",
+    "sort": "16463"
+  },
+  {
+    "city": "Garðabær",
+    "admin": "",
+    "sort": "16299"
+  },
+  {
+    "city": "Akranes",
+    "admin": "Vesturland",
+    "sort": "7411"
+  },
+  {
+    "city": "Selfoss",
+    "admin": "Suðurland",
+    "sort": "6878"
+  },
+  {
+    "city": "Ísafjörður",
+    "admin": "Vestfirðir",
+    "sort": "2620"
+  },
+  {
+    "city": "Höfn",
+    "admin": "Austurland",
+    "sort": "2389"
+  },
+  {
+    "city": "Egilsstaðir",
+    "admin": "Austurland",
+    "sort": "2332"
+  },
+  {
+    "city": "Borgarnes",
+    "admin": "Vesturland",
+    "sort": "1962"
+  },
+  {
+    "city": "Sauðárkrókur",
+    "admin": "Norðurland Vestra",
+    "sort": "2682"
+  }
+]

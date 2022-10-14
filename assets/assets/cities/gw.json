@@ -1,0 +1,57 @@
+[
+  {
+    "city": "Bissau",
+    "admin": "Bissau",
+    "sort": "395954"
+  },
+  {
+    "city": "Farim",
+    "admin": "Oio",
+    "sort": "46268"
+  },
+  {
+    "city": "Quinhámel",
+    "admin": "Biombo",
+    "sort": "42659"
+  },
+  {
+    "city": "Catió",
+    "admin": "Tombali",
+    "sort": "26999"
+  },
+  {
+    "city": "Bafatá",
+    "admin": "Bafatá",
+    "sort": "22501"
+  },
+  {
+    "city": "Gabú",
+    "admin": "Gabú",
+    "sort": "14430"
+  },
+  {
+    "city": "Cacheu",
+    "admin": "Cacheu",
+    "sort": "5674"
+  },
+  {
+    "city": "Bolama",
+    "admin": "Bolama/Bijagós",
+    "sort": "4819"
+  },
+  {
+    "city": "Buba",
+    "admin": "Quinara",
+    "sort": ""
+  },
+  {
+    "city": "Mansôa",
+    "admin": "Oio",
+    "sort": "7376"
+  },
+  {
+    "city": "Fulacunda",
+    "admin": "Quinara",
+    "sort": "1311"
+  }
+]

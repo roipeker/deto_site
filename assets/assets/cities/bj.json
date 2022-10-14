@@ -1,0 +1,67 @@
+[
+  {
+    "city": "Cotonou",
+    "admin": "Littoral",
+    "sort": "762000"
+  },
+  {
+    "city": "Porto-Novo",
+    "admin": "Ouémé",
+    "sort": "300000"
+  },
+  {
+    "city": "Djougou",
+    "admin": "Donga",
+    "sort": "202810"
+  },
+  {
+    "city": "Parakou",
+    "admin": "Borgou",
+    "sort": "188853"
+  },
+  {
+    "city": "Kandi",
+    "admin": "Alibori",
+    "sort": "109701"
+  },
+  {
+    "city": "Lokossa",
+    "admin": "Mono",
+    "sort": "86971"
+  },
+  {
+    "city": "Ouidah",
+    "admin": "Atlantique",
+    "sort": "83503"
+  },
+  {
+    "city": "Abomey",
+    "admin": "Zou",
+    "sort": "82154"
+  },
+  {
+    "city": "Natitingou",
+    "admin": "Atacora",
+    "sort": "80892"
+  },
+  {
+    "city": "Dogbo",
+    "admin": "Couffo",
+    "sort": ""
+  },
+  {
+    "city": "Sakété",
+    "admin": "Plateau",
+    "sort": ""
+  },
+  {
+    "city": "Savalou",
+    "admin": "Collines",
+    "sort": ""
+  },
+  {
+    "city": "Savé",
+    "admin": "Collines",
+    "sort": "31444"
+  }
+]

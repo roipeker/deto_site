@@ -1,0 +1,297 @@
+[
+  {
+    "city": "Tashkent",
+    "admin": "Toshkent",
+    "sort": "2497900"
+  },
+  {
+    "city": "Namangan",
+    "admin": "Namangan",
+    "sort": "626120"
+  },
+  {
+    "city": "Samarkand",
+    "admin": "Samarqand",
+    "sort": "546303"
+  },
+  {
+    "city": "Andijon",
+    "admin": "Andijon",
+    "sort": "441700"
+  },
+  {
+    "city": "Qoqon",
+    "admin": "Farg‘ona",
+    "sort": "350000"
+  },
+  {
+    "city": "Nukus",
+    "admin": "Qoraqalpog‘iston",
+    "sort": "319583"
+  },
+  {
+    "city": "Farg‘ona",
+    "admin": "Farg‘ona",
+    "sort": "288850"
+  },
+  {
+    "city": "Bukhara",
+    "admin": "Buxoro",
+    "sort": "280187"
+  },
+  {
+    "city": "Qarshi",
+    "admin": "Qashqadaryo",
+    "sort": "274891"
+  },
+  {
+    "city": "Denov",
+    "admin": "Surxondaryo",
+    "sort": "217274"
+  },
+  {
+    "city": "Marg‘ilon",
+    "admin": "Farg‘ona",
+    "sort": "215400"
+  },
+  {
+    "city": "Iskandar",
+    "admin": "Toshkent",
+    "sort": "195633"
+  },
+  {
+    "city": "Jizzax",
+    "admin": "Jizzax",
+    "sort": "163200"
+  },
+  {
+    "city": "Chirchiq",
+    "admin": "Toshkent",
+    "sort": "159400"
+  },
+  {
+    "city": "Termiz",
+    "admin": "Surxondaryo",
+    "sort": "136200"
+  },
+  {
+    "city": "Urganch",
+    "admin": "Xorazm",
+    "sort": "135100"
+  },
+  {
+    "city": "Navoiy",
+    "admin": "Navoiy",
+    "sort": "134100"
+  },
+  {
+    "city": "Angren",
+    "admin": "Toshkent",
+    "sort": "126962"
+  },
+  {
+    "city": "Olmaliq",
+    "admin": "Toshkent",
+    "sort": "112078"
+  },
+  {
+    "city": "Kogon Shahri",
+    "admin": "Buxoro",
+    "sort": "107566"
+  },
+  {
+    "city": "Shahrisabz",
+    "admin": "Qashqadaryo",
+    "sort": "100300"
+  },
+  {
+    "city": "Guliston",
+    "admin": "Sirdaryo",
+    "sort": "55600"
+  },
+  {
+    "city": "Urgut Shahri",
+    "admin": "Samarqand",
+    "sort": "99675"
+  },
+  {
+    "city": "Kattagan",
+    "admin": "Navoiy",
+    "sort": "86745"
+  },
+  {
+    "city": "Bekobod",
+    "admin": "Toshkent",
+    "sort": "82082"
+  },
+  {
+    "city": "Qo‘ng‘irot Shahri",
+    "admin": "Qoraqalpog‘iston",
+    "sort": "70100"
+  },
+  {
+    "city": "Xo‘jayli Shahri",
+    "admin": "Qoraqalpog‘iston",
+    "sort": "60401"
+  },
+  {
+    "city": "Kattaqo’rg’on Shahri",
+    "admin": "Samarqand",
+    "sort": "58950"
+  },
+  {
+    "city": "Qŭnghirot",
+    "admin": "Qoraqalpog‘iston",
+    "sort": "57758"
+  },
+  {
+    "city": "Xiva",
+    "admin": "Xorazm",
+    "sort": "55568"
+  },
+  {
+    "city": "Zarafshon Shahri",
+    "admin": "Navoiy",
+    "sort": "54300"
+  },
+  {
+    "city": "Tŭrtkŭl",
+    "admin": "Qoraqalpog‘iston",
+    "sort": "50800"
+  },
+  {
+    "city": "Beruniy",
+    "admin": "Qoraqalpog‘iston",
+    "sort": "50700"
+  },
+  {
+    "city": "Chimboy Shahri",
+    "admin": "Qoraqalpog‘iston",
+    "sort": "36917"
+  },
+  {
+    "city": "Chortoq",
+    "admin": "Namangan",
+    "sort": "35615"
+  },
+  {
+    "city": "Xonobod",
+    "admin": "Andijon",
+    "sort": "35181"
+  },
+  {
+    "city": "Payshamba Shahri",
+    "admin": "Samarqand",
+    "sort": "32568"
+  },
+  {
+    "city": "Kosonsoy",
+    "admin": "Namangan",
+    "sort": "31217"
+  },
+  {
+    "city": "G’ijduvon Shahri",
+    "admin": "Buxoro",
+    "sort": "30486"
+  },
+  {
+    "city": "Yangiyer",
+    "admin": "Sirdaryo",
+    "sort": "28593"
+  },
+  {
+    "city": "Bo‘ka",
+    "admin": "Toshkent",
+    "sort": "28000"
+  },
+  {
+    "city": "Rishton",
+    "admin": "Farg‘ona",
+    "sort": "23706"
+  },
+  {
+    "city": "Uchquduq Shahri",
+    "admin": "Navoiy",
+    "sort": "24200"
+  },
+  {
+    "city": "Manghit",
+    "admin": "Qoraqalpog‘iston",
+    "sort": "22949"
+  },
+  {
+    "city": "Nurota",
+    "admin": "Navoiy",
+    "sort": "21001"
+  },
+  {
+    "city": "Qorasuv",
+    "admin": "Andijon",
+    "sort": "19454"
+  },
+  {
+    "city": "Mŭynoq",
+    "admin": "Qoraqalpog‘iston",
+    "sort": "18196"
+  },
+  {
+    "city": "G‘uzor",
+    "admin": "Qashqadaryo",
+    "sort": "17253"
+  },
+  {
+    "city": "Boysun",
+    "admin": "Surxondaryo",
+    "sort": "16732"
+  },
+  {
+    "city": "Yaypan",
+    "admin": "Farg‘ona",
+    "sort": "15984"
+  },
+  {
+    "city": "Juma Shahri",
+    "admin": "Samarqand",
+    "sort": "15571"
+  },
+  {
+    "city": "Chiroqchi",
+    "admin": "Qashqadaryo",
+    "sort": "13220"
+  },
+  {
+    "city": "Vobkent Shahri",
+    "admin": "Buxoro",
+    "sort": "12351"
+  },
+  {
+    "city": "Yangirabot",
+    "admin": "Navoiy",
+    "sort": "11364"
+  },
+  {
+    "city": "Tinchlik",
+    "admin": "Farg‘ona",
+    "sort": "10644"
+  },
+  {
+    "city": "Sharg‘un",
+    "admin": "Surxondaryo",
+    "sort": "10716"
+  },
+  {
+    "city": "Shumanay",
+    "admin": "Qoraqalpog‘iston",
+    "sort": "10513"
+  },
+  {
+    "city": "Qiziltepa",
+    "admin": "Navoiy",
+    "sort": "9884"
+  },
+  {
+    "city": "Bo‘ston",
+    "admin": "Qoraqalpog‘iston",
+    "sort": "8488"
+  }
+]

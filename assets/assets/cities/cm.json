@@ -1,0 +1,182 @@
+[
+  {
+    "city": "Yaoundé",
+    "admin": "Centre",
+    "sort": "2440462"
+  },
+  {
+    "city": "Douala",
+    "admin": "Littoral",
+    "sort": "2446945"
+  },
+  {
+    "city": "Maroua",
+    "admin": "Extrême-Nord",
+    "sort": "319941"
+  },
+  {
+    "city": "Bafoussam",
+    "admin": "Ouest",
+    "sort": "290768"
+  },
+  {
+    "city": "Bamenda",
+    "admin": "North-West",
+    "sort": "269530"
+  },
+  {
+    "city": "Garoua",
+    "admin": "Nord",
+    "sort": "235996"
+  },
+  {
+    "city": "Limbe",
+    "admin": "South-West",
+    "sort": "212474"
+  },
+  {
+    "city": "Ngaoundéré",
+    "admin": "Adamaoua",
+    "sort": "189800"
+  },
+  {
+    "city": "Kumba",
+    "admin": "South-West",
+    "sort": "144268"
+  },
+  {
+    "city": "Buea",
+    "admin": "South-West",
+    "sort": "131325"
+  },
+  {
+    "city": "Kumbo",
+    "admin": "North-West",
+    "sort": "125486"
+  },
+  {
+    "city": "Edéa",
+    "admin": "Littoral",
+    "sort": "122300"
+  },
+  {
+    "city": "Nkongsamba",
+    "admin": "Littoral",
+    "sort": "117063"
+  },
+  {
+    "city": "Kousséri",
+    "admin": "Extrême-Nord",
+    "sort": "101246"
+  },
+  {
+    "city": "Bertoua",
+    "admin": "Est",
+    "sort": "88462"
+  },
+  {
+    "city": "Ébolowa",
+    "admin": "Sud",
+    "sort": "87875"
+  },
+  {
+    "city": "Bogo",
+    "admin": "Extrême-Nord",
+    "sort": "95230"
+  },
+  {
+    "city": "Bafang",
+    "admin": "Ouest",
+    "sort": "93145"
+  },
+  {
+    "city": "Foumban",
+    "admin": "Ouest",
+    "sort": "92673"
+  },
+  {
+    "city": "Guider",
+    "admin": "Nord",
+    "sort": "84647"
+  },
+  {
+    "city": "Mbalmayo",
+    "admin": "Centre",
+    "sort": "80206"
+  },
+  {
+    "city": "Meïganga",
+    "admin": "Adamaoua",
+    "sort": "80100"
+  },
+  {
+    "city": "Dschang",
+    "admin": "Ouest",
+    "sort": "76524"
+  },
+  {
+    "city": "Tibati",
+    "admin": "Adamaoua",
+    "sort": "72081"
+  },
+  {
+    "city": "Bafia",
+    "admin": "Centre",
+    "sort": "69270"
+  },
+  {
+    "city": "Wum",
+    "admin": "North-West",
+    "sort": "68836"
+  },
+  {
+    "city": "Kribi",
+    "admin": "Sud",
+    "sort": "60000"
+  },
+  {
+    "city": "Batouri",
+    "admin": "Est",
+    "sort": "33594"
+  },
+  {
+    "city": "Kalfou",
+    "admin": "Extrême-Nord",
+    "sort": "26223"
+  },
+  {
+    "city": "Bélabo",
+    "admin": "Est",
+    "sort": "22553"
+  },
+  {
+    "city": "Eséka",
+    "admin": "Centre",
+    "sort": "22221"
+  },
+  {
+    "city": "Abong Mbang",
+    "admin": "Est",
+    "sort": "14661"
+  },
+  {
+    "city": "Bandjoun",
+    "admin": "Ouest",
+    "sort": "6872"
+  },
+  {
+    "city": "Kontcha",
+    "admin": "Adamaoua",
+    "sort": "8018"
+  },
+  {
+    "city": "Aiyomojok",
+    "admin": "South-West",
+    "sort": "5798"
+  },
+  {
+    "city": "Mbé",
+    "admin": "Nord",
+    "sort": "3950"
+  }
+]

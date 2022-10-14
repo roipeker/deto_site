@@ -1,0 +1,37 @@
+[
+  {
+    "city": "Andorra la Vella",
+    "admin": "Andorra la Vella",
+    "sort": "22615"
+  },
+  {
+    "city": "Escaldes-Engordany",
+    "admin": "Escaldes-Engordany",
+    "sort": "14521"
+  },
+  {
+    "city": "Encamp",
+    "admin": "Encamp",
+    "sort": "12338"
+  },
+  {
+    "city": "La Massana",
+    "admin": "La Massana",
+    "sort": "10076"
+  },
+  {
+    "city": "Sant Julià de Lòria",
+    "admin": "Sant Julià de Lòria",
+    "sort": "9156"
+  },
+  {
+    "city": "Ordino",
+    "admin": "Ordino",
+    "sort": "4545"
+  },
+  {
+    "city": "Canillo",
+    "admin": "Canillo",
+    "sort": "4103"
+  }
+]

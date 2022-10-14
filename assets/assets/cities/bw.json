@@ -1,0 +1,137 @@
+[
+  {
+    "city": "Gaborone",
+    "admin": "Gaborone",
+    "sort": "231626"
+  },
+  {
+    "city": "Francistown",
+    "admin": "Francistown",
+    "sort": "89979"
+  },
+  {
+    "city": "Molepolole",
+    "admin": "Kweneng",
+    "sort": "67598"
+  },
+  {
+    "city": "Maun",
+    "admin": "North West",
+    "sort": "57067"
+  },
+  {
+    "city": "Selibe Phikwe",
+    "admin": "Selibe Phikwe",
+    "sort": "49724"
+  },
+  {
+    "city": "Serowe",
+    "admin": "Central",
+    "sort": "48573"
+  },
+  {
+    "city": "Kanye",
+    "admin": "Southern",
+    "sort": "46831"
+  },
+  {
+    "city": "Mochudi",
+    "admin": "Kgatleng",
+    "sort": "39700"
+  },
+  {
+    "city": "Lobatse",
+    "admin": "Lobatse",
+    "sort": "26900"
+  },
+  {
+    "city": "Tshabong",
+    "admin": "Kgalagadi",
+    "sort": "9679"
+  },
+  {
+    "city": "Kasane",
+    "admin": "Chobe",
+    "sort": "9250"
+  },
+  {
+    "city": "Ghanzi",
+    "admin": "Ghanzi",
+    "sort": "6306"
+  },
+  {
+    "city": "Ramotswa",
+    "admin": "South East",
+    "sort": ""
+  },
+  {
+    "city": "Masunga",
+    "admin": "North East",
+    "sort": ""
+  },
+  {
+    "city": "Sowa Town",
+    "admin": "Sowa Town",
+    "sort": ""
+  },
+  {
+    "city": "Jwaneng",
+    "admin": "Jwaneng",
+    "sort": ""
+  },
+  {
+    "city": "Mahalapye",
+    "admin": "Central",
+    "sort": "50744"
+  },
+  {
+    "city": "Palapye",
+    "admin": "Central",
+    "sort": "36211"
+  },
+  {
+    "city": "Lekala",
+    "admin": "Central",
+    "sort": "5474"
+  },
+  {
+    "city": "Gweta",
+    "admin": "Central",
+    "sort": "5303"
+  },
+  {
+    "city": "Nata",
+    "admin": "Central",
+    "sort": "4794"
+  },
+  {
+    "city": "Mopipi",
+    "admin": "Central",
+    "sort": "3301"
+  },
+  {
+    "city": "Lehututu",
+    "admin": "Kgalagadi",
+    "sort": "2284"
+  },
+  {
+    "city": "Nokaneng",
+    "admin": "North West",
+    "sort": "1763"
+  },
+  {
+    "city": "Lokwabe",
+    "admin": "Kgalagadi",
+    "sort": "1473"
+  },
+  {
+    "city": "Tsau",
+    "admin": "North West",
+    "sort": "1409"
+  },
+  {
+    "city": "Muhembo",
+    "admin": "North West",
+    "sort": "757"
+  }
+]

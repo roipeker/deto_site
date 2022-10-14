@@ -1,0 +1,7527 @@
+[
+  {
+    "city": "Moscow",
+    "admin": "Moskva",
+    "sort": "17693000"
+  },
+  {
+    "city": "Saint Petersburg",
+    "admin": "Sankt-Peterburg",
+    "sort": "5384342"
+  },
+  {
+    "city": "Novosibirsk",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "1602915"
+  },
+  {
+    "city": "Yekaterinburg",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "1468833"
+  },
+  {
+    "city": "Nizhniy Novgorod",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "1264075"
+  },
+  {
+    "city": "Kazan",
+    "admin": "Tatarstan",
+    "sort": "1243500"
+  },
+  {
+    "city": "Chelyabinsk",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "1202371"
+  },
+  {
+    "city": "Omsk",
+    "admin": "Omskaya Oblast’",
+    "sort": "1178391"
+  },
+  {
+    "city": "Samara",
+    "admin": "Samarskaya Oblast’",
+    "sort": "1169719"
+  },
+  {
+    "city": "Rostov",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "1125299"
+  },
+  {
+    "city": "Ufa",
+    "admin": "Bashkortostan",
+    "sort": "1115560"
+  },
+  {
+    "city": "Krasnoyarsk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "1083865"
+  },
+  {
+    "city": "Voronezh",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "1047549"
+  },
+  {
+    "city": "Perm",
+    "admin": "Permskiy Kray",
+    "sort": "1048005"
+  },
+  {
+    "city": "Volgograd",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "1015586"
+  },
+  {
+    "city": "Krasnodar",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "881476"
+  },
+  {
+    "city": "Saratov",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "845300"
+  },
+  {
+    "city": "Tyumen",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "744554"
+  },
+  {
+    "city": "Tolyatti",
+    "admin": "Samarskaya Oblast’",
+    "sort": "693072"
+  },
+  {
+    "city": "Izhevsk",
+    "admin": "Udmurtiya",
+    "sort": "646277"
+  },
+  {
+    "city": "Barnaul",
+    "admin": "Altayskiy Kray",
+    "sort": "633301"
+  },
+  {
+    "city": "Ulyanovsk",
+    "admin": "Ul’yanovskaya Oblast’",
+    "sort": "624518"
+  },
+  {
+    "city": "Irkutsk",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "623736"
+  },
+  {
+    "city": "Khabarovsk",
+    "admin": "Khabarovskiy Kray",
+    "sort": "616242"
+  },
+  {
+    "city": "Yaroslavl",
+    "admin": "Yaroslavskaya Oblast’",
+    "sort": "608079"
+  },
+  {
+    "city": "Vladivostok",
+    "admin": "Primorskiy Kray",
+    "sort": "606589"
+  },
+  {
+    "city": "Makhachkala",
+    "admin": "Dagestan",
+    "sort": "592976"
+  },
+  {
+    "city": "Tomsk",
+    "admin": "Tomskaya Oblast’",
+    "sort": "572740"
+  },
+  {
+    "city": "Orenburg",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "564443"
+  },
+  {
+    "city": "Kemerovo",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "556920"
+  },
+  {
+    "city": "Novokuznetsk",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "552105"
+  },
+  {
+    "city": "Ryazan",
+    "admin": "Ryazanskaya Oblast’",
+    "sort": "537622"
+  },
+  {
+    "city": "Astrakhan",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "532504"
+  },
+  {
+    "city": "Naberezhnyye Chelny",
+    "admin": "Tatarstan",
+    "sort": "529797"
+  },
+  {
+    "city": "Penza",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "523726"
+  },
+  {
+    "city": "Lipetsk",
+    "admin": "Lipetskaya Oblast’",
+    "sort": "510439"
+  },
+  {
+    "city": "Kirov",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "501468"
+  },
+  {
+    "city": "Cheboksary",
+    "admin": "Chuvashiya",
+    "sort": "489498"
+  },
+  {
+    "city": "Tula",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "485221"
+  },
+  {
+    "city": "Kaliningrad",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "475056"
+  },
+  {
+    "city": "Balashikha",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "450771"
+  },
+  {
+    "city": "Kursk",
+    "admin": "Kurskaya Oblast’",
+    "sort": "449063"
+  },
+  {
+    "city": "Stavropol",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "433577"
+  },
+  {
+    "city": "Ulan-Ude",
+    "admin": "Buryatiya",
+    "sort": "431922"
+  },
+  {
+    "city": "Tver",
+    "admin": "Tverskaya Oblast’",
+    "sort": "419363"
+  },
+  {
+    "city": "Magnitogorsk",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "418241"
+  },
+  {
+    "city": "Sochi",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "411524"
+  },
+  {
+    "city": "Ivanovo",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "406933"
+  },
+  {
+    "city": "Bryansk",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "406553"
+  },
+  {
+    "city": "Belgorod",
+    "admin": "Belgorodskaya Oblast’",
+    "sort": "391135"
+  },
+  {
+    "city": "Surgut",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "360590"
+  },
+  {
+    "city": "Vladimir",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "356168"
+  },
+  {
+    "city": "Nizhniy Tagil",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "355693"
+  },
+  {
+    "city": "Arkhangelsk",
+    "admin": "Arkhangel’skaya Oblast’",
+    "sort": "351488"
+  },
+  {
+    "city": "Chita",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "347088"
+  },
+  {
+    "city": "Kaluga",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "341892"
+  },
+  {
+    "city": "Smolensk",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "329853"
+  },
+  {
+    "city": "Volzhskiy",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "326055"
+  },
+  {
+    "city": "Cherepovets",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "318856"
+  },
+  {
+    "city": "Vologda",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "313012"
+  },
+  {
+    "city": "Saransk",
+    "admin": "Mordoviya",
+    "sort": "314789"
+  },
+  {
+    "city": "Orël",
+    "admin": "Orlovskaya Oblast’",
+    "sort": "311625"
+  },
+  {
+    "city": "Yakutsk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "311760"
+  },
+  {
+    "city": "Kurgan",
+    "admin": "Kurganskaya Oblast’",
+    "sort": "309285"
+  },
+  {
+    "city": "Vladikavkaz",
+    "admin": "North Ossetia",
+    "sort": "306978"
+  },
+  {
+    "city": "Podolsk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "299660"
+  },
+  {
+    "city": "Murmansk",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "298096"
+  },
+  {
+    "city": "Tambov",
+    "admin": "Tambovskaya Oblast’",
+    "sort": "290365"
+  },
+  {
+    "city": "Groznyy",
+    "admin": "Chechnya",
+    "sort": "291687"
+  },
+  {
+    "city": "Sterlitamak",
+    "admin": "Bashkortostan",
+    "sort": "280233"
+  },
+  {
+    "city": "Petrozavodsk",
+    "admin": "Kareliya",
+    "sort": "278551"
+  },
+  {
+    "city": "Kostroma",
+    "admin": "Kostromskaya Oblast’",
+    "sort": "277648"
+  },
+  {
+    "city": "Nizhnevartovsk",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "277668"
+  },
+  {
+    "city": "Novorossiysk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "270774"
+  },
+  {
+    "city": "Yoshkar-Ola",
+    "admin": "Mariy-El",
+    "sort": "266675"
+  },
+  {
+    "city": "Nalchik",
+    "admin": "Kabardino-Balkariya",
+    "sort": "265162"
+  },
+  {
+    "city": "Engels",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "264990"
+  },
+  {
+    "city": "Taganrog",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "250287"
+  },
+  {
+    "city": "Komsomol’sk-na-Amure",
+    "admin": "Khabarovskiy Kray",
+    "sort": "249810"
+  },
+  {
+    "city": "Syktyvkar",
+    "admin": "Komi",
+    "sort": "245313"
+  },
+  {
+    "city": "Khimki",
+    "admin": "Moskva",
+    "sort": "244668"
+  },
+  {
+    "city": "Nizhnekamsk",
+    "admin": "Tatarstan",
+    "sort": "237250"
+  },
+  {
+    "city": "Shakhty",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "235492"
+  },
+  {
+    "city": "Dzerzhinsk",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "231797"
+  },
+  {
+    "city": "Bratsk",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "231602"
+  },
+  {
+    "city": "Orsk",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "230414"
+  },
+  {
+    "city": "Noginsk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "229731"
+  },
+  {
+    "city": "Kolpino",
+    "admin": "Sankt-Peterburg",
+    "sort": "225801"
+  },
+  {
+    "city": "Angarsk",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "226374"
+  },
+  {
+    "city": "Korolëv",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "221797"
+  },
+  {
+    "city": "Blagoveshchensk",
+    "admin": "Amurskaya Oblast’",
+    "sort": "224419"
+  },
+  {
+    "city": "Velikiy Novgorod",
+    "admin": "Novgorodskaya Oblast’",
+    "sort": "222594"
+  },
+  {
+    "city": "Staryy Oskol",
+    "admin": "Belgorodskaya Oblast’",
+    "sort": "223360"
+  },
+  {
+    "city": "Pskov",
+    "admin": "Pskovskaya Oblast’",
+    "sort": "209840"
+  },
+  {
+    "city": "Mytishchi",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "205397"
+  },
+  {
+    "city": "Biysk",
+    "admin": "Altayskiy Kray",
+    "sort": "203108"
+  },
+  {
+    "city": "Lyubertsy",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "197705"
+  },
+  {
+    "city": "Prokopyevsk",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "196406"
+  },
+  {
+    "city": "Yuzhno-Sakhalinsk",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "194882"
+  },
+  {
+    "city": "Armavir",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "190709"
+  },
+  {
+    "city": "Balakovo",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "191260"
+  },
+  {
+    "city": "Rybinsk",
+    "admin": "Yaroslavskaya Oblast’",
+    "sort": "190429"
+  },
+  {
+    "city": "Severodvinsk",
+    "admin": "Arkhangel’skaya Oblast’",
+    "sort": "183996"
+  },
+  {
+    "city": "Abakan",
+    "admin": "Khakasiya",
+    "sort": "181709"
+  },
+  {
+    "city": "Petropavlovsk-Kamchatskiy",
+    "admin": "Kamchatskiy Kray",
+    "sort": "181216"
+  },
+  {
+    "city": "Norilsk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "177428"
+  },
+  {
+    "city": "Orekhovo-Borisovo Yuzhnoye",
+    "admin": "Moskva",
+    "sort": "147713"
+  },
+  {
+    "city": "Syzran",
+    "admin": "Samarskaya Oblast’",
+    "sort": "173260"
+  },
+  {
+    "city": "Krasnogorsk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "171793"
+  },
+  {
+    "city": "Volgodonsk",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "171471"
+  },
+  {
+    "city": "Kamensk-Ural’skiy",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "169929"
+  },
+  {
+    "city": "Ussuriysk",
+    "admin": "Primorskiy Kray",
+    "sort": "170660"
+  },
+  {
+    "city": "Novocherkassk",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "168766"
+  },
+  {
+    "city": "Zlatoust",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "167978"
+  },
+  {
+    "city": "Elektrostal",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "158508"
+  },
+  {
+    "city": "Salavat",
+    "admin": "Bashkortostan",
+    "sort": "153181"
+  },
+  {
+    "city": "Almetyevsk",
+    "admin": "Tatarstan",
+    "sort": "154262"
+  },
+  {
+    "city": "Miass",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "151856"
+  },
+  {
+    "city": "Nakhodka",
+    "admin": "Primorskiy Kray",
+    "sort": "151420"
+  },
+  {
+    "city": "Kopeysk",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "147573"
+  },
+  {
+    "city": "Pyatigorsk",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "145836"
+  },
+  {
+    "city": "Rubtsovsk",
+    "admin": "Altayskiy Kray",
+    "sort": "145333"
+  },
+  {
+    "city": "Odintsovo",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "146574"
+  },
+  {
+    "city": "Kolomna",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "144125"
+  },
+  {
+    "city": "Berezniki",
+    "admin": "Permskiy Kray",
+    "sort": "145115"
+  },
+  {
+    "city": "Khasavyurt",
+    "admin": "Dagestan",
+    "sort": "141259"
+  },
+  {
+    "city": "Maykop",
+    "admin": "Adygeya",
+    "sort": "141970"
+  },
+  {
+    "city": "Kovrov",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "138552"
+  },
+  {
+    "city": "Kislovodsk",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "128779"
+  },
+  {
+    "city": "Serpukhov",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "125817"
+  },
+  {
+    "city": "Novocheboksarsk",
+    "admin": "Chuvashiya",
+    "sort": "126626"
+  },
+  {
+    "city": "Bataysk",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "126769"
+  },
+  {
+    "city": "Domodedovo",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "127850"
+  },
+  {
+    "city": "Kaspiysk",
+    "admin": "Dagestan",
+    "sort": "123988"
+  },
+  {
+    "city": "Neftekamsk",
+    "admin": "Bashkortostan",
+    "sort": "126805"
+  },
+  {
+    "city": "Nefteyugansk",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "127255"
+  },
+  {
+    "city": "Shchelkovo",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "125634"
+  },
+  {
+    "city": "Novomoskovsk",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "125647"
+  },
+  {
+    "city": "Pervouralsk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "124447"
+  },
+  {
+    "city": "Cherkessk",
+    "admin": "Karachayevo-Cherkesiya",
+    "sort": "122395"
+  },
+  {
+    "city": "Derbent",
+    "admin": "Dagestan",
+    "sort": "123720"
+  },
+  {
+    "city": "Orekhovo-Zuyevo",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "118822"
+  },
+  {
+    "city": "Nazran",
+    "admin": "Ingushetiya",
+    "sort": "117936"
+  },
+  {
+    "city": "Nevinnomyssk",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "117446"
+  },
+  {
+    "city": "Reutov",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "106990"
+  },
+  {
+    "city": "Dimitrovgrad",
+    "admin": "Ul’yanovskaya Oblast’",
+    "sort": "116055"
+  },
+  {
+    "city": "Obninsk",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "115029"
+  },
+  {
+    "city": "Kyzyl",
+    "admin": "Tyva",
+    "sort": "116015"
+  },
+  {
+    "city": "Ramenskoye",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "116077"
+  },
+  {
+    "city": "Oktyabr’skiy",
+    "admin": "Bashkortostan",
+    "sort": "113929"
+  },
+  {
+    "city": "Novyy Urengoy",
+    "admin": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "sort": "113254"
+  },
+  {
+    "city": "Kamyshin",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "111100"
+  },
+  {
+    "city": "Dolgoprudnyy",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "108861"
+  },
+  {
+    "city": "Zhukovskiy",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "107994"
+  },
+  {
+    "city": "Murom",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "109072"
+  },
+  {
+    "city": "Yessentuki",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "108679"
+  },
+  {
+    "city": "Novoshakhtinsk",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "108345"
+  },
+  {
+    "city": "Seversk",
+    "admin": "Tomskaya Oblast’",
+    "sort": "107922"
+  },
+  {
+    "city": "Arzamas",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "104547"
+  },
+  {
+    "city": "Artëm",
+    "admin": "Primorskiy Kray",
+    "sort": "106692"
+  },
+  {
+    "city": "Noyabrsk",
+    "admin": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "sort": "106879"
+  },
+  {
+    "city": "Achinsk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "105264"
+  },
+  {
+    "city": "Pushkino",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "105479"
+  },
+  {
+    "city": "Yelets",
+    "admin": "Lipetskaya Oblast’",
+    "sort": "104349"
+  },
+  {
+    "city": "Berdsk",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "103578"
+  },
+  {
+    "city": "Sergiyev Posad",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "104579"
+  },
+  {
+    "city": "Elista",
+    "admin": "Kalmykiya",
+    "sort": "103132"
+  },
+  {
+    "city": "Novokuybyshevsk",
+    "admin": "Samarskaya Oblast’",
+    "sort": "102075"
+  },
+  {
+    "city": "Noginsk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "102592"
+  },
+  {
+    "city": "Zheleznogorsk",
+    "admin": "Kurskaya Oblast’",
+    "sort": "100740"
+  },
+  {
+    "city": "Khanty-Mansiysk",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "98692"
+  },
+  {
+    "city": "Magadan",
+    "admin": "Magadanskaya Oblast’",
+    "sort": "92782"
+  },
+  {
+    "city": "Lobnya",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "88220"
+  },
+  {
+    "city": "Kuznetsk",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "82276"
+  },
+  {
+    "city": "Ivanteyevka",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "76612"
+  },
+  {
+    "city": "Birobidzhan",
+    "admin": "Yevreyskaya Avtonomnaya Oblast’",
+    "sort": "73623"
+  },
+  {
+    "city": "Georgiyevsk",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "67054"
+  },
+  {
+    "city": "Buynaksk",
+    "admin": "Dagestan",
+    "sort": "65080"
+  },
+  {
+    "city": "Fryazino",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "60437"
+  },
+  {
+    "city": "Gorno-Altaysk",
+    "admin": "Altay",
+    "sort": "63214"
+  },
+  {
+    "city": "Lytkarino",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "58606"
+  },
+  {
+    "city": "Klimovsk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "56239"
+  },
+  {
+    "city": "Dzerzhinskiy",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "55669"
+  },
+  {
+    "city": "Moskovskiy",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "50167"
+  },
+  {
+    "city": "Kotelniki",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "46763"
+  },
+  {
+    "city": "Krasnoznamensk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "41769"
+  },
+  {
+    "city": "Salekhard",
+    "admin": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "sort": "48507"
+  },
+  {
+    "city": "Kanash",
+    "admin": "Chuvashiya",
+    "sort": "45482"
+  },
+  {
+    "city": "Morshansk",
+    "admin": "Tambovskaya Oblast’",
+    "sort": "39362"
+  },
+  {
+    "city": "Dagestanskiye Ogni",
+    "admin": "Dagestan",
+    "sort": "29401"
+  },
+  {
+    "city": "Kokhma",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "30161"
+  },
+  {
+    "city": "Shumerlya",
+    "admin": "Chuvashiya",
+    "sort": "29553"
+  },
+  {
+    "city": "Desnogorsk",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "27771"
+  },
+  {
+    "city": "Udomlya",
+    "admin": "Tverskaya Oblast’",
+    "sort": "28119"
+  },
+  {
+    "city": "Losino-Petrovskiy",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "25424"
+  },
+  {
+    "city": "Nar’yan-Mar",
+    "admin": "Nenetskiy Avtonomnyy Okrug",
+    "sort": "24775"
+  },
+  {
+    "city": "Kudrovo",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "13501"
+  },
+  {
+    "city": "Udelnaya",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "14870"
+  },
+  {
+    "city": "Anadyr",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "15604"
+  },
+  {
+    "city": "Magas",
+    "admin": "Ingushetiya",
+    "sort": "10333"
+  },
+  {
+    "city": "Molochnoye",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "7690"
+  },
+  {
+    "city": "Zelënodol’sk",
+    "admin": "Tatarstan",
+    "sort": "99491"
+  },
+  {
+    "city": "Tobolsk",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "98886"
+  },
+  {
+    "city": "Sarapul",
+    "admin": "Udmurtiya",
+    "sort": "97910"
+  },
+  {
+    "city": "Votkinsk",
+    "admin": "Udmurtiya",
+    "sort": "97550"
+  },
+  {
+    "city": "Serov",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "97762"
+  },
+  {
+    "city": "Ukhta",
+    "admin": "Komi",
+    "sort": "97087"
+  },
+  {
+    "city": "Leninsk-Kuznetskiy",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "96139"
+  },
+  {
+    "city": "Mezhdurechensk",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "96299"
+  },
+  {
+    "city": "Sarov",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "95388"
+  },
+  {
+    "city": "Solikamsk",
+    "admin": "Permskiy Kray",
+    "sort": "94628"
+  },
+  {
+    "city": "Gatchina",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "94447"
+  },
+  {
+    "city": "Michurinsk",
+    "admin": "Tambovskaya Oblast’",
+    "sort": "93330"
+  },
+  {
+    "city": "Glazov",
+    "admin": "Udmurtiya",
+    "sort": "93056"
+  },
+  {
+    "city": "Voskresensk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "93565"
+  },
+  {
+    "city": "Mikhaylovsk",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "93658"
+  },
+  {
+    "city": "Velikiye Luki",
+    "admin": "Pskovskaya Oblast’",
+    "sort": "91435"
+  },
+  {
+    "city": "Kansk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "89508"
+  },
+  {
+    "city": "Kiselëvsk",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "89867"
+  },
+  {
+    "city": "Kamensk-Shakhtinskiy",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "88997"
+  },
+  {
+    "city": "Buzuluk",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "86316"
+  },
+  {
+    "city": "Gubkin",
+    "admin": "Belgorodskaya Oblast’",
+    "sort": "86780"
+  },
+  {
+    "city": "Novotroitsk",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "86474"
+  },
+  {
+    "city": "Bugulma",
+    "admin": "Tatarstan",
+    "sort": "86085"
+  },
+  {
+    "city": "Shchëkino",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "86088"
+  },
+  {
+    "city": "Yeysk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "85760"
+  },
+  {
+    "city": "Kineshma",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "83871"
+  },
+  {
+    "city": "Dmitrov",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "84408"
+  },
+  {
+    "city": "Zheleznogorsk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "83857"
+  },
+  {
+    "city": "Yurga",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "81759"
+  },
+  {
+    "city": "Chaykovskiy",
+    "admin": "Permskiy Kray",
+    "sort": "82382"
+  },
+  {
+    "city": "Ust’-Ilimsk",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "81976"
+  },
+  {
+    "city": "Azov",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "80721"
+  },
+  {
+    "city": "Anapa",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "81447"
+  },
+  {
+    "city": "Novouralsk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "81202"
+  },
+  {
+    "city": "Klin",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "79168"
+  },
+  {
+    "city": "Ozërsk",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "79069"
+  },
+  {
+    "city": "Vyborg",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "78457"
+  },
+  {
+    "city": "Usol’ye-Sibirskoye",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "77407"
+  },
+  {
+    "city": "Kropotkin",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "78149"
+  },
+  {
+    "city": "Bor",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "78063"
+  },
+  {
+    "city": "Vorkuta",
+    "admin": "Komi",
+    "sort": "77314"
+  },
+  {
+    "city": "Gelendzhik",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "77212"
+  },
+  {
+    "city": "Chernogorsk",
+    "admin": "Khakasiya",
+    "sort": "75067"
+  },
+  {
+    "city": "Balashov",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "76776"
+  },
+  {
+    "city": "Anzhero-Sudzhensk",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "76217"
+  },
+  {
+    "city": "Shadrinsk",
+    "admin": "Kurganskaya Oblast’",
+    "sort": "75348"
+  },
+  {
+    "city": "Dubna",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "75144"
+  },
+  {
+    "city": "Novoaltaysk",
+    "admin": "Altayskiy Kray",
+    "sort": "73439"
+  },
+  {
+    "city": "Mineral’nyye Vody",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "74141"
+  },
+  {
+    "city": "Yelabuga",
+    "admin": "Tatarstan",
+    "sort": "74031"
+  },
+  {
+    "city": "Yegoryevsk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "73766"
+  },
+  {
+    "city": "Troitsk",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "73421"
+  },
+  {
+    "city": "Kirovo-Chepetsk",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "72071"
+  },
+  {
+    "city": "Chapayevsk",
+    "admin": "Samarskaya Oblast’",
+    "sort": "72778"
+  },
+  {
+    "city": "Vsevolozhsk",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "72864"
+  },
+  {
+    "city": "Belovo",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "72519"
+  },
+  {
+    "city": "Verkhnyaya Pyshma",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "71241"
+  },
+  {
+    "city": "Chekhov",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "70548"
+  },
+  {
+    "city": "Minusinsk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "68007"
+  },
+  {
+    "city": "Tuymazy",
+    "admin": "Bashkortostan",
+    "sort": "68256"
+  },
+  {
+    "city": "Kstovo",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "67874"
+  },
+  {
+    "city": "Vidnoye",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "66158"
+  },
+  {
+    "city": "Belogorsk",
+    "admin": "Amurskaya Oblast’",
+    "sort": "66183"
+  },
+  {
+    "city": "Ishim",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "65142"
+  },
+  {
+    "city": "Gukovo",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "64869"
+  },
+  {
+    "city": "Slavyansk-na-Kubani",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "66285"
+  },
+  {
+    "city": "Kungur",
+    "admin": "Permskiy Kray",
+    "sort": "65284"
+  },
+  {
+    "city": "Stupino",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "65990"
+  },
+  {
+    "city": "Zarechnyy",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "65156"
+  },
+  {
+    "city": "Beloretsk",
+    "admin": "Bashkortostan",
+    "sort": "65477"
+  },
+  {
+    "city": "Ishimbay",
+    "admin": "Bashkortostan",
+    "sort": "65422"
+  },
+  {
+    "city": "Donskoy",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "63631"
+  },
+  {
+    "city": "Asbest",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "64091"
+  },
+  {
+    "city": "Klintsy",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "62936"
+  },
+  {
+    "city": "Budënnovsk",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "62495"
+  },
+  {
+    "city": "Volsk",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "63212"
+  },
+  {
+    "city": "Novaya Balakhna",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "63083"
+  },
+  {
+    "city": "Pavlovskiy Posad",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "62718"
+  },
+  {
+    "city": "Rossosh",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "62827"
+  },
+  {
+    "city": "Revda",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "62687"
+  },
+  {
+    "city": "Borisoglebsk",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "62669"
+  },
+  {
+    "city": "Kotlas",
+    "admin": "Arkhangel’skaya Oblast’",
+    "sort": "61805"
+  },
+  {
+    "city": "Zelenogorsk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "62245"
+  },
+  {
+    "city": "Leninogorsk",
+    "admin": "Tatarstan",
+    "sort": "62531"
+  },
+  {
+    "city": "Tuapse",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "62269"
+  },
+  {
+    "city": "Chistopol",
+    "admin": "Tatarstan",
+    "sort": "62200"
+  },
+  {
+    "city": "Naro-Fominsk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "62002"
+  },
+  {
+    "city": "Polevskoy",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "61853"
+  },
+  {
+    "city": "Lysva",
+    "admin": "Permskiy Kray",
+    "sort": "61752"
+  },
+  {
+    "city": "Sibay",
+    "admin": "Bashkortostan",
+    "sort": "61266"
+  },
+  {
+    "city": "Kumertau",
+    "admin": "Bashkortostan",
+    "sort": "60164"
+  },
+  {
+    "city": "Rzhev",
+    "admin": "Tverskaya Oblast’",
+    "sort": "59422"
+  },
+  {
+    "city": "Sayanogorsk",
+    "admin": "Khakasiya",
+    "sort": "60317"
+  },
+  {
+    "city": "Belebey",
+    "admin": "Bashkortostan",
+    "sort": "60188"
+  },
+  {
+    "city": "Labinsk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "60164"
+  },
+  {
+    "city": "Urus-Martan",
+    "admin": "Chechnya",
+    "sort": "59954"
+  },
+  {
+    "city": "Shuya",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "58114"
+  },
+  {
+    "city": "Lesosibirsk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "59525"
+  },
+  {
+    "city": "Prokhladnyy",
+    "admin": "Kabardino-Balkariya",
+    "sort": "57883"
+  },
+  {
+    "city": "Aleksandrov",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "59328"
+  },
+  {
+    "city": "Mikhaylovka",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "57829"
+  },
+  {
+    "city": "Izberbash",
+    "admin": "Dagestan",
+    "sort": "58690"
+  },
+  {
+    "city": "Iskitim",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "56602"
+  },
+  {
+    "city": "Nyagan",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "58335"
+  },
+  {
+    "city": "Tikhvin",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "58136"
+  },
+  {
+    "city": "Meleuz",
+    "admin": "Bashkortostan",
+    "sort": "58004"
+  },
+  {
+    "city": "Aleksin",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "57892"
+  },
+  {
+    "city": "Berëzovskiy",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "57892"
+  },
+  {
+    "city": "Tikhoretsk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "57771"
+  },
+  {
+    "city": "Pavlovo",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "57630"
+  },
+  {
+    "city": "Krasnotur’insk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "57514"
+  },
+  {
+    "city": "Salsk",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "57622"
+  },
+  {
+    "city": "Krymsk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "57229"
+  },
+  {
+    "city": "Neryungri",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "57009"
+  },
+  {
+    "city": "Volzhsk",
+    "admin": "Mariy-El",
+    "sort": "54519"
+  },
+  {
+    "city": "Gus’-Khrustal’nyy",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "54533"
+  },
+  {
+    "city": "Apatity",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "55713"
+  },
+  {
+    "city": "Zhigulevsk",
+    "admin": "Samarskaya Oblast’",
+    "sort": "53407"
+  },
+  {
+    "city": "Shali",
+    "admin": "Chechnya",
+    "sort": "53807"
+  },
+  {
+    "city": "Liski",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "53897"
+  },
+  {
+    "city": "Svobodnyy",
+    "admin": "Amurskaya Oblast’",
+    "sort": "53678"
+  },
+  {
+    "city": "Krasnokamsk",
+    "admin": "Permskiy Kray",
+    "sort": "53631"
+  },
+  {
+    "city": "Gudermes",
+    "admin": "Chechnya",
+    "sort": "52908"
+  },
+  {
+    "city": "Vyksa",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "53219"
+  },
+  {
+    "city": "Arsenyev",
+    "admin": "Primorskiy Kray",
+    "sort": "52471"
+  },
+  {
+    "city": "Krasnokamensk",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "52811"
+  },
+  {
+    "city": "Sertolovo",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "52535"
+  },
+  {
+    "city": "Vyazma",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "52506"
+  },
+  {
+    "city": "Belorechensk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "52082"
+  },
+  {
+    "city": "Timashevsk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "51925"
+  },
+  {
+    "city": "Solnechnogorsk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "51612"
+  },
+  {
+    "city": "Uzlovaya",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "51358"
+  },
+  {
+    "city": "Severomorsk",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "51209"
+  },
+  {
+    "city": "Cheremkhovo",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "50819"
+  },
+  {
+    "city": "Snezhinsk",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "51048"
+  },
+  {
+    "city": "Nazarovo",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "50397"
+  },
+  {
+    "city": "Mozhga",
+    "admin": "Udmurtiya",
+    "sort": "49328"
+  },
+  {
+    "city": "Kirishi",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "50885"
+  },
+  {
+    "city": "Kizlyar",
+    "admin": "Dagestan",
+    "sort": "49247"
+  },
+  {
+    "city": "Borovichi",
+    "admin": "Novgorodskaya Oblast’",
+    "sort": "50144"
+  },
+  {
+    "city": "Roslavl",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "50112"
+  },
+  {
+    "city": "Novovyatsk",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "49475"
+  },
+  {
+    "city": "Buguruslan",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "49245"
+  },
+  {
+    "city": "Lesnoy",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "49056"
+  },
+  {
+    "city": "Kurganinsk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "48439"
+  },
+  {
+    "city": "Donetsk",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "47770"
+  },
+  {
+    "city": "Kashira",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "48016"
+  },
+  {
+    "city": "Shelekhov",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "48098"
+  },
+  {
+    "city": "Otradnyy",
+    "admin": "Samarskaya Oblast’",
+    "sort": "47180"
+  },
+  {
+    "city": "Vyshniy Volochëk",
+    "admin": "Tverskaya Oblast’",
+    "sort": "46908"
+  },
+  {
+    "city": "Livny",
+    "admin": "Orlovskaya Oblast’",
+    "sort": "47221"
+  },
+  {
+    "city": "Kingisepp",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "47313"
+  },
+  {
+    "city": "Zarinsk",
+    "admin": "Altayskiy Kray",
+    "sort": "46597"
+  },
+  {
+    "city": "Berëzovskiy",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "46215"
+  },
+  {
+    "city": "Gryazi",
+    "admin": "Lipetskaya Oblast’",
+    "sort": "46492"
+  },
+  {
+    "city": "Torzhok",
+    "admin": "Tverskaya Oblast’",
+    "sort": "45641"
+  },
+  {
+    "city": "Megion",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "46188"
+  },
+  {
+    "city": "Kamen’-na-Obi",
+    "admin": "Altayskiy Kray",
+    "sort": "44564"
+  },
+  {
+    "city": "Ruzayevka",
+    "admin": "Mordoviya",
+    "sort": "45248"
+  },
+  {
+    "city": "Aksay",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "45078"
+  },
+  {
+    "city": "Kimry",
+    "admin": "Tverskaya Oblast’",
+    "sort": "44743"
+  },
+  {
+    "city": "Parma",
+    "admin": "Komi",
+    "sort": "45000"
+  },
+  {
+    "city": "Rasskazovo",
+    "admin": "Tambovskaya Oblast’",
+    "sort": "43758"
+  },
+  {
+    "city": "Nadym",
+    "admin": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "sort": "44940"
+  },
+  {
+    "city": "Volkhov",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "44868"
+  },
+  {
+    "city": "Kuybyshev",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "44170"
+  },
+  {
+    "city": "Yartsevo",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "44097"
+  },
+  {
+    "city": "Chusovoy",
+    "admin": "Permskiy Kray",
+    "sort": "43737"
+  },
+  {
+    "city": "Birsk",
+    "admin": "Bashkortostan",
+    "sort": "43572"
+  },
+  {
+    "city": "Osinniki",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "42454"
+  },
+  {
+    "city": "Shebekino",
+    "admin": "Belgorodskaya Oblast’",
+    "sort": "42465"
+  },
+  {
+    "city": "Gay",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "41619"
+  },
+  {
+    "city": "Safonovo",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "42147"
+  },
+  {
+    "city": "Monchegorsk",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "42099"
+  },
+  {
+    "city": "Korenovsk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "42019"
+  },
+  {
+    "city": "Kolchugino",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "41953"
+  },
+  {
+    "city": "Spassk-Dal’niy",
+    "admin": "Primorskiy Kray",
+    "sort": "41127"
+  },
+  {
+    "city": "Tulun",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "41640"
+  },
+  {
+    "city": "Satka",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "41798"
+  },
+  {
+    "city": "Mozdok",
+    "admin": "North Ossetia",
+    "sort": "41728"
+  },
+  {
+    "city": "Myski",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "41379"
+  },
+  {
+    "city": "Strezhevoy",
+    "admin": "Tomskaya Oblast’",
+    "sort": "41541"
+  },
+  {
+    "city": "Ust’-Kut",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "41689"
+  },
+  {
+    "city": "Karabulak",
+    "admin": "Ingushetiya",
+    "sort": "41469"
+  },
+  {
+    "city": "Verkhnyaya Salda",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "41484"
+  },
+  {
+    "city": "Sovetsk",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "40486"
+  },
+  {
+    "city": "Temryuk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "41133"
+  },
+  {
+    "city": "Pyt’-Yakh",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "41005"
+  },
+  {
+    "city": "Novozybkov",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "39725"
+  },
+  {
+    "city": "Chebarkul",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "40378"
+  },
+  {
+    "city": "Pereslavl’-Zalesskiy",
+    "admin": "Yaroslavskaya Oblast’",
+    "sort": "39105"
+  },
+  {
+    "city": "Yalutorovsk",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "39967"
+  },
+  {
+    "city": "Pechora",
+    "admin": "Komi",
+    "sort": "40653"
+  },
+  {
+    "city": "Uray",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "40559"
+  },
+  {
+    "city": "Zainsk",
+    "admin": "Tatarstan",
+    "sort": "40366"
+  },
+  {
+    "city": "Belaya Kalitva",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "40275"
+  },
+  {
+    "city": "Mtsensk",
+    "admin": "Orlovskaya Oblast’",
+    "sort": "38350"
+  },
+  {
+    "city": "Tutayev",
+    "admin": "Yaroslavskaya Oblast’",
+    "sort": "40154"
+  },
+  {
+    "city": "Amursk",
+    "admin": "Khabarovskiy Kray",
+    "sort": "40106"
+  },
+  {
+    "city": "Baksan",
+    "admin": "Kabardino-Balkariya",
+    "sort": "38192"
+  },
+  {
+    "city": "Apsheronsk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "39762"
+  },
+  {
+    "city": "Novodvinsk",
+    "admin": "Arkhangel’skaya Oblast’",
+    "sort": "38434"
+  },
+  {
+    "city": "Sayansk",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "38968"
+  },
+  {
+    "city": "Yelizovo",
+    "admin": "Kamchatskiy Kray",
+    "sort": "39216"
+  },
+  {
+    "city": "Kachkanar",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "38996"
+  },
+  {
+    "city": "Kurchatov",
+    "admin": "Kurskaya Oblast’",
+    "sort": "38344"
+  },
+  {
+    "city": "Rtishchevo",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "39005"
+  },
+  {
+    "city": "Mariinsk",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "38637"
+  },
+  {
+    "city": "Krasnoufimsk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "38395"
+  },
+  {
+    "city": "Abinsk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "38547"
+  },
+  {
+    "city": "Uryupinsk",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "37620"
+  },
+  {
+    "city": "Konakovo",
+    "admin": "Tverskaya Oblast’",
+    "sort": "38486"
+  },
+  {
+    "city": "Usinsk",
+    "admin": "Komi",
+    "sort": "38376"
+  },
+  {
+    "city": "Sharypovo",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "37136"
+  },
+  {
+    "city": "Alekseyevka",
+    "admin": "Belgorodskaya Oblast’",
+    "sort": "38329"
+  },
+  {
+    "city": "Bol’shoy Kamen’",
+    "admin": "Primorskiy Kray",
+    "sort": "38042"
+  },
+  {
+    "city": "Krasnyy Sulin",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "38284"
+  },
+  {
+    "city": "Lyudinovo",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "38267"
+  },
+  {
+    "city": "Zavolzhye",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "38230"
+  },
+  {
+    "city": "Izobil’nyy",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "38100"
+  },
+  {
+    "city": "Yuzhnouralsk",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "37728"
+  },
+  {
+    "city": "Argun",
+    "admin": "Chechnya",
+    "sort": "37373"
+  },
+  {
+    "city": "Akhtubinsk",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "37883"
+  },
+  {
+    "city": "Uchaly",
+    "admin": "Bashkortostan",
+    "sort": "37710"
+  },
+  {
+    "city": "Frolovo",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "36951"
+  },
+  {
+    "city": "Alapayevsk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "37526"
+  },
+  {
+    "city": "Tosno",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "37509"
+  },
+  {
+    "city": "Dalnegorsk",
+    "admin": "Primorskiy Kray",
+    "sort": "37519"
+  },
+  {
+    "city": "Goryachiy Klyuch",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "37475"
+  },
+  {
+    "city": "Malgobek",
+    "admin": "Ingushetiya",
+    "sort": "37442"
+  },
+  {
+    "city": "Yugorsk",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "37422"
+  },
+  {
+    "city": "Koryazhma",
+    "admin": "Arkhangel’skaya Oblast’",
+    "sort": "36607"
+  },
+  {
+    "city": "Kizilyurt",
+    "admin": "Dagestan",
+    "sort": "37171"
+  },
+  {
+    "city": "Irbit",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "36668"
+  },
+  {
+    "city": "Protvino",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "35807"
+  },
+  {
+    "city": "Rezh",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "37152"
+  },
+  {
+    "city": "Beslan",
+    "admin": "North Ossetia",
+    "sort": "37029"
+  },
+  {
+    "city": "Kyshtym",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "36997"
+  },
+  {
+    "city": "Lesozavodsk",
+    "admin": "Primorskiy Kray",
+    "sort": "37034"
+  },
+  {
+    "city": "Partizansk",
+    "admin": "Primorskiy Kray",
+    "sort": "36992"
+  },
+  {
+    "city": "Sokol",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "36924"
+  },
+  {
+    "city": "Kinel",
+    "admin": "Samarskaya Oblast’",
+    "sort": "35675"
+  },
+  {
+    "city": "Boyarka",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "35968"
+  },
+  {
+    "city": "Kamenka",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "35929"
+  },
+  {
+    "city": "Chernyakhovsk",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "35888"
+  },
+  {
+    "city": "Vyazniki",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "35865"
+  },
+  {
+    "city": "Svetlograd",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "35745"
+  },
+  {
+    "city": "Vichuga",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "34394"
+  },
+  {
+    "city": "Millerovo",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "35384"
+  },
+  {
+    "city": "Luga",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "35262"
+  },
+  {
+    "city": "Mirnyy",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "35223"
+  },
+  {
+    "city": "Yefremov",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "35168"
+  },
+  {
+    "city": "Blagoveshchensk",
+    "admin": "Bashkortostan",
+    "sort": "35008"
+  },
+  {
+    "city": "Korkino",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "34672"
+  },
+  {
+    "city": "Aznakayevo",
+    "admin": "Tatarstan",
+    "sort": "34896"
+  },
+  {
+    "city": "Zelenokumsk",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "34690"
+  },
+  {
+    "city": "Gulkevichi",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "34215"
+  },
+  {
+    "city": "Bogorodsk",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "34240"
+  },
+  {
+    "city": "Valuyki",
+    "admin": "Belgorodskaya Oblast’",
+    "sort": "34118"
+  },
+  {
+    "city": "Baltiysk",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "33317"
+  },
+  {
+    "city": "Furmanov",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "33905"
+  },
+  {
+    "city": "Nizhneudinsk",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "33918"
+  },
+  {
+    "city": "Sukhoy Log",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "33689"
+  },
+  {
+    "city": "Vyatskiye Polyany",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "32562"
+  },
+  {
+    "city": "Korsakov",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "33645"
+  },
+  {
+    "city": "Slobodskoy",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "32793"
+  },
+  {
+    "city": "Tayshet",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "33364"
+  },
+  {
+    "city": "Tavda",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "33356"
+  },
+  {
+    "city": "Tynda",
+    "admin": "Amurskaya Oblast’",
+    "sort": "33061"
+  },
+  {
+    "city": "Shatura",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "33222"
+  },
+  {
+    "city": "Teykovo",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "31801"
+  },
+  {
+    "city": "Chernushka",
+    "admin": "Permskiy Kray",
+    "sort": "32952"
+  },
+  {
+    "city": "Trëkhgornyy",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "32715"
+  },
+  {
+    "city": "Nurlat",
+    "admin": "Tatarstan",
+    "sort": "32703"
+  },
+  {
+    "city": "Dobryanka",
+    "admin": "Permskiy Kray",
+    "sort": "32676"
+  },
+  {
+    "city": "Ostrogozhsk",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "32601"
+  },
+  {
+    "city": "Kulebaki",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "32518"
+  },
+  {
+    "city": "Slantsy",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "32508"
+  },
+  {
+    "city": "Primorsko-Akhtarsk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "32180"
+  },
+  {
+    "city": "Novovoronezh",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "31503"
+  },
+  {
+    "city": "Serdobsk",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "32087"
+  },
+  {
+    "city": "Uglich",
+    "admin": "Yaroslavskaya Oblast’",
+    "sort": "32057"
+  },
+  {
+    "city": "Velikiy Ustyug",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "31806"
+  },
+  {
+    "city": "Kasimov",
+    "admin": "Ryazanskaya Oblast’",
+    "sort": "30243"
+  },
+  {
+    "city": "Kotovsk",
+    "admin": "Tambovskaya Oblast’",
+    "sort": "29999"
+  },
+  {
+    "city": "Mirnyy",
+    "admin": "Arkhangel’skaya Oblast’",
+    "sort": "31704"
+  },
+  {
+    "city": "Zima",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "30988"
+  },
+  {
+    "city": "Sosnogorsk",
+    "admin": "Komi",
+    "sort": "31556"
+  },
+  {
+    "city": "Marks",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "31488"
+  },
+  {
+    "city": "Kudymkar",
+    "admin": "Permskiy Kray",
+    "sort": "31370"
+  },
+  {
+    "city": "Kandalaksha",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "31329"
+  },
+  {
+    "city": "Bogoroditsk",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "31139"
+  },
+  {
+    "city": "Dyurtyuli",
+    "admin": "Bashkortostan",
+    "sort": "30969"
+  },
+  {
+    "city": "Nartkala",
+    "admin": "Kabardino-Balkariya",
+    "sort": "30832"
+  },
+  {
+    "city": "Rostov",
+    "admin": "Yaroslavskaya Oblast’",
+    "sort": "30943"
+  },
+  {
+    "city": "Kirov",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "30520"
+  },
+  {
+    "city": "Blagodarnyy",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "30530"
+  },
+  {
+    "city": "Ob",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "29194"
+  },
+  {
+    "city": "Slavgorod",
+    "admin": "Altayskiy Kray",
+    "sort": "29916"
+  },
+  {
+    "city": "Ust’-Dzheguta",
+    "admin": "Karachayevo-Cherkesiya",
+    "sort": "30369"
+  },
+  {
+    "city": "Kondopoga",
+    "admin": "Kareliya",
+    "sort": "30299"
+  },
+  {
+    "city": "Gorodets",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "30188"
+  },
+  {
+    "city": "Mozhaysk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "30190"
+  },
+  {
+    "city": "Dedovsk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "29738"
+  },
+  {
+    "city": "Artëmovskiy",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "29754"
+  },
+  {
+    "city": "Asha",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "29692"
+  },
+  {
+    "city": "Likino-Dulevo",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "29376"
+  },
+  {
+    "city": "Kostomuksha",
+    "admin": "Kareliya",
+    "sort": "29381"
+  },
+  {
+    "city": "Novaya Usman’",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "29270"
+  },
+  {
+    "city": "Divnogorsk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "29246"
+  },
+  {
+    "city": "Aleysk",
+    "admin": "Altayskiy Kray",
+    "sort": "28528"
+  },
+  {
+    "city": "Bogdanovich",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "29108"
+  },
+  {
+    "city": "Gagarin",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "29041"
+  },
+  {
+    "city": "Barabinsk",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "28941"
+  },
+  {
+    "city": "Petrovsk",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "28893"
+  },
+  {
+    "city": "Borzya",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "28888"
+  },
+  {
+    "city": "Kartaly",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "28607"
+  },
+  {
+    "city": "Pokhvistnevo",
+    "admin": "Samarskaya Oblast’",
+    "sort": "28177"
+  },
+  {
+    "city": "Yemanzhelinsk",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "28216"
+  },
+  {
+    "city": "Gusev",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "28257"
+  },
+  {
+    "city": "Tara",
+    "admin": "Omskaya Oblast’",
+    "sort": "28099"
+  },
+  {
+    "city": "Kushva",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "28060"
+  },
+  {
+    "city": "Sorochinsk",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "27547"
+  },
+  {
+    "city": "Kholmsk",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "27954"
+  },
+  {
+    "city": "Topki",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "27860"
+  },
+  {
+    "city": "Maloyaroslavets",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "27791"
+  },
+  {
+    "city": "Zarechnyy",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "27617"
+  },
+  {
+    "city": "Oktyabrsk",
+    "admin": "Samarskaya Oblast’",
+    "sort": "26438"
+  },
+  {
+    "city": "Verkhniy Ufaley",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "27498"
+  },
+  {
+    "city": "Staraya Russa",
+    "admin": "Novgorodskaya Oblast’",
+    "sort": "27377"
+  },
+  {
+    "city": "Gubkinskiy",
+    "admin": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "sort": "27238"
+  },
+  {
+    "city": "Mayskiy",
+    "admin": "Kabardino-Balkariya",
+    "sort": "27074"
+  },
+  {
+    "city": "Sol’-Iletsk",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "27085"
+  },
+  {
+    "city": "Karpinsk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "26957"
+  },
+  {
+    "city": "Kamyshlov",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "26444"
+  },
+  {
+    "city": "Karasuk",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "26902"
+  },
+  {
+    "city": "Dyatkovo",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "26775"
+  },
+  {
+    "city": "Novoaleksandrovsk",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "26761"
+  },
+  {
+    "city": "Semiluki",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "26732"
+  },
+  {
+    "city": "Polysayevo",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "26212"
+  },
+  {
+    "city": "Kirzhach",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "26676"
+  },
+  {
+    "city": "Krasnoarmeysk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "26519"
+  },
+  {
+    "city": "Segezha",
+    "admin": "Kareliya",
+    "sort": "26666"
+  },
+  {
+    "city": "Dalnerechensk",
+    "admin": "Primorskiy Kray",
+    "sort": "26378"
+  },
+  {
+    "city": "Kirovsk",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "26581"
+  },
+  {
+    "city": "Severouralsk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "26543"
+  },
+  {
+    "city": "Kirovsk",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "26387"
+  },
+  {
+    "city": "Kurchaloy",
+    "admin": "Chechnya",
+    "sort": "25672"
+  },
+  {
+    "city": "Sasovo",
+    "admin": "Ryazanskaya Oblast’",
+    "sort": "25177"
+  },
+  {
+    "city": "Labytnangi",
+    "admin": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "sort": "26211"
+  },
+  {
+    "city": "Novopavlovsk",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "26106"
+  },
+  {
+    "city": "Zavodoukovsk",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "26048"
+  },
+  {
+    "city": "Kimovsk",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "25951"
+  },
+  {
+    "city": "Kireyevsk",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "25741"
+  },
+  {
+    "city": "Balabanovo",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "25608"
+  },
+  {
+    "city": "Otradnoye",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "25623"
+  },
+  {
+    "city": "Yanaul",
+    "admin": "Bashkortostan",
+    "sort": "25511"
+  },
+  {
+    "city": "Inta",
+    "admin": "Komi",
+    "sort": "25444"
+  },
+  {
+    "city": "Ozëry",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "25359"
+  },
+  {
+    "city": "Mednogorsk",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "25272"
+  },
+  {
+    "city": "Zheleznovodsk",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "24768"
+  },
+  {
+    "city": "Kochubeyevskoye",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "25279"
+  },
+  {
+    "city": "Morozovsk",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "25198"
+  },
+  {
+    "city": "Atkarsk",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "25140"
+  },
+  {
+    "city": "Sovetskaya Gavan’",
+    "admin": "Khabarovskiy Kray",
+    "sort": "25147"
+  },
+  {
+    "city": "Uvarovo",
+    "admin": "Tambovskaya Oblast’",
+    "sort": "23987"
+  },
+  {
+    "city": "Sharya",
+    "admin": "Kostromskaya Oblast’",
+    "sort": "23976"
+  },
+  {
+    "city": "Pavlovsk",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "24858"
+  },
+  {
+    "city": "Buy",
+    "admin": "Kostromskaya Oblast’",
+    "sort": "23809"
+  },
+  {
+    "city": "Zernograd",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "24561"
+  },
+  {
+    "city": "Neftekumsk",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "24472"
+  },
+  {
+    "city": "Stroitel",
+    "admin": "Belgorodskaya Oblast’",
+    "sort": "24392"
+  },
+  {
+    "city": "Kotelnich",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "23682"
+  },
+  {
+    "city": "Asino",
+    "admin": "Tomskaya Oblast’",
+    "sort": "24354"
+  },
+  {
+    "city": "Buturlinovka",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "24319"
+  },
+  {
+    "city": "Semënov",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "24067"
+  },
+  {
+    "city": "Tayga",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "23565"
+  },
+  {
+    "city": "Kalach-na-Donu",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "23947"
+  },
+  {
+    "city": "Rodniki",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "23924"
+  },
+  {
+    "city": "Bogotol",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "23622"
+  },
+  {
+    "city": "Zeya",
+    "admin": "Amurskaya Oblast’",
+    "sort": "23270"
+  },
+  {
+    "city": "Kuvandyk",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "23763"
+  },
+  {
+    "city": "Tatarsk",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "23729"
+  },
+  {
+    "city": "Sredneuralsk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "23353"
+  },
+  {
+    "city": "Zheleznogorsk-Ilimskiy",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "23643"
+  },
+  {
+    "city": "Ipatovo",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "23579"
+  },
+  {
+    "city": "Bronnitsy",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "22567"
+  },
+  {
+    "city": "Severobaykalsk",
+    "admin": "Buryatiya",
+    "sort": "23365"
+  },
+  {
+    "city": "Unecha",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "23550"
+  },
+  {
+    "city": "Elektrogorsk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "22950"
+  },
+  {
+    "city": "Davlekanovo",
+    "admin": "Bashkortostan",
+    "sort": "23499"
+  },
+  {
+    "city": "Lensk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "23479"
+  },
+  {
+    "city": "Achkhoy-Martan",
+    "admin": "Chechnya",
+    "sort": "23282"
+  },
+  {
+    "city": "Lermontov",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "22601"
+  },
+  {
+    "city": "Nevyansk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "23200"
+  },
+  {
+    "city": "Kolpashevo",
+    "admin": "Tomskaya Oblast’",
+    "sort": "23209"
+  },
+  {
+    "city": "Fokino",
+    "admin": "Primorskiy Kray",
+    "sort": "23077"
+  },
+  {
+    "city": "Tashtagol",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "23107"
+  },
+  {
+    "city": "Gusinoozërsk",
+    "admin": "Buryatiya",
+    "sort": "23082"
+  },
+  {
+    "city": "Krasnouralsk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "22996"
+  },
+  {
+    "city": "Krasnoarmeysk",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "22994"
+  },
+  {
+    "city": "Isilkul",
+    "admin": "Omskaya Oblast’",
+    "sort": "22903"
+  },
+  {
+    "city": "Guryevsk",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "22872"
+  },
+  {
+    "city": "Karachayevsk",
+    "admin": "Karachayevo-Cherkesiya",
+    "sort": "21067"
+  },
+  {
+    "city": "Velsk",
+    "admin": "Arkhangel’skaya Oblast’",
+    "sort": "22776"
+  },
+  {
+    "city": "Svetlyy",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "21928"
+  },
+  {
+    "city": "Kalachinsk",
+    "admin": "Omskaya Oblast’",
+    "sort": "22737"
+  },
+  {
+    "city": "Staraya Kupavna",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "22476"
+  },
+  {
+    "city": "Khadyzhensk",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "22468"
+  },
+  {
+    "city": "Zvenigorod",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "21931"
+  },
+  {
+    "city": "Mendeleyevsk",
+    "admin": "Tatarstan",
+    "sort": "22336"
+  },
+  {
+    "city": "Nikolskoye",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "22286"
+  },
+  {
+    "city": "Bavly",
+    "admin": "Tatarstan",
+    "sort": "22145"
+  },
+  {
+    "city": "Kommunar",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "22055"
+  },
+  {
+    "city": "Ust’-Katav",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "22042"
+  },
+  {
+    "city": "Semikarakorsk",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "22030"
+  },
+  {
+    "city": "Kozmodemyansk",
+    "admin": "Mariy-El",
+    "sort": "20505"
+  },
+  {
+    "city": "Vilyuchinsk",
+    "admin": "Kamchatskiy Kray",
+    "sort": "21973"
+  },
+  {
+    "city": "Omutninsk",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "22009"
+  },
+  {
+    "city": "Kotovo",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "21990"
+  },
+  {
+    "city": "Vereshchagino",
+    "admin": "Permskiy Kray",
+    "sort": "21969"
+  },
+  {
+    "city": "Chernogolovka",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "21342"
+  },
+  {
+    "city": "Ryazhsk",
+    "admin": "Ryazanskaya Oblast’",
+    "sort": "21457"
+  },
+  {
+    "city": "Khotkovo",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "21349"
+  },
+  {
+    "city": "Palatka",
+    "admin": "Magadanskaya Oblast’",
+    "sort": "21452"
+  },
+  {
+    "city": "Tarko-Sale",
+    "admin": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "sort": "21448"
+  },
+  {
+    "city": "Kaltan",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "20841"
+  },
+  {
+    "city": "Lyskovo",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "21321"
+  },
+  {
+    "city": "Pushchino",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "21281"
+  },
+  {
+    "city": "Nerekhta",
+    "admin": "Kostromskaya Oblast’",
+    "sort": "21262"
+  },
+  {
+    "city": "Bologoye",
+    "admin": "Tverskaya Oblast’",
+    "sort": "21158"
+  },
+  {
+    "city": "Vikhorevka",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "21118"
+  },
+  {
+    "city": "Elektrougli",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "20823"
+  },
+  {
+    "city": "Toguchin",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "21064"
+  },
+  {
+    "city": "Sysert",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "21029"
+  },
+  {
+    "city": "Dudinka",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "21015"
+  },
+  {
+    "city": "Roshal",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "20418"
+  },
+  {
+    "city": "Nizhniy Lomov",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "20943"
+  },
+  {
+    "city": "Kurovskoye",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "20844"
+  },
+  {
+    "city": "Osa",
+    "admin": "Permskiy Kray",
+    "sort": "20899"
+  },
+  {
+    "city": "Buinsk",
+    "admin": "Tatarstan",
+    "sort": "20854"
+  },
+  {
+    "city": "Olenegorsk",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "20847"
+  },
+  {
+    "city": "Dugulubgey",
+    "admin": "Kabardino-Balkariya",
+    "sort": "20718"
+  },
+  {
+    "city": "Okha",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "20715"
+  },
+  {
+    "city": "Bobrov",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "20605"
+  },
+  {
+    "city": "Aldan",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "20595"
+  },
+  {
+    "city": "Nikolsk",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "20572"
+  },
+  {
+    "city": "Arsk",
+    "admin": "Tatarstan",
+    "sort": "20540"
+  },
+  {
+    "city": "Tyrnyauz",
+    "admin": "Kabardino-Balkariya",
+    "sort": "20513"
+  },
+  {
+    "city": "Ostrov",
+    "admin": "Pskovskaya Oblast’",
+    "sort": "20427"
+  },
+  {
+    "city": "Kubinka",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "20157"
+  },
+  {
+    "city": "Tsotsin-Yurt",
+    "admin": "Chechnya",
+    "sort": "20013"
+  },
+  {
+    "city": "Sergach",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "20269"
+  },
+  {
+    "city": "Yeniseysk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "19920"
+  },
+  {
+    "city": "Pikalëvo",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "20183"
+  },
+  {
+    "city": "Kotelnikovo",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "20172"
+  },
+  {
+    "city": "Zverevo",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "19456"
+  },
+  {
+    "city": "Bachi-Yurt",
+    "admin": "Chechnya",
+    "sort": "19727"
+  },
+  {
+    "city": "Shakhunya",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "20049"
+  },
+  {
+    "city": "Alagir",
+    "admin": "North Ossetia",
+    "sort": "20043"
+  },
+  {
+    "city": "Kyakhta",
+    "admin": "Buryatiya",
+    "sort": "20031"
+  },
+  {
+    "city": "Usman",
+    "admin": "Lipetskaya Oblast’",
+    "sort": "19956"
+  },
+  {
+    "city": "Nizhnyaya Tura",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "19883"
+  },
+  {
+    "city": "Gubakha",
+    "admin": "Permskiy Kray",
+    "sort": "19831"
+  },
+  {
+    "city": "Volokolamsk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "19824"
+  },
+  {
+    "city": "Nyandoma",
+    "admin": "Arkhangel’skaya Oblast’",
+    "sort": "19783"
+  },
+  {
+    "city": "Agryz",
+    "admin": "Tatarstan",
+    "sort": "19704"
+  },
+  {
+    "city": "Rybnoye",
+    "admin": "Ryazanskaya Oblast’",
+    "sort": "19700"
+  },
+  {
+    "city": "Cherepanovo",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "19610"
+  },
+  {
+    "city": "Yershov",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "19590"
+  },
+  {
+    "city": "Terek",
+    "admin": "Kabardino-Balkariya",
+    "sort": "19494"
+  },
+  {
+    "city": "Beloyarskiy",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "19542"
+  },
+  {
+    "city": "Ardon",
+    "admin": "North Ossetia",
+    "sort": "19412"
+  },
+  {
+    "city": "Lodeynoye Pole",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "19458"
+  },
+  {
+    "city": "Starodub",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "18615"
+  },
+  {
+    "city": "Rayevskiy",
+    "admin": "Bashkortostan",
+    "sort": "19384"
+  },
+  {
+    "city": "Kirovgrad",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "19277"
+  },
+  {
+    "city": "Lebedyan",
+    "admin": "Lipetskaya Oblast’",
+    "sort": "19288"
+  },
+  {
+    "city": "Bakal",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "19264"
+  },
+  {
+    "city": "Lgov",
+    "admin": "Kurskaya Oblast’",
+    "sort": "18774"
+  },
+  {
+    "city": "Abdulino",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "19222"
+  },
+  {
+    "city": "Uzhur",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "19212"
+  },
+  {
+    "city": "Nikolayevsk-na-Amure",
+    "admin": "Khabarovskiy Kray",
+    "sort": "19135"
+  },
+  {
+    "city": "Proletarsk",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "19032"
+  },
+  {
+    "city": "Dankov",
+    "admin": "Lipetskaya Oblast’",
+    "sort": "19017"
+  },
+  {
+    "city": "Onega",
+    "admin": "Arkhangel’skaya Oblast’",
+    "sort": "19030"
+  },
+  {
+    "city": "Shimanovsk",
+    "admin": "Amurskaya Oblast’",
+    "sort": "18643"
+  },
+  {
+    "city": "Nelidovo",
+    "admin": "Tverskaya Oblast’",
+    "sort": "18883"
+  },
+  {
+    "city": "Kovylkino",
+    "admin": "Mordoviya",
+    "sort": "18857"
+  },
+  {
+    "city": "Kalach",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "18834"
+  },
+  {
+    "city": "Sortavala",
+    "admin": "Kareliya",
+    "sort": "18801"
+  },
+  {
+    "city": "Novyy Oskol",
+    "admin": "Belgorodskaya Oblast’",
+    "sort": "18763"
+  },
+  {
+    "city": "Goyty",
+    "admin": "Chechnya",
+    "sort": "18534"
+  },
+  {
+    "city": "Surovikino",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "18685"
+  },
+  {
+    "city": "Kavalerovo",
+    "admin": "Primorskiy Kray",
+    "sort": "18657"
+  },
+  {
+    "city": "Vanino",
+    "admin": "Khabarovskiy Kray",
+    "sort": "18618"
+  },
+  {
+    "city": "Priozërsk",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "18552"
+  },
+  {
+    "city": "Beloozërskiy",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "18297"
+  },
+  {
+    "city": "Yur’yev-Pol’skiy",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "18433"
+  },
+  {
+    "city": "Nytva",
+    "admin": "Permskiy Kray",
+    "sort": "18366"
+  },
+  {
+    "city": "Ekazhevo",
+    "admin": "Ingushetiya",
+    "sort": "17734"
+  },
+  {
+    "city": "Slyudyanka",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "18287"
+  },
+  {
+    "city": "Avtury",
+    "admin": "Chechnya",
+    "sort": "17970"
+  },
+  {
+    "city": "Neftegorsk",
+    "admin": "Samarskaya Oblast’",
+    "sort": "17990"
+  },
+  {
+    "city": "Kharabali",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "17968"
+  },
+  {
+    "city": "Golitsyno",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "17651"
+  },
+  {
+    "city": "Kirsanov",
+    "admin": "Tambovskaya Oblast’",
+    "sort": "16409"
+  },
+  {
+    "city": "Galich",
+    "admin": "Kostromskaya Oblast’",
+    "sort": "16911"
+  },
+  {
+    "city": "Kukmor",
+    "admin": "Tatarstan",
+    "sort": "17815"
+  },
+  {
+    "city": "Sobinka",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "17799"
+  },
+  {
+    "city": "Polyarnyy",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "17605"
+  },
+  {
+    "city": "Inza",
+    "admin": "Ul’yanovskaya Oblast’",
+    "sort": "17630"
+  },
+  {
+    "city": "Plast",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "17508"
+  },
+  {
+    "city": "Krasnokumskoye",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "17451"
+  },
+  {
+    "city": "Karachev",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "17466"
+  },
+  {
+    "city": "Suvorov",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "17450"
+  },
+  {
+    "city": "Volgorechensk",
+    "admin": "Kostromskaya Oblast’",
+    "sort": "16539"
+  },
+  {
+    "city": "Raychikhinsk",
+    "admin": "Amurskaya Oblast’",
+    "sort": "17372"
+  },
+  {
+    "city": "Nizhnyaya Salda",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "17373"
+  },
+  {
+    "city": "Krasnoslobodsk",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "17327"
+  },
+  {
+    "city": "Guryevsk",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "17295"
+  },
+  {
+    "city": "Shumikha",
+    "admin": "Kurganskaya Oblast’",
+    "sort": "17336"
+  },
+  {
+    "city": "Podporozhye",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "17270"
+  },
+  {
+    "city": "Kinel’-Cherkassy",
+    "admin": "Samarskaya Oblast’",
+    "sort": "17252"
+  },
+  {
+    "city": "Baymak",
+    "admin": "Bashkortostan",
+    "sort": "17254"
+  },
+  {
+    "city": "Konstantinovsk",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "17160"
+  },
+  {
+    "city": "Kusa",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "17136"
+  },
+  {
+    "city": "Gavrilov-Yam",
+    "admin": "Yaroslavskaya Oblast’",
+    "sort": "17057"
+  },
+  {
+    "city": "Menzelinsk",
+    "admin": "Tatarstan",
+    "sort": "17055"
+  },
+  {
+    "city": "Turinsk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "17060"
+  },
+  {
+    "city": "Pokrov",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "17025"
+  },
+  {
+    "city": "Seltso",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "16554"
+  },
+  {
+    "city": "Zhukovka",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "16878"
+  },
+  {
+    "city": "Iglino",
+    "admin": "Bashkortostan",
+    "sort": "16811"
+  },
+  {
+    "city": "Novomichurinsk",
+    "admin": "Ryazanskaya Oblast’",
+    "sort": "16710"
+  },
+  {
+    "city": "Povorino",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "16702"
+  },
+  {
+    "city": "Pochëp",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "16687"
+  },
+  {
+    "city": "Kovdor",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "16623"
+  },
+  {
+    "city": "Kurtamysh",
+    "admin": "Kurganskaya Oblast’",
+    "sort": "16579"
+  },
+  {
+    "city": "Uchkeken",
+    "admin": "Karachayevo-Cherkesiya",
+    "sort": "16512"
+  },
+  {
+    "city": "Kozelsk",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "16443"
+  },
+  {
+    "city": "Ostashkov",
+    "admin": "Tverskaya Oblast’",
+    "sort": "16318"
+  },
+  {
+    "city": "Novoanninskiy",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "16294"
+  },
+  {
+    "city": "Petrovsk-Zabaykal’skiy",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "16213"
+  },
+  {
+    "city": "Rylsk",
+    "admin": "Kurskaya Oblast’",
+    "sort": "16147"
+  },
+  {
+    "city": "Babayurt",
+    "admin": "Dagestan",
+    "sort": "16149"
+  },
+  {
+    "city": "Manturovo",
+    "admin": "Kostromskaya Oblast’",
+    "sort": "15203"
+  },
+  {
+    "city": "Kodinsk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "16116"
+  },
+  {
+    "city": "Degtyarsk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "16001"
+  },
+  {
+    "city": "Kasli",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "16013"
+  },
+  {
+    "city": "Shchigry",
+    "admin": "Kurskaya Oblast’",
+    "sort": "15292"
+  },
+  {
+    "city": "Kamyzyak",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "15984"
+  },
+  {
+    "city": "Yaransk",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "15985"
+  },
+  {
+    "city": "Barysh",
+    "admin": "Ul’yanovskaya Oblast’",
+    "sort": "15974"
+  },
+  {
+    "city": "Talitsa",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "15941"
+  },
+  {
+    "city": "Plavsk",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "15920"
+  },
+  {
+    "city": "Bikin",
+    "admin": "Khabarovskiy Kray",
+    "sort": "15928"
+  },
+  {
+    "city": "Aramil",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "15236"
+  },
+  {
+    "city": "Ivdel",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "15888"
+  },
+  {
+    "city": "Katav-Ivanovsk",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "15872"
+  },
+  {
+    "city": "Kalininsk",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "15821"
+  },
+  {
+    "city": "Mamadysh",
+    "admin": "Tatarstan",
+    "sort": "15806"
+  },
+  {
+    "city": "Yasnyy",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "15573"
+  },
+  {
+    "city": "Yasnogorsk",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "15706"
+  },
+  {
+    "city": "Zhirnovsk",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "15680"
+  },
+  {
+    "city": "Bolotnoye",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "15629"
+  },
+  {
+    "city": "Svetogorsk",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "15546"
+  },
+  {
+    "city": "Sovetsk",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "15538"
+  },
+  {
+    "city": "Zelenogradsk",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "15493"
+  },
+  {
+    "city": "Abaza",
+    "admin": "Khakasiya",
+    "sort": "15335"
+  },
+  {
+    "city": "Agidel",
+    "admin": "Bashkortostan",
+    "sort": "14601"
+  },
+  {
+    "city": "Chaltyr",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "15334"
+  },
+  {
+    "city": "Krasnovishersk",
+    "admin": "Permskiy Kray",
+    "sort": "15359"
+  },
+  {
+    "city": "Belokurikha",
+    "admin": "Altayskiy Kray",
+    "sort": "15160"
+  },
+  {
+    "city": "Poronaysk",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "15311"
+  },
+  {
+    "city": "Privolzhsk",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "15264"
+  },
+  {
+    "city": "Pestovo",
+    "admin": "Novgorodskaya Oblast’",
+    "sort": "15269"
+  },
+  {
+    "city": "Boksitogorsk",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "15249"
+  },
+  {
+    "city": "Kulunda",
+    "admin": "Altayskiy Kray",
+    "sort": "15102"
+  },
+  {
+    "city": "Leninsk",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "15064"
+  },
+  {
+    "city": "Shlisselburg",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "14763"
+  },
+  {
+    "city": "Pallasovka",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "14940"
+  },
+  {
+    "city": "Nerchinsk",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "14919"
+  },
+  {
+    "city": "Pugachev",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "14908"
+  },
+  {
+    "city": "Kondrovo",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "14857"
+  },
+  {
+    "city": "Kizel",
+    "admin": "Permskiy Kray",
+    "sort": "14883"
+  },
+  {
+    "city": "Chegdomyn",
+    "admin": "Khabarovskiy Kray",
+    "sort": "14855"
+  },
+  {
+    "city": "Navashino",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "14830"
+  },
+  {
+    "city": "Katyr-Yurt",
+    "admin": "Chechnya",
+    "sort": "14720"
+  },
+  {
+    "city": "Nevel",
+    "admin": "Pskovskaya Oblast’",
+    "sort": "14819"
+  },
+  {
+    "city": "Karabanovo",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "14786"
+  },
+  {
+    "city": "Gryazovets",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "14800"
+  },
+  {
+    "city": "Tsivilsk",
+    "admin": "Chuvashiya",
+    "sort": "14718"
+  },
+  {
+    "city": "Danilov",
+    "admin": "Yaroslavskaya Oblast’",
+    "sort": "14746"
+  },
+  {
+    "city": "Sukhinichi",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "14736"
+  },
+  {
+    "city": "Arzgir",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "14722"
+  },
+  {
+    "city": "Tsimlyansk",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "14528"
+  },
+  {
+    "city": "Ust’-Ordynskiy",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "14538"
+  },
+  {
+    "city": "Krasnyy Kut",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "14483"
+  },
+  {
+    "city": "Geldagana",
+    "admin": "Chechnya",
+    "sort": "14111"
+  },
+  {
+    "city": "Polyarnyye Zori",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "14421"
+  },
+  {
+    "city": "Chudovo",
+    "admin": "Novgorodskaya Oblast’",
+    "sort": "14394"
+  },
+  {
+    "city": "Valday",
+    "admin": "Novgorodskaya Oblast’",
+    "sort": "14379"
+  },
+  {
+    "city": "Lakinsk",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "14330"
+  },
+  {
+    "city": "Yakhroma",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "14275"
+  },
+  {
+    "city": "Medvezhyegorsk",
+    "admin": "Kareliya",
+    "sort": "14340"
+  },
+  {
+    "city": "Zapolyarnyy",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "14330"
+  },
+  {
+    "city": "Svetlogorsk",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "13663"
+  },
+  {
+    "city": "Kashin",
+    "admin": "Tverskaya Oblast’",
+    "sort": "14287"
+  },
+  {
+    "city": "Ochër",
+    "admin": "Permskiy Kray",
+    "sort": "14226"
+  },
+  {
+    "city": "Zherdevka",
+    "admin": "Tambovskaya Oblast’",
+    "sort": "14214"
+  },
+  {
+    "city": "Venëv",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "14211"
+  },
+  {
+    "city": "Mayrtup",
+    "admin": "Chechnya",
+    "sort": "13824"
+  },
+  {
+    "city": "Novoulyanovsk",
+    "admin": "Ul’yanovskaya Oblast’",
+    "sort": "13990"
+  },
+  {
+    "city": "Fokino",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "12938"
+  },
+  {
+    "city": "Lukoyanov",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "14104"
+  },
+  {
+    "city": "Gekhi",
+    "admin": "Chechnya",
+    "sort": "13836"
+  },
+  {
+    "city": "Dubovka",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "13988"
+  },
+  {
+    "city": "Ak-Dovurak",
+    "admin": "Tyva",
+    "sort": "13580"
+  },
+  {
+    "city": "Melenki",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "13789"
+  },
+  {
+    "city": "Kupino",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "13777"
+  },
+  {
+    "city": "Alleroy",
+    "admin": "Chechnya",
+    "sort": "13405"
+  },
+  {
+    "city": "Kuleshovka",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "13692"
+  },
+  {
+    "city": "Nikolayevsk",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "13660"
+  },
+  {
+    "city": "Trubchevsk",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "13613"
+  },
+  {
+    "city": "Zhukovo",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "13576"
+  },
+  {
+    "city": "Pervomaysk",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "13496"
+  },
+  {
+    "city": "Ruza",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "13403"
+  },
+  {
+    "city": "Oboyan",
+    "admin": "Kurskaya Oblast’",
+    "sort": "13413"
+  },
+  {
+    "city": "Akhty",
+    "admin": "Dagestan",
+    "sort": "13405"
+  },
+  {
+    "city": "Golyshmanovo",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "13424"
+  },
+  {
+    "city": "Kasumkent",
+    "admin": "Dagestan",
+    "sort": "13232"
+  },
+  {
+    "city": "Svirsk",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "12945"
+  },
+  {
+    "city": "Novouzensk",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "13261"
+  },
+  {
+    "city": "Gvardeysk",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "13227"
+  },
+  {
+    "city": "Belëv",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "13180"
+  },
+  {
+    "city": "Krasnozavodsk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "13076"
+  },
+  {
+    "city": "Uyar",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "13167"
+  },
+  {
+    "city": "Zabaykalsk",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "13154"
+  },
+  {
+    "city": "Petushki",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "13112"
+  },
+  {
+    "city": "Adygeysk",
+    "admin": "Adygeya",
+    "sort": "12745"
+  },
+  {
+    "city": "Strunino",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "13094"
+  },
+  {
+    "city": "Kaspiyskiy",
+    "admin": "Kalmykiya",
+    "sort": "13125"
+  },
+  {
+    "city": "Nartan",
+    "admin": "Kabardino-Balkariya",
+    "sort": "12813"
+  },
+  {
+    "city": "Chernigovka",
+    "admin": "Primorskiy Kray",
+    "sort": "13046"
+  },
+  {
+    "city": "Divnoye",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "12998"
+  },
+  {
+    "city": "Gornyak",
+    "admin": "Altayskiy Kray",
+    "sort": "12972"
+  },
+  {
+    "city": "Mogocha",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "12953"
+  },
+  {
+    "city": "Sim",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "12893"
+  },
+  {
+    "city": "Vyazemskiy",
+    "admin": "Khabarovskiy Kray",
+    "sort": "12889"
+  },
+  {
+    "city": "Surkhakhi",
+    "admin": "Ingushetiya",
+    "sort": "12734"
+  },
+  {
+    "city": "Samashki",
+    "admin": "Chechnya",
+    "sort": "12738"
+  },
+  {
+    "city": "Syasstroy",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "12824"
+  },
+  {
+    "city": "Gorokhovets",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "12799"
+  },
+  {
+    "city": "Taldom",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "12777"
+  },
+  {
+    "city": "Kalyazin",
+    "admin": "Tverskaya Oblast’",
+    "sort": "12770"
+  },
+  {
+    "city": "Yemva",
+    "admin": "Komi",
+    "sort": "12736"
+  },
+  {
+    "city": "Snezhnogorsk",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "12642"
+  },
+  {
+    "city": "Sagopshi",
+    "admin": "Ingushetiya",
+    "sort": "12614"
+  },
+  {
+    "city": "Khasanya",
+    "admin": "Kabardino-Balkariya",
+    "sort": "10829"
+  },
+  {
+    "city": "Pionerskiy",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "11312"
+  },
+  {
+    "city": "Shilka",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "12663"
+  },
+  {
+    "city": "Baykalsk",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "12629"
+  },
+  {
+    "city": "Yuzha",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "12595"
+  },
+  {
+    "city": "Kataysk",
+    "admin": "Kurganskaya Oblast’",
+    "sort": "12565"
+  },
+  {
+    "city": "El’khotovo",
+    "admin": "North Ossetia",
+    "sort": "12501"
+  },
+  {
+    "city": "Petrov Val",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "12544"
+  },
+  {
+    "city": "Alkhan-Kala",
+    "admin": "Chechnya",
+    "sort": "12340"
+  },
+  {
+    "city": "Kameshkovo",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "12496"
+  },
+  {
+    "city": "Mesker-Yurt",
+    "admin": "Chechnya",
+    "sort": "12224"
+  },
+  {
+    "city": "Khvalynsk",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "12391"
+  },
+  {
+    "city": "Sernovodsk",
+    "admin": "Chechnya",
+    "sort": "12221"
+  },
+  {
+    "city": "Uren",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "12309"
+  },
+  {
+    "city": "Bodaybo",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "12316"
+  },
+  {
+    "city": "Staryye Atagi",
+    "admin": "Chechnya",
+    "sort": "12092"
+  },
+  {
+    "city": "Botlikh",
+    "admin": "Dagestan",
+    "sort": "12159"
+  },
+  {
+    "city": "Aleksandrovsk",
+    "admin": "Permskiy Kray",
+    "sort": "12222"
+  },
+  {
+    "city": "Krasnyy Yar",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "12214"
+  },
+  {
+    "city": "Vylgort",
+    "admin": "Komi",
+    "sort": "12171"
+  },
+  {
+    "city": "Islamey",
+    "admin": "Kabardino-Balkariya",
+    "sort": "12001"
+  },
+  {
+    "city": "Cherlak",
+    "admin": "Omskaya Oblast’",
+    "sort": "12122"
+  },
+  {
+    "city": "Toropets",
+    "admin": "Tverskaya Oblast’",
+    "sort": "12048"
+  },
+  {
+    "city": "Volosovo",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "11987"
+  },
+  {
+    "city": "Krasnousol’skiy",
+    "admin": "Bashkortostan",
+    "sort": "11991"
+  },
+  {
+    "city": "Dalmatovo",
+    "admin": "Kurganskaya Oblast’",
+    "sort": "11938"
+  },
+  {
+    "city": "Arkadak",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "11895"
+  },
+  {
+    "city": "Novaya Lyalya",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "11879"
+  },
+  {
+    "city": "Chaplygin",
+    "admin": "Lipetskaya Oblast’",
+    "sort": "11802"
+  },
+  {
+    "city": "Zayukovo",
+    "admin": "Kabardino-Balkariya",
+    "sort": "11717"
+  },
+  {
+    "city": "Magdagachi",
+    "admin": "Amurskaya Oblast’",
+    "sort": "11739"
+  },
+  {
+    "city": "Dolinsk",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "11685"
+  },
+  {
+    "city": "Udachnyy",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "11676"
+  },
+  {
+    "city": "Chegem Vtoroy",
+    "admin": "Kabardino-Balkariya",
+    "sort": "11575"
+  },
+  {
+    "city": "Likhoslavl",
+    "admin": "Tverskaya Oblast’",
+    "sort": "11594"
+  },
+  {
+    "city": "Kem",
+    "admin": "Kareliya",
+    "sort": "11604"
+  },
+  {
+    "city": "Severnyy",
+    "admin": "Komi",
+    "sort": "11562"
+  },
+  {
+    "city": "Kenzhe",
+    "admin": "Kabardino-Balkariya",
+    "sort": "9669"
+  },
+  {
+    "city": "Nyazepetrovsk",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "11539"
+  },
+  {
+    "city": "Zvenigovo",
+    "admin": "Mariy-El",
+    "sort": "11504"
+  },
+  {
+    "city": "Aginskoye",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "11491"
+  },
+  {
+    "city": "Chkalovsk",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "11462"
+  },
+  {
+    "city": "Nikel",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "11437"
+  },
+  {
+    "city": "Sorsk",
+    "admin": "Khakasiya",
+    "sort": "11416"
+  },
+  {
+    "city": "Yuryuzan",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "11415"
+  },
+  {
+    "city": "Chekmagush",
+    "admin": "Bashkortostan",
+    "sort": "11382"
+  },
+  {
+    "city": "Babayevo",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "11395"
+  },
+  {
+    "city": "Drezna",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "11313"
+  },
+  {
+    "city": "Gornozavodsk",
+    "admin": "Permskiy Kray",
+    "sort": "11375"
+  },
+  {
+    "city": "Alatyr",
+    "admin": "Chuvashiya",
+    "sort": "11086"
+  },
+  {
+    "city": "Boguchar",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "11270"
+  },
+  {
+    "city": "Tetyushi",
+    "admin": "Tatarstan",
+    "sort": "11250"
+  },
+  {
+    "city": "Korablino",
+    "admin": "Ryazanskaya Oblast’",
+    "sort": "11220"
+  },
+  {
+    "city": "Boguchany",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "11232"
+  },
+  {
+    "city": "Kursavka",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "11215"
+  },
+  {
+    "city": "Chulym",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "11216"
+  },
+  {
+    "city": "Zakamensk",
+    "admin": "Buryatiya",
+    "sort": "11164"
+  },
+  {
+    "city": "Baley",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "11151"
+  },
+  {
+    "city": "Kirensk",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "11139"
+  },
+  {
+    "city": "Bolkhov",
+    "admin": "Orlovskaya Oblast’",
+    "sort": "11097"
+  },
+  {
+    "city": "Nazyvayevsk",
+    "admin": "Omskaya Oblast’",
+    "sort": "11101"
+  },
+  {
+    "city": "Vilyuysk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "11095"
+  },
+  {
+    "city": "Narimanov",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "11079"
+  },
+  {
+    "city": "Sosnovka",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "11027"
+  },
+  {
+    "city": "Shalushka",
+    "admin": "Kabardino-Balkariya",
+    "sort": "11004"
+  },
+  {
+    "city": "Borovsk",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "10966"
+  },
+  {
+    "city": "Zasechnoye",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "10906"
+  },
+  {
+    "city": "Karabash",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "10999"
+  },
+  {
+    "city": "Verkhniy Tagil",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "10962"
+  },
+  {
+    "city": "Shagonar",
+    "admin": "Tyva",
+    "sort": "10995"
+  },
+  {
+    "city": "Neman",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "10931"
+  },
+  {
+    "city": "Kandry",
+    "admin": "Bashkortostan",
+    "sort": "10885"
+  },
+  {
+    "city": "Kamen’-Rybolov",
+    "admin": "Primorskiy Kray",
+    "sort": "10909"
+  },
+  {
+    "city": "Mesyagutovo",
+    "admin": "Bashkortostan",
+    "sort": "10883"
+  },
+  {
+    "city": "Khorol",
+    "admin": "Primorskiy Kray",
+    "sort": "10860"
+  },
+  {
+    "city": "Yuzhno-Sukhokumsk",
+    "admin": "Dagestan",
+    "sort": "10641"
+  },
+  {
+    "city": "Nadezhda",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "10695"
+  },
+  {
+    "city": "Surazh",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "10728"
+  },
+  {
+    "city": "Praskoveya",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "10721"
+  },
+  {
+    "city": "Zavitinsk",
+    "admin": "Amurskaya Oblast’",
+    "sort": "10721"
+  },
+  {
+    "city": "Vysokovsk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "10586"
+  },
+  {
+    "city": "Sosenskiy",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "10628"
+  },
+  {
+    "city": "Peschanokopskoye",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "10593"
+  },
+  {
+    "city": "Khilok",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "10607"
+  },
+  {
+    "city": "Malaya Vishera",
+    "admin": "Novgorodskaya Oblast’",
+    "sort": "10602"
+  },
+  {
+    "city": "Zhatay",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10089"
+  },
+  {
+    "city": "Zmeinogorsk",
+    "admin": "Altayskiy Kray",
+    "sort": "10533"
+  },
+  {
+    "city": "Ivangorod",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "10453"
+  },
+  {
+    "city": "Olëkminsk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10490"
+  },
+  {
+    "city": "Pitkyaranta",
+    "admin": "Kareliya",
+    "sort": "10479"
+  },
+  {
+    "city": "Sudogda",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "10442"
+  },
+  {
+    "city": "Zuyevka",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "10447"
+  },
+  {
+    "city": "Sylva",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "10448"
+  },
+  {
+    "city": "Nevelsk",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "10421"
+  },
+  {
+    "city": "Belaya Kholunitsa",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "10406"
+  },
+  {
+    "city": "Sylva",
+    "admin": "Permskiy Kray",
+    "sort": "10113"
+  },
+  {
+    "city": "Taksimo",
+    "admin": "Buryatiya",
+    "sort": "10359"
+  },
+  {
+    "city": "Vorsma",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "10253"
+  },
+  {
+    "city": "Buzdyak",
+    "admin": "Bashkortostan",
+    "sort": "10323"
+  },
+  {
+    "city": "Vytegra",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "10324"
+  },
+  {
+    "city": "Tyukalinsk",
+    "admin": "Omskaya Oblast’",
+    "sort": "10311"
+  },
+  {
+    "city": "Argayash",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "10293"
+  },
+  {
+    "city": "Kambarka",
+    "admin": "Udmurtiya",
+    "sort": "10276"
+  },
+  {
+    "city": "Zaozërnyy",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "10286"
+  },
+  {
+    "city": "Ertil",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "10265"
+  },
+  {
+    "city": "Luza",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "10232"
+  },
+  {
+    "city": "Mikhaylov",
+    "admin": "Ryazanskaya Oblast’",
+    "sort": "10174"
+  },
+  {
+    "city": "Yermolino",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "10089"
+  },
+  {
+    "city": "Opochka",
+    "admin": "Pskovskaya Oblast’",
+    "sort": "10148"
+  },
+  {
+    "city": "Zavolzhsk",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "10121"
+  },
+  {
+    "city": "Tolbazy",
+    "admin": "Bashkortostan",
+    "sort": "10114"
+  },
+  {
+    "city": "Digora",
+    "admin": "North Ossetia",
+    "sort": "10075"
+  },
+  {
+    "city": "Dylym",
+    "admin": "Dagestan",
+    "sort": "10014"
+  },
+  {
+    "city": "Krivodanovka",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "10051"
+  },
+  {
+    "city": "Nogliki",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "10098"
+  },
+  {
+    "city": "Ikryanoye",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "10036"
+  },
+  {
+    "city": "Kosh-Agach",
+    "admin": "Altay",
+    "sort": "10061"
+  },
+  {
+    "city": "Kargopol",
+    "admin": "Arkhangel’skaya Oblast’",
+    "sort": "10055"
+  },
+  {
+    "city": "Volodarsk",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "9972"
+  },
+  {
+    "city": "Vuktyl",
+    "admin": "Komi",
+    "sort": "10017"
+  },
+  {
+    "city": "Alkhan-Yurt",
+    "admin": "Chechnya",
+    "sort": "9783"
+  },
+  {
+    "city": "Novyye Atagi",
+    "admin": "Chechnya",
+    "sort": "9738"
+  },
+  {
+    "city": "Zaozërsk",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "9915"
+  },
+  {
+    "city": "Urzhum",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "9919"
+  },
+  {
+    "city": "Ashukino",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "9544"
+  },
+  {
+    "city": "Kushnarënkovo",
+    "admin": "Bashkortostan",
+    "sort": "9870"
+  },
+  {
+    "city": "Varna",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "9869"
+  },
+  {
+    "city": "Serafimovskiy",
+    "admin": "Bashkortostan",
+    "sort": "9813"
+  },
+  {
+    "city": "Belomorsk",
+    "admin": "Kareliya",
+    "sort": "9861"
+  },
+  {
+    "city": "Suntar",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "9826"
+  },
+  {
+    "city": "Skopin",
+    "admin": "Ryazanskaya Oblast’",
+    "sort": "9511"
+  },
+  {
+    "city": "Dorogobuzh",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "9793"
+  },
+  {
+    "city": "Totma",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "9805"
+  },
+  {
+    "city": "Nyurba",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "9786"
+  },
+  {
+    "city": "Suzdal",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "9749"
+  },
+  {
+    "city": "Aleksandrov Gay",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "9728"
+  },
+  {
+    "city": "Nolinsk",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "9722"
+  },
+  {
+    "city": "Shchuchye",
+    "admin": "Kurganskaya Oblast’",
+    "sort": "9711"
+  },
+  {
+    "city": "Valerik",
+    "admin": "Chechnya",
+    "sort": "9584"
+  },
+  {
+    "city": "Kola",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "9691"
+  },
+  {
+    "city": "Pechory",
+    "admin": "Pskovskaya Oblast’",
+    "sort": "9670"
+  },
+  {
+    "city": "Krasnogvardeyskoye",
+    "admin": "Adygeya",
+    "sort": "9617"
+  },
+  {
+    "city": "Zadonsk",
+    "admin": "Lipetskaya Oblast’",
+    "sort": "9614"
+  },
+  {
+    "city": "Levokumskoye",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "9602"
+  },
+  {
+    "city": "Bakaly",
+    "admin": "Bashkortostan",
+    "sort": "9568"
+  },
+  {
+    "city": "Aksay",
+    "admin": "Dagestan",
+    "sort": "9442"
+  },
+  {
+    "city": "Burayevo",
+    "admin": "Bashkortostan",
+    "sort": "9522"
+  },
+  {
+    "city": "Chechen-Aul",
+    "admin": "Chechnya",
+    "sort": "9300"
+  },
+  {
+    "city": "Aniskino",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "9208"
+  },
+  {
+    "city": "Aleksandrovsk-Sakhalinskiy",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "9504"
+  },
+  {
+    "city": "Lesnoy Gorodok",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "9226"
+  },
+  {
+    "city": "Rudnya",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "9484"
+  },
+  {
+    "city": "Yutsa",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "9427"
+  },
+  {
+    "city": "Bezhetsk",
+    "admin": "Tverskaya Oblast’",
+    "sort": "9450"
+  },
+  {
+    "city": "Kirs",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "9453"
+  },
+  {
+    "city": "Shira",
+    "admin": "Khakasiya",
+    "sort": "9448"
+  },
+  {
+    "city": "Krasnoslobodsk",
+    "admin": "Mordoviya",
+    "sort": "9397"
+  },
+  {
+    "city": "Aniva",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "9405"
+  },
+  {
+    "city": "Verkhneyarkeyevo",
+    "admin": "Bashkortostan",
+    "sort": "9384"
+  },
+  {
+    "city": "Kargat",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "9370"
+  },
+  {
+    "city": "Verkhneuralsk",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "9340"
+  },
+  {
+    "city": "Belousovo",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "9288"
+  },
+  {
+    "city": "Zavyalovo",
+    "admin": "Udmurtiya",
+    "sort": "9243"
+  },
+  {
+    "city": "Pokrovsk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "9256"
+  },
+  {
+    "city": "Nizhniye Sergi",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "9243"
+  },
+  {
+    "city": "Mikhaylovka",
+    "admin": "Primorskiy Kray",
+    "sort": "9153"
+  },
+  {
+    "city": "Bichura",
+    "admin": "Buryatiya",
+    "sort": "9145"
+  },
+  {
+    "city": "Chadan",
+    "admin": "Tyva",
+    "sort": "9139"
+  },
+  {
+    "city": "Tarusa",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "9101"
+  },
+  {
+    "city": "Dzhalka",
+    "admin": "Chechnya",
+    "sort": "8972"
+  },
+  {
+    "city": "Bolokhovo",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "9043"
+  },
+  {
+    "city": "Navoloki",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "9096"
+  },
+  {
+    "city": "Kratovo",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "8904"
+  },
+  {
+    "city": "Kharovsk",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "9099"
+  },
+  {
+    "city": "Verkhnyaya Tura",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "9039"
+  },
+  {
+    "city": "Yelnya",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "8993"
+  },
+  {
+    "city": "Psyzh",
+    "admin": "Karachayevo-Cherkesiya",
+    "sort": "8836"
+  },
+  {
+    "city": "Povarovo",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "8834"
+  },
+  {
+    "city": "Mikhaylovsk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "8921"
+  },
+  {
+    "city": "Suoyarvi",
+    "admin": "Kareliya",
+    "sort": "8920"
+  },
+  {
+    "city": "Serafimovich",
+    "admin": "Volgogradskaya Oblast’",
+    "sort": "8914"
+  },
+  {
+    "city": "Topchikha",
+    "admin": "Altayskiy Kray",
+    "sort": "8906"
+  },
+  {
+    "city": "Kozlovka",
+    "admin": "Chuvashiya",
+    "sort": "8866"
+  },
+  {
+    "city": "Pudozh",
+    "admin": "Kareliya",
+    "sort": "8897"
+  },
+  {
+    "city": "Neya",
+    "admin": "Kostromskaya Oblast’",
+    "sort": "8865"
+  },
+  {
+    "city": "Kuvshinovo",
+    "admin": "Tverskaya Oblast’",
+    "sort": "8857"
+  },
+  {
+    "city": "Minyar",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "8768"
+  },
+  {
+    "city": "Gorodoviki",
+    "admin": "Kalmykiya",
+    "sort": "8798"
+  },
+  {
+    "city": "Soltsy",
+    "admin": "Novgorodskaya Oblast’",
+    "sort": "8803"
+  },
+  {
+    "city": "Mariinskiy Posad",
+    "admin": "Chuvashiya",
+    "sort": "8755"
+  },
+  {
+    "city": "Belozërsk",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "8786"
+  },
+  {
+    "city": "Porkhov",
+    "admin": "Pskovskaya Oblast’",
+    "sort": "8743"
+  },
+  {
+    "city": "Skovorodino",
+    "admin": "Amurskaya Oblast’",
+    "sort": "8746"
+  },
+  {
+    "city": "Volchansk",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "8722"
+  },
+  {
+    "city": "Gremyachinsk",
+    "admin": "Permskiy Kray",
+    "sort": "8732"
+  },
+  {
+    "city": "Mrakovo",
+    "admin": "Bashkortostan",
+    "sort": "8690"
+  },
+  {
+    "city": "Uglegorsk",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "8687"
+  },
+  {
+    "city": "Gubden",
+    "admin": "Dagestan",
+    "sort": "8627"
+  },
+  {
+    "city": "Laishevo",
+    "admin": "Tatarstan",
+    "sort": "8604"
+  },
+  {
+    "city": "Ustyuzhna",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "8622"
+  },
+  {
+    "city": "Lipki",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "8541"
+  },
+  {
+    "city": "Verkhoturye",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "8612"
+  },
+  {
+    "city": "Verkhniy Mamon",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "8561"
+  },
+  {
+    "city": "Karmaskaly",
+    "admin": "Bashkortostan",
+    "sort": "8540"
+  },
+  {
+    "city": "Novoselitskoye",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "8544"
+  },
+  {
+    "city": "Pochinok",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "8545"
+  },
+  {
+    "city": "Dubovskoye",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "8544"
+  },
+  {
+    "city": "Obluchye",
+    "admin": "Yevreyskaya Avtonomnaya Oblast’",
+    "sort": "8540"
+  },
+  {
+    "city": "Biryusinsk",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "8497"
+  },
+  {
+    "city": "Bolgar",
+    "admin": "Tatarstan",
+    "sort": "8476"
+  },
+  {
+    "city": "Vetluga",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "8455"
+  },
+  {
+    "city": "Yadrin",
+    "admin": "Chuvashiya",
+    "sort": "8387"
+  },
+  {
+    "city": "Yuryevets",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "8378"
+  },
+  {
+    "city": "Ketovo",
+    "admin": "Kurganskaya Oblast’",
+    "sort": "8310"
+  },
+  {
+    "city": "Myskhako",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "7954"
+  },
+  {
+    "city": "Tolstoy-Yurt",
+    "admin": "Chechnya",
+    "sort": "8097"
+  },
+  {
+    "city": "Kosterëvo",
+    "admin": "Vladimirskaya Oblast’",
+    "sort": "8216"
+  },
+  {
+    "city": "Sychëvka",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "8220"
+  },
+  {
+    "city": "Endirey",
+    "admin": "Dagestan",
+    "sort": "8105"
+  },
+  {
+    "city": "Novaya Ladoga",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "8203"
+  },
+  {
+    "city": "Verkhnyaya Khava",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "8154"
+  },
+  {
+    "city": "Medyn",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "8109"
+  },
+  {
+    "city": "Vityazevo",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "7936"
+  },
+  {
+    "city": "Olonets",
+    "admin": "Kareliya",
+    "sort": "8091"
+  },
+  {
+    "city": "Zapadnaya Dvina",
+    "admin": "Tverskaya Oblast’",
+    "sort": "8089"
+  },
+  {
+    "city": "Staraya Sunzha",
+    "admin": "Chechnya",
+    "sort": "7843"
+  },
+  {
+    "city": "Melnikovo",
+    "admin": "Tomskaya Oblast’",
+    "sort": "8048"
+  },
+  {
+    "city": "Taseyevo",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "8038"
+  },
+  {
+    "city": "Komsomolsk",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "8023"
+  },
+  {
+    "city": "Krasnokholmskiy",
+    "admin": "Bashkortostan",
+    "sort": "8021"
+  },
+  {
+    "city": "Insar",
+    "admin": "Mordoviya",
+    "sort": "8010"
+  },
+  {
+    "city": "Mamonovo",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "7953"
+  },
+  {
+    "city": "Kozhevnikovo",
+    "admin": "Tomskaya Oblast’",
+    "sort": "8009"
+  },
+  {
+    "city": "Nikolsk",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "7996"
+  },
+  {
+    "city": "Krasnyy Yar",
+    "admin": "Samarskaya Oblast’",
+    "sort": "7958"
+  },
+  {
+    "city": "Abatskoye",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "7959"
+  },
+  {
+    "city": "Arkhipo-Osipovka",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "7853"
+  },
+  {
+    "city": "Gorodishche",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "7885"
+  },
+  {
+    "city": "Bol’sheust’ikinskoye",
+    "admin": "Bashkortostan",
+    "sort": "7839"
+  },
+  {
+    "city": "Barvikha",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "7213"
+  },
+  {
+    "city": "Makushino",
+    "admin": "Kurganskaya Oblast’",
+    "sort": "7811"
+  },
+  {
+    "city": "Malaya Purga",
+    "admin": "Udmurtiya",
+    "sort": "7768"
+  },
+  {
+    "city": "Korkmaskala",
+    "admin": "Dagestan",
+    "sort": "7722"
+  },
+  {
+    "city": "Dolgoderevenskoye",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "7700"
+  },
+  {
+    "city": "Belinskiy",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "7694"
+  },
+  {
+    "city": "Staritsa",
+    "admin": "Tverskaya Oblast’",
+    "sort": "7676"
+  },
+  {
+    "city": "Galashki",
+    "admin": "Ingushetiya",
+    "sort": "7519"
+  },
+  {
+    "city": "Askarovo",
+    "admin": "Bashkortostan",
+    "sort": "7634"
+  },
+  {
+    "city": "Chërnyy Yar",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "7621"
+  },
+  {
+    "city": "Yenotayevka",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "7616"
+  },
+  {
+    "city": "Mglin",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "7578"
+  },
+  {
+    "city": "Dno",
+    "admin": "Pskovskaya Oblast’",
+    "sort": "7525"
+  },
+  {
+    "city": "Kirgiz-Miyaki",
+    "admin": "Bashkortostan",
+    "sort": "7473"
+  },
+  {
+    "city": "Sovetsk",
+    "admin": "Tul’skaya Oblast’",
+    "sort": "7405"
+  },
+  {
+    "city": "Kirillov",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "7468"
+  },
+  {
+    "city": "Salair",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "7452"
+  },
+  {
+    "city": "Malmyzh",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "7422"
+  },
+  {
+    "city": "Isyangulovo",
+    "admin": "Bashkortostan",
+    "sort": "7418"
+  },
+  {
+    "city": "Kargasok",
+    "admin": "Tomskaya Oblast’",
+    "sort": "7424"
+  },
+  {
+    "city": "Ivolginsk",
+    "admin": "Buryatiya",
+    "sort": "7382"
+  },
+  {
+    "city": "Kurush",
+    "admin": "Dagestan",
+    "sort": "7277"
+  },
+  {
+    "city": "Uyskoye",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "7352"
+  },
+  {
+    "city": "Novolakskoye",
+    "admin": "Dagestan",
+    "sort": "7159"
+  },
+  {
+    "city": "Starokucherganovka",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "6343"
+  },
+  {
+    "city": "Lakhdenpokhya",
+    "admin": "Kareliya",
+    "sort": "7294"
+  },
+  {
+    "city": "Petropavlovka",
+    "admin": "Buryatiya",
+    "sort": "7277"
+  },
+  {
+    "city": "Koshekhabl",
+    "admin": "Adygeya",
+    "sort": "7157"
+  },
+  {
+    "city": "Krasnogvardeyskoye",
+    "admin": "Belgorodskaya Oblast’",
+    "sort": "7205"
+  },
+  {
+    "city": "Yakshur-Bod’ya",
+    "admin": "Udmurtiya",
+    "sort": "7211"
+  },
+  {
+    "city": "Duba-Yurt",
+    "admin": "Chechnya",
+    "sort": "6961"
+  },
+  {
+    "city": "Semënovka",
+    "admin": "Mariy-El",
+    "sort": "6751"
+  },
+  {
+    "city": "Magaramkent",
+    "admin": "Dagestan",
+    "sort": "6953"
+  },
+  {
+    "city": "Durgeli",
+    "admin": "Dagestan",
+    "sort": "7105"
+  },
+  {
+    "city": "Berdakel",
+    "admin": "Chechnya",
+    "sort": "6945"
+  },
+  {
+    "city": "Bednodem’yanovsk",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "7106"
+  },
+  {
+    "city": "Novosokolniki",
+    "admin": "Pskovskaya Oblast’",
+    "sort": "7105"
+  },
+  {
+    "city": "Krasnyy Chikoy",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "7107"
+  },
+  {
+    "city": "Okhansk",
+    "admin": "Permskiy Kray",
+    "sort": "7087"
+  },
+  {
+    "city": "Andreapol",
+    "admin": "Tverskaya Oblast’",
+    "sort": "7079"
+  },
+  {
+    "city": "Solyanka",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "5332"
+  },
+  {
+    "city": "Polessk",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "7011"
+  },
+  {
+    "city": "Yarkovo",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "7017"
+  },
+  {
+    "city": "Akyar",
+    "admin": "Bashkortostan",
+    "sort": "6941"
+  },
+  {
+    "city": "Tommot",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "6935"
+  },
+  {
+    "city": "Vengerovo",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "6928"
+  },
+  {
+    "city": "Askino",
+    "admin": "Bashkortostan",
+    "sort": "6918"
+  },
+  {
+    "city": "Zakan-Yurt",
+    "admin": "Chechnya",
+    "sort": "6802"
+  },
+  {
+    "city": "Nizhnyaya Tavda",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "6846"
+  },
+  {
+    "city": "Knyaginino",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "6804"
+  },
+  {
+    "city": "Vizinga",
+    "admin": "Komi",
+    "sort": "6810"
+  },
+  {
+    "city": "Ytyk-Kyuyël’",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "6796"
+  },
+  {
+    "city": "Velizh",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "6788"
+  },
+  {
+    "city": "Dovolnoye",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "6774"
+  },
+  {
+    "city": "Yetkul",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "6740"
+  },
+  {
+    "city": "Kamennogorsk",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "6696"
+  },
+  {
+    "city": "Aleksandrovskoye",
+    "admin": "Tomskaya Oblast’",
+    "sort": "6721"
+  },
+  {
+    "city": "Bol’shaya Chernigovka",
+    "admin": "Samarskaya Oblast’",
+    "sort": "6693"
+  },
+  {
+    "city": "Karagay",
+    "admin": "Permskiy Kray",
+    "sort": "6682"
+  },
+  {
+    "city": "Sevsk",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "6663"
+  },
+  {
+    "city": "Verkhniye Tatyshly",
+    "admin": "Bashkortostan",
+    "sort": "6645"
+  },
+  {
+    "city": "Kizilskoye",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "6651"
+  },
+  {
+    "city": "Verkhniye Kigi",
+    "admin": "Bashkortostan",
+    "sort": "6637"
+  },
+  {
+    "city": "Zavetnoye",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "6633"
+  },
+  {
+    "city": "Tsiolkovskiy",
+    "admin": "Amurskaya Oblast’",
+    "sort": "6535"
+  },
+  {
+    "city": "Amga",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "6626"
+  },
+  {
+    "city": "Verkhneye Kazanishche",
+    "admin": "Dagestan",
+    "sort": "6573"
+  },
+  {
+    "city": "Bezopasnoye",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "6598"
+  },
+  {
+    "city": "Orlov",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "6607"
+  },
+  {
+    "city": "Sretensk",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "6581"
+  },
+  {
+    "city": "Makaryev",
+    "admin": "Kostromskaya Oblast’",
+    "sort": "6579"
+  },
+  {
+    "city": "Serzhen’-Yurt",
+    "admin": "Chechnya",
+    "sort": "6359"
+  },
+  {
+    "city": "Agapovka",
+    "admin": "Chelyabinskaya Oblast’",
+    "sort": "6561"
+  },
+  {
+    "city": "Makarov",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "6567"
+  },
+  {
+    "city": "Spassk-Ryazanskiy",
+    "admin": "Ryazanskaya Oblast’",
+    "sort": "6553"
+  },
+  {
+    "city": "Bagrationovsk",
+    "admin": "Kaliningradskaya Oblast’",
+    "sort": "6482"
+  },
+  {
+    "city": "Yar-Sale",
+    "admin": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "sort": "6486"
+  },
+  {
+    "city": "Grayvoron",
+    "admin": "Belgorodskaya Oblast’",
+    "sort": "6449"
+  },
+  {
+    "city": "Shalya",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "6471"
+  },
+  {
+    "city": "Baykalovo",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "6457"
+  },
+  {
+    "city": "Berdigestyakh",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "6462"
+  },
+  {
+    "city": "Bizhbulyak",
+    "admin": "Bashkortostan",
+    "sort": "6446"
+  },
+  {
+    "city": "Dmitriyev-L’govskiy",
+    "admin": "Kurskaya Oblast’",
+    "sort": "6430"
+  },
+  {
+    "city": "Sengiley",
+    "admin": "Ul’yanovskaya Oblast’",
+    "sort": "6405"
+  },
+  {
+    "city": "Yermolayevo",
+    "admin": "Bashkortostan",
+    "sort": "6397"
+  },
+  {
+    "city": "Oranzherei",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "6350"
+  },
+  {
+    "city": "Yazykovo",
+    "admin": "Bashkortostan",
+    "sort": "6368"
+  },
+  {
+    "city": "Kizhinga",
+    "admin": "Buryatiya",
+    "sort": "6373"
+  },
+  {
+    "city": "Usolye",
+    "admin": "Permskiy Kray",
+    "sort": "6368"
+  },
+  {
+    "city": "Staraya Mayna",
+    "admin": "Ul’yanovskaya Oblast’",
+    "sort": "6331"
+  },
+  {
+    "city": "Verkhnevilyuysk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "6329"
+  },
+  {
+    "city": "Uporovo",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "6314"
+  },
+  {
+    "city": "Zubtsov",
+    "admin": "Tverskaya Oblast’",
+    "sort": "6300"
+  },
+  {
+    "city": "Mikhaylovka",
+    "admin": "Bashkortostan",
+    "sort": "5384"
+  },
+  {
+    "city": "Sotnikovo",
+    "admin": "Buryatiya",
+    "sort": "6274"
+  },
+  {
+    "city": "Sursk",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "6254"
+  },
+  {
+    "city": "Puchezh",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "6255"
+  },
+  {
+    "city": "Vesyegonsk",
+    "admin": "Tverskaya Oblast’",
+    "sort": "6219"
+  },
+  {
+    "city": "Murashi",
+    "admin": "Kirovskaya Oblast’",
+    "sort": "6218"
+  },
+  {
+    "city": "Nikolo-Berëzovka",
+    "admin": "Bashkortostan",
+    "sort": "6202"
+  },
+  {
+    "city": "Demidov",
+    "admin": "Smolenskaya Oblast’",
+    "sort": "6213"
+  },
+  {
+    "city": "Takhtamukay",
+    "admin": "Adygeya",
+    "sort": "6031"
+  },
+  {
+    "city": "Temnikov",
+    "admin": "Mordoviya",
+    "sort": "6179"
+  },
+  {
+    "city": "Kulary",
+    "admin": "Chechnya",
+    "sort": "5960"
+  },
+  {
+    "city": "Kuybyshevo",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "6145"
+  },
+  {
+    "city": "Odesskoye",
+    "admin": "Omskaya Oblast’",
+    "sort": "6148"
+  },
+  {
+    "city": "Trunovskoye",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "6121"
+  },
+  {
+    "city": "Sosnovo-Ozerskoye",
+    "admin": "Buryatiya",
+    "sort": "6128"
+  },
+  {
+    "city": "Novokhopërsk",
+    "admin": "Voronezhskaya Oblast’",
+    "sort": "6108"
+  },
+  {
+    "city": "Shikhany",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "5560"
+  },
+  {
+    "city": "Verkh-Tula",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "6020"
+  },
+  {
+    "city": "Uchaly",
+    "admin": "Bashkortostan",
+    "sort": "6049"
+  },
+  {
+    "city": "Ulëty",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "6061"
+  },
+  {
+    "city": "Kabansk",
+    "admin": "Buryatiya",
+    "sort": "6038"
+  },
+  {
+    "city": "Mishkino",
+    "admin": "Bashkortostan",
+    "sort": "6021"
+  },
+  {
+    "city": "Krasavino",
+    "admin": "Vologodskaya Oblast’",
+    "sort": "6021"
+  },
+  {
+    "city": "Khlevnoye",
+    "admin": "Lipetskaya Oblast’",
+    "sort": "6007"
+  },
+  {
+    "city": "Parabel’",
+    "admin": "Tomskaya Oblast’",
+    "sort": "6018"
+  },
+  {
+    "city": "Azovo",
+    "admin": "Omskaya Oblast’",
+    "sort": "5997"
+  },
+  {
+    "city": "Soligalich",
+    "admin": "Kostromskaya Oblast’",
+    "sort": "5998"
+  },
+  {
+    "city": "Belyayevka",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "5992"
+  },
+  {
+    "city": "Yukhnov",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "5985"
+  },
+  {
+    "city": "Karaidel",
+    "admin": "Bashkortostan",
+    "sort": "5980"
+  },
+  {
+    "city": "Alnashi",
+    "admin": "Udmurtiya",
+    "sort": "5964"
+  },
+  {
+    "city": "Novobelokatay",
+    "admin": "Bashkortostan",
+    "sort": "5961"
+  },
+  {
+    "city": "Zaraysk",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "5918"
+  },
+  {
+    "city": "Fatezh",
+    "admin": "Kurskaya Oblast’",
+    "sort": "5951"
+  },
+  {
+    "city": "Tashtyp",
+    "admin": "Khakasiya",
+    "sort": "5946"
+  },
+  {
+    "city": "Sharan",
+    "admin": "Bashkortostan",
+    "sort": "5929"
+  },
+  {
+    "city": "Shatsk",
+    "admin": "Ryazanskaya Oblast’",
+    "sort": "5935"
+  },
+  {
+    "city": "Sterlibashevo",
+    "admin": "Bashkortostan",
+    "sort": "5930"
+  },
+  {
+    "city": "Bogatoye",
+    "admin": "Samarskaya Oblast’",
+    "sort": "5922"
+  },
+  {
+    "city": "Bazarnyye Mataki",
+    "admin": "Tatarstan",
+    "sort": "5899"
+  },
+  {
+    "city": "Alzamay",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "5908"
+  },
+  {
+    "city": "Ubinskoye",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "5908"
+  },
+  {
+    "city": "Turuntayevo",
+    "admin": "Buryatiya",
+    "sort": "5901"
+  },
+  {
+    "city": "Korocha",
+    "admin": "Belgorodskaya Oblast’",
+    "sort": "5853"
+  },
+  {
+    "city": "Arkhangelskoye",
+    "admin": "Bashkortostan",
+    "sort": "5819"
+  },
+  {
+    "city": "Poshekhonye",
+    "admin": "Yaroslavskaya Oblast’",
+    "sort": "5821"
+  },
+  {
+    "city": "Debesy",
+    "admin": "Udmurtiya",
+    "sort": "5778"
+  },
+  {
+    "city": "Novaya Mayna",
+    "admin": "Ul’yanovskaya Oblast’",
+    "sort": "5778"
+  },
+  {
+    "city": "Sudzha",
+    "admin": "Kurskaya Oblast’",
+    "sort": "5759"
+  },
+  {
+    "city": "Dyshne-Vedeno",
+    "admin": "Chechnya",
+    "sort": "5732"
+  },
+  {
+    "city": "Alkhazurovo",
+    "admin": "Chechnya",
+    "sort": "5534"
+  },
+  {
+    "city": "Kapustin Yar",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "5724"
+  },
+  {
+    "city": "Belgatoy",
+    "admin": "Chechnya",
+    "sort": "5513"
+  },
+  {
+    "city": "Bol’shaya Kudara",
+    "admin": "Buryatiya",
+    "sort": "5712"
+  },
+  {
+    "city": "Gergebil",
+    "admin": "Dagestan",
+    "sort": "5622"
+  },
+  {
+    "city": "Vladimiro-Aleksandrovskoye",
+    "admin": "Primorskiy Kray",
+    "sort": "5708"
+  },
+  {
+    "city": "Primorsk",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "5682"
+  },
+  {
+    "city": "Barguzin",
+    "admin": "Buryatiya",
+    "sort": "5702"
+  },
+  {
+    "city": "Barabash",
+    "admin": "Primorskiy Kray",
+    "sort": "5691"
+  },
+  {
+    "city": "Shatrovo",
+    "admin": "Kurganskaya Oblast’",
+    "sort": "5688"
+  },
+  {
+    "city": "Gavrilov Posad",
+    "admin": "Ivanovskaya Oblast’",
+    "sort": "5657"
+  },
+  {
+    "city": "Sigayevo",
+    "admin": "Udmurtiya",
+    "sort": "5659"
+  },
+  {
+    "city": "Prigorodnoye",
+    "admin": "Chechnya",
+    "sort": "5449"
+  },
+  {
+    "city": "Myshkin",
+    "admin": "Yaroslavskaya Oblast’",
+    "sort": "5647"
+  },
+  {
+    "city": "Subkhankulovo",
+    "admin": "Bashkortostan",
+    "sort": "5598"
+  },
+  {
+    "city": "Gamovo",
+    "admin": "Permskiy Kray",
+    "sort": "5464"
+  },
+  {
+    "city": "Starobaltachevo",
+    "admin": "Bashkortostan",
+    "sort": "5598"
+  },
+  {
+    "city": "Novoyegor’yevskoye",
+    "admin": "Altayskiy Kray",
+    "sort": "5596"
+  },
+  {
+    "city": "Zilair",
+    "admin": "Bashkortostan",
+    "sort": "5585"
+  },
+  {
+    "city": "Onguday",
+    "admin": "Altay",
+    "sort": "5586"
+  },
+  {
+    "city": "Aginskoye",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "5584"
+  },
+  {
+    "city": "Shalazhi",
+    "admin": "Chechnya",
+    "sort": "5332"
+  },
+  {
+    "city": "Bagan",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "5510"
+  },
+  {
+    "city": "Nachalovo",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "5451"
+  },
+  {
+    "city": "Makhkety",
+    "admin": "Chechnya",
+    "sort": "5454"
+  },
+  {
+    "city": "Bol’shoye Nagatkino",
+    "admin": "Ul’yanovskaya Oblast’",
+    "sort": "5462"
+  },
+  {
+    "city": "Zhizdra",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "5461"
+  },
+  {
+    "city": "Pervomayskoye",
+    "admin": "Altayskiy Kray",
+    "sort": "5454"
+  },
+  {
+    "city": "Kurumkan",
+    "admin": "Buryatiya",
+    "sort": "5465"
+  },
+  {
+    "city": "Poretskoye",
+    "admin": "Chuvashiya",
+    "sort": "5436"
+  },
+  {
+    "city": "Piterka",
+    "admin": "Saratovskaya Oblast’",
+    "sort": "5439"
+  },
+  {
+    "city": "Paranga",
+    "admin": "Mariy-El",
+    "sort": "5411"
+  },
+  {
+    "city": "Sebezh",
+    "admin": "Pskovskaya Oblast’",
+    "sort": "5401"
+  },
+  {
+    "city": "Zdvinsk",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "5402"
+  },
+  {
+    "city": "Komsomolskoye",
+    "admin": "Chuvashiya",
+    "sort": "5345"
+  },
+  {
+    "city": "Zlynka",
+    "admin": "Bryanskaya Oblast’",
+    "sort": "5369"
+  },
+  {
+    "city": "Pytalovo",
+    "admin": "Pskovskaya Oblast’",
+    "sort": "5354"
+  },
+  {
+    "city": "Spas-Klepiki",
+    "admin": "Ryazanskaya Oblast’",
+    "sort": "5331"
+  },
+  {
+    "city": "Bol’shoye Sorokino",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "5317"
+  },
+  {
+    "city": "Bilibino",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "5319"
+  },
+  {
+    "city": "Sedelnikovo",
+    "admin": "Omskaya Oblast’",
+    "sort": "5316"
+  },
+  {
+    "city": "Kolosovka",
+    "admin": "Omskaya Oblast’",
+    "sort": "5313"
+  },
+  {
+    "city": "Khatassy",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "5222"
+  },
+  {
+    "city": "Molchanovo",
+    "admin": "Tomskaya Oblast’",
+    "sort": "5305"
+  },
+  {
+    "city": "Avdon",
+    "admin": "Bashkortostan",
+    "sort": "5263"
+  },
+  {
+    "city": "Krivosheino",
+    "admin": "Tomskaya Oblast’",
+    "sort": "5297"
+  },
+  {
+    "city": "Znamenskoye",
+    "admin": "Omskaya Oblast’",
+    "sort": "5294"
+  },
+  {
+    "city": "Kyshtovka",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "5282"
+  },
+  {
+    "city": "Sechenovo",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "5263"
+  },
+  {
+    "city": "Syumsi",
+    "admin": "Udmurtiya",
+    "sort": "5250"
+  },
+  {
+    "city": "Beya",
+    "admin": "Khakasiya",
+    "sort": "5247"
+  },
+  {
+    "city": "Baryshevo",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "5195"
+  },
+  {
+    "city": "Sasykoli",
+    "admin": "Astrakhanskaya Oblast’",
+    "sort": "5224"
+  },
+  {
+    "city": "Vereya",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "5123"
+  },
+  {
+    "city": "Selty",
+    "admin": "Udmurtiya",
+    "sort": "5204"
+  },
+  {
+    "city": "Rodniki",
+    "admin": "Moskovskaya Oblast’",
+    "sort": "5189"
+  },
+  {
+    "city": "Konstantinovka",
+    "admin": "Amurskaya Oblast’",
+    "sort": "5197"
+  },
+  {
+    "city": "Staroye Shaygovo",
+    "admin": "Mordoviya",
+    "sort": "5185"
+  },
+  {
+    "city": "Kyren",
+    "admin": "Buryatiya",
+    "sort": "5191"
+  },
+  {
+    "city": "Shebalino",
+    "admin": "Altay",
+    "sort": "5185"
+  },
+  {
+    "city": "Vedeno",
+    "admin": "Chechnya",
+    "sort": "5133"
+  },
+  {
+    "city": "Severnoye",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "5178"
+  },
+  {
+    "city": "Berdyuzhye",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "5158"
+  },
+  {
+    "city": "Zyryanskoye",
+    "admin": "Tomskaya Oblast’",
+    "sort": "5150"
+  },
+  {
+    "city": "Krasnyy Kholm",
+    "admin": "Tverskaya Oblast’",
+    "sort": "5140"
+  },
+  {
+    "city": "Russkiy Kameshkir",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "5131"
+  },
+  {
+    "city": "Idrinskoye",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "5135"
+  },
+  {
+    "city": "Khatukay",
+    "admin": "Adygeya",
+    "sort": "5072"
+  },
+  {
+    "city": "Dmitrovsk-Orlovskiy",
+    "admin": "Orlovskaya Oblast’",
+    "sort": "5105"
+  },
+  {
+    "city": "Bol’shoye Boldino",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "5074"
+  },
+  {
+    "city": "Lyubim",
+    "admin": "Yaroslavskaya Oblast’",
+    "sort": "5076"
+  },
+  {
+    "city": "Uvat",
+    "admin": "Tyumenskaya Oblast’",
+    "sort": "5031"
+  },
+  {
+    "city": "Mukhorshibir",
+    "admin": "Buryatiya",
+    "sort": "5014"
+  },
+  {
+    "city": "Chukhloma",
+    "admin": "Kostromskaya Oblast’",
+    "sort": "5015"
+  },
+  {
+    "city": "Igarka",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "4975"
+  },
+  {
+    "city": "Turukhansk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "4774"
+  },
+  {
+    "city": "Susuman",
+    "admin": "Magadanskaya Oblast’",
+    "sort": "4760"
+  },
+  {
+    "city": "Bagdarin",
+    "admin": "Buryatiya",
+    "sort": "4735"
+  },
+  {
+    "city": "Pevek",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "4053"
+  },
+  {
+    "city": "Srednekolymsk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "3489"
+  },
+  {
+    "city": "Zhigansk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "3399"
+  },
+  {
+    "city": "Mezen",
+    "admin": "Arkhangel’skaya Oblast’",
+    "sort": "3267"
+  },
+  {
+    "city": "Teeli",
+    "admin": "Tyva",
+    "sort": "3192"
+  },
+  {
+    "city": "Severo-Kuril’sk",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "2485"
+  },
+  {
+    "city": "Saskylakh",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "2317"
+  },
+  {
+    "city": "Novyy Port",
+    "admin": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "sort": "1790"
+  },
+  {
+    "city": "Artëmovsk",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "1562"
+  },
+  {
+    "city": "Kazachye",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "1367"
+  },
+  {
+    "city": "Nakhodka",
+    "admin": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "sort": "1365"
+  },
+  {
+    "city": "Lavrentiya",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "1242"
+  },
+  {
+    "city": "Verkhoyansk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "1122"
+  },
+  {
+    "city": "Chumikan",
+    "admin": "Khabarovskiy Kray",
+    "sort": "1091"
+  },
+  {
+    "city": "Ayan",
+    "admin": "Khabarovskiy Kray",
+    "sort": "920"
+  },
+  {
+    "city": "Omolon",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "785"
+  },
+  {
+    "city": "Uelen",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "619"
+  },
+  {
+    "city": "Mikhalkino",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "570"
+  },
+  {
+    "city": "Progress",
+    "admin": "Amurskaya Oblast’",
+    "sort": "146"
+  },
+  {
+    "city": "Oymyakon",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "319"
+  },
+  {
+    "city": "Shoyna",
+    "admin": "Nenetskiy Avtonomnyy Okrug",
+    "sort": "300"
+  },
+  {
+    "city": "Enurmino",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "297"
+  },
+  {
+    "city": "Korf",
+    "admin": "Kamchatskiy Kray",
+    "sort": "175"
+  },
+  {
+    "city": "Kovda",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "20"
+  },
+  {
+    "city": "Tiyerbes",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10"
+  },
+  {
+    "city": "Ust’-Nyukzha",
+    "admin": "Amurskaya Oblast’",
+    "sort": "10"
+  },
+  {
+    "city": "Ust’-Olenëk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10"
+  },
+  {
+    "city": "Zhilinda",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10"
+  },
+  {
+    "city": "Olenëk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10"
+  },
+  {
+    "city": "Ambarchik",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "4"
+  },
+  {
+    "city": "Logashkino",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "0"
+  },
+  {
+    "city": "Mikun",
+    "admin": "Komi",
+    "sort": "9796"
+  },
+  {
+    "city": "Sultan-Yangiyurt",
+    "admin": "Dagestan",
+    "sort": "9458"
+  },
+  {
+    "city": "Dombarovskiy",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "9556"
+  },
+  {
+    "city": "Igrim",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "9545"
+  },
+  {
+    "city": "Soldato-Aleksandrovskoye",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "9516"
+  },
+  {
+    "city": "Mikhaylovskoye",
+    "admin": "North Ossetia",
+    "sort": "9217"
+  },
+  {
+    "city": "Podstepki",
+    "admin": "Samarskaya Oblast’",
+    "sort": "9186"
+  },
+  {
+    "city": "Ust’-Nera",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "9148"
+  },
+  {
+    "city": "Vinsady",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "9079"
+  },
+  {
+    "city": "Argudan",
+    "admin": "Kabardino-Balkariya",
+    "sort": "9010"
+  },
+  {
+    "city": "Nizhniy Odes",
+    "admin": "Komi",
+    "sort": "9111"
+  },
+  {
+    "city": "Verkhniye Achaluki",
+    "admin": "Ingushetiya",
+    "sort": "8590"
+  },
+  {
+    "city": "Chermen",
+    "admin": "North Ossetia",
+    "sort": "8508"
+  },
+  {
+    "city": "Lakha Nëvre",
+    "admin": "Chechnya",
+    "sort": "8475"
+  },
+  {
+    "city": "Elin-Yurt",
+    "admin": "Chechnya",
+    "sort": "8446"
+  },
+  {
+    "city": "Olovyannaya",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "8247"
+  },
+  {
+    "city": "Gizel",
+    "admin": "North Ossetia",
+    "sort": "8178"
+  },
+  {
+    "city": "Khomutovo",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "8184"
+  },
+  {
+    "city": "Sarmakovo",
+    "admin": "Kabardino-Balkariya",
+    "sort": "8128"
+  },
+  {
+    "city": "Kagalnik",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "8116"
+  },
+  {
+    "city": "Grabovo",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "8048"
+  },
+  {
+    "city": "Baksanenok",
+    "admin": "Kabardino-Balkariya",
+    "sort": "7843"
+  },
+  {
+    "city": "Benoy-Yurt",
+    "admin": "Chechnya",
+    "sort": "7581"
+  },
+  {
+    "city": "Kabardinka",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "7550"
+  },
+  {
+    "city": "Ivanovskoye",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "7518"
+  },
+  {
+    "city": "Zheshart",
+    "admin": "Komi",
+    "sort": "7364"
+  },
+  {
+    "city": "Dalakovo",
+    "admin": "Ingushetiya",
+    "sort": "7158"
+  },
+  {
+    "city": "Inarki",
+    "admin": "Ingushetiya",
+    "sort": "7163"
+  },
+  {
+    "city": "Obyachevo",
+    "admin": "Komi",
+    "sort": "7168"
+  },
+  {
+    "city": "Togur",
+    "admin": "Tomskaya Oblast’",
+    "sort": "7051"
+  },
+  {
+    "city": "Malka",
+    "admin": "Kabardino-Balkariya",
+    "sort": "6893"
+  },
+  {
+    "city": "Psygansu",
+    "admin": "Kabardino-Balkariya",
+    "sort": "6797"
+  },
+  {
+    "city": "Supsekh",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "6669"
+  },
+  {
+    "city": "Levokumka",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "6715"
+  },
+  {
+    "city": "Khandyga",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "6796"
+  },
+  {
+    "city": "Staryy Cherek",
+    "admin": "Kabardino-Balkariya",
+    "sort": "6631"
+  },
+  {
+    "city": "Kurumoch",
+    "admin": "Samarskaya Oblast’",
+    "sort": "6697"
+  },
+  {
+    "city": "Domna",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "6687"
+  },
+  {
+    "city": "Vozdvizhenka",
+    "admin": "Primorskiy Kray",
+    "sort": "6454"
+  },
+  {
+    "city": "Divnomorskoye",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "6358"
+  },
+  {
+    "city": "Tatarka",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "6365"
+  },
+  {
+    "city": "Velikovechnoye",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "6238"
+  },
+  {
+    "city": "Strugi-Krasnyye",
+    "admin": "Pskovskaya Oblast’",
+    "sort": "6313"
+  },
+  {
+    "city": "Troitsko-Pechorsk",
+    "admin": "Komi",
+    "sort": "6285"
+  },
+  {
+    "city": "Khurba",
+    "admin": "Khabarovskiy Kray",
+    "sort": "6277"
+  },
+  {
+    "city": "Kudryashovskiy",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "6205"
+  },
+  {
+    "city": "Chemodanovka",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "6133"
+  },
+  {
+    "city": "Lakkha Nëvre",
+    "admin": "Chechnya",
+    "sort": "6091"
+  },
+  {
+    "city": "Ivanovka",
+    "admin": "Orenburgskaya Oblast’",
+    "sort": "6129"
+  },
+  {
+    "city": "Umba",
+    "admin": "Murmanskaya Oblast’",
+    "sort": "6128"
+  },
+  {
+    "city": "Tazovskiy",
+    "admin": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "sort": "5981"
+  },
+  {
+    "city": "Achikulak",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "5936"
+  },
+  {
+    "city": "Shemordan",
+    "admin": "Tatarstan",
+    "sort": "5876"
+  },
+  {
+    "city": "Urvan",
+    "admin": "Kabardino-Balkariya",
+    "sort": "5813"
+  },
+  {
+    "city": "Mundybash",
+    "admin": "Kemerovskaya Oblast’",
+    "sort": "5870"
+  },
+  {
+    "city": "Zandak",
+    "admin": "Chechnya",
+    "sort": "5773"
+  },
+  {
+    "city": "Spasskoye",
+    "admin": "Primorskiy Kray",
+    "sort": "5778"
+  },
+  {
+    "city": "Sokur",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "5770"
+  },
+  {
+    "city": "Kamennomostskoye",
+    "admin": "Kabardino-Balkariya",
+    "sort": "5760"
+  },
+  {
+    "city": "Chernolesskoye",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "5747"
+  },
+  {
+    "city": "Krym",
+    "admin": "Rostovskaya Oblast’",
+    "sort": "5709"
+  },
+  {
+    "city": "Kazminskoye",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "5676"
+  },
+  {
+    "city": "Tiksi",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "5700"
+  },
+  {
+    "city": "Ust’-Kulom",
+    "admin": "Komi",
+    "sort": "5648"
+  },
+  {
+    "city": "Kiyevskoye",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "5543"
+  },
+  {
+    "city": "Altud",
+    "admin": "Kabardino-Balkariya",
+    "sort": "5554"
+  },
+  {
+    "city": "Kugulta",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "5574"
+  },
+  {
+    "city": "Benoy",
+    "admin": "Chechnya",
+    "sort": "5484"
+  },
+  {
+    "city": "Okhotsk",
+    "admin": "Khabarovskiy Kray",
+    "sort": "5570"
+  },
+  {
+    "city": "Tsibanobalka",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "5370"
+  },
+  {
+    "city": "Tura",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "5444"
+  },
+  {
+    "city": "Yarkovo",
+    "admin": "Novosibirskaya Oblast’",
+    "sort": "5379"
+  },
+  {
+    "city": "Linda",
+    "admin": "Nizhegorodskaya Oblast’",
+    "sort": "5383"
+  },
+  {
+    "city": "Russko-Vysotskoye",
+    "admin": "Leningradskaya Oblast’",
+    "sort": "5356"
+  },
+  {
+    "city": "Zyazikov",
+    "admin": "Ingushetiya",
+    "sort": "5296"
+  },
+  {
+    "city": "Komsomol’skoye",
+    "admin": "Chechnya",
+    "sort": "5215"
+  },
+  {
+    "city": "Verkhnerusskiy",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "5276"
+  },
+  {
+    "city": "Usogorsk",
+    "admin": "Komi",
+    "sort": "5308"
+  },
+  {
+    "city": "Bogoslovka",
+    "admin": "Penzenskaya Oblast’",
+    "sort": "5286"
+  },
+  {
+    "city": "Kuba",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "5218"
+  },
+  {
+    "city": "Otrado-Ol’ginskoye",
+    "admin": "Krasnodarskiy Kray",
+    "sort": "5190"
+  },
+  {
+    "city": "Chernyshevskiy",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "5137"
+  },
+  {
+    "city": "Konstantinovskoye",
+    "admin": "Stavropol’skiy Kray",
+    "sort": "5071"
+  },
+  {
+    "city": "Lesnikovo",
+    "admin": "Kurganskaya Oblast’",
+    "sort": "5056"
+  },
+  {
+    "city": "Nikolo-Pavlovskoye",
+    "admin": "Sverdlovskaya Oblast’",
+    "sort": "5042"
+  },
+  {
+    "city": "Detchino",
+    "admin": "Kaluzhskaya Oblast’",
+    "sort": "5010"
+  },
+  {
+    "city": "Ust’-Kamchatsk",
+    "admin": "Kamchatskiy Kray",
+    "sort": "4939"
+  },
+  {
+    "city": "Sangar",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "4633"
+  },
+  {
+    "city": "Khatanga",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "4622"
+  },
+  {
+    "city": "Batagay",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "4266"
+  },
+  {
+    "city": "Omsukchan",
+    "admin": "Magadanskaya Oblast’",
+    "sort": "4201"
+  },
+  {
+    "city": "Novyy Uoyan",
+    "admin": "Buryatiya",
+    "sort": "4184"
+  },
+  {
+    "city": "Vitim",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "3843"
+  },
+  {
+    "city": "Palana",
+    "admin": "Kamchatskiy Kray",
+    "sort": "3671"
+  },
+  {
+    "city": "Cherskiy",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "3707"
+  },
+  {
+    "city": "Zyryanka",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "3627"
+  },
+  {
+    "city": "De-Kastri",
+    "admin": "Khabarovskiy Kray",
+    "sort": "3615"
+  },
+  {
+    "city": "Bukachacha",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "3372"
+  },
+  {
+    "city": "Ugol’nyye Kopi",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "3367"
+  },
+  {
+    "city": "Krasnogorsk",
+    "admin": "Sakhalinskaya Oblast’",
+    "sort": "3304"
+  },
+  {
+    "city": "Ust’-Maya",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "3062"
+  },
+  {
+    "city": "Saranpaul",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "2985"
+  },
+  {
+    "city": "Provideniya",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "2536"
+  },
+  {
+    "city": "Chokurdakh",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "2506"
+  },
+  {
+    "city": "Egvekinot",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "2248"
+  },
+  {
+    "city": "Evensk",
+    "admin": "Magadanskaya Oblast’",
+    "sort": "2024"
+  },
+  {
+    "city": "Beringovskiy",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "1861"
+  },
+  {
+    "city": "Oktyabrskiy",
+    "admin": "Kamchatskiy Kray",
+    "sort": "1534"
+  },
+  {
+    "city": "Ust’-Kuyga",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "1517"
+  },
+  {
+    "city": "Eldikan",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "1516"
+  },
+  {
+    "city": "Dikson",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "1113"
+  },
+  {
+    "city": "Klyuchi",
+    "admin": "Kamchatskiy Kray",
+    "sort": "1089"
+  },
+  {
+    "city": "Yerëma",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "745"
+  },
+  {
+    "city": "Manily",
+    "admin": "Kamchatskiy Kray",
+    "sort": "694"
+  },
+  {
+    "city": "Sherlovaya Gora",
+    "admin": "Zabaykal’skiy Kray",
+    "sort": "411"
+  },
+  {
+    "city": "Nizhneyansk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "400"
+  },
+  {
+    "city": "Bugrino",
+    "admin": "Nenetskiy Avtonomnyy Okrug",
+    "sort": "300"
+  },
+  {
+    "city": "Put’ Lenina",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "298"
+  },
+  {
+    "city": "Amderma",
+    "admin": "Nenetskiy Avtonomnyy Okrug",
+    "sort": "282"
+  },
+  {
+    "city": "Il’pyrskiy",
+    "admin": "Kamchatskiy Kray",
+    "sort": "111"
+  },
+  {
+    "city": "Gyda",
+    "admin": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "sort": "10"
+  },
+  {
+    "city": "Yessey",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "10"
+  },
+  {
+    "city": "Mukhomornoye",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "100"
+  },
+  {
+    "city": "Vorontsovo",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "100"
+  },
+  {
+    "city": "Peregrebnoye",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "10"
+  },
+  {
+    "city": "Laryak",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "10"
+  },
+  {
+    "city": "Ulkan",
+    "admin": "Irkutskaya Oblast’",
+    "sort": "10"
+  },
+  {
+    "city": "Strelka",
+    "admin": "Magadanskaya Oblast’",
+    "sort": "10"
+  },
+  {
+    "city": "Bol’sheretsk",
+    "admin": "Kamchatskiy Kray",
+    "sort": "10"
+  },
+  {
+    "city": "Karamken",
+    "admin": "Magadanskaya Oblast’",
+    "sort": "10"
+  },
+  {
+    "city": "Omchak",
+    "admin": "Magadanskaya Oblast’",
+    "sort": "10"
+  },
+  {
+    "city": "Shalaurova",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10"
+  },
+  {
+    "city": "Khorgo",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10"
+  },
+  {
+    "city": "Komsa",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "10"
+  },
+  {
+    "city": "Pakhachi",
+    "admin": "Kamchatskiy Kray",
+    "sort": "10"
+  },
+  {
+    "city": "Indiga",
+    "admin": "Nenetskiy Avtonomnyy Okrug",
+    "sort": "10"
+  },
+  {
+    "city": "Chagda",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10"
+  },
+  {
+    "city": "Tunguskhaya",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10"
+  },
+  {
+    "city": "Podkamennaya Tunguska",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "10"
+  },
+  {
+    "city": "Siglan",
+    "admin": "Magadanskaya Oblast’",
+    "sort": "10"
+  },
+  {
+    "city": "Utkholok",
+    "admin": "Kamchatskiy Kray",
+    "sort": "10"
+  },
+  {
+    "city": "Varnek",
+    "admin": "Nenetskiy Avtonomnyy Okrug",
+    "sort": "10"
+  },
+  {
+    "city": "Trofimovsk",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10"
+  },
+  {
+    "city": "Matochkin Shar",
+    "admin": "Arkhangel’skaya Oblast’",
+    "sort": "10"
+  },
+  {
+    "city": "Menkerya",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10"
+  },
+  {
+    "city": "Khakhar",
+    "admin": "Khabarovskiy Kray",
+    "sort": "10"
+  },
+  {
+    "city": "Zvëzdnyy",
+    "admin": "Chukotskiy Avtonomnyy Okrug",
+    "sort": "10"
+  },
+  {
+    "city": "Sagastyr",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10"
+  },
+  {
+    "city": "Zemlya Bunge",
+    "admin": "Sakha (Yakutiya)",
+    "sort": "10"
+  },
+  {
+    "city": "Starorybnoye",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "10"
+  },
+  {
+    "city": "Agapa",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "10"
+  },
+  {
+    "city": "Tukchi",
+    "admin": "Khabarovskiy Kray",
+    "sort": "10"
+  },
+  {
+    "city": "Numto",
+    "admin": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "sort": "10"
+  },
+  {
+    "city": "Nordvik",
+    "admin": "Krasnoyarskiy Kray",
+    "sort": "0"
+  }
+]

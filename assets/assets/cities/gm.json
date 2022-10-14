@@ -1,0 +1,47 @@
+[
+  {
+    "city": "Banjul",
+    "admin": "Banjul",
+    "sort": "31356"
+  },
+  {
+    "city": "Brikama",
+    "admin": "Western",
+    "sort": "195136"
+  },
+  {
+    "city": "Mansa Konko",
+    "admin": "Lower River",
+    "sort": "18672"
+  },
+  {
+    "city": "Basse Santa Su",
+    "admin": "Upper River",
+    "sort": "14380"
+  },
+  {
+    "city": "Kanifing",
+    "admin": "Banjul",
+    "sort": ""
+  },
+  {
+    "city": "Janjanbureh",
+    "admin": "Central River",
+    "sort": "3584"
+  },
+  {
+    "city": "Kerewan",
+    "admin": "North Bank",
+    "sort": "2751"
+  },
+  {
+    "city": "Farafenni",
+    "admin": "North Bank",
+    "sort": "36000"
+  },
+  {
+    "city": "Bansang",
+    "admin": "Central River",
+    "sort": "7615"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "city": "Dili",
+    "admin": "Díli",
+    "sort": "222323"
+  },
+  {
+    "city": "Maliana",
+    "admin": "Bobonaro",
+    "sort": "15800"
+  },
+  {
+    "city": "Baucau",
+    "admin": "Baucau",
+    "sort": "14961"
+  },
+  {
+    "city": "Manatuto",
+    "admin": "Manatuto",
+    "sort": "9022"
+  },
+  {
+    "city": "Gleno",
+    "admin": "Ermera",
+    "sort": "8133"
+  },
+  {
+    "city": "Viqueque",
+    "admin": "Viqueque",
+    "sort": "6078"
+  },
+  {
+    "city": "Liquiçá",
+    "admin": "Liquiçá",
+    "sort": "5152"
+  },
+  {
+    "city": "Ainaro",
+    "admin": "Ainaro",
+    "sort": "3085"
+  },
+  {
+    "city": "Same",
+    "admin": "Manufahi",
+    "sort": "2100"
+  },
+  {
+    "city": "Aileu",
+    "admin": "Aileu",
+    "sort": ""
+  },
+  {
+    "city": "Suai",
+    "admin": "Cova Lima",
+    "sort": ""
+  },
+  {
+    "city": "Pante Macassar",
+    "admin": "Oecussi-Ambeno",
+    "sort": ""
+  },
+  {
+    "city": "Lospalos",
+    "admin": "Lautém",
+    "sort": ""
+  }
+]

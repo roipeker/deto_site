@@ -1,0 +1,647 @@
+[
+  {
+    "city": "Almaty",
+    "admin": "Almaty",
+    "sort": "1916822"
+  },
+  {
+    "city": "Nur-Sultan",
+    "admin": "Astana",
+    "sort": "1078362"
+  },
+  {
+    "city": "Shymkent",
+    "admin": "Ongtüstik Qazaqstan",
+    "sort": "1028673"
+  },
+  {
+    "city": "Qaraghandy",
+    "admin": "Qaraghandy",
+    "sort": "497777"
+  },
+  {
+    "city": "Aqtöbe",
+    "admin": "Aqtöbe",
+    "sort": "387807"
+  },
+  {
+    "city": "Taraz",
+    "admin": "Zhambyl",
+    "sort": "357795"
+  },
+  {
+    "city": "Pavlodar",
+    "admin": "Pavlodar",
+    "sort": "353930"
+  },
+  {
+    "city": "Semey",
+    "admin": "Shyghys Qazaqstan",
+    "sort": "350201"
+  },
+  {
+    "city": "Öskemen",
+    "admin": "Shyghys Qazaqstan",
+    "sort": "319067"
+  },
+  {
+    "city": "Atyraū",
+    "admin": "Atyraū",
+    "sort": "290700"
+  },
+  {
+    "city": "Oral",
+    "admin": "Batys Qazaqstan",
+    "sort": "271900"
+  },
+  {
+    "city": "Qostanay",
+    "admin": "Qostanay",
+    "sort": "217135"
+  },
+  {
+    "city": "Petropavl",
+    "admin": "Soltüstik Qazaqstan",
+    "sort": "216406"
+  },
+  {
+    "city": "Qyzylorda",
+    "admin": "Qyzylorda",
+    "sort": "200900"
+  },
+  {
+    "city": "Temirtaū",
+    "admin": "Qaraghandy",
+    "sort": "185082"
+  },
+  {
+    "city": "Aqtaū",
+    "admin": "Mangghystaū",
+    "sort": "183350"
+  },
+  {
+    "city": "Türkistan",
+    "admin": "Ongtüstik Qazaqstan",
+    "sort": "164746"
+  },
+  {
+    "city": "Ekibastuz",
+    "admin": "Pavlodar",
+    "sort": "159760"
+  },
+  {
+    "city": "Mangghystaū",
+    "admin": "Mangghystaū",
+    "sort": "147443"
+  },
+  {
+    "city": "Kökshetaū",
+    "admin": "Aqmola",
+    "sort": "139063"
+  },
+  {
+    "city": "Taldyqorghan",
+    "admin": "Almaty",
+    "sort": "129960"
+  },
+  {
+    "city": "Rudnyy",
+    "admin": "Qostanay",
+    "sort": "124000"
+  },
+  {
+    "city": "Koktobe",
+    "admin": "Almaty",
+    "sort": "7989"
+  },
+  {
+    "city": "Zhezqazghan",
+    "admin": "Qaraghandy",
+    "sort": "86227"
+  },
+  {
+    "city": "Kentaū",
+    "admin": "Ongtüstik Qazaqstan",
+    "sort": "81484"
+  },
+  {
+    "city": "Balqash",
+    "admin": "Qaraghandy",
+    "sort": "78002"
+  },
+  {
+    "city": "Sarqan",
+    "admin": "Almaty",
+    "sort": "76919"
+  },
+  {
+    "city": "Aqsū",
+    "admin": "Pavlodar",
+    "sort": "69354"
+  },
+  {
+    "city": "Sätbayev",
+    "admin": "Qaraghandy",
+    "sort": "61883"
+  },
+  {
+    "city": "Kapchagay",
+    "admin": "Almaty",
+    "sort": "60100"
+  },
+  {
+    "city": "Qaskeleng",
+    "admin": "Almaty",
+    "sort": "58418"
+  },
+  {
+    "city": "Ridder",
+    "admin": "Shyghys Qazaqstan",
+    "sort": "49695"
+  },
+  {
+    "city": "Zyryanovsk",
+    "admin": "Shyghys Qazaqstan",
+    "sort": "49658"
+  },
+  {
+    "city": "Talghar",
+    "admin": "Almaty",
+    "sort": "47301"
+  },
+  {
+    "city": "Shchūchīnsk",
+    "admin": "Aqmola",
+    "sort": "45004"
+  },
+  {
+    "city": "Zharkent",
+    "admin": "Almaty",
+    "sort": "43430"
+  },
+  {
+    "city": "Shū",
+    "admin": "Zhambyl",
+    "sort": "42439"
+  },
+  {
+    "city": "Qapshaghay",
+    "admin": "Almaty",
+    "sort": "42167"
+  },
+  {
+    "city": "Soran",
+    "admin": "Qaraghandy",
+    "sort": "42058"
+  },
+  {
+    "city": "Ayagöz",
+    "admin": "Shyghys Qazaqstan",
+    "sort": "41593"
+  },
+  {
+    "city": "Arys",
+    "admin": "Ongtüstik Qazaqstan",
+    "sort": "40707"
+  },
+  {
+    "city": "Baikonur",
+    "admin": "Qyzylorda",
+    "sort": "39161"
+  },
+  {
+    "city": "Shakhtīnsk",
+    "admin": "Qaraghandy",
+    "sort": "37899"
+  },
+  {
+    "city": "Qulsary",
+    "admin": "Atyraū",
+    "sort": "37103"
+  },
+  {
+    "city": "Esik",
+    "admin": "Almaty",
+    "sort": "36715"
+  },
+  {
+    "city": "Zhetisay",
+    "admin": "Ongtüstik Qazaqstan",
+    "sort": "36494"
+  },
+  {
+    "city": "Aksay",
+    "admin": "Batys Qazaqstan",
+    "sort": "34799"
+  },
+  {
+    "city": "Zhitiqara",
+    "admin": "Qostanay",
+    "sort": "33587"
+  },
+  {
+    "city": "Staryy Beyneu",
+    "admin": "Mangghystaū",
+    "sort": "32452"
+  },
+  {
+    "city": "Balyqshy",
+    "admin": "Atyraū",
+    "sort": "31624"
+  },
+  {
+    "city": "Tekeli",
+    "admin": "Almaty",
+    "sort": "30707"
+  },
+  {
+    "city": "Aral",
+    "admin": "Qyzylorda",
+    "sort": "29887"
+  },
+  {
+    "city": "Shiyeli",
+    "admin": "Qyzylorda",
+    "sort": "29832"
+  },
+  {
+    "city": "Atbasar",
+    "admin": "Aqmola",
+    "sort": "29733"
+  },
+  {
+    "city": "Qarataū",
+    "admin": "Zhambyl",
+    "sort": "28804"
+  },
+  {
+    "city": "Alga",
+    "admin": "Aqtöbe",
+    "sort": "28267"
+  },
+  {
+    "city": "Oktyabrsk",
+    "admin": "Aqtöbe",
+    "sort": "28196"
+  },
+  {
+    "city": "Arqalyq",
+    "admin": "Qostanay",
+    "sort": "28169"
+  },
+  {
+    "city": "Shalqar",
+    "admin": "Aqtöbe",
+    "sort": "26574"
+  },
+  {
+    "city": "Abay",
+    "admin": "Qaraghandy",
+    "sort": "25550"
+  },
+  {
+    "city": "Ereymentaū",
+    "admin": "Aqmola",
+    "sort": "25141"
+  },
+  {
+    "city": "Khromtaū",
+    "admin": "Aqtöbe",
+    "sort": "23715"
+  },
+  {
+    "city": "Lengir",
+    "admin": "Ongtüstik Qazaqstan",
+    "sort": "23058"
+  },
+  {
+    "city": "Makīnsk",
+    "admin": "Aqmola",
+    "sort": "23020"
+  },
+  {
+    "city": "Oytal",
+    "admin": "Zhambyl",
+    "sort": "22673"
+  },
+  {
+    "city": "Qarazhal",
+    "admin": "Qaraghandy",
+    "sort": "22170"
+  },
+  {
+    "city": "Boralday",
+    "admin": "Almaty",
+    "sort": "20996"
+  },
+  {
+    "city": "Üshtöbe",
+    "admin": "Almaty",
+    "sort": "20492"
+  },
+  {
+    "city": "Zhosaly",
+    "admin": "Qyzylorda",
+    "sort": "20065"
+  },
+  {
+    "city": "Atasū",
+    "admin": "Qaraghandy",
+    "sort": "19616"
+  },
+  {
+    "city": "Töle Bī",
+    "admin": "Zhambyl",
+    "sort": "19551"
+  },
+  {
+    "city": "Shemonaīkha",
+    "admin": "Shyghys Qazaqstan",
+    "sort": "19127"
+  },
+  {
+    "city": "Emba",
+    "admin": "Aqtöbe",
+    "sort": "18760"
+  },
+  {
+    "city": "Zaysan",
+    "admin": "Shyghys Qazaqstan",
+    "sort": "17600"
+  },
+  {
+    "city": "Derzhavīnsk",
+    "admin": "Aqmola",
+    "sort": "15848"
+  },
+  {
+    "city": "Bayserke",
+    "admin": "Almaty",
+    "sort": "15124"
+  },
+  {
+    "city": "Uryzhar",
+    "admin": "Shyghys Qazaqstan",
+    "sort": "14826"
+  },
+  {
+    "city": "Maqat",
+    "admin": "Atyraū",
+    "sort": "14756"
+  },
+  {
+    "city": "Qazyqurt",
+    "admin": "Ongtüstik Qazaqstan",
+    "sort": "14563"
+  },
+  {
+    "city": "Shamalgan",
+    "admin": "Almaty",
+    "sort": "14294"
+  },
+  {
+    "city": "Eski Īkan",
+    "admin": "Ongtüstik Qazaqstan",
+    "sort": "14294"
+  },
+  {
+    "city": "Masangshy",
+    "admin": "Zhambyl",
+    "sort": "13606"
+  },
+  {
+    "city": "Qulan",
+    "admin": "Zhambyl",
+    "sort": "13128"
+  },
+  {
+    "city": "Tuzdybastaū",
+    "admin": "Almaty",
+    "sort": "12577"
+  },
+  {
+    "city": "Taiynsha",
+    "admin": "Soltüstik Qazaqstan",
+    "sort": "12418"
+  },
+  {
+    "city": "Novoīshīmskīy",
+    "admin": "Soltüstik Qazaqstan",
+    "sort": "11583"
+  },
+  {
+    "city": "Esil",
+    "admin": "Aqmola",
+    "sort": "11551"
+  },
+  {
+    "city": "Otar",
+    "admin": "Zhambyl",
+    "sort": "11238"
+  },
+  {
+    "city": "Lūgovoy",
+    "admin": "Zhambyl",
+    "sort": "10242"
+  },
+  {
+    "city": "Makhambet",
+    "admin": "Aqtöbe",
+    "sort": "8905"
+  },
+  {
+    "city": "Būlaevo",
+    "admin": "Soltüstik Qazaqstan",
+    "sort": "8433"
+  },
+  {
+    "city": "Zhänibek",
+    "admin": "Batys Qazaqstan",
+    "sort": "8212"
+  },
+  {
+    "city": "Ertis",
+    "admin": "Pavlodar",
+    "sort": "7772"
+  },
+  {
+    "city": "Sergeevka",
+    "admin": "Soltüstik Qazaqstan",
+    "sort": "7344"
+  },
+  {
+    "city": "Mezhdūrechenskoye",
+    "admin": "Almaty",
+    "sort": "6972"
+  },
+  {
+    "city": "Kishkeneköl",
+    "admin": "Soltüstik Qazaqstan",
+    "sort": "6779"
+  },
+  {
+    "city": "Saghyz",
+    "admin": "Atyraū",
+    "sort": "6530"
+  },
+  {
+    "city": "Astrakhan",
+    "admin": "Aqmola",
+    "sort": "6313"
+  },
+  {
+    "city": "Chapaev",
+    "admin": "Batys Qazaqstan",
+    "sort": "6000"
+  },
+  {
+    "city": "Qaraoy",
+    "admin": "Almaty",
+    "sort": "5282"
+  },
+  {
+    "city": "Qarabalyq",
+    "admin": "Qostanay",
+    "sort": "9838"
+  },
+  {
+    "city": "Aqadyr",
+    "admin": "Qaraghandy",
+    "sort": "9710"
+  },
+  {
+    "city": "Saūmalköl",
+    "admin": "Soltüstik Qazaqstan",
+    "sort": "9288"
+  },
+  {
+    "city": "Sholaqqorghan",
+    "admin": "Ongtüstik Qazaqstan",
+    "sort": "9213"
+  },
+  {
+    "city": "Shar",
+    "admin": "Shyghys Qazaqstan",
+    "sort": "9087"
+  },
+  {
+    "city": "Qashyr",
+    "admin": "Pavlodar",
+    "sort": "8931"
+  },
+  {
+    "city": "Zhangaözen",
+    "admin": "Mangghystaū",
+    "sort": "8895"
+  },
+  {
+    "city": "Aqsū",
+    "admin": "Aqmola",
+    "sort": "8543"
+  },
+  {
+    "city": "Qarqaraly",
+    "admin": "Qaraghandy",
+    "sort": "8195"
+  },
+  {
+    "city": "Qusmuryn",
+    "admin": "Qostanay",
+    "sort": "8049"
+  },
+  {
+    "city": "Bayghanīn",
+    "admin": "Aqtöbe",
+    "sort": "7657"
+  },
+  {
+    "city": "Osakarovka",
+    "admin": "Qaraghandy",
+    "sort": "7305"
+  },
+  {
+    "city": "Bestöbe",
+    "admin": "Aqmola",
+    "sort": "7189"
+  },
+  {
+    "city": "Tobyl",
+    "admin": "Qostanay",
+    "sort": "7155"
+  },
+  {
+    "city": "Zholymbet",
+    "admin": "Aqmola",
+    "sort": "6876"
+  },
+  {
+    "city": "Qazaly",
+    "admin": "Qyzylorda",
+    "sort": "6582"
+  },
+  {
+    "city": "Podstepnoe",
+    "admin": "Batys Qazaqstan",
+    "sort": "6461"
+  },
+  {
+    "city": "Smīrnovo",
+    "admin": "Soltüstik Qazaqstan",
+    "sort": "5718"
+  },
+  {
+    "city": "Yavlenka",
+    "admin": "Soltüstik Qazaqstan",
+    "sort": "5478"
+  },
+  {
+    "city": "Pavlodarskoe",
+    "admin": "Pavlodar",
+    "sort": "5319"
+  },
+  {
+    "city": "Presnovka",
+    "admin": "Soltüstik Qazaqstan",
+    "sort": "5322"
+  },
+  {
+    "city": "Torghay",
+    "admin": "Qostanay",
+    "sort": "5277"
+  },
+  {
+    "city": "Fort-Shevchenko",
+    "admin": "Mangghystaū",
+    "sort": "5213"
+  },
+  {
+    "city": "Saryshaghan",
+    "admin": "Qaraghandy",
+    "sort": "4365"
+  },
+  {
+    "city": "Shongzhy",
+    "admin": "Almaty",
+    "sort": "3902"
+  },
+  {
+    "city": "Serebryansk",
+    "admin": "Shyghys Qazaqstan",
+    "sort": "701"
+  },
+  {
+    "city": "Zhaltyr",
+    "admin": "Aqmola",
+    "sort": "694"
+  },
+  {
+    "city": "Sharbaqty",
+    "admin": "Pavlodar",
+    "sort": "107"
+  },
+  {
+    "city": "Burubaytal",
+    "admin": "Zhambyl",
+    "sort": "100"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "city": "Antananarivo",
+    "admin": "Antananarivo",
+    "sort": "2610000"
+  },
+  {
+    "city": "Antsirabe",
+    "admin": "Antananarivo",
+    "sort": "257163"
+  },
+  {
+    "city": "Toamasina",
+    "admin": "Toamasina",
+    "sort": "225116"
+  },
+  {
+    "city": "Fianarantsoa",
+    "admin": "Fianarantsoa",
+    "sort": "184184"
+  },
+  {
+    "city": "Mahajanga",
+    "admin": "Mahajanga",
+    "sort": "154657"
+  },
+  {
+    "city": "Toliara",
+    "admin": "Toliara",
+    "sort": "115319"
+  },
+  {
+    "city": "Antsiranana",
+    "admin": "Antsiranana",
+    "sort": "82937"
+  },
+  {
+    "city": "Farafangana",
+    "admin": "Fianarantsoa",
+    "sort": "24764"
+  },
+  {
+    "city": "Tôlan̈aro",
+    "admin": "Toliara",
+    "sort": "67284"
+  },
+  {
+    "city": "Antalaha",
+    "admin": "Antsiranana",
+    "sort": "47224"
+  },
+  {
+    "city": "Sambava",
+    "admin": "Antsiranana",
+    "sort": "43465"
+  },
+  {
+    "city": "Ambatondrazaka",
+    "admin": "Toamasina",
+    "sort": "43134"
+  },
+  {
+    "city": "Maroantsetra",
+    "admin": "Toamasina",
+    "sort": "38046"
+  },
+  {
+    "city": "Morondava",
+    "admin": "Toliara",
+    "sort": "36803"
+  },
+  {
+    "city": "Marovoay",
+    "admin": "Mahajanga",
+    "sort": "31253"
+  },
+  {
+    "city": "Ambanja",
+    "admin": "Antsiranana",
+    "sort": "30621"
+  },
+  {
+    "city": "Mananjary",
+    "admin": "Fianarantsoa",
+    "sort": "27686"
+  },
+  {
+    "city": "Andoany",
+    "admin": "Antsiranana",
+    "sort": "22680"
+  },
+  {
+    "city": "Antsohihy",
+    "admin": "Mahajanga",
+    "sort": "21290"
+  },
+  {
+    "city": "Miandrivazo",
+    "admin": "Toliara",
+    "sort": "20631"
+  },
+  {
+    "city": "Ihosy",
+    "admin": "Fianarantsoa",
+    "sort": "16990"
+  },
+  {
+    "city": "Morombe",
+    "admin": "Toliara",
+    "sort": "16727"
+  },
+  {
+    "city": "Iharan̈a",
+    "admin": "Antsiranana",
+    "sort": "15000"
+  },
+  {
+    "city": "Maintirano",
+    "admin": "Mahajanga",
+    "sort": "5925"
+  },
+  {
+    "city": "Mandritsara",
+    "admin": "Mahajanga",
+    "sort": "9705"
+  },
+  {
+    "city": "Bekily",
+    "admin": "Toliara",
+    "sort": "4286"
+  },
+  {
+    "city": "Manja",
+    "admin": "Toliara",
+    "sort": "1536"
+  },
+  {
+    "city": "Besalampy",
+    "admin": "Mahajanga",
+    "sort": "1022"
+  },
+  {
+    "city": "Androka",
+    "admin": "Toliara",
+    "sort": "174"
+  }
+]

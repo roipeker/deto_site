@@ -1,0 +1,787 @@
+[
+  {
+    "city": "Algiers",
+    "admin": "Alger",
+    "sort": "3415811"
+  },
+  {
+    "city": "Oran",
+    "admin": "Oran",
+    "sort": "852000"
+  },
+  {
+    "city": "Constantine",
+    "admin": "Constantine",
+    "sort": "448374"
+  },
+  {
+    "city": "Blida",
+    "admin": "Blida",
+    "sort": "331779"
+  },
+  {
+    "city": "Batna",
+    "admin": "Batna",
+    "sort": "290645"
+  },
+  {
+    "city": "Sétif",
+    "admin": "Sétif",
+    "sort": "288461"
+  },
+  {
+    "city": "Djelfa",
+    "admin": "Djelfa",
+    "sort": "265833"
+  },
+  {
+    "city": "Annaba",
+    "admin": "Annaba",
+    "sort": "257359"
+  },
+  {
+    "city": "Sidi Bel Abbès",
+    "admin": "Sidi Bel Abbès",
+    "sort": "212935"
+  },
+  {
+    "city": "Biskra",
+    "admin": "Biskra",
+    "sort": "204661"
+  },
+  {
+    "city": "Tébessa",
+    "admin": "Tébessa",
+    "sort": "194461"
+  },
+  {
+    "city": "Tiaret",
+    "admin": "Tiaret",
+    "sort": "178915"
+  },
+  {
+    "city": "Bejaïa",
+    "admin": "Bejaïa",
+    "sort": "176139"
+  },
+  {
+    "city": "Tlemcen",
+    "admin": "Tlemcen",
+    "sort": "173531"
+  },
+  {
+    "city": "Bordj Bou Arreridj",
+    "admin": "Bordj Bou Arréridj",
+    "sort": "168346"
+  },
+  {
+    "city": "Skikda",
+    "admin": "Skikda",
+    "sort": "163318"
+  },
+  {
+    "city": "Béchar",
+    "admin": "Béchar",
+    "sort": "165627"
+  },
+  {
+    "city": "El Eulma",
+    "admin": "Sétif",
+    "sort": "155038"
+  },
+  {
+    "city": "Chlef",
+    "admin": "Chlef",
+    "sort": "155134"
+  },
+  {
+    "city": "Souk Ahras",
+    "admin": "Souk Ahras",
+    "sort": "155259"
+  },
+  {
+    "city": "M’Sila",
+    "admin": "M’sila",
+    "sort": "150000"
+  },
+  {
+    "city": "Mostaganem",
+    "admin": "Mostaganem",
+    "sort": "145696"
+  },
+  {
+    "city": "Médéa",
+    "admin": "Médéa",
+    "sort": "138355"
+  },
+  {
+    "city": "Tizi Ouzou",
+    "admin": "Tizi Ouzou",
+    "sort": "135088"
+  },
+  {
+    "city": "El Oued",
+    "admin": "El Oued",
+    "sort": "134699"
+  },
+  {
+    "city": "Laghouat",
+    "admin": "Laghouat",
+    "sort": "134372"
+  },
+  {
+    "city": "Jijel",
+    "admin": "Jijel",
+    "sort": "131513"
+  },
+  {
+    "city": "Ouargla",
+    "admin": "Ouargla",
+    "sort": "133024"
+  },
+  {
+    "city": "Relizane",
+    "admin": "Relizane",
+    "sort": "130094"
+  },
+  {
+    "city": "Saïda",
+    "admin": "Saïda",
+    "sort": "128413"
+  },
+  {
+    "city": "Guelma",
+    "admin": "Guelma",
+    "sort": "120004"
+  },
+  {
+    "city": "Ghardaïa",
+    "admin": "Ghardaïa",
+    "sort": "120000"
+  },
+  {
+    "city": "Aïn Beïda",
+    "admin": "Oum el Bouaghi",
+    "sort": "116064"
+  },
+  {
+    "city": "Khenchela",
+    "admin": "Khenchela",
+    "sort": "108580"
+  },
+  {
+    "city": "Bou Saâda",
+    "admin": "M’sila",
+    "sort": "111787"
+  },
+  {
+    "city": "Mascara",
+    "admin": "Mascara",
+    "sort": "108587"
+  },
+  {
+    "city": "Messaad",
+    "admin": "Djelfa",
+    "sort": "102453"
+  },
+  {
+    "city": "Aïn Oussera",
+    "admin": "Djelfa",
+    "sort": "101239"
+  },
+  {
+    "city": "Oum el Bouaghi",
+    "admin": "Oum el Bouaghi",
+    "sort": "100821"
+  },
+  {
+    "city": "El Bayadh",
+    "admin": "El Bayadh",
+    "sort": "85577"
+  },
+  {
+    "city": "Tamanrasset",
+    "admin": "Tamanrasset",
+    "sort": "76000"
+  },
+  {
+    "city": "Tissemsilt",
+    "admin": "Tissemsilt",
+    "sort": "75197"
+  },
+  {
+    "city": "Bouira",
+    "admin": "Bouira",
+    "sort": "68545"
+  },
+  {
+    "city": "Adrar",
+    "admin": "Adrar",
+    "sort": "68276"
+  },
+  {
+    "city": "Tindouf",
+    "admin": "Tindouf",
+    "sort": "45610"
+  },
+  {
+    "city": "Boumerdes",
+    "admin": "Boumerdes",
+    "sort": "41685"
+  },
+  {
+    "city": "El Golea",
+    "admin": "Ghardaïa",
+    "sort": "40195"
+  },
+  {
+    "city": "Touggourt",
+    "admin": "Ouargla",
+    "sort": "39409"
+  },
+  {
+    "city": "Timimoun",
+    "admin": "Adrar",
+    "sort": "33060"
+  },
+  {
+    "city": "I-n-Salah",
+    "admin": "Tamanrasset",
+    "sort": "32518"
+  },
+  {
+    "city": "El Tarf",
+    "admin": "El Tarf",
+    "sort": "25594"
+  },
+  {
+    "city": "Tipasa",
+    "admin": "Tipaza",
+    "sort": "25225"
+  },
+  {
+    "city": "Illizi",
+    "admin": "Illizi",
+    "sort": "17252"
+  },
+  {
+    "city": "Bordj Mokhtar",
+    "admin": "Adrar",
+    "sort": "16437"
+  },
+  {
+    "city": "Naama",
+    "admin": "Naama",
+    "sort": "16251"
+  },
+  {
+    "city": "Djanet",
+    "admin": "Illizi",
+    "sort": "14655"
+  },
+  {
+    "city": "Beni Abbès",
+    "admin": "Béchar",
+    "sort": "10885"
+  },
+  {
+    "city": "In Guezzam",
+    "admin": "Tamanrasset",
+    "sort": "7045"
+  },
+  {
+    "city": "Aïn Temouchent",
+    "admin": "Aïn Temouchent",
+    "sort": ""
+  },
+  {
+    "city": "Aïn Defla",
+    "admin": "Aïn Defla",
+    "sort": ""
+  },
+  {
+    "city": "Mila",
+    "admin": "Mila",
+    "sort": ""
+  },
+  {
+    "city": "Ouled Djellal",
+    "admin": "Biskra",
+    "sort": ""
+  },
+  {
+    "city": "El Meghaïer",
+    "admin": "El Oued",
+    "sort": ""
+  },
+  {
+    "city": "Es Senia",
+    "admin": "Oran",
+    "sort": "96928"
+  },
+  {
+    "city": "El Milia",
+    "admin": "Jijel",
+    "sort": "83931"
+  },
+  {
+    "city": "Bordj Menaïel",
+    "admin": "Boumerdes",
+    "sort": "64820"
+  },
+  {
+    "city": "Mecheria",
+    "admin": "Naama",
+    "sort": "65043"
+  },
+  {
+    "city": "Aïn Sefra",
+    "admin": "Naama",
+    "sort": "63420"
+  },
+  {
+    "city": "Lakhdaria",
+    "admin": "Bouira",
+    "sort": "59746"
+  },
+  {
+    "city": "Boufarik",
+    "admin": "Blida",
+    "sort": "57162"
+  },
+  {
+    "city": "Azzaba",
+    "admin": "Skikda",
+    "sort": "56922"
+  },
+  {
+    "city": "Akbou",
+    "admin": "Bejaïa",
+    "sort": "52282"
+  },
+  {
+    "city": "’Aïn Azel",
+    "admin": "Sétif",
+    "sort": "48487"
+  },
+  {
+    "city": "Ouled Moussa",
+    "admin": "Boumerdes",
+    "sort": "45770"
+  },
+  {
+    "city": "Hassi Messaoud",
+    "admin": "Ouargla",
+    "sort": "45147"
+  },
+  {
+    "city": "’Aïn Arnat",
+    "admin": "Sétif",
+    "sort": "43551"
+  },
+  {
+    "city": "Draa el Mizan",
+    "admin": "Bouira",
+    "sort": "38886"
+  },
+  {
+    "city": "Souma",
+    "admin": "Blida",
+    "sort": "37461"
+  },
+  {
+    "city": "Azazga",
+    "admin": "Tizi Ouzou",
+    "sort": "34683"
+  },
+  {
+    "city": "Didouche Mourad",
+    "admin": "Constantine",
+    "sort": "33266"
+  },
+  {
+    "city": "Dellys",
+    "admin": "Boumerdes",
+    "sort": "32954"
+  },
+  {
+    "city": "Draa Ben Khedda",
+    "admin": "Boumerdes",
+    "sort": "31382"
+  },
+  {
+    "city": "Boghni",
+    "admin": "Tizi Ouzou",
+    "sort": "31263"
+  },
+  {
+    "city": "Tizi Gheniff",
+    "admin": "Boumerdes",
+    "sort": "29409"
+  },
+  {
+    "city": "L’Arbaa Naït Irathen",
+    "admin": "Tizi Ouzou",
+    "sort": "29376"
+  },
+  {
+    "city": "Timizart",
+    "admin": "Tizi Ouzou",
+    "sort": "28996"
+  },
+  {
+    "city": "Freha",
+    "admin": "Tizi Ouzou",
+    "sort": "24228"
+  },
+  {
+    "city": "Mekla",
+    "admin": "Tizi Ouzou",
+    "sort": "24237"
+  },
+  {
+    "city": "Beni Amrane",
+    "admin": "Boumerdes",
+    "sort": "23621"
+  },
+  {
+    "city": "Makouda",
+    "admin": "Boumerdes",
+    "sort": "23388"
+  },
+  {
+    "city": "Tadmaït",
+    "admin": "Boumerdes",
+    "sort": "22838"
+  },
+  {
+    "city": "Amoucha",
+    "admin": "Sétif",
+    "sort": "22767"
+  },
+  {
+    "city": "Naciria",
+    "admin": "Boumerdes",
+    "sort": "22431"
+  },
+  {
+    "city": "Kadiria",
+    "admin": "Bouira",
+    "sort": "22327"
+  },
+  {
+    "city": "Djinet",
+    "admin": "Boumerdes",
+    "sort": "21966"
+  },
+  {
+    "city": "Beni Douala",
+    "admin": "Tizi Ouzou",
+    "sort": "21551"
+  },
+  {
+    "city": "Thenia",
+    "admin": "Boumerdes",
+    "sort": "21439"
+  },
+  {
+    "city": "Tizi-n-Bechar",
+    "admin": "Bejaïa",
+    "sort": "21086"
+  },
+  {
+    "city": "’Aïn el Hammam",
+    "admin": "Tizi Ouzou",
+    "sort": "20401"
+  },
+  {
+    "city": "Aomar",
+    "admin": "Bouira",
+    "sort": "20532"
+  },
+  {
+    "city": "Tala Yfassene",
+    "admin": "Sétif",
+    "sort": "20337"
+  },
+  {
+    "city": "Reggane",
+    "admin": "Adrar",
+    "sort": "20402"
+  },
+  {
+    "city": "Arbaoun",
+    "admin": "Sétif",
+    "sort": "19383"
+  },
+  {
+    "city": "Tirmitine",
+    "admin": "Tizi Ouzou",
+    "sort": "19027"
+  },
+  {
+    "city": "Timoktene",
+    "admin": "Adrar",
+    "sort": "18598"
+  },
+  {
+    "city": "Beni Fouda",
+    "admin": "Sétif",
+    "sort": "17667"
+  },
+  {
+    "city": "Tizi Rached",
+    "admin": "Tizi Ouzou",
+    "sort": "17161"
+  },
+  {
+    "city": "Aïn Zaouïa",
+    "admin": "Tizi Ouzou",
+    "sort": "17320"
+  },
+  {
+    "city": "Sidi Daoud",
+    "admin": "Boumerdes",
+    "sort": "16900"
+  },
+  {
+    "city": "Azeffoun",
+    "admin": "Tizi Ouzou",
+    "sort": "16847"
+  },
+  {
+    "city": "Tichi",
+    "admin": "Bejaïa",
+    "sort": "16546"
+  },
+  {
+    "city": "’Aïn Abessa",
+    "admin": "Sétif",
+    "sort": "16770"
+  },
+  {
+    "city": "Chorfa",
+    "admin": "Bouira",
+    "sort": "16173"
+  },
+  {
+    "city": "Ouadhia",
+    "admin": "Tizi Ouzou",
+    "sort": "15771"
+  },
+  {
+    "city": "Boudjima",
+    "admin": "Tizi Ouzou",
+    "sort": "15628"
+  },
+  {
+    "city": "Tizi-n-Tleta",
+    "admin": "Tizi Ouzou",
+    "sort": "15479"
+  },
+  {
+    "city": "Aït Yaïch",
+    "admin": "Tizi Ouzou",
+    "sort": "14439"
+  },
+  {
+    "city": "Iflissen",
+    "admin": "Tizi Ouzou",
+    "sort": "14311"
+  },
+  {
+    "city": "Abadla",
+    "admin": "Béchar",
+    "sort": "14364"
+  },
+  {
+    "city": "Takerbouzt",
+    "admin": "Bouira",
+    "sort": "14000"
+  },
+  {
+    "city": "Moudjbara",
+    "admin": "Djelfa",
+    "sort": "14052"
+  },
+  {
+    "city": "Afir",
+    "admin": "Boumerdes",
+    "sort": "13223"
+  },
+  {
+    "city": "Mechtras",
+    "admin": "Tizi Ouzou",
+    "sort": "12683"
+  },
+  {
+    "city": "Sali",
+    "admin": "Adrar",
+    "sort": "13138"
+  },
+  {
+    "city": "Arhribs",
+    "admin": "Tizi Ouzou",
+    "sort": "12474"
+  },
+  {
+    "city": "Si Mustapha",
+    "admin": "Boumerdes",
+    "sort": "12087"
+  },
+  {
+    "city": "Iferhounene",
+    "admin": "Tizi Ouzou",
+    "sort": "12460"
+  },
+  {
+    "city": "El Adjiba",
+    "admin": "Bouira",
+    "sort": "12486"
+  },
+  {
+    "city": "Yakouren",
+    "admin": "Tizi Ouzou",
+    "sort": "12203"
+  },
+  {
+    "city": "Tigzirt",
+    "admin": "Tizi Ouzou",
+    "sort": "11962"
+  },
+  {
+    "city": "Bechloul",
+    "admin": "Bouira",
+    "sort": "11775"
+  },
+  {
+    "city": "’Aïn Roua",
+    "admin": "Sétif",
+    "sort": "11499"
+  },
+  {
+    "city": "Charouine",
+    "admin": "Adrar",
+    "sort": "11347"
+  },
+  {
+    "city": "Bir Ghbalou",
+    "admin": "Médéa",
+    "sort": "11016"
+  },
+  {
+    "city": "Sidi Namane",
+    "admin": "Boumerdes",
+    "sort": "10688"
+  },
+  {
+    "city": "Ben N’Choud",
+    "admin": "Boumerdes",
+    "sort": "9985"
+  },
+  {
+    "city": "Bordj Okhriss",
+    "admin": "Bouira",
+    "sort": "10467"
+  },
+  {
+    "city": "Ben Nasseur",
+    "admin": "Ouargla",
+    "sort": "10330"
+  },
+  {
+    "city": "Souama",
+    "admin": "Tizi Ouzou",
+    "sort": "9954"
+  },
+  {
+    "city": "Bou Nouh",
+    "admin": "Tizi Ouzou",
+    "sort": "9731"
+  },
+  {
+    "city": "Toudja",
+    "admin": "Bejaïa",
+    "sort": "9827"
+  },
+  {
+    "city": "Ifigha",
+    "admin": "Tizi Ouzou",
+    "sort": "9160"
+  },
+  {
+    "city": "Ouled Rached",
+    "admin": "Bouira",
+    "sort": "9311"
+  },
+  {
+    "city": "Seddouk Oufella",
+    "admin": "Bejaïa",
+    "sort": "8931"
+  },
+  {
+    "city": "I-n-Amenas",
+    "admin": "Illizi",
+    "sort": "9225"
+  },
+  {
+    "city": "Abalessa",
+    "admin": "Tamanrasset",
+    "sort": "9163"
+  },
+  {
+    "city": "Boukhralfa",
+    "admin": "Bejaïa",
+    "sort": "8766"
+  },
+  {
+    "city": "Tifra",
+    "admin": "Bejaïa",
+    "sort": "8547"
+  },
+  {
+    "city": "Amalou",
+    "admin": "Bejaïa",
+    "sort": "8602"
+  },
+  {
+    "city": "Taourga",
+    "admin": "Boumerdes",
+    "sort": "7882"
+  },
+  {
+    "city": "Beni Aïssi",
+    "admin": "Adrar",
+    "sort": "7628"
+  },
+  {
+    "city": "Souk el Had",
+    "admin": "Boumerdes",
+    "sort": "6693"
+  },
+  {
+    "city": "Aït Bou Madhi",
+    "admin": "Tizi Ouzou",
+    "sort": "6113"
+  },
+  {
+    "city": "El Maïn",
+    "admin": "Bejaïa",
+    "sort": "6238"
+  },
+  {
+    "city": "Beni Ounif",
+    "admin": "Béchar",
+    "sort": "5628"
+  },
+  {
+    "city": "Tassamert",
+    "admin": "Bordj Bou Arréridj",
+    "sort": "5269"
+  },
+  {
+    "city": "I-n-Amguel",
+    "admin": "Tamanrasset",
+    "sort": "3030"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "city": "Abidjan",
+    "admin": "Abidjan",
+    "sort": "4980000"
+  },
+  {
+    "city": "Yamoussoukro",
+    "admin": "Yamoussoukro",
+    "sort": "355573"
+  },
+  {
+    "city": "Bouaké",
+    "admin": "Vallée du Bandama",
+    "sort": "659233"
+  },
+  {
+    "city": "Korhogo",
+    "admin": "Savanes",
+    "sort": "286071"
+  },
+  {
+    "city": "Daloa",
+    "admin": "Sassandra-Marahoué",
+    "sort": "255168"
+  },
+  {
+    "city": "San-Pédro",
+    "admin": "Bas-Sassandra",
+    "sort": "210273"
+  },
+  {
+    "city": "Divo",
+    "admin": "Gôh-Djiboua",
+    "sort": "179455"
+  },
+  {
+    "city": "Man",
+    "admin": "Montagnes",
+    "sort": "146974"
+  },
+  {
+    "city": "Gagnoa",
+    "admin": "Gôh-Djiboua",
+    "sort": "123184"
+  },
+  {
+    "city": "Soubré",
+    "admin": "Bas-Sassandra",
+    "sort": "108933"
+  },
+  {
+    "city": "Abengourou",
+    "admin": "Comoé",
+    "sort": "104020"
+  },
+  {
+    "city": "Dabou",
+    "admin": "Lagunes",
+    "sort": "72913"
+  },
+  {
+    "city": "Dimbokro",
+    "admin": "Lacs",
+    "sort": "67349"
+  },
+  {
+    "city": "Bondoukou",
+    "admin": "Zanzan",
+    "sort": "58297"
+  },
+  {
+    "city": "Séguéla",
+    "admin": "Woroba",
+    "sort": "51157"
+  },
+  {
+    "city": "Odienné",
+    "admin": "Denguélé",
+    "sort": "49857"
+  },
+  {
+    "city": "Bangolo",
+    "admin": "Montagnes",
+    "sort": ""
+  },
+  {
+    "city": "Agboville",
+    "admin": "Lagunes",
+    "sort": "81770"
+  },
+  {
+    "city": "Grand-Bassam",
+    "admin": "Comoé",
+    "sort": "73772"
+  },
+  {
+    "city": "Bouaflé",
+    "admin": "Sassandra-Marahoué",
+    "sort": "71792"
+  },
+  {
+    "city": "Guiglo",
+    "admin": "Montagnes",
+    "sort": "63643"
+  },
+  {
+    "city": "Ferkessédougou",
+    "admin": "Savanes",
+    "sort": "62008"
+  },
+  {
+    "city": "Toumodi",
+    "admin": "Lacs",
+    "sort": "39005"
+  },
+  {
+    "city": "Sassandra",
+    "admin": "Bas-Sassandra",
+    "sort": "38411"
+  },
+  {
+    "city": "Aboisso",
+    "admin": "Comoé",
+    "sort": "37654"
+  },
+  {
+    "city": "Touba",
+    "admin": "Woroba",
+    "sort": "31844"
+  }
+]

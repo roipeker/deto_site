@@ -1,0 +1,117 @@
+[
+  {
+    "city": "Praia",
+    "admin": "Praia",
+    "sort": "127832"
+  },
+  {
+    "city": "Mindelo",
+    "admin": "São Vicente",
+    "sort": "70468"
+  },
+  {
+    "city": "São Filipe",
+    "admin": "São Filipe",
+    "sort": "22227"
+  },
+  {
+    "city": "Ribeira Grande",
+    "admin": "Ribeira Grande",
+    "sort": "18890"
+  },
+  {
+    "city": "Tarrafal",
+    "admin": "Tarrafal",
+    "sort": "18561"
+  },
+  {
+    "city": "Porto Novo",
+    "admin": "Porto Novo",
+    "sort": "18028"
+  },
+  {
+    "city": "Assomada",
+    "admin": "Santa Catarina",
+    "sort": "12026"
+  },
+  {
+    "city": "Pedra Badejo",
+    "admin": "Santa Cruz",
+    "sort": "9530"
+  },
+  {
+    "city": "Sal Rei",
+    "admin": "Boa Vista",
+    "sort": "6357"
+  },
+  {
+    "city": "Espargos",
+    "admin": "Sal",
+    "sort": "6173"
+  },
+  {
+    "city": "Tarrafal",
+    "admin": "Tarrafal de São Nicolau",
+    "sort": "5237"
+  },
+  {
+    "city": "João Teves",
+    "admin": "São Lourenço dos Órgãos",
+    "sort": ""
+  },
+  {
+    "city": "Calheta de São Miguel",
+    "admin": "São Miguel",
+    "sort": "4123"
+  },
+  {
+    "city": "Porto Inglês",
+    "admin": "Maio",
+    "sort": "3056"
+  },
+  {
+    "city": "São Domingos",
+    "admin": "São Domingos",
+    "sort": "2818"
+  },
+  {
+    "city": "Cidade Velha",
+    "admin": "Ribeira Grande de Santiago",
+    "sort": "2148"
+  },
+  {
+    "city": "Picos",
+    "admin": "São Salvador do Mundo",
+    "sort": ""
+  },
+  {
+    "city": "Pombas",
+    "admin": "Paul",
+    "sort": ""
+  },
+  {
+    "city": "Ponta do Sol",
+    "admin": "Ribeira Grande",
+    "sort": ""
+  },
+  {
+    "city": "Nova Sintra",
+    "admin": "Brava",
+    "sort": ""
+  },
+  {
+    "city": "Igreja",
+    "admin": "Mosteiros",
+    "sort": ""
+  },
+  {
+    "city": "Ribeira Brava",
+    "admin": "Ribeira Brava",
+    "sort": ""
+  },
+  {
+    "city": "Cova Figueira",
+    "admin": "Santa Catarina do Fogo",
+    "sort": ""
+  }
+]

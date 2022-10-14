@@ -1,0 +1,207 @@
+[
+  {
+    "city": "Tbilisi",
+    "admin": "Tbilisi",
+    "sort": "1118035"
+  },
+  {
+    "city": "Batumi",
+    "admin": "Ajaria",
+    "sort": "154600"
+  },
+  {
+    "city": "Kutaisi",
+    "admin": "Imereti",
+    "sort": "147900"
+  },
+  {
+    "city": "Rustavi",
+    "admin": "Kvemo Kartli",
+    "sort": "128680"
+  },
+  {
+    "city": "Sokhumi",
+    "admin": "Abkhazia",
+    "sort": "64441"
+  },
+  {
+    "city": "Gori",
+    "admin": "Shida Kartli",
+    "sort": "48143"
+  },
+  {
+    "city": "Zugdidi",
+    "admin": "Samegrelo-Zemo Svaneti",
+    "sort": "42998"
+  },
+  {
+    "city": "Telavi",
+    "admin": "K’akheti",
+    "sort": "19629"
+  },
+  {
+    "city": "Ozurgeti",
+    "admin": "Guria",
+    "sort": "14785"
+  },
+  {
+    "city": "Akhaltsikhe",
+    "admin": "Samtskhe-Javakheti",
+    "sort": "14000"
+  },
+  {
+    "city": "Mtskheta",
+    "admin": "Mtskheta Mtianeti",
+    "sort": "7940"
+  },
+  {
+    "city": "Ambrolauri",
+    "admin": "Rach’a-Lechkhumi da Kvemo Svaneti",
+    "sort": "2047"
+  },
+  {
+    "city": "Rustavi",
+    "admin": "Kvemo Kartli",
+    "sort": ""
+  },
+  {
+    "city": "Poti",
+    "admin": "Samegrelo-Zemo Svaneti",
+    "sort": "41465"
+  },
+  {
+    "city": "Tskhinvali",
+    "admin": "Shida Kartli",
+    "sort": "30432"
+  },
+  {
+    "city": "Khashuri",
+    "admin": "Shida Kartli",
+    "sort": "26135"
+  },
+  {
+    "city": "Samtredia",
+    "admin": "Imereti",
+    "sort": "25318"
+  },
+  {
+    "city": "Senaki",
+    "admin": "Samegrelo-Zemo Svaneti",
+    "sort": "21596"
+  },
+  {
+    "city": "Marneuli",
+    "admin": "Kvemo Kartli",
+    "sort": "20211"
+  },
+  {
+    "city": "Gardabani",
+    "admin": "Kvemo Kartli",
+    "sort": "15100"
+  },
+  {
+    "city": "Kaspi",
+    "admin": "Shida Kartli",
+    "sort": "13423"
+  },
+  {
+    "city": "Chiatura",
+    "admin": "Imereti",
+    "sort": "12803"
+  },
+  {
+    "city": "Tsqaltubo",
+    "admin": "Imereti",
+    "sort": "11281"
+  },
+  {
+    "city": "Sagarejo",
+    "admin": "K’akheti",
+    "sort": "10871"
+  },
+  {
+    "city": "Borjomi",
+    "admin": "Samtskhe-Javakheti",
+    "sort": "10546"
+  },
+  {
+    "city": "T’q’ibuli",
+    "admin": "Imereti",
+    "sort": "9770"
+  },
+  {
+    "city": "Khoni",
+    "admin": "Imereti",
+    "sort": "8987"
+  },
+  {
+    "city": "Bolnisi",
+    "admin": "Kvemo Kartli",
+    "sort": "8967"
+  },
+  {
+    "city": "Akhalkalaki",
+    "admin": "Samtskhe-Javakheti",
+    "sort": "8295"
+  },
+  {
+    "city": "Gurjaani",
+    "admin": "K’akheti",
+    "sort": "8024"
+  },
+  {
+    "city": "Q’vareli",
+    "admin": "K’akheti",
+    "sort": "7739"
+  },
+  {
+    "city": "Gali",
+    "admin": "Abkhazia",
+    "sort": "7605"
+  },
+  {
+    "city": "Akhmeta",
+    "admin": "K’akheti",
+    "sort": "7105"
+  },
+  {
+    "city": "Lanchkhuti",
+    "admin": "Guria",
+    "sort": "6395"
+  },
+  {
+    "city": "Sachkhere",
+    "admin": "Imereti",
+    "sort": "6140"
+  },
+  {
+    "city": "Dusheti",
+    "admin": "Mtskheta Mtianeti",
+    "sort": "6167"
+  },
+  {
+    "city": "Lagodekhi",
+    "admin": "K’akheti",
+    "sort": "5918"
+  },
+  {
+    "city": "Dedoplists’q’aro",
+    "admin": "K’akheti",
+    "sort": "5940"
+  },
+  {
+    "city": "Ochamchire",
+    "admin": "Abkhazia",
+    "sort": "5280"
+  },
+  {
+    "city": "Ninotsminda",
+    "admin": "Samtskhe-Javakheti",
+    "sort": "5144"
+  },
+  {
+    "city": "Algeti",
+    "admin": "Kvemo Kartli",
+    "sort": "5017"
+  }
+]

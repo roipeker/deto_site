@@ -1,0 +1,287 @@
+[
+  {
+    "city": "Zagreb",
+    "admin": "Zagreb, Grad",
+    "sort": "790017"
+  },
+  {
+    "city": "Split",
+    "admin": "Splitsko-Dalmatinska Županija",
+    "sort": "178102"
+  },
+  {
+    "city": "Rijeka",
+    "admin": "Primorsko-Goranska Županija",
+    "sort": "128624"
+  },
+  {
+    "city": "Osijek",
+    "admin": "Osječko-Baranjska Županija",
+    "sort": "84104"
+  },
+  {
+    "city": "Zadar",
+    "admin": "Zadarska Županija",
+    "sort": "75082"
+  },
+  {
+    "city": "Slavonski Brod",
+    "admin": "Brodsko-Posavska Županija",
+    "sort": "56769"
+  },
+  {
+    "city": "Šibenik",
+    "admin": "Šibensko-Kninska Županija",
+    "sort": "46332"
+  },
+  {
+    "city": "Dubrovnik",
+    "admin": "Dubrovačko-Neretvanska Županija",
+    "sort": "42615"
+  },
+  {
+    "city": "Bjelovar",
+    "admin": "Bjelovarsko-Bilogorska Županija",
+    "sort": "40276"
+  },
+  {
+    "city": "Sisak",
+    "admin": "Sisačko-Moslavačka Županija",
+    "sort": "33322"
+  },
+  {
+    "city": "Čakovec",
+    "admin": "Međimurska Županija",
+    "sort": "30455"
+  },
+  {
+    "city": "Vukovar",
+    "admin": "Vukovarsko-Srijemska Županija",
+    "sort": "24938"
+  },
+  {
+    "city": "Virovitica",
+    "admin": "Virovitičko-Podravska Županija",
+    "sort": "21291"
+  },
+  {
+    "city": "Gospić",
+    "admin": "Ličko-Senjska Županija",
+    "sort": "5695"
+  },
+  {
+    "city": "Varaždin",
+    "admin": "Varaždinska Županija",
+    "sort": ""
+  },
+  {
+    "city": "Koprivnica",
+    "admin": "Koprivničko-Križevačka Županija",
+    "sort": ""
+  },
+  {
+    "city": "Požega",
+    "admin": "Požeško-Slavonska Županija",
+    "sort": ""
+  },
+  {
+    "city": "Krapina",
+    "admin": "Krapinsko-Zagorska Županija",
+    "sort": ""
+  },
+  {
+    "city": "Pazin",
+    "admin": "Istarska Županija",
+    "sort": ""
+  },
+  {
+    "city": "Velika Gorica",
+    "admin": "Zagrebačka Županija",
+    "sort": "63517"
+  },
+  {
+    "city": "Pula",
+    "admin": "Istarska Županija",
+    "sort": "57053"
+  },
+  {
+    "city": "Karlovac",
+    "admin": "Karlovačka Županija",
+    "sort": "53134"
+  },
+  {
+    "city": "Kaštel Stari",
+    "admin": "Splitsko-Dalmatinska Županija",
+    "sort": "43349"
+  },
+  {
+    "city": "Solin",
+    "admin": "Splitsko-Dalmatinska Županija",
+    "sort": "23926"
+  },
+  {
+    "city": "Samobor",
+    "admin": "Zagrebačka Županija",
+    "sort": "15147"
+  },
+  {
+    "city": "Vrbovec",
+    "admin": "Zagrebačka Županija",
+    "sort": "14797"
+  },
+  {
+    "city": "Ivanić-Grad",
+    "admin": "Zagrebačka Županija",
+    "sort": "14723"
+  },
+  {
+    "city": "Rovinj",
+    "admin": "Istarska Županija",
+    "sort": "14294"
+  },
+  {
+    "city": "Trogir",
+    "admin": "Splitsko-Dalmatinska Županija",
+    "sort": "13260"
+  },
+  {
+    "city": "Županja",
+    "admin": "Vukovarsko-Srijemska Županija",
+    "sort": "12090"
+  },
+  {
+    "city": "Nova Gradiška",
+    "admin": "Brodsko-Posavska Županija",
+    "sort": "11821"
+  },
+  {
+    "city": "Opatija",
+    "admin": "Primorsko-Goranska Županija",
+    "sort": "11659"
+  },
+  {
+    "city": "Labin",
+    "admin": "Istarska Županija",
+    "sort": "11642"
+  },
+  {
+    "city": "Crikvenica",
+    "admin": "Primorsko-Goranska Županija",
+    "sort": "11122"
+  },
+  {
+    "city": "Kastav",
+    "admin": "Primorsko-Goranska Županija",
+    "sort": "10472"
+  },
+  {
+    "city": "Križevci",
+    "admin": "Koprivničko-Križevačka Županija",
+    "sort": "11231"
+  },
+  {
+    "city": "Knin",
+    "admin": "Šibensko-Kninska Županija",
+    "sort": "10633"
+  },
+  {
+    "city": "Slatina",
+    "admin": "Virovitičko-Podravska Županija",
+    "sort": "10208"
+  },
+  {
+    "city": "Daruvar",
+    "admin": "Bjelovarsko-Bilogorska Županija",
+    "sort": "9815"
+  },
+  {
+    "city": "Čepin",
+    "admin": "Osječko-Baranjska Županija",
+    "sort": "9500"
+  },
+  {
+    "city": "Ogulin",
+    "admin": "Karlovačka Županija",
+    "sort": "8712"
+  },
+  {
+    "city": "Bedekovčina",
+    "admin": "Krapinsko-Zagorska Županija",
+    "sort": "8079"
+  },
+  {
+    "city": "Našice",
+    "admin": "Osječko-Baranjska Županija",
+    "sort": "7888"
+  },
+  {
+    "city": "Poreč",
+    "admin": "Istarska Županija",
+    "sort": "7585"
+  },
+  {
+    "city": "Križ",
+    "admin": "Zagrebačka Županija",
+    "sort": "7406"
+  },
+  {
+    "city": "Čavle",
+    "admin": "Primorsko-Goranska Županija",
+    "sort": "7220"
+  },
+  {
+    "city": "Novska",
+    "admin": "Sisačko-Moslavačka Županija",
+    "sort": "7028"
+  },
+  {
+    "city": "Belišće",
+    "admin": "Osječko-Baranjska Županija",
+    "sort": "6518"
+  },
+  {
+    "city": "Ploče",
+    "admin": "Dubrovačko-Neretvanska Županija",
+    "sort": "6537"
+  },
+  {
+    "city": "Krk",
+    "admin": "Primorsko-Goranska Županija",
+    "sort": "6281"
+  },
+  {
+    "city": "Vodice",
+    "admin": "Šibensko-Kninska Županija",
+    "sort": "6116"
+  },
+  {
+    "city": "Ivankovo",
+    "admin": "Vukovarsko-Srijemska Županija",
+    "sort": "6194"
+  },
+  {
+    "city": "Donji Miholjac",
+    "admin": "Osječko-Baranjska Županija",
+    "sort": "6226"
+  },
+  {
+    "city": "Cestica",
+    "admin": "Varaždinska Županija",
+    "sort": "5678"
+  },
+  {
+    "city": "Darda",
+    "admin": "Osječko-Baranjska Županija",
+    "sort": "5323"
+  },
+  {
+    "city": "Buje",
+    "admin": "Istarska Županija",
+    "sort": "5182"
+  },
+  {
+    "city": "Ilok",
+    "admin": "Vukovarsko-Srijemska Županija",
+    "sort": "5072"
+  }
+]

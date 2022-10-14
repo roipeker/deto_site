@@ -1,0 +1,1487 @@
+[
+  {
+    "city": "Lisbon",
+    "admin": "Lisboa",
+    "sort": "506654"
+  },
+  {
+    "city": "Sintra",
+    "admin": "Lisboa",
+    "sort": "377835"
+  },
+  {
+    "city": "Vila Nova de Gaia",
+    "admin": "Porto",
+    "sort": "302295"
+  },
+  {
+    "city": "Porto",
+    "admin": "Porto",
+    "sort": "237591"
+  },
+  {
+    "city": "Cascais",
+    "admin": "Lisboa",
+    "sort": "206479"
+  },
+  {
+    "city": "Loures",
+    "admin": "Lisboa",
+    "sort": "205054"
+  },
+  {
+    "city": "Braga",
+    "admin": "Braga",
+    "sort": "181494"
+  },
+  {
+    "city": "Amadora",
+    "admin": "Lisboa",
+    "sort": "175136"
+  },
+  {
+    "city": "Matosinhos",
+    "admin": "Porto",
+    "sort": "175478"
+  },
+  {
+    "city": "Almada",
+    "admin": "Setúbal",
+    "sort": "174030"
+  },
+  {
+    "city": "Oeiras",
+    "admin": "Lisboa",
+    "sort": "172120"
+  },
+  {
+    "city": "Gondomar",
+    "admin": "Porto",
+    "sort": "168027"
+  },
+  {
+    "city": "Seixal",
+    "admin": "Setúbal",
+    "sort": "158269"
+  },
+  {
+    "city": "Guimarães",
+    "admin": "Braga",
+    "sort": "158124"
+  },
+  {
+    "city": "Odivelas",
+    "admin": "Lisboa",
+    "sort": "144549"
+  },
+  {
+    "city": "Coimbra",
+    "admin": "Coimbra",
+    "sort": "143396"
+  },
+  {
+    "city": "Vila Franca de Xira",
+    "admin": "Lisboa",
+    "sort": "136886"
+  },
+  {
+    "city": "Maia",
+    "admin": "Porto",
+    "sort": "135306"
+  },
+  {
+    "city": "Famalicão",
+    "admin": "Braga",
+    "sort": "133832"
+  },
+  {
+    "city": "Leiria",
+    "admin": "Leiria",
+    "sort": "126897"
+  },
+  {
+    "city": "Setúbal",
+    "admin": "Setúbal",
+    "sort": "123684"
+  },
+  {
+    "city": "Barcelos",
+    "admin": "Braga",
+    "sort": "120391"
+  },
+  {
+    "city": "Funchal",
+    "admin": "Madeira",
+    "sort": "111892"
+  },
+  {
+    "city": "Viseu",
+    "admin": "Viseu",
+    "sort": "99274"
+  },
+  {
+    "city": "Queluz",
+    "admin": "Lisboa",
+    "sort": "78273"
+  },
+  {
+    "city": "Viana do Castelo",
+    "admin": "Viana do Castelo",
+    "sort": "88725"
+  },
+  {
+    "city": "Barreiro",
+    "admin": "Setúbal",
+    "sort": "78764"
+  },
+  {
+    "city": "Aveiro",
+    "admin": "Aveiro",
+    "sort": "78450"
+  },
+  {
+    "city": "Ponta Delgada",
+    "admin": "Azores",
+    "sort": "68809"
+  },
+  {
+    "city": "Faro",
+    "admin": "Faro",
+    "sort": "64560"
+  },
+  {
+    "city": "Santarém",
+    "admin": "Santarém",
+    "sort": "62200"
+  },
+  {
+    "city": "Évora",
+    "admin": "Évora",
+    "sort": "56596"
+  },
+  {
+    "city": "Castelo Branco",
+    "admin": "Castelo Branco",
+    "sort": "56109"
+  },
+  {
+    "city": "Rio Tinto",
+    "admin": "Porto",
+    "sort": "50713"
+  },
+  {
+    "city": "Vila Real",
+    "admin": "Vila Real",
+    "sort": "51850"
+  },
+  {
+    "city": "Corroios",
+    "admin": "Setúbal",
+    "sort": "46475"
+  },
+  {
+    "city": "Mafamude",
+    "admin": "Porto",
+    "sort": "38940"
+  },
+  {
+    "city": "Ermezinde",
+    "admin": "Porto",
+    "sort": "38798"
+  },
+  {
+    "city": "Cacém",
+    "admin": "Lisboa",
+    "sort": "21289"
+  },
+  {
+    "city": "Guarda",
+    "admin": "Guarda",
+    "sort": "42541"
+  },
+  {
+    "city": "Agualva",
+    "admin": "Lisboa",
+    "sort": "35824"
+  },
+  {
+    "city": "Massamá",
+    "admin": "Lisboa",
+    "sort": "28112"
+  },
+  {
+    "city": "Beja",
+    "admin": "Beja",
+    "sort": "35854"
+  },
+  {
+    "city": "Bragança",
+    "admin": "Bragança",
+    "sort": "35341"
+  },
+  {
+    "city": "Estoril",
+    "admin": "Lisboa",
+    "sort": "26399"
+  },
+  {
+    "city": "Portalegre",
+    "admin": "Portalegre",
+    "sort": "24930"
+  },
+  {
+    "city": "Falagueira",
+    "admin": "Lisboa",
+    "sort": "14530"
+  },
+  {
+    "city": "São João da Madeira",
+    "admin": "Aveiro",
+    "sort": "21713"
+  },
+  {
+    "city": "Sacavém",
+    "admin": "Lisboa",
+    "sort": "18469"
+  },
+  {
+    "city": "Cacilhas",
+    "admin": "Setúbal",
+    "sort": "6970"
+  },
+  {
+    "city": "Anta",
+    "admin": "Aveiro",
+    "sort": "14800"
+  },
+  {
+    "city": "Valadares",
+    "admin": "Porto",
+    "sort": "10678"
+  },
+  {
+    "city": "Valongo",
+    "admin": "Porto",
+    "sort": "93858"
+  },
+  {
+    "city": "Paredes",
+    "admin": "Porto",
+    "sort": "86854"
+  },
+  {
+    "city": "Vila do Conde",
+    "admin": "Porto",
+    "sort": "79533"
+  },
+  {
+    "city": "Torres Vedras",
+    "admin": "Lisboa",
+    "sort": "79465"
+  },
+  {
+    "city": "Mafra",
+    "admin": "Lisboa",
+    "sort": "76685"
+  },
+  {
+    "city": "Penafiel",
+    "admin": "Porto",
+    "sort": "72265"
+  },
+  {
+    "city": "Santo Tirso",
+    "admin": "Porto",
+    "sort": "71530"
+  },
+  {
+    "city": "Loulé",
+    "admin": "Faro",
+    "sort": "70622"
+  },
+  {
+    "city": "Oliveira de Azemeis",
+    "admin": "Aveiro",
+    "sort": "68611"
+  },
+  {
+    "city": "Moita",
+    "admin": "Setúbal",
+    "sort": "66029"
+  },
+  {
+    "city": "Póvoa de Varzim",
+    "admin": "Porto",
+    "sort": "63408"
+  },
+  {
+    "city": "Palmela",
+    "admin": "Setúbal",
+    "sort": "62831"
+  },
+  {
+    "city": "Figueira da Foz",
+    "admin": "Coimbra",
+    "sort": "62125"
+  },
+  {
+    "city": "Felgueiras",
+    "admin": "Porto",
+    "sort": "58065"
+  },
+  {
+    "city": "Paços de Ferreira",
+    "admin": "Porto",
+    "sort": "56340"
+  },
+  {
+    "city": "Alcobaça",
+    "admin": "Leiria",
+    "sort": "56693"
+  },
+  {
+    "city": "Amarante",
+    "admin": "Porto",
+    "sort": "56264"
+  },
+  {
+    "city": "Portimão",
+    "admin": "Faro",
+    "sort": "55614"
+  },
+  {
+    "city": "Ovar",
+    "admin": "Aveiro",
+    "sort": "55398"
+  },
+  {
+    "city": "Pombal",
+    "admin": "Leiria",
+    "sort": "55217"
+  },
+  {
+    "city": "Marco de Canavezes",
+    "admin": "Porto",
+    "sort": "53450"
+  },
+  {
+    "city": "Caldas da Rainha",
+    "admin": "Leiria",
+    "sort": "51729"
+  },
+  {
+    "city": "Covilhã",
+    "admin": "Castelo Branco",
+    "sort": "51797"
+  },
+  {
+    "city": "Montijo",
+    "admin": "Setúbal",
+    "sort": "51222"
+  },
+  {
+    "city": "Fafe",
+    "admin": "Braga",
+    "sort": "50633"
+  },
+  {
+    "city": "Amora",
+    "admin": "Setúbal",
+    "sort": "48629"
+  },
+  {
+    "city": "Sesimbra",
+    "admin": "Setúbal",
+    "sort": "49500"
+  },
+  {
+    "city": "Vila Verde",
+    "admin": "Braga",
+    "sort": "47888"
+  },
+  {
+    "city": "Lousada",
+    "admin": "Porto",
+    "sort": "47387"
+  },
+  {
+    "city": "Águeda",
+    "admin": "Aveiro",
+    "sort": "47729"
+  },
+  {
+    "city": "Ourém",
+    "admin": "Santarém",
+    "sort": "45932"
+  },
+  {
+    "city": "Olhão",
+    "admin": "Faro",
+    "sort": "45396"
+  },
+  {
+    "city": "Santa Cruz",
+    "admin": "Madeira",
+    "sort": "43005"
+  },
+  {
+    "city": "Ponte de Lima",
+    "admin": "Viana do Castelo",
+    "sort": "43498"
+  },
+  {
+    "city": "Alenquer",
+    "admin": "Lisboa",
+    "sort": "43267"
+  },
+  {
+    "city": "Chaves",
+    "admin": "Vila Real",
+    "sort": "41243"
+  },
+  {
+    "city": "Tomar",
+    "admin": "Santarém",
+    "sort": "40677"
+  },
+  {
+    "city": "Trofa",
+    "admin": "Porto",
+    "sort": "38999"
+  },
+  {
+    "city": "Abrantes",
+    "admin": "Santarém",
+    "sort": "39325"
+  },
+  {
+    "city": "Ílhavo",
+    "admin": "Aveiro",
+    "sort": "38598"
+  },
+  {
+    "city": "Marinha Grande",
+    "admin": "Leiria",
+    "sort": "38681"
+  },
+  {
+    "city": "Silves",
+    "admin": "Faro",
+    "sort": "37126"
+  },
+  {
+    "city": "Torres Novas",
+    "admin": "Santarém",
+    "sort": "36717"
+  },
+  {
+    "city": "Cantanhede",
+    "admin": "Coimbra",
+    "sort": "36595"
+  },
+  {
+    "city": "Câmara de Lobos",
+    "admin": "Madeira",
+    "sort": "35666"
+  },
+  {
+    "city": "Angra do Heroísmo",
+    "admin": "Azores",
+    "sort": "35402"
+  },
+  {
+    "city": "Esposende",
+    "admin": "Braga",
+    "sort": "34254"
+  },
+  {
+    "city": "Espinho",
+    "admin": "Aveiro",
+    "sort": "31027"
+  },
+  {
+    "city": "Ribeira Grande",
+    "admin": "Azores",
+    "sort": "32112"
+  },
+  {
+    "city": "Lagos",
+    "admin": "Faro",
+    "sort": "31049"
+  },
+  {
+    "city": "Santiago do Cacém",
+    "admin": "Setúbal",
+    "sort": "29749"
+  },
+  {
+    "city": "Anadia",
+    "admin": "Aveiro",
+    "sort": "29150"
+  },
+  {
+    "city": "Fundão",
+    "admin": "Castelo Branco",
+    "sort": "29213"
+  },
+  {
+    "city": "Benavente",
+    "admin": "Santarém",
+    "sort": "29019"
+  },
+  {
+    "city": "Tondela",
+    "admin": "Viseu",
+    "sort": "28946"
+  },
+  {
+    "city": "Peniche",
+    "admin": "Leiria",
+    "sort": "27753"
+  },
+  {
+    "city": "Estarreja",
+    "admin": "Aveiro",
+    "sort": "26997"
+  },
+  {
+    "city": "Lamego",
+    "admin": "Viseu",
+    "sort": "26691"
+  },
+  {
+    "city": "Montemor-o-Velho",
+    "admin": "Coimbra",
+    "sort": "26171"
+  },
+  {
+    "city": "Tavira",
+    "admin": "Faro",
+    "sort": "26167"
+  },
+  {
+    "city": "Odemira",
+    "admin": "Beja",
+    "sort": "26066"
+  },
+  {
+    "city": "Lourinhã",
+    "admin": "Lisboa",
+    "sort": "25735"
+  },
+  {
+    "city": "Albergaria-a-Velha",
+    "admin": "Aveiro",
+    "sort": "25252"
+  },
+  {
+    "city": "Seia",
+    "admin": "Guarda",
+    "sort": "24702"
+  },
+  {
+    "city": "Vizela",
+    "admin": "Porto",
+    "sort": "23736"
+  },
+  {
+    "city": "Cartaxo",
+    "admin": "Santarém",
+    "sort": "24462"
+  },
+  {
+    "city": "Porto de Mós",
+    "admin": "Leiria",
+    "sort": "24342"
+  },
+  {
+    "city": "Mirandela",
+    "admin": "Bragança",
+    "sort": "23850"
+  },
+  {
+    "city": "Almeirim",
+    "admin": "Santarém",
+    "sort": "23376"
+  },
+  {
+    "city": "Caniço",
+    "admin": "Madeira",
+    "sort": "23361"
+  },
+  {
+    "city": "Oliveira do Bairro",
+    "admin": "Aveiro",
+    "sort": "23028"
+  },
+  {
+    "city": "Vale de Cambra",
+    "admin": "Aveiro",
+    "sort": "22864"
+  },
+  {
+    "city": "Vagos",
+    "admin": "Aveiro",
+    "sort": "22851"
+  },
+  {
+    "city": "Albufeira",
+    "admin": "Faro",
+    "sort": "22794"
+  },
+  {
+    "city": "Arcos de Valdevez",
+    "admin": "Viana do Castelo",
+    "sort": "22847"
+  },
+  {
+    "city": "Arouca",
+    "admin": "Aveiro",
+    "sort": "22359"
+  },
+  {
+    "city": "Salvaterra de Magos",
+    "admin": "Santarém",
+    "sort": "22159"
+  },
+  {
+    "city": "Machico",
+    "admin": "Madeira",
+    "sort": "21828"
+  },
+  {
+    "city": "Belas",
+    "admin": "Lisboa",
+    "sort": "21172"
+  },
+  {
+    "city": "Póvoa de Lanhoso",
+    "admin": "Braga",
+    "sort": "21886"
+  },
+  {
+    "city": "Azambuja",
+    "admin": "Lisboa",
+    "sort": "21814"
+  },
+  {
+    "city": "Entroncamento",
+    "admin": "Santarém",
+    "sort": "20206"
+  },
+  {
+    "city": "Alfena",
+    "admin": "Porto",
+    "sort": "20000"
+  },
+  {
+    "city": "Rio Maior",
+    "admin": "Santarém",
+    "sort": "21192"
+  },
+  {
+    "city": "Praia da Vitória",
+    "admin": "Azores",
+    "sort": "21035"
+  },
+  {
+    "city": "Oliveira do Hospital",
+    "admin": "Coimbra",
+    "sort": "20855"
+  },
+  {
+    "city": "Elvas",
+    "admin": "Portalegre",
+    "sort": "20706"
+  },
+  {
+    "city": "Baião",
+    "admin": "Porto",
+    "sort": "20522"
+  },
+  {
+    "city": "Mealhada",
+    "admin": "Aveiro",
+    "sort": "20428"
+  },
+  {
+    "city": "Cinfães",
+    "admin": "Viseu",
+    "sort": "20427"
+  },
+  {
+    "city": "Celorico de Basto",
+    "admin": "Braga",
+    "sort": "20098"
+  },
+  {
+    "city": "Mangualde",
+    "admin": "Viseu",
+    "sort": "19880"
+  },
+  {
+    "city": "Coruche",
+    "admin": "Santarém",
+    "sort": "19944"
+  },
+  {
+    "city": "Vila Real de Santo António",
+    "admin": "Faro",
+    "sort": "19156"
+  },
+  {
+    "city": "Monção",
+    "admin": "Viana do Castelo",
+    "sort": "19230"
+  },
+  {
+    "city": "Soure",
+    "admin": "Coimbra",
+    "sort": "19245"
+  },
+  {
+    "city": "Amares",
+    "admin": "Braga",
+    "sort": "18889"
+  },
+  {
+    "city": "Lousã",
+    "admin": "Coimbra",
+    "sort": "17604"
+  },
+  {
+    "city": "Alcochete",
+    "admin": "Setúbal",
+    "sort": "17569"
+  },
+  {
+    "city": "Montemor-o-Novo",
+    "admin": "Évora",
+    "sort": "17437"
+  },
+  {
+    "city": "Peso da Régua",
+    "admin": "Vila Real",
+    "sort": "17131"
+  },
+  {
+    "city": "Condeixa-a-Nova",
+    "admin": "Coimbra",
+    "sort": "17078"
+  },
+  {
+    "city": "São Pedro do Sul",
+    "admin": "Viseu",
+    "sort": "16851"
+  },
+  {
+    "city": "Sobrado de Paiva",
+    "admin": "Aveiro",
+    "sort": "16733"
+  },
+  {
+    "city": "Cabeceiras de Basto",
+    "admin": "Braga",
+    "sort": "16710"
+  },
+  {
+    "city": "Ponte de Sôr",
+    "admin": "Portalegre",
+    "sort": "16722"
+  },
+  {
+    "city": "Quarteira",
+    "admin": "Faro",
+    "sort": "16131"
+  },
+  {
+    "city": "Batalha",
+    "admin": "Leiria",
+    "sort": "15805"
+  },
+  {
+    "city": "Sertã",
+    "admin": "Castelo Branco",
+    "sort": "15880"
+  },
+  {
+    "city": "Macedo de Cavaleiros",
+    "admin": "Bragança",
+    "sort": "15776"
+  },
+  {
+    "city": "Serpa",
+    "admin": "Beja",
+    "sort": "15623"
+  },
+  {
+    "city": "Castro Daire",
+    "admin": "Viseu",
+    "sort": "15339"
+  },
+  {
+    "city": "Nazaré",
+    "admin": "Leiria",
+    "sort": "15158"
+  },
+  {
+    "city": "Penacova",
+    "admin": "Coimbra",
+    "sort": "15251"
+  },
+  {
+    "city": "Moura",
+    "admin": "Beja",
+    "sort": "15167"
+  },
+  {
+    "city": "Horta",
+    "admin": "Azores",
+    "sort": "14994"
+  },
+  {
+    "city": "Gafanha da Nazaré",
+    "admin": "Aveiro",
+    "sort": "14021"
+  },
+  {
+    "city": "Grândola",
+    "admin": "Setúbal",
+    "sort": "14826"
+  },
+  {
+    "city": "Cadaval",
+    "admin": "Lisboa",
+    "sort": "14525"
+  },
+  {
+    "city": "Lagoa",
+    "admin": "Faro",
+    "sort": "14442"
+  },
+  {
+    "city": "Estremoz",
+    "admin": "Évora",
+    "sort": "14318"
+  },
+  {
+    "city": "Sines",
+    "admin": "Setúbal",
+    "sort": "14238"
+  },
+  {
+    "city": "Valença",
+    "admin": "Viana do Castelo",
+    "sort": "14127"
+  },
+  {
+    "city": "Nelas",
+    "admin": "Viseu",
+    "sort": "14037"
+  },
+  {
+    "city": "Gouveia",
+    "admin": "Guarda",
+    "sort": "14046"
+  },
+  {
+    "city": "Alcanena",
+    "admin": "Santarém",
+    "sort": "13868"
+  },
+  {
+    "city": "Arcozelo",
+    "admin": "Porto",
+    "sort": "12393"
+  },
+  {
+    "city": "Arruda dos Vinhos",
+    "admin": "Lisboa",
+    "sort": "13391"
+  },
+  {
+    "city": "Eiras",
+    "admin": "Coimbra",
+    "sort": "12053"
+  },
+  {
+    "city": "Ribeira Brava",
+    "admin": "Madeira",
+    "sort": "13375"
+  },
+  {
+    "city": "Bombarral",
+    "admin": "Leiria",
+    "sort": "13193"
+  },
+  {
+    "city": "Vila Pouca de Aguiar",
+    "admin": "Vila Real",
+    "sort": "13187"
+  },
+  {
+    "city": "Ansião",
+    "admin": "Leiria",
+    "sort": "13128"
+  },
+  {
+    "city": "Miranda do Corvo",
+    "admin": "Coimbra",
+    "sort": "13098"
+  },
+  {
+    "city": "Vieira do Minho",
+    "admin": "Braga",
+    "sort": "12997"
+  },
+  {
+    "city": "Alcácer do Sal",
+    "admin": "Setúbal",
+    "sort": "13046"
+  },
+  {
+    "city": "Costa de Caparica",
+    "admin": "Setúbal",
+    "sort": "11707"
+  },
+  {
+    "city": "Mira",
+    "admin": "Coimbra",
+    "sort": "12465"
+  },
+  {
+    "city": "Sabugal",
+    "admin": "Guarda",
+    "sort": "12544"
+  },
+  {
+    "city": "Sátão",
+    "admin": "Viseu",
+    "sort": "12444"
+  },
+  {
+    "city": "Sever do Vouga",
+    "admin": "Aveiro",
+    "sort": "12356"
+  },
+  {
+    "city": "Arganil",
+    "admin": "Coimbra",
+    "sort": "12145"
+  },
+  {
+    "city": "Tábua",
+    "admin": "Coimbra",
+    "sort": "12071"
+  },
+  {
+    "city": "Ponte da Barca",
+    "admin": "Viana do Castelo",
+    "sort": "12061"
+  },
+  {
+    "city": "Alijó",
+    "admin": "Vila Real",
+    "sort": "11942"
+  },
+  {
+    "city": "Vendas Novas",
+    "admin": "Évora",
+    "sort": "11846"
+  },
+  {
+    "city": "Óbidos",
+    "admin": "Leiria",
+    "sort": "11689"
+  },
+  {
+    "city": "Santa Comba Dão",
+    "admin": "Viseu",
+    "sort": "11597"
+  },
+  {
+    "city": "Calheta",
+    "admin": "Madeira",
+    "sort": "11521"
+  },
+  {
+    "city": "Resende",
+    "admin": "Viseu",
+    "sort": "11364"
+  },
+  {
+    "city": "Vila Franca do Campo",
+    "admin": "Azores",
+    "sort": "11229"
+  },
+  {
+    "city": "Reguengos de Monsaraz",
+    "admin": "Évora",
+    "sort": "10828"
+  },
+  {
+    "city": "São Brás de Alportel",
+    "admin": "Faro",
+    "sort": "10662"
+  },
+  {
+    "city": "Murtosa",
+    "admin": "Aveiro",
+    "sort": "10585"
+  },
+  {
+    "city": "Aver-o-Mar",
+    "admin": "Porto",
+    "sort": "8961"
+  },
+  {
+    "city": "Vouzela",
+    "admin": "Viseu",
+    "sort": "10564"
+  },
+  {
+    "city": "Montalegre",
+    "admin": "Vila Real",
+    "sort": "10537"
+  },
+  {
+    "city": "Sobral de Monte Agraço",
+    "admin": "Lisboa",
+    "sort": "10156"
+  },
+  {
+    "city": "Oliveira de Frades",
+    "admin": "Viseu",
+    "sort": "10261"
+  },
+  {
+    "city": "Moimenta da Beira",
+    "admin": "Viseu",
+    "sort": "10212"
+  },
+  {
+    "city": "Chamusca",
+    "admin": "Santarém",
+    "sort": "10120"
+  },
+  {
+    "city": "Carregal do Sal",
+    "admin": "Viseu",
+    "sort": "9835"
+  },
+  {
+    "city": "Trancoso",
+    "admin": "Guarda",
+    "sort": "9878"
+  },
+  {
+    "city": "Idanha-a-Nova",
+    "admin": "Castelo Branco",
+    "sort": "9716"
+  },
+  {
+    "city": "Pinhel",
+    "admin": "Guarda",
+    "sort": "9627"
+  },
+  {
+    "city": "Mortágua",
+    "admin": "Viseu",
+    "sort": "9607"
+  },
+  {
+    "city": "Mogadouro",
+    "admin": "Bragança",
+    "sort": "9542"
+  },
+  {
+    "city": "Argoncilhe",
+    "admin": "Aveiro",
+    "sort": "8420"
+  },
+  {
+    "city": "Vila Nova de Cerveira",
+    "admin": "Viana do Castelo",
+    "sort": "9253"
+  },
+  {
+    "city": "Aljustrel",
+    "admin": "Beja",
+    "sort": "9257"
+  },
+  {
+    "city": "Castelões de Cepeda",
+    "admin": "Porto",
+    "sort": "7299"
+  },
+  {
+    "city": "Paredes de Coura",
+    "admin": "Viana do Castelo",
+    "sort": "9198"
+  },
+  {
+    "city": "Melgaço",
+    "admin": "Viana do Castelo",
+    "sort": "9213"
+  },
+  {
+    "city": "Almargem",
+    "admin": "Lisboa",
+    "sort": "8983"
+  },
+  {
+    "city": "Vinhais",
+    "admin": "Bragança",
+    "sort": "9066"
+  },
+  {
+    "city": "Ponta do Sol",
+    "admin": "Madeira",
+    "sort": "8862"
+  },
+  {
+    "city": "Ferreira do Zêzere",
+    "admin": "Santarém",
+    "sort": "8619"
+  },
+  {
+    "city": "Torre de Moncorvo",
+    "admin": "Bragança",
+    "sort": "8572"
+  },
+  {
+    "city": "Joane",
+    "admin": "Braga",
+    "sort": "7528"
+  },
+  {
+    "city": "Campo Maior",
+    "admin": "Portalegre",
+    "sort": "8456"
+  },
+  {
+    "city": "Vila Viçosa",
+    "admin": "Évora",
+    "sort": "8319"
+  },
+  {
+    "city": "Proença-a-Nova",
+    "admin": "Castelo Branco",
+    "sort": "8314"
+  },
+  {
+    "city": "Ferreira do Alentejo",
+    "admin": "Beja",
+    "sort": "8255"
+  },
+  {
+    "city": "Tarouca",
+    "admin": "Viseu",
+    "sort": "8048"
+  },
+  {
+    "city": "Penalva do Castelo",
+    "admin": "Viseu",
+    "sort": "7956"
+  },
+  {
+    "city": "São João da Pesqueira",
+    "admin": "Viseu",
+    "sort": "7874"
+  },
+  {
+    "city": "Santana",
+    "admin": "Madeira",
+    "sort": "7719"
+  },
+  {
+    "city": "Alpiarça",
+    "admin": "Santarém",
+    "sort": "7702"
+  },
+  {
+    "city": "Celorico da Beira",
+    "admin": "Guarda",
+    "sort": "7693"
+  },
+  {
+    "city": "Mondim de Basto",
+    "admin": "Vila Real",
+    "sort": "7493"
+  },
+  {
+    "city": "Miranda do Douro",
+    "admin": "Bragança",
+    "sort": "7482"
+  },
+  {
+    "city": "Vila Nova da Barquinha",
+    "admin": "Santarém",
+    "sort": "7322"
+  },
+  {
+    "city": "Nisa",
+    "admin": "Portalegre",
+    "sort": "7450"
+  },
+  {
+    "city": "Almodôvar",
+    "admin": "Beja",
+    "sort": "7449"
+  },
+  {
+    "city": "Borba",
+    "admin": "Évora",
+    "sort": "7333"
+  },
+  {
+    "city": "Arraiolos",
+    "admin": "Évora",
+    "sort": "7363"
+  },
+  {
+    "city": "Poiares",
+    "admin": "Coimbra",
+    "sort": "7281"
+  },
+  {
+    "city": "Santa Marta de Penaguião",
+    "admin": "Vila Real",
+    "sort": "7356"
+  },
+  {
+    "city": "Mação",
+    "admin": "Santarém",
+    "sort": "7338"
+  },
+  {
+    "city": "Alvaiázere",
+    "admin": "Leiria",
+    "sort": "7287"
+  },
+  {
+    "city": "Vila Nova de Foz Côa",
+    "admin": "Guarda",
+    "sort": "7312"
+  },
+  {
+    "city": "Castro Verde",
+    "admin": "Beja",
+    "sort": "7276"
+  },
+  {
+    "city": "Mértola",
+    "admin": "Beja",
+    "sort": "7274"
+  },
+  {
+    "city": "Terras de Bouro",
+    "admin": "Braga",
+    "sort": "7253"
+  },
+  {
+    "city": "Almeida",
+    "admin": "Guarda",
+    "sort": "7242"
+  },
+  {
+    "city": "Redondo",
+    "admin": "Évora",
+    "sort": "7031"
+  },
+  {
+    "city": "Belmonte",
+    "admin": "Castelo Branco",
+    "sort": "6859"
+  },
+  {
+    "city": "Celeiroz",
+    "admin": "Braga",
+    "sort": "6000"
+  },
+  {
+    "city": "Castro Marim",
+    "admin": "Faro",
+    "sort": "6747"
+  },
+  {
+    "city": "Vila Flor",
+    "admin": "Bragança",
+    "sort": "6697"
+  },
+  {
+    "city": "Ribeira de Pena",
+    "admin": "Vila Real",
+    "sort": "6544"
+  },
+  {
+    "city": "São Martinho",
+    "admin": "Lisboa",
+    "sort": "6226"
+  },
+  {
+    "city": "Portel",
+    "admin": "Évora",
+    "sort": "6428"
+  },
+  {
+    "city": "Sabrosa",
+    "admin": "Vila Real",
+    "sort": "6361"
+  },
+  {
+    "city": "Tabuaço",
+    "admin": "Viseu",
+    "sort": "6350"
+  },
+  {
+    "city": "Carrazeda de Anciães",
+    "admin": "Bragança",
+    "sort": "6373"
+  },
+  {
+    "city": "Povoação",
+    "admin": "Azores",
+    "sort": "6327"
+  },
+  {
+    "city": "Armamar",
+    "admin": "Viseu",
+    "sort": "6297"
+  },
+  {
+    "city": "Olival",
+    "admin": "Porto",
+    "sort": "5812"
+  },
+  {
+    "city": "Figueira de Castelo Rodrigo",
+    "admin": "Guarda",
+    "sort": "6260"
+  },
+  {
+    "city": "Figueiró dos Vinhos",
+    "admin": "Leiria",
+    "sort": "6169"
+  },
+  {
+    "city": "Madalena",
+    "admin": "Azores",
+    "sort": "6049"
+  },
+  {
+    "city": "Monchique",
+    "admin": "Faro",
+    "sort": "6045"
+  },
+  {
+    "city": "Penela",
+    "admin": "Coimbra",
+    "sort": "5983"
+  },
+  {
+    "city": "Murça",
+    "admin": "Vila Real",
+    "sort": "5952"
+  },
+  {
+    "city": "Vidigueira",
+    "admin": "Beja",
+    "sort": "5932"
+  },
+  {
+    "city": "Aljezur",
+    "admin": "Faro",
+    "sort": "5884"
+  },
+  {
+    "city": "Alandroal",
+    "admin": "Évora",
+    "sort": "5843"
+  },
+  {
+    "city": "Riachos",
+    "admin": "Santarém",
+    "sort": "5420"
+  },
+  {
+    "city": "Viana do Alentejo",
+    "admin": "Évora",
+    "sort": "5743"
+  },
+  {
+    "city": "Oleiros",
+    "admin": "Castelo Branco",
+    "sort": "5721"
+  },
+  {
+    "city": "Sernancelhe",
+    "admin": "Viseu",
+    "sort": "5671"
+  },
+  {
+    "city": "Penamacor",
+    "admin": "Castelo Branco",
+    "sort": "5682"
+  },
+  {
+    "city": "Vila do Porto",
+    "admin": "Azores",
+    "sort": "5552"
+  },
+  {
+    "city": "Golegã",
+    "admin": "Santarém",
+    "sort": "5465"
+  },
+  {
+    "city": "Vila de Porto Santo",
+    "admin": "Madeira",
+    "sort": "5483"
+  },
+  {
+    "city": "Aguiar da Beira",
+    "admin": "Guarda",
+    "sort": "5473"
+  },
+  {
+    "city": "Velas",
+    "admin": "Azores",
+    "sort": "5398"
+  },
+  {
+    "city": "Ourique",
+    "admin": "Beja",
+    "sort": "5389"
+  },
+  {
+    "city": "Terrujem",
+    "admin": "Lisboa",
+    "sort": "5113"
+  },
+  {
+    "city": "Vila do Bispo",
+    "admin": "Faro",
+    "sort": "5258"
+  },
+  {
+    "city": "Mêda",
+    "admin": "Guarda",
+    "sort": "5202"
+  },
+  {
+    "city": "Vila Nova de Paiva",
+    "admin": "Viseu",
+    "sort": "5176"
+  },
+  {
+    "city": "Alfândega da Fé",
+    "admin": "Bragança",
+    "sort": "5104"
+  },
+  {
+    "city": "Sousel",
+    "admin": "Portalegre",
+    "sort": "5074"
+  }
+]

@@ -1,0 +1,1837 @@
+[
+  {
+    "city": "Bucharest",
+    "admin": "Bucureşti",
+    "sort": "1883425"
+  },
+  {
+    "city": "Cluj-Napoca",
+    "admin": "Cluj",
+    "sort": "324576"
+  },
+  {
+    "city": "Timişoara",
+    "admin": "Timiş",
+    "sort": "319279"
+  },
+  {
+    "city": "Iaşi",
+    "admin": "Iaşi",
+    "sort": "290422"
+  },
+  {
+    "city": "Braşov",
+    "admin": "Braşov",
+    "sort": "290743"
+  },
+  {
+    "city": "Constanţa",
+    "admin": "Constanţa",
+    "sort": "283872"
+  },
+  {
+    "city": "Craiova",
+    "admin": "Dolj",
+    "sort": "269506"
+  },
+  {
+    "city": "Galaţi",
+    "admin": "Galaţi",
+    "sort": "249432"
+  },
+  {
+    "city": "Ploieşti",
+    "admin": "Prahova",
+    "sort": "209945"
+  },
+  {
+    "city": "Oradea",
+    "admin": "Bihor",
+    "sort": "196367"
+  },
+  {
+    "city": "Brăila",
+    "admin": "Brăila",
+    "sort": "180302"
+  },
+  {
+    "city": "Arad",
+    "admin": "Arad",
+    "sort": "159074"
+  },
+  {
+    "city": "Piteşti",
+    "admin": "Argeş",
+    "sort": "155383"
+  },
+  {
+    "city": "Sibiu",
+    "admin": "Sibiu",
+    "sort": "147245"
+  },
+  {
+    "city": "Bacău",
+    "admin": "Bacău",
+    "sort": "144307"
+  },
+  {
+    "city": "Târgu-Mureş",
+    "admin": "Mureş",
+    "sort": "134290"
+  },
+  {
+    "city": "Baia Mare",
+    "admin": "Maramureş",
+    "sort": "123738"
+  },
+  {
+    "city": "Buzău",
+    "admin": "Buzău",
+    "sort": "115494"
+  },
+  {
+    "city": "Botoşani",
+    "admin": "Botoşani",
+    "sort": "106847"
+  },
+  {
+    "city": "Satu Mare",
+    "admin": "Satu Mare",
+    "sort": "102411"
+  },
+  {
+    "city": "Râmnicu Vâlcea",
+    "admin": "Vâlcea",
+    "sort": "98776"
+  },
+  {
+    "city": "Drobeta-Turnu Severin",
+    "admin": "Mehedinţi",
+    "sort": "92617"
+  },
+  {
+    "city": "Suceava",
+    "admin": "Suceava",
+    "sort": "92121"
+  },
+  {
+    "city": "Piatra Neamţ",
+    "admin": "Neamţ",
+    "sort": "85055"
+  },
+  {
+    "city": "Reşiţa",
+    "admin": "Caraş-Severin",
+    "sort": "83324"
+  },
+  {
+    "city": "Târgu Jiu",
+    "admin": "Gorj",
+    "sort": "82504"
+  },
+  {
+    "city": "Târgovişte",
+    "admin": "Dâmboviţa",
+    "sort": "79610"
+  },
+  {
+    "city": "Focşani",
+    "admin": "Vrancea",
+    "sort": "79315"
+  },
+  {
+    "city": "Bistriţa",
+    "admin": "Bistriţa-Năsăud",
+    "sort": "75076"
+  },
+  {
+    "city": "Tulcea",
+    "admin": "Tulcea",
+    "sort": "73707"
+  },
+  {
+    "city": "Slatina",
+    "admin": "Olt",
+    "sort": "70293"
+  },
+  {
+    "city": "Călăraşi",
+    "admin": "Călăraşi",
+    "sort": "65181"
+  },
+  {
+    "city": "Alba Iulia",
+    "admin": "Alba",
+    "sort": "63536"
+  },
+  {
+    "city": "Giurgiu",
+    "admin": "Giurgiu",
+    "sort": "61353"
+  },
+  {
+    "city": "Hunedoara",
+    "admin": "Hunedoara",
+    "sort": "60525"
+  },
+  {
+    "city": "Bârlad",
+    "admin": "Vaslui",
+    "sort": "55837"
+  },
+  {
+    "city": "Zalău",
+    "admin": "Sălaj",
+    "sort": "56202"
+  },
+  {
+    "city": "Sfântu-Gheorghe",
+    "admin": "Covasna",
+    "sort": "56006"
+  },
+  {
+    "city": "Vaslui",
+    "admin": "Vaslui",
+    "sort": "55407"
+  },
+  {
+    "city": "Slobozia",
+    "admin": "Ialomiţa",
+    "sort": "45891"
+  },
+  {
+    "city": "Alexandria",
+    "admin": "Teleorman",
+    "sort": "45434"
+  },
+  {
+    "city": "Miercurea-Ciuc",
+    "admin": "Harghita",
+    "sort": "42029"
+  },
+  {
+    "city": "Olteniţa",
+    "admin": "Călăraşi",
+    "sort": "24822"
+  },
+  {
+    "city": "Roşu",
+    "admin": "Bucureşti",
+    "sort": "8020"
+  },
+  {
+    "city": "Modelu",
+    "admin": "Călăraşi",
+    "sort": "7564"
+  },
+  {
+    "city": "Curcani",
+    "admin": "Călăraşi",
+    "sort": "5609"
+  },
+  {
+    "city": "Roseţi",
+    "admin": "Călăraşi",
+    "sort": "6070"
+  },
+  {
+    "city": "Chirnogi",
+    "admin": "Călăraşi",
+    "sort": "7455"
+  },
+  {
+    "city": "Fundeni",
+    "admin": "Călăraşi",
+    "sort": "5658"
+  },
+  {
+    "city": "Lunca Cetăţuii",
+    "admin": "Iaşi",
+    "sort": "6227"
+  },
+  {
+    "city": "Dragalina",
+    "admin": "Călăraşi",
+    "sort": "6218"
+  },
+  {
+    "city": "Dobroeşti",
+    "admin": "Ilfov",
+    "sort": "5274"
+  },
+  {
+    "city": "Deva",
+    "admin": "Hunedoara",
+    "sort": "61123"
+  },
+  {
+    "city": "Roman",
+    "admin": "Neamţ",
+    "sort": "50713"
+  },
+  {
+    "city": "Turda",
+    "admin": "Cluj",
+    "sort": "47744"
+  },
+  {
+    "city": "Mediaş",
+    "admin": "Sibiu",
+    "sort": "47204"
+  },
+  {
+    "city": "Voluntari",
+    "admin": "Bucureşti",
+    "sort": "42944"
+  },
+  {
+    "city": "Lugoj",
+    "admin": "Timiş",
+    "sort": "40361"
+  },
+  {
+    "city": "Medgidia",
+    "admin": "Constanţa",
+    "sort": "39780"
+  },
+  {
+    "city": "Oneşti",
+    "admin": "Bacău",
+    "sort": "39172"
+  },
+  {
+    "city": "Sighetu Marmaţiei",
+    "admin": "Maramureş",
+    "sort": "37640"
+  },
+  {
+    "city": "Petroşani",
+    "admin": "Hunedoara",
+    "sort": "37160"
+  },
+  {
+    "city": "Mangalia",
+    "admin": "Constanţa",
+    "sort": "36364"
+  },
+  {
+    "city": "Tecuci",
+    "admin": "Galaţi",
+    "sort": "34871"
+  },
+  {
+    "city": "Odorheiu Secuiesc",
+    "admin": "Harghita",
+    "sort": "34257"
+  },
+  {
+    "city": "Râmnicu Sărat",
+    "admin": "Buzău",
+    "sort": "33843"
+  },
+  {
+    "city": "Câmpina",
+    "admin": "Prahova",
+    "sort": "32935"
+  },
+  {
+    "city": "Paşcani",
+    "admin": "Iaşi",
+    "sort": "33745"
+  },
+  {
+    "city": "Reghin",
+    "admin": "Mureş",
+    "sort": "33281"
+  },
+  {
+    "city": "Dej",
+    "admin": "Cluj",
+    "sort": "33497"
+  },
+  {
+    "city": "Năvodari",
+    "admin": "Constanţa",
+    "sort": "32981"
+  },
+  {
+    "city": "Mioveni",
+    "admin": "Argeş",
+    "sort": "31998"
+  },
+  {
+    "city": "Câmpulung",
+    "admin": "Argeş",
+    "sort": "31767"
+  },
+  {
+    "city": "Făgăraş",
+    "admin": "Braşov",
+    "sort": "30714"
+  },
+  {
+    "city": "Caracal",
+    "admin": "Olt",
+    "sort": "30954"
+  },
+  {
+    "city": "Săcele",
+    "admin": "Braşov",
+    "sort": "30798"
+  },
+  {
+    "city": "Feteşti",
+    "admin": "Ialomiţa",
+    "sort": "30217"
+  },
+  {
+    "city": "Sighişoara",
+    "admin": "Mureş",
+    "sort": "28102"
+  },
+  {
+    "city": "Curtea de Argeş",
+    "admin": "Argeş",
+    "sort": "27359"
+  },
+  {
+    "city": "Borşa",
+    "admin": "Maramureş",
+    "sort": "27611"
+  },
+  {
+    "city": "Roşiori de Vede",
+    "admin": "Teleorman",
+    "sort": "27416"
+  },
+  {
+    "city": "Sebeş",
+    "admin": "Alba",
+    "sort": "27019"
+  },
+  {
+    "city": "Huşi",
+    "admin": "Vaslui",
+    "sort": "26266"
+  },
+  {
+    "city": "Fălticeni",
+    "admin": "Suceava",
+    "sort": "25723"
+  },
+  {
+    "city": "Pantelimon",
+    "admin": "Ilfov",
+    "sort": "25596"
+  },
+  {
+    "city": "Turnu Măgurele",
+    "admin": "Teleorman",
+    "sort": "24772"
+  },
+  {
+    "city": "Caransebeş",
+    "admin": "Caraş-Severin",
+    "sort": "24689"
+  },
+  {
+    "city": "Dorohoi",
+    "admin": "Botoşani",
+    "sort": "24309"
+  },
+  {
+    "city": "Rădăuţi",
+    "admin": "Suceava",
+    "sort": "23822"
+  },
+  {
+    "city": "Vulcan",
+    "admin": "Hunedoara",
+    "sort": "24160"
+  },
+  {
+    "city": "Lupeni",
+    "admin": "Hunedoara",
+    "sort": "23390"
+  },
+  {
+    "city": "Zărneşti",
+    "admin": "Braşov",
+    "sort": "23476"
+  },
+  {
+    "city": "Câmpia Turzii",
+    "admin": "Cluj",
+    "sort": "22223"
+  },
+  {
+    "city": "Aiud",
+    "admin": "Alba",
+    "sort": "22876"
+  },
+  {
+    "city": "Petrila",
+    "admin": "Hunedoara",
+    "sort": "22692"
+  },
+  {
+    "city": "Buftea",
+    "admin": "Ilfov",
+    "sort": "22178"
+  },
+  {
+    "city": "Târnăveni",
+    "admin": "Mureş",
+    "sort": "22075"
+  },
+  {
+    "city": "Popeşti-Leordeni",
+    "admin": "Ilfov",
+    "sort": "21895"
+  },
+  {
+    "city": "Moineşti",
+    "admin": "Bacău",
+    "sort": "21787"
+  },
+  {
+    "city": "Codlea",
+    "admin": "Braşov",
+    "sort": "21708"
+  },
+  {
+    "city": "Gherla",
+    "admin": "Cluj",
+    "sort": "20982"
+  },
+  {
+    "city": "Cugir",
+    "admin": "Alba",
+    "sort": "21376"
+  },
+  {
+    "city": "Carei",
+    "admin": "Satu Mare",
+    "sort": "21112"
+  },
+  {
+    "city": "Blaj",
+    "admin": "Alba",
+    "sort": "20630"
+  },
+  {
+    "city": "Scobinţi",
+    "admin": "Iaşi",
+    "sort": "20700"
+  },
+  {
+    "city": "Floreşti",
+    "admin": "Cluj",
+    "sort": "20256"
+  },
+  {
+    "city": "Comăneşti",
+    "admin": "Bacău",
+    "sort": "19568"
+  },
+  {
+    "city": "Motru",
+    "admin": "Gorj",
+    "sort": "19079"
+  },
+  {
+    "city": "Moreni",
+    "admin": "Dâmboviţa",
+    "sort": "18687"
+  },
+  {
+    "city": "Târgu Neamţ",
+    "admin": "Neamţ",
+    "sort": "18695"
+  },
+  {
+    "city": "Târgu Secuiesc",
+    "admin": "Covasna",
+    "sort": "18491"
+  },
+  {
+    "city": "Orăştie",
+    "admin": "Hunedoara",
+    "sort": "18227"
+  },
+  {
+    "city": "Toflea",
+    "admin": "Galaţi",
+    "sort": "18521"
+  },
+  {
+    "city": "Balş",
+    "admin": "Olt",
+    "sort": "18164"
+  },
+  {
+    "city": "Gheorgheni",
+    "admin": "Harghita",
+    "sort": "18377"
+  },
+  {
+    "city": "Drăgăşani",
+    "admin": "Vâlcea",
+    "sort": "17871"
+  },
+  {
+    "city": "Băicoi",
+    "admin": "Prahova",
+    "sort": "17981"
+  },
+  {
+    "city": "Salonta",
+    "admin": "Bihor",
+    "sort": "17735"
+  },
+  {
+    "city": "Băileşti",
+    "admin": "Dolj",
+    "sort": "17437"
+  },
+  {
+    "city": "Calafat",
+    "admin": "Dolj",
+    "sort": "17336"
+  },
+  {
+    "city": "Filiaşi",
+    "admin": "Dolj",
+    "sort": "16900"
+  },
+  {
+    "city": "Cernavodă",
+    "admin": "Ialomiţa",
+    "sort": "17022"
+  },
+  {
+    "city": "Câmpulung Moldovenesc",
+    "admin": "Suceava",
+    "sort": "16722"
+  },
+  {
+    "city": "Corabia",
+    "admin": "Olt",
+    "sort": "16441"
+  },
+  {
+    "city": "Adjud",
+    "admin": "Vrancea",
+    "sort": "16045"
+  },
+  {
+    "city": "Breaza",
+    "admin": "Prahova",
+    "sort": "15928"
+  },
+  {
+    "city": "Bragadiru",
+    "admin": "Ilfov",
+    "sort": "15329"
+  },
+  {
+    "city": "Bocşa",
+    "admin": "Caraş-Severin",
+    "sort": "15842"
+  },
+  {
+    "city": "Marghita",
+    "admin": "Bihor",
+    "sort": "15770"
+  },
+  {
+    "city": "Baia-Sprie",
+    "admin": "Maramureş",
+    "sort": "15476"
+  },
+  {
+    "city": "Urziceni",
+    "admin": "Ialomiţa",
+    "sort": "15308"
+  },
+  {
+    "city": "Luduş",
+    "admin": "Mureş",
+    "sort": "15328"
+  },
+  {
+    "city": "Chitila",
+    "admin": "Ilfov",
+    "sort": "14184"
+  },
+  {
+    "city": "Râşnov",
+    "admin": "Braşov",
+    "sort": "15022"
+  },
+  {
+    "city": "Vişeu de Sus",
+    "admin": "Maramureş",
+    "sort": "15037"
+  },
+  {
+    "city": "Buhuşi",
+    "admin": "Bacău",
+    "sort": "14562"
+  },
+  {
+    "city": "Brad",
+    "admin": "Hunedoara",
+    "sort": "14495"
+  },
+  {
+    "city": "Pucioasa",
+    "admin": "Dâmboviţa",
+    "sort": "14254"
+  },
+  {
+    "city": "Vatra Dornei",
+    "admin": "Suceava",
+    "sort": "14429"
+  },
+  {
+    "city": "Mizil",
+    "admin": "Prahova",
+    "sort": "14312"
+  },
+  {
+    "city": "Cisnădie",
+    "admin": "Sibiu",
+    "sort": "14282"
+  },
+  {
+    "city": "Otopeni",
+    "admin": "Ilfov",
+    "sort": "13861"
+  },
+  {
+    "city": "Zimnicea",
+    "admin": "Teleorman",
+    "sort": "14058"
+  },
+  {
+    "city": "Ovidiu",
+    "admin": "Constanţa",
+    "sort": "13847"
+  },
+  {
+    "city": "Topliţa",
+    "admin": "Harghita",
+    "sort": "13929"
+  },
+  {
+    "city": "Găeşti",
+    "admin": "Dâmboviţa",
+    "sort": "13317"
+  },
+  {
+    "city": "Gura Humorului",
+    "admin": "Suceava",
+    "sort": "13667"
+  },
+  {
+    "city": "Jimbolia",
+    "admin": "Timiş",
+    "sort": "13597"
+  },
+  {
+    "city": "Vicovu de Sus",
+    "admin": "Suceava",
+    "sort": "13308"
+  },
+  {
+    "city": "Ocna Mureş",
+    "admin": "Alba",
+    "sort": "13036"
+  },
+  {
+    "city": "Bolintin Vale",
+    "admin": "Giurgiu",
+    "sort": "12929"
+  },
+  {
+    "city": "Avrig",
+    "admin": "Sibiu",
+    "sort": "12815"
+  },
+  {
+    "city": "Pecica",
+    "admin": "Arad",
+    "sort": "12762"
+  },
+  {
+    "city": "Jilava",
+    "admin": "Ilfov",
+    "sort": "12223"
+  },
+  {
+    "city": "Simeria",
+    "admin": "Hunedoara",
+    "sort": "12556"
+  },
+  {
+    "city": "Cumpăna",
+    "admin": "Constanţa",
+    "sort": "12333"
+  },
+  {
+    "city": "Valu lui Traian",
+    "admin": "Constanţa",
+    "sort": "12376"
+  },
+  {
+    "city": "Moldova Nouă",
+    "admin": "Caraş-Severin",
+    "sort": "12350"
+  },
+  {
+    "city": "Sânnicolau Mare",
+    "admin": "Timiş",
+    "sort": "12312"
+  },
+  {
+    "city": "Dărmăneşti",
+    "admin": "Bacău",
+    "sort": "12247"
+  },
+  {
+    "city": "Rovinari",
+    "admin": "Gorj",
+    "sort": "11816"
+  },
+  {
+    "city": "Vălenii de Munte",
+    "admin": "Prahova",
+    "sort": "11707"
+  },
+  {
+    "city": "Dăbuleni",
+    "admin": "Dolj",
+    "sort": "12175"
+  },
+  {
+    "city": "Comarnic",
+    "admin": "Prahova",
+    "sort": "11970"
+  },
+  {
+    "city": "Negreşti-Oaş",
+    "admin": "Satu Mare",
+    "sort": "11867"
+  },
+  {
+    "city": "Scorniceşti",
+    "admin": "Olt",
+    "sort": "11766"
+  },
+  {
+    "city": "Târgu Lăpuş",
+    "admin": "Maramureş",
+    "sort": "11744"
+  },
+  {
+    "city": "Matca",
+    "admin": "Galaţi",
+    "sort": "11605"
+  },
+  {
+    "city": "Videle",
+    "admin": "Teleorman",
+    "sort": "11508"
+  },
+  {
+    "city": "Săcueni",
+    "admin": "Bihor",
+    "sort": "11526"
+  },
+  {
+    "city": "Sântana",
+    "admin": "Arad",
+    "sort": "11428"
+  },
+  {
+    "city": "Târgu Ocna",
+    "admin": "Bacău",
+    "sort": "11300"
+  },
+  {
+    "city": "Boldeşti-Scăeni",
+    "admin": "Prahova",
+    "sort": "11137"
+  },
+  {
+    "city": "Oraviţa",
+    "admin": "Caraş-Severin",
+    "sort": "11382"
+  },
+  {
+    "city": "Călan",
+    "admin": "Hunedoara",
+    "sort": "11279"
+  },
+  {
+    "city": "Măgurele",
+    "admin": "Ilfov",
+    "sort": "11041"
+  },
+  {
+    "city": "Hârlău",
+    "admin": "Iaşi",
+    "sort": "10905"
+  },
+  {
+    "city": "Târgu Frumos",
+    "admin": "Iaşi",
+    "sort": "10475"
+  },
+  {
+    "city": "Beiuş",
+    "admin": "Bihor",
+    "sort": "10667"
+  },
+  {
+    "city": "Drăgăneşti-Olt",
+    "admin": "Olt",
+    "sort": "10894"
+  },
+  {
+    "city": "Cristuru Secuiesc",
+    "admin": "Harghita",
+    "sort": "10796"
+  },
+  {
+    "city": "Beclean",
+    "admin": "Bistriţa-Năsăud",
+    "sort": "10628"
+  },
+  {
+    "city": "Poiana Mare",
+    "admin": "Dolj",
+    "sort": "10740"
+  },
+  {
+    "city": "Mărăşeşti",
+    "admin": "Vrancea",
+    "sort": "10671"
+  },
+  {
+    "city": "Urlaţi",
+    "admin": "Prahova",
+    "sort": "10541"
+  },
+  {
+    "city": "Jibou",
+    "admin": "Sălaj",
+    "sort": "10407"
+  },
+  {
+    "city": "Orşova",
+    "admin": "Mehedinţi",
+    "sort": "10441"
+  },
+  {
+    "city": "Oţelu Roşu",
+    "admin": "Caraş-Severin",
+    "sort": "10510"
+  },
+  {
+    "city": "Strehaia",
+    "admin": "Mehedinţi",
+    "sort": "10506"
+  },
+  {
+    "city": "Sinaia",
+    "admin": "Prahova",
+    "sort": "10410"
+  },
+  {
+    "city": "Topoloveni",
+    "admin": "Argeş",
+    "sort": "10219"
+  },
+  {
+    "city": "Costeşti",
+    "admin": "Argeş",
+    "sort": "10375"
+  },
+  {
+    "city": "Sovata",
+    "admin": "Mureş",
+    "sort": "10385"
+  },
+  {
+    "city": "Ianca",
+    "admin": "Brăila",
+    "sort": "10343"
+  },
+  {
+    "city": "Dolhasca",
+    "admin": "Suceava",
+    "sort": "10298"
+  },
+  {
+    "city": "Lipova",
+    "admin": "Arad",
+    "sort": "10313"
+  },
+  {
+    "city": "Murfatlar",
+    "admin": "Constanţa",
+    "sort": "10216"
+  },
+  {
+    "city": "Nehoiu",
+    "admin": "Buzău",
+    "sort": "10211"
+  },
+  {
+    "city": "Flămânzi",
+    "admin": "Botoşani",
+    "sort": "10136"
+  },
+  {
+    "city": "Aleşd",
+    "admin": "Bihor",
+    "sort": "10066"
+  },
+  {
+    "city": "Pechea",
+    "admin": "Galaţi",
+    "sort": "10126"
+  },
+  {
+    "city": "Covasna",
+    "admin": "Covasna",
+    "sort": "10114"
+  },
+  {
+    "city": "Poienile de sub Munte",
+    "admin": "Maramureş",
+    "sort": "10073"
+  },
+  {
+    "city": "Valea lui Mihai",
+    "admin": "Bihor",
+    "sort": "9902"
+  },
+  {
+    "city": "Darabani",
+    "admin": "Botoşani",
+    "sort": "9893"
+  },
+  {
+    "city": "Titu",
+    "admin": "Dâmboviţa",
+    "sort": "9658"
+  },
+  {
+    "city": "Haţeg",
+    "admin": "Hunedoara",
+    "sort": "9685"
+  },
+  {
+    "city": "Năsăud",
+    "admin": "Bistriţa-Năsăud",
+    "sort": "9587"
+  },
+  {
+    "city": "Podu Iloaiei",
+    "admin": "Iaşi",
+    "sort": "9573"
+  },
+  {
+    "city": "Sângeorz-Băi",
+    "admin": "Bistriţa-Năsăud",
+    "sort": "9679"
+  },
+  {
+    "city": "Liteni",
+    "admin": "Suceava",
+    "sort": "9596"
+  },
+  {
+    "city": "Hârşova",
+    "admin": "Constanţa",
+    "sort": "9642"
+  },
+  {
+    "city": "Odobeşti",
+    "admin": "Vrancea",
+    "sort": "9364"
+  },
+  {
+    "city": "Huedin",
+    "admin": "Cluj",
+    "sort": "9346"
+  },
+  {
+    "city": "Ineu",
+    "admin": "Arad",
+    "sort": "9260"
+  },
+  {
+    "city": "Salcea",
+    "admin": "Suceava",
+    "sort": "9015"
+  },
+  {
+    "city": "Sângeorgiu de Mureş",
+    "admin": "Mureş",
+    "sort": "8800"
+  },
+  {
+    "city": "Seini",
+    "admin": "Maramureş",
+    "sort": "8987"
+  },
+  {
+    "city": "Borcea",
+    "admin": "Călăraşi",
+    "sort": "7986"
+  },
+  {
+    "city": "Babadag",
+    "admin": "Tulcea",
+    "sort": "8940"
+  },
+  {
+    "city": "Buşteni",
+    "admin": "Prahova",
+    "sort": "8894"
+  },
+  {
+    "city": "Uricani",
+    "admin": "Hunedoara",
+    "sort": "8972"
+  },
+  {
+    "city": "Săbăoani",
+    "admin": "Neamţ",
+    "sort": "8722"
+  },
+  {
+    "city": "Bumbeşti-Jiu",
+    "admin": "Gorj",
+    "sort": "8932"
+  },
+  {
+    "city": "Agnita",
+    "admin": "Sibiu",
+    "sort": "8732"
+  },
+  {
+    "city": "Iernut",
+    "admin": "Mureş",
+    "sort": "8705"
+  },
+  {
+    "city": "Roznov",
+    "admin": "Neamţ",
+    "sort": "8593"
+  },
+  {
+    "city": "Baraolt",
+    "admin": "Covasna",
+    "sort": "8672"
+  },
+  {
+    "city": "Tăşnad",
+    "admin": "Satu Mare",
+    "sort": "8631"
+  },
+  {
+    "city": "Băbeni",
+    "admin": "Vâlcea",
+    "sort": "8451"
+  },
+  {
+    "city": "Bicaz",
+    "admin": "Neamţ",
+    "sort": "8626"
+  },
+  {
+    "city": "Negreşti",
+    "admin": "Vaslui",
+    "sort": "8380"
+  },
+  {
+    "city": "Măcin",
+    "admin": "Tulcea",
+    "sort": "8245"
+  },
+  {
+    "city": "Tomeşti",
+    "admin": "Iaşi",
+    "sort": "8126"
+  },
+  {
+    "city": "Recaş",
+    "admin": "Timiş",
+    "sort": "8336"
+  },
+  {
+    "city": "Prim Decembrie",
+    "admin": "Ilfov",
+    "sort": "7817"
+  },
+  {
+    "city": "Dancu",
+    "admin": "Iaşi",
+    "sort": "6444"
+  },
+  {
+    "city": "Domneşti",
+    "admin": "Ilfov",
+    "sort": "7910"
+  },
+  {
+    "city": "Siret",
+    "admin": "Suceava",
+    "sort": "7976"
+  },
+  {
+    "city": "Târgu Cărbuneşti",
+    "admin": "Gorj",
+    "sort": "8034"
+  },
+  {
+    "city": "Chişineu Criş",
+    "admin": "Arad",
+    "sort": "7987"
+  },
+  {
+    "city": "Mihăileşti",
+    "admin": "Giurgiu",
+    "sort": "7923"
+  },
+  {
+    "city": "Mogoşoaia",
+    "admin": "Ilfov",
+    "sort": "7625"
+  },
+  {
+    "city": "Dumbrăviţa",
+    "admin": "Timiş",
+    "sort": "7522"
+  },
+  {
+    "city": "Fieni",
+    "admin": "Dâmboviţa",
+    "sort": "7587"
+  },
+  {
+    "city": "Budeşti",
+    "admin": "Călăraşi",
+    "sort": "7725"
+  },
+  {
+    "city": "Vlăhiţa",
+    "admin": "Harghita",
+    "sort": "7649"
+  },
+  {
+    "city": "Câmpeni",
+    "admin": "Alba",
+    "sort": "7629"
+  },
+  {
+    "city": "Călimăneşti",
+    "admin": "Vâlcea",
+    "sort": "7622"
+  },
+  {
+    "city": "Întorsura Buzăului",
+    "admin": "Covasna",
+    "sort": "7528"
+  },
+  {
+    "city": "Curtici",
+    "admin": "Arad",
+    "sort": "7453"
+  },
+  {
+    "city": "Brăneşti",
+    "admin": "Ilfov",
+    "sort": "7305"
+  },
+  {
+    "city": "Anina",
+    "admin": "Caraş-Severin",
+    "sort": "7485"
+  },
+  {
+    "city": "Dumbrăveni",
+    "admin": "Sibiu",
+    "sort": "7388"
+  },
+  {
+    "city": "Zlatna",
+    "admin": "Alba",
+    "sort": "7490"
+  },
+  {
+    "city": "Nădlac",
+    "admin": "Arad",
+    "sort": "7398"
+  },
+  {
+    "city": "Techirghiol",
+    "admin": "Constanţa",
+    "sort": "7292"
+  },
+  {
+    "city": "Amara",
+    "admin": "Ialomiţa",
+    "sort": "7345"
+  },
+  {
+    "city": "Victoria",
+    "admin": "Braşov",
+    "sort": "7386"
+  },
+  {
+    "city": "Pătârlagele",
+    "admin": "Buzău",
+    "sort": "7304"
+  },
+  {
+    "city": "Ulmeni",
+    "admin": "Maramureş",
+    "sort": "7270"
+  },
+  {
+    "city": "Turceni",
+    "admin": "Gorj",
+    "sort": "7269"
+  },
+  {
+    "city": "Pogoanele",
+    "admin": "Buzău",
+    "sort": "7275"
+  },
+  {
+    "city": "Cehu Silvaniei",
+    "admin": "Sălaj",
+    "sort": "7214"
+  },
+  {
+    "city": "Tăuţii Măgheruş",
+    "admin": "Maramureş",
+    "sort": "7136"
+  },
+  {
+    "city": "Cajvana",
+    "admin": "Suceava",
+    "sort": "6901"
+  },
+  {
+    "city": "Murgeni",
+    "admin": "Vaslui",
+    "sort": "7119"
+  },
+  {
+    "city": "Fundulea",
+    "admin": "Călăraşi",
+    "sort": "6851"
+  },
+  {
+    "city": "Săveni",
+    "admin": "Botoşani",
+    "sort": "6999"
+  },
+  {
+    "city": "Buziaş",
+    "admin": "Timiş",
+    "sort": "7023"
+  },
+  {
+    "city": "Segarcea",
+    "admin": "Dolj",
+    "sort": "7019"
+  },
+  {
+    "city": "Tismana",
+    "admin": "Gorj",
+    "sort": "7035"
+  },
+  {
+    "city": "Ungheni",
+    "admin": "Mureş",
+    "sort": "6945"
+  },
+  {
+    "city": "Pâncota",
+    "admin": "Arad",
+    "sort": "6946"
+  },
+  {
+    "city": "Sărmaşu",
+    "admin": "Mureş",
+    "sort": "6942"
+  },
+  {
+    "city": "Răcari",
+    "admin": "Dâmboviţa",
+    "sort": "6930"
+  },
+  {
+    "city": "Tălmaciu",
+    "admin": "Sibiu",
+    "sort": "6905"
+  },
+  {
+    "city": "Teiuş",
+    "admin": "Alba",
+    "sort": "6695"
+  },
+  {
+    "city": "Livada",
+    "admin": "Satu Mare",
+    "sort": "6773"
+  },
+  {
+    "city": "Făget",
+    "admin": "Timiş",
+    "sort": "6761"
+  },
+  {
+    "city": "Cornetu",
+    "admin": "Ilfov",
+    "sort": "6040"
+  },
+  {
+    "city": "Lehliu-Gară",
+    "admin": "Călăraşi",
+    "sort": "6502"
+  },
+  {
+    "city": "Însurăţei",
+    "admin": "Brăila",
+    "sort": "6528"
+  },
+  {
+    "city": "Baloteşti",
+    "admin": "Ilfov",
+    "sort": "6286"
+  },
+  {
+    "city": "Deta",
+    "admin": "Timiş",
+    "sort": "6260"
+  },
+  {
+    "city": "Piatra Olt",
+    "admin": "Olt",
+    "sort": "6299"
+  },
+  {
+    "city": "Bujor",
+    "admin": "Galaţi",
+    "sort": "6299"
+  },
+  {
+    "city": "Horezu",
+    "admin": "Vâlcea",
+    "sort": "6263"
+  },
+  {
+    "city": "Ardud",
+    "admin": "Satu Mare",
+    "sort": "6231"
+  },
+  {
+    "city": "Berceni",
+    "admin": "Ilfov",
+    "sort": "5942"
+  },
+  {
+    "city": "Săvineşti",
+    "admin": "Neamţ",
+    "sort": "5921"
+  },
+  {
+    "city": "Slănic",
+    "admin": "Prahova",
+    "sort": "6034"
+  },
+  {
+    "city": "Bălan",
+    "admin": "Harghita",
+    "sort": "6115"
+  },
+  {
+    "city": "Sebiş",
+    "admin": "Arad",
+    "sort": "5979"
+  },
+  {
+    "city": "Brezoi",
+    "admin": "Vâlcea",
+    "sort": "6022"
+  },
+  {
+    "city": "Frasin",
+    "admin": "Suceava",
+    "sort": "5876"
+  },
+  {
+    "city": "Gătaia",
+    "admin": "Timiş",
+    "sort": "5861"
+  },
+  {
+    "city": "Glina",
+    "admin": "Ilfov",
+    "sort": "5494"
+  },
+  {
+    "city": "Potcoava",
+    "admin": "Olt",
+    "sort": "5743"
+  },
+  {
+    "city": "Sâncraiu de Mureş",
+    "admin": "Mureş",
+    "sort": "5385"
+  },
+  {
+    "city": "Miercurea Nirajului",
+    "admin": "Mureş",
+    "sort": "5554"
+  },
+  {
+    "city": "Copşa Mică",
+    "admin": "Sibiu",
+    "sort": "5404"
+  },
+  {
+    "city": "Broşteni",
+    "admin": "Suceava",
+    "sort": "5506"
+  },
+  {
+    "city": "Novaci-Străini",
+    "admin": "Gorj",
+    "sort": "5431"
+  },
+  {
+    "city": "Sălişte",
+    "admin": "Sibiu",
+    "sort": "5421"
+  },
+  {
+    "city": "Baia de Aramă",
+    "admin": "Mehedinţi",
+    "sort": "5349"
+  },
+  {
+    "city": "Ciacova",
+    "admin": "Timiş",
+    "sort": "5348"
+  },
+  {
+    "city": "Vânju-Mare",
+    "admin": "Mehedinţi",
+    "sort": "5311"
+  },
+  {
+    "city": "Rupea",
+    "admin": "Braşov",
+    "sort": "5269"
+  },
+  {
+    "city": "Geoagiu",
+    "admin": "Hunedoara",
+    "sort": "5294"
+  },
+  {
+    "city": "Abrud",
+    "admin": "Alba",
+    "sort": "5072"
+  },
+  {
+    "city": "Tunari",
+    "admin": "Ilfov",
+    "sort": "5007"
+  },
+  {
+    "city": "Sângeorgiu de Pădure",
+    "admin": "Mureş",
+    "sort": "5166"
+  },
+  {
+    "city": "Milişăuţi",
+    "admin": "Suceava",
+    "sort": "5005"
+  },
+  {
+    "city": "Negru Vodă",
+    "admin": "Constanţa",
+    "sort": "5088"
+  },
+  {
+    "city": "Ostrov",
+    "admin": "Constanţa",
+    "sort": "5069"
+  },
+  {
+    "city": "Isaccea",
+    "admin": "Tulcea",
+    "sort": "5026"
+  },
+  {
+    "city": "Băile Herculane",
+    "admin": "Caraş-Severin",
+    "sort": "5008"
+  },
+  {
+    "city": "Moisei",
+    "admin": "Maramureş",
+    "sort": "9264"
+  },
+  {
+    "city": "Lieşti",
+    "admin": "Galaţi",
+    "sort": "8902"
+  },
+  {
+    "city": "Marginea",
+    "admin": "Suceava",
+    "sort": "8552"
+  },
+  {
+    "city": "Mihail Kogălniceanu",
+    "admin": "Constanţa",
+    "sort": "8319"
+  },
+  {
+    "city": "Afumaţi",
+    "admin": "Ilfov",
+    "sort": "7919"
+  },
+  {
+    "city": "Lumina",
+    "admin": "Constanţa",
+    "sort": "7800"
+  },
+  {
+    "city": "Dumbrăveni",
+    "admin": "Suceava",
+    "sort": "7002"
+  },
+  {
+    "city": "Tuzla",
+    "admin": "Constanţa",
+    "sort": "6711"
+  },
+  {
+    "city": "Sadova",
+    "admin": "Dolj",
+    "sort": "6705"
+  },
+  {
+    "city": "Diosig",
+    "admin": "Bihor",
+    "sort": "6529"
+  },
+  {
+    "city": "Gilău",
+    "admin": "Cluj",
+    "sort": "6464"
+  },
+  {
+    "city": "Cobadin",
+    "admin": "Constanţa",
+    "sort": "6483"
+  },
+  {
+    "city": "Vladimirescu",
+    "admin": "Arad",
+    "sort": "6445"
+  },
+  {
+    "city": "Bosanci",
+    "admin": "Suceava",
+    "sort": "6304"
+  },
+  {
+    "city": "Peretu",
+    "admin": "Teleorman",
+    "sort": "6329"
+  },
+  {
+    "city": "Cudalbi",
+    "admin": "Galaţi",
+    "sort": "6319"
+  },
+  {
+    "city": "Strejnicu",
+    "admin": "Prahova",
+    "sort": "6108"
+  },
+  {
+    "city": "Remetea",
+    "admin": "Harghita",
+    "sort": "6165"
+  },
+  {
+    "city": "Baciu",
+    "admin": "Cluj",
+    "sort": "6100"
+  },
+  {
+    "city": "Sândominic",
+    "admin": "Harghita",
+    "sort": "6110"
+  },
+  {
+    "city": "Apahida",
+    "admin": "Cluj",
+    "sort": "5966"
+  },
+  {
+    "city": "Vicovu de Jos",
+    "admin": "Suceava",
+    "sort": "5925"
+  },
+  {
+    "city": "Bărbuleşti",
+    "admin": "Ialomiţa",
+    "sort": "5902"
+  },
+  {
+    "city": "Plosca",
+    "admin": "Teleorman",
+    "sort": "5900"
+  },
+  {
+    "city": "Feldru",
+    "admin": "Bistriţa-Năsăud",
+    "sort": "5760"
+  },
+  {
+    "city": "Periş",
+    "admin": "Ilfov",
+    "sort": "5682"
+  },
+  {
+    "city": "Giroc",
+    "admin": "Timiş",
+    "sort": "5652"
+  },
+  {
+    "city": "Macea",
+    "admin": "Arad",
+    "sort": "5600"
+  },
+  {
+    "city": "Ruscova",
+    "admin": "Maramureş",
+    "sort": "5541"
+  },
+  {
+    "city": "Oituz",
+    "admin": "Bacău",
+    "sort": "5623"
+  },
+  {
+    "city": "Rucăr",
+    "admin": "Argeş",
+    "sort": "5610"
+  },
+  {
+    "city": "Rodna",
+    "admin": "Bistriţa-Năsăud",
+    "sort": "5587"
+  },
+  {
+    "city": "Gugeşti",
+    "admin": "Vrancea",
+    "sort": "5394"
+  },
+  {
+    "city": "Moţăţei",
+    "admin": "Dolj",
+    "sort": "5403"
+  },
+  {
+    "city": "Prejmer",
+    "admin": "Braşov",
+    "sort": "5297"
+  },
+  {
+    "city": "Homocea",
+    "admin": "Vrancea",
+    "sort": "5250"
+  },
+  {
+    "city": "Măieru",
+    "admin": "Bistriţa-Năsăud",
+    "sort": "5326"
+  },
+  {
+    "city": "Arbore",
+    "admin": "Suceava",
+    "sort": "5259"
+  },
+  {
+    "city": "Baia",
+    "admin": "Suceava",
+    "sort": "5197"
+  },
+  {
+    "city": "Giarmata",
+    "admin": "Timiş",
+    "sort": "5210"
+  },
+  {
+    "city": "Tufeşti",
+    "admin": "Brăila",
+    "sort": "5226"
+  },
+  {
+    "city": "Corund",
+    "admin": "Harghita",
+    "sort": "5228"
+  },
+  {
+    "city": "Horodnicu de Sus",
+    "admin": "Suceava",
+    "sort": "5136"
+  },
+  {
+    "city": "Straja",
+    "admin": "Suceava",
+    "sort": "5094"
+  },
+  {
+    "city": "Greci",
+    "admin": "Tulcea",
+    "sort": "5117"
+  },
+  {
+    "city": "Tudora",
+    "admin": "Botoşani",
+    "sort": "5096"
+  },
+  {
+    "city": "Răducăneni",
+    "admin": "Iaşi",
+    "sort": "5065"
+  },
+  {
+    "city": "Răşinari",
+    "admin": "Sibiu",
+    "sort": "5086"
+  },
+  {
+    "city": "Păuneşti",
+    "admin": "Vrancea",
+    "sort": "5034"
+  }
+]

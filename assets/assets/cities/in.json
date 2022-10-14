@@ -1,0 +1,8002 @@
+[
+  {
+    "city": "Delhi",
+    "admin": "Delhi",
+    "sort": "31870000"
+  },
+  {
+    "city": "Mumbai",
+    "admin": "Mahārāshtra",
+    "sort": "22186000"
+  },
+  {
+    "city": "Kolkāta",
+    "admin": "West Bengal",
+    "sort": "18698000"
+  },
+  {
+    "city": "Bangalore",
+    "admin": "Karnātaka",
+    "sort": "13999000"
+  },
+  {
+    "city": "Chennai",
+    "admin": "Tamil Nādu",
+    "sort": "11564000"
+  },
+  {
+    "city": "Hyderābād",
+    "admin": "Telangana",
+    "sort": "9840000"
+  },
+  {
+    "city": "Pune",
+    "admin": "Mahārāshtra",
+    "sort": "7948000"
+  },
+  {
+    "city": "Ahmedabad",
+    "admin": "Gujarāt",
+    "sort": "7717000"
+  },
+  {
+    "city": "Allahābād",
+    "admin": "Uttar Pradesh",
+    "sort": "5954391"
+  },
+  {
+    "city": "Sūrat",
+    "admin": "Gujarāt",
+    "sort": "4875000"
+  },
+  {
+    "city": "Lucknow",
+    "admin": "Uttar Pradesh",
+    "sort": "3382000"
+  },
+  {
+    "city": "Jaipur",
+    "admin": "Rājasthān",
+    "sort": "3073350"
+  },
+  {
+    "city": "Cawnpore",
+    "admin": "Uttar Pradesh",
+    "sort": "2701324"
+  },
+  {
+    "city": "Mirzāpur",
+    "admin": "Uttar Pradesh",
+    "sort": "2496970"
+  },
+  {
+    "city": "Nāgpur",
+    "admin": "Mahārāshtra",
+    "sort": "2405665"
+  },
+  {
+    "city": "Ghāziābād",
+    "admin": "Uttar Pradesh",
+    "sort": "2375820"
+  },
+  {
+    "city": "Vadodara",
+    "admin": "Gujarāt",
+    "sort": "2065771"
+  },
+  {
+    "city": "Vishākhapatnam",
+    "admin": "Andhra Pradesh",
+    "sort": "2035922"
+  },
+  {
+    "city": "Indore",
+    "admin": "Madhya Pradesh",
+    "sort": "1994397"
+  },
+  {
+    "city": "Thāne",
+    "admin": "Mahārāshtra",
+    "sort": "1886941"
+  },
+  {
+    "city": "Bhopāl",
+    "admin": "Madhya Pradesh",
+    "sort": "1798218"
+  },
+  {
+    "city": "Patna",
+    "admin": "Bihār",
+    "sort": "1684222"
+  },
+  {
+    "city": "Bilāspur",
+    "admin": "Chhattīsgarh",
+    "sort": "1625502"
+  },
+  {
+    "city": "Ludhiāna",
+    "admin": "Punjab",
+    "sort": "1618879"
+  },
+  {
+    "city": "Āgra",
+    "admin": "Uttar Pradesh",
+    "sort": "1592000"
+  },
+  {
+    "city": "Kalyān",
+    "admin": "Mahārāshtra",
+    "sort": "1576614"
+  },
+  {
+    "city": "Madurai",
+    "admin": "Tamil Nādu",
+    "sort": "1561129"
+  },
+  {
+    "city": "Jamshedpur",
+    "admin": "Jharkhand",
+    "sort": "1558000"
+  },
+  {
+    "city": "Nāsik",
+    "admin": "Mahārāshtra",
+    "sort": "1486053"
+  },
+  {
+    "city": "Farīdābād",
+    "admin": "Haryāna",
+    "sort": "1394000"
+  },
+  {
+    "city": "Aurangābād",
+    "admin": "Mahārāshtra",
+    "sort": "1371330"
+  },
+  {
+    "city": "Rājkot",
+    "admin": "Gujarāt",
+    "sort": "1335397"
+  },
+  {
+    "city": "Meerut",
+    "admin": "Uttar Pradesh",
+    "sort": "1305429"
+  },
+  {
+    "city": "Jabalpur",
+    "admin": "Madhya Pradesh",
+    "sort": "1267564"
+  },
+  {
+    "city": "Dhanbād",
+    "admin": "Jharkhand",
+    "sort": "1246000"
+  },
+  {
+    "city": "Vārānasi",
+    "admin": "Uttar Pradesh",
+    "sort": "1198491"
+  },
+  {
+    "city": "Srīnagar",
+    "admin": "Jammu and Kashmīr",
+    "sort": "1180570"
+  },
+  {
+    "city": "Amritsar",
+    "admin": "Punjab",
+    "sort": "1132383"
+  },
+  {
+    "city": "Alīgarh",
+    "admin": "Uttar Pradesh",
+    "sort": "1131160"
+  },
+  {
+    "city": "Guwāhāti",
+    "admin": "Assam",
+    "sort": "1116267"
+  },
+  {
+    "city": "Bhilai",
+    "admin": "Chhattīsgarh",
+    "sort": "1097000"
+  },
+  {
+    "city": "Hāora",
+    "admin": "West Bengal",
+    "sort": "1077075"
+  },
+  {
+    "city": "Rānchi",
+    "admin": "Jharkhand",
+    "sort": "1073440"
+  },
+  {
+    "city": "Gwalior",
+    "admin": "Madhya Pradesh",
+    "sort": "1069276"
+  },
+  {
+    "city": "Bezwāda",
+    "admin": "Andhra Pradesh",
+    "sort": "1048240"
+  },
+  {
+    "city": "Chandīgarh",
+    "admin": "Chandīgarh",
+    "sort": "1026459"
+  },
+  {
+    "city": "Jodhpur",
+    "admin": "Rājasthān",
+    "sort": "1033918"
+  },
+  {
+    "city": "Mysore",
+    "admin": "Karnātaka",
+    "sort": "1014227"
+  },
+  {
+    "city": "Raipur",
+    "admin": "Chhattīsgarh",
+    "sort": "1010087"
+  },
+  {
+    "city": "Kota",
+    "admin": "Rājasthān",
+    "sort": "1001694"
+  },
+  {
+    "city": "New Delhi",
+    "admin": "Delhi",
+    "sort": "249998"
+  },
+  {
+    "city": "Bareilly",
+    "admin": "Uttar Pradesh",
+    "sort": "1000000"
+  },
+  {
+    "city": "Coimbatore",
+    "admin": "Tamil Nādu",
+    "sort": "959823"
+  },
+  {
+    "city": "Solāpur",
+    "admin": "Mahārāshtra",
+    "sort": "951558"
+  },
+  {
+    "city": "Trichinopoly",
+    "admin": "Tamil Nādu",
+    "sort": "916857"
+  },
+  {
+    "city": "Hubli",
+    "admin": "Karnātaka",
+    "sort": "890000"
+  },
+  {
+    "city": "Jalandhar",
+    "admin": "Punjab",
+    "sort": "873725"
+  },
+  {
+    "city": "Bhubaneshwar",
+    "admin": "Odisha",
+    "sort": "837737"
+  },
+  {
+    "city": "Morādābād",
+    "admin": "Uttar Pradesh",
+    "sort": "787000"
+  },
+  {
+    "city": "Kolhāpur",
+    "admin": "Mahārāshtra",
+    "sort": "750000"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "admin": "Kerala",
+    "sort": "743691"
+  },
+  {
+    "city": "Bhiwandi",
+    "admin": "Mahārāshtra",
+    "sort": "709665"
+  },
+  {
+    "city": "Sahāranpur",
+    "admin": "Uttar Pradesh",
+    "sort": "705478"
+  },
+  {
+    "city": "Warangal",
+    "admin": "Telangana",
+    "sort": "704570"
+  },
+  {
+    "city": "Salem",
+    "admin": "Tamil Nādu",
+    "sort": "693236"
+  },
+  {
+    "city": "Mālegaon",
+    "admin": "Mahārāshtra",
+    "sort": "690844"
+  },
+  {
+    "city": "Kochi",
+    "admin": "Kerala",
+    "sort": "677381"
+  },
+  {
+    "city": "Gorakhpur",
+    "admin": "Uttar Pradesh",
+    "sort": "673446"
+  },
+  {
+    "city": "Shimoga",
+    "admin": "Karnātaka",
+    "sort": "654055"
+  },
+  {
+    "city": "Guntūr",
+    "admin": "Andhra Pradesh",
+    "sort": "647508"
+  },
+  {
+    "city": "Tiruppūr",
+    "admin": "Tamil Nādu",
+    "sort": "650000"
+  },
+  {
+    "city": "Raurkela",
+    "admin": "Odisha",
+    "sort": "625831"
+  },
+  {
+    "city": "Mangalore",
+    "admin": "Karnātaka",
+    "sort": "623841"
+  },
+  {
+    "city": "Nānded",
+    "admin": "Mahārāshtra",
+    "sort": "623708"
+  },
+  {
+    "city": "Cuttack",
+    "admin": "Odisha",
+    "sort": "606007"
+  },
+  {
+    "city": "Tumkūr",
+    "admin": "Karnātaka",
+    "sort": "599078"
+  },
+  {
+    "city": "Chānda",
+    "admin": "Mahārāshtra",
+    "sort": "595118"
+  },
+  {
+    "city": "Dehra Dūn",
+    "admin": "Uttarakhand",
+    "sort": "578420"
+  },
+  {
+    "city": "Durgāpur",
+    "admin": "West Bengal",
+    "sort": "566517"
+  },
+  {
+    "city": "Āsansol",
+    "admin": "West Bengal",
+    "sort": "563917"
+  },
+  {
+    "city": "Bhāvnagar",
+    "admin": "Gujarāt",
+    "sort": "554978"
+  },
+  {
+    "city": "Nellore",
+    "admin": "Andhra Pradesh",
+    "sort": "547621"
+  },
+  {
+    "city": "Amrāvati",
+    "admin": "Mahārāshtra",
+    "sort": "549370"
+  },
+  {
+    "city": "Ajmer",
+    "admin": "Rājasthān",
+    "sort": "542321"
+  },
+  {
+    "city": "Tinnevelly",
+    "admin": "Tamil Nādu",
+    "sort": "542200"
+  },
+  {
+    "city": "Bīkaner",
+    "admin": "Rājasthān",
+    "sort": "529007"
+  },
+  {
+    "city": "Agartala",
+    "admin": "Tripura",
+    "sort": "522613"
+  },
+  {
+    "city": "Ujjain",
+    "admin": "Madhya Pradesh",
+    "sort": "515215"
+  },
+  {
+    "city": "Ulhāsnagar",
+    "admin": "Mahārāshtra",
+    "sort": "506098"
+  },
+  {
+    "city": "Jhānsi",
+    "admin": "Uttar Pradesh",
+    "sort": "507000"
+  },
+  {
+    "city": "Davangere",
+    "admin": "Karnātaka",
+    "sort": "503564"
+  },
+  {
+    "city": "Jammu",
+    "admin": "Jammu and Kashmīr",
+    "sort": "502197"
+  },
+  {
+    "city": "Belgaum",
+    "admin": "Karnātaka",
+    "sort": "488157"
+  },
+  {
+    "city": "Gulbarga",
+    "admin": "Karnātaka",
+    "sort": "483615"
+  },
+  {
+    "city": "Jāmnagar",
+    "admin": "Gujarāt",
+    "sort": "479920"
+  },
+  {
+    "city": "Dhūlia",
+    "admin": "Mahārāshtra",
+    "sort": "479073"
+  },
+  {
+    "city": "Gaya",
+    "admin": "Bihār",
+    "sort": "474093"
+  },
+  {
+    "city": "Jalgaon",
+    "admin": "Mahārāshtra",
+    "sort": "460468"
+  },
+  {
+    "city": "Kurnool",
+    "admin": "Andhra Pradesh",
+    "sort": "457633"
+  },
+  {
+    "city": "Udaipur",
+    "admin": "Rājasthān",
+    "sort": "451100"
+  },
+  {
+    "city": "Bellary",
+    "admin": "Karnātaka",
+    "sort": "445388"
+  },
+  {
+    "city": "Sāngli",
+    "admin": "Mahārāshtra",
+    "sort": "436639"
+  },
+  {
+    "city": "Tuticorin",
+    "admin": "Tamil Nādu",
+    "sort": "436094"
+  },
+  {
+    "city": "Calicut",
+    "admin": "Kerala",
+    "sort": "431560"
+  },
+  {
+    "city": "Akola",
+    "admin": "Mahārāshtra",
+    "sort": "425817"
+  },
+  {
+    "city": "Bhāgalpur",
+    "admin": "Bihār",
+    "sort": "410210"
+  },
+  {
+    "city": "Quilon",
+    "admin": "Kerala",
+    "sort": "397419"
+  },
+  {
+    "city": "Sīkar",
+    "admin": "Rājasthān",
+    "sort": "400000"
+  },
+  {
+    "city": "Bhātpāra",
+    "admin": "West Bengal",
+    "sort": "386019"
+  },
+  {
+    "city": "Kākināda",
+    "admin": "Andhra Pradesh",
+    "sort": "384182"
+  },
+  {
+    "city": "Bhīlwāra",
+    "admin": "Rājasthān",
+    "sort": "389911"
+  },
+  {
+    "city": "Nizāmābād",
+    "admin": "Telangana",
+    "sort": "388505"
+  },
+  {
+    "city": "Pānihāti",
+    "admin": "West Bengal",
+    "sort": "377347"
+  },
+  {
+    "city": "Parbhani",
+    "admin": "Mahārāshtra",
+    "sort": "378326"
+  },
+  {
+    "city": "Rohtak",
+    "admin": "Haryāna",
+    "sort": "374292"
+  },
+  {
+    "city": "Lātūr",
+    "admin": "Mahārāshtra",
+    "sort": "374394"
+  },
+  {
+    "city": "Rājapālaiyam",
+    "admin": "Tamil Nādu",
+    "sort": "369991"
+  },
+  {
+    "city": "Ahmadnagar",
+    "admin": "Mahārāshtra",
+    "sort": "350859"
+  },
+  {
+    "city": "Rājahmundry",
+    "admin": "Andhra Pradesh",
+    "sort": "341831"
+  },
+  {
+    "city": "Cuddapah",
+    "admin": "Andhra Pradesh",
+    "sort": "344893"
+  },
+  {
+    "city": "Muzaffarpur",
+    "admin": "Bihār",
+    "sort": "333200"
+  },
+  {
+    "city": "Alwar",
+    "admin": "Rājasthān",
+    "sort": "341422"
+  },
+  {
+    "city": "Brahmapur",
+    "admin": "Odisha",
+    "sort": "324726"
+  },
+  {
+    "city": "Kāmārhāti",
+    "admin": "West Bengal",
+    "sort": "330211"
+  },
+  {
+    "city": "Mathura",
+    "admin": "Uttar Pradesh",
+    "sort": "330511"
+  },
+  {
+    "city": "Patiāla",
+    "admin": "Punjab",
+    "sort": "329224"
+  },
+  {
+    "city": "Saugor",
+    "admin": "Madhya Pradesh",
+    "sort": "328240"
+  },
+  {
+    "city": "Bijāpur",
+    "admin": "Karnātaka",
+    "sort": "327427"
+  },
+  {
+    "city": "Shāhjānpur",
+    "admin": "Uttar Pradesh",
+    "sort": "320434"
+  },
+  {
+    "city": "Jūnāgadh",
+    "admin": "Gujarāt",
+    "sort": "320250"
+  },
+  {
+    "city": "Trichūr",
+    "admin": "Kerala",
+    "sort": "315596"
+  },
+  {
+    "city": "Barddhamān",
+    "admin": "West Bengal",
+    "sort": "314265"
+  },
+  {
+    "city": "Purnea",
+    "admin": "Bihār",
+    "sort": "310817"
+  },
+  {
+    "city": "Sambalpur",
+    "admin": "Odisha",
+    "sort": "310852"
+  },
+  {
+    "city": "Fīrozābād",
+    "admin": "Uttar Pradesh",
+    "sort": "306409"
+  },
+  {
+    "city": "Hisar",
+    "admin": "Haryāna",
+    "sort": "307024"
+  },
+  {
+    "city": "Rāmpur",
+    "admin": "Uttar Pradesh",
+    "sort": "296418"
+  },
+  {
+    "city": "Bāli",
+    "admin": "West Bengal",
+    "sort": "293373"
+  },
+  {
+    "city": "Pānīpat",
+    "admin": "Haryāna",
+    "sort": "292808"
+  },
+  {
+    "city": "Āīzawl",
+    "admin": "Mizoram",
+    "sort": "293416"
+  },
+  {
+    "city": "Karīmnagar",
+    "admin": "Telangana",
+    "sort": "289821"
+  },
+  {
+    "city": "Bhuj",
+    "admin": "Gujarāt",
+    "sort": "289429"
+  },
+  {
+    "city": "Ichalkaranji",
+    "admin": "Mahārāshtra",
+    "sort": "287570"
+  },
+  {
+    "city": "Hospet",
+    "admin": "Karnātaka",
+    "sort": "286007"
+  },
+  {
+    "city": "Bhatinda",
+    "admin": "Punjab",
+    "sort": "285813"
+  },
+  {
+    "city": "Sannai",
+    "admin": "Madhya Pradesh",
+    "sort": "283004"
+  },
+  {
+    "city": "Bārāsat",
+    "admin": "West Bengal",
+    "sort": "278435"
+  },
+  {
+    "city": "Ratlām",
+    "admin": "Madhya Pradesh",
+    "sort": "273892"
+  },
+  {
+    "city": "Drug",
+    "admin": "Chhattīsgarh",
+    "sort": "268806"
+  },
+  {
+    "city": "Handwāra",
+    "admin": "Jammu and Kashmīr",
+    "sort": "269311"
+  },
+  {
+    "city": "Imphāl",
+    "admin": "Manipur",
+    "sort": "264986"
+  },
+  {
+    "city": "Anantapur",
+    "admin": "Andhra Pradesh",
+    "sort": "267161"
+  },
+  {
+    "city": "Etāwah",
+    "admin": "Uttar Pradesh",
+    "sort": "257448"
+  },
+  {
+    "city": "Rāichūr",
+    "admin": "Karnātaka",
+    "sort": "255240"
+  },
+  {
+    "city": "Bharatpur",
+    "admin": "Rājasthān",
+    "sort": "252342"
+  },
+  {
+    "city": "Begusarai",
+    "admin": "Bihār",
+    "sort": "252008"
+  },
+  {
+    "city": "Sonīpat",
+    "admin": "Haryāna",
+    "sort": "250521"
+  },
+  {
+    "city": "Shrīrāmpur",
+    "admin": "West Bengal",
+    "sort": "181842"
+  },
+  {
+    "city": "Hāpur",
+    "admin": "Uttar Pradesh",
+    "sort": "242920"
+  },
+  {
+    "city": "Rāmgundam",
+    "admin": "Telangana",
+    "sort": "242979"
+  },
+  {
+    "city": "Uluberiya",
+    "admin": "West Bengal",
+    "sort": "235345"
+  },
+  {
+    "city": "Puducherry",
+    "admin": "Puducherry",
+    "sort": "227411"
+  },
+  {
+    "city": "Porbandar",
+    "admin": "Gujarāt",
+    "sort": "234684"
+  },
+  {
+    "city": "Vizianagaram",
+    "admin": "Andhra Pradesh",
+    "sort": "228720"
+  },
+  {
+    "city": "Pāli",
+    "admin": "Rājasthān",
+    "sort": "229956"
+  },
+  {
+    "city": "Nadiād",
+    "admin": "Gujarāt",
+    "sort": "225132"
+  },
+  {
+    "city": "Nāgercoil",
+    "admin": "Tamil Nādu",
+    "sort": "224329"
+  },
+  {
+    "city": "Karnāl",
+    "admin": "Haryāna",
+    "sort": "225049"
+  },
+  {
+    "city": "Puri",
+    "admin": "Odisha",
+    "sort": "201026"
+  },
+  {
+    "city": "Tanjore",
+    "admin": "Tamil Nādu",
+    "sort": "222943"
+  },
+  {
+    "city": "Secunderābād",
+    "admin": "Telangana",
+    "sort": "213698"
+  },
+  {
+    "city": "Sambhal",
+    "admin": "Uttar Pradesh",
+    "sort": "220813"
+  },
+  {
+    "city": "Shiliguri",
+    "admin": "West Bengal",
+    "sort": "218718"
+  },
+  {
+    "city": "Naihāti",
+    "admin": "West Bengal",
+    "sort": "217900"
+  },
+  {
+    "city": "Shimla",
+    "admin": "Himāchal Pradesh",
+    "sort": "206575"
+  },
+  {
+    "city": "Kharagpur",
+    "admin": "West Bengal",
+    "sort": "207604"
+  },
+  {
+    "city": "Dindigul",
+    "admin": "Tamil Nādu",
+    "sort": "207327"
+  },
+  {
+    "city": "Ingrāj Bāzār",
+    "admin": "West Bengal",
+    "sort": "205521"
+  },
+  {
+    "city": "Ongole",
+    "admin": "Andhra Pradesh",
+    "sort": "204746"
+  },
+  {
+    "city": "Ellore",
+    "admin": "Andhra Pradesh",
+    "sort": "203780"
+  },
+  {
+    "city": "Haldia",
+    "admin": "West Bengal",
+    "sort": "200827"
+  },
+  {
+    "city": "Gurgaon",
+    "admin": "Haryāna",
+    "sort": "197340"
+  },
+  {
+    "city": "Bulandshahr",
+    "admin": "Uttar Pradesh",
+    "sort": "198612"
+  },
+  {
+    "city": "Baharampur",
+    "admin": "West Bengal",
+    "sort": "195223"
+  },
+  {
+    "city": "Chakradharpur",
+    "admin": "Jharkhand",
+    "sort": "197953"
+  },
+  {
+    "city": "Madhyamgram",
+    "admin": "West Bengal",
+    "sort": "196127"
+  },
+  {
+    "city": "Burhānpur",
+    "admin": "Madhya Pradesh",
+    "sort": "197233"
+  },
+  {
+    "city": "Khammam",
+    "admin": "Telangana",
+    "sort": "196283"
+  },
+  {
+    "city": "Bhiwāni",
+    "admin": "Haryāna",
+    "sort": "197662"
+  },
+  {
+    "city": "Ghāndīnagar",
+    "admin": "Gujarāt",
+    "sort": "195891"
+  },
+  {
+    "city": "Hugli",
+    "admin": "West Bengal",
+    "sort": "179931"
+  },
+  {
+    "city": "Mahbūbnagar",
+    "admin": "Telangana",
+    "sort": "190400"
+  },
+  {
+    "city": "Nandyāl",
+    "admin": "Andhra Pradesh",
+    "sort": "188654"
+  },
+  {
+    "city": "Rāiganj",
+    "admin": "West Bengal",
+    "sort": "183612"
+  },
+  {
+    "city": "Bārākpur",
+    "admin": "West Bengal",
+    "sort": "152783"
+  },
+  {
+    "city": "Mahesāna",
+    "admin": "Gujarāt",
+    "sort": "184991"
+  },
+  {
+    "city": "Batāla",
+    "admin": "Punjab",
+    "sort": "183314"
+  },
+  {
+    "city": "Bhusāval",
+    "admin": "Mahārāshtra",
+    "sort": "183001"
+  },
+  {
+    "city": "Bahraigh",
+    "admin": "Uttar Pradesh",
+    "sort": "182218"
+  },
+  {
+    "city": "Tonk",
+    "admin": "Rājasthān",
+    "sort": "181734"
+  },
+  {
+    "city": "Sirsa",
+    "admin": "Haryāna",
+    "sort": "181639"
+  },
+  {
+    "city": "Jaunpur",
+    "admin": "Uttar Pradesh",
+    "sort": "180362"
+  },
+  {
+    "city": "Dam Dam",
+    "admin": "West Bengal",
+    "sort": "114786"
+  },
+  {
+    "city": "Madanapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "180180"
+  },
+  {
+    "city": "Alleppey",
+    "admin": "Kerala",
+    "sort": "176783"
+  },
+  {
+    "city": "Vellore",
+    "admin": "Tamil Nādu",
+    "sort": "177081"
+  },
+  {
+    "city": "Titāgarh",
+    "admin": "West Bengal",
+    "sort": "116541"
+  },
+  {
+    "city": "Chandannagar",
+    "admin": "West Bengal",
+    "sort": "166867"
+  },
+  {
+    "city": "Cuddalore",
+    "admin": "Tamil Nādu",
+    "sort": "173676"
+  },
+  {
+    "city": "Chīrāla",
+    "admin": "Andhra Pradesh",
+    "sort": "172826"
+  },
+  {
+    "city": "Deo",
+    "admin": "Bihār",
+    "sort": "173216"
+  },
+  {
+    "city": "Bīdar",
+    "admin": "Karnātaka",
+    "sort": "172298"
+  },
+  {
+    "city": "Machilīpatnam",
+    "admin": "Andhra Pradesh",
+    "sort": "169892"
+  },
+  {
+    "city": "Medinīpur",
+    "admin": "West Bengal",
+    "sort": "169264"
+  },
+  {
+    "city": "Bāramūla",
+    "admin": "Jammu and Kashmīr",
+    "sort": "167986"
+  },
+  {
+    "city": "Fatehpur",
+    "admin": "Uttar Pradesh",
+    "sort": "166480"
+  },
+  {
+    "city": "Tenāli",
+    "admin": "Andhra Pradesh",
+    "sort": "164937"
+  },
+  {
+    "city": "Udipi",
+    "admin": "Karnātaka",
+    "sort": "165401"
+  },
+  {
+    "city": "Sitalpur",
+    "admin": "Uttar Pradesh",
+    "sort": "164435"
+  },
+  {
+    "city": "Conjeeveram",
+    "admin": "Tamil Nādu",
+    "sort": "164384"
+  },
+  {
+    "city": "Proddatūr",
+    "admin": "Andhra Pradesh",
+    "sort": "163970"
+  },
+  {
+    "city": "Navsāri",
+    "admin": "Gujarāt",
+    "sort": "163000"
+  },
+  {
+    "city": "Godhra",
+    "admin": "Gujarāt",
+    "sort": "161925"
+  },
+  {
+    "city": "Budaun",
+    "admin": "Uttar Pradesh",
+    "sort": "161555"
+  },
+  {
+    "city": "Chittoor",
+    "admin": "Andhra Pradesh",
+    "sort": "160722"
+  },
+  {
+    "city": "Krishnanagar",
+    "admin": "West Bengal",
+    "sort": "153062"
+  },
+  {
+    "city": "Bharūch",
+    "admin": "Gujarāt",
+    "sort": "158253"
+  },
+  {
+    "city": "Saharsa",
+    "admin": "Bihār",
+    "sort": "156540"
+  },
+  {
+    "city": "Harīpur",
+    "admin": "Punjab",
+    "sort": "158142"
+  },
+  {
+    "city": "Pathānkot",
+    "admin": "Punjab",
+    "sort": "155909"
+  },
+  {
+    "city": "Vidisha",
+    "admin": "Madhya Pradesh",
+    "sort": "155959"
+  },
+  {
+    "city": "Nalgonda",
+    "admin": "Telangana",
+    "sort": "154326"
+  },
+  {
+    "city": "Bālurghāt",
+    "admin": "West Bengal",
+    "sort": "153279"
+  },
+  {
+    "city": "Dibrugarh",
+    "admin": "Assam",
+    "sort": "154019"
+  },
+  {
+    "city": "Verāval",
+    "admin": "Gujarāt",
+    "sort": "153696"
+  },
+  {
+    "city": "Fyzābād",
+    "admin": "Uttar Pradesh",
+    "sort": "153047"
+  },
+  {
+    "city": "Silchar",
+    "admin": "Assam",
+    "sort": "152393"
+  },
+  {
+    "city": "Shāntipur",
+    "admin": "West Bengal",
+    "sort": "151777"
+  },
+  {
+    "city": "Hindupur",
+    "admin": "Andhra Pradesh",
+    "sort": "151677"
+  },
+  {
+    "city": "Erode",
+    "admin": "Tamil Nādu",
+    "sort": "151184"
+  },
+  {
+    "city": "Beāwar",
+    "admin": "Rājasthān",
+    "sort": "151472"
+  },
+  {
+    "city": "Mauli",
+    "admin": "Punjab",
+    "sort": "146213"
+  },
+  {
+    "city": "Hābra",
+    "admin": "West Bengal",
+    "sort": "147221"
+  },
+  {
+    "city": "Ambāla",
+    "admin": "Haryāna",
+    "sort": "146787"
+  },
+  {
+    "city": "Etah",
+    "admin": "Uttar Pradesh",
+    "sort": "145601"
+  },
+  {
+    "city": "Shillong",
+    "admin": "Meghālaya",
+    "sort": "143229"
+  },
+  {
+    "city": "Kolār",
+    "admin": "Karnātaka",
+    "sort": "144625"
+  },
+  {
+    "city": "Bhīmavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "142184"
+  },
+  {
+    "city": "Mandsaur",
+    "admin": "Madhya Pradesh",
+    "sort": "141667"
+  },
+  {
+    "city": "Kumbakonam",
+    "admin": "Tamil Nādu",
+    "sort": "139264"
+  },
+  {
+    "city": "Chicacole",
+    "admin": "Andhra Pradesh",
+    "sort": "137944"
+  },
+  {
+    "city": "Tiruvannāmalai",
+    "admin": "Tamil Nādu",
+    "sort": "138243"
+  },
+  {
+    "city": "Mandya",
+    "admin": "Karnātaka",
+    "sort": "137358"
+  },
+  {
+    "city": "Bānkura",
+    "admin": "West Bengal",
+    "sort": "137386"
+  },
+  {
+    "city": "Gondiā",
+    "admin": "Mahārāshtra",
+    "sort": "132821"
+  },
+  {
+    "city": "Hassan",
+    "admin": "Karnātaka",
+    "sort": "133436"
+  },
+  {
+    "city": "Pīlibhīt",
+    "admin": "Uttar Pradesh",
+    "sort": "131008"
+  },
+  {
+    "city": "Pālghāt",
+    "admin": "Kerala",
+    "sort": "130955"
+  },
+  {
+    "city": "Pālakollu",
+    "admin": "Andhra Pradesh",
+    "sort": "129717"
+  },
+  {
+    "city": "Abohar",
+    "admin": "Punjab",
+    "sort": "130603"
+  },
+  {
+    "city": "Kānchrāpāra",
+    "admin": "West Bengal",
+    "sort": "129576"
+  },
+  {
+    "city": "Hanumāngarh",
+    "admin": "Rājasthān",
+    "sort": "129654"
+  },
+  {
+    "city": "Hāthras",
+    "admin": "Uttar Pradesh",
+    "sort": "126882"
+  },
+  {
+    "city": "Basīrhat",
+    "admin": "West Bengal",
+    "sort": "125254"
+  },
+  {
+    "city": "Navadwīp",
+    "admin": "West Bengal",
+    "sort": "125543"
+  },
+  {
+    "city": "Guntakal",
+    "admin": "Andhra Pradesh",
+    "sort": "126270"
+  },
+  {
+    "city": "Hālīsahar",
+    "admin": "West Bengal",
+    "sort": "124939"
+  },
+  {
+    "city": "Rishra",
+    "admin": "West Bengal",
+    "sort": "124577"
+  },
+  {
+    "city": "Baidyabāti",
+    "admin": "West Bengal",
+    "sort": "121110"
+  },
+  {
+    "city": "Dharmavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "121874"
+  },
+  {
+    "city": "Ghazīpur",
+    "admin": "Uttar Pradesh",
+    "sort": "121020"
+  },
+  {
+    "city": "Puruliya",
+    "admin": "West Bengal",
+    "sort": "121067"
+  },
+  {
+    "city": "Darjeeling",
+    "admin": "West Bengal",
+    "sort": "118805"
+  },
+  {
+    "city": "Gudivāda",
+    "admin": "Andhra Pradesh",
+    "sort": "118167"
+  },
+  {
+    "city": "Sopur",
+    "admin": "Jammu and Kashmīr",
+    "sort": "118608"
+  },
+  {
+    "city": "Adilābād",
+    "admin": "Telangana",
+    "sort": "117167"
+  },
+  {
+    "city": "Narasaraopet",
+    "admin": "Andhra Pradesh",
+    "sort": "116250"
+  },
+  {
+    "city": "Yavatmāl",
+    "admin": "Mahārāshtra",
+    "sort": "116551"
+  },
+  {
+    "city": "Chittaurgarh",
+    "admin": "Rājasthān",
+    "sort": "116406"
+  },
+  {
+    "city": "Bānsbāria",
+    "admin": "West Bengal",
+    "sort": "103920"
+  },
+  {
+    "city": "Siddipet",
+    "admin": "Telangana",
+    "sort": "114091"
+  },
+  {
+    "city": "Vālpārai",
+    "admin": "Tamil Nādu",
+    "sort": "114308"
+  },
+  {
+    "city": "Osmānābād",
+    "admin": "Mahārāshtra",
+    "sort": "112085"
+  },
+  {
+    "city": "Champdani",
+    "admin": "West Bengal",
+    "sort": "111251"
+  },
+  {
+    "city": "Khardah",
+    "admin": "West Bengal",
+    "sort": "108496"
+  },
+  {
+    "city": "Bangaon",
+    "admin": "West Bengal",
+    "sort": "108864"
+  },
+  {
+    "city": "Tādpatri",
+    "admin": "Andhra Pradesh",
+    "sort": "108171"
+  },
+  {
+    "city": "Islāmābād",
+    "admin": "Jammu and Kashmīr",
+    "sort": "108505"
+  },
+  {
+    "city": "Jalpāiguri",
+    "admin": "West Bengal",
+    "sort": "107341"
+  },
+  {
+    "city": "Suriāpet",
+    "admin": "Telangana",
+    "sort": "106805"
+  },
+  {
+    "city": "Tādepallegūdem",
+    "admin": "Andhra Pradesh",
+    "sort": "104032"
+  },
+  {
+    "city": "Kalyani",
+    "admin": "West Bengal",
+    "sort": "100575"
+  },
+  {
+    "city": "Negapatam",
+    "admin": "Tamil Nādu",
+    "sort": "102905"
+  },
+  {
+    "city": "Būndi",
+    "admin": "Rājasthān",
+    "sort": "103286"
+  },
+  {
+    "city": "Bhadreswar",
+    "admin": "West Bengal",
+    "sort": "101477"
+  },
+  {
+    "city": "Chilakalūrupet",
+    "admin": "Andhra Pradesh",
+    "sort": "101398"
+  },
+  {
+    "city": "Port Blair",
+    "admin": "Andaman and Nicobar Islands",
+    "sort": "100608"
+  },
+  {
+    "city": "Gangtok",
+    "admin": "Sikkim",
+    "sort": "100286"
+  },
+  {
+    "city": "Dhuliān",
+    "admin": "West Bengal",
+    "sort": "95706"
+  },
+  {
+    "city": "Kohīma",
+    "admin": "Nāgāland",
+    "sort": "99039"
+  },
+  {
+    "city": "Marmagao",
+    "admin": "Goa",
+    "sort": "94393"
+  },
+  {
+    "city": "Jangipur",
+    "admin": "West Bengal",
+    "sort": "88165"
+  },
+  {
+    "city": "Baj Baj",
+    "admin": "West Bengal",
+    "sort": "76837"
+  },
+  {
+    "city": "Tanuku",
+    "admin": "Andhra Pradesh",
+    "sort": "77962"
+  },
+  {
+    "city": "Siuri",
+    "admin": "West Bengal",
+    "sort": "67864"
+  },
+  {
+    "city": "Tamlūk",
+    "admin": "West Bengal",
+    "sort": "65306"
+  },
+  {
+    "city": "Bankra",
+    "admin": "West Bengal",
+    "sort": "63957"
+  },
+  {
+    "city": "Nagari",
+    "admin": "Andhra Pradesh",
+    "sort": "62253"
+  },
+  {
+    "city": "Chakapara",
+    "admin": "West Bengal",
+    "sort": "35282"
+  },
+  {
+    "city": "Itānagar",
+    "admin": "Arunāchal Pradesh",
+    "sort": "59490"
+  },
+  {
+    "city": "Mūndka",
+    "admin": "Delhi",
+    "sort": "54541"
+  },
+  {
+    "city": "Bāruipur",
+    "admin": "West Bengal",
+    "sort": "53128"
+  },
+  {
+    "city": "Mandapeta",
+    "admin": "Andhra Pradesh",
+    "sort": "56063"
+  },
+  {
+    "city": "Bhīmunipatnam",
+    "admin": "Andhra Pradesh",
+    "sort": "55082"
+  },
+  {
+    "city": "Pithāpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "54859"
+  },
+  {
+    "city": "Amalāpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "53231"
+  },
+  {
+    "city": "Bodupāl",
+    "admin": "Telangana",
+    "sort": "43692"
+  },
+  {
+    "city": "Gobārdānga",
+    "admin": "West Bengal",
+    "sort": "45377"
+  },
+  {
+    "city": "Diamond Harbour",
+    "admin": "West Bengal",
+    "sort": "41802"
+  },
+  {
+    "city": "Damān",
+    "admin": "Damān and Diu",
+    "sort": "39737"
+  },
+  {
+    "city": "Amudālavalasa",
+    "admin": "Andhra Pradesh",
+    "sort": "39799"
+  },
+  {
+    "city": "Kānkuria",
+    "admin": "West Bengal",
+    "sort": "36925"
+  },
+  {
+    "city": "Pujali",
+    "admin": "West Bengal",
+    "sort": "37047"
+  },
+  {
+    "city": "Chittaranjan",
+    "admin": "West Bengal",
+    "sort": "39098"
+  },
+  {
+    "city": "Panaji",
+    "admin": "Goa",
+    "sort": "40017"
+  },
+  {
+    "city": "Kaippakanchēri",
+    "admin": "Kerala",
+    "sort": "33721"
+  },
+  {
+    "city": "Sānkrāil",
+    "admin": "West Bengal",
+    "sort": "29114"
+  },
+  {
+    "city": "Elesvaram",
+    "admin": "Andhra Pradesh",
+    "sort": "32957"
+  },
+  {
+    "city": "Tarakeswar",
+    "admin": "West Bengal",
+    "sort": "30947"
+  },
+  {
+    "city": "Nibria",
+    "admin": "West Bengal",
+    "sort": "27818"
+  },
+  {
+    "city": "Kuli",
+    "admin": "West Bengal",
+    "sort": "28092"
+  },
+  {
+    "city": "Beldānga",
+    "admin": "West Bengal",
+    "sort": "29205"
+  },
+  {
+    "city": "Saranga",
+    "admin": "West Bengal",
+    "sort": "25200"
+  },
+  {
+    "city": "Jaynagar-Majilpur",
+    "admin": "West Bengal",
+    "sort": "25922"
+  },
+  {
+    "city": "Pānchla",
+    "admin": "West Bengal",
+    "sort": "26432"
+  },
+  {
+    "city": "Māmidālapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "26694"
+  },
+  {
+    "city": "Jālhalli",
+    "admin": "Karnātaka",
+    "sort": "13063"
+  },
+  {
+    "city": "Poranki",
+    "admin": "Andhra Pradesh",
+    "sort": "25545"
+  },
+  {
+    "city": "Sundararaopeta",
+    "admin": "Andhra Pradesh",
+    "sort": "24112"
+  },
+  {
+    "city": "Bāuria",
+    "admin": "West Bengal",
+    "sort": "16764"
+  },
+  {
+    "city": "Dumjor",
+    "admin": "West Bengal",
+    "sort": "18433"
+  },
+  {
+    "city": "Mahiari",
+    "admin": "West Bengal",
+    "sort": "18223"
+  },
+  {
+    "city": "Mayahaura",
+    "admin": "West Bengal",
+    "sort": "19604"
+  },
+  {
+    "city": "Dispur",
+    "admin": "Assam",
+    "sort": "16140"
+  },
+  {
+    "city": "Mālancha",
+    "admin": "West Bengal",
+    "sort": "16918"
+  },
+  {
+    "city": "Raghudebbati",
+    "admin": "West Bengal",
+    "sort": "14165"
+  },
+  {
+    "city": "Nahāzāri",
+    "admin": "West Bengal",
+    "sort": "17422"
+  },
+  {
+    "city": "Giria",
+    "admin": "West Bengal",
+    "sort": "17131"
+  },
+  {
+    "city": "Baharu",
+    "admin": "West Bengal",
+    "sort": "16155"
+  },
+  {
+    "city": "Jagdispur",
+    "admin": "West Bengal",
+    "sort": "16259"
+  },
+  {
+    "city": "Ramnagar",
+    "admin": "West Bengal",
+    "sort": "17053"
+  },
+  {
+    "city": "Jaypul",
+    "admin": "West Bengal",
+    "sort": "16134"
+  },
+  {
+    "city": "Dogāchi",
+    "admin": "West Bengal",
+    "sort": "13848"
+  },
+  {
+    "city": "Janāi",
+    "admin": "West Bengal",
+    "sort": "12837"
+  },
+  {
+    "city": "Bāhāgalpur",
+    "admin": "West Bengal",
+    "sort": "11528"
+  },
+  {
+    "city": "Muragācha",
+    "admin": "West Bengal",
+    "sort": "13249"
+  },
+  {
+    "city": "Chandi",
+    "admin": "West Bengal",
+    "sort": "13332"
+  },
+  {
+    "city": "Saktipur",
+    "admin": "West Bengal",
+    "sort": "13123"
+  },
+  {
+    "city": "Bhabānipur",
+    "admin": "West Bengal",
+    "sort": "11465"
+  },
+  {
+    "city": "Bandlagūda",
+    "admin": "Telangana",
+    "sort": "12734"
+  },
+  {
+    "city": "Begampur",
+    "admin": "West Bengal",
+    "sort": "12742"
+  },
+  {
+    "city": "Amtala",
+    "admin": "West Bengal",
+    "sort": "8765"
+  },
+  {
+    "city": "Velivennu",
+    "admin": "Andhra Pradesh",
+    "sort": "12018"
+  },
+  {
+    "city": "Begampur",
+    "admin": "West Bengal",
+    "sort": "10487"
+  },
+  {
+    "city": "Kalinagar",
+    "admin": "West Bengal",
+    "sort": "11358"
+  },
+  {
+    "city": "Natshal",
+    "admin": "West Bengal",
+    "sort": "11331"
+  },
+  {
+    "city": "Chaital",
+    "admin": "West Bengal",
+    "sort": "11927"
+  },
+  {
+    "city": "Dhāmua",
+    "admin": "West Bengal",
+    "sort": "10055"
+  },
+  {
+    "city": "Multi",
+    "admin": "West Bengal",
+    "sort": "10215"
+  },
+  {
+    "city": "Chāndpur",
+    "admin": "West Bengal",
+    "sort": "9066"
+  },
+  {
+    "city": "Sāhāpur",
+    "admin": "West Bengal",
+    "sort": "9022"
+  },
+  {
+    "city": "Amgachia",
+    "admin": "West Bengal",
+    "sort": "10179"
+  },
+  {
+    "city": "Laskarpar",
+    "admin": "West Bengal",
+    "sort": "8489"
+  },
+  {
+    "city": "Nimpot",
+    "admin": "West Bengal",
+    "sort": "8014"
+  },
+  {
+    "city": "Hārua",
+    "admin": "West Bengal",
+    "sort": "9012"
+  },
+  {
+    "city": "Nāzira",
+    "admin": "West Bengal",
+    "sort": "9552"
+  },
+  {
+    "city": "Krishnapur",
+    "admin": "West Bengal",
+    "sort": "8205"
+  },
+  {
+    "city": "Nalpur",
+    "admin": "West Bengal",
+    "sort": "6911"
+  },
+  {
+    "city": "Mahadipur",
+    "admin": "West Bengal",
+    "sort": "8638"
+  },
+  {
+    "city": "Iarpur",
+    "admin": "West Bengal",
+    "sort": "9238"
+  },
+  {
+    "city": "Raspunji",
+    "admin": "West Bengal",
+    "sort": "8036"
+  },
+  {
+    "city": "Nijgaon Parānpur",
+    "admin": "West Bengal",
+    "sort": "8523"
+  },
+  {
+    "city": "Ballālpur",
+    "admin": "West Bengal",
+    "sort": "7217"
+  },
+  {
+    "city": "Kavaratti",
+    "admin": "Lakshadweep",
+    "sort": "10688"
+  },
+  {
+    "city": "Pātra",
+    "admin": "West Bengal",
+    "sort": "8310"
+  },
+  {
+    "city": "Chāndnidaha",
+    "admin": "West Bengal",
+    "sort": "5996"
+  },
+  {
+    "city": "Nabagrām",
+    "admin": "West Bengal",
+    "sort": "8452"
+  },
+  {
+    "city": "Hilora",
+    "admin": "West Bengal",
+    "sort": "7667"
+  },
+  {
+    "city": "Imamnagar",
+    "admin": "West Bengal",
+    "sort": "6933"
+  },
+  {
+    "city": "Serpur",
+    "admin": "West Bengal",
+    "sort": "8170"
+  },
+  {
+    "city": "Dīgnagar",
+    "admin": "West Bengal",
+    "sort": "6023"
+  },
+  {
+    "city": "Palta",
+    "admin": "West Bengal",
+    "sort": "6408"
+  },
+  {
+    "city": "Beonta",
+    "admin": "West Bengal",
+    "sort": "7850"
+  },
+  {
+    "city": "Andharmanik",
+    "admin": "West Bengal",
+    "sort": "6676"
+  },
+  {
+    "city": "Balbalpāra",
+    "admin": "West Bengal",
+    "sort": "5207"
+  },
+  {
+    "city": "Bhandārdaha",
+    "admin": "West Bengal",
+    "sort": "5667"
+  },
+  {
+    "city": "Jājigrām",
+    "admin": "West Bengal",
+    "sort": "6977"
+  },
+  {
+    "city": "Alipur",
+    "admin": "West Bengal",
+    "sort": "5937"
+  },
+  {
+    "city": "Burul",
+    "admin": "West Bengal",
+    "sort": "7014"
+  },
+  {
+    "city": "Purbba Ramnagar",
+    "admin": "West Bengal",
+    "sort": "7759"
+  },
+  {
+    "city": "Bansabāti",
+    "admin": "West Bengal",
+    "sort": "6378"
+  },
+  {
+    "city": "Bodāi",
+    "admin": "West Bengal",
+    "sort": "6971"
+  },
+  {
+    "city": "Uttarbhag",
+    "admin": "West Bengal",
+    "sort": "6748"
+  },
+  {
+    "city": "Gācha",
+    "admin": "West Bengal",
+    "sort": "6489"
+  },
+  {
+    "city": "Gotra",
+    "admin": "West Bengal",
+    "sort": "5894"
+  },
+  {
+    "city": "Bāmanpukur",
+    "admin": "West Bengal",
+    "sort": "6421"
+  },
+  {
+    "city": "Padmarhā",
+    "admin": "West Bengal",
+    "sort": "5184"
+  },
+  {
+    "city": "Ramkrishnapur",
+    "admin": "West Bengal",
+    "sort": "5971"
+  },
+  {
+    "city": "Iswaripur",
+    "admin": "West Bengal",
+    "sort": "5155"
+  },
+  {
+    "city": "Nadābhānga",
+    "admin": "West Bengal",
+    "sort": "5927"
+  },
+  {
+    "city": "Bishnupur",
+    "admin": "West Bengal",
+    "sort": "5030"
+  },
+  {
+    "city": "Bhāsa",
+    "admin": "West Bengal",
+    "sort": "5559"
+  },
+  {
+    "city": "Bodra",
+    "admin": "West Bengal",
+    "sort": "5324"
+  },
+  {
+    "city": "Tinsukia",
+    "admin": "Assam",
+    "sort": "99507"
+  },
+  {
+    "city": "Khambhāt",
+    "admin": "Gujarāt",
+    "sort": "98700"
+  },
+  {
+    "city": "Aurangābād",
+    "admin": "Bihār",
+    "sort": "95929"
+  },
+  {
+    "city": "Chākdaha",
+    "admin": "West Bengal",
+    "sort": "95203"
+  },
+  {
+    "city": "Contai",
+    "admin": "West Bengal",
+    "sort": "92226"
+  },
+  {
+    "city": "Rāyachoti",
+    "admin": "Andhra Pradesh",
+    "sort": "91234"
+  },
+  {
+    "city": "Kāvali",
+    "admin": "Andhra Pradesh",
+    "sort": "90099"
+  },
+  {
+    "city": "Mancherāl",
+    "admin": "Telangana",
+    "sort": "89935"
+  },
+  {
+    "city": "Kairāna",
+    "admin": "Uttar Pradesh",
+    "sort": "89000"
+  },
+  {
+    "city": "Kadiri",
+    "admin": "Andhra Pradesh",
+    "sort": "89429"
+  },
+  {
+    "city": "Madgaon",
+    "admin": "Goa",
+    "sort": "87650"
+  },
+  {
+    "city": "Ootacamund",
+    "admin": "Tamil Nādu",
+    "sort": "88430"
+  },
+  {
+    "city": "Farīdkot",
+    "admin": "Punjab",
+    "sort": "87695"
+  },
+  {
+    "city": "Anakāpalle",
+    "admin": "Andhra Pradesh",
+    "sort": "86519"
+  },
+  {
+    "city": "Garulia",
+    "admin": "West Bengal",
+    "sort": "85336"
+  },
+  {
+    "city": "Sirsilla",
+    "admin": "Telangana",
+    "sort": "83186"
+  },
+  {
+    "city": "Kātoya",
+    "admin": "West Bengal",
+    "sort": "81615"
+  },
+  {
+    "city": "Kāmāreddipet",
+    "admin": "Telangana",
+    "sort": "80315"
+  },
+  {
+    "city": "Bolpur",
+    "admin": "West Bengal",
+    "sort": "80210"
+  },
+  {
+    "city": "Gumlā",
+    "admin": "Jharkhand",
+    "sort": "80129"
+  },
+  {
+    "city": "Simdega",
+    "admin": "Jharkhand",
+    "sort": "80129"
+  },
+  {
+    "city": "Kottagūdem",
+    "admin": "Telangana",
+    "sort": "79819"
+  },
+  {
+    "city": "Koch Bihār",
+    "admin": "West Bengal",
+    "sort": "77935"
+  },
+  {
+    "city": "Bodhan",
+    "admin": "Telangana",
+    "sort": "77573"
+  },
+  {
+    "city": "Karūr",
+    "admin": "Tamil Nādu",
+    "sort": "76915"
+  },
+  {
+    "city": "Mangalagiri",
+    "admin": "Andhra Pradesh",
+    "sort": "73613"
+  },
+  {
+    "city": "Bāpatla",
+    "admin": "Andhra Pradesh",
+    "sort": "70777"
+  },
+  {
+    "city": "Mārkāpur",
+    "admin": "Andhra Pradesh",
+    "sort": "71092"
+  },
+  {
+    "city": "Malaut",
+    "admin": "Punjab",
+    "sort": "70958"
+  },
+  {
+    "city": "Badvel",
+    "admin": "Andhra Pradesh",
+    "sort": "70626"
+  },
+  {
+    "city": "Jorhāt",
+    "admin": "Assam",
+    "sort": "69033"
+  },
+  {
+    "city": "Basavakalyān",
+    "admin": "Karnātaka",
+    "sort": "69717"
+  },
+  {
+    "city": "Beypore",
+    "admin": "Kerala",
+    "sort": "66883"
+  },
+  {
+    "city": "Bishnupur",
+    "admin": "West Bengal",
+    "sort": "67783"
+  },
+  {
+    "city": "Koratla",
+    "admin": "Telangana",
+    "sort": "66504"
+  },
+  {
+    "city": "Pulivendla",
+    "admin": "Andhra Pradesh",
+    "sort": "65706"
+  },
+  {
+    "city": "Alīpur Duār",
+    "admin": "West Bengal",
+    "sort": "65232"
+  },
+  {
+    "city": "Jaisalmer",
+    "admin": "Rājasthān",
+    "sort": "65471"
+  },
+  {
+    "city": "Tādepalle",
+    "admin": "Andhra Pradesh",
+    "sort": "64149"
+  },
+  {
+    "city": "Gadwāl",
+    "admin": "Telangana",
+    "sort": "63177"
+  },
+  {
+    "city": "Jatani",
+    "admin": "Odisha",
+    "sort": "63697"
+  },
+  {
+    "city": "Kodād",
+    "admin": "Telangana",
+    "sort": "64234"
+  },
+  {
+    "city": "Nawalgarh",
+    "admin": "Rājasthān",
+    "sort": "63948"
+  },
+  {
+    "city": "Armūr",
+    "admin": "Telangana",
+    "sort": "64023"
+  },
+  {
+    "city": "Jhārgrām",
+    "admin": "West Bengal",
+    "sort": "61712"
+  },
+  {
+    "city": "Wanparti",
+    "admin": "Telangana",
+    "sort": "60949"
+  },
+  {
+    "city": "Chāmrājnagar",
+    "admin": "Karnātaka",
+    "sort": "60810"
+  },
+  {
+    "city": "Ponnūru",
+    "admin": "Andhra Pradesh",
+    "sort": "59913"
+  },
+  {
+    "city": "Chandralapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "59943"
+  },
+  {
+    "city": "Vinukonda",
+    "admin": "Andhra Pradesh",
+    "sort": "59725"
+  },
+  {
+    "city": "Tezpur",
+    "admin": "Assam",
+    "sort": "58851"
+  },
+  {
+    "city": "Narasapur",
+    "admin": "Andhra Pradesh",
+    "sort": "58770"
+  },
+  {
+    "city": "Pānskura",
+    "admin": "West Bengal",
+    "sort": "57932"
+  },
+  {
+    "city": "Rāmpur Hat",
+    "admin": "West Bengal",
+    "sort": "57833"
+  },
+  {
+    "city": "Lonāvale",
+    "admin": "Mahārāshtra",
+    "sort": "57698"
+  },
+  {
+    "city": "Sāmalkot",
+    "admin": "Andhra Pradesh",
+    "sort": "56864"
+  },
+  {
+    "city": "Kālna",
+    "admin": "West Bengal",
+    "sort": "56722"
+  },
+  {
+    "city": "Kothāpet",
+    "admin": "Telangana",
+    "sort": "57583"
+  },
+  {
+    "city": "Mācherla",
+    "admin": "Andhra Pradesh",
+    "sort": "57290"
+  },
+  {
+    "city": "Kandukūr",
+    "admin": "Andhra Pradesh",
+    "sort": "57246"
+  },
+  {
+    "city": "Sattenapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "56721"
+  },
+  {
+    "city": "Bobbili",
+    "admin": "Andhra Pradesh",
+    "sort": "56819"
+  },
+  {
+    "city": "Vrindāvan",
+    "admin": "Uttar Pradesh",
+    "sort": "56618"
+  },
+  {
+    "city": "Gangārāmpur",
+    "admin": "West Bengal",
+    "sort": "56217"
+  },
+  {
+    "city": "Kāndi",
+    "admin": "West Bengal",
+    "sort": "55632"
+  },
+  {
+    "city": "Belampalli",
+    "admin": "Telangana",
+    "sort": "55841"
+  },
+  {
+    "city": "Pithorāgarh",
+    "admin": "Uttarakhand",
+    "sort": "56044"
+  },
+  {
+    "city": "Puttūr",
+    "admin": "Andhra Pradesh",
+    "sort": "54092"
+  },
+  {
+    "city": "Islāmpur",
+    "admin": "West Bengal",
+    "sort": "54340"
+  },
+  {
+    "city": "Punganūru",
+    "admin": "Andhra Pradesh",
+    "sort": "54746"
+  },
+  {
+    "city": "Nāndod",
+    "admin": "Gujarāt",
+    "sort": "54923"
+  },
+  {
+    "city": "Palmaner",
+    "admin": "Andhra Pradesh",
+    "sort": "54035"
+  },
+  {
+    "city": "Jalor",
+    "admin": "Rājasthān",
+    "sort": "54081"
+  },
+  {
+    "city": "Kāliyāganj",
+    "admin": "West Bengal",
+    "sort": "53530"
+  },
+  {
+    "city": "Vikārābād",
+    "admin": "Telangana",
+    "sort": "53143"
+  },
+  {
+    "city": "Badūria",
+    "admin": "West Bengal",
+    "sort": "52493"
+  },
+  {
+    "city": "Dholka",
+    "admin": "Gujarāt",
+    "sort": "53792"
+  },
+  {
+    "city": "Tuni",
+    "admin": "Andhra Pradesh",
+    "sort": "53425"
+  },
+  {
+    "city": "Jaggayyapeta",
+    "admin": "Andhra Pradesh",
+    "sort": "53530"
+  },
+  {
+    "city": "Venkatagiri",
+    "admin": "Andhra Pradesh",
+    "sort": "52688"
+  },
+  {
+    "city": "Sihor",
+    "admin": "Gujarāt",
+    "sort": "52603"
+  },
+  {
+    "city": "Jangaon",
+    "admin": "Telangana",
+    "sort": "52394"
+  },
+  {
+    "city": "Mandamāri",
+    "admin": "Telangana",
+    "sort": "52352"
+  },
+  {
+    "city": "Diu",
+    "admin": "Damān and Diu",
+    "sort": "52074"
+  },
+  {
+    "city": "Metpalli",
+    "admin": "Telangana",
+    "sort": "50902"
+  },
+  {
+    "city": "Repalle",
+    "admin": "Andhra Pradesh",
+    "sort": "50866"
+  },
+  {
+    "city": "Peddāpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "49477"
+  },
+  {
+    "city": "Bhadrāchalam",
+    "admin": "Telangana",
+    "sort": "50087"
+  },
+  {
+    "city": "Ajodhya",
+    "admin": "Uttar Pradesh",
+    "sort": "49650"
+  },
+  {
+    "city": "Bhainsa",
+    "admin": "Telangana",
+    "sort": "49764"
+  },
+  {
+    "city": "Prattipādu",
+    "admin": "Andhra Pradesh",
+    "sort": "49390"
+  },
+  {
+    "city": "Jasdan",
+    "admin": "Gujarāt",
+    "sort": "48483"
+  },
+  {
+    "city": "Vuyyūru",
+    "admin": "Andhra Pradesh",
+    "sort": "46490"
+  },
+  {
+    "city": "Nandikotkūr",
+    "admin": "Andhra Pradesh",
+    "sort": "46953"
+  },
+  {
+    "city": "Dhupgāri",
+    "admin": "West Bengal",
+    "sort": "44719"
+  },
+  {
+    "city": "Jammalamadugu",
+    "admin": "Andhra Pradesh",
+    "sort": "46069"
+  },
+  {
+    "city": "Rāmeswaram",
+    "admin": "Tamil Nādu",
+    "sort": "44856"
+  },
+  {
+    "city": "Murshidābād",
+    "admin": "West Bengal",
+    "sort": "44019"
+  },
+  {
+    "city": "Sainthia",
+    "admin": "West Bengal",
+    "sort": "44601"
+  },
+  {
+    "city": "Charkhi Dādri",
+    "admin": "Haryāna",
+    "sort": "44892"
+  },
+  {
+    "city": "Nandigāma",
+    "admin": "Andhra Pradesh",
+    "sort": "44359"
+  },
+  {
+    "city": "Nidadavole",
+    "admin": "Andhra Pradesh",
+    "sort": "43809"
+  },
+  {
+    "city": "Addanki",
+    "admin": "Andhra Pradesh",
+    "sort": "43850"
+  },
+  {
+    "city": "Nilothi",
+    "admin": "Haryāna",
+    "sort": "43371"
+  },
+  {
+    "city": "Mahbūbābād",
+    "admin": "Telangana",
+    "sort": "42851"
+  },
+  {
+    "city": "Berubāri",
+    "admin": "West Bengal",
+    "sort": "41593"
+  },
+  {
+    "city": "Akbarpur",
+    "admin": "Uttar Pradesh",
+    "sort": "42248"
+  },
+  {
+    "city": "Kārsiyāng",
+    "admin": "West Bengal",
+    "sort": "42446"
+  },
+  {
+    "city": "Rājgīr",
+    "admin": "Bihār",
+    "sort": "41587"
+  },
+  {
+    "city": "Nalhāti",
+    "admin": "West Bengal",
+    "sort": "41534"
+  },
+  {
+    "city": "Memāri",
+    "admin": "West Bengal",
+    "sort": "41451"
+  },
+  {
+    "city": "Rajaori",
+    "admin": "Jammu and Kashmīr",
+    "sort": "41552"
+  },
+  {
+    "city": "Pīleru",
+    "admin": "Andhra Pradesh",
+    "sort": "41489"
+  },
+  {
+    "city": "Peddapalli",
+    "admin": "Telangana",
+    "sort": "41171"
+  },
+  {
+    "city": "Naini Tal",
+    "admin": "Uttarakhand",
+    "sort": "41377"
+  },
+  {
+    "city": "Kovvūr",
+    "admin": "Andhra Pradesh",
+    "sort": "39667"
+  },
+  {
+    "city": "Channarāyapatna",
+    "admin": "Karnātaka",
+    "sort": "40400"
+  },
+  {
+    "city": "Maihar",
+    "admin": "Madhya Pradesh",
+    "sort": "40192"
+  },
+  {
+    "city": "Junnar",
+    "admin": "Mahārāshtra",
+    "sort": "40000"
+  },
+  {
+    "city": "Kālimpong",
+    "admin": "West Bengal",
+    "sort": "40143"
+  },
+  {
+    "city": "Atmakūr",
+    "admin": "Andhra Pradesh",
+    "sort": "39794"
+  },
+  {
+    "city": "Solan",
+    "admin": "Himāchal Pradesh",
+    "sort": "39256"
+  },
+  {
+    "city": "Vetapālem",
+    "admin": "Andhra Pradesh",
+    "sort": "38671"
+  },
+  {
+    "city": "Tāki",
+    "admin": "West Bengal",
+    "sort": "38263"
+  },
+  {
+    "city": "Betamcherla",
+    "admin": "Andhra Pradesh",
+    "sort": "38994"
+  },
+  {
+    "city": "Penumūr",
+    "admin": "Andhra Pradesh",
+    "sort": "38912"
+  },
+  {
+    "city": "Dwārka",
+    "admin": "Gujarāt",
+    "sort": "38873"
+  },
+  {
+    "city": "Kadiyam",
+    "admin": "Andhra Pradesh",
+    "sort": "37149"
+  },
+  {
+    "city": "Dubrājpur",
+    "admin": "West Bengal",
+    "sort": "38041"
+  },
+  {
+    "city": "Pathanāmthitta",
+    "admin": "Kerala",
+    "sort": "37802"
+  },
+  {
+    "city": "Sitalkuchi",
+    "admin": "West Bengal",
+    "sort": "37052"
+  },
+  {
+    "city": "Dālkola",
+    "admin": "West Bengal",
+    "sort": "36930"
+  },
+  {
+    "city": "Ichchāpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "36493"
+  },
+  {
+    "city": "Mahē",
+    "admin": "Kerala",
+    "sort": "36828"
+  },
+  {
+    "city": "Kanigiri",
+    "admin": "Andhra Pradesh",
+    "sort": "37420"
+  },
+  {
+    "city": "Dīnhāta",
+    "admin": "West Bengal",
+    "sort": "36124"
+  },
+  {
+    "city": "Huzūrnagar",
+    "admin": "Telangana",
+    "sort": "35850"
+  },
+  {
+    "city": "Kodaikānal",
+    "admin": "Tamil Nādu",
+    "sort": "36501"
+  },
+  {
+    "city": "Udhampur",
+    "admin": "Jammu and Kashmīr",
+    "sort": "35507"
+  },
+  {
+    "city": "Vempalle",
+    "admin": "Andhra Pradesh",
+    "sort": "36031"
+  },
+  {
+    "city": "Medchal",
+    "admin": "Telangana",
+    "sort": "35611"
+  },
+  {
+    "city": "Uravakonda",
+    "admin": "Andhra Pradesh",
+    "sort": "35565"
+  },
+  {
+    "city": "Guskhara",
+    "admin": "West Bengal",
+    "sort": "35388"
+  },
+  {
+    "city": "Yellandu",
+    "admin": "Telangana",
+    "sort": "35056"
+  },
+  {
+    "city": "Giddalūr",
+    "admin": "Andhra Pradesh",
+    "sort": "35150"
+  },
+  {
+    "city": "Balarāmpur",
+    "admin": "West Bengal",
+    "sort": "34113"
+  },
+  {
+    "city": "Angamāli",
+    "admin": "Kerala",
+    "sort": "33424"
+  },
+  {
+    "city": "Vemalwāda",
+    "admin": "Telangana",
+    "sort": "33706"
+  },
+  {
+    "city": "Narsīpatnam",
+    "admin": "Andhra Pradesh",
+    "sort": "33757"
+  },
+  {
+    "city": "Shrīrangapattana",
+    "admin": "Karnātaka",
+    "sort": "34135"
+  },
+  {
+    "city": "Shamsābād",
+    "admin": "Telangana",
+    "sort": "32583"
+  },
+  {
+    "city": "Almora",
+    "admin": "Uttarakhand",
+    "sort": "34122"
+  },
+  {
+    "city": "Kondapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "33373"
+  },
+  {
+    "city": "Debagrām",
+    "admin": "West Bengal",
+    "sort": "32695"
+  },
+  {
+    "city": "Fatehpur Sīkri",
+    "admin": "Uttar Pradesh",
+    "sort": "32905"
+  },
+  {
+    "city": "Jamikunta",
+    "admin": "Telangana",
+    "sort": "32645"
+  },
+  {
+    "city": "Darsi",
+    "admin": "Andhra Pradesh",
+    "sort": "33418"
+  },
+  {
+    "city": "Umaria",
+    "admin": "Madhya Pradesh",
+    "sort": "33114"
+  },
+  {
+    "city": "Kovūr",
+    "admin": "Andhra Pradesh",
+    "sort": "32082"
+  },
+  {
+    "city": "Erraguntla",
+    "admin": "Andhra Pradesh",
+    "sort": "32574"
+  },
+  {
+    "city": "Nāspur",
+    "admin": "Telangana",
+    "sort": "31244"
+  },
+  {
+    "city": "Kalyandrug",
+    "admin": "Andhra Pradesh",
+    "sort": "32328"
+  },
+  {
+    "city": "Mangūr",
+    "admin": "Telangana",
+    "sort": "32091"
+  },
+  {
+    "city": "Tummapāla",
+    "admin": "Andhra Pradesh",
+    "sort": "31035"
+  },
+  {
+    "city": "Pedana",
+    "admin": "Andhra Pradesh",
+    "sort": "30721"
+  },
+  {
+    "city": "Pandua",
+    "admin": "West Bengal",
+    "sort": "30700"
+  },
+  {
+    "city": "Lālgola",
+    "admin": "West Bengal",
+    "sort": "31698"
+  },
+  {
+    "city": "Mussoorie",
+    "admin": "Uttarakhand",
+    "sort": "30118"
+  },
+  {
+    "city": "Mārgrām",
+    "admin": "West Bengal",
+    "sort": "30055"
+  },
+  {
+    "city": "Podili",
+    "admin": "Andhra Pradesh",
+    "sort": "31145"
+  },
+  {
+    "city": "Uran",
+    "admin": "Mahārāshtra",
+    "sort": "30439"
+  },
+  {
+    "city": "Maināguri",
+    "admin": "West Bengal",
+    "sort": "30490"
+  },
+  {
+    "city": "Egra",
+    "admin": "West Bengal",
+    "sort": "30148"
+  },
+  {
+    "city": "Leh",
+    "admin": "Jammu and Kashmīr",
+    "sort": "30870"
+  },
+  {
+    "city": "Chimākurti",
+    "admin": "Andhra Pradesh",
+    "sort": "30279"
+  },
+  {
+    "city": "Koratgi",
+    "admin": "Karnātaka",
+    "sort": "29991"
+  },
+  {
+    "city": "Garaimāri",
+    "admin": "West Bengal",
+    "sort": "29260"
+  },
+  {
+    "city": "Devarkonda",
+    "admin": "Telangana",
+    "sort": "29731"
+  },
+  {
+    "city": "Pattikonda",
+    "admin": "Andhra Pradesh",
+    "sort": "29342"
+  },
+  {
+    "city": "Ātmakūr",
+    "admin": "Andhra Pradesh",
+    "sort": "29419"
+  },
+  {
+    "city": "Sonāmukhi",
+    "admin": "West Bengal",
+    "sort": "29085"
+  },
+  {
+    "city": "Khunti",
+    "admin": "Jharkhand",
+    "sort": "29271"
+  },
+  {
+    "city": "Nakrekal",
+    "admin": "Telangana",
+    "sort": "29126"
+  },
+  {
+    "city": "Kodumur",
+    "admin": "Andhra Pradesh",
+    "sort": "28828"
+  },
+  {
+    "city": "Srungavarapukota",
+    "admin": "Andhra Pradesh",
+    "sort": "28304"
+  },
+  {
+    "city": "Kalwākurti",
+    "admin": "Telangana",
+    "sort": "28060"
+  },
+  {
+    "city": "Bānswāda",
+    "admin": "Telangana",
+    "sort": "28384"
+  },
+  {
+    "city": "Silvassa",
+    "admin": "Dādra and Nagar Haveli",
+    "sort": "27359"
+  },
+  {
+    "city": "Kotagiri",
+    "admin": "Tamil Nādu",
+    "sort": "28207"
+  },
+  {
+    "city": "Rāmanayyapeta",
+    "admin": "Andhra Pradesh",
+    "sort": "28369"
+  },
+  {
+    "city": "Tangutūru",
+    "admin": "Andhra Pradesh",
+    "sort": "27652"
+  },
+  {
+    "city": "Varandarapilli",
+    "admin": "Kerala",
+    "sort": "27343"
+  },
+  {
+    "city": "Pāyakarāopeta",
+    "admin": "Andhra Pradesh",
+    "sort": "27001"
+  },
+  {
+    "city": "Penukonda",
+    "admin": "Andhra Pradesh",
+    "sort": "27382"
+  },
+  {
+    "city": "Bandipura",
+    "admin": "Jammu and Kashmīr",
+    "sort": "27482"
+  },
+  {
+    "city": "Sūlūru",
+    "admin": "Andhra Pradesh",
+    "sort": "27504"
+  },
+  {
+    "city": "Panchānandapur",
+    "admin": "West Bengal",
+    "sort": "26358"
+  },
+  {
+    "city": "Pāmidi",
+    "admin": "Andhra Pradesh",
+    "sort": "26886"
+  },
+  {
+    "city": "Gilarchāt",
+    "admin": "West Bengal",
+    "sort": "25897"
+  },
+  {
+    "city": "Guruzāla",
+    "admin": "Andhra Pradesh",
+    "sort": "26190"
+  },
+  {
+    "city": "Narasannapeta",
+    "admin": "Andhra Pradesh",
+    "sort": "26280"
+  },
+  {
+    "city": "Chintalapūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "25952"
+  },
+  {
+    "city": "Renigunta",
+    "admin": "Andhra Pradesh",
+    "sort": "26031"
+  },
+  {
+    "city": "Kottapeta",
+    "admin": "Andhra Pradesh",
+    "sort": "24539"
+  },
+  {
+    "city": "Raghunāthpur",
+    "admin": "West Bengal",
+    "sort": "25561"
+  },
+  {
+    "city": "Attili",
+    "admin": "Andhra Pradesh",
+    "sort": "25004"
+  },
+  {
+    "city": "Gajwel",
+    "admin": "Telangana",
+    "sort": "24961"
+  },
+  {
+    "city": "Singarāyakonda",
+    "admin": "Andhra Pradesh",
+    "sort": "24324"
+  },
+  {
+    "city": "Avanigadda",
+    "admin": "Andhra Pradesh",
+    "sort": "23737"
+  },
+  {
+    "city": "Khed Brahma",
+    "admin": "Gujarāt",
+    "sort": "25001"
+  },
+  {
+    "city": "Aklvidu",
+    "admin": "Andhra Pradesh",
+    "sort": "24506"
+  },
+  {
+    "city": "Mogalturru",
+    "admin": "Andhra Pradesh",
+    "sort": "24189"
+  },
+  {
+    "city": "Balarāmpur",
+    "admin": "West Bengal",
+    "sort": "24431"
+  },
+  {
+    "city": "Gorantla",
+    "admin": "Andhra Pradesh",
+    "sort": "24586"
+  },
+  {
+    "city": "Mummidivaram",
+    "admin": "Andhra Pradesh",
+    "sort": "23732"
+  },
+  {
+    "city": "Khajurāho",
+    "admin": "Madhya Pradesh",
+    "sort": "24481"
+  },
+  {
+    "city": "Ashwarāopeta",
+    "admin": "Telangana",
+    "sort": "24405"
+  },
+  {
+    "city": "Yādiki",
+    "admin": "Andhra Pradesh",
+    "sort": "24018"
+  },
+  {
+    "city": "Kosigi",
+    "admin": "Andhra Pradesh",
+    "sort": "24165"
+  },
+  {
+    "city": "Chandrakona",
+    "admin": "West Bengal",
+    "sort": "23629"
+  },
+  {
+    "city": "Gauripur",
+    "admin": "Assam",
+    "sort": "23477"
+  },
+  {
+    "city": "Koilkuntla",
+    "admin": "Andhra Pradesh",
+    "sort": "23859"
+  },
+  {
+    "city": "Bagulā",
+    "admin": "West Bengal",
+    "sort": "22649"
+  },
+  {
+    "city": "Kulgam",
+    "admin": "Jammu and Kashmīr",
+    "sort": "23584"
+  },
+  {
+    "city": "Velugodu",
+    "admin": "Andhra Pradesh",
+    "sort": "23048"
+  },
+  {
+    "city": "Asafābād",
+    "admin": "Telangana",
+    "sort": "23059"
+  },
+  {
+    "city": "Abu",
+    "admin": "Rājasthān",
+    "sort": "22943"
+  },
+  {
+    "city": "Singur",
+    "admin": "West Bengal",
+    "sort": "21382"
+  },
+  {
+    "city": "Curchorem",
+    "admin": "Goa",
+    "sort": "22730"
+  },
+  {
+    "city": "Pushkar",
+    "admin": "Rājasthān",
+    "sort": "21626"
+  },
+  {
+    "city": "Bukkarāyasamudram",
+    "admin": "Andhra Pradesh",
+    "sort": "22000"
+  },
+  {
+    "city": "Ganapavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "21457"
+  },
+  {
+    "city": "Pāmarru",
+    "admin": "Andhra Pradesh",
+    "sort": "21395"
+  },
+  {
+    "city": "Chāgallu",
+    "admin": "Andhra Pradesh",
+    "sort": "21703"
+  },
+  {
+    "city": "Sarapāka",
+    "admin": "Telangana",
+    "sort": "22149"
+  },
+  {
+    "city": "Pākāla",
+    "admin": "Andhra Pradesh",
+    "sort": "21565"
+  },
+  {
+    "city": "Mārutūru",
+    "admin": "Andhra Pradesh",
+    "sort": "21434"
+  },
+  {
+    "city": "Husnābād",
+    "admin": "Telangana",
+    "sort": "22082"
+  },
+  {
+    "city": "Kuppam",
+    "admin": "Andhra Pradesh",
+    "sort": "21963"
+  },
+  {
+    "city": "Madakasīra",
+    "admin": "Andhra Pradesh",
+    "sort": "21464"
+  },
+  {
+    "city": "Mailavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "21763"
+  },
+  {
+    "city": "Tufānganj",
+    "admin": "West Bengal",
+    "sort": "20998"
+  },
+  {
+    "city": "Nellimarla",
+    "admin": "Andhra Pradesh",
+    "sort": "20498"
+  },
+  {
+    "city": "Kosgi",
+    "admin": "Telangana",
+    "sort": "21215"
+  },
+  {
+    "city": "Kaikalūr",
+    "admin": "Andhra Pradesh",
+    "sort": "21292"
+  },
+  {
+    "city": "Tehata",
+    "admin": "West Bengal",
+    "sort": "21093"
+  },
+  {
+    "city": "Parkāl",
+    "admin": "Telangana",
+    "sort": "20257"
+  },
+  {
+    "city": "Chāgalamarri",
+    "admin": "Andhra Pradesh",
+    "sort": "21289"
+  },
+  {
+    "city": "Umrāpur",
+    "admin": "West Bengal",
+    "sort": "19855"
+  },
+  {
+    "city": "Krishnapur",
+    "admin": "West Bengal",
+    "sort": "19462"
+  },
+  {
+    "city": "Kattanam",
+    "admin": "Kerala",
+    "sort": "19764"
+  },
+  {
+    "city": "Nizāmpatam",
+    "admin": "Andhra Pradesh",
+    "sort": "20982"
+  },
+  {
+    "city": "Gannavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "20728"
+  },
+  {
+    "city": "Ghatkesar",
+    "admin": "Telangana",
+    "sort": "19763"
+  },
+  {
+    "city": "Palāshi",
+    "admin": "West Bengal",
+    "sort": "19984"
+  },
+  {
+    "city": "Pālkonda",
+    "admin": "Andhra Pradesh",
+    "sort": "20760"
+  },
+  {
+    "city": "Andāl",
+    "admin": "West Bengal",
+    "sort": "19924"
+  },
+  {
+    "city": "Achampet",
+    "admin": "Andhra Pradesh",
+    "sort": "20721"
+  },
+  {
+    "city": "Banganapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "20749"
+  },
+  {
+    "city": "Kāmalāpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "20623"
+  },
+  {
+    "city": "Vinjamūr",
+    "admin": "Andhra Pradesh",
+    "sort": "20639"
+  },
+  {
+    "city": "Karlapālem",
+    "admin": "Andhra Pradesh",
+    "sort": "19874"
+  },
+  {
+    "city": "Nalua",
+    "admin": "West Bengal",
+    "sort": "19071"
+  },
+  {
+    "city": "Mundra",
+    "admin": "Gujarāt",
+    "sort": "20338"
+  },
+  {
+    "city": "Chandragiri",
+    "admin": "Andhra Pradesh",
+    "sort": "20299"
+  },
+  {
+    "city": "Mārahra",
+    "admin": "Uttar Pradesh",
+    "sort": "19542"
+  },
+  {
+    "city": "Sompeta",
+    "admin": "Andhra Pradesh",
+    "sort": "18778"
+  },
+  {
+    "city": "Belūr",
+    "admin": "Karnātaka",
+    "sort": "20225"
+  },
+  {
+    "city": "Kanniyākumāri",
+    "admin": "Tamil Nādu",
+    "sort": "19678"
+  },
+  {
+    "city": "Nambūru",
+    "admin": "Andhra Pradesh",
+    "sort": "19676"
+  },
+  {
+    "city": "Rāmjībanpur",
+    "admin": "West Bengal",
+    "sort": "19611"
+  },
+  {
+    "city": "Kākdwīp",
+    "admin": "West Bengal",
+    "sort": "19368"
+  },
+  {
+    "city": "Kanekallu",
+    "admin": "Andhra Pradesh",
+    "sort": "19731"
+  },
+  {
+    "city": "Jhalidā",
+    "admin": "West Bengal",
+    "sort": "19544"
+  },
+  {
+    "city": "Jaggampeta",
+    "admin": "Andhra Pradesh",
+    "sort": "18879"
+  },
+  {
+    "city": "Dharmsāla",
+    "admin": "Himāchal Pradesh",
+    "sort": "19034"
+  },
+  {
+    "city": "Somandepalle",
+    "admin": "Andhra Pradesh",
+    "sort": "18895"
+  },
+  {
+    "city": "Sirvār",
+    "admin": "Karnātaka",
+    "sort": "19295"
+  },
+  {
+    "city": "Chinna Ganjām",
+    "admin": "Andhra Pradesh",
+    "sort": "19060"
+  },
+  {
+    "city": "Srikhanda",
+    "admin": "West Bengal",
+    "sort": "18394"
+  },
+  {
+    "city": "Nārapala",
+    "admin": "Andhra Pradesh",
+    "sort": "18982"
+  },
+  {
+    "city": "Bādkulla",
+    "admin": "West Bengal",
+    "sort": "18051"
+  },
+  {
+    "city": "Chilkūru",
+    "admin": "Telangana",
+    "sort": "18952"
+  },
+  {
+    "city": "Chautāpal",
+    "admin": "Telangana",
+    "sort": "19092"
+  },
+  {
+    "city": "Rāmpur",
+    "admin": "West Bengal",
+    "sort": "18274"
+  },
+  {
+    "city": "Tiruvūr",
+    "admin": "Andhra Pradesh",
+    "sort": "18567"
+  },
+  {
+    "city": "Bhagabānpur",
+    "admin": "West Bengal",
+    "sort": "17397"
+  },
+  {
+    "city": "Jadcherla",
+    "admin": "Telangana",
+    "sort": "17958"
+  },
+  {
+    "city": "Mellacheruvu",
+    "admin": "Telangana",
+    "sort": "18550"
+  },
+  {
+    "city": "Tādikonda",
+    "admin": "Andhra Pradesh",
+    "sort": "18505"
+  },
+  {
+    "city": "Rājmahal",
+    "admin": "West Bengal",
+    "sort": "17974"
+  },
+  {
+    "city": "Debīpur",
+    "admin": "West Bengal",
+    "sort": "17877"
+  },
+  {
+    "city": "Kulu",
+    "admin": "Himāchal Pradesh",
+    "sort": "18536"
+  },
+  {
+    "city": "Vissannapeta",
+    "admin": "Andhra Pradesh",
+    "sort": "17852"
+  },
+  {
+    "city": "Kottá Kalidindi",
+    "admin": "Andhra Pradesh",
+    "sort": "18059"
+  },
+  {
+    "city": "Vāyalpād",
+    "admin": "Andhra Pradesh",
+    "sort": "17535"
+  },
+  {
+    "city": "Veldurti",
+    "admin": "Andhra Pradesh",
+    "sort": "17890"
+  },
+  {
+    "city": "Maripād",
+    "admin": "Telangana",
+    "sort": "17685"
+  },
+  {
+    "city": "Belākoba",
+    "admin": "West Bengal",
+    "sort": "17215"
+  },
+  {
+    "city": "Pānchgrām",
+    "admin": "West Bengal",
+    "sort": "17137"
+  },
+  {
+    "city": "Inkollu",
+    "admin": "Andhra Pradesh",
+    "sort": "17581"
+  },
+  {
+    "city": "Manthani",
+    "admin": "Telangana",
+    "sort": "17927"
+  },
+  {
+    "city": "Pernamitta",
+    "admin": "Andhra Pradesh",
+    "sort": "17041"
+  },
+  {
+    "city": "Gokavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "16389"
+  },
+  {
+    "city": "Kembhāvi",
+    "admin": "Karnātaka",
+    "sort": "17346"
+  },
+  {
+    "city": "Phirangipuram",
+    "admin": "Andhra Pradesh",
+    "sort": "16365"
+  },
+  {
+    "city": "Kasimkota",
+    "admin": "Andhra Pradesh",
+    "sort": "15753"
+  },
+  {
+    "city": "Dighirpār",
+    "admin": "West Bengal",
+    "sort": "15881"
+  },
+  {
+    "city": "Dharmāpuri",
+    "admin": "Telangana",
+    "sort": "17243"
+  },
+  {
+    "city": "Challapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "17067"
+  },
+  {
+    "city": "Kottapeta",
+    "admin": "Andhra Pradesh",
+    "sort": "16931"
+  },
+  {
+    "city": "Bahutāl",
+    "admin": "West Bengal",
+    "sort": "15963"
+  },
+  {
+    "city": "Penugonda",
+    "admin": "Andhra Pradesh",
+    "sort": "16038"
+  },
+  {
+    "city": "Mahālandi",
+    "admin": "West Bengal",
+    "sort": "16354"
+  },
+  {
+    "city": "Gonegandla",
+    "admin": "Andhra Pradesh",
+    "sort": "16691"
+  },
+  {
+    "city": "Gokarna",
+    "admin": "West Bengal",
+    "sort": "16198"
+  },
+  {
+    "city": "Rentachintala",
+    "admin": "Andhra Pradesh",
+    "sort": "16523"
+  },
+  {
+    "city": "Kāmavarapukota",
+    "admin": "Andhra Pradesh",
+    "sort": "16790"
+  },
+  {
+    "city": "Bārnia",
+    "admin": "West Bengal",
+    "sort": "16350"
+  },
+  {
+    "city": "Rāmāyampet",
+    "admin": "Telangana",
+    "sort": "16899"
+  },
+  {
+    "city": "Podalakūr",
+    "admin": "Andhra Pradesh",
+    "sort": "16662"
+  },
+  {
+    "city": "Chopadandi",
+    "admin": "Telangana",
+    "sort": "16459"
+  },
+  {
+    "city": "Khed",
+    "admin": "Mahārāshtra",
+    "sort": "16892"
+  },
+  {
+    "city": "Kompalle",
+    "admin": "Telangana",
+    "sort": "15575"
+  },
+  {
+    "city": "Khirpai",
+    "admin": "West Bengal",
+    "sort": "16384"
+  },
+  {
+    "city": "Kollūru",
+    "admin": "Andhra Pradesh",
+    "sort": "16079"
+  },
+  {
+    "city": "Mitrapur",
+    "admin": "West Bengal",
+    "sort": "15452"
+  },
+  {
+    "city": "Islāmpur",
+    "admin": "West Bengal",
+    "sort": "15019"
+  },
+  {
+    "city": "Bhagwāngola",
+    "admin": "West Bengal",
+    "sort": "15587"
+  },
+  {
+    "city": "Gālivedu",
+    "admin": "Andhra Pradesh",
+    "sort": "16344"
+  },
+  {
+    "city": "Rāikal",
+    "admin": "Telangana",
+    "sort": "16404"
+  },
+  {
+    "city": "Kota",
+    "admin": "Andhra Pradesh",
+    "sort": "16237"
+  },
+  {
+    "city": "Chennūr",
+    "admin": "Andhra Pradesh",
+    "sort": "16126"
+  },
+  {
+    "city": "Sultānābād",
+    "admin": "Telangana",
+    "sort": "16116"
+  },
+  {
+    "city": "Sānātikri",
+    "admin": "West Bengal",
+    "sort": "15536"
+  },
+  {
+    "city": "Tadikalapūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "16235"
+  },
+  {
+    "city": "Pātapatnam",
+    "admin": "Andhra Pradesh",
+    "sort": "15954"
+  },
+  {
+    "city": "Bālkonda",
+    "admin": "Telangana",
+    "sort": "15644"
+  },
+  {
+    "city": "Porumāmilla",
+    "admin": "Andhra Pradesh",
+    "sort": "16201"
+  },
+  {
+    "city": "Kallūr",
+    "admin": "Telangana",
+    "sort": "15807"
+  },
+  {
+    "city": "Udayagiri",
+    "admin": "Andhra Pradesh",
+    "sort": "15870"
+  },
+  {
+    "city": "Kolakalūru",
+    "admin": "Andhra Pradesh",
+    "sort": "15607"
+  },
+  {
+    "city": "Vontimitta",
+    "admin": "Andhra Pradesh",
+    "sort": "16067"
+  },
+  {
+    "city": "Seven Pagodas",
+    "admin": "Tamil Nādu",
+    "sort": "15172"
+  },
+  {
+    "city": "Utnūr",
+    "admin": "Telangana",
+    "sort": "16005"
+  },
+  {
+    "city": "Undi",
+    "admin": "Andhra Pradesh",
+    "sort": "15322"
+  },
+  {
+    "city": "Hariharpāra",
+    "admin": "West Bengal",
+    "sort": "14827"
+  },
+  {
+    "city": "Vijayapuri North",
+    "admin": "Telangana",
+    "sort": "15887"
+  },
+  {
+    "city": "Antarvedi",
+    "admin": "Andhra Pradesh",
+    "sort": "15605"
+  },
+  {
+    "city": "Vīraghattam",
+    "admin": "Andhra Pradesh",
+    "sort": "14315"
+  },
+  {
+    "city": "Chilamattūru",
+    "admin": "Andhra Pradesh",
+    "sort": "15449"
+  },
+  {
+    "city": "Maddikera",
+    "admin": "Andhra Pradesh",
+    "sort": "15328"
+  },
+  {
+    "city": "Tondangi",
+    "admin": "Andhra Pradesh",
+    "sort": "15189"
+  },
+  {
+    "city": "Kambadūru",
+    "admin": "Andhra Pradesh",
+    "sort": "15441"
+  },
+  {
+    "city": "Kohīr",
+    "admin": "Telangana",
+    "sort": "15075"
+  },
+  {
+    "city": "Pyāpali",
+    "admin": "Andhra Pradesh",
+    "sort": "15200"
+  },
+  {
+    "city": "Haldībāri",
+    "admin": "West Bengal",
+    "sort": "14404"
+  },
+  {
+    "city": "Muttukūru",
+    "admin": "Andhra Pradesh",
+    "sort": "14333"
+  },
+  {
+    "city": "Cumbum",
+    "admin": "Andhra Pradesh",
+    "sort": "15169"
+  },
+  {
+    "city": "Relangi",
+    "admin": "Andhra Pradesh",
+    "sort": "14559"
+  },
+  {
+    "city": "Konārka",
+    "admin": "Odisha",
+    "sort": "15015"
+  },
+  {
+    "city": "Putaparti",
+    "admin": "Andhra Pradesh",
+    "sort": "15088"
+  },
+  {
+    "city": "Dattapulia",
+    "admin": "West Bengal",
+    "sort": "13562"
+  },
+  {
+    "city": "Bāra",
+    "admin": "West Bengal",
+    "sort": "14450"
+  },
+  {
+    "city": "Antarvedipālem",
+    "admin": "Andhra Pradesh",
+    "sort": "14162"
+  },
+  {
+    "city": "Chīpurupalle",
+    "admin": "Andhra Pradesh",
+    "sort": "14847"
+  },
+  {
+    "city": "Kankipādu",
+    "admin": "Andhra Pradesh",
+    "sort": "14616"
+  },
+  {
+    "city": "Sindhnūr",
+    "admin": "Karnātaka",
+    "sort": "14906"
+  },
+  {
+    "city": "Yellāreddi",
+    "admin": "Telangana",
+    "sort": "14923"
+  },
+  {
+    "city": "Hanamsāgar",
+    "admin": "Karnātaka",
+    "sort": "14874"
+  },
+  {
+    "city": "Cherrapunji",
+    "admin": "Meghālaya",
+    "sort": "14816"
+  },
+  {
+    "city": "Bikkavolu",
+    "admin": "Andhra Pradesh",
+    "sort": "14278"
+  },
+  {
+    "city": "Madanpur",
+    "admin": "West Bengal",
+    "sort": "13675"
+  },
+  {
+    "city": "Holalagondi",
+    "admin": "Andhra Pradesh",
+    "sort": "14593"
+  },
+  {
+    "city": "Odlābāri",
+    "admin": "West Bengal",
+    "sort": "14194"
+  },
+  {
+    "city": "Kottavalasa",
+    "admin": "Andhra Pradesh",
+    "sort": "14321"
+  },
+  {
+    "city": "Penuganchiprolu",
+    "admin": "Andhra Pradesh",
+    "sort": "14374"
+  },
+  {
+    "city": "Bhānukumāri",
+    "admin": "West Bengal",
+    "sort": "14340"
+  },
+  {
+    "city": "Kottacheruvu",
+    "admin": "Andhra Pradesh",
+    "sort": "14564"
+  },
+  {
+    "city": "Lingāl",
+    "admin": "Telangana",
+    "sort": "14497"
+  },
+  {
+    "city": "Korangal",
+    "admin": "Telangana",
+    "sort": "14294"
+  },
+  {
+    "city": "Dornakal",
+    "admin": "Telangana",
+    "sort": "14425"
+  },
+  {
+    "city": "Barjora",
+    "admin": "West Bengal",
+    "sort": "14012"
+  },
+  {
+    "city": "Ungutūru",
+    "admin": "Andhra Pradesh",
+    "sort": "14280"
+  },
+  {
+    "city": "Domkonda",
+    "admin": "Telangana",
+    "sort": "13648"
+  },
+  {
+    "city": "Kārempūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "14385"
+  },
+  {
+    "city": "Amarāvati",
+    "admin": "Andhra Pradesh",
+    "sort": "13400"
+  },
+  {
+    "city": "Belpukur",
+    "admin": "West Bengal",
+    "sort": "13011"
+  },
+  {
+    "city": "Undrājavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "13293"
+  },
+  {
+    "city": "Daulatnagar",
+    "admin": "West Bengal",
+    "sort": "13235"
+  },
+  {
+    "city": "Peddavadlapūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "13076"
+  },
+  {
+    "city": "Yedapalli",
+    "admin": "Telangana",
+    "sort": "13469"
+  },
+  {
+    "city": "Tezu",
+    "admin": "Arunāchal Pradesh",
+    "sort": "14376"
+  },
+  {
+    "city": "Duvva",
+    "admin": "Andhra Pradesh",
+    "sort": "13596"
+  },
+  {
+    "city": "Bhīmadolu",
+    "admin": "Andhra Pradesh",
+    "sort": "13669"
+  },
+  {
+    "city": "Rājnagar",
+    "admin": "West Bengal",
+    "sort": "13965"
+  },
+  {
+    "city": "Dundigal",
+    "admin": "Telangana",
+    "sort": "13465"
+  },
+  {
+    "city": "Sābang",
+    "admin": "West Bengal",
+    "sort": "13224"
+  },
+  {
+    "city": "Kumirimora",
+    "admin": "West Bengal",
+    "sort": "12208"
+  },
+  {
+    "city": "Chityāl",
+    "admin": "Telangana",
+    "sort": "13752"
+  },
+  {
+    "city": "Kathevaram",
+    "admin": "Andhra Pradesh",
+    "sort": "13209"
+  },
+  {
+    "city": "Polavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "13861"
+  },
+  {
+    "city": "Champādānga",
+    "admin": "West Bengal",
+    "sort": "12518"
+  },
+  {
+    "city": "Kalādgi",
+    "admin": "Karnātaka",
+    "sort": "13676"
+  },
+  {
+    "city": "Paruchūru",
+    "admin": "Andhra Pradesh",
+    "sort": "13375"
+  },
+  {
+    "city": "Ghorādal",
+    "admin": "West Bengal",
+    "sort": "12170"
+  },
+  {
+    "city": "Uppāda",
+    "admin": "Andhra Pradesh",
+    "sort": "12964"
+  },
+  {
+    "city": "Nallajerla",
+    "admin": "Andhra Pradesh",
+    "sort": "13457"
+  },
+  {
+    "city": "Amrābād",
+    "admin": "Telangana",
+    "sort": "13753"
+  },
+  {
+    "city": "Pondūru",
+    "admin": "Andhra Pradesh",
+    "sort": "12640"
+  },
+  {
+    "city": "Sabbavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "12200"
+  },
+  {
+    "city": "Kollipara",
+    "admin": "Andhra Pradesh",
+    "sort": "12982"
+  },
+  {
+    "city": "Pātiram",
+    "admin": "West Bengal",
+    "sort": "12462"
+  },
+  {
+    "city": "Gopālnagar",
+    "admin": "West Bengal",
+    "sort": "12232"
+  },
+  {
+    "city": "Kankandighi",
+    "admin": "West Bengal",
+    "sort": "12900"
+  },
+  {
+    "city": "Cossimbāzār",
+    "admin": "West Bengal",
+    "sort": "11724"
+  },
+  {
+    "city": "Pānchgani",
+    "admin": "Mahārāshtra",
+    "sort": "13280"
+  },
+  {
+    "city": "Tirmaigiri",
+    "admin": "Telangana",
+    "sort": "12899"
+  },
+  {
+    "city": "Bichkunda",
+    "admin": "Telangana",
+    "sort": "13213"
+  },
+  {
+    "city": "Kalikiri",
+    "admin": "Andhra Pradesh",
+    "sort": "13065"
+  },
+  {
+    "city": "Peddakūrapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "13014"
+  },
+  {
+    "city": "Turbihāl",
+    "admin": "Karnātaka",
+    "sort": "13034"
+  },
+  {
+    "city": "Panjīpāra",
+    "admin": "West Bengal",
+    "sort": "12376"
+  },
+  {
+    "city": "Jāmi",
+    "admin": "Andhra Pradesh",
+    "sort": "12732"
+  },
+  {
+    "city": "Duvvūru",
+    "admin": "Andhra Pradesh",
+    "sort": "12727"
+  },
+  {
+    "city": "Venkatagirikota",
+    "admin": "Andhra Pradesh",
+    "sort": "12803"
+  },
+  {
+    "city": "Kumarkhāli",
+    "admin": "West Bengal",
+    "sort": "12021"
+  },
+  {
+    "city": "Domahani",
+    "admin": "West Bengal",
+    "sort": "12480"
+  },
+  {
+    "city": "Gurgunta",
+    "admin": "Karnātaka",
+    "sort": "12898"
+  },
+  {
+    "city": "Lokāpur",
+    "admin": "Karnātaka",
+    "sort": "12790"
+  },
+  {
+    "city": "Kharar",
+    "admin": "West Bengal",
+    "sort": "12118"
+  },
+  {
+    "city": "Battulapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "12697"
+  },
+  {
+    "city": "Parigi",
+    "admin": "Andhra Pradesh",
+    "sort": "12614"
+  },
+  {
+    "city": "Kotra",
+    "admin": "West Bengal",
+    "sort": "11615"
+  },
+  {
+    "city": "Mudhol",
+    "admin": "Telangana",
+    "sort": "12777"
+  },
+  {
+    "city": "Sirūr",
+    "admin": "Karnātaka",
+    "sort": "12623"
+  },
+  {
+    "city": "Kesabpur",
+    "admin": "West Bengal",
+    "sort": "12073"
+  },
+  {
+    "city": "Nagar",
+    "admin": "West Bengal",
+    "sort": "11882"
+  },
+  {
+    "city": "Motkūr",
+    "admin": "Telangana",
+    "sort": "12616"
+  },
+  {
+    "city": "Dāmarcherla",
+    "admin": "Telangana",
+    "sort": "12710"
+  },
+  {
+    "city": "Kaviti",
+    "admin": "Andhra Pradesh",
+    "sort": "11984"
+  },
+  {
+    "city": "Mādugula",
+    "admin": "Andhra Pradesh",
+    "sort": "12704"
+  },
+  {
+    "city": "Kārvetnagar",
+    "admin": "Andhra Pradesh",
+    "sort": "12031"
+  },
+  {
+    "city": "Pebberu",
+    "admin": "Telangana",
+    "sort": "12289"
+  },
+  {
+    "city": "Pittalavānipālem",
+    "admin": "Andhra Pradesh",
+    "sort": "12036"
+  },
+  {
+    "city": "Betma",
+    "admin": "Madhya Pradesh",
+    "sort": "12529"
+  },
+  {
+    "city": "Karedu",
+    "admin": "Andhra Pradesh",
+    "sort": "12573"
+  },
+  {
+    "city": "Dubak",
+    "admin": "Telangana",
+    "sort": "12349"
+  },
+  {
+    "city": "Sāvalgi",
+    "admin": "Karnātaka",
+    "sort": "12506"
+  },
+  {
+    "city": "Gundugolanu",
+    "admin": "Andhra Pradesh",
+    "sort": "11895"
+  },
+  {
+    "city": "Kānkon",
+    "admin": "Goa",
+    "sort": "12434"
+  },
+  {
+    "city": "Chāmarru",
+    "admin": "Andhra Pradesh",
+    "sort": "12232"
+  },
+  {
+    "city": "Namchi",
+    "admin": "Sikkim",
+    "sort": "12190"
+  },
+  {
+    "city": "Ichora",
+    "admin": "Telangana",
+    "sort": "12358"
+  },
+  {
+    "city": "Gopālpur",
+    "admin": "West Bengal",
+    "sort": "10864"
+  },
+  {
+    "city": "Nandipeta",
+    "admin": "Telangana",
+    "sort": "11525"
+  },
+  {
+    "city": "Buttāyagūdem",
+    "admin": "Andhra Pradesh",
+    "sort": "12394"
+  },
+  {
+    "city": "Doddanahalli",
+    "admin": "Karnātaka",
+    "sort": "12243"
+  },
+  {
+    "city": "Duggirāla",
+    "admin": "Andhra Pradesh",
+    "sort": "11098"
+  },
+  {
+    "city": "Sher Muhammadpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "11756"
+  },
+  {
+    "city": "Ghambiraopet",
+    "admin": "Telangana",
+    "sort": "11545"
+  },
+  {
+    "city": "Mangalkot",
+    "admin": "West Bengal",
+    "sort": "11537"
+  },
+  {
+    "city": "Khem Karan",
+    "admin": "Punjab",
+    "sort": "11938"
+  },
+  {
+    "city": "Sonāda",
+    "admin": "West Bengal",
+    "sort": "11635"
+  },
+  {
+    "city": "Bukkapatnam",
+    "admin": "Andhra Pradesh",
+    "sort": "12196"
+  },
+  {
+    "city": "Khargrām",
+    "admin": "West Bengal",
+    "sort": "11209"
+  },
+  {
+    "city": "Fakirtaki",
+    "admin": "West Bengal",
+    "sort": "10361"
+  },
+  {
+    "city": "Prattipādu",
+    "admin": "Andhra Pradesh",
+    "sort": "11876"
+  },
+  {
+    "city": "Chennūr",
+    "admin": "Andhra Pradesh",
+    "sort": "11542"
+  },
+  {
+    "city": "Antardipa",
+    "admin": "West Bengal",
+    "sort": "10610"
+  },
+  {
+    "city": "Tetagunta",
+    "admin": "Andhra Pradesh",
+    "sort": "11967"
+  },
+  {
+    "city": "Amarāpuuram",
+    "admin": "Karnātaka",
+    "sort": "11950"
+  },
+  {
+    "city": "Mirik",
+    "admin": "West Bengal",
+    "sort": "11513"
+  },
+  {
+    "city": "Kālipatnam",
+    "admin": "Andhra Pradesh",
+    "sort": "11839"
+  },
+  {
+    "city": "Biknūr",
+    "admin": "Telangana",
+    "sort": "11787"
+  },
+  {
+    "city": "Dendulūru",
+    "admin": "Andhra Pradesh",
+    "sort": "11846"
+  },
+  {
+    "city": "Pedda Adsarlapalli",
+    "admin": "Telangana",
+    "sort": "11925"
+  },
+  {
+    "city": "Tanakallu",
+    "admin": "Andhra Pradesh",
+    "sort": "11908"
+  },
+  {
+    "city": "Chebrolu",
+    "admin": "Andhra Pradesh",
+    "sort": "11626"
+  },
+  {
+    "city": "Allūr",
+    "admin": "Andhra Pradesh",
+    "sort": "11768"
+  },
+  {
+    "city": "Ganapavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "11749"
+  },
+  {
+    "city": "Lakhipur",
+    "admin": "West Bengal",
+    "sort": "11383"
+  },
+  {
+    "city": "Pedda Vegi",
+    "admin": "Andhra Pradesh",
+    "sort": "11846"
+  },
+  {
+    "city": "Falimāri",
+    "admin": "West Bengal",
+    "sort": "11385"
+  },
+  {
+    "city": "Edlapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "10996"
+  },
+  {
+    "city": "Doranāla",
+    "admin": "Andhra Pradesh",
+    "sort": "11993"
+  },
+  {
+    "city": "Bālupur",
+    "admin": "West Bengal",
+    "sort": "10808"
+  },
+  {
+    "city": "Krosūru",
+    "admin": "Andhra Pradesh",
+    "sort": "11549"
+  },
+  {
+    "city": "Bara Belun",
+    "admin": "West Bengal",
+    "sort": "11261"
+  },
+  {
+    "city": "Ambhua",
+    "admin": "West Bengal",
+    "sort": "10477"
+  },
+  {
+    "city": "Rudra Nagar",
+    "admin": "West Bengal",
+    "sort": "10756"
+  },
+  {
+    "city": "Kautālam",
+    "admin": "Andhra Pradesh",
+    "sort": "11670"
+  },
+  {
+    "city": "Kāranchedu",
+    "admin": "Andhra Pradesh",
+    "sort": "11667"
+  },
+  {
+    "city": "Meghraj",
+    "admin": "Gujarāt",
+    "sort": "11363"
+  },
+  {
+    "city": "Nāgalāpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "11166"
+  },
+  {
+    "city": "Mayūreswar",
+    "admin": "West Bengal",
+    "sort": "11142"
+  },
+  {
+    "city": "Nārāyanavanam",
+    "admin": "Andhra Pradesh",
+    "sort": "11253"
+  },
+  {
+    "city": "Tālsur",
+    "admin": "West Bengal",
+    "sort": "10680"
+  },
+  {
+    "city": "Dammapeta",
+    "admin": "Telangana",
+    "sort": "11629"
+  },
+  {
+    "city": "Kushmanchi",
+    "admin": "Telangana",
+    "sort": "11563"
+  },
+  {
+    "city": "Owk",
+    "admin": "Andhra Pradesh",
+    "sort": "11760"
+  },
+  {
+    "city": "Kurabalakota",
+    "admin": "Andhra Pradesh",
+    "sort": "11583"
+  },
+  {
+    "city": "Nandavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "11651"
+  },
+  {
+    "city": "Rājānagaram",
+    "admin": "Andhra Pradesh",
+    "sort": "10722"
+  },
+  {
+    "city": "Amarchinta",
+    "admin": "Telangana",
+    "sort": "11225"
+  },
+  {
+    "city": "Kundurpi",
+    "admin": "Andhra Pradesh",
+    "sort": "11516"
+  },
+  {
+    "city": "Srikrishnapur",
+    "admin": "West Bengal",
+    "sort": "10345"
+  },
+  {
+    "city": "Kalakada",
+    "admin": "Andhra Pradesh",
+    "sort": "11461"
+  },
+  {
+    "city": "Orchha",
+    "admin": "Madhya Pradesh",
+    "sort": "11511"
+  },
+  {
+    "city": "Satyavedu",
+    "admin": "Andhra Pradesh",
+    "sort": "11474"
+  },
+  {
+    "city": "Muzaffarnagar",
+    "admin": "Uttar Pradesh",
+    "sort": "10793"
+  },
+  {
+    "city": "Fatehpur",
+    "admin": "West Bengal",
+    "sort": "10423"
+  },
+  {
+    "city": "Rāmbilli",
+    "admin": "Andhra Pradesh",
+    "sort": "10880"
+  },
+  {
+    "city": "Mortād",
+    "admin": "Telangana",
+    "sort": "11123"
+  },
+  {
+    "city": "Rāmchandrapur",
+    "admin": "West Bengal",
+    "sort": "10312"
+  },
+  {
+    "city": "Bhagirathpur",
+    "admin": "West Bengal",
+    "sort": "10125"
+  },
+  {
+    "city": "Konakondla",
+    "admin": "Andhra Pradesh",
+    "sort": "11382"
+  },
+  {
+    "city": "Kodmiāl",
+    "admin": "Telangana",
+    "sort": "10892"
+  },
+  {
+    "city": "Kadūr Sāhib",
+    "admin": "Punjab",
+    "sort": "11054"
+  },
+  {
+    "city": "Bhattiprolu",
+    "admin": "Andhra Pradesh",
+    "sort": "11092"
+  },
+  {
+    "city": "Sonakhal",
+    "admin": "West Bengal",
+    "sort": "10582"
+  },
+  {
+    "city": "Nekarikallu",
+    "admin": "Andhra Pradesh",
+    "sort": "10778"
+  },
+  {
+    "city": "Naliya",
+    "admin": "Gujarāt",
+    "sort": "11415"
+  },
+  {
+    "city": "Ravutulapūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "10784"
+  },
+  {
+    "city": "Pātrasāer",
+    "admin": "West Bengal",
+    "sort": "10844"
+  },
+  {
+    "city": "Perali",
+    "admin": "Andhra Pradesh",
+    "sort": "11035"
+  },
+  {
+    "city": "Galsi",
+    "admin": "West Bengal",
+    "sort": "10700"
+  },
+  {
+    "city": "Nalgora",
+    "admin": "West Bengal",
+    "sort": "10373"
+  },
+  {
+    "city": "Sankhavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "11039"
+  },
+  {
+    "city": "Allāhdurg",
+    "admin": "Telangana",
+    "sort": "11018"
+  },
+  {
+    "city": "Kasba",
+    "admin": "Bihār",
+    "sort": "10067"
+  },
+  {
+    "city": "Talupula",
+    "admin": "Andhra Pradesh",
+    "sort": "11213"
+  },
+  {
+    "city": "Rolla",
+    "admin": "Andhra Pradesh",
+    "sort": "11020"
+  },
+  {
+    "city": "Chota Mollakhāli",
+    "admin": "West Bengal",
+    "sort": "10537"
+  },
+  {
+    "city": "Ganga Sāgar",
+    "admin": "West Bengal",
+    "sort": "10340"
+  },
+  {
+    "city": "Kamargani",
+    "admin": "West Bengal",
+    "sort": "9555"
+  },
+  {
+    "city": "Drākshārāma",
+    "admin": "Andhra Pradesh",
+    "sort": "9299"
+  },
+  {
+    "city": "Pūdimadaka",
+    "admin": "Andhra Pradesh",
+    "sort": "9912"
+  },
+  {
+    "city": "Nallamada",
+    "admin": "Andhra Pradesh",
+    "sort": "10944"
+  },
+  {
+    "city": "Rāmabhadrapuram",
+    "admin": "Andhra Pradesh",
+    "sort": "10962"
+  },
+  {
+    "city": "Kamalāpuram",
+    "admin": "Telangana",
+    "sort": "10423"
+  },
+  {
+    "city": "Sangam",
+    "admin": "Andhra Pradesh",
+    "sort": "10698"
+  },
+  {
+    "city": "Nādendla",
+    "admin": "Andhra Pradesh",
+    "sort": "10935"
+  },
+  {
+    "city": "Petua",
+    "admin": "West Bengal",
+    "sort": "9596"
+  },
+  {
+    "city": "Besagarahalli",
+    "admin": "Karnātaka",
+    "sort": "10669"
+  },
+  {
+    "city": "Chandūr",
+    "admin": "Telangana",
+    "sort": "10880"
+  },
+  {
+    "city": "Karapa",
+    "admin": "Andhra Pradesh",
+    "sort": "10086"
+  },
+  {
+    "city": "Akhnūr",
+    "admin": "Jammu and Kashmīr",
+    "sort": "10770"
+  },
+  {
+    "city": "Janāpul",
+    "admin": "West Bengal",
+    "sort": "9515"
+  },
+  {
+    "city": "Karīmpur",
+    "admin": "West Bengal",
+    "sort": "9661"
+  },
+  {
+    "city": "Pragadavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "10755"
+  },
+  {
+    "city": "Tripurāntakam",
+    "admin": "Andhra Pradesh",
+    "sort": "10392"
+  },
+  {
+    "city": "Munagapāka",
+    "admin": "Andhra Pradesh",
+    "sort": "10028"
+  },
+  {
+    "city": "Chinnamandem",
+    "admin": "Andhra Pradesh",
+    "sort": "10623"
+  },
+  {
+    "city": "Kattipūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "10680"
+  },
+  {
+    "city": "Daulatpur",
+    "admin": "West Bengal",
+    "sort": "9565"
+  },
+  {
+    "city": "Ketugrām",
+    "admin": "West Bengal",
+    "sort": "9990"
+  },
+  {
+    "city": "Koppāka",
+    "admin": "Andhra Pradesh",
+    "sort": "10560"
+  },
+  {
+    "city": "Gok",
+    "admin": "West Bengal",
+    "sort": "9100"
+  },
+  {
+    "city": "Gudlavalleru",
+    "admin": "Andhra Pradesh",
+    "sort": "10491"
+  },
+  {
+    "city": "Kotūr",
+    "admin": "Telangana",
+    "sort": "10519"
+  },
+  {
+    "city": "Komarolu",
+    "admin": "Andhra Pradesh",
+    "sort": "10746"
+  },
+  {
+    "city": "Valaparla",
+    "admin": "Andhra Pradesh",
+    "sort": "10151"
+  },
+  {
+    "city": "Jaipur",
+    "admin": "West Bengal",
+    "sort": "10259"
+  },
+  {
+    "city": "Pāikpāra",
+    "admin": "West Bengal",
+    "sort": "9993"
+  },
+  {
+    "city": "Narkatpalli",
+    "admin": "Telangana",
+    "sort": "10394"
+  },
+  {
+    "city": "Lakkireddipalle",
+    "admin": "Andhra Pradesh",
+    "sort": "10303"
+  },
+  {
+    "city": "Khāsbalanda",
+    "admin": "West Bengal",
+    "sort": "9046"
+  },
+  {
+    "city": "Telkapalli",
+    "admin": "Telangana",
+    "sort": "10384"
+  },
+  {
+    "city": "Devanakonda",
+    "admin": "Andhra Pradesh",
+    "sort": "10493"
+  },
+  {
+    "city": "Potavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "10130"
+  },
+  {
+    "city": "Pāra",
+    "admin": "West Bengal",
+    "sort": "9697"
+  },
+  {
+    "city": "Borgampād",
+    "admin": "Telangana",
+    "sort": "10235"
+  },
+  {
+    "city": "Lepākshi",
+    "admin": "Andhra Pradesh",
+    "sort": "10042"
+  },
+  {
+    "city": "Kirlampūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "9609"
+  },
+  {
+    "city": "Samalpur",
+    "admin": "West Bengal",
+    "sort": "9250"
+  },
+  {
+    "city": "Somireddipalle",
+    "admin": "Andhra Pradesh",
+    "sort": "10268"
+  },
+  {
+    "city": "Mungod",
+    "admin": "Telangana",
+    "sort": "10141"
+  },
+  {
+    "city": "Kottapālem",
+    "admin": "Andhra Pradesh",
+    "sort": "10194"
+  },
+  {
+    "city": "Rāmannapeta",
+    "admin": "Telangana",
+    "sort": "10202"
+  },
+  {
+    "city": "Dhāntola",
+    "admin": "West Bengal",
+    "sort": "9503"
+  },
+  {
+    "city": "Lingampet",
+    "admin": "Telangana",
+    "sort": "9860"
+  },
+  {
+    "city": "Reddigūdem",
+    "admin": "Andhra Pradesh",
+    "sort": "9873"
+  },
+  {
+    "city": "Kanakpur",
+    "admin": "West Bengal",
+    "sort": "8865"
+  },
+  {
+    "city": "Datian",
+    "admin": "Bihār",
+    "sort": "9102"
+  },
+  {
+    "city": "Srīsailain",
+    "admin": "Andhra Pradesh",
+    "sort": "10288"
+  },
+  {
+    "city": "Panasapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "8994"
+  },
+  {
+    "city": "Roddam",
+    "admin": "Andhra Pradesh",
+    "sort": "10164"
+  },
+  {
+    "city": "Kalinagar",
+    "admin": "West Bengal",
+    "sort": "8679"
+  },
+  {
+    "city": "Ganapavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "10029"
+  },
+  {
+    "city": "Belagola",
+    "admin": "Karnātaka",
+    "sort": "10121"
+  },
+  {
+    "city": "Manteswar",
+    "admin": "West Bengal",
+    "sort": "9331"
+  },
+  {
+    "city": "Bellamkonda",
+    "admin": "Andhra Pradesh",
+    "sort": "10169"
+  },
+  {
+    "city": "Bomareddipalli",
+    "admin": "Telangana",
+    "sort": "9998"
+  },
+  {
+    "city": "Kilkunda",
+    "admin": "Tamil Nādu",
+    "sort": "10150"
+  },
+  {
+    "city": "Tūlin",
+    "admin": "West Bengal",
+    "sort": "9844"
+  },
+  {
+    "city": "Manubolu",
+    "admin": "Andhra Pradesh",
+    "sort": "9838"
+  },
+  {
+    "city": "Hadiāya",
+    "admin": "Punjab",
+    "sort": "9725"
+  },
+  {
+    "city": "Honwāda",
+    "admin": "Telangana",
+    "sort": "9916"
+  },
+  {
+    "city": "Sātgāchia",
+    "admin": "West Bengal",
+    "sort": "8733"
+  },
+  {
+    "city": "Bāsudebpur",
+    "admin": "West Bengal",
+    "sort": "9129"
+  },
+  {
+    "city": "Elūrupādu",
+    "admin": "Andhra Pradesh",
+    "sort": "9423"
+  },
+  {
+    "city": "Mālior",
+    "admin": "West Bengal",
+    "sort": "8941"
+  },
+  {
+    "city": "Chunakhali",
+    "admin": "West Bengal",
+    "sort": "9241"
+  },
+  {
+    "city": "Muragācha",
+    "admin": "West Bengal",
+    "sort": "8937"
+  },
+  {
+    "city": "Panchgara",
+    "admin": "West Bengal",
+    "sort": "8428"
+  },
+  {
+    "city": "Gopālpur",
+    "admin": "West Bengal",
+    "sort": "8294"
+  },
+  {
+    "city": "Dhanwāda",
+    "admin": "Telangana",
+    "sort": "9743"
+  },
+  {
+    "city": "Kinhālu",
+    "admin": "Karnātaka",
+    "sort": "9802"
+  },
+  {
+    "city": "Bilāspur",
+    "admin": "Haryāna",
+    "sort": "9620"
+  },
+  {
+    "city": "Chilakhāna",
+    "admin": "West Bengal",
+    "sort": "9263"
+  },
+  {
+    "city": "Lakhya",
+    "admin": "West Bengal",
+    "sort": "8247"
+  },
+  {
+    "city": "Kalaīkunda",
+    "admin": "West Bengal",
+    "sort": "9344"
+  },
+  {
+    "city": "Nūtakki",
+    "admin": "Andhra Pradesh",
+    "sort": "9236"
+  },
+  {
+    "city": "Ahmadpur",
+    "admin": "West Bengal",
+    "sort": "9242"
+  },
+  {
+    "city": "Barwān",
+    "admin": "West Bengal",
+    "sort": "8974"
+  },
+  {
+    "city": "Santamāgulūru",
+    "admin": "Andhra Pradesh",
+    "sort": "9687"
+  },
+  {
+    "city": "Dodarasinakere",
+    "admin": "Karnātaka",
+    "sort": "9541"
+  },
+  {
+    "city": "Pagidyāla",
+    "admin": "Andhra Pradesh",
+    "sort": "9579"
+  },
+  {
+    "city": "Zafargarh",
+    "admin": "Telangana",
+    "sort": "9698"
+  },
+  {
+    "city": "Kāthia",
+    "admin": "West Bengal",
+    "sort": "8465"
+  },
+  {
+    "city": "Kattamūru",
+    "admin": "Andhra Pradesh",
+    "sort": "8980"
+  },
+  {
+    "city": "Kaikaram",
+    "admin": "Andhra Pradesh",
+    "sort": "9532"
+  },
+  {
+    "city": "Konidena",
+    "admin": "Andhra Pradesh",
+    "sort": "9650"
+  },
+  {
+    "city": "Dunigrām",
+    "admin": "West Bengal",
+    "sort": "8282"
+  },
+  {
+    "city": "Uppalaguptam",
+    "admin": "Andhra Pradesh",
+    "sort": "9397"
+  },
+  {
+    "city": "Muddanūru",
+    "admin": "Andhra Pradesh",
+    "sort": "9775"
+  },
+  {
+    "city": "Gāndlapenta",
+    "admin": "Andhra Pradesh",
+    "sort": "9611"
+  },
+  {
+    "city": "Dumargrām",
+    "admin": "West Bengal",
+    "sort": "8335"
+  },
+  {
+    "city": "Mashāt",
+    "admin": "West Bengal",
+    "sort": "8007"
+  },
+  {
+    "city": "Uppugunduru",
+    "admin": "Andhra Pradesh",
+    "sort": "9060"
+  },
+  {
+    "city": "Udburu",
+    "admin": "Jharkhand",
+    "sort": "9539"
+  },
+  {
+    "city": "Dattapāra",
+    "admin": "West Bengal",
+    "sort": "8532"
+  },
+  {
+    "city": "Jujhārpur",
+    "admin": "West Bengal",
+    "sort": "8665"
+  },
+  {
+    "city": "Bhogāpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "9341"
+  },
+  {
+    "city": "Kāliganj",
+    "admin": "West Bengal",
+    "sort": "8575"
+  },
+  {
+    "city": "Nirna",
+    "admin": "Karnātaka",
+    "sort": "9415"
+  },
+  {
+    "city": "Dāmargidda",
+    "admin": "Telangana",
+    "sort": "9197"
+  },
+  {
+    "city": "Ayas",
+    "admin": "West Bengal",
+    "sort": "8906"
+  },
+  {
+    "city": "Rājapūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "9267"
+  },
+  {
+    "city": "Durgi",
+    "admin": "Andhra Pradesh",
+    "sort": "9480"
+  },
+  {
+    "city": "Molagavalli",
+    "admin": "Andhra Pradesh",
+    "sort": "9475"
+  },
+  {
+    "city": "Bahira",
+    "admin": "West Bengal",
+    "sort": "7845"
+  },
+  {
+    "city": "Penaballi",
+    "admin": "Telangana",
+    "sort": "8915"
+  },
+  {
+    "city": "Gorsa",
+    "admin": "West Bengal",
+    "sort": "7964"
+  },
+  {
+    "city": "Jājireddigūdem",
+    "admin": "Telangana",
+    "sort": "9223"
+  },
+  {
+    "city": "Nāgāyalanka",
+    "admin": "Andhra Pradesh",
+    "sort": "9321"
+  },
+  {
+    "city": "Maddūr",
+    "admin": "Telangana",
+    "sort": "8896"
+  },
+  {
+    "city": "Bishnupur",
+    "admin": "West Bengal",
+    "sort": "8118"
+  },
+  {
+    "city": "Saktigarh",
+    "admin": "West Bengal",
+    "sort": "8432"
+  },
+  {
+    "city": "Munagāla",
+    "admin": "Telangana",
+    "sort": "8942"
+  },
+  {
+    "city": "Kurichedu",
+    "admin": "Andhra Pradesh",
+    "sort": "9027"
+  },
+  {
+    "city": "Belakvādi",
+    "admin": "Karnātaka",
+    "sort": "9151"
+  },
+  {
+    "city": "Nurpur",
+    "admin": "West Bengal",
+    "sort": "7527"
+  },
+  {
+    "city": "Bhāluka",
+    "admin": "West Bengal",
+    "sort": "8076"
+  },
+  {
+    "city": "Alipukur",
+    "admin": "West Bengal",
+    "sort": "7533"
+  },
+  {
+    "city": "Chaubaria",
+    "admin": "West Bengal",
+    "sort": "8039"
+  },
+  {
+    "city": "Kotabommāli",
+    "admin": "Andhra Pradesh",
+    "sort": "8941"
+  },
+  {
+    "city": "Guttikonda",
+    "admin": "Andhra Pradesh",
+    "sort": "8931"
+  },
+  {
+    "city": "Dirusumarru",
+    "admin": "Andhra Pradesh",
+    "sort": "8645"
+  },
+  {
+    "city": "Kotālpur",
+    "admin": "West Bengal",
+    "sort": "8483"
+  },
+  {
+    "city": "Jigarhāti",
+    "admin": "West Bengal",
+    "sort": "8163"
+  },
+  {
+    "city": "Tummalacheruvu",
+    "admin": "Telangana",
+    "sort": "8889"
+  },
+  {
+    "city": "Dharmājigūdem",
+    "admin": "Andhra Pradesh",
+    "sort": "8564"
+  },
+  {
+    "city": "Kovvali",
+    "admin": "Andhra Pradesh",
+    "sort": "8925"
+  },
+  {
+    "city": "Bhogālt",
+    "admin": "West Bengal",
+    "sort": "7516"
+  },
+  {
+    "city": "Maisaram",
+    "admin": "Telangana",
+    "sort": "8795"
+  },
+  {
+    "city": "Hingalganj",
+    "admin": "West Bengal",
+    "sort": "8179"
+  },
+  {
+    "city": "Gudlūru",
+    "admin": "Andhra Pradesh",
+    "sort": "8989"
+  },
+  {
+    "city": "Bandamūrlanka",
+    "admin": "Andhra Pradesh",
+    "sort": "8576"
+  },
+  {
+    "city": "Kalicherla",
+    "admin": "Andhra Pradesh",
+    "sort": "8999"
+  },
+  {
+    "city": "Mustafābād",
+    "admin": "Telangana",
+    "sort": "8665"
+  },
+  {
+    "city": "Channubanda",
+    "admin": "Andhra Pradesh",
+    "sort": "8907"
+  },
+  {
+    "city": "Islāmpur",
+    "admin": "West Bengal",
+    "sort": "7813"
+  },
+  {
+    "city": "Ranjal",
+    "admin": "Telangana",
+    "sort": "8802"
+  },
+  {
+    "city": "Keregodu",
+    "admin": "Karnātaka",
+    "sort": "8528"
+  },
+  {
+    "city": "Gampalagūdem",
+    "admin": "Andhra Pradesh",
+    "sort": "8256"
+  },
+  {
+    "city": "Pullalacheruvu",
+    "admin": "Andhra Pradesh",
+    "sort": "8861"
+  },
+  {
+    "city": "Makkuva",
+    "admin": "Andhra Pradesh",
+    "sort": "8272"
+  },
+  {
+    "city": "Madnūr",
+    "admin": "Telangana",
+    "sort": "8841"
+  },
+  {
+    "city": "Harīke",
+    "admin": "Punjab",
+    "sort": "8662"
+  },
+  {
+    "city": "Adigoppula",
+    "admin": "Andhra Pradesh",
+    "sort": "8816"
+  },
+  {
+    "city": "Pānuria",
+    "admin": "West Bengal",
+    "sort": "8399"
+  },
+  {
+    "city": "Chitvel",
+    "admin": "Andhra Pradesh",
+    "sort": "8943"
+  },
+  {
+    "city": "Tālgāchhi",
+    "admin": "West Bengal",
+    "sort": "7829"
+  },
+  {
+    "city": "Jagatballabhpur",
+    "admin": "West Bengal",
+    "sort": "7113"
+  },
+  {
+    "city": "Kismatpur",
+    "admin": "Telangana",
+    "sort": "7288"
+  },
+  {
+    "city": "Kālkuni",
+    "admin": "Karnātaka",
+    "sort": "8844"
+  },
+  {
+    "city": "Bārāsat",
+    "admin": "West Bengal",
+    "sort": "7441"
+  },
+  {
+    "city": "Teranikallu",
+    "admin": "Andhra Pradesh",
+    "sort": "8743"
+  },
+  {
+    "city": "Vīrapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "8720"
+  },
+  {
+    "city": "Vidapanakallu",
+    "admin": "Andhra Pradesh",
+    "sort": "8763"
+  },
+  {
+    "city": "Navipet",
+    "admin": "Telangana",
+    "sort": "8563"
+  },
+  {
+    "city": "Jasāikāti",
+    "admin": "West Bengal",
+    "sort": "7317"
+  },
+  {
+    "city": "Bhagabatipur",
+    "admin": "West Bengal",
+    "sort": "7068"
+  },
+  {
+    "city": "Manipur",
+    "admin": "West Bengal",
+    "sort": "8152"
+  },
+  {
+    "city": "Rāiparthi",
+    "admin": "Telangana",
+    "sort": "8618"
+  },
+  {
+    "city": "Bāgalvād",
+    "admin": "Karnātaka",
+    "sort": "8682"
+  },
+  {
+    "city": "Bontapalli",
+    "admin": "Telangana",
+    "sort": "8032"
+  },
+  {
+    "city": "Devarkadra",
+    "admin": "Telangana",
+    "sort": "8047"
+  },
+  {
+    "city": "Garbhām",
+    "admin": "Andhra Pradesh",
+    "sort": "8445"
+  },
+  {
+    "city": "Churulia",
+    "admin": "West Bengal",
+    "sort": "8173"
+  },
+  {
+    "city": "Anantasāgaram",
+    "admin": "Andhra Pradesh",
+    "sort": "8588"
+  },
+  {
+    "city": "Yaragol",
+    "admin": "Karnātaka",
+    "sort": "8554"
+  },
+  {
+    "city": "Penumāka",
+    "admin": "Andhra Pradesh",
+    "sort": "7918"
+  },
+  {
+    "city": "Chintakommadinne",
+    "admin": "Andhra Pradesh",
+    "sort": "8661"
+  },
+  {
+    "city": "Korukollu",
+    "admin": "Andhra Pradesh",
+    "sort": "8333"
+  },
+  {
+    "city": "Ginigera",
+    "admin": "Karnātaka",
+    "sort": "8449"
+  },
+  {
+    "city": "Udrāmsar",
+    "admin": "Rājasthān",
+    "sort": "8162"
+  },
+  {
+    "city": "Nakkāpalle",
+    "admin": "Andhra Pradesh",
+    "sort": "7603"
+  },
+  {
+    "city": "Gangājalghāti",
+    "admin": "West Bengal",
+    "sort": "8708"
+  },
+  {
+    "city": "Tungaturti",
+    "admin": "Telangana",
+    "sort": "8379"
+  },
+  {
+    "city": "Majlispur",
+    "admin": "West Bengal",
+    "sort": "7802"
+  },
+  {
+    "city": "Peddapūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "8162"
+  },
+  {
+    "city": "Chikhli",
+    "admin": "Gujarāt",
+    "sort": "6953"
+  },
+  {
+    "city": "Madnakal",
+    "admin": "Telangana",
+    "sort": "8355"
+  },
+  {
+    "city": "Galgali",
+    "admin": "Karnātaka",
+    "sort": "8380"
+  },
+  {
+    "city": "Kodakandla",
+    "admin": "Telangana",
+    "sort": "8313"
+  },
+  {
+    "city": "Chandpur",
+    "admin": "West Bengal",
+    "sort": "6777"
+  },
+  {
+    "city": "Vidavalūru",
+    "admin": "Andhra Pradesh",
+    "sort": "8177"
+  },
+  {
+    "city": "Gūmmadidola",
+    "admin": "Telangana",
+    "sort": "8032"
+  },
+  {
+    "city": "Khājuri",
+    "admin": "West Bengal",
+    "sort": "7471"
+  },
+  {
+    "city": "Tamballapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "8416"
+  },
+  {
+    "city": "Rāvinūtala",
+    "admin": "Andhra Pradesh",
+    "sort": "8279"
+  },
+  {
+    "city": "Tekmāl",
+    "admin": "Telangana",
+    "sort": "8212"
+  },
+  {
+    "city": "Berghom",
+    "admin": "West Bengal",
+    "sort": "6989"
+  },
+  {
+    "city": "Vijayapuri South",
+    "admin": "Andhra Pradesh",
+    "sort": "8393"
+  },
+  {
+    "city": "Konāda",
+    "admin": "Andhra Pradesh",
+    "sort": "8071"
+  },
+  {
+    "city": "Dīgnagar",
+    "admin": "West Bengal",
+    "sort": "8313"
+  },
+  {
+    "city": "Jagannāthpur",
+    "admin": "West Bengal",
+    "sort": "7310"
+  },
+  {
+    "city": "Bībīnagar",
+    "admin": "Telangana",
+    "sort": "8320"
+  },
+  {
+    "city": "Venavanka",
+    "admin": "Telangana",
+    "sort": "7920"
+  },
+  {
+    "city": "Rangampeta",
+    "admin": "Andhra Pradesh",
+    "sort": "7983"
+  },
+  {
+    "city": "Rodalkundi",
+    "admin": "Karnātaka",
+    "sort": "8260"
+  },
+  {
+    "city": "Kottūru",
+    "admin": "Andhra Pradesh",
+    "sort": "8209"
+  },
+  {
+    "city": "Kethepalli",
+    "admin": "Telangana",
+    "sort": "8193"
+  },
+  {
+    "city": "Dūpādu",
+    "admin": "Andhra Pradesh",
+    "sort": "8271"
+  },
+  {
+    "city": "Chandipur",
+    "admin": "West Bengal",
+    "sort": "6982"
+  },
+  {
+    "city": "Māliāra",
+    "admin": "West Bengal",
+    "sort": "7918"
+  },
+  {
+    "city": "Khandaghosh",
+    "admin": "West Bengal",
+    "sort": "7717"
+  },
+  {
+    "city": "Kirugāvalu",
+    "admin": "Karnātaka",
+    "sort": "8268"
+  },
+  {
+    "city": "Karatber",
+    "admin": "West Bengal",
+    "sort": "6729"
+  },
+  {
+    "city": "Kolleti Kota",
+    "admin": "Andhra Pradesh",
+    "sort": "8325"
+  },
+  {
+    "city": "Chiwemla",
+    "admin": "Telangana",
+    "sort": "8016"
+  },
+  {
+    "city": "Takkellapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "7966"
+  },
+  {
+    "city": "Dhanbela",
+    "admin": "West Bengal",
+    "sort": "6659"
+  },
+  {
+    "city": "Dommaranandyāla",
+    "admin": "Andhra Pradesh",
+    "sort": "8337"
+  },
+  {
+    "city": "Anigandlapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "8062"
+  },
+  {
+    "city": "Kavulūru",
+    "admin": "Andhra Pradesh",
+    "sort": "8067"
+  },
+  {
+    "city": "Danagalli",
+    "admin": "Karnātaka",
+    "sort": "6655"
+  },
+  {
+    "city": "Naushahra Panwān",
+    "admin": "Punjab",
+    "sort": "7785"
+  },
+  {
+    "city": "Nallacheruvu",
+    "admin": "Andhra Pradesh",
+    "sort": "8023"
+  },
+  {
+    "city": "Peddakadabūru",
+    "admin": "Andhra Pradesh",
+    "sort": "8147"
+  },
+  {
+    "city": "Pālakurti",
+    "admin": "Telangana",
+    "sort": "7819"
+  },
+  {
+    "city": "Timmāpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "7624"
+  },
+  {
+    "city": "Rāvipādu",
+    "admin": "Andhra Pradesh",
+    "sort": "8047"
+  },
+  {
+    "city": "Lakhanpur",
+    "admin": "Jharkhand",
+    "sort": "6756"
+  },
+  {
+    "city": "Pippara",
+    "admin": "Andhra Pradesh",
+    "sort": "7719"
+  },
+  {
+    "city": "Chiluvūru",
+    "admin": "Andhra Pradesh",
+    "sort": "7952"
+  },
+  {
+    "city": "Kaligiri",
+    "admin": "Andhra Pradesh",
+    "sort": "8068"
+  },
+  {
+    "city": "Mulakalacheruvu",
+    "admin": "Andhra Pradesh",
+    "sort": "8216"
+  },
+  {
+    "city": "Bīrkur",
+    "admin": "Telangana",
+    "sort": "8043"
+  },
+  {
+    "city": "Gopālganj",
+    "admin": "West Bengal",
+    "sort": "7853"
+  },
+  {
+    "city": "Rebāla",
+    "admin": "Andhra Pradesh",
+    "sort": "7710"
+  },
+  {
+    "city": "Nandivelugu",
+    "admin": "Andhra Pradesh",
+    "sort": "6880"
+  },
+  {
+    "city": "Bhātumra",
+    "admin": "Karnātaka",
+    "sort": "8070"
+  },
+  {
+    "city": "Bhāndārhāti",
+    "admin": "West Bengal",
+    "sort": "6928"
+  },
+  {
+    "city": "Tullūru",
+    "admin": "Andhra Pradesh",
+    "sort": "7794"
+  },
+  {
+    "city": "Nārāyanpur",
+    "admin": "Telangana",
+    "sort": "7927"
+  },
+  {
+    "city": "Niāla Kondapalle",
+    "admin": "Telangana",
+    "sort": "7767"
+  },
+  {
+    "city": "Yāzali",
+    "admin": "Andhra Pradesh",
+    "sort": "7975"
+  },
+  {
+    "city": "Berāberi",
+    "admin": "West Bengal",
+    "sort": "6810"
+  },
+  {
+    "city": "Gopālpur",
+    "admin": "West Bengal",
+    "sort": "7109"
+  },
+  {
+    "city": "Mahishkuchi",
+    "admin": "West Bengal",
+    "sort": "7192"
+  },
+  {
+    "city": "Pedda Ganjām",
+    "admin": "Andhra Pradesh",
+    "sort": "7972"
+  },
+  {
+    "city": "Uchalon",
+    "admin": "West Bengal",
+    "sort": "7439"
+  },
+  {
+    "city": "Huliyūrdurga",
+    "admin": "Karnātaka",
+    "sort": "7989"
+  },
+  {
+    "city": "Nekunāpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "7870"
+  },
+  {
+    "city": "Pokūru",
+    "admin": "Andhra Pradesh",
+    "sort": "7870"
+  },
+  {
+    "city": "Bhadrapur",
+    "admin": "West Bengal",
+    "sort": "6571"
+  },
+  {
+    "city": "Manāli",
+    "admin": "Himāchal Pradesh",
+    "sort": "8096"
+  },
+  {
+    "city": "Mallepalli",
+    "admin": "Chhattīsgarh",
+    "sort": "8149"
+  },
+  {
+    "city": "Baruipāra",
+    "admin": "West Bengal",
+    "sort": "6731"
+  },
+  {
+    "city": "Nātavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "7469"
+  },
+  {
+    "city": "Agali",
+    "admin": "Andhra Pradesh",
+    "sort": "7616"
+  },
+  {
+    "city": "Barua Gopālpur",
+    "admin": "West Bengal",
+    "sort": "6614"
+  },
+  {
+    "city": "Sūrampalle",
+    "admin": "Andhra Pradesh",
+    "sort": "7789"
+  },
+  {
+    "city": "Bara Bakra",
+    "admin": "West Bengal",
+    "sort": "6866"
+  },
+  {
+    "city": "Dhalpāl",
+    "admin": "West Bengal",
+    "sort": "7319"
+  },
+  {
+    "city": "Bajanki",
+    "admin": "Telangana",
+    "sort": "7804"
+  },
+  {
+    "city": "Gārladinne",
+    "admin": "Andhra Pradesh",
+    "sort": "7766"
+  },
+  {
+    "city": "Hire Kotankal",
+    "admin": "Karnātaka",
+    "sort": "7889"
+  },
+  {
+    "city": "Dātura",
+    "admin": "West Bengal",
+    "sort": "6870"
+  },
+  {
+    "city": "Wajrakarūr",
+    "admin": "Andhra Pradesh",
+    "sort": "7925"
+  },
+  {
+    "city": "Indrāni",
+    "admin": "West Bengal",
+    "sort": "7018"
+  },
+  {
+    "city": "Pāta Pandillapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "7243"
+  },
+  {
+    "city": "Rājavommangi",
+    "admin": "Andhra Pradesh",
+    "sort": "8003"
+  },
+  {
+    "city": "Sante Kasalgere",
+    "admin": "Karnātaka",
+    "sort": "7457"
+  },
+  {
+    "city": "Mundlapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "7781"
+  },
+  {
+    "city": "Haripur",
+    "admin": "West Bengal",
+    "sort": "6315"
+  },
+  {
+    "city": "Bujang",
+    "admin": "West Bengal",
+    "sort": "7198"
+  },
+  {
+    "city": "Hātinda",
+    "admin": "West Bengal",
+    "sort": "6177"
+  },
+  {
+    "city": "Mantūr",
+    "admin": "Karnātaka",
+    "sort": "7681"
+  },
+  {
+    "city": "Kirnāhar",
+    "admin": "West Bengal",
+    "sort": "7103"
+  },
+  {
+    "city": "Baireddipalle",
+    "admin": "Andhra Pradesh",
+    "sort": "7225"
+  },
+  {
+    "city": "Mathampalli",
+    "admin": "Telangana",
+    "sort": "7560"
+  },
+  {
+    "city": "Pāchipenta",
+    "admin": "Andhra Pradesh",
+    "sort": "7738"
+  },
+  {
+    "city": "Rādhāngar",
+    "admin": "West Bengal",
+    "sort": "6675"
+  },
+  {
+    "city": "Meliyāputtu",
+    "admin": "Andhra Pradesh",
+    "sort": "7741"
+  },
+  {
+    "city": "Bāishāta",
+    "admin": "West Bengal",
+    "sort": "6245"
+  },
+  {
+    "city": "Dāmaramadugu",
+    "admin": "Andhra Pradesh",
+    "sort": "7294"
+  },
+  {
+    "city": "Kruttivennu",
+    "admin": "Andhra Pradesh",
+    "sort": "7585"
+  },
+  {
+    "city": "Bestavārapeta",
+    "admin": "Andhra Pradesh",
+    "sort": "7606"
+  },
+  {
+    "city": "Nāmkhāna",
+    "admin": "West Bengal",
+    "sort": "7058"
+  },
+  {
+    "city": "Muglispur",
+    "admin": "West Bengal",
+    "sort": "6373"
+  },
+  {
+    "city": "Sheakhala",
+    "admin": "West Bengal",
+    "sort": "6434"
+  },
+  {
+    "city": "Rāmasamudram",
+    "admin": "Andhra Pradesh",
+    "sort": "7645"
+  },
+  {
+    "city": "Bargāri",
+    "admin": "Punjab",
+    "sort": "7500"
+  },
+  {
+    "city": "Chelyāma",
+    "admin": "West Bengal",
+    "sort": "7413"
+  },
+  {
+    "city": "Palagara",
+    "admin": "Andhra Pradesh",
+    "sort": "6926"
+  },
+  {
+    "city": "Gura",
+    "admin": "West Bengal",
+    "sort": "6802"
+  },
+  {
+    "city": "Adwitnagar",
+    "admin": "West Bengal",
+    "sort": "6176"
+  },
+  {
+    "city": "Ponnalūru",
+    "admin": "Andhra Pradesh",
+    "sort": "7461"
+  },
+  {
+    "city": "Khātra",
+    "admin": "West Bengal",
+    "sort": "7382"
+  },
+  {
+    "city": "Belsur",
+    "admin": "West Bengal",
+    "sort": "6570"
+  },
+  {
+    "city": "Polāki",
+    "admin": "Andhra Pradesh",
+    "sort": "7089"
+  },
+  {
+    "city": "Yādamari",
+    "admin": "Andhra Pradesh",
+    "sort": "7584"
+  },
+  {
+    "city": "Chātaparru",
+    "admin": "Andhra Pradesh",
+    "sort": "7273"
+  },
+  {
+    "city": "Mūlaguntapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "7145"
+  },
+  {
+    "city": "Nīrmānvi",
+    "admin": "Karnātaka",
+    "sort": "7541"
+  },
+  {
+    "city": "Rānīganj",
+    "admin": "West Bengal",
+    "sort": "6609"
+  },
+  {
+    "city": "Krishnarānpur",
+    "admin": "West Bengal",
+    "sort": "6204"
+  },
+  {
+    "city": "Upputūru",
+    "admin": "Andhra Pradesh",
+    "sort": "7448"
+  },
+  {
+    "city": "Annāram",
+    "admin": "Telangana",
+    "sort": "6840"
+  },
+  {
+    "city": "Simlāpāl",
+    "admin": "West Bengal",
+    "sort": "7206"
+  },
+  {
+    "city": "Gosānimāri Bandar",
+    "admin": "West Bengal",
+    "sort": "6410"
+  },
+  {
+    "city": "Chinnakākāni",
+    "admin": "Andhra Pradesh",
+    "sort": "7040"
+  },
+  {
+    "city": "Chilakapālem",
+    "admin": "Andhra Pradesh",
+    "sort": "6162"
+  },
+  {
+    "city": "Nigan",
+    "admin": "West Bengal",
+    "sort": "6825"
+  },
+  {
+    "city": "Bījnapalli",
+    "admin": "Telangana",
+    "sort": "7329"
+  },
+  {
+    "city": "Pipa",
+    "admin": "West Bengal",
+    "sort": "5760"
+  },
+  {
+    "city": "Chandrasekharāpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "7544"
+  },
+  {
+    "city": "Chennekottapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "7387"
+  },
+  {
+    "city": "Fatehpor",
+    "admin": "Jammu and Kashmīr",
+    "sort": "6737"
+  },
+  {
+    "city": "Mogallu",
+    "admin": "Andhra Pradesh",
+    "sort": "7102"
+  },
+  {
+    "city": "Beluguppa",
+    "admin": "Andhra Pradesh",
+    "sort": "7457"
+  },
+  {
+    "city": "Rājbāri",
+    "admin": "West Bengal",
+    "sort": "5964"
+  },
+  {
+    "city": "Pārākaram",
+    "admin": "West Bengal",
+    "sort": "6386"
+  },
+  {
+    "city": "Chevella",
+    "admin": "Telangana",
+    "sort": "7031"
+  },
+  {
+    "city": "Kārumanchi",
+    "admin": "Andhra Pradesh",
+    "sort": "7357"
+  },
+  {
+    "city": "Bellūru",
+    "admin": "Karnātaka",
+    "sort": "7412"
+  },
+  {
+    "city": "Bandi Ātmakūru",
+    "admin": "Andhra Pradesh",
+    "sort": "7242"
+  },
+  {
+    "city": "Khanta",
+    "admin": "West Bengal",
+    "sort": "6457"
+  },
+  {
+    "city": "Kotauratla",
+    "admin": "Andhra Pradesh",
+    "sort": "7003"
+  },
+  {
+    "city": "Hāvaligi",
+    "admin": "Andhra Pradesh",
+    "sort": "7408"
+  },
+  {
+    "city": "Chintalavalasa",
+    "admin": "Andhra Pradesh",
+    "sort": "5921"
+  },
+  {
+    "city": "Polba",
+    "admin": "West Bengal",
+    "sort": "6626"
+  },
+  {
+    "city": "Mudinepalle",
+    "admin": "Andhra Pradesh",
+    "sort": "6463"
+  },
+  {
+    "city": "Kurupām",
+    "admin": "Andhra Pradesh",
+    "sort": "7329"
+  },
+  {
+    "city": "Hire Padsalgi",
+    "admin": "Karnātaka",
+    "sort": "7112"
+  },
+  {
+    "city": "Valigonda",
+    "admin": "Telangana",
+    "sort": "7324"
+  },
+  {
+    "city": "Sāyampet",
+    "admin": "Telangana",
+    "sort": "6878"
+  },
+  {
+    "city": "Sibkālinagar",
+    "admin": "West Bengal",
+    "sort": "6674"
+  },
+  {
+    "city": "Pedda Bhogila",
+    "admin": "Andhra Pradesh",
+    "sort": "6733"
+  },
+  {
+    "city": "Kodekal",
+    "admin": "Karnātaka",
+    "sort": "7245"
+  },
+  {
+    "city": "Bāgdaha",
+    "admin": "West Bengal",
+    "sort": "6424"
+  },
+  {
+    "city": "Umarpur",
+    "admin": "Jharkhand",
+    "sort": "5785"
+  },
+  {
+    "city": "Battili",
+    "admin": "Odisha",
+    "sort": "7264"
+  },
+  {
+    "city": "Katangūr",
+    "admin": "Telangana",
+    "sort": "7034"
+  },
+  {
+    "city": "Kunchanapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "5673"
+  },
+  {
+    "city": "Kalingapatnam",
+    "admin": "Andhra Pradesh",
+    "sort": "6459"
+  },
+  {
+    "city": "Āspari",
+    "admin": "Andhra Pradesh",
+    "sort": "7263"
+  },
+  {
+    "city": "Nekkonda",
+    "admin": "Telangana",
+    "sort": "7264"
+  },
+  {
+    "city": "Karālapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "7085"
+  },
+  {
+    "city": "Rudravaram",
+    "admin": "Andhra Pradesh",
+    "sort": "7150"
+  },
+  {
+    "city": "Rāngaipur",
+    "admin": "West Bengal",
+    "sort": "6002"
+  },
+  {
+    "city": "Cherukūru",
+    "admin": "Andhra Pradesh",
+    "sort": "7080"
+  },
+  {
+    "city": "Rāmapur",
+    "admin": "West Bengal",
+    "sort": "6357"
+  },
+  {
+    "city": "Rāmthenga",
+    "admin": "West Bengal",
+    "sort": "6269"
+  },
+  {
+    "city": "Devaruppal",
+    "admin": "Telangana",
+    "sort": "7104"
+  },
+  {
+    "city": "Morta",
+    "admin": "Andhra Pradesh",
+    "sort": "6663"
+  },
+  {
+    "city": "Kennālu",
+    "admin": "Karnātaka",
+    "sort": "6973"
+  },
+  {
+    "city": "Dhola",
+    "admin": "West Bengal",
+    "sort": "5804"
+  },
+  {
+    "city": "Bharatgarh",
+    "admin": "West Bengal",
+    "sort": "6413"
+  },
+  {
+    "city": "Digambarpur",
+    "admin": "West Bengal",
+    "sort": "6577"
+  },
+  {
+    "city": "Annavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "6865"
+  },
+  {
+    "city": "Toplā",
+    "admin": "Madhya Pradesh",
+    "sort": "7178"
+  },
+  {
+    "city": "Holavanhalli",
+    "admin": "Karnātaka",
+    "sort": "7034"
+  },
+  {
+    "city": "Arakeri",
+    "admin": "Karnātaka",
+    "sort": "7091"
+  },
+  {
+    "city": "Bagchara",
+    "admin": "West Bengal",
+    "sort": "5745"
+  },
+  {
+    "city": "Dornipādu",
+    "admin": "Andhra Pradesh",
+    "sort": "6991"
+  },
+  {
+    "city": "Kamarpalli",
+    "admin": "Telangana",
+    "sort": "6865"
+  },
+  {
+    "city": "Lingasamudram",
+    "admin": "Andhra Pradesh",
+    "sort": "6718"
+  },
+  {
+    "city": "Mallārpur",
+    "admin": "West Bengal",
+    "sort": "6471"
+  },
+  {
+    "city": "Muppālla",
+    "admin": "Andhra Pradesh",
+    "sort": "7093"
+  },
+  {
+    "city": "Bādampūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "6654"
+  },
+  {
+    "city": "Maipādu",
+    "admin": "Andhra Pradesh",
+    "sort": "6532"
+  },
+  {
+    "city": "Bagela",
+    "admin": "West Bengal",
+    "sort": "6122"
+  },
+  {
+    "city": "Kāndrakota",
+    "admin": "Andhra Pradesh",
+    "sort": "6090"
+  },
+  {
+    "city": "Khopākāti",
+    "admin": "West Bengal",
+    "sort": "6003"
+  },
+  {
+    "city": "Dwārapūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "5684"
+  },
+  {
+    "city": "Malkāpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "7010"
+  },
+  {
+    "city": "Mohanpur",
+    "admin": "West Bengal",
+    "sort": "6049"
+  },
+  {
+    "city": "Chaudepalle",
+    "admin": "Andhra Pradesh",
+    "sort": "7026"
+  },
+  {
+    "city": "Sāsan",
+    "admin": "West Bengal",
+    "sort": "5818"
+  },
+  {
+    "city": "Madhura",
+    "admin": "West Bengal",
+    "sort": "5996"
+  },
+  {
+    "city": "Katak Chincholi",
+    "admin": "Karnātaka",
+    "sort": "6955"
+  },
+  {
+    "city": "Amarkantak",
+    "admin": "Madhya Pradesh",
+    "sort": "7074"
+  },
+  {
+    "city": "Kālla",
+    "admin": "Andhra Pradesh",
+    "sort": "6853"
+  },
+  {
+    "city": "Sālgundi",
+    "admin": "Karnātaka",
+    "sort": "6937"
+  },
+  {
+    "city": "Kongal",
+    "admin": "Telangana",
+    "sort": "7010"
+  },
+  {
+    "city": "Mohanpur",
+    "admin": "West Bengal",
+    "sort": "5963"
+  },
+  {
+    "city": "Lakkavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "6944"
+  },
+  {
+    "city": "Vempa",
+    "admin": "Andhra Pradesh",
+    "sort": "6892"
+  },
+  {
+    "city": "Bantumilli",
+    "admin": "Andhra Pradesh",
+    "sort": "6867"
+  },
+  {
+    "city": "Kantālia",
+    "admin": "West Bengal",
+    "sort": "5724"
+  },
+  {
+    "city": "Rimbik",
+    "admin": "West Bengal",
+    "sort": "6980"
+  },
+  {
+    "city": "Morgim",
+    "admin": "Goa",
+    "sort": "6760"
+  },
+  {
+    "city": "Pālhalli",
+    "admin": "Karnātaka",
+    "sort": "6638"
+  },
+  {
+    "city": "Bondapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "6657"
+  },
+  {
+    "city": "Pulipādu",
+    "admin": "Andhra Pradesh",
+    "sort": "6788"
+  },
+  {
+    "city": "Beliātor",
+    "admin": "West Bengal",
+    "sort": "6463"
+  },
+  {
+    "city": "Paidipādu",
+    "admin": "Andhra Pradesh",
+    "sort": "6850"
+  },
+  {
+    "city": "Mandirtala",
+    "admin": "West Bengal",
+    "sort": "6135"
+  },
+  {
+    "city": "Kanagānapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "6965"
+  },
+  {
+    "city": "Tipparti",
+    "admin": "Telangana",
+    "sort": "6805"
+  },
+  {
+    "city": "Etikoppāka",
+    "admin": "Andhra Pradesh",
+    "sort": "6358"
+  },
+  {
+    "city": "Gadivemula",
+    "admin": "Andhra Pradesh",
+    "sort": "6897"
+  },
+  {
+    "city": "Tārāchua",
+    "admin": "West Bengal",
+    "sort": "6276"
+  },
+  {
+    "city": "Kandlagunta",
+    "admin": "Andhra Pradesh",
+    "sort": "6906"
+  },
+  {
+    "city": "Mudivarti",
+    "admin": "Andhra Pradesh",
+    "sort": "6685"
+  },
+  {
+    "city": "Obuladevarcheruvu",
+    "admin": "Andhra Pradesh",
+    "sort": "6639"
+  },
+  {
+    "city": "Dariapur",
+    "admin": "West Bengal",
+    "sort": "5748"
+  },
+  {
+    "city": "Murarai",
+    "admin": "West Bengal",
+    "sort": "5770"
+  },
+  {
+    "city": "Maddipādu",
+    "admin": "Andhra Pradesh",
+    "sort": "6480"
+  },
+  {
+    "city": "Amadagūru",
+    "admin": "Andhra Pradesh",
+    "sort": "6818"
+  },
+  {
+    "city": "Kondavīdu",
+    "admin": "Andhra Pradesh",
+    "sort": "6600"
+  },
+  {
+    "city": "Matsyapuri",
+    "admin": "Andhra Pradesh",
+    "sort": "5314"
+  },
+  {
+    "city": "Moragudi",
+    "admin": "Andhra Pradesh",
+    "sort": "6812"
+  },
+  {
+    "city": "Karimnagar",
+    "admin": "West Bengal",
+    "sort": "5443"
+  },
+  {
+    "city": "Timmāpuram",
+    "admin": "Telangana",
+    "sort": "6411"
+  },
+  {
+    "city": "Brāhmanagūdem",
+    "admin": "Andhra Pradesh",
+    "sort": "5499"
+  },
+  {
+    "city": "Hebbūr",
+    "admin": "Karnātaka",
+    "sort": "6349"
+  },
+  {
+    "city": "Elangi",
+    "admin": "West Bengal",
+    "sort": "5704"
+  },
+  {
+    "city": "Palsa",
+    "admin": "West Bengal",
+    "sort": "5417"
+  },
+  {
+    "city": "Ventrapragada",
+    "admin": "Andhra Pradesh",
+    "sort": "6500"
+  },
+  {
+    "city": "Mandadam",
+    "admin": "Andhra Pradesh",
+    "sort": "6588"
+  },
+  {
+    "city": "Kotanandūru",
+    "admin": "Andhra Pradesh",
+    "sort": "6013"
+  },
+  {
+    "city": "Ellanūru",
+    "admin": "Andhra Pradesh",
+    "sort": "6715"
+  },
+  {
+    "city": "Sidhar",
+    "admin": "West Bengal",
+    "sort": "5362"
+  },
+  {
+    "city": "Baswa",
+    "admin": "West Bengal",
+    "sort": "5511"
+  },
+  {
+    "city": "Digalgrām",
+    "admin": "West Bengal",
+    "sort": "6284"
+  },
+  {
+    "city": "Kandāran",
+    "admin": "West Bengal",
+    "sort": "5634"
+  },
+  {
+    "city": "Kāvūru",
+    "admin": "Andhra Pradesh",
+    "sort": "6491"
+  },
+  {
+    "city": "Kāsimpur",
+    "admin": "West Bengal",
+    "sort": "5427"
+  },
+  {
+    "city": "Balatgi",
+    "admin": "Karnātaka",
+    "sort": "6644"
+  },
+  {
+    "city": "Bānpur",
+    "admin": "West Bengal",
+    "sort": "5888"
+  },
+  {
+    "city": "Dumpagadapa",
+    "admin": "Andhra Pradesh",
+    "sort": "5467"
+  },
+  {
+    "city": "Rācherla",
+    "admin": "Andhra Pradesh",
+    "sort": "6518"
+  },
+  {
+    "city": "Galaga",
+    "admin": "Karnātaka",
+    "sort": "6592"
+  },
+  {
+    "city": "Mahurāpur",
+    "admin": "West Bengal",
+    "sort": "5348"
+  },
+  {
+    "city": "Āndimatam",
+    "admin": "Tamil Nādu",
+    "sort": "6165"
+  },
+  {
+    "city": "Begunkudar",
+    "admin": "West Bengal",
+    "sort": "6347"
+  },
+  {
+    "city": "Kottapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "6226"
+  },
+  {
+    "city": "Gobindapur",
+    "admin": "West Bengal",
+    "sort": "5481"
+  },
+  {
+    "city": "Kandgal",
+    "admin": "Karnātaka",
+    "sort": "6486"
+  },
+  {
+    "city": "Tāllacheruvu",
+    "admin": "Andhra Pradesh",
+    "sort": "6213"
+  },
+  {
+    "city": "Rāmchandrapur",
+    "admin": "West Bengal",
+    "sort": "5226"
+  },
+  {
+    "city": "Manoharpur",
+    "admin": "West Bengal",
+    "sort": "5206"
+  },
+  {
+    "city": "Ratua",
+    "admin": "West Bengal",
+    "sort": "5498"
+  },
+  {
+    "city": "Raipur",
+    "admin": "West Bengal",
+    "sort": "6280"
+  },
+  {
+    "city": "Kodūr",
+    "admin": "Telangana",
+    "sort": "6426"
+  },
+  {
+    "city": "Nātabāri Hāt",
+    "admin": "West Bengal",
+    "sort": "6113"
+  },
+  {
+    "city": "Bheliān",
+    "admin": "West Bengal",
+    "sort": "5901"
+  },
+  {
+    "city": "Nizāmpur",
+    "admin": "West Bengal",
+    "sort": "5755"
+  },
+  {
+    "city": "Bāruva",
+    "admin": "Andhra Pradesh",
+    "sort": "5795"
+  },
+  {
+    "city": "Khulna",
+    "admin": "West Bengal",
+    "sort": "5958"
+  },
+  {
+    "city": "Kariāli",
+    "admin": "West Bengal",
+    "sort": "5467"
+  },
+  {
+    "city": "Kyādgeri",
+    "admin": "Karnātaka",
+    "sort": "6496"
+  },
+  {
+    "city": "Nārathali",
+    "admin": "West Bengal",
+    "sort": "6337"
+  },
+  {
+    "city": "Jakrānpalli",
+    "admin": "Telangana",
+    "sort": "6228"
+  },
+  {
+    "city": "Nangli",
+    "admin": "Karnātaka",
+    "sort": "6359"
+  },
+  {
+    "city": "Algūr",
+    "admin": "Karnātaka",
+    "sort": "6448"
+  },
+  {
+    "city": "Dodharye",
+    "admin": "Karnātaka",
+    "sort": "6354"
+  },
+  {
+    "city": "Bāndhkhola",
+    "admin": "West Bengal",
+    "sort": "5042"
+  },
+  {
+    "city": "Gavunipalli",
+    "admin": "Karnātaka",
+    "sort": "6418"
+  },
+  {
+    "city": "Phulbāri",
+    "admin": "West Bengal",
+    "sort": "5731"
+  },
+  {
+    "city": "Kanamarlapūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "6222"
+  },
+  {
+    "city": "Harispur",
+    "admin": "West Bengal",
+    "sort": "5128"
+  },
+  {
+    "city": "Peravali",
+    "admin": "Andhra Pradesh",
+    "sort": "5744"
+  },
+  {
+    "city": "Rentapālla",
+    "admin": "Andhra Pradesh",
+    "sort": "5308"
+  },
+  {
+    "city": "Kochcherla",
+    "admin": "Andhra Pradesh",
+    "sort": "6338"
+  },
+  {
+    "city": "Narendranagar",
+    "admin": "Uttarakhand",
+    "sort": "6049"
+  },
+  {
+    "city": "Ardavīdu",
+    "admin": "Andhra Pradesh",
+    "sort": "6572"
+  },
+  {
+    "city": "Elākkurichchi",
+    "admin": "Tamil Nādu",
+    "sort": "6008"
+  },
+  {
+    "city": "Mirkal",
+    "admin": "Karnātaka",
+    "sort": "6422"
+  },
+  {
+    "city": "Sathaur",
+    "admin": "West Bengal",
+    "sort": "5645"
+  },
+  {
+    "city": "Varadayyapālaiyam",
+    "admin": "Andhra Pradesh",
+    "sort": "6449"
+  },
+  {
+    "city": "Jejur",
+    "admin": "West Bengal",
+    "sort": "5173"
+  },
+  {
+    "city": "Venkatakrishnārayapuram",
+    "admin": "Andhra Pradesh",
+    "sort": "5654"
+  },
+  {
+    "city": "Jhikra",
+    "admin": "West Bengal",
+    "sort": "5421"
+  },
+  {
+    "city": "Duttalūru",
+    "admin": "Andhra Pradesh",
+    "sort": "6509"
+  },
+  {
+    "city": "Durgāpur",
+    "admin": "West Bengal",
+    "sort": "5366"
+  },
+  {
+    "city": "Khanta",
+    "admin": "West Bengal",
+    "sort": "5360"
+  },
+  {
+    "city": "Karavadi",
+    "admin": "Andhra Pradesh",
+    "sort": "6327"
+  },
+  {
+    "city": "Jagdeopur",
+    "admin": "Telangana",
+    "sort": "6091"
+  },
+  {
+    "city": "Chāpirevula",
+    "admin": "Andhra Pradesh",
+    "sort": "5987"
+  },
+  {
+    "city": "Somala",
+    "admin": "Andhra Pradesh",
+    "sort": "6323"
+  },
+  {
+    "city": "Mehegrām",
+    "admin": "West Bengal",
+    "sort": "5731"
+  },
+  {
+    "city": "Khedra",
+    "admin": "West Bengal",
+    "sort": "5617"
+  },
+  {
+    "city": "Uppalapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "6175"
+  },
+  {
+    "city": "Kukunūru",
+    "admin": "Telangana",
+    "sort": "6380"
+  },
+  {
+    "city": "Onda",
+    "admin": "West Bengal",
+    "sort": "5933"
+  },
+  {
+    "city": "Muratpur",
+    "admin": "West Bengal",
+    "sort": "5208"
+  },
+  {
+    "city": "Pedda Nandipādu",
+    "admin": "Andhra Pradesh",
+    "sort": "6090"
+  },
+  {
+    "city": "Bhujabalapatnam",
+    "admin": "Andhra Pradesh",
+    "sort": "6046"
+  },
+  {
+    "city": "Chopra",
+    "admin": "West Bengal",
+    "sort": "5777"
+  },
+  {
+    "city": "Sandhwān",
+    "admin": "Punjab",
+    "sort": "6080"
+  },
+  {
+    "city": "Tālgrām",
+    "admin": "West Bengal",
+    "sort": "5285"
+  },
+  {
+    "city": "Chinna Chintakunta",
+    "admin": "Telangana",
+    "sort": "5637"
+  },
+  {
+    "city": "Bhāstāra",
+    "admin": "West Bengal",
+    "sort": "5084"
+  },
+  {
+    "city": "Rāmakuppam",
+    "admin": "Andhra Pradesh",
+    "sort": "6291"
+  },
+  {
+    "city": "Kottakki",
+    "admin": "Andhra Pradesh",
+    "sort": "6079"
+  },
+  {
+    "city": "Nandīgrām",
+    "admin": "West Bengal",
+    "sort": "5803"
+  },
+  {
+    "city": "Harvi",
+    "admin": "Karnātaka",
+    "sort": "6252"
+  },
+  {
+    "city": "Loutolim",
+    "admin": "Goa",
+    "sort": "6121"
+  },
+  {
+    "city": "Kūderu",
+    "admin": "Andhra Pradesh",
+    "sort": "6315"
+  },
+  {
+    "city": "Kalavalapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "5984"
+  },
+  {
+    "city": "Kondramutla",
+    "admin": "Andhra Pradesh",
+    "sort": "6215"
+  },
+  {
+    "city": "Bajargaon",
+    "admin": "West Bengal",
+    "sort": "5296"
+  },
+  {
+    "city": "Pūsapātirega",
+    "admin": "Andhra Pradesh",
+    "sort": "5683"
+  },
+  {
+    "city": "Kyalanūr",
+    "admin": "Karnātaka",
+    "sort": "5928"
+  },
+  {
+    "city": "Attota",
+    "admin": "Andhra Pradesh",
+    "sort": "5628"
+  },
+  {
+    "city": "Bisor",
+    "admin": "West Bengal",
+    "sort": "5181"
+  },
+  {
+    "city": "Sārenga",
+    "admin": "West Bengal",
+    "sort": "5888"
+  },
+  {
+    "city": "Kochara",
+    "admin": "West Bengal",
+    "sort": "5256"
+  },
+  {
+    "city": "Murikipūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "6131"
+  },
+  {
+    "city": "Medpalli",
+    "admin": "Telangana",
+    "sort": "6054"
+  },
+  {
+    "city": "Khata",
+    "admin": "Bihār",
+    "sort": "5358"
+  },
+  {
+    "city": "Musunūru",
+    "admin": "Andhra Pradesh",
+    "sort": "6095"
+  },
+  {
+    "city": "Timmasamudram",
+    "admin": "Andhra Pradesh",
+    "sort": "5993"
+  },
+  {
+    "city": "Chejerla",
+    "admin": "Andhra Pradesh",
+    "sort": "6172"
+  },
+  {
+    "city": "Nirman",
+    "admin": "West Bengal",
+    "sort": "5088"
+  },
+  {
+    "city": "Mirle",
+    "admin": "Karnātaka",
+    "sort": "5845"
+  },
+  {
+    "city": "Rādhānagar",
+    "admin": "West Bengal",
+    "sort": "5292"
+  },
+  {
+    "city": "Fatehpur",
+    "admin": "West Bengal",
+    "sort": "5093"
+  },
+  {
+    "city": "Bhulki",
+    "admin": "West Bengal",
+    "sort": "5193"
+  },
+  {
+    "city": "Ankāpuram",
+    "admin": "Telangana",
+    "sort": "5689"
+  },
+  {
+    "city": "Tārāpur",
+    "admin": "West Bengal",
+    "sort": "5143"
+  },
+  {
+    "city": "Hātgācha",
+    "admin": "West Bengal",
+    "sort": "5557"
+  },
+  {
+    "city": "Kerimeri",
+    "admin": "Telangana",
+    "sort": "5975"
+  },
+  {
+    "city": "Terlām",
+    "admin": "Andhra Pradesh",
+    "sort": "5793"
+  },
+  {
+    "city": "Sakkarepatna",
+    "admin": "Karnātaka",
+    "sort": "6087"
+  },
+  {
+    "city": "Mungonda",
+    "admin": "Andhra Pradesh",
+    "sort": "5297"
+  },
+  {
+    "city": "Bandarlapalli",
+    "admin": "Andhra Pradesh",
+    "sort": "6034"
+  },
+  {
+    "city": "Bevūr",
+    "admin": "Karnātaka",
+    "sort": "5881"
+  },
+  {
+    "city": "Konanki",
+    "admin": "Andhra Pradesh",
+    "sort": "5894"
+  },
+  {
+    "city": "Ranasthalam",
+    "admin": "Andhra Pradesh",
+    "sort": "5697"
+  },
+  {
+    "city": "Birajnagar",
+    "admin": "West Bengal",
+    "sort": "5328"
+  },
+  {
+    "city": "Lābpur",
+    "admin": "West Bengal",
+    "sort": "5419"
+  },
+  {
+    "city": "Tummurukota",
+    "admin": "Andhra Pradesh",
+    "sort": "5926"
+  },
+  {
+    "city": "Tondapi",
+    "admin": "Andhra Pradesh",
+    "sort": "5936"
+  },
+  {
+    "city": "Kothakota",
+    "admin": "Telangana",
+    "sort": "5749"
+  },
+  {
+    "city": "Benior",
+    "admin": "West Bengal",
+    "sort": "5369"
+  },
+  {
+    "city": "Nandalūr",
+    "admin": "Andhra Pradesh",
+    "sort": "5481"
+  },
+  {
+    "city": "Vallūru",
+    "admin": "Andhra Pradesh",
+    "sort": "5776"
+  },
+  {
+    "city": "Kākumānu",
+    "admin": "Andhra Pradesh",
+    "sort": "5777"
+  },
+  {
+    "city": "Chūrākuti",
+    "admin": "West Bengal",
+    "sort": "5257"
+  },
+  {
+    "city": "Pānāgarh",
+    "admin": "West Bengal",
+    "sort": "5510"
+  },
+  {
+    "city": "Nātalapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "5822"
+  },
+  {
+    "city": "Ambārpeta",
+    "admin": "Andhra Pradesh",
+    "sort": "5876"
+  },
+  {
+    "city": "Majiyara",
+    "admin": "West Bengal",
+    "sort": "5444"
+  },
+  {
+    "city": "Goyamara",
+    "admin": "West Bengal",
+    "sort": "5193"
+  },
+  {
+    "city": "Pullampet",
+    "admin": "Andhra Pradesh",
+    "sort": "6006"
+  },
+  {
+    "city": "Masarkal",
+    "admin": "Karnātaka",
+    "sort": "5917"
+  },
+  {
+    "city": "Sītarāmpuram",
+    "admin": "Andhra Pradesh",
+    "sort": "6054"
+  },
+  {
+    "city": "Gajapatinagaram",
+    "admin": "Andhra Pradesh",
+    "sort": "5687"
+  },
+  {
+    "city": "Hattikuni",
+    "admin": "Karnātaka",
+    "sort": "5840"
+  },
+  {
+    "city": "Pūtalapattu",
+    "admin": "Andhra Pradesh",
+    "sort": "5583"
+  },
+  {
+    "city": "Kuvāgam",
+    "admin": "Tamil Nādu",
+    "sort": "5807"
+  },
+  {
+    "city": "Rhenok",
+    "admin": "Sikkim",
+    "sort": "5883"
+  },
+  {
+    "city": "Kondamanjulūru",
+    "admin": "Andhra Pradesh",
+    "sort": "5811"
+  },
+  {
+    "city": "Addatīgala",
+    "admin": "Andhra Pradesh",
+    "sort": "6002"
+  },
+  {
+    "city": "Yelmanaid",
+    "admin": "Telangana",
+    "sort": "5846"
+  },
+  {
+    "city": "Chillakūr",
+    "admin": "Andhra Pradesh",
+    "sort": "5555"
+  },
+  {
+    "city": "Kotipalle",
+    "admin": "Andhra Pradesh",
+    "sort": "5406"
+  },
+  {
+    "city": "Kāldhari",
+    "admin": "Andhra Pradesh",
+    "sort": "5529"
+  },
+  {
+    "city": "Lingadahalli",
+    "admin": "Karnātaka",
+    "sort": "5853"
+  },
+  {
+    "city": "Golugonda",
+    "admin": "Andhra Pradesh",
+    "sort": "5770"
+  },
+  {
+    "city": "Budhakhāli",
+    "admin": "West Bengal",
+    "sort": "5195"
+  },
+  {
+    "city": "Kosuvāripalle",
+    "admin": "Andhra Pradesh",
+    "sort": "5911"
+  },
+  {
+    "city": "Pedda Orampādu",
+    "admin": "Andhra Pradesh",
+    "sort": "5868"
+  },
+  {
+    "city": "Jāldhoa",
+    "admin": "West Bengal",
+    "sort": "5042"
+  },
+  {
+    "city": "Kalmali",
+    "admin": "Karnātaka",
+    "sort": "5638"
+  },
+  {
+    "city": "Gottipādu",
+    "admin": "Andhra Pradesh",
+    "sort": "5615"
+  },
+  {
+    "city": "Putlūru",
+    "admin": "Andhra Pradesh",
+    "sort": "5848"
+  },
+  {
+    "city": "Kapileswarapuram",
+    "admin": "Andhra Pradesh",
+    "sort": "5689"
+  },
+  {
+    "city": "Utukūr",
+    "admin": "Andhra Pradesh",
+    "sort": "5631"
+  },
+  {
+    "city": "Sabakpur",
+    "admin": "West Bengal",
+    "sort": "5050"
+  },
+  {
+    "city": "Piridi",
+    "admin": "Andhra Pradesh",
+    "sort": "5369"
+  },
+  {
+    "city": "Goli",
+    "admin": "Andhra Pradesh",
+    "sort": "5726"
+  },
+  {
+    "city": "Pogiri",
+    "admin": "Andhra Pradesh",
+    "sort": "5113"
+  },
+  {
+    "city": "Indiri",
+    "admin": "Karnātaka",
+    "sort": "5594"
+  },
+  {
+    "city": "Barabāri",
+    "admin": "West Bengal",
+    "sort": "5051"
+  },
+  {
+    "city": "Lingāreddipālem",
+    "admin": "Andhra Pradesh",
+    "sort": "5530"
+  },
+  {
+    "city": "Singareni",
+    "admin": "Telangana",
+    "sort": "5505"
+  },
+  {
+    "city": "Mejia",
+    "admin": "West Bengal",
+    "sort": "5308"
+  },
+  {
+    "city": "Tarlupādu",
+    "admin": "Andhra Pradesh",
+    "sort": "5628"
+  },
+  {
+    "city": "Gopavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "5764"
+  },
+  {
+    "city": "Rāyna",
+    "admin": "West Bengal",
+    "sort": "5157"
+  },
+  {
+    "city": "Tādimarri",
+    "admin": "Andhra Pradesh",
+    "sort": "5738"
+  },
+  {
+    "city": "Kistnapatam",
+    "admin": "Andhra Pradesh",
+    "sort": "5686"
+  },
+  {
+    "city": "Kārepalli",
+    "admin": "Telangana",
+    "sort": "5464"
+  },
+  {
+    "city": "Harirāmpur",
+    "admin": "West Bengal",
+    "sort": "5021"
+  },
+  {
+    "city": "Fatehgarh Panjtur",
+    "admin": "Punjab",
+    "sort": "5162"
+  },
+  {
+    "city": "Pegadpalli",
+    "admin": "Telangana",
+    "sort": "5502"
+  },
+  {
+    "city": "Chinna Pāndrāka",
+    "admin": "Andhra Pradesh",
+    "sort": "5448"
+  },
+  {
+    "city": "Matmāri",
+    "admin": "Karnātaka",
+    "sort": "5434"
+  },
+  {
+    "city": "Lakshmisāgar",
+    "admin": "West Bengal",
+    "sort": "5304"
+  },
+  {
+    "city": "Kundapāk",
+    "admin": "Telangana",
+    "sort": "5607"
+  },
+  {
+    "city": "Kallankurichchi",
+    "admin": "Tamil Nādu",
+    "sort": "5385"
+  },
+  {
+    "city": "Peddāravīdu",
+    "admin": "Andhra Pradesh",
+    "sort": "5547"
+  },
+  {
+    "city": "Punchā",
+    "admin": "West Bengal",
+    "sort": "5404"
+  },
+  {
+    "city": "Gudipūdi",
+    "admin": "Andhra Pradesh",
+    "sort": "5471"
+  },
+  {
+    "city": "Cherlagudipādu",
+    "admin": "Andhra Pradesh",
+    "sort": "5530"
+  },
+  {
+    "city": "Rāmadugu",
+    "admin": "Telangana",
+    "sort": "5121"
+  },
+  {
+    "city": "Gote",
+    "admin": "Karnātaka",
+    "sort": "5357"
+  },
+  {
+    "city": "Vellalacheruvu",
+    "admin": "Andhra Pradesh",
+    "sort": "5485"
+  },
+  {
+    "city": "Komarāda",
+    "admin": "Andhra Pradesh",
+    "sort": "5551"
+  },
+  {
+    "city": "Nūjendla",
+    "admin": "Andhra Pradesh",
+    "sort": "5541"
+  },
+  {
+    "city": "Lansdowne",
+    "admin": "Uttarakhand",
+    "sort": "5667"
+  },
+  {
+    "city": "Dagadarti",
+    "admin": "Andhra Pradesh",
+    "sort": "5524"
+  },
+  {
+    "city": "Bhrigubanda",
+    "admin": "Andhra Pradesh",
+    "sort": "5479"
+  },
+  {
+    "city": "Kumārgrām",
+    "admin": "West Bengal",
+    "sort": "5384"
+  },
+  {
+    "city": "Basudha",
+    "admin": "West Bengal",
+    "sort": "5166"
+  },
+  {
+    "city": "Jukal",
+    "admin": "Telangana",
+    "sort": "5283"
+  },
+  {
+    "city": "Mantāda",
+    "admin": "Andhra Pradesh",
+    "sort": "5268"
+  },
+  {
+    "city": "Nambulapūlikunta",
+    "admin": "Andhra Pradesh",
+    "sort": "5464"
+  },
+  {
+    "city": "Kūnaparājuparva",
+    "admin": "Andhra Pradesh",
+    "sort": "5370"
+  },
+  {
+    "city": "Dandepalii",
+    "admin": "Telangana",
+    "sort": "5147"
+  },
+  {
+    "city": "Dammālapādu",
+    "admin": "Andhra Pradesh",
+    "sort": "5362"
+  },
+  {
+    "city": "Vanamaladinne",
+    "admin": "Andhra Pradesh",
+    "sort": "5297"
+  },
+  {
+    "city": "Kalavakuru",
+    "admin": "Andhra Pradesh",
+    "sort": "5395"
+  },
+  {
+    "city": "Rāmasamudram",
+    "admin": "Karnātaka",
+    "sort": "5340"
+  },
+  {
+    "city": "Vīrannapālem",
+    "admin": "Andhra Pradesh",
+    "sort": "5382"
+  },
+  {
+    "city": "Sītampeta",
+    "admin": "Andhra Pradesh",
+    "sort": "5305"
+  },
+  {
+    "city": "Gudivākalanka",
+    "admin": "Andhra Pradesh",
+    "sort": "5308"
+  },
+  {
+    "city": "Hamidi",
+    "admin": "Punjab",
+    "sort": "5080"
+  },
+  {
+    "city": "Gāzulmandiyam",
+    "admin": "Andhra Pradesh",
+    "sort": "5042"
+  },
+  {
+    "city": "Burda",
+    "admin": "West Bengal",
+    "sort": "5159"
+  },
+  {
+    "city": "Gosāba",
+    "admin": "West Bengal",
+    "sort": "5369"
+  },
+  {
+    "city": "Mustūr",
+    "admin": "Karnātaka",
+    "sort": "5150"
+  },
+  {
+    "city": "Korukonda",
+    "admin": "Odisha",
+    "sort": "5012"
+  },
+  {
+    "city": "Arīpānthan",
+    "admin": "Jammu and Kashmīr",
+    "sort": "5268"
+  },
+  {
+    "city": "Maddikera Agrahāram",
+    "admin": "Andhra Pradesh",
+    "sort": "5152"
+  },
+  {
+    "city": "Kolavennu",
+    "admin": "Andhra Pradesh",
+    "sort": "5076"
+  },
+  {
+    "city": "Chingarali",
+    "admin": "Karnātaka",
+    "sort": "5104"
+  },
+  {
+    "city": "Vegūru",
+    "admin": "Andhra Pradesh",
+    "sort": "5185"
+  },
+  {
+    "city": "Nandavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "5283"
+  },
+  {
+    "city": "Nāgareddipet",
+    "admin": "Telangana",
+    "sort": "5109"
+  },
+  {
+    "city": "Chandragūdem",
+    "admin": "Andhra Pradesh",
+    "sort": "5065"
+  },
+  {
+    "city": "Gorubathān",
+    "admin": "West Bengal",
+    "sort": "5291"
+  },
+  {
+    "city": "Thode",
+    "admin": "West Bengal",
+    "sort": "5290"
+  },
+  {
+    "city": "Rolugunta",
+    "admin": "Andhra Pradesh",
+    "sort": "5052"
+  },
+  {
+    "city": "Velagaleru",
+    "admin": "Andhra Pradesh",
+    "sort": "5057"
+  },
+  {
+    "city": "Sāyipeta",
+    "admin": "Andhra Pradesh",
+    "sort": "5220"
+  },
+  {
+    "city": "Byādanūr",
+    "admin": "Karnātaka",
+    "sort": "5199"
+  },
+  {
+    "city": "Kulumūr",
+    "admin": "Tamil Nādu",
+    "sort": "5052"
+  },
+  {
+    "city": "Talamarla",
+    "admin": "Andhra Pradesh",
+    "sort": "5210"
+  },
+  {
+    "city": "Bandārupalle",
+    "admin": "Andhra Pradesh",
+    "sort": "5063"
+  },
+  {
+    "city": "Māchareddi",
+    "admin": "Telangana",
+    "sort": "5053"
+  },
+  {
+    "city": "Peddapasupula",
+    "admin": "Andhra Pradesh",
+    "sort": "5203"
+  },
+  {
+    "city": "Reddicherla",
+    "admin": "Andhra Pradesh",
+    "sort": "5141"
+  },
+  {
+    "city": "Manyapādu",
+    "admin": "Telangana",
+    "sort": "5013"
+  },
+  {
+    "city": "Samse",
+    "admin": "Karnātaka",
+    "sort": "5064"
+  },
+  {
+    "city": "Virapāpur",
+    "admin": "Karnātaka",
+    "sort": "5002"
+  },
+  {
+    "city": "Kāsipet",
+    "admin": "Telangana",
+    "sort": "5133"
+  },
+  {
+    "city": "Gundrevula",
+    "admin": "Andhra Pradesh",
+    "sort": "5014"
+  },
+  {
+    "city": "Rebna",
+    "admin": "Telangana",
+    "sort": "5088"
+  },
+  {
+    "city": "Atlūru",
+    "admin": "Andhra Pradesh",
+    "sort": "5071"
+  },
+  {
+    "city": "Tirupati",
+    "admin": "Andhra Pradesh",
+    "sort": "3165"
+  },
+  {
+    "city": "Rudravaram",
+    "admin": "Andhra Pradesh",
+    "sort": "8740"
+  },
+  {
+    "city": "Tuggali",
+    "admin": "Andhra Pradesh",
+    "sort": "6847"
+  },
+  {
+    "city": "Mulakalapalle",
+    "admin": "Telangana",
+    "sort": "6679"
+  },
+  {
+    "city": "Somapalle",
+    "admin": "Andhra Pradesh",
+    "sort": "6366"
+  },
+  {
+    "city": "Mallavaram",
+    "admin": "Andhra Pradesh",
+    "sort": "5492"
+  },
+  {
+    "city": "Venkatāpuram",
+    "admin": "Telangana",
+    "sort": "5494"
+  }
+]

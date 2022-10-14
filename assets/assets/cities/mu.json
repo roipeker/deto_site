@@ -1,0 +1,32 @@
+[
+  {
+    "city": "Port Louis",
+    "admin": "Port Louis",
+    "sort": "149194"
+  },
+  {
+    "city": "Curepipe",
+    "admin": "Plaines Wilhems",
+    "sort": "299975"
+  },
+  {
+    "city": "Quartier Militaire",
+    "admin": "Moka",
+    "sort": "22745"
+  },
+  {
+    "city": "Centre de Flacq",
+    "admin": "Flacq",
+    "sort": "15791"
+  },
+  {
+    "city": "Port Mathurin",
+    "admin": "Rodrigues",
+    "sort": "5929"
+  },
+  {
+    "city": "Cap Malheureux",
+    "admin": "Rivière du Rempart",
+    "sort": "5070"
+  }
+]

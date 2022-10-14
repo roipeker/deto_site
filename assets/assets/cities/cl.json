@@ -1,0 +1,857 @@
+[
+  {
+    "city": "Santiago",
+    "admin": "Región Metropolitana",
+    "sort": "7026000"
+  },
+  {
+    "city": "Puente Alto",
+    "admin": "Región Metropolitana",
+    "sort": "573935"
+  },
+  {
+    "city": "Maipú",
+    "admin": "Región Metropolitana",
+    "sort": "521627"
+  },
+  {
+    "city": "La Florida",
+    "admin": "Región Metropolitana",
+    "sort": "366916"
+  },
+  {
+    "city": "Antofagasta",
+    "admin": "Antofagasta",
+    "sort": "348517"
+  },
+  {
+    "city": "Viña del Mar",
+    "admin": "Valparaíso",
+    "sort": "332875"
+  },
+  {
+    "city": "San Bernardo",
+    "admin": "Región Metropolitana",
+    "sort": "301313"
+  },
+  {
+    "city": "Valparaíso",
+    "admin": "Valparaíso",
+    "sort": "296655"
+  },
+  {
+    "city": "Temuco",
+    "admin": "Araucanía",
+    "sort": "282415"
+  },
+  {
+    "city": "Las Condes",
+    "admin": "Región Metropolitana",
+    "sort": "249893"
+  },
+  {
+    "city": "Rancagua",
+    "admin": "Libertador General Bernardo O’Higgins",
+    "sort": "231370"
+  },
+  {
+    "city": "Concepción",
+    "admin": "Biobío",
+    "sort": "217537"
+  },
+  {
+    "city": "Talca",
+    "admin": "Maule",
+    "sort": "206069"
+  },
+  {
+    "city": "Coquimbo",
+    "admin": "Coquimbo",
+    "sort": "204068"
+  },
+  {
+    "city": "Arica",
+    "admin": "Arica y Parinacota",
+    "sort": "202131"
+  },
+  {
+    "city": "La Serena",
+    "admin": "Coquimbo",
+    "sort": "195382"
+  },
+  {
+    "city": "Iquique",
+    "admin": "Tarapacá",
+    "sort": "188003"
+  },
+  {
+    "city": "Puerto Montt",
+    "admin": "Los Lagos",
+    "sort": "169736"
+  },
+  {
+    "city": "Chillán",
+    "admin": "Ñuble",
+    "sort": "164270"
+  },
+  {
+    "city": "Calama",
+    "admin": "Antofagasta",
+    "sort": "157575"
+  },
+  {
+    "city": "Talcahuano",
+    "admin": "Biobío",
+    "sort": "147831"
+  },
+  {
+    "city": "Copiapó",
+    "admin": "Atacama",
+    "sort": "150804"
+  },
+  {
+    "city": "Valdivia",
+    "admin": "Los Ríos",
+    "sort": "150048"
+  },
+  {
+    "city": "Quilpué",
+    "admin": "Valparaíso",
+    "sort": "147991"
+  },
+  {
+    "city": "Osorno",
+    "admin": "Los Lagos",
+    "sort": "147460"
+  },
+  {
+    "city": "Colina",
+    "admin": "Región Metropolitana",
+    "sort": "146207"
+  },
+  {
+    "city": "Los Ángeles",
+    "admin": "Biobío",
+    "sort": "143023"
+  },
+  {
+    "city": "Curicó",
+    "admin": "Maule",
+    "sort": "136954"
+  },
+  {
+    "city": "Villa Alemana",
+    "admin": "Valparaíso",
+    "sort": "125140"
+  },
+  {
+    "city": "La Granja",
+    "admin": "Región Metropolitana",
+    "sort": "116571"
+  },
+  {
+    "city": "Melipilla",
+    "admin": "Región Metropolitana",
+    "sort": "123627"
+  },
+  {
+    "city": "Punta Arenas",
+    "admin": "Magallanes y de la Antártica Chilena",
+    "sort": "123403"
+  },
+  {
+    "city": "Coronel",
+    "admin": "Biobío",
+    "sort": "116262"
+  },
+  {
+    "city": "Espejo",
+    "admin": "Región Metropolitana",
+    "sort": "98804"
+  },
+  {
+    "city": "Alto Hospicio",
+    "admin": "Tarapacá",
+    "sort": "108375"
+  },
+  {
+    "city": "Lo Barnechea",
+    "admin": "Región Metropolitana",
+    "sort": "105833"
+  },
+  {
+    "city": "San Joaquín",
+    "admin": "Región Metropolitana",
+    "sort": "94492"
+  },
+  {
+    "city": "La Reina",
+    "admin": "Región Metropolitana",
+    "sort": "92787"
+  },
+  {
+    "city": "Coyhaique",
+    "admin": "Aysén",
+    "sort": "61210"
+  },
+  {
+    "city": "Placilla de Peñuelas",
+    "admin": "Valparaíso",
+    "sort": "39344"
+  },
+  {
+    "city": "Buin",
+    "admin": "Región Metropolitana",
+    "sort": "96614"
+  },
+  {
+    "city": "Peñaflor",
+    "admin": "Región Metropolitana",
+    "sort": "90201"
+  },
+  {
+    "city": "Chiguayante",
+    "admin": "Biobío",
+    "sort": "85863"
+  },
+  {
+    "city": "San Antonio",
+    "admin": "Valparaíso",
+    "sort": "86239"
+  },
+  {
+    "city": "Ovalle",
+    "admin": "Coquimbo",
+    "sort": "75864"
+  },
+  {
+    "city": "Linares",
+    "admin": "Maule",
+    "sort": "73602"
+  },
+  {
+    "city": "Quillota",
+    "admin": "Valparaíso",
+    "sort": "73261"
+  },
+  {
+    "city": "San Felipe",
+    "admin": "Valparaíso",
+    "sort": "64120"
+  },
+  {
+    "city": "Los Andes",
+    "admin": "Valparaíso",
+    "sort": "59388"
+  },
+  {
+    "city": "San Fernando",
+    "admin": "Libertador General Bernardo O’Higgins",
+    "sort": "58367"
+  },
+  {
+    "city": "Talagante",
+    "admin": "Región Metropolitana",
+    "sort": "56990"
+  },
+  {
+    "city": "Villarrica",
+    "admin": "Araucanía",
+    "sort": "55478"
+  },
+  {
+    "city": "La Calera",
+    "admin": "Valparaíso",
+    "sort": "50554"
+  },
+  {
+    "city": "Angol",
+    "admin": "Araucanía",
+    "sort": "48608"
+  },
+  {
+    "city": "Penco",
+    "admin": "Biobío",
+    "sort": "47367"
+  },
+  {
+    "city": "Vallenar",
+    "admin": "Atacama",
+    "sort": "45298"
+  },
+  {
+    "city": "Lota",
+    "admin": "Biobío",
+    "sort": "43272"
+  },
+  {
+    "city": "San Clemente",
+    "admin": "Maule",
+    "sort": "43269"
+  },
+  {
+    "city": "Alerce",
+    "admin": "Los Lagos",
+    "sort": "42267"
+  },
+  {
+    "city": "Tomé",
+    "admin": "Biobío",
+    "sort": "42312"
+  },
+  {
+    "city": "Parral",
+    "admin": "Maule",
+    "sort": "39404"
+  },
+  {
+    "city": "Ancud",
+    "admin": "Los Lagos",
+    "sort": "38991"
+  },
+  {
+    "city": "Constitución",
+    "admin": "Maule",
+    "sort": "37917"
+  },
+  {
+    "city": "Lampa",
+    "admin": "Región Metropolitana",
+    "sort": "37599"
+  },
+  {
+    "city": "Isla de Maipo",
+    "admin": "Región Metropolitana",
+    "sort": "36219"
+  },
+  {
+    "city": "Victoria",
+    "admin": "Araucanía",
+    "sort": "34890"
+  },
+  {
+    "city": "Cañete",
+    "admin": "Biobío",
+    "sort": "34537"
+  },
+  {
+    "city": "Castro",
+    "admin": "Los Lagos",
+    "sort": "33417"
+  },
+  {
+    "city": "Concón",
+    "admin": "Valparaíso",
+    "sort": "32273"
+  },
+  {
+    "city": "Curanilahue",
+    "admin": "Biobío",
+    "sort": "32288"
+  },
+  {
+    "city": "Quintero",
+    "admin": "Valparaíso",
+    "sort": "31923"
+  },
+  {
+    "city": "Nueva Imperial",
+    "admin": "Araucanía",
+    "sort": "31632"
+  },
+  {
+    "city": "Cauquenes",
+    "admin": "Maule",
+    "sort": "31362"
+  },
+  {
+    "city": "San Javier",
+    "admin": "Maule",
+    "sort": "29017"
+  },
+  {
+    "city": "Pucón",
+    "admin": "Araucanía",
+    "sort": "28923"
+  },
+  {
+    "city": "Chillán Viejo",
+    "admin": "Ñuble",
+    "sort": "27359"
+  },
+  {
+    "city": "La Unión",
+    "admin": "Los Ríos",
+    "sort": "26517"
+  },
+  {
+    "city": "Puerto Varas",
+    "admin": "Los Lagos",
+    "sort": "26172"
+  },
+  {
+    "city": "Carahue",
+    "admin": "Araucanía",
+    "sort": "25696"
+  },
+  {
+    "city": "Salamanca",
+    "admin": "Coquimbo",
+    "sort": "25326"
+  },
+  {
+    "city": "Las Cabras",
+    "admin": "Libertador General Bernardo O’Higgins",
+    "sort": "24640"
+  },
+  {
+    "city": "Tocopilla",
+    "admin": "Antofagasta",
+    "sort": "24460"
+  },
+  {
+    "city": "Cartagena",
+    "admin": "Valparaíso",
+    "sort": "22738"
+  },
+  {
+    "city": "Lebu",
+    "admin": "Biobío",
+    "sort": "22345"
+  },
+  {
+    "city": "La Cruz",
+    "admin": "Valparaíso",
+    "sort": "22098"
+  },
+  {
+    "city": "Casablanca",
+    "admin": "Región Metropolitana",
+    "sort": "21874"
+  },
+  {
+    "city": "Puerto Natales",
+    "admin": "Magallanes y de la Antártica Chilena",
+    "sort": "21477"
+  },
+  {
+    "city": "Los Vilos",
+    "admin": "Coquimbo",
+    "sort": "21382"
+  },
+  {
+    "city": "Hualqui",
+    "admin": "Biobío",
+    "sort": "20968"
+  },
+  {
+    "city": "Purranque",
+    "admin": "Los Lagos",
+    "sort": "20949"
+  },
+  {
+    "city": "Illapel",
+    "admin": "Coquimbo",
+    "sort": "20751"
+  },
+  {
+    "city": "Bulnes",
+    "admin": "Ñuble",
+    "sort": "20595"
+  },
+  {
+    "city": "Pichidegua",
+    "admin": "Libertador General Bernardo O’Higgins",
+    "sort": "19714"
+  },
+  {
+    "city": "Cabildo",
+    "admin": "Valparaíso",
+    "sort": "19388"
+  },
+  {
+    "city": "La Ligua",
+    "admin": "Valparaíso",
+    "sort": "19127"
+  },
+  {
+    "city": "Hijuelas",
+    "admin": "Valparaíso",
+    "sort": "17988"
+  },
+  {
+    "city": "Arauco",
+    "admin": "Biobío",
+    "sort": "17597"
+  },
+  {
+    "city": "Puerto Aysén",
+    "admin": "Aysén",
+    "sort": "17441"
+  },
+  {
+    "city": "Batuco",
+    "admin": "Región Metropolitana",
+    "sort": "16784"
+  },
+  {
+    "city": "Río Bueno",
+    "admin": "Los Ríos",
+    "sort": "16909"
+  },
+  {
+    "city": "Curacautín",
+    "admin": "Araucanía",
+    "sort": "16418"
+  },
+  {
+    "city": "Collipulli",
+    "admin": "Araucanía",
+    "sort": "16392"
+  },
+  {
+    "city": "Calbuco",
+    "admin": "Los Lagos",
+    "sort": "15903"
+  },
+  {
+    "city": "Loncoche",
+    "admin": "Araucanía",
+    "sort": "15590"
+  },
+  {
+    "city": "Chépica",
+    "admin": "Libertador General Bernardo O’Higgins",
+    "sort": "15037"
+  },
+  {
+    "city": "Peumo",
+    "admin": "Libertador General Bernardo O’Higgins",
+    "sort": "14313"
+  },
+  {
+    "city": "Diego de Almagro",
+    "admin": "Atacama",
+    "sort": "13925"
+  },
+  {
+    "city": "Futrono",
+    "admin": "Los Ríos",
+    "sort": "13736"
+  },
+  {
+    "city": "Chañaral",
+    "admin": "Atacama",
+    "sort": "13543"
+  },
+  {
+    "city": "Vicuña",
+    "admin": "Coquimbo",
+    "sort": "13496"
+  },
+  {
+    "city": "El Tabo",
+    "admin": "Valparaíso",
+    "sort": "13286"
+  },
+  {
+    "city": "San José de Maipo",
+    "admin": "Región Metropolitana",
+    "sort": "13376"
+  },
+  {
+    "city": "Frutillar",
+    "admin": "Los Lagos",
+    "sort": "12876"
+  },
+  {
+    "city": "Purén",
+    "admin": "Araucanía",
+    "sort": "12868"
+  },
+  {
+    "city": "Tierra Amarilla",
+    "admin": "Atacama",
+    "sort": "12888"
+  },
+  {
+    "city": "Los Lagos",
+    "admin": "Los Ríos",
+    "sort": "12813"
+  },
+  {
+    "city": "Pichilemu",
+    "admin": "Libertador General Bernardo O’Higgins",
+    "sort": "12776"
+  },
+  {
+    "city": "San Francisco de Mostazal",
+    "admin": "Libertador General Bernardo O’Higgins",
+    "sort": "12719"
+  },
+  {
+    "city": "Galvarino",
+    "admin": "Araucanía",
+    "sort": "11996"
+  },
+  {
+    "city": "Palmilla",
+    "admin": "Libertador General Bernardo O’Higgins",
+    "sort": "11844"
+  },
+  {
+    "city": "Chicureo Abajo",
+    "admin": "Región Metropolitana",
+    "sort": "10975"
+  },
+  {
+    "city": "Panguipulli",
+    "admin": "Araucanía",
+    "sort": "11091"
+  },
+  {
+    "city": "Andacollo",
+    "admin": "Coquimbo",
+    "sort": "11044"
+  },
+  {
+    "city": "Punitaqui",
+    "admin": "Coquimbo",
+    "sort": "10956"
+  },
+  {
+    "city": "Yungay",
+    "admin": "Ñuble",
+    "sort": "10884"
+  },
+  {
+    "city": "Pinto",
+    "admin": "Ñuble",
+    "sort": "10595"
+  },
+  {
+    "city": "María Pinto",
+    "admin": "Región Metropolitana",
+    "sort": "10343"
+  },
+  {
+    "city": "Caldera",
+    "admin": "Atacama",
+    "sort": "10259"
+  },
+  {
+    "city": "Lonquimay",
+    "admin": "Araucanía",
+    "sort": "10251"
+  },
+  {
+    "city": "Taltal",
+    "admin": "Antofagasta",
+    "sort": "10018"
+  },
+  {
+    "city": "Lago Ranco",
+    "admin": "Los Ríos",
+    "sort": "9896"
+  },
+  {
+    "city": "San Pedro",
+    "admin": "Región Metropolitana",
+    "sort": "9726"
+  },
+  {
+    "city": "Lo Miranda",
+    "admin": "Libertador General Bernardo O’Higgins",
+    "sort": "9000"
+  },
+  {
+    "city": "Pozo Almonte",
+    "admin": "Tarapacá",
+    "sort": "9277"
+  },
+  {
+    "city": "Puerto Octay",
+    "admin": "Los Lagos",
+    "sort": "8999"
+  },
+  {
+    "city": "Lanco",
+    "admin": "Araucanía",
+    "sort": "8521"
+  },
+  {
+    "city": "Ventanas",
+    "admin": "Valparaíso",
+    "sort": "8314"
+  },
+  {
+    "city": "Quinchao",
+    "admin": "Los Lagos",
+    "sort": "8088"
+  },
+  {
+    "city": "Curarrehue",
+    "admin": "Araucanía",
+    "sort": "7489"
+  },
+  {
+    "city": "Fresia",
+    "admin": "Los Lagos",
+    "sort": "7328"
+  },
+  {
+    "city": "Pelluhue",
+    "admin": "Maule",
+    "sort": "7202"
+  },
+  {
+    "city": "Hanga Roa",
+    "admin": "Valparaíso",
+    "sort": "7163"
+  },
+  {
+    "city": "Dalcahue",
+    "admin": "Los Lagos",
+    "sort": "7120"
+  },
+  {
+    "city": "Monte Águila",
+    "admin": "Biobío",
+    "sort": "6574"
+  },
+  {
+    "city": "Quirihue",
+    "admin": "Ñuble",
+    "sort": "6529"
+  },
+  {
+    "city": "Oficina María Elena",
+    "admin": "Antofagasta",
+    "sort": "6457"
+  },
+  {
+    "city": "Papudo",
+    "admin": "Valparaíso",
+    "sort": "6356"
+  },
+  {
+    "city": "Porvenir",
+    "admin": "Magallanes y de la Antártica Chilena",
+    "sort": "5992"
+  },
+  {
+    "city": "Chonchi",
+    "admin": "Los Lagos",
+    "sort": "5632"
+  },
+  {
+    "city": "Contulmo",
+    "admin": "Biobío",
+    "sort": "5581"
+  },
+  {
+    "city": "San Pedro de Atacama",
+    "admin": "Antofagasta",
+    "sort": "5347"
+  },
+  {
+    "city": "Puchuncaví",
+    "admin": "Valparaíso",
+    "sort": "5271"
+  },
+  {
+    "city": "Alto del Carmen",
+    "admin": "Atacama",
+    "sort": "5299"
+  },
+  {
+    "city": "Combarbalá",
+    "admin": "Coquimbo",
+    "sort": "5134"
+  },
+  {
+    "city": "Laraquete",
+    "admin": "Biobío",
+    "sort": "5014"
+  },
+  {
+    "city": "Chaitén",
+    "admin": "Los Lagos",
+    "sort": "5071"
+  },
+  {
+    "city": "Santa Bárbara",
+    "admin": "Biobío",
+    "sort": "3494"
+  },
+  {
+    "city": "Cochrane",
+    "admin": "Aysén",
+    "sort": "2789"
+  },
+  {
+    "city": "Huasco",
+    "admin": "Atacama",
+    "sort": "2558"
+  },
+  {
+    "city": "Mejillones",
+    "admin": "Antofagasta",
+    "sort": "2041"
+  },
+  {
+    "city": "Puerto Williams",
+    "admin": "Magallanes y de la Antártica Chilena",
+    "sort": "1646"
+  },
+  {
+    "city": "La Punta",
+    "admin": "Libertador General Bernardo O’Higgins",
+    "sort": "6990"
+  },
+  {
+    "city": "Quellón",
+    "admin": "Los Lagos",
+    "sort": "7029"
+  },
+  {
+    "city": "El Palqui",
+    "admin": "Coquimbo",
+    "sort": "6175"
+  },
+  {
+    "city": "Toltén",
+    "admin": "Araucanía",
+    "sort": "2293"
+  },
+  {
+    "city": "Toconao",
+    "admin": "Antofagasta",
+    "sort": "378"
+  },
+  {
+    "city": "Balsadero Río Verde",
+    "admin": "Magallanes y de la Antártica Chilena",
+    "sort": "358"
+  },
+  {
+    "city": "Villa O’Higgins",
+    "admin": "Aysén",
+    "sort": "250"
+  },
+  {
+    "city": "Cuya",
+    "admin": "Tarapacá",
+    "sort": "20"
+  },
+  {
+    "city": "Chuquicamata",
+    "admin": "Antofagasta",
+    "sort": "0"
+  },
+  {
+    "city": "Lagunas",
+    "admin": "Tarapacá",
+    "sort": "10"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "city": "Beirut",
+    "admin": "Beyrouth",
+    "sort": "361366"
+  },
+  {
+    "city": "Tripoli",
+    "admin": "Liban-Nord",
+    "sort": "530000"
+  },
+  {
+    "city": "Sidon",
+    "admin": "Liban-Sud",
+    "sort": "200000"
+  },
+  {
+    "city": "Tyre",
+    "admin": "Liban-Sud",
+    "sort": "160000"
+  },
+  {
+    "city": "Zahlé",
+    "admin": "Béqaa",
+    "sort": "100000"
+  },
+  {
+    "city": "Joünié",
+    "admin": "Mont-Liban",
+    "sort": "102221"
+  },
+  {
+    "city": "Nabatîyé",
+    "admin": "Nabatîyé",
+    "sort": "80000"
+  },
+  {
+    "city": "Baalbek",
+    "admin": "Baalbek-Hermel",
+    "sort": "24000"
+  },
+  {
+    "city": "Baabda",
+    "admin": "Mont-Liban",
+    "sort": "9000"
+  },
+  {
+    "city": "Halba",
+    "admin": "Aakkâr",
+    "sort": ""
+  },
+  {
+    "city": "El Qâa",
+    "admin": "Baalbek-Hermel",
+    "sort": "12000"
+  },
+  {
+    "city": "Amioûn",
+    "admin": "Liban-Nord",
+    "sort": "10000"
+  }
+]

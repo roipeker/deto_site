@@ -1,0 +1,72 @@
+[
+  {
+    "city": "Malabo",
+    "admin": "Bioko Norte",
+    "sort": "187302"
+  },
+  {
+    "city": "Bata",
+    "admin": "Litoral",
+    "sort": "250770"
+  },
+  {
+    "city": "Ebebiyín",
+    "admin": "Kié-Ntem",
+    "sort": "36565"
+  },
+  {
+    "city": "Evinayong",
+    "admin": "Centro Sur",
+    "sort": "9155"
+  },
+  {
+    "city": "Luba",
+    "admin": "Bioko Sur",
+    "sort": "7739"
+  },
+  {
+    "city": "Mongomo",
+    "admin": "Wele-Nzas",
+    "sort": "7251"
+  },
+  {
+    "city": "Palé",
+    "admin": "Annobón",
+    "sort": "5008"
+  },
+  {
+    "city": "Djibloho",
+    "admin": "Centro Sur",
+    "sort": ""
+  },
+  {
+    "city": "Añisoc",
+    "admin": "Wele-Nzas",
+    "sort": "16626"
+  },
+  {
+    "city": "Bengonbeyene",
+    "admin": "Wele-Nzas",
+    "sort": "15644"
+  },
+  {
+    "city": "Aconibe",
+    "admin": "Wele-Nzas",
+    "sort": "13382"
+  },
+  {
+    "city": "Rebola",
+    "admin": "Bioko Norte",
+    "sort": "10000"
+  },
+  {
+    "city": "Mikomeseng",
+    "admin": "Kié-Ntem",
+    "sort": "5813"
+  },
+  {
+    "city": "Calatrava",
+    "admin": "Litoral",
+    "sort": "628"
+  }
+]

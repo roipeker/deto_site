@@ -1,0 +1,217 @@
+[
+  {
+    "city": "Kathmandu",
+    "admin": "Bāgmatī",
+    "sort": "975453"
+  },
+  {
+    "city": "Pokhara",
+    "admin": "Gandakī",
+    "sort": "353841"
+  },
+  {
+    "city": "Jitpur",
+    "admin": "Bāgmatī",
+    "sort": "337785"
+  },
+  {
+    "city": "Birāṭnagar",
+    "admin": "Kosī",
+    "sort": "242548"
+  },
+  {
+    "city": "Ghorāhī",
+    "admin": "Rāptī",
+    "sort": "156164"
+  },
+  {
+    "city": "Bharatpur",
+    "admin": "Nārāyanī",
+    "sort": "143836"
+  },
+  {
+    "city": "Birgañj",
+    "admin": "Nārāyanī",
+    "sort": "135904"
+  },
+  {
+    "city": "Butwāl",
+    "admin": "Lumbinī",
+    "sort": "118462"
+  },
+  {
+    "city": "Dharān",
+    "admin": "Kosī",
+    "sort": "116181"
+  },
+  {
+    "city": "Dhangaḍhi̇̄",
+    "admin": "Setī",
+    "sort": "101970"
+  },
+  {
+    "city": "Janakpur",
+    "admin": "Janakpur",
+    "sort": "97776"
+  },
+  {
+    "city": "Heṭauḍā",
+    "admin": "Nārāyanī",
+    "sort": "84671"
+  },
+  {
+    "city": "Kirtipur",
+    "admin": "Bāgmatī",
+    "sort": "65602"
+  },
+  {
+    "city": "Godāwari̇̄",
+    "admin": "Setī",
+    "sort": "78018"
+  },
+  {
+    "city": "Birendranagar",
+    "admin": "Bherī",
+    "sort": "47914"
+  },
+  {
+    "city": "Siraha",
+    "admin": "Sagarmāthā",
+    "sort": "28442"
+  },
+  {
+    "city": "Bhaktapur",
+    "admin": "Bāgmatī",
+    "sort": "81748"
+  },
+  {
+    "city": "Īṭahari̇̄",
+    "admin": "Kosī",
+    "sort": "74501"
+  },
+  {
+    "city": "Nepālgañj",
+    "admin": "Bherī",
+    "sort": "72503"
+  },
+  {
+    "city": "Bhairāhawā",
+    "admin": "Lumbinī",
+    "sort": "63483"
+  },
+  {
+    "city": "Tilakpur",
+    "admin": "Setī",
+    "sort": "56127"
+  },
+  {
+    "city": "Gulariyā",
+    "admin": "Bherī",
+    "sort": "55747"
+  },
+  {
+    "city": "Tulsīpur",
+    "admin": "Rāptī",
+    "sort": "51537"
+  },
+  {
+    "city": "Kalaiyā",
+    "admin": "Nārāyanī",
+    "sort": "42826"
+  },
+  {
+    "city": "Hanumānnagar",
+    "admin": "Sagarmāthā",
+    "sort": "37738"
+  },
+  {
+    "city": "Bāglung",
+    "admin": "Dhawalāgiri",
+    "sort": "29360"
+  },
+  {
+    "city": "Pālpā",
+    "admin": "Lumbinī",
+    "sort": "29095"
+  },
+  {
+    "city": "Bidur",
+    "admin": "Bāgmatī",
+    "sort": "26750"
+  },
+  {
+    "city": "Panauti",
+    "admin": "Bāgmatī",
+    "sort": "27358"
+  },
+  {
+    "city": "Khā̃dbāri̇̄",
+    "admin": "Kosī",
+    "sort": "26301"
+  },
+  {
+    "city": "Malaṅgawā",
+    "admin": "Janakpur",
+    "sort": "25102"
+  },
+  {
+    "city": "Jaleshwar",
+    "admin": "Janakpur",
+    "sort": "23533"
+  },
+  {
+    "city": "Dakṣiṇkāli̇̄",
+    "admin": "Bāgmatī",
+    "sort": "24297"
+  },
+  {
+    "city": "Dadeldhurā",
+    "admin": "Mahākālī",
+    "sort": "19014"
+  },
+  {
+    "city": "Īlām",
+    "admin": "Mechī",
+    "sort": "17491"
+  },
+  {
+    "city": "Salyan",
+    "admin": "Rāptī",
+    "sort": "15000"
+  },
+  {
+    "city": "Bhimphedi",
+    "admin": "Nārāyanī",
+    "sort": "15000"
+  },
+  {
+    "city": "Rāmechhāp",
+    "admin": "Janakpur",
+    "sort": "15000"
+  },
+  {
+    "city": "Bandipur",
+    "admin": "Gandakī",
+    "sort": "12450"
+  },
+  {
+    "city": "Kisanpur",
+    "admin": "Janakpur",
+    "sort": "5506"
+  },
+  {
+    "city": "Chainpur",
+    "admin": "Setī",
+    "sort": "6642"
+  },
+  {
+    "city": "Manakāmanā",
+    "admin": "Gandakī",
+    "sort": "6203"
+  },
+  {
+    "city": "Jumlā",
+    "admin": "Karnālī",
+    "sort": "9073"
+  }
+]

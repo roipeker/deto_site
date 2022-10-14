@@ -1,0 +1,392 @@
+[
+  {
+    "city": "Guayaquil",
+    "admin": "Guayas",
+    "sort": "2723665"
+  },
+  {
+    "city": "Quito",
+    "admin": "Pichincha",
+    "sort": "2011388"
+  },
+  {
+    "city": "Cuenca",
+    "admin": "Azuay",
+    "sort": "329928"
+  },
+  {
+    "city": "Santo Domingo de los Colorados",
+    "admin": "Santo Domingo de los Tsáchilas",
+    "sort": "270875"
+  },
+  {
+    "city": "Machala",
+    "admin": "El Oro",
+    "sort": "231260"
+  },
+  {
+    "city": "Eloy Alfaro",
+    "admin": "Guayas",
+    "sort": "230839"
+  },
+  {
+    "city": "Manta",
+    "admin": "Manabí",
+    "sort": "217553"
+  },
+  {
+    "city": "Portoviejo",
+    "admin": "Manabí",
+    "sort": "206682"
+  },
+  {
+    "city": "Loja",
+    "admin": "Loja",
+    "sort": "170280"
+  },
+  {
+    "city": "Ambato",
+    "admin": "Tungurahua",
+    "sort": "165185"
+  },
+  {
+    "city": "Esmeraldas",
+    "admin": "Esmeraldas",
+    "sort": "154035"
+  },
+  {
+    "city": "Quevedo",
+    "admin": "Los Ríos",
+    "sort": "150827"
+  },
+  {
+    "city": "Riobamba",
+    "admin": "Chimborazo",
+    "sort": "146324"
+  },
+  {
+    "city": "Milagro",
+    "admin": "Guayas",
+    "sort": "133508"
+  },
+  {
+    "city": "Ibarra",
+    "admin": "Imbabura",
+    "sort": "131856"
+  },
+  {
+    "city": "Babahoyo",
+    "admin": "Los Ríos",
+    "sort": "90191"
+  },
+  {
+    "city": "Latacunga",
+    "admin": "Cotopaxi",
+    "sort": "63842"
+  },
+  {
+    "city": "Tulcán",
+    "admin": "Carchi",
+    "sort": "53558"
+  },
+  {
+    "city": "Nueva Loja",
+    "admin": "Sucumbíos",
+    "sort": "48562"
+  },
+  {
+    "city": "Puerto Francisco de Orellana",
+    "admin": "Orellana",
+    "sort": "40730"
+  },
+  {
+    "city": "Santa Elena",
+    "admin": "Santa Elena",
+    "sort": "39681"
+  },
+  {
+    "city": "Azogues",
+    "admin": "Cañar",
+    "sort": "33848"
+  },
+  {
+    "city": "Puyo",
+    "admin": "Pastaza",
+    "sort": "24881"
+  },
+  {
+    "city": "Guaranda",
+    "admin": "Bolívar",
+    "sort": "23874"
+  },
+  {
+    "city": "Tena",
+    "admin": "Napo",
+    "sort": "23307"
+  },
+  {
+    "city": "Macas",
+    "admin": "Morona-Santiago",
+    "sort": "18984"
+  },
+  {
+    "city": "Puerto Ayora",
+    "admin": "Galápagos",
+    "sort": "10999"
+  },
+  {
+    "city": "Zamora",
+    "admin": "Zamora-Chinchipe",
+    "sort": "12386"
+  },
+  {
+    "city": "Puerto Baquerizo Moreno",
+    "admin": "Galápagos",
+    "sort": "6140"
+  },
+  {
+    "city": "Sangolquí",
+    "admin": "Pichincha",
+    "sort": "75080"
+  },
+  {
+    "city": "Pelileo",
+    "admin": "Tungurahua",
+    "sort": "66836"
+  },
+  {
+    "city": "Daule",
+    "admin": "Guayas",
+    "sort": "65145"
+  },
+  {
+    "city": "Pasaje",
+    "admin": "El Oro",
+    "sort": "52673"
+  },
+  {
+    "city": "Chone",
+    "admin": "Manabí",
+    "sort": "52810"
+  },
+  {
+    "city": "Santa Rosa",
+    "admin": "El Oro",
+    "sort": "48929"
+  },
+  {
+    "city": "Huaquillas",
+    "admin": "El Oro",
+    "sort": "47706"
+  },
+  {
+    "city": "Montecristi",
+    "admin": "Manabí",
+    "sort": "46312"
+  },
+  {
+    "city": "Samborondón",
+    "admin": "Guayas",
+    "sort": "42637"
+  },
+  {
+    "city": "Jipijapa",
+    "admin": "Manabí",
+    "sort": "40232"
+  },
+  {
+    "city": "Otavalo",
+    "admin": "Imbabura",
+    "sort": "39354"
+  },
+  {
+    "city": "Cayambe",
+    "admin": "Pichincha",
+    "sort": "39028"
+  },
+  {
+    "city": "Ventanas",
+    "admin": "Los Ríos",
+    "sort": "38168"
+  },
+  {
+    "city": "San Jacinto de Buena Fe",
+    "admin": "Los Ríos",
+    "sort": "38263"
+  },
+  {
+    "city": "Velasco Ibarra",
+    "admin": "Guayas",
+    "sort": "35686"
+  },
+  {
+    "city": "Salinas",
+    "admin": "Guayas",
+    "sort": "34719"
+  },
+  {
+    "city": "La Troncal",
+    "admin": "Cañar",
+    "sort": "35259"
+  },
+  {
+    "city": "Playas",
+    "admin": "Guayas",
+    "sort": "34409"
+  },
+  {
+    "city": "Vinces",
+    "admin": "Los Ríos",
+    "sort": "30241"
+  },
+  {
+    "city": "La Concordia",
+    "admin": "Esmeraldas",
+    "sort": "29003"
+  },
+  {
+    "city": "Rosa Zarate",
+    "admin": "Esmeraldas",
+    "sort": "28928"
+  },
+  {
+    "city": "Balzar",
+    "admin": "Guayas",
+    "sort": "28794"
+  },
+  {
+    "city": "Naranjito",
+    "admin": "Guayas",
+    "sort": "28546"
+  },
+  {
+    "city": "Naranjal",
+    "admin": "Guayas",
+    "sort": "28487"
+  },
+  {
+    "city": "La Maná",
+    "admin": "Cotopaxi",
+    "sort": "23775"
+  },
+  {
+    "city": "San Lorenzo de Esmeraldas",
+    "admin": "Esmeraldas",
+    "sort": "23265"
+  },
+  {
+    "city": "Catamayo",
+    "admin": "Loja",
+    "sort": "22697"
+  },
+  {
+    "city": "Atuntaqui",
+    "admin": "Imbabura",
+    "sort": "21286"
+  },
+  {
+    "city": "Bahía de Caráquez",
+    "admin": "Manabí",
+    "sort": "20921"
+  },
+  {
+    "city": "Puerto Quito",
+    "admin": "Pichincha",
+    "sort": "20445"
+  },
+  {
+    "city": "Pedro Carbo",
+    "admin": "Guayas",
+    "sort": "20220"
+  },
+  {
+    "city": "Yaguachi Nuevo",
+    "admin": "Guayas",
+    "sort": "17806"
+  },
+  {
+    "city": "Piñas",
+    "admin": "El Oro",
+    "sort": "16981"
+  },
+  {
+    "city": "Valencia",
+    "admin": "Los Ríos",
+    "sort": "16983"
+  },
+  {
+    "city": "San Gabriel",
+    "admin": "Carchi",
+    "sort": "16066"
+  },
+  {
+    "city": "Alausí",
+    "admin": "Chimborazo",
+    "sort": "14294"
+  },
+  {
+    "city": "Lomas de Sargentillo",
+    "admin": "Guayas",
+    "sort": "13775"
+  },
+  {
+    "city": "Muisne",
+    "admin": "Esmeraldas",
+    "sort": "13393"
+  },
+  {
+    "city": "Baños",
+    "admin": "Tungurahua",
+    "sort": "12995"
+  },
+  {
+    "city": "Macará",
+    "admin": "Loja",
+    "sort": "13035"
+  },
+  {
+    "city": "San Miguel de Salcedo",
+    "admin": "Cotopaxi",
+    "sort": "12488"
+  },
+  {
+    "city": "Valdez",
+    "admin": "Esmeraldas",
+    "sort": "11441"
+  },
+  {
+    "city": "Santa Cruz",
+    "admin": "Galápagos",
+    "sort": "11262"
+  },
+  {
+    "city": "Tosagua",
+    "admin": "Manabí",
+    "sort": "10751"
+  },
+  {
+    "city": "Píllaro",
+    "admin": "Tungurahua",
+    "sort": "7444"
+  },
+  {
+    "city": "Pedro Vicente Maldonado",
+    "admin": "Pichincha",
+    "sort": "5561"
+  },
+  {
+    "city": "Archidona",
+    "admin": "Napo",
+    "sort": "5478"
+  },
+  {
+    "city": "Puerto Villamil",
+    "admin": "Galápagos",
+    "sort": "2200"
+  },
+  {
+    "city": "Yaupi",
+    "admin": "Morona-Santiago",
+    "sort": "293"
+  }
+]

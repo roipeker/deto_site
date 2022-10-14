@@ -1,0 +1,147 @@
+[
+  {
+    "city": "Mogadishu",
+    "admin": "Banaadir",
+    "sort": "2120000"
+  },
+  {
+    "city": "Marka",
+    "admin": "Shabeellaha Hoose",
+    "sort": "230100"
+  },
+  {
+    "city": "Jamaame",
+    "admin": "Jubbada Hoose",
+    "sort": "185270"
+  },
+  {
+    "city": "Kismaayo",
+    "admin": "Jubbada Hoose",
+    "sort": "166667"
+  },
+  {
+    "city": "Baidoa",
+    "admin": "Bay",
+    "sort": "129839"
+  },
+  {
+    "city": "Jawhar",
+    "admin": "Shabeellaha Dhexe",
+    "sort": "111308"
+  },
+  {
+    "city": "Beledweyne",
+    "admin": "Hiiraan",
+    "sort": "62945"
+  },
+  {
+    "city": "Gaalkacyo",
+    "admin": "Mudug",
+    "sort": "61200"
+  },
+  {
+    "city": "Boosaaso",
+    "admin": "Bari",
+    "sort": "46969"
+  },
+  {
+    "city": "Garbahaarrey",
+    "admin": "Gedo",
+    "sort": "43000"
+  },
+  {
+    "city": "Garoowe",
+    "admin": "Nugaal",
+    "sort": "2568"
+  },
+  {
+    "city": "Xuddur",
+    "admin": "Bakool",
+    "sort": "1639"
+  },
+  {
+    "city": "Bu’aale",
+    "admin": "Jubbada Dhexe",
+    "sort": "1490"
+  },
+  {
+    "city": "Dhuusamarreeb",
+    "admin": "Galguduud",
+    "sort": "447"
+  },
+  {
+    "city": "Boorama",
+    "admin": "Awdal",
+    "sort": ""
+  },
+  {
+    "city": "Hargeysa",
+    "admin": "Woqooyi Galbeed",
+    "sort": ""
+  },
+  {
+    "city": "Burco",
+    "admin": "Togdheer",
+    "sort": ""
+  },
+  {
+    "city": "Laascaanood",
+    "admin": "Sool",
+    "sort": ""
+  },
+  {
+    "city": "Ceerigaabo",
+    "admin": "Sanaag",
+    "sort": ""
+  },
+  {
+    "city": "Luuq",
+    "admin": "Gedo",
+    "sort": "33820"
+  },
+  {
+    "city": "Baraawe",
+    "admin": "Shabeellaha Hoose",
+    "sort": "32800"
+  },
+  {
+    "city": "Buurhakaba",
+    "admin": "Bay",
+    "sort": "31267"
+  },
+  {
+    "city": "Eyl",
+    "admin": "Nugaal",
+    "sort": "21700"
+  },
+  {
+    "city": "Bandarbeyla",
+    "admin": "Bari",
+    "sort": "13753"
+  },
+  {
+    "city": "Buur Gaabo",
+    "admin": "Jubbada Hoose",
+    "sort": "3096"
+  },
+  {
+    "city": "Qardho",
+    "admin": "Bari",
+    "sort": "1341"
+  },
+  {
+    "city": "Mereeg",
+    "admin": "Galguduud",
+    "sort": "548"
+  },
+  {
+    "city": "Caluula",
+    "admin": "Bari",
+    "sort": "513"
+  },
+  {
+    "city": "Hurdiyo",
+    "admin": "Bari",
+    "sort": "176"
+  }
+]

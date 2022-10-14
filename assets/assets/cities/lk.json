@@ -1,0 +1,112 @@
+[
+  {
+    "city": "Colombo",
+    "admin": "Western",
+    "sort": "752993"
+  },
+  {
+    "city": "Sri Jayewardenepura Kotte",
+    "admin": "Western",
+    "sort": "115826"
+  },
+  {
+    "city": "Moratuwa",
+    "admin": "Western",
+    "sort": "200000"
+  },
+  {
+    "city": "Kandy",
+    "admin": "Central",
+    "sort": "161000"
+  },
+  {
+    "city": "Negombo",
+    "admin": "Western",
+    "sort": "142136"
+  },
+  {
+    "city": "Batticaloa",
+    "admin": "Eastern",
+    "sort": "129222"
+  },
+  {
+    "city": "Trincomalee",
+    "admin": "Eastern",
+    "sort": "99135"
+  },
+  {
+    "city": "Kilinochchi",
+    "admin": "Northern",
+    "sort": "103717"
+  },
+  {
+    "city": "Galle",
+    "admin": "Southern",
+    "sort": "93118"
+  },
+  {
+    "city": "Jaffna",
+    "admin": "Northern",
+    "sort": "88138"
+  },
+  {
+    "city": "Matara",
+    "admin": "Southern",
+    "sort": "68244"
+  },
+  {
+    "city": "Anuradhapura",
+    "admin": "North Central",
+    "sort": "63208"
+  },
+  {
+    "city": "Ratnapura",
+    "admin": "Sabaragamuwa",
+    "sort": "47832"
+  },
+  {
+    "city": "Puttalam",
+    "admin": "North Western",
+    "sort": "45661"
+  },
+  {
+    "city": "Badulla",
+    "admin": "Uva",
+    "sort": "42923"
+  },
+  {
+    "city": "Matale",
+    "admin": "Central",
+    "sort": "36451"
+  },
+  {
+    "city": "Mannar",
+    "admin": "Northern",
+    "sort": "35000"
+  },
+  {
+    "city": "Nuwara Eliya",
+    "admin": "Central",
+    "sort": "27500"
+  },
+  {
+    "city": "Kegalle",
+    "admin": "Sabaragamuwa",
+    "sort": "17962"
+  },
+  {
+    "city": "Hambantota",
+    "admin": "Southern",
+    "sort": "11213"
+  },
+  {
+    "city": "Kurunegala",
+    "admin": "North Western",
+    "sort": ""
+  },
+  {
+    "city": "Mullaittivu",
+    "admin": "Northern",
+    "sort": "37339"
+  }
+]

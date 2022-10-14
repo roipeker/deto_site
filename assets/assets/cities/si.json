@@ -1,0 +1,1047 @@
+[
+  {
+    "city": "Ljubljana",
+    "admin": "Ljubljana",
+    "sort": "286745"
+  },
+  {
+    "city": "Maribor",
+    "admin": "Maribor",
+    "sort": "96211"
+  },
+  {
+    "city": "Celje",
+    "admin": "Celje",
+    "sort": "37872"
+  },
+  {
+    "city": "Kranj",
+    "admin": "Kranj",
+    "sort": "37941"
+  },
+  {
+    "city": "Koper",
+    "admin": "Koper",
+    "sort": "25753"
+  },
+  {
+    "city": "Velenje",
+    "admin": "Velenje",
+    "sort": "25594"
+  },
+  {
+    "city": "Novo Mesto",
+    "admin": "Novo Mesto",
+    "sort": "24183"
+  },
+  {
+    "city": "Ptuj",
+    "admin": "Ptuj",
+    "sort": "17959"
+  },
+  {
+    "city": "Kamnik",
+    "admin": "Kamnik",
+    "sort": "13880"
+  },
+  {
+    "city": "Jesenice",
+    "admin": "Jesenice",
+    "sort": "13338"
+  },
+  {
+    "city": "Domžale",
+    "admin": "Domžale",
+    "sort": "13204"
+  },
+  {
+    "city": "Nova Gorica",
+    "admin": "Nova Gorica",
+    "sort": "13031"
+  },
+  {
+    "city": "Izola",
+    "admin": "Izola",
+    "sort": "11682"
+  },
+  {
+    "city": "Murska Sobota",
+    "admin": "Murska Sobota",
+    "sort": "11107"
+  },
+  {
+    "city": "Škofja Loka",
+    "admin": "Škofja Loka",
+    "sort": "11671"
+  },
+  {
+    "city": "Postojna",
+    "admin": "Postojna",
+    "sort": "9605"
+  },
+  {
+    "city": "Vrhnika",
+    "admin": "Vrhnika",
+    "sort": "8888"
+  },
+  {
+    "city": "Grosuplje",
+    "admin": "Grosuplje",
+    "sort": "7703"
+  },
+  {
+    "city": "Kočevje",
+    "admin": "Kočevje",
+    "sort": "8151"
+  },
+  {
+    "city": "Krško",
+    "admin": "Krško",
+    "sort": "7217"
+  },
+  {
+    "city": "Slovenska Bistrica",
+    "admin": "Slovenska Bistrica",
+    "sort": "8219"
+  },
+  {
+    "city": "Litija",
+    "admin": "Litija",
+    "sort": "6673"
+  },
+  {
+    "city": "Ajdovščina",
+    "admin": "Ajdovščina",
+    "sort": "6843"
+  },
+  {
+    "city": "Ravne na Koroškem",
+    "admin": "Ravne na Koroškem",
+    "sort": "7363"
+  },
+  {
+    "city": "Slovenj Gradec",
+    "admin": "Slovenj Gradec",
+    "sort": "7249"
+  },
+  {
+    "city": "Brežice",
+    "admin": "Brežice",
+    "sort": "6843"
+  },
+  {
+    "city": "Sežana",
+    "admin": "Sežana",
+    "sort": "6037"
+  },
+  {
+    "city": "Zagorje",
+    "admin": "Zagorje ob Savi",
+    "sort": "6023"
+  },
+  {
+    "city": "Črnomelj",
+    "admin": "Črnomelj",
+    "sort": "5496"
+  },
+  {
+    "city": "Idrija",
+    "admin": "Idrija",
+    "sort": "5886"
+  },
+  {
+    "city": "Prevalje",
+    "admin": "Prevalje",
+    "sort": "4620"
+  },
+  {
+    "city": "Hrastnik",
+    "admin": "Hrastnik",
+    "sort": "4962"
+  },
+  {
+    "city": "Slovenske Konjice",
+    "admin": "Slovenske Konjice",
+    "sort": "5157"
+  },
+  {
+    "city": "Žalec",
+    "admin": "Žalec",
+    "sort": "5000"
+  },
+  {
+    "city": "Šentjur",
+    "admin": "Šentjur",
+    "sort": "4940"
+  },
+  {
+    "city": "Bled",
+    "admin": "Bled",
+    "sort": "4929"
+  },
+  {
+    "city": "Sevnica",
+    "admin": "Sevnica",
+    "sort": "4533"
+  },
+  {
+    "city": "Dravograd",
+    "admin": "Dravograd",
+    "sort": "3088"
+  },
+  {
+    "city": "Ilirska Bistrica",
+    "admin": "Ilirska Bistrica",
+    "sort": "4323"
+  },
+  {
+    "city": "Cerknica",
+    "admin": "Cerknica",
+    "sort": "4018"
+  },
+  {
+    "city": "Laško",
+    "admin": "Laško",
+    "sort": "3288"
+  },
+  {
+    "city": "Ruše",
+    "admin": "Ruše",
+    "sort": "4208"
+  },
+  {
+    "city": "Šempeter pri Gorici",
+    "admin": "Šempeter-Vrtojba",
+    "sort": "3694"
+  },
+  {
+    "city": "Žiri",
+    "admin": "Žiri",
+    "sort": "3657"
+  },
+  {
+    "city": "Gornja Radgona",
+    "admin": "Gornja Radgona",
+    "sort": "3086"
+  },
+  {
+    "city": "Trebnje",
+    "admin": "Trebnje",
+    "sort": "3927"
+  },
+  {
+    "city": "Piran",
+    "admin": "Piran",
+    "sort": "3730"
+  },
+  {
+    "city": "Ankaran",
+    "admin": "Ankaran",
+    "sort": "3224"
+  },
+  {
+    "city": "Lenart v Slovenskih Goricah",
+    "admin": "Lenart",
+    "sort": "3285"
+  },
+  {
+    "city": "Mežica",
+    "admin": "Mežica",
+    "sort": "3176"
+  },
+  {
+    "city": "Metlika",
+    "admin": "Metlika",
+    "sort": "3229"
+  },
+  {
+    "city": "Borovnica",
+    "admin": "Borovnica",
+    "sort": "2674"
+  },
+  {
+    "city": "Lendava",
+    "admin": "Lendava",
+    "sort": "2954"
+  },
+  {
+    "city": "Vojnik",
+    "admin": "Vojnik",
+    "sort": "2475"
+  },
+  {
+    "city": "Radlje ob Dravi",
+    "admin": "Radlje ob Dravi",
+    "sort": "2856"
+  },
+  {
+    "city": "Beltinci",
+    "admin": "Beltinci",
+    "sort": "2430"
+  },
+  {
+    "city": "Naklo",
+    "admin": "Naklo",
+    "sort": "1776"
+  },
+  {
+    "city": "Šentjernej",
+    "admin": "Šentjernej",
+    "sort": "1441"
+  },
+  {
+    "city": "Vipava",
+    "admin": "Vipava",
+    "sort": "2049"
+  },
+  {
+    "city": "Radeče",
+    "admin": "Radeče",
+    "sort": "1993"
+  },
+  {
+    "city": "Ormož",
+    "admin": "Ormož",
+    "sort": "1962"
+  },
+  {
+    "city": "Vuzenica",
+    "admin": "Vuzenica",
+    "sort": "1522"
+  },
+  {
+    "city": "Odranci",
+    "admin": "Odranci",
+    "sort": "1632"
+  },
+  {
+    "city": "Bovec",
+    "admin": "Bovec",
+    "sort": "1586"
+  },
+  {
+    "city": "Radovljica",
+    "admin": "Radovljica",
+    "sort": ""
+  },
+  {
+    "city": "Trbovlje",
+    "admin": "Trbovlje",
+    "sort": ""
+  },
+  {
+    "city": "Ivančna Gorica",
+    "admin": "Ivančna Gorica",
+    "sort": ""
+  },
+  {
+    "city": "Kobarid",
+    "admin": "Kobarid",
+    "sort": "1085"
+  },
+  {
+    "city": "Šmarje",
+    "admin": "Šmarje pri Jelšah",
+    "sort": ""
+  },
+  {
+    "city": "Štore",
+    "admin": "Štore",
+    "sort": ""
+  },
+  {
+    "city": "Kostanjevica na Krki",
+    "admin": "Kostanjevica na Krki",
+    "sort": "689"
+  },
+  {
+    "city": "Cerklje na Gorenjskem",
+    "admin": "Cerklje na Gorenjskem",
+    "sort": ""
+  },
+  {
+    "city": "Rogaška Slatina",
+    "admin": "Rogaška Slatina",
+    "sort": ""
+  },
+  {
+    "city": "Šoštanj",
+    "admin": "Šoštanj",
+    "sort": ""
+  },
+  {
+    "city": "Prebold",
+    "admin": "Prebold",
+    "sort": ""
+  },
+  {
+    "city": "Miklavž na Dravskem Polju",
+    "admin": "Miklavž na Dravskem Polju",
+    "sort": ""
+  },
+  {
+    "city": "Mozirje",
+    "admin": "Mozirje",
+    "sort": ""
+  },
+  {
+    "city": "Polzela",
+    "admin": "Polzela",
+    "sort": ""
+  },
+  {
+    "city": "Medvode",
+    "admin": "Medvode",
+    "sort": ""
+  },
+  {
+    "city": "Komenda",
+    "admin": "Komenda",
+    "sort": ""
+  },
+  {
+    "city": "Brezovica",
+    "admin": "Brezovica",
+    "sort": ""
+  },
+  {
+    "city": "Šmartno",
+    "admin": "Šmartno pri Litiji",
+    "sort": ""
+  },
+  {
+    "city": "Moravče",
+    "admin": "Moravče",
+    "sort": ""
+  },
+  {
+    "city": "Škofljica",
+    "admin": "Škofljica",
+    "sort": ""
+  },
+  {
+    "city": "Poljčane",
+    "admin": "Poljčane",
+    "sort": ""
+  },
+  {
+    "city": "Mengeš",
+    "admin": "Mengeš",
+    "sort": ""
+  },
+  {
+    "city": "Tolmin",
+    "admin": "Tolmin",
+    "sort": ""
+  },
+  {
+    "city": "Gornji Petrovci",
+    "admin": "Gornji Petrovci",
+    "sort": "411"
+  },
+  {
+    "city": "Preddvor",
+    "admin": "Preddvor",
+    "sort": ""
+  },
+  {
+    "city": "Nazarje",
+    "admin": "Nazarje",
+    "sort": ""
+  },
+  {
+    "city": "Zreče",
+    "admin": "Zreče",
+    "sort": ""
+  },
+  {
+    "city": "Dragomer",
+    "admin": "Log-Dragomer",
+    "sort": ""
+  },
+  {
+    "city": "Miren",
+    "admin": "Miren-Kostanjevica",
+    "sort": ""
+  },
+  {
+    "city": "Radenci",
+    "admin": "Radenci",
+    "sort": ""
+  },
+  {
+    "city": "Spodnji Duplek",
+    "admin": "Duplek",
+    "sort": ""
+  },
+  {
+    "city": "Kanal",
+    "admin": "Kanal",
+    "sort": ""
+  },
+  {
+    "city": "Tišina",
+    "admin": "Tišina",
+    "sort": "408"
+  },
+  {
+    "city": "Muta",
+    "admin": "Muta",
+    "sort": ""
+  },
+  {
+    "city": "Selnica ob Dravi",
+    "admin": "Selnica ob Dravi",
+    "sort": ""
+  },
+  {
+    "city": "Spodnje Hoče",
+    "admin": "Hoče-Slivnica",
+    "sort": ""
+  },
+  {
+    "city": "Šentrupert",
+    "admin": "Šentrupert",
+    "sort": ""
+  },
+  {
+    "city": "Ljutomer",
+    "admin": "Ljutomer",
+    "sort": ""
+  },
+  {
+    "city": "Stari Trg",
+    "admin": "Loška Dolina",
+    "sort": ""
+  },
+  {
+    "city": "Rače",
+    "admin": "Rače-Fram",
+    "sort": ""
+  },
+  {
+    "city": "Šenčur",
+    "admin": "Šenčur",
+    "sort": ""
+  },
+  {
+    "city": "Oplotnica",
+    "admin": "Oplotnica",
+    "sort": ""
+  },
+  {
+    "city": "Šmartno",
+    "admin": "Šmartno ob Paki",
+    "sort": ""
+  },
+  {
+    "city": "Mirna",
+    "admin": "Mirna",
+    "sort": ""
+  },
+  {
+    "city": "Bistrica ob Sotli",
+    "admin": "Bistrica ob Sotli",
+    "sort": "235"
+  },
+  {
+    "city": "Vitanje",
+    "admin": "Vitanje",
+    "sort": ""
+  },
+  {
+    "city": "Rogatec",
+    "admin": "Rogatec",
+    "sort": ""
+  },
+  {
+    "city": "Horjul",
+    "admin": "Horjul",
+    "sort": ""
+  },
+  {
+    "city": "Pivka",
+    "admin": "Pivka",
+    "sort": ""
+  },
+  {
+    "city": "Braslovče",
+    "admin": "Braslovče",
+    "sort": ""
+  },
+  {
+    "city": "Dobrna",
+    "admin": "Dobrna",
+    "sort": ""
+  },
+  {
+    "city": "Pesnica",
+    "admin": "Pesnica",
+    "sort": ""
+  },
+  {
+    "city": "Gorišnica",
+    "admin": "Gorišnica",
+    "sort": ""
+  },
+  {
+    "city": "Luče",
+    "admin": "Luče",
+    "sort": ""
+  },
+  {
+    "city": "Videm pri Ptuju",
+    "admin": "Videm",
+    "sort": ""
+  },
+  {
+    "city": "Lovrenc na Pohorju",
+    "admin": "Lovrenc na Pohorju",
+    "sort": ""
+  },
+  {
+    "city": "Logatec",
+    "admin": "Logatec",
+    "sort": ""
+  },
+  {
+    "city": "Črna na Koroškem",
+    "admin": "Črna na Koroškem",
+    "sort": ""
+  },
+  {
+    "city": "Ribnica",
+    "admin": "Ribnica",
+    "sort": ""
+  },
+  {
+    "city": "Majšperk",
+    "admin": "Majšperk",
+    "sort": ""
+  },
+  {
+    "city": "Vransko",
+    "admin": "Vransko",
+    "sort": ""
+  },
+  {
+    "city": "Šentilj",
+    "admin": "Šentilj",
+    "sort": ""
+  },
+  {
+    "city": "Trzin",
+    "admin": "Trzin",
+    "sort": ""
+  },
+  {
+    "city": "Dobrovo",
+    "admin": "Brda",
+    "sort": ""
+  },
+  {
+    "city": "Ig",
+    "admin": "Ig",
+    "sort": ""
+  },
+  {
+    "city": "Tržič",
+    "admin": "Tržič",
+    "sort": ""
+  },
+  {
+    "city": "Rečica",
+    "admin": "Rečica ob Savinji",
+    "sort": ""
+  },
+  {
+    "city": "Dol",
+    "admin": "Dol pri Ljubljani",
+    "sort": ""
+  },
+  {
+    "city": "Gorenja Vas",
+    "admin": "Gorenja Vas-Poljane",
+    "sort": ""
+  },
+  {
+    "city": "Dornava",
+    "admin": "Dornava",
+    "sort": ""
+  },
+  {
+    "city": "Železniki",
+    "admin": "Železniki",
+    "sort": ""
+  },
+  {
+    "city": "Lukovica",
+    "admin": "Lukovica",
+    "sort": ""
+  },
+  {
+    "city": "Turnišče",
+    "admin": "Turnišče",
+    "sort": ""
+  },
+  {
+    "city": "Cerkno",
+    "admin": "Cerkno",
+    "sort": ""
+  },
+  {
+    "city": "Šmarješke Toplice",
+    "admin": "Šmarješke Toplice",
+    "sort": ""
+  },
+  {
+    "city": "Ljubno",
+    "admin": "Ljubno",
+    "sort": ""
+  },
+  {
+    "city": "Bohinjska Bistrica",
+    "admin": "Bohinj",
+    "sort": ""
+  },
+  {
+    "city": "Starše",
+    "admin": "Starše",
+    "sort": ""
+  },
+  {
+    "city": "Tabor",
+    "admin": "Tabor",
+    "sort": ""
+  },
+  {
+    "city": "Kidričevo",
+    "admin": "Kidričevo",
+    "sort": ""
+  },
+  {
+    "city": "Divača",
+    "admin": "Divača",
+    "sort": ""
+  },
+  {
+    "city": "Sveti Jurij",
+    "admin": "Sveti Jurij ob Ščavnici",
+    "sort": ""
+  },
+  {
+    "city": "Straža",
+    "admin": "Straža",
+    "sort": ""
+  },
+  {
+    "city": "Benedikt",
+    "admin": "Benedikt",
+    "sort": ""
+  },
+  {
+    "city": "Semič",
+    "admin": "Semič",
+    "sort": ""
+  },
+  {
+    "city": "Cirkulane",
+    "admin": "Cirkulane",
+    "sort": ""
+  },
+  {
+    "city": "Vodice",
+    "admin": "Vodice",
+    "sort": ""
+  },
+  {
+    "city": "Sveta Ana",
+    "admin": "Sveta Ana",
+    "sort": ""
+  },
+  {
+    "city": "Nova Vas",
+    "admin": "Bloke",
+    "sort": ""
+  },
+  {
+    "city": "Zgornja Hajdina",
+    "admin": "Hajdina",
+    "sort": ""
+  },
+  {
+    "city": "Mirna Peč",
+    "admin": "Mirna Peč",
+    "sort": ""
+  },
+  {
+    "city": "Sveta Trojica v Slovenskih Goricah",
+    "admin": "Sveta Trojica v Slovenskih Goricah",
+    "sort": ""
+  },
+  {
+    "city": "Zgornja Kungota",
+    "admin": "Kungota",
+    "sort": ""
+  },
+  {
+    "city": "Destrnik",
+    "admin": "Destrnik",
+    "sort": ""
+  },
+  {
+    "city": "Dobrova",
+    "admin": "Dobrova-Polhov Gradec",
+    "sort": ""
+  },
+  {
+    "city": "Makole",
+    "admin": "Makole",
+    "sort": ""
+  },
+  {
+    "city": "Markovci",
+    "admin": "Markovci",
+    "sort": ""
+  },
+  {
+    "city": "Črenšovci",
+    "admin": "Črenšovci",
+    "sort": ""
+  },
+  {
+    "city": "Veržej",
+    "admin": "Veržej",
+    "sort": ""
+  },
+  {
+    "city": "Velike Lašče",
+    "admin": "Velike Lašče",
+    "sort": ""
+  },
+  {
+    "city": "Križevci",
+    "admin": "Križevci",
+    "sort": ""
+  },
+  {
+    "city": "Razkrižje",
+    "admin": "Razkrižje",
+    "sort": ""
+  },
+  {
+    "city": "Škocjan",
+    "admin": "Škocjan",
+    "sort": ""
+  },
+  {
+    "city": "Žužemberk",
+    "admin": "Žužemberk",
+    "sort": ""
+  },
+  {
+    "city": "Puconci",
+    "admin": "Puconci",
+    "sort": ""
+  },
+  {
+    "city": "Videm",
+    "admin": "Dobrepolje",
+    "sort": ""
+  },
+  {
+    "city": "Zavrč",
+    "admin": "Zavrč",
+    "sort": ""
+  },
+  {
+    "city": "Velika Polana",
+    "admin": "Velika Polana",
+    "sort": ""
+  },
+  {
+    "city": "Cankova",
+    "admin": "Cankova",
+    "sort": ""
+  },
+  {
+    "city": "Komen",
+    "admin": "Komen",
+    "sort": ""
+  },
+  {
+    "city": "Apače",
+    "admin": "Apače",
+    "sort": ""
+  },
+  {
+    "city": "Kuzma",
+    "admin": "Kuzma",
+    "sort": ""
+  },
+  {
+    "city": "Gornji Grad",
+    "admin": "Gornji Grad",
+    "sort": ""
+  },
+  {
+    "city": "Cerkvenjak",
+    "admin": "Cerkvenjak",
+    "sort": ""
+  },
+  {
+    "city": "Središče ob Dravi",
+    "admin": "Središče ob Dravi",
+    "sort": ""
+  },
+  {
+    "city": "Juršinci",
+    "admin": "Juršinci",
+    "sort": ""
+  },
+  {
+    "city": "Dolenjske Toplice",
+    "admin": "Dolenjske Toplice",
+    "sort": ""
+  },
+  {
+    "city": "Kozje",
+    "admin": "Kozje",
+    "sort": ""
+  },
+  {
+    "city": "Podčetrtek",
+    "admin": "Podčetrtek",
+    "sort": ""
+  },
+  {
+    "city": "Mokronog",
+    "admin": "Mokronog-Trebelno",
+    "sort": ""
+  },
+  {
+    "city": "Zgornje Gorje",
+    "admin": "Gorje",
+    "sort": ""
+  },
+  {
+    "city": "Rogašovci",
+    "admin": "Rogašovci",
+    "sort": ""
+  },
+  {
+    "city": "Ribnica",
+    "admin": "Ribnica na Pohorju",
+    "sort": ""
+  },
+  {
+    "city": "Podlehnik",
+    "admin": "Podlehnik",
+    "sort": ""
+  },
+  {
+    "city": "Sodražica",
+    "admin": "Sodražica",
+    "sort": ""
+  },
+  {
+    "city": "Vitomarci",
+    "admin": "Sveti Andraž v Slovenskih Goricah",
+    "sort": ""
+  },
+  {
+    "city": "Osilnica",
+    "admin": "Osilnica",
+    "sort": ""
+  },
+  {
+    "city": "Jurovski Dol",
+    "admin": "Sveti Jurij v Slovenskih Goricah",
+    "sort": ""
+  },
+  {
+    "city": "Trnovska Vas",
+    "admin": "Trnovska Vas",
+    "sort": ""
+  },
+  {
+    "city": "Moravske-Toplice",
+    "admin": "Moravske Toplice",
+    "sort": ""
+  },
+  {
+    "city": "Podvelka",
+    "admin": "Podvelka",
+    "sort": ""
+  },
+  {
+    "city": "Tomaž pri Ormožu",
+    "admin": "Sveti Tomaž",
+    "sort": ""
+  },
+  {
+    "city": "Grad",
+    "admin": "Grad",
+    "sort": ""
+  },
+  {
+    "city": "Dobje",
+    "admin": "Dobje",
+    "sort": ""
+  },
+  {
+    "city": "Dobrovnik",
+    "admin": "Dobrovnik",
+    "sort": ""
+  },
+  {
+    "city": "Mislinja",
+    "admin": "Mislinja",
+    "sort": ""
+  },
+  {
+    "city": "Hrib-Loški Potok",
+    "admin": "Loški Potok",
+    "sort": ""
+  },
+  {
+    "city": "Kobilje",
+    "admin": "Kobilje",
+    "sort": ""
+  },
+  {
+    "city": "Kranjska Gora",
+    "admin": "Kranjska Gora",
+    "sort": ""
+  },
+  {
+    "city": "Žetale",
+    "admin": "Žetale",
+    "sort": ""
+  },
+  {
+    "city": "Šalovci",
+    "admin": "Šalovci",
+    "sort": ""
+  },
+  {
+    "city": "Solčava",
+    "admin": "Solčava",
+    "sort": ""
+  },
+  {
+    "city": "Hodoš",
+    "admin": "Hodoš",
+    "sort": ""
+  },
+  {
+    "city": "Kostel",
+    "admin": "Kostel",
+    "sort": ""
+  },
+  {
+    "city": "Zgornje Jezersko",
+    "admin": "Jezersko",
+    "sort": ""
+  }
+]

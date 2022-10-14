@@ -1,0 +1,487 @@
+[
+  {
+    "city": "Caracas",
+    "admin": "Distrito Capital",
+    "sort": "1943901"
+  },
+  {
+    "city": "Maracaibo",
+    "admin": "Zulia",
+    "sort": "1551539"
+  },
+  {
+    "city": "Valencia",
+    "admin": "Carabobo",
+    "sort": "1484430"
+  },
+  {
+    "city": "Barquisimeto",
+    "admin": "Lara",
+    "sort": "1059092"
+  },
+  {
+    "city": "Ciudad Guayana",
+    "admin": "Bolívar",
+    "sort": "751331"
+  },
+  {
+    "city": "Catia La Mar",
+    "admin": "Vargas",
+    "sort": "661897"
+  },
+  {
+    "city": "Ciudad Bolívar",
+    "admin": "Bolívar",
+    "sort": "567953"
+  },
+  {
+    "city": "Santa Teresa del Tuy",
+    "admin": "Miranda",
+    "sort": "525321"
+  },
+  {
+    "city": "Maturín",
+    "admin": "Monagas",
+    "sort": "514046"
+  },
+  {
+    "city": "Barcelona",
+    "admin": "Anzoátegui",
+    "sort": "448016"
+  },
+  {
+    "city": "Maracay",
+    "admin": "Aragua",
+    "sort": "407109"
+  },
+  {
+    "city": "Cumaná",
+    "admin": "Sucre",
+    "sort": "374706"
+  },
+  {
+    "city": "Cabimas",
+    "admin": "Zulia",
+    "sort": "351735"
+  },
+  {
+    "city": "Puerto La Cruz",
+    "admin": "Anzoátegui",
+    "sort": "306261"
+  },
+  {
+    "city": "Mérida",
+    "admin": "Mérida",
+    "sort": "300000"
+  },
+  {
+    "city": "Punto Fijo",
+    "admin": "Falcón",
+    "sort": "287558"
+  },
+  {
+    "city": "San Cristóbal",
+    "admin": "Táchira",
+    "sort": "285872"
+  },
+  {
+    "city": "Barinas",
+    "admin": "Barinas",
+    "sort": "284289"
+  },
+  {
+    "city": "Coro",
+    "admin": "Falcón",
+    "sort": "284266"
+  },
+  {
+    "city": "Turmero",
+    "admin": "Aragua",
+    "sort": "254880"
+  },
+  {
+    "city": "Los Teques",
+    "admin": "Miranda",
+    "sort": "251200"
+  },
+  {
+    "city": "Baruta",
+    "admin": "Miranda",
+    "sort": "240755"
+  },
+  {
+    "city": "San Felipe",
+    "admin": "Yaracuy",
+    "sort": "220786"
+  },
+  {
+    "city": "Cúa",
+    "admin": "Miranda",
+    "sort": "214823"
+  },
+  {
+    "city": "La Victoria",
+    "admin": "Aragua",
+    "sort": "214492"
+  },
+  {
+    "city": "El Tigre",
+    "admin": "Anzoátegui",
+    "sort": "213524"
+  },
+  {
+    "city": "Guarenas",
+    "admin": "Miranda",
+    "sort": "208663"
+  },
+  {
+    "city": "Puerto Cabello",
+    "admin": "Carabobo",
+    "sort": "209080"
+  },
+  {
+    "city": "La Guaira",
+    "admin": "Vargas",
+    "sort": "203520"
+  },
+  {
+    "city": "Guacara",
+    "admin": "Carabobo",
+    "sort": "200212"
+  },
+  {
+    "city": "Tocuyito",
+    "admin": "Carabobo",
+    "sort": "197446"
+  },
+  {
+    "city": "Acarigua",
+    "admin": "Portuguesa",
+    "sort": "195637"
+  },
+  {
+    "city": "San Fernando",
+    "admin": "Apure",
+    "sort": "194274"
+  },
+  {
+    "city": "Guanare",
+    "admin": "Portuguesa",
+    "sort": "192644"
+  },
+  {
+    "city": "Valera",
+    "admin": "Trujillo",
+    "sort": "191167"
+  },
+  {
+    "city": "Araure",
+    "admin": "Portuguesa",
+    "sort": "188800"
+  },
+  {
+    "city": "Guatire",
+    "admin": "Miranda",
+    "sort": "187262"
+  },
+  {
+    "city": "San Diego",
+    "admin": "Carabobo",
+    "sort": "187215"
+  },
+  {
+    "city": "Carúpano",
+    "admin": "Sucre",
+    "sort": "173877"
+  },
+  {
+    "city": "Santa Rita",
+    "admin": "Aragua",
+    "sort": "169158"
+  },
+  {
+    "city": "Anaco",
+    "admin": "Anzoátegui",
+    "sort": "162704"
+  },
+  {
+    "city": "Palo Negro",
+    "admin": "Aragua",
+    "sort": "153706"
+  },
+  {
+    "city": "Ocumare del Tuy",
+    "admin": "Miranda",
+    "sort": "150000"
+  },
+  {
+    "city": "Villa de Cura",
+    "admin": "Aragua",
+    "sort": "145098"
+  },
+  {
+    "city": "Yaritagua",
+    "admin": "Yaracuy",
+    "sort": "140256"
+  },
+  {
+    "city": "Calabozo",
+    "admin": "Guárico",
+    "sort": "131989"
+  },
+  {
+    "city": "Los Guayos",
+    "admin": "Carabobo",
+    "sort": "130345"
+  },
+  {
+    "city": "Táriba",
+    "admin": "Táchira",
+    "sort": "128590"
+  },
+  {
+    "city": "Guasdualito",
+    "admin": "Apure",
+    "sort": "128025"
+  },
+  {
+    "city": "Cagua",
+    "admin": "Aragua",
+    "sort": "122571"
+  },
+  {
+    "city": "Porlamar",
+    "admin": "Nueva Esparta",
+    "sort": "120924"
+  },
+  {
+    "city": "Machiques",
+    "admin": "Zulia",
+    "sort": "122734"
+  },
+  {
+    "city": "Ciudad Ojeda",
+    "admin": "Zulia",
+    "sort": "122124"
+  },
+  {
+    "city": "San Carlos",
+    "admin": "Cojedes",
+    "sort": "120000"
+  },
+  {
+    "city": "Charallave",
+    "admin": "Miranda",
+    "sort": "117707"
+  },
+  {
+    "city": "La Asunción",
+    "admin": "Nueva Esparta",
+    "sort": "117513"
+  },
+  {
+    "city": "Valle de La Pascua",
+    "admin": "Guárico",
+    "sort": "115902"
+  },
+  {
+    "city": "Santa Lucía",
+    "admin": "Miranda",
+    "sort": "112357"
+  },
+  {
+    "city": "Carora",
+    "admin": "Lara",
+    "sort": "112600"
+  },
+  {
+    "city": "Quíbor",
+    "admin": "Lara",
+    "sort": "110536"
+  },
+  {
+    "city": "Socopó",
+    "admin": "Barinas",
+    "sort": "110512"
+  },
+  {
+    "city": "Tinaquillo",
+    "admin": "Cojedes",
+    "sort": "110000"
+  },
+  {
+    "city": "El Limón",
+    "admin": "Aragua",
+    "sort": "106206"
+  },
+  {
+    "city": "San Juan de los Morros",
+    "admin": "Guárico",
+    "sort": "87739"
+  },
+  {
+    "city": "Tucupita",
+    "admin": "Delta Amacuro",
+    "sort": "86487"
+  },
+  {
+    "city": "Puerto Ayacucho",
+    "admin": "Amazonas",
+    "sort": "80000"
+  },
+  {
+    "city": "Lecherías",
+    "admin": "Anzoátegui",
+    "sort": "36450"
+  },
+  {
+    "city": "Trujillo",
+    "admin": "Trujillo",
+    "sort": "38110"
+  },
+  {
+    "city": "Rubio",
+    "admin": "Táchira",
+    "sort": "95041"
+  },
+  {
+    "city": "Cantaura",
+    "admin": "Anzoátegui",
+    "sort": "89552"
+  },
+  {
+    "city": "La Grita",
+    "admin": "Táchira",
+    "sort": "88450"
+  },
+  {
+    "city": "Maiquetía",
+    "admin": "Vargas",
+    "sort": "87909"
+  },
+  {
+    "city": "San Carlos del Zulia",
+    "admin": "Zulia",
+    "sort": "80000"
+  },
+  {
+    "city": "Cabudare",
+    "admin": "Lara",
+    "sort": "70578"
+  },
+  {
+    "city": "Caripito",
+    "admin": "Monagas",
+    "sort": "64955"
+  },
+  {
+    "city": "Zaraza",
+    "admin": "Guárico",
+    "sort": "62027"
+  },
+  {
+    "city": "San Antonio del Táchira",
+    "admin": "Táchira",
+    "sort": "61630"
+  },
+  {
+    "city": "Upata",
+    "admin": "Bolívar",
+    "sort": "53685"
+  },
+  {
+    "city": "Sanare",
+    "admin": "Lara",
+    "sort": "48764"
+  },
+  {
+    "city": "Santa Cruz de Los Taques",
+    "admin": "Falcón",
+    "sort": "41579"
+  },
+  {
+    "city": "El Tocuyo",
+    "admin": "Lara",
+    "sort": "41327"
+  },
+  {
+    "city": "Altagracia de Orituco",
+    "admin": "Guárico",
+    "sort": "40052"
+  },
+  {
+    "city": "Santa Rita",
+    "admin": "Zulia",
+    "sort": "31810"
+  },
+  {
+    "city": "Sabaneta",
+    "admin": "Barinas",
+    "sort": "27850"
+  },
+  {
+    "city": "Puerto Píritu",
+    "admin": "Anzoátegui",
+    "sort": "25981"
+  },
+  {
+    "city": "La Colonia Tovar",
+    "admin": "Aragua",
+    "sort": "21000"
+  },
+  {
+    "city": "Chaguaramas",
+    "admin": "Guárico",
+    "sort": "15000"
+  },
+  {
+    "city": "Tucacas",
+    "admin": "Falcón",
+    "sort": "13901"
+  },
+  {
+    "city": "Onoto",
+    "admin": "Anzoátegui",
+    "sort": "11378"
+  },
+  {
+    "city": "San José de Aerocuar",
+    "admin": "Sucre",
+    "sort": "11162"
+  },
+  {
+    "city": "Uracoa",
+    "admin": "Monagas",
+    "sort": "9625"
+  },
+  {
+    "city": "Bruzual",
+    "admin": "Apure",
+    "sort": "7370"
+  },
+  {
+    "city": "Mucuchíes",
+    "admin": "Mérida",
+    "sort": "5900"
+  },
+  {
+    "city": "Mapire",
+    "admin": "Anzoátegui",
+    "sort": "5326"
+  },
+  {
+    "city": "El Dorado",
+    "admin": "Bolívar",
+    "sort": "2383"
+  },
+  {
+    "city": "La Esmeralda",
+    "admin": "Amazonas",
+    "sort": "150"
+  },
+  {
+    "city": "El Manteco",
+    "admin": "Bolívar",
+    "sort": "2215"
+  }
+]

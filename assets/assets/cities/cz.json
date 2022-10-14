@@ -1,0 +1,1367 @@
+[
+  {
+    "city": "Prague",
+    "admin": "Praha, Hlavní Město",
+    "sort": "1335084"
+  },
+  {
+    "city": "Brno",
+    "admin": "Jihomoravský Kraj",
+    "sort": "382405"
+  },
+  {
+    "city": "Ostrava",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "284982"
+  },
+  {
+    "city": "Plzeň",
+    "admin": "Plzeňský Kraj",
+    "sort": "175219"
+  },
+  {
+    "city": "Liberec",
+    "admin": "Liberecký Kraj",
+    "sort": "104261"
+  },
+  {
+    "city": "Olomouc",
+    "admin": "Olomoucký Kraj",
+    "sort": "100514"
+  },
+  {
+    "city": "České Budějovice",
+    "admin": "Jihočeský Kraj",
+    "sort": "94229"
+  },
+  {
+    "city": "Hradec Králové",
+    "admin": "Královéhradecký Kraj",
+    "sort": "92683"
+  },
+  {
+    "city": "Ústí nad Labem",
+    "admin": "Ústecký Kraj",
+    "sort": "91982"
+  },
+  {
+    "city": "Pardubice",
+    "admin": "Pardubický Kraj",
+    "sort": "91755"
+  },
+  {
+    "city": "Zlín",
+    "admin": "Zlínský Kraj",
+    "sort": "74478"
+  },
+  {
+    "city": "Havířov",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "70165"
+  },
+  {
+    "city": "Teplice",
+    "admin": "Ústecký Kraj",
+    "sort": "49705"
+  },
+  {
+    "city": "Jihlava",
+    "admin": "Vysočina",
+    "sort": "51125"
+  },
+  {
+    "city": "Karlovy Vary",
+    "admin": "Karlovarský Kraj",
+    "sort": "48319"
+  },
+  {
+    "city": "Břevnov",
+    "admin": "Středočeský Kraj",
+    "sort": "26275"
+  },
+  {
+    "city": "Kladno",
+    "admin": "Středočeský Kraj",
+    "sort": "68896"
+  },
+  {
+    "city": "Most",
+    "admin": "Ústecký Kraj",
+    "sort": "65341"
+  },
+  {
+    "city": "Opava",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "55996"
+  },
+  {
+    "city": "Frýdek-Místek",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "55006"
+  },
+  {
+    "city": "Karviná",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "50902"
+  },
+  {
+    "city": "Chomutov",
+    "admin": "Ústecký Kraj",
+    "sort": "48349"
+  },
+  {
+    "city": "Děčín",
+    "admin": "Ústecký Kraj",
+    "sort": "47951"
+  },
+  {
+    "city": "Jablonec nad Nisou",
+    "admin": "Liberecký Kraj",
+    "sort": "45317"
+  },
+  {
+    "city": "Mladá Boleslav",
+    "admin": "Středočeský Kraj",
+    "sort": "44506"
+  },
+  {
+    "city": "Prostějov",
+    "admin": "Olomoucký Kraj",
+    "sort": "43381"
+  },
+  {
+    "city": "Přerov",
+    "admin": "Olomoucký Kraj",
+    "sort": "42451"
+  },
+  {
+    "city": "Česká Lípa",
+    "admin": "Liberecký Kraj",
+    "sort": "37361"
+  },
+  {
+    "city": "Třebíč",
+    "admin": "Vysočina",
+    "sort": "35107"
+  },
+  {
+    "city": "Třinec",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "34778"
+  },
+  {
+    "city": "Tábor",
+    "admin": "Jihočeský Kraj",
+    "sort": "34119"
+  },
+  {
+    "city": "Znojmo",
+    "admin": "Jihomoravský Kraj",
+    "sort": "33775"
+  },
+  {
+    "city": "Kolín",
+    "admin": "Středočeský Kraj",
+    "sort": "32490"
+  },
+  {
+    "city": "Příbram",
+    "admin": "Středočeský Kraj",
+    "sort": "32248"
+  },
+  {
+    "city": "Cheb",
+    "admin": "Karlovarský Kraj",
+    "sort": "31920"
+  },
+  {
+    "city": "Písek",
+    "admin": "Jihočeský Kraj",
+    "sort": "30379"
+  },
+  {
+    "city": "Trutnov",
+    "admin": "Královéhradecký Kraj",
+    "sort": "29958"
+  },
+  {
+    "city": "Orlová",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "28330"
+  },
+  {
+    "city": "Kroměříž",
+    "admin": "Zlínský Kraj",
+    "sort": "28360"
+  },
+  {
+    "city": "Líšeň",
+    "admin": "Jihomoravský Kraj",
+    "sort": "26781"
+  },
+  {
+    "city": "Šumperk",
+    "admin": "Olomoucký Kraj",
+    "sort": "25452"
+  },
+  {
+    "city": "Vsetín",
+    "admin": "Zlínský Kraj",
+    "sort": "25782"
+  },
+  {
+    "city": "Uherské Hradiště",
+    "admin": "Zlínský Kraj",
+    "sort": "25001"
+  },
+  {
+    "city": "Litoměřice",
+    "admin": "Ústecký Kraj",
+    "sort": "23623"
+  },
+  {
+    "city": "Břeclav",
+    "admin": "Jihomoravský Kraj",
+    "sort": "24554"
+  },
+  {
+    "city": "Český Těšín",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "24069"
+  },
+  {
+    "city": "Hodonín",
+    "admin": "Jihomoravský Kraj",
+    "sort": "24385"
+  },
+  {
+    "city": "Litvínov",
+    "admin": "Ústecký Kraj",
+    "sort": "23489"
+  },
+  {
+    "city": "Sokolov",
+    "admin": "Karlovarský Kraj",
+    "sort": "22924"
+  },
+  {
+    "city": "Chrudim",
+    "admin": "Pardubický Kraj",
+    "sort": "23140"
+  },
+  {
+    "city": "Nový Jičín",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "23151"
+  },
+  {
+    "city": "Krnov",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "23130"
+  },
+  {
+    "city": "Havlíčkŭv Brod",
+    "admin": "Vysočina",
+    "sort": "23255"
+  },
+  {
+    "city": "Strakonice",
+    "admin": "Jihočeský Kraj",
+    "sort": "22428"
+  },
+  {
+    "city": "Valašské Meziříčí",
+    "admin": "Zlínský Kraj",
+    "sort": "22149"
+  },
+  {
+    "city": "Kopřivnice",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "21657"
+  },
+  {
+    "city": "Klatovy",
+    "admin": "Plzeňský Kraj",
+    "sort": "22140"
+  },
+  {
+    "city": "Kutná Hora",
+    "admin": "Středočeský Kraj",
+    "sort": "20828"
+  },
+  {
+    "city": "Jindřichŭv Hradec",
+    "admin": "Jihočeský Kraj",
+    "sort": "21169"
+  },
+  {
+    "city": "Vyškov",
+    "admin": "Jihomoravský Kraj",
+    "sort": "20676"
+  },
+  {
+    "city": "Žďár nad Sázavou",
+    "admin": "Vysočina",
+    "sort": "20485"
+  },
+  {
+    "city": "Bohumín",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "20308"
+  },
+  {
+    "city": "Blansko",
+    "admin": "Jihomoravský Kraj",
+    "sort": "20306"
+  },
+  {
+    "city": "Beroun",
+    "admin": "Středočeský Kraj",
+    "sort": "19988"
+  },
+  {
+    "city": "Mělník",
+    "admin": "Středočeský Kraj",
+    "sort": "19579"
+  },
+  {
+    "city": "Jirkov",
+    "admin": "Ústecký Kraj",
+    "sort": "19200"
+  },
+  {
+    "city": "Náchod",
+    "admin": "Královéhradecký Kraj",
+    "sort": "19688"
+  },
+  {
+    "city": "Brandýs nad Labem-Stará Boleslav",
+    "admin": "Středočeský Kraj",
+    "sort": "19420"
+  },
+  {
+    "city": "Kralupy nad Vltavou",
+    "admin": "Středočeský Kraj",
+    "sort": "18485"
+  },
+  {
+    "city": "Žatec",
+    "admin": "Ústecký Kraj",
+    "sort": "18823"
+  },
+  {
+    "city": "Louny",
+    "admin": "Ústecký Kraj",
+    "sort": "18156"
+  },
+  {
+    "city": "Otrokovice",
+    "admin": "Zlínský Kraj",
+    "sort": "17592"
+  },
+  {
+    "city": "Kadaň",
+    "admin": "Ústecký Kraj",
+    "sort": "18133"
+  },
+  {
+    "city": "Hranice",
+    "admin": "Olomoucký Kraj",
+    "sort": "17818"
+  },
+  {
+    "city": "Bílina",
+    "admin": "Ústecký Kraj",
+    "sort": "17103"
+  },
+  {
+    "city": "Jičín",
+    "admin": "Královéhradecký Kraj",
+    "sort": "16551"
+  },
+  {
+    "city": "Benešov",
+    "admin": "Středočeský Kraj",
+    "sort": "16804"
+  },
+  {
+    "city": "Svitavy",
+    "admin": "Pardubický Kraj",
+    "sort": "16601"
+  },
+  {
+    "city": "Neratovice",
+    "admin": "Středočeský Kraj",
+    "sort": "16138"
+  },
+  {
+    "city": "Ostrov",
+    "admin": "Karlovarský Kraj",
+    "sort": "16491"
+  },
+  {
+    "city": "Říčany",
+    "admin": "Středočeský Kraj",
+    "sort": "16167"
+  },
+  {
+    "city": "Uherský Brod",
+    "admin": "Zlínský Kraj",
+    "sort": "16409"
+  },
+  {
+    "city": "Rožnov pod Radhoštěm",
+    "admin": "Zlínský Kraj",
+    "sort": "16280"
+  },
+  {
+    "city": "Rakovník",
+    "admin": "Středočeský Kraj",
+    "sort": "15652"
+  },
+  {
+    "city": "Slaný",
+    "admin": "Středočeský Kraj",
+    "sort": "16010"
+  },
+  {
+    "city": "Bruntál",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "15908"
+  },
+  {
+    "city": "Pelhřimov",
+    "admin": "Vysočina",
+    "sort": "16012"
+  },
+  {
+    "city": "Dvůr Králové nad Labem",
+    "admin": "Královéhradecký Kraj",
+    "sort": "15471"
+  },
+  {
+    "city": "Nymburk",
+    "admin": "Středočeský Kraj",
+    "sort": "15106"
+  },
+  {
+    "city": "Varnsdorf",
+    "admin": "Ústecký Kraj",
+    "sort": "15117"
+  },
+  {
+    "city": "Česká Třebová",
+    "admin": "Pardubický Kraj",
+    "sort": "15267"
+  },
+  {
+    "city": "Turnov",
+    "admin": "Liberecký Kraj",
+    "sort": "14391"
+  },
+  {
+    "city": "Poděbrady",
+    "admin": "Středočeský Kraj",
+    "sort": "14469"
+  },
+  {
+    "city": "Rokycany",
+    "admin": "Plzeňský Kraj",
+    "sort": "14313"
+  },
+  {
+    "city": "Klášterec nad Ohří",
+    "admin": "Ústecký Kraj",
+    "sort": "14365"
+  },
+  {
+    "city": "Ústí nad Orlicí",
+    "admin": "Pardubický Kraj",
+    "sort": "14209"
+  },
+  {
+    "city": "Hlučín",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "13805"
+  },
+  {
+    "city": "Chodov",
+    "admin": "Karlovarský Kraj",
+    "sort": "13089"
+  },
+  {
+    "city": "Zábřeh",
+    "admin": "Olomoucký Kraj",
+    "sort": "13479"
+  },
+  {
+    "city": "Šternberk",
+    "admin": "Olomoucký Kraj",
+    "sort": "13388"
+  },
+  {
+    "city": "Roudnice nad Labem",
+    "admin": "Ústecký Kraj",
+    "sort": "12770"
+  },
+  {
+    "city": "Tachov",
+    "admin": "Plzeňský Kraj",
+    "sort": "13072"
+  },
+  {
+    "city": "Český Krumlov",
+    "admin": "Jihočeský Kraj",
+    "sort": "12788"
+  },
+  {
+    "city": "Aš",
+    "admin": "Karlovarský Kraj",
+    "sort": "13105"
+  },
+  {
+    "city": "Čelákovice",
+    "admin": "Středočeský Kraj",
+    "sort": "12293"
+  },
+  {
+    "city": "Mariánské Lázně",
+    "admin": "Karlovarský Kraj",
+    "sort": "12752"
+  },
+  {
+    "city": "Jaroměř",
+    "admin": "Královéhradecký Kraj",
+    "sort": "12324"
+  },
+  {
+    "city": "Krupka",
+    "admin": "Ústecký Kraj",
+    "sort": "12547"
+  },
+  {
+    "city": "Vrchlabí",
+    "admin": "Královéhradecký Kraj",
+    "sort": "12289"
+  },
+  {
+    "city": "Milovice",
+    "admin": "Středočeský Kraj",
+    "sort": "12249"
+  },
+  {
+    "city": "Vysoké Mýto",
+    "admin": "Pardubický Kraj",
+    "sort": "12267"
+  },
+  {
+    "city": "Nový Bor",
+    "admin": "Liberecký Kraj",
+    "sort": "11582"
+  },
+  {
+    "city": "Boskovice",
+    "admin": "Jihomoravský Kraj",
+    "sort": "11726"
+  },
+  {
+    "city": "Holešov",
+    "admin": "Zlínský Kraj",
+    "sort": "11509"
+  },
+  {
+    "city": "Vlašim",
+    "admin": "Středočeský Kraj",
+    "sort": "11496"
+  },
+  {
+    "city": "Velké Meziříčí",
+    "admin": "Vysočina",
+    "sort": "11452"
+  },
+  {
+    "city": "Frenštát pod Radhoštěm",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "10766"
+  },
+  {
+    "city": "Kuřim",
+    "admin": "Jihomoravský Kraj",
+    "sort": "11021"
+  },
+  {
+    "city": "Uničov",
+    "admin": "Olomoucký Kraj",
+    "sort": "11281"
+  },
+  {
+    "city": "Domažlice",
+    "admin": "Plzeňský Kraj",
+    "sort": "11056"
+  },
+  {
+    "city": "Kyjov",
+    "admin": "Jihomoravský Kraj",
+    "sort": "11105"
+  },
+  {
+    "city": "Rumburk",
+    "admin": "Ústecký Kraj",
+    "sort": "10903"
+  },
+  {
+    "city": "Jeseník",
+    "admin": "Olomoucký Kraj",
+    "sort": "10977"
+  },
+  {
+    "city": "Rychnov nad Kněžnou",
+    "admin": "Královéhradecký Kraj",
+    "sort": "10899"
+  },
+  {
+    "city": "Sušice",
+    "admin": "Plzeňský Kraj",
+    "sort": "10957"
+  },
+  {
+    "city": "Humpolec",
+    "admin": "Vysočina",
+    "sort": "10975"
+  },
+  {
+    "city": "Veselí nad Moravou",
+    "admin": "Jihomoravský Kraj",
+    "sort": "10807"
+  },
+  {
+    "city": "Prachatice",
+    "admin": "Jihočeský Kraj",
+    "sort": "10706"
+  },
+  {
+    "city": "Čáslav",
+    "admin": "Středočeský Kraj",
+    "sort": "10350"
+  },
+  {
+    "city": "Králŭv Dvŭr",
+    "admin": "Středočeský Kraj",
+    "sort": "9940"
+  },
+  {
+    "city": "Jesenice",
+    "admin": "Středočeský Kraj",
+    "sort": "9997"
+  },
+  {
+    "city": "Litomyšl",
+    "admin": "Pardubický Kraj",
+    "sort": "10240"
+  },
+  {
+    "city": "Frýdlant nad Ostravicí",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "9926"
+  },
+  {
+    "city": "Lanškroun",
+    "admin": "Pardubický Kraj",
+    "sort": "9800"
+  },
+  {
+    "city": "Přelouč",
+    "admin": "Pardubický Kraj",
+    "sort": "9875"
+  },
+  {
+    "city": "Nové Město na Moravě",
+    "admin": "Vysočina",
+    "sort": "10006"
+  },
+  {
+    "city": "Lysá nad Labem",
+    "admin": "Středočeský Kraj",
+    "sort": "9825"
+  },
+  {
+    "city": "Ivančice",
+    "admin": "Jihomoravský Kraj",
+    "sort": "9854"
+  },
+  {
+    "city": "Moravská Třebová",
+    "admin": "Pardubický Kraj",
+    "sort": "9795"
+  },
+  {
+    "city": "Hlinsko",
+    "admin": "Pardubický Kraj",
+    "sort": "9602"
+  },
+  {
+    "city": "Litovel",
+    "admin": "Olomoucký Kraj",
+    "sort": "9651"
+  },
+  {
+    "city": "Roztoky",
+    "admin": "Středočeský Kraj",
+    "sort": "8783"
+  },
+  {
+    "city": "Tišnov",
+    "admin": "Jihomoravský Kraj",
+    "sort": "9267"
+  },
+  {
+    "city": "Studénka",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "9466"
+  },
+  {
+    "city": "Nové Město nad Metují",
+    "admin": "Královéhradecký Kraj",
+    "sort": "9317"
+  },
+  {
+    "city": "Hostivice",
+    "admin": "Středočeský Kraj",
+    "sort": "8917"
+  },
+  {
+    "city": "Mohelnice",
+    "admin": "Olomoucký Kraj",
+    "sort": "9255"
+  },
+  {
+    "city": "Lovosice",
+    "admin": "Ústecký Kraj",
+    "sort": "8715"
+  },
+  {
+    "city": "Nová Paka",
+    "admin": "Liberecký Kraj",
+    "sort": "9044"
+  },
+  {
+    "city": "Chotěboř",
+    "admin": "Vysočina",
+    "sort": "9103"
+  },
+  {
+    "city": "Duchcov",
+    "admin": "Ústecký Kraj",
+    "sort": "8582"
+  },
+  {
+    "city": "Mnichovo Hradiště",
+    "admin": "Středočeský Kraj",
+    "sort": "8858"
+  },
+  {
+    "city": "Polička",
+    "admin": "Pardubický Kraj",
+    "sort": "8808"
+  },
+  {
+    "city": "Dobříš",
+    "admin": "Středočeský Kraj",
+    "sort": "8828"
+  },
+  {
+    "city": "Choceň",
+    "admin": "Pardubický Kraj",
+    "sort": "8584"
+  },
+  {
+    "city": "Hořice",
+    "admin": "Královéhradecký Kraj",
+    "sort": "8439"
+  },
+  {
+    "city": "Semily",
+    "admin": "Liberecký Kraj",
+    "sort": "8311"
+  },
+  {
+    "city": "Příbor",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "8428"
+  },
+  {
+    "city": "Štětí",
+    "admin": "Ústecký Kraj",
+    "sort": "8584"
+  },
+  {
+    "city": "Červený Kostelec",
+    "admin": "Královéhradecký Kraj",
+    "sort": "8332"
+  },
+  {
+    "city": "Bystřice pod Hostýnem",
+    "admin": "Zlínský Kraj",
+    "sort": "8129"
+  },
+  {
+    "city": "Milevsko",
+    "admin": "Jihočeský Kraj",
+    "sort": "8185"
+  },
+  {
+    "city": "Třeboň",
+    "admin": "Jihočeský Kraj",
+    "sort": "8150"
+  },
+  {
+    "city": "Šlapanice",
+    "admin": "Jihomoravský Kraj",
+    "sort": "7703"
+  },
+  {
+    "city": "Rýmařov",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "8081"
+  },
+  {
+    "city": "Lipník nad Bečvou",
+    "admin": "Olomoucký Kraj",
+    "sort": "7953"
+  },
+  {
+    "city": "Černošice",
+    "admin": "Středočeský Kraj",
+    "sort": "7382"
+  },
+  {
+    "city": "Bystřice nad Pernštejnem",
+    "admin": "Vysočina",
+    "sort": "7982"
+  },
+  {
+    "city": "Týn nad Vltavou",
+    "admin": "Jihočeský Kraj",
+    "sort": "7887"
+  },
+  {
+    "city": "Dubí",
+    "admin": "Ústecký Kraj",
+    "sort": "7809"
+  },
+  {
+    "city": "Sezimovo Ústí",
+    "admin": "Jihočeský Kraj",
+    "sort": "7176"
+  },
+  {
+    "city": "Rychvald",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "7572"
+  },
+  {
+    "city": "Nejdek",
+    "admin": "Karlovarský Kraj",
+    "sort": "7790"
+  },
+  {
+    "city": "Hrádek nad Nisou",
+    "admin": "Liberecký Kraj",
+    "sort": "7744"
+  },
+  {
+    "city": "Vratimov",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "7356"
+  },
+  {
+    "city": "Petřvald",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "7296"
+  },
+  {
+    "city": "Stříbro",
+    "admin": "Plzeňský Kraj",
+    "sort": "7687"
+  },
+  {
+    "city": "Benátky nad Jizerou",
+    "admin": "Středočeský Kraj",
+    "sort": "7575"
+  },
+  {
+    "city": "Frýdlant",
+    "admin": "Liberecký Kraj",
+    "sort": "7478"
+  },
+  {
+    "city": "Hořovice",
+    "admin": "Středočeský Kraj",
+    "sort": "6939"
+  },
+  {
+    "city": "Úvaly",
+    "admin": "Středočeský Kraj",
+    "sort": "7023"
+  },
+  {
+    "city": "Mikulov",
+    "admin": "Jihomoravský Kraj",
+    "sort": "7479"
+  },
+  {
+    "city": "Broumov",
+    "admin": "Královéhradecký Kraj",
+    "sort": "7272"
+  },
+  {
+    "city": "Bílovec",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "7399"
+  },
+  {
+    "city": "Slavkov u Brna",
+    "admin": "Jihomoravský Kraj",
+    "sort": "7045"
+  },
+  {
+    "city": "Vimperk",
+    "admin": "Jihočeský Kraj",
+    "sort": "7400"
+  },
+  {
+    "city": "Napajedla",
+    "admin": "Zlínský Kraj",
+    "sort": "7127"
+  },
+  {
+    "city": "Moravské Budějovice",
+    "admin": "Vysočina",
+    "sort": "7256"
+  },
+  {
+    "city": "Český Brod",
+    "admin": "Středočeský Kraj",
+    "sort": "7066"
+  },
+  {
+    "city": "Kaplice",
+    "admin": "Jihočeský Kraj",
+    "sort": "7241"
+  },
+  {
+    "city": "Odry",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "7286"
+  },
+  {
+    "city": "Přeštice",
+    "admin": "Plzeňský Kraj",
+    "sort": "7049"
+  },
+  {
+    "city": "Dačice",
+    "admin": "Jihočeský Kraj",
+    "sort": "7192"
+  },
+  {
+    "city": "Nýřany",
+    "admin": "Plzeňský Kraj",
+    "sort": "6979"
+  },
+  {
+    "city": "Soběslav",
+    "admin": "Jihočeský Kraj",
+    "sort": "6928"
+  },
+  {
+    "city": "Vodňany",
+    "admin": "Jihočeský Kraj",
+    "sort": "6995"
+  },
+  {
+    "city": "Nový Bydžov",
+    "admin": "Královéhradecký Kraj",
+    "sort": "6924"
+  },
+  {
+    "city": "Sedlčany",
+    "admin": "Středočeský Kraj",
+    "sort": "6922"
+  },
+  {
+    "city": "Kravaře",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "6662"
+  },
+  {
+    "city": "Holice",
+    "admin": "Pardubický Kraj",
+    "sort": "6603"
+  },
+  {
+    "city": "Hulín",
+    "admin": "Zlínský Kraj",
+    "sort": "6687"
+  },
+  {
+    "city": "Staré Město",
+    "admin": "Zlínský Kraj",
+    "sort": "6572"
+  },
+  {
+    "city": "Rosice",
+    "admin": "Jihomoravský Kraj",
+    "sort": "6368"
+  },
+  {
+    "city": "Letovice",
+    "admin": "Jihomoravský Kraj",
+    "sort": "6720"
+  },
+  {
+    "city": "Dobruška",
+    "admin": "Královéhradecký Kraj",
+    "sort": "6651"
+  },
+  {
+    "city": "Šenov",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "6419"
+  },
+  {
+    "city": "Kraslice",
+    "admin": "Karlovarský Kraj",
+    "sort": "6705"
+  },
+  {
+    "city": "Mimoň",
+    "admin": "Liberecký Kraj",
+    "sort": "6369"
+  },
+  {
+    "city": "Odolena Voda",
+    "admin": "Středočeský Kraj",
+    "sort": "6200"
+  },
+  {
+    "city": "Letohrad",
+    "admin": "Pardubický Kraj",
+    "sort": "6439"
+  },
+  {
+    "city": "Bučovice",
+    "admin": "Jihomoravský Kraj",
+    "sort": "6491"
+  },
+  {
+    "city": "Blatná",
+    "admin": "Jihočeský Kraj",
+    "sort": "6543"
+  },
+  {
+    "city": "Tanvald",
+    "admin": "Liberecký Kraj",
+    "sort": "6146"
+  },
+  {
+    "city": "Dubňany",
+    "admin": "Jihomoravský Kraj",
+    "sort": "6327"
+  },
+  {
+    "city": "Světlá nad Sázavou",
+    "admin": "Vysočina",
+    "sort": "6429"
+  },
+  {
+    "city": "Veselí nad Lužnicí",
+    "admin": "Jihočeský Kraj",
+    "sort": "6334"
+  },
+  {
+    "city": "Chrastava",
+    "admin": "Liberecký Kraj",
+    "sort": "6279"
+  },
+  {
+    "city": "Slavičín",
+    "admin": "Zlínský Kraj",
+    "sort": "6316"
+  },
+  {
+    "city": "Podbořany",
+    "admin": "Ústecký Kraj",
+    "sort": "6392"
+  },
+  {
+    "city": "Kostelec nad Orlicí",
+    "admin": "Královéhradecký Kraj",
+    "sort": "6188"
+  },
+  {
+    "city": "Žamberk",
+    "admin": "Pardubický Kraj",
+    "sort": "6028"
+  },
+  {
+    "city": "Hronov",
+    "admin": "Královéhradecký Kraj",
+    "sort": "6075"
+  },
+  {
+    "city": "Dobřany",
+    "admin": "Plzeňský Kraj",
+    "sort": "6169"
+  },
+  {
+    "city": "Mníšek pod Brdy",
+    "admin": "Středočeský Kraj",
+    "sort": "6085"
+  },
+  {
+    "city": "Železný Brod",
+    "admin": "Liberecký Kraj",
+    "sort": "6011"
+  },
+  {
+    "city": "Hustopeče",
+    "admin": "Jihomoravský Kraj",
+    "sort": "5974"
+  },
+  {
+    "city": "Týniště nad Orlicí",
+    "admin": "Královéhradecký Kraj",
+    "sort": "6050"
+  },
+  {
+    "city": "Kojetín",
+    "admin": "Olomoucký Kraj",
+    "sort": "5962"
+  },
+  {
+    "city": "Nové Strašecí",
+    "admin": "Středočeský Kraj",
+    "sort": "5602"
+  },
+  {
+    "city": "Úpice",
+    "admin": "Královéhradecký Kraj",
+    "sort": "5622"
+  },
+  {
+    "city": "Třebechovice pod Orebem",
+    "admin": "Královéhradecký Kraj",
+    "sort": "5716"
+  },
+  {
+    "city": "Rousínov",
+    "admin": "Jihomoravský Kraj",
+    "sort": "5730"
+  },
+  {
+    "city": "Jablunkov",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "5445"
+  },
+  {
+    "city": "Modřice",
+    "admin": "Jihomoravský Kraj",
+    "sort": "5410"
+  },
+  {
+    "city": "Týnec nad Sázavou",
+    "admin": "Středočeský Kraj",
+    "sort": "5699"
+  },
+  {
+    "city": "Chlumec nad Cidlinou",
+    "admin": "Královéhradecký Kraj",
+    "sort": "5600"
+  },
+  {
+    "city": "Šluknov",
+    "admin": "Ústecký Kraj",
+    "sort": "5727"
+  },
+  {
+    "city": "Jilemnice",
+    "admin": "Liberecký Kraj",
+    "sort": "5417"
+  },
+  {
+    "city": "Třešť",
+    "admin": "Vysočina",
+    "sort": "5682"
+  },
+  {
+    "city": "Moravský Krumlov",
+    "admin": "Jihomoravský Kraj",
+    "sort": "5688"
+  },
+  {
+    "city": "Rudná",
+    "admin": "Středočeský Kraj",
+    "sort": "5157"
+  },
+  {
+    "city": "Lomnice nad Popelkou",
+    "admin": "Liberecký Kraj",
+    "sort": "5524"
+  },
+  {
+    "city": "Zubří",
+    "admin": "Zlínský Kraj",
+    "sort": "5535"
+  },
+  {
+    "city": "Vítkov",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "5620"
+  },
+  {
+    "city": "Kunovice",
+    "admin": "Zlínský Kraj",
+    "sort": "5516"
+  },
+  {
+    "city": "Bystřice",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "5373"
+  },
+  {
+    "city": "Fulnek",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "5561"
+  },
+  {
+    "city": "Strážnice",
+    "admin": "Jihomoravský Kraj",
+    "sort": "5467"
+  },
+  {
+    "city": "Kosmonosy",
+    "admin": "Středočeský Kraj",
+    "sort": "5176"
+  },
+  {
+    "city": "Františkovy Lázně",
+    "admin": "Karlovarský Kraj",
+    "sort": "5412"
+  },
+  {
+    "city": "Hradec nad Moravici",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "5493"
+  },
+  {
+    "city": "Stochov",
+    "admin": "Středočeský Kraj",
+    "sort": "5401"
+  },
+  {
+    "city": "Horní Slavkov",
+    "admin": "Karlovarský Kraj",
+    "sort": "5379"
+  },
+  {
+    "city": "Dolní Lutyně",
+    "admin": "Moravskoslezský Kraj",
+    "sort": "5298"
+  },
+  {
+    "city": "Hluboká nad Vltavou",
+    "admin": "Jihočeský Kraj",
+    "sort": "5451"
+  },
+  {
+    "city": "Planá",
+    "admin": "Plzeňský Kraj",
+    "sort": "5385"
+  },
+  {
+    "city": "Telč",
+    "admin": "Vysočina",
+    "sort": "5257"
+  },
+  {
+    "city": "Starý Plzenec",
+    "admin": "Plzeňský Kraj",
+    "sort": "5171"
+  },
+  {
+    "city": "Třemošná",
+    "admin": "Plzeňský Kraj",
+    "sort": "5139"
+  },
+  {
+    "city": "Trhové Sviny",
+    "admin": "Jihočeský Kraj",
+    "sort": "5279"
+  },
+  {
+    "city": "Pohořelice",
+    "admin": "Jihomoravský Kraj",
+    "sort": "5251"
+  },
+  {
+    "city": "Polná",
+    "admin": "Vysočina",
+    "sort": "5201"
+  },
+  {
+    "city": "Velká Bíteš",
+    "admin": "Vysočina",
+    "sort": "5227"
+  },
+  {
+    "city": "Horažďovice",
+    "admin": "Plzeňský Kraj",
+    "sort": "5213"
+  },
+  {
+    "city": "Bakov nad Jizerou",
+    "admin": "Středočeský Kraj",
+    "sort": "5141"
+  },
+  {
+    "city": "Česká Kamenice",
+    "admin": "Ústecký Kraj",
+    "sort": "5196"
+  },
+  {
+    "city": "Holýšov",
+    "admin": "Plzeňský Kraj",
+    "sort": "5152"
+  },
+  {
+    "city": "Kdyně",
+    "admin": "Plzeňský Kraj",
+    "sort": "5146"
+  },
+  {
+    "city": "Česká Skalice",
+    "admin": "Královéhradecký Kraj",
+    "sort": "5017"
+  },
+  {
+    "city": "Jílové",
+    "admin": "Ústecký Kraj",
+    "sort": "5110"
+  },
+  {
+    "city": "Doksy",
+    "admin": "Liberecký Kraj",
+    "sort": "5178"
+  },
+  {
+    "city": "Luhačovice",
+    "admin": "Zlínský Kraj",
+    "sort": "5077"
+  },
+  {
+    "city": "Skuteč",
+    "admin": "Pardubický Kraj",
+    "sort": "5059"
+  }
+]

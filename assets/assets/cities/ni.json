@@ -1,0 +1,262 @@
+[
+  {
+    "city": "Managua",
+    "admin": "Managua",
+    "sort": "1028808"
+  },
+  {
+    "city": "Boaco",
+    "admin": "Boaco",
+    "sort": "317000"
+  },
+  {
+    "city": "León",
+    "admin": "León",
+    "sort": "174051"
+  },
+  {
+    "city": "Masaya",
+    "admin": "Masaya",
+    "sort": "139582"
+  },
+  {
+    "city": "Jinotega",
+    "admin": "Jinotega",
+    "sort": "136342"
+  },
+  {
+    "city": "Matagalpa",
+    "admin": "Matagalpa",
+    "sort": "133416"
+  },
+  {
+    "city": "Estelí",
+    "admin": "Estelí",
+    "sort": "129924"
+  },
+  {
+    "city": "Chinandega",
+    "admin": "Chinandega",
+    "sort": "121793"
+  },
+  {
+    "city": "Tipitapa",
+    "admin": "Managua",
+    "sort": "108457"
+  },
+  {
+    "city": "Granada",
+    "admin": "Granada",
+    "sort": "105171"
+  },
+  {
+    "city": "Juigalpa",
+    "admin": "Chontales",
+    "sort": "60583"
+  },
+  {
+    "city": "Jinotepe",
+    "admin": "Carazo",
+    "sort": "52175"
+  },
+  {
+    "city": "Bluefields",
+    "admin": "Caribe Sur",
+    "sort": "45547"
+  },
+  {
+    "city": "Ocotal",
+    "admin": "Nueva Segovia",
+    "sort": "34580"
+  },
+  {
+    "city": "Bilwi",
+    "admin": "Caribe Norte",
+    "sort": "33600"
+  },
+  {
+    "city": "Rivas",
+    "admin": "Rivas",
+    "sort": "26046"
+  },
+  {
+    "city": "Somoto",
+    "admin": "Madriz",
+    "sort": "20300"
+  },
+  {
+    "city": "San Carlos",
+    "admin": "Río San Juan",
+    "sort": "13451"
+  },
+  {
+    "city": "Wiwilí",
+    "admin": "Nueva Segovia",
+    "sort": "74887"
+  },
+  {
+    "city": "Siuna",
+    "admin": "Caribe Norte",
+    "sort": "73730"
+  },
+  {
+    "city": "San José de Bocay",
+    "admin": "Jinotega",
+    "sort": "63922"
+  },
+  {
+    "city": "El Cuá",
+    "admin": "Jinotega",
+    "sort": "59307"
+  },
+  {
+    "city": "Diriamba",
+    "admin": "Carazo",
+    "sort": "57512"
+  },
+  {
+    "city": "El Rama",
+    "admin": "Caribe Sur",
+    "sort": "54337"
+  },
+  {
+    "city": "Chichigalpa",
+    "admin": "Chinandega",
+    "sort": "46185"
+  },
+  {
+    "city": "Waslala",
+    "admin": "Caribe Norte",
+    "sort": "43676"
+  },
+  {
+    "city": "Ciudad Darío",
+    "admin": "Matagalpa",
+    "sort": "41014"
+  },
+  {
+    "city": "El Viejo",
+    "admin": "Chinandega",
+    "sort": "39178"
+  },
+  {
+    "city": "Nandaime",
+    "admin": "Granada",
+    "sort": "37413"
+  },
+  {
+    "city": "San Sebastián de Yalí",
+    "admin": "Jinotega",
+    "sort": "35549"
+  },
+  {
+    "city": "La Trinidad",
+    "admin": "Managua",
+    "sort": "33840"
+  },
+  {
+    "city": "Condega",
+    "admin": "Estelí",
+    "sort": "30000"
+  },
+  {
+    "city": "San Marcos",
+    "admin": "Carazo",
+    "sort": "24000"
+  },
+  {
+    "city": "San Rafael del Sur",
+    "admin": "Managua",
+    "sort": "23420"
+  },
+  {
+    "city": "Corinto",
+    "admin": "Chinandega",
+    "sort": "22000"
+  },
+  {
+    "city": "San Rafael del Norte",
+    "admin": "Jinotega",
+    "sort": "22147"
+  },
+  {
+    "city": "Pueblo Nuevo",
+    "admin": "Estelí",
+    "sort": "20620"
+  },
+  {
+    "city": "El Castillo de La Concepción",
+    "admin": "Río San Juan",
+    "sort": "19864"
+  },
+  {
+    "city": "San Juan del Sur",
+    "admin": "Rivas",
+    "sort": "17104"
+  },
+  {
+    "city": "Bonanza",
+    "admin": "Caribe Norte",
+    "sort": "15000"
+  },
+  {
+    "city": "Niquinohomo",
+    "admin": "Masaya",
+    "sort": "13458"
+  },
+  {
+    "city": "El Realejo",
+    "admin": "Chinandega",
+    "sort": "10300"
+  },
+  {
+    "city": "Yalagüina",
+    "admin": "Madriz",
+    "sort": "9597"
+  },
+  {
+    "city": "Kukrahill",
+    "admin": "Caribe Sur",
+    "sort": "8790"
+  },
+  {
+    "city": "Catarina",
+    "admin": "Masaya",
+    "sort": "7524"
+  },
+  {
+    "city": "La Concordia",
+    "admin": "Jinotega",
+    "sort": "7320"
+  },
+  {
+    "city": "San José de Cusmapa",
+    "admin": "Madriz",
+    "sort": "7072"
+  },
+  {
+    "city": "Mozonte",
+    "admin": "Nueva Segovia",
+    "sort": "6795"
+  },
+  {
+    "city": "San Francisco del Norte",
+    "admin": "Chinandega",
+    "sort": "6758"
+  },
+  {
+    "city": "Prinzapolka",
+    "admin": "Caribe Norte",
+    "sort": "6189"
+  },
+  {
+    "city": "El Rosario",
+    "admin": "Carazo",
+    "sort": "5317"
+  },
+  {
+    "city": "Greytown",
+    "admin": "Río San Juan",
+    "sort": "275"
+  }
+]

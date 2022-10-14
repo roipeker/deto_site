@@ -1,0 +1,77 @@
+[
+  {
+    "city": "Kigali",
+    "admin": "Kigali",
+    "sort": "1156663"
+  },
+  {
+    "city": "Nyanza",
+    "admin": "Southern Province",
+    "sort": "225209"
+  },
+  {
+    "city": "Gisenyi",
+    "admin": "Western Province",
+    "sort": "136830"
+  },
+  {
+    "city": "Ruhengeri",
+    "admin": "Northern Province",
+    "sort": "59333"
+  },
+  {
+    "city": "Byumba",
+    "admin": "Northern Province",
+    "sort": "34544"
+  },
+  {
+    "city": "Rwamagana",
+    "admin": "Eastern Province",
+    "sort": "18009"
+  },
+  {
+    "city": "Kibuye",
+    "admin": "Western Province",
+    "sort": "12325"
+  },
+  {
+    "city": "Gitarama",
+    "admin": "Southern Province",
+    "sort": "87613"
+  },
+  {
+    "city": "Butare",
+    "admin": "Southern Province",
+    "sort": "50220"
+  },
+  {
+    "city": "Muhanga",
+    "admin": "Southern Province",
+    "sort": "49038"
+  },
+  {
+    "city": "Kabuga",
+    "admin": "Kigali",
+    "sort": "40202"
+  },
+  {
+    "city": "Cyangugu",
+    "admin": "Western Province",
+    "sort": "27416"
+  },
+  {
+    "city": "Gikongoro",
+    "admin": "Southern Province",
+    "sort": "16695"
+  },
+  {
+    "city": "Ruhango",
+    "admin": "Southern Province",
+    "sort": "17051"
+  },
+  {
+    "city": "Kibungo",
+    "admin": "Eastern Province",
+    "sort": "11537"
+  }
+]

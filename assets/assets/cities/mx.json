@@ -1,0 +1,4922 @@
+[
+  {
+    "city": "Mexico City",
+    "admin": "Ciudad de México",
+    "sort": "21505000"
+  },
+  {
+    "city": "Guadalajara",
+    "admin": "Jalisco",
+    "sort": "5437000"
+  },
+  {
+    "city": "Tijuana",
+    "admin": "Baja California",
+    "sort": "1922523"
+  },
+  {
+    "city": "Ecatepec",
+    "admin": "México",
+    "sort": "1857188"
+  },
+  {
+    "city": "León de los Aldama",
+    "admin": "Guanajuato",
+    "sort": "1579803"
+  },
+  {
+    "city": "Puebla",
+    "admin": "Puebla",
+    "sort": "1576259"
+  },
+  {
+    "city": "Zapopan",
+    "admin": "Jalisco",
+    "sort": "1476491"
+  },
+  {
+    "city": "Juárez",
+    "admin": "Chihuahua",
+    "sort": "1321004"
+  },
+  {
+    "city": "Monterrey",
+    "admin": "Nuevo León",
+    "sort": "1135512"
+  },
+  {
+    "city": "Ciudad Nezahualcóyotl",
+    "admin": "México",
+    "sort": "1109363"
+  },
+  {
+    "city": "Nezahualcóyotl",
+    "admin": "México",
+    "sort": "1077208"
+  },
+  {
+    "city": "Mexicali",
+    "admin": "Baja California",
+    "sort": "1049792"
+  },
+  {
+    "city": "Villahermosa",
+    "admin": "Tabasco",
+    "sort": "1013484"
+  },
+  {
+    "city": "Morelia",
+    "admin": "Michoacán de Ocampo",
+    "sort": "962555"
+  },
+  {
+    "city": "Aguascalientes",
+    "admin": "Aguascalientes",
+    "sort": "934424"
+  },
+  {
+    "city": "Naucalpan de Juárez",
+    "admin": "México",
+    "sort": "913681"
+  },
+  {
+    "city": "Mérida",
+    "admin": "Yucatán",
+    "sort": "892363"
+  },
+  {
+    "city": "Cancún",
+    "admin": "Quintana Roo",
+    "sort": "888797"
+  },
+  {
+    "city": "Chihuahua",
+    "admin": "Chihuahua",
+    "sort": "878062"
+  },
+  {
+    "city": "Saltillo",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "864431"
+  },
+  {
+    "city": "Hermosillo",
+    "admin": "Sonora",
+    "sort": "855563"
+  },
+  {
+    "city": "Culiacán",
+    "admin": "Sinaloa",
+    "sort": "808416"
+  },
+  {
+    "city": "Querétaro",
+    "admin": "Querétaro",
+    "sort": "801940"
+  },
+  {
+    "city": "San Luis Potosí",
+    "admin": "San Luis Potosí",
+    "sort": "772828"
+  },
+  {
+    "city": "Tlajomulco de Zúñiga",
+    "admin": "Jalisco",
+    "sort": "727750"
+  },
+  {
+    "city": "Torreón",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "716672"
+  },
+  {
+    "city": "Guadalupe",
+    "admin": "Nuevo León",
+    "sort": "691931"
+  },
+  {
+    "city": "Acapulco de Juárez",
+    "admin": "Guerrero",
+    "sort": "673478"
+  },
+  {
+    "city": "Tlaquepaque",
+    "admin": "Jalisco",
+    "sort": "664193"
+  },
+  {
+    "city": "Mazatlán",
+    "admin": "Sinaloa",
+    "sort": "658354"
+  },
+  {
+    "city": "Tlalnepantla",
+    "admin": "México",
+    "sort": "653410"
+  },
+  {
+    "city": "Durango",
+    "admin": "Durango",
+    "sort": "654876"
+  },
+  {
+    "city": "Chimalhuacán",
+    "admin": "México",
+    "sort": "614453"
+  },
+  {
+    "city": "Tuxtla",
+    "admin": "Chiapas",
+    "sort": "598710"
+  },
+  {
+    "city": "Irapuato",
+    "admin": "Guanajuato",
+    "sort": "592953"
+  },
+  {
+    "city": "Reynosa",
+    "admin": "Tamaulipas",
+    "sort": "589466"
+  },
+  {
+    "city": "Tonalá",
+    "admin": "Jalisco",
+    "sort": "569913"
+  },
+  {
+    "city": "Ensenada",
+    "admin": "Baja California",
+    "sort": "557430"
+  },
+  {
+    "city": "Heroica Matamoros",
+    "admin": "Tamaulipas",
+    "sort": "541979"
+  },
+  {
+    "city": "Tultitlán de Mariano Escobedo",
+    "admin": "México",
+    "sort": "520557"
+  },
+  {
+    "city": "Ciudad Apodaca",
+    "admin": "Nuevo León",
+    "sort": "523370"
+  },
+  {
+    "city": "Ixtapaluca",
+    "admin": "México",
+    "sort": "495566"
+  },
+  {
+    "city": "Ciudad López Mateos",
+    "admin": "México",
+    "sort": "489937"
+  },
+  {
+    "city": "Celaya",
+    "admin": "Guanajuato",
+    "sort": "494304"
+  },
+  {
+    "city": "Los Mochis",
+    "admin": "Sinaloa",
+    "sort": "490000"
+  },
+  {
+    "city": "San Nicolás de los Garza",
+    "admin": "Nuevo León",
+    "sort": "443273"
+  },
+  {
+    "city": "Veracruz",
+    "admin": "Veracruz",
+    "sort": "428323"
+  },
+  {
+    "city": "Xalapa",
+    "admin": "Veracruz",
+    "sort": "424755"
+  },
+  {
+    "city": "Nuevo Laredo",
+    "admin": "Tamaulipas",
+    "sort": "384033"
+  },
+  {
+    "city": "Tecámac",
+    "admin": "México",
+    "sort": "364579"
+  },
+  {
+    "city": "Orizaba",
+    "admin": "Veracruz",
+    "sort": "355333"
+  },
+  {
+    "city": "Minatitlán",
+    "admin": "Veracruz",
+    "sort": "356020"
+  },
+  {
+    "city": "Tapachula",
+    "admin": "Chiapas",
+    "sort": "348156"
+  },
+  {
+    "city": "Uruapan",
+    "admin": "Michoacán de Ocampo",
+    "sort": "334749"
+  },
+  {
+    "city": "Gómez Palacio",
+    "admin": "Durango",
+    "sort": "342286"
+  },
+  {
+    "city": "Cuernavaca",
+    "admin": "Morelos",
+    "sort": "338650"
+  },
+  {
+    "city": "Salamanca",
+    "admin": "Guanajuato",
+    "sort": "327169"
+  },
+  {
+    "city": "Ciudad Obregón",
+    "admin": "Sonora",
+    "sort": "329404"
+  },
+  {
+    "city": "Soledad de Graciano Sánchez",
+    "admin": "San Luis Potosí",
+    "sort": "332072"
+  },
+  {
+    "city": "Tepic",
+    "admin": "Nayarit",
+    "sort": "318781"
+  },
+  {
+    "city": "Guasave",
+    "admin": "Sinaloa",
+    "sort": "320000"
+  },
+  {
+    "city": "Tehuacán",
+    "admin": "Puebla",
+    "sort": "319375"
+  },
+  {
+    "city": "Coatzacoalcos",
+    "admin": "Veracruz",
+    "sort": "319187"
+  },
+  {
+    "city": "Playa del Carmen",
+    "admin": "Quintana Roo",
+    "sort": "304942"
+  },
+  {
+    "city": "Chalco",
+    "admin": "México",
+    "sort": "310130"
+  },
+  {
+    "city": "Ciudad Victoria",
+    "admin": "Tamaulipas",
+    "sort": "305155"
+  },
+  {
+    "city": "Ciudad Santa Catarina",
+    "admin": "Nuevo León",
+    "sort": "306322"
+  },
+  {
+    "city": "Oaxaca",
+    "admin": "Oaxaca",
+    "sort": "300050"
+  },
+  {
+    "city": "San Juan del Río",
+    "admin": "Querétaro",
+    "sort": "301237"
+  },
+  {
+    "city": "Ciudad General Escobedo",
+    "admin": "Nuevo León",
+    "sort": "299364"
+  },
+  {
+    "city": "Tampico",
+    "admin": "Tamaulipas",
+    "sort": "297284"
+  },
+  {
+    "city": "Pachuca",
+    "admin": "Hidalgo",
+    "sort": "297848"
+  },
+  {
+    "city": "Heroica Nogales",
+    "admin": "Sonora",
+    "sort": "261137"
+  },
+  {
+    "city": "Nogales",
+    "admin": "Sonora",
+    "sort": "264782"
+  },
+  {
+    "city": "Ciudad Benito Juárez",
+    "admin": "Nuevo León",
+    "sort": "260683"
+  },
+  {
+    "city": "La Paz",
+    "admin": "Baja California Sur",
+    "sort": "250141"
+  },
+  {
+    "city": "Monclova",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "237169"
+  },
+  {
+    "city": "Guadalupe",
+    "admin": "Zacatecas",
+    "sort": "215000"
+  },
+  {
+    "city": "Toluca",
+    "admin": "México",
+    "sort": "223876"
+  },
+  {
+    "city": "Fresnillo",
+    "admin": "Zacatecas",
+    "sort": "230865"
+  },
+  {
+    "city": "Huixquilucan",
+    "admin": "México",
+    "sort": "224042"
+  },
+  {
+    "city": "Campeche",
+    "admin": "Campeche",
+    "sort": "220389"
+  },
+  {
+    "city": "Córdoba",
+    "admin": "Veracruz",
+    "sort": "218153"
+  },
+  {
+    "city": "Zamora",
+    "admin": "Michoacán de Ocampo",
+    "sort": "207860"
+  },
+  {
+    "city": "Puerto Vallarta",
+    "admin": "Jalisco",
+    "sort": "203342"
+  },
+  {
+    "city": "Poza Rica de Hidalgo",
+    "admin": "Veracruz",
+    "sort": "200119"
+  },
+  {
+    "city": "Ciudad Madero",
+    "admin": "Tamaulipas",
+    "sort": "197216"
+  },
+  {
+    "city": "Cuautla",
+    "admin": "Morelos",
+    "sort": "194786"
+  },
+  {
+    "city": "Chilpancingo",
+    "admin": "Guerrero",
+    "sort": "182387"
+  },
+  {
+    "city": "Guanajuato",
+    "admin": "Guanajuato",
+    "sort": "194500"
+  },
+  {
+    "city": "San Luis Río Colorado",
+    "admin": "Sonora",
+    "sort": "176685"
+  },
+  {
+    "city": "Teziutlan",
+    "admin": "Puebla",
+    "sort": "177796"
+  },
+  {
+    "city": "Chicoloapan",
+    "admin": "México",
+    "sort": "175053"
+  },
+  {
+    "city": "Santa María Texmelucan",
+    "admin": "Puebla",
+    "sort": "175518"
+  },
+  {
+    "city": "Ciudad Valles",
+    "admin": "San Luis Potosí",
+    "sort": "177022"
+  },
+  {
+    "city": "Ciudad del Carmen",
+    "admin": "Campeche",
+    "sort": "169466"
+  },
+  {
+    "city": "Comitán",
+    "admin": "Chiapas",
+    "sort": "170000"
+  },
+  {
+    "city": "Lagos de Moreno",
+    "admin": "Jalisco",
+    "sort": "164981"
+  },
+  {
+    "city": "Chetumal",
+    "admin": "Quintana Roo",
+    "sort": "169028"
+  },
+  {
+    "city": "San Andrés Tuxtla",
+    "admin": "Veracruz",
+    "sort": "164834"
+  },
+  {
+    "city": "Piedras Negras",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "173959"
+  },
+  {
+    "city": "Cuauhtémoc",
+    "admin": "Chihuahua",
+    "sort": "168482"
+  },
+  {
+    "city": "Jiutepec",
+    "admin": "Morelos",
+    "sort": "162427"
+  },
+  {
+    "city": "Ciudad Acuña",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "160225"
+  },
+  {
+    "city": "San Martin Texmelucan de Labastida",
+    "admin": "Puebla",
+    "sort": "152051"
+  },
+  {
+    "city": "Tuxtepec",
+    "admin": "Oaxaca",
+    "sort": "162511"
+  },
+  {
+    "city": "Tulancingo",
+    "admin": "Hidalgo",
+    "sort": "161069"
+  },
+  {
+    "city": "Papantla de Olarte",
+    "admin": "Veracruz",
+    "sort": "161097"
+  },
+  {
+    "city": "San Cristóbal",
+    "admin": "Chiapas",
+    "sort": "158121"
+  },
+  {
+    "city": "Guaymas",
+    "admin": "Sonora",
+    "sort": "156863"
+  },
+  {
+    "city": "Colima",
+    "admin": "Colima",
+    "sort": "150673"
+  },
+  {
+    "city": "Kanasín",
+    "admin": "Yucatán",
+    "sort": "139753"
+  },
+  {
+    "city": "Ixtlahuaca",
+    "admin": "México",
+    "sort": "153184"
+  },
+  {
+    "city": "Delicias",
+    "admin": "Chihuahua",
+    "sort": "150506"
+  },
+  {
+    "city": "Valle de Santiago",
+    "admin": "Guanajuato",
+    "sort": "150054"
+  },
+  {
+    "city": "Pénjamo",
+    "admin": "Guanajuato",
+    "sort": "149936"
+  },
+  {
+    "city": "García",
+    "admin": "Nuevo León",
+    "sort": "145867"
+  },
+  {
+    "city": "Cuautitlán Izcalli",
+    "admin": "México",
+    "sort": "140059"
+  },
+  {
+    "city": "Tepatitlán de Morelos",
+    "admin": "Jalisco",
+    "sort": "141322"
+  },
+  {
+    "city": "Iguala de la Independencia",
+    "admin": "Guerrero",
+    "sort": "140363"
+  },
+  {
+    "city": "San José del Cabo",
+    "admin": "Baja California Sur",
+    "sort": "136285"
+  },
+  {
+    "city": "Tultepec",
+    "admin": "México",
+    "sort": "131567"
+  },
+  {
+    "city": "Apatzingan de la Constitucion",
+    "admin": "Michoacán de Ocampo",
+    "sort": "128250"
+  },
+  {
+    "city": "Cholula de Rivadabia",
+    "admin": "Puebla",
+    "sort": "129032"
+  },
+  {
+    "city": "Huejutla de Reyes",
+    "admin": "Hidalgo",
+    "sort": "129919"
+  },
+  {
+    "city": "Miramar",
+    "admin": "Tamaulipas",
+    "sort": "118614"
+  },
+  {
+    "city": "Matamoros",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "118337"
+  },
+  {
+    "city": "Villa de Álvarez",
+    "admin": "Colima",
+    "sort": "117600"
+  },
+  {
+    "city": "San Pedro Garza García",
+    "admin": "Nuevo León",
+    "sort": "122659"
+  },
+  {
+    "city": "Zacatecas",
+    "admin": "Zacatecas",
+    "sort": "122889"
+  },
+  {
+    "city": "Las Margaritas",
+    "admin": "Chiapas",
+    "sort": "122821"
+  },
+  {
+    "city": "Ciudad Hidalgo",
+    "admin": "Michoacán de Ocampo",
+    "sort": "122619"
+  },
+  {
+    "city": "Chilapa de Álvarez",
+    "admin": "Guerrero",
+    "sort": "120790"
+  },
+  {
+    "city": "Navojoa",
+    "admin": "Sonora",
+    "sort": "120926"
+  },
+  {
+    "city": "Tizayuca",
+    "admin": "Morelos",
+    "sort": "119442"
+  },
+  {
+    "city": "Cuautitlán",
+    "admin": "México",
+    "sort": "110385"
+  },
+  {
+    "city": "Martínez de la Torre",
+    "admin": "Veracruz",
+    "sort": "110415"
+  },
+  {
+    "city": "Heroica Guaymas",
+    "admin": "Sonora",
+    "sort": "117253"
+  },
+  {
+    "city": "San Antonio Enchisi",
+    "admin": "México",
+    "sort": "110560"
+  },
+  {
+    "city": "Las Delicias",
+    "admin": "Chihuahua",
+    "sort": "114783"
+  },
+  {
+    "city": "Parral",
+    "admin": "Chihuahua",
+    "sort": "104836"
+  },
+  {
+    "city": "Manzanillo",
+    "admin": "Colima",
+    "sort": "110735"
+  },
+  {
+    "city": "Túxpam de Rodríguez Cano",
+    "admin": "Veracruz",
+    "sort": "109049"
+  },
+  {
+    "city": "Temoaya",
+    "admin": "Morelos",
+    "sort": "105766"
+  },
+  {
+    "city": "Ciudad Río Bravo",
+    "admin": "Tamaulipas",
+    "sort": "101481"
+  },
+  {
+    "city": "Playas de Rosarito",
+    "admin": "Baja California",
+    "sort": "100660"
+  },
+  {
+    "city": "Texcoco",
+    "admin": "México",
+    "sort": "105165"
+  },
+  {
+    "city": "Ciudad Guzmán",
+    "admin": "Jalisco",
+    "sort": "97750"
+  },
+  {
+    "city": "Tantoyuca",
+    "admin": "Veracruz",
+    "sort": "103616"
+  },
+  {
+    "city": "Coatepec",
+    "admin": "Veracruz",
+    "sort": "92127"
+  },
+  {
+    "city": "San Luis de la Paz",
+    "admin": "Guanajuato",
+    "sort": "101370"
+  },
+  {
+    "city": "Tecomán",
+    "admin": "Colima",
+    "sort": "91321"
+  },
+  {
+    "city": "Ciudad Lázaro Cárdenas",
+    "admin": "Michoacán de Ocampo",
+    "sort": "79200"
+  },
+  {
+    "city": "Acayucan",
+    "admin": "Veracruz",
+    "sort": "83817"
+  },
+  {
+    "city": "Xicotepec de Juárez",
+    "admin": "Puebla",
+    "sort": "81455"
+  },
+  {
+    "city": "Tala",
+    "admin": "Jalisco",
+    "sort": "80365"
+  },
+  {
+    "city": "Apizaco",
+    "admin": "Tlaxcala",
+    "sort": "81565"
+  },
+  {
+    "city": "Salina Cruz",
+    "admin": "Oaxaca",
+    "sort": "81063"
+  },
+  {
+    "city": "Tacámbaro de Codallos",
+    "admin": "Michoacán de Ocampo",
+    "sort": "76661"
+  },
+  {
+    "city": "Ciudad Lerdo",
+    "admin": "Durango",
+    "sort": "79669"
+  },
+  {
+    "city": "Cozumel",
+    "admin": "Quintana Roo",
+    "sort": "77236"
+  },
+  {
+    "city": "Tecate",
+    "admin": "Baja California",
+    "sort": "81059"
+  },
+  {
+    "city": "Silao",
+    "admin": "Guanajuato",
+    "sort": "74242"
+  },
+  {
+    "city": "Juchitán de Zaragoza",
+    "admin": "Oaxaca",
+    "sort": "74825"
+  },
+  {
+    "city": "Los Reyes de Salgado",
+    "admin": "Michoacán de Ocampo",
+    "sort": "69723"
+  },
+  {
+    "city": "Tejupilco",
+    "admin": "México",
+    "sort": "71077"
+  },
+  {
+    "city": "Frontera",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "75242"
+  },
+  {
+    "city": "Perote",
+    "admin": "Veracruz",
+    "sort": "72795"
+  },
+  {
+    "city": "San Miguel de Allende",
+    "admin": "Guanajuato",
+    "sort": "69811"
+  },
+  {
+    "city": "Tamazunchale",
+    "admin": "San Luis Potosí",
+    "sort": "72685"
+  },
+  {
+    "city": "Dolores Hidalgo Cuna de la Independencia Nacional",
+    "admin": "Guanajuato",
+    "sort": "67101"
+  },
+  {
+    "city": "Ixtaczoquitlán",
+    "admin": "Veracruz",
+    "sort": "68823"
+  },
+  {
+    "city": "Rioverde",
+    "admin": "San Luis Potosí",
+    "sort": "69613"
+  },
+  {
+    "city": "Matehuala",
+    "admin": "San Luis Potosí",
+    "sort": "67717"
+  },
+  {
+    "city": "Cabo San Lucas",
+    "admin": "Baja California Sur",
+    "sort": "68463"
+  },
+  {
+    "city": "Misantla",
+    "admin": "Veracruz",
+    "sort": "64249"
+  },
+  {
+    "city": "Ramos Arizpe",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "66554"
+  },
+  {
+    "city": "Valle Hermoso",
+    "admin": "Tamaulipas",
+    "sort": "68573"
+  },
+  {
+    "city": "Huatusco",
+    "admin": "Veracruz",
+    "sort": "60674"
+  },
+  {
+    "city": "Heroica Caborca",
+    "admin": "Sonora",
+    "sort": "67604"
+  },
+  {
+    "city": "Cortazar",
+    "admin": "Guanajuato",
+    "sort": "61658"
+  },
+  {
+    "city": "Altamira",
+    "admin": "Tamaulipas",
+    "sort": "59536"
+  },
+  {
+    "city": "Guamúchil",
+    "admin": "Sinaloa",
+    "sort": "63743"
+  },
+  {
+    "city": "Acámbaro",
+    "admin": "Guanajuato",
+    "sort": "57972"
+  },
+  {
+    "city": "Cosamaloapan",
+    "admin": "Veracruz",
+    "sort": "57147"
+  },
+  {
+    "city": "Sabinas",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "59196"
+  },
+  {
+    "city": "Linares",
+    "admin": "Nuevo León",
+    "sort": "57731"
+  },
+  {
+    "city": "Tezonapa",
+    "admin": "Veracruz",
+    "sort": "56956"
+  },
+  {
+    "city": "Pinotepa",
+    "admin": "Oaxaca",
+    "sort": "53148"
+  },
+  {
+    "city": "Zumpango",
+    "admin": "México",
+    "sort": "50742"
+  },
+  {
+    "city": "Huamantla",
+    "admin": "Tlaxcala",
+    "sort": "51996"
+  },
+  {
+    "city": "Nuevo Casas Grandes",
+    "admin": "Chihuahua",
+    "sort": "55553"
+  },
+  {
+    "city": "Acatzingo",
+    "admin": "Puebla",
+    "sort": "52078"
+  },
+  {
+    "city": "Colonia del Sol",
+    "admin": "Baja California Sur",
+    "sort": "48032"
+  },
+  {
+    "city": "Chiapa de Corzo",
+    "admin": "Chiapas",
+    "sort": "45077"
+  },
+  {
+    "city": "San Pedro",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "49490"
+  },
+  {
+    "city": "Francisco I. Madero",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "50084"
+  },
+  {
+    "city": "Ocosingo",
+    "admin": "Chiapas",
+    "sort": "41878"
+  },
+  {
+    "city": "Buena Vista Tomatlán",
+    "admin": "Michoacán de Ocampo",
+    "sort": "47498"
+  },
+  {
+    "city": "Valladolid",
+    "admin": "Yucatán",
+    "sort": "48973"
+  },
+  {
+    "city": "Jiménez",
+    "admin": "Chihuahua",
+    "sort": "48859"
+  },
+  {
+    "city": "Loreto",
+    "admin": "Zacatecas",
+    "sort": "43411"
+  },
+  {
+    "city": "Tizimín",
+    "admin": "Yucatán",
+    "sort": "46971"
+  },
+  {
+    "city": "Tlapa de Comonfort",
+    "admin": "Guerrero",
+    "sort": "37975"
+  },
+  {
+    "city": "Cuetzalan",
+    "admin": "Puebla",
+    "sort": "47983"
+  },
+  {
+    "city": "Meoqui",
+    "admin": "Chihuahua",
+    "sort": "44853"
+  },
+  {
+    "city": "Tulum",
+    "admin": "Quintana Roo",
+    "sort": "33374"
+  },
+  {
+    "city": "Villa de Zaachila",
+    "admin": "Oaxaca",
+    "sort": "43279"
+  },
+  {
+    "city": "Ciudad Constitución",
+    "admin": "Baja California Sur",
+    "sort": "43805"
+  },
+  {
+    "city": "Santa María Atzompa",
+    "admin": "Oaxaca",
+    "sort": "41921"
+  },
+  {
+    "city": "Jáltipan de Morelos",
+    "admin": "Veracruz",
+    "sort": "41644"
+  },
+  {
+    "city": "Actopan",
+    "admin": "Veracruz",
+    "sort": "43388"
+  },
+  {
+    "city": "Coyotepec",
+    "admin": "Morelos",
+    "sort": "41810"
+  },
+  {
+    "city": "Teoloyucan",
+    "admin": "México",
+    "sort": "41333"
+  },
+  {
+    "city": "Salvatierra",
+    "admin": "Guanajuato",
+    "sort": "37203"
+  },
+  {
+    "city": "Paracho de Verduzco",
+    "admin": "Michoacán de Ocampo",
+    "sort": "37464"
+  },
+  {
+    "city": "Empalme",
+    "admin": "Sonora",
+    "sort": "38886"
+  },
+  {
+    "city": "Nueva Rosita",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "39058"
+  },
+  {
+    "city": "Playa Vicente",
+    "admin": "Veracruz",
+    "sort": "39205"
+  },
+  {
+    "city": "Uman",
+    "admin": "Yucatán",
+    "sort": "39611"
+  },
+  {
+    "city": "Juan Rodríguez Clara",
+    "admin": "Veracruz",
+    "sort": "38895"
+  },
+  {
+    "city": "Ciudad Melchor Múzquiz",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "38992"
+  },
+  {
+    "city": "Tonalá",
+    "admin": "Chiapas",
+    "sort": "35322"
+  },
+  {
+    "city": "Temascal",
+    "admin": "Oaxaca",
+    "sort": "39680"
+  },
+  {
+    "city": "Xico",
+    "admin": "Veracruz",
+    "sort": "38198"
+  },
+  {
+    "city": "Zacatelco",
+    "admin": "Tlaxcala",
+    "sort": "38654"
+  },
+  {
+    "city": "Sayula de Alemán",
+    "admin": "Veracruz",
+    "sort": "32721"
+  },
+  {
+    "city": "Ameca",
+    "admin": "Jalisco",
+    "sort": "36156"
+  },
+  {
+    "city": "Zacatlán",
+    "admin": "Puebla",
+    "sort": "33736"
+  },
+  {
+    "city": "Cananea",
+    "admin": "Sonora",
+    "sort": "38113"
+  },
+  {
+    "city": "Mariano Escobedo",
+    "admin": "Veracruz",
+    "sort": "37285"
+  },
+  {
+    "city": "Nueva Italia de Ruiz",
+    "admin": "Michoacán de Ocampo",
+    "sort": "32467"
+  },
+  {
+    "city": "Miahuatlán de Porfirio Díaz",
+    "admin": "Oaxaca",
+    "sort": "35517"
+  },
+  {
+    "city": "Pánuco",
+    "admin": "Veracruz",
+    "sort": "33122"
+  },
+  {
+    "city": "Zinacantán",
+    "admin": "Chiapas",
+    "sort": "36489"
+  },
+  {
+    "city": "Tomatlán",
+    "admin": "Jalisco",
+    "sort": "35824"
+  },
+  {
+    "city": "Escuinapa",
+    "admin": "Sinaloa",
+    "sort": "30790"
+  },
+  {
+    "city": "Tenosique",
+    "admin": "Tabasco",
+    "sort": "32415"
+  },
+  {
+    "city": "La Huacana",
+    "admin": "Michoacán de Ocampo",
+    "sort": "34243"
+  },
+  {
+    "city": "Reforma",
+    "admin": "Chiapas",
+    "sort": "29018"
+  },
+  {
+    "city": "Villagrán",
+    "admin": "Guanajuato",
+    "sort": "27079"
+  },
+  {
+    "city": "Soteapan",
+    "admin": "Veracruz",
+    "sort": "35155"
+  },
+  {
+    "city": "Nanchital de Lázaro Cárdenas del Río",
+    "admin": "Veracruz",
+    "sort": "30039"
+  },
+  {
+    "city": "Abasolo",
+    "admin": "Guanajuato",
+    "sort": "27389"
+  },
+  {
+    "city": "Putla Villa de Guerrero",
+    "admin": "Oaxaca",
+    "sort": "32640"
+  },
+  {
+    "city": "Ometepec",
+    "admin": "Guerrero",
+    "sort": "30271"
+  },
+  {
+    "city": "Ticul",
+    "admin": "Yucatán",
+    "sort": "32796"
+  },
+  {
+    "city": "Parras de la Fuente",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "33817"
+  },
+  {
+    "city": "Paso del Macho",
+    "admin": "Veracruz",
+    "sort": "31890"
+  },
+  {
+    "city": "Paso de Ovejas",
+    "admin": "Veracruz",
+    "sort": "33392"
+  },
+  {
+    "city": "Zapotiltic",
+    "admin": "Jalisco",
+    "sort": "29190"
+  },
+  {
+    "city": "Calpulalpan",
+    "admin": "Hidalgo",
+    "sort": "33263"
+  },
+  {
+    "city": "Tancítaro",
+    "admin": "Michoacán de Ocampo",
+    "sort": "31100"
+  },
+  {
+    "city": "San Juan Evangelista",
+    "admin": "Veracruz",
+    "sort": "33929"
+  },
+  {
+    "city": "Amecameca de Juárez",
+    "admin": "México",
+    "sort": "31687"
+  },
+  {
+    "city": "Pabellón de Arteaga",
+    "admin": "Aguascalientes",
+    "sort": "28633"
+  },
+  {
+    "city": "Catemaco",
+    "admin": "Veracruz",
+    "sort": "27615"
+  },
+  {
+    "city": "San Salvador El Seco",
+    "admin": "Puebla",
+    "sort": "30303"
+  },
+  {
+    "city": "Magdalena de Kino",
+    "admin": "Sonora",
+    "sort": "30429"
+  },
+  {
+    "city": "Ciudad Sabinas Hidalgo",
+    "admin": "Nuevo León",
+    "sort": "32047"
+  },
+  {
+    "city": "Escárcega",
+    "admin": "Campeche",
+    "sort": "29477"
+  },
+  {
+    "city": "Huatabampo",
+    "admin": "Sonora",
+    "sort": "30324"
+  },
+  {
+    "city": "Zumpango del Río",
+    "admin": "Guerrero",
+    "sort": "24719"
+  },
+  {
+    "city": "Ciudad Sahagun",
+    "admin": "Hidalgo",
+    "sort": "28609"
+  },
+  {
+    "city": "Soledad de Doblado",
+    "admin": "Veracruz",
+    "sort": "27770"
+  },
+  {
+    "city": "El Salto",
+    "admin": "Durango",
+    "sort": "24241"
+  },
+  {
+    "city": "Actopan",
+    "admin": "Hidalgo",
+    "sort": "29223"
+  },
+  {
+    "city": "Contla",
+    "admin": "Tlaxcala",
+    "sort": "27610"
+  },
+  {
+    "city": "Champotón",
+    "admin": "Campeche",
+    "sort": "26636"
+  },
+  {
+    "city": "San Fernando",
+    "admin": "Tamaulipas",
+    "sort": "29171"
+  },
+  {
+    "city": "Castaños",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "27314"
+  },
+  {
+    "city": "Tuxpan",
+    "admin": "Michoacán de Ocampo",
+    "sort": "27371"
+  },
+  {
+    "city": "Ixhuatlancillo",
+    "admin": "Veracruz",
+    "sort": "24896"
+  },
+  {
+    "city": "Jamay",
+    "admin": "Jalisco",
+    "sort": "24753"
+  },
+  {
+    "city": "Tuxpan",
+    "admin": "Nayarit",
+    "sort": "26115"
+  },
+  {
+    "city": "Puerto Escondido",
+    "admin": "Oaxaca",
+    "sort": "25902"
+  },
+  {
+    "city": "Tecax",
+    "admin": "Yucatán",
+    "sort": "25751"
+  },
+  {
+    "city": "Frontera",
+    "admin": "Tabasco",
+    "sort": "22795"
+  },
+  {
+    "city": "Los Reyes de Juárez",
+    "admin": "Puebla",
+    "sort": "27454"
+  },
+  {
+    "city": "Nogales",
+    "admin": "Veracruz",
+    "sort": "21113"
+  },
+  {
+    "city": "Miahuatlán",
+    "admin": "Puebla",
+    "sort": "25228"
+  },
+  {
+    "city": "Paracuaro",
+    "admin": "Michoacán de Ocampo",
+    "sort": "26789"
+  },
+  {
+    "city": "Rafael Delgado",
+    "admin": "Veracruz",
+    "sort": "23112"
+  },
+  {
+    "city": "Hunucmá",
+    "admin": "Yucatán",
+    "sort": "24910"
+  },
+  {
+    "city": "Altepexi",
+    "admin": "Puebla",
+    "sort": "21100"
+  },
+  {
+    "city": "Tixtla de Guerrero",
+    "admin": "Guerrero",
+    "sort": "21720"
+  },
+  {
+    "city": "Ocatlán",
+    "admin": "Tlaxcala",
+    "sort": "22082"
+  },
+  {
+    "city": "Cherán",
+    "admin": "Michoacán de Ocampo",
+    "sort": "19081"
+  },
+  {
+    "city": "Sombrerete",
+    "admin": "Zacatecas",
+    "sort": "21702"
+  },
+  {
+    "city": "Chapala",
+    "admin": "Jalisco",
+    "sort": "21596"
+  },
+  {
+    "city": "Ciudad Altamirano",
+    "admin": "Guerrero",
+    "sort": "24533"
+  },
+  {
+    "city": "Cerro Azul",
+    "admin": "Veracruz",
+    "sort": "23573"
+  },
+  {
+    "city": "San Juan Zitlaltepec",
+    "admin": "Morelos",
+    "sort": "19600"
+  },
+  {
+    "city": "San Buenaventura",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "23413"
+  },
+  {
+    "city": "Carlos A. Carrillo",
+    "admin": "Veracruz",
+    "sort": "24565"
+  },
+  {
+    "city": "Texistepec",
+    "admin": "Veracruz",
+    "sort": "20887"
+  },
+  {
+    "city": "Cazones de Herrera",
+    "admin": "Veracruz",
+    "sort": "23675"
+  },
+  {
+    "city": "Heroica Ciudad de Tlaxiaco",
+    "admin": "Oaxaca",
+    "sort": "21391"
+  },
+  {
+    "city": "Oxkutzkab",
+    "admin": "Yucatán",
+    "sort": "23096"
+  },
+  {
+    "city": "Motul",
+    "admin": "Yucatán",
+    "sort": "23240"
+  },
+  {
+    "city": "Atoyac de Álvarez",
+    "admin": "Guerrero",
+    "sort": "20515"
+  },
+  {
+    "city": "Santiago Ixcuintla",
+    "admin": "Nayarit",
+    "sort": "18365"
+  },
+  {
+    "city": "Chocamán",
+    "admin": "Veracruz",
+    "sort": "21102"
+  },
+  {
+    "city": "Chiconcuac",
+    "admin": "México",
+    "sort": "19656"
+  },
+  {
+    "city": "Tlacolula de Matamoros",
+    "admin": "Oaxaca",
+    "sort": "22545"
+  },
+  {
+    "city": "Ojinaga",
+    "admin": "Chihuahua",
+    "sort": "22744"
+  },
+  {
+    "city": "Coquimatlán",
+    "admin": "Colima",
+    "sort": "19385"
+  },
+  {
+    "city": "Degollado",
+    "admin": "Jalisco",
+    "sort": "21226"
+  },
+  {
+    "city": "Valle Nacional",
+    "admin": "Oaxaca",
+    "sort": "22699"
+  },
+  {
+    "city": "Cotija de la Paz",
+    "admin": "México",
+    "sort": "19018"
+  },
+  {
+    "city": "Fortín de las Flores",
+    "admin": "Veracruz",
+    "sort": "21370"
+  },
+  {
+    "city": "Allende",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "21376"
+  },
+  {
+    "city": "Mecayapan",
+    "admin": "Veracruz",
+    "sort": "17312"
+  },
+  {
+    "city": "Peto",
+    "admin": "Yucatán",
+    "sort": "19821"
+  },
+  {
+    "city": "Ciudad Miguel Alemán",
+    "admin": "Tamaulipas",
+    "sort": "19998"
+  },
+  {
+    "city": "Hidalgotitlán",
+    "admin": "Veracruz",
+    "sort": "19587"
+  },
+  {
+    "city": "Zimatlán de Álvarez",
+    "admin": "Oaxaca",
+    "sort": "19849"
+  },
+  {
+    "city": "Tepatlaxco",
+    "admin": "Puebla",
+    "sort": "17472"
+  },
+  {
+    "city": "José Cardel",
+    "admin": "Veracruz",
+    "sort": "19341"
+  },
+  {
+    "city": "Mapastepec",
+    "admin": "Chiapas",
+    "sort": "17931"
+  },
+  {
+    "city": "Aldama",
+    "admin": "Chihuahua",
+    "sort": "18642"
+  },
+  {
+    "city": "Palau",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "17594"
+  },
+  {
+    "city": "Tatahuicapan",
+    "admin": "Veracruz",
+    "sort": "15614"
+  },
+  {
+    "city": "Ayutla de los Libres",
+    "admin": "Guerrero",
+    "sort": "15370"
+  },
+  {
+    "city": "Acala",
+    "admin": "Chiapas",
+    "sort": "15001"
+  },
+  {
+    "city": "Coalcomán de Vázquez Pallares",
+    "admin": "Michoacán de Ocampo",
+    "sort": "18444"
+  },
+  {
+    "city": "Acatlán de Osorio",
+    "admin": "Puebla",
+    "sort": "18879"
+  },
+  {
+    "city": "Chemax",
+    "admin": "Yucatán",
+    "sort": "14885"
+  },
+  {
+    "city": "Senguio",
+    "admin": "Michoacán de Ocampo",
+    "sort": "19146"
+  },
+  {
+    "city": "Técpan de Galeana",
+    "admin": "Guerrero",
+    "sort": "14638"
+  },
+  {
+    "city": "Pajapan",
+    "admin": "Veracruz",
+    "sort": "17480"
+  },
+  {
+    "city": "El Rosario",
+    "admin": "Sinaloa",
+    "sort": "16001"
+  },
+  {
+    "city": "El Dorado",
+    "admin": "Sinaloa",
+    "sort": "17365"
+  },
+  {
+    "city": "Tecuala",
+    "admin": "Nayarit",
+    "sort": "14921"
+  },
+  {
+    "city": "Rodolfo Sánchez Taboada",
+    "admin": "Baja California",
+    "sort": "15038"
+  },
+  {
+    "city": "Ciudad de Huitzuco",
+    "admin": "Guerrero",
+    "sort": "16025"
+  },
+  {
+    "city": "Tepoztlán",
+    "admin": "Morelos",
+    "sort": "14130"
+  },
+  {
+    "city": "Tlaxcala",
+    "admin": "Tlaxcala",
+    "sort": "14692"
+  },
+  {
+    "city": "Santiago Tulantepec",
+    "admin": "Hidalgo",
+    "sort": "16078"
+  },
+  {
+    "city": "Ciudad Guadalupe Victoria",
+    "admin": "Durango",
+    "sort": "16506"
+  },
+  {
+    "city": "Ciudad Hidalgo",
+    "admin": "Chiapas",
+    "sort": "14606"
+  },
+  {
+    "city": "Cárdenas",
+    "admin": "San Luis Potosí",
+    "sort": "15331"
+  },
+  {
+    "city": "Izamal",
+    "admin": "Yucatán",
+    "sort": "16195"
+  },
+  {
+    "city": "La Crucecita",
+    "admin": "Oaxaca",
+    "sort": "13044"
+  },
+  {
+    "city": "La Cruz",
+    "admin": "Sinaloa",
+    "sort": "15657"
+  },
+  {
+    "city": "Grajales",
+    "admin": "Puebla",
+    "sort": "14159"
+  },
+  {
+    "city": "Tlaltetela",
+    "admin": "Veracruz",
+    "sort": "15818"
+  },
+  {
+    "city": "Loreto",
+    "admin": "Baja California Sur",
+    "sort": "14724"
+  },
+  {
+    "city": "Oteapan",
+    "admin": "Veracruz",
+    "sort": "16222"
+  },
+  {
+    "city": "Puréparo de Echaíz",
+    "admin": "Michoacán de Ocampo",
+    "sort": "15255"
+  },
+  {
+    "city": "Huixcolotla",
+    "admin": "Puebla",
+    "sort": "14810"
+  },
+  {
+    "city": "Vicente Guerrero",
+    "admin": "Durango",
+    "sort": "15982"
+  },
+  {
+    "city": "Cerritos",
+    "admin": "San Luis Potosí",
+    "sort": "14804"
+  },
+  {
+    "city": "Juchique de Ferrer",
+    "admin": "Veracruz",
+    "sort": "16360"
+  },
+  {
+    "city": "Santa Catarina Juquila",
+    "admin": "Oaxaca",
+    "sort": "14710"
+  },
+  {
+    "city": "Santa Rosalía",
+    "admin": "Baja California Sur",
+    "sort": "14357"
+  },
+  {
+    "city": "Erongarícuaro",
+    "admin": "Michoacán de Ocampo",
+    "sort": "15291"
+  },
+  {
+    "city": "Madera",
+    "admin": "Chihuahua",
+    "sort": "15447"
+  },
+  {
+    "city": "San Pablo Atlazalpan",
+    "admin": "México",
+    "sort": "11236"
+  },
+  {
+    "city": "Huitzilan",
+    "admin": "Puebla",
+    "sort": "15096"
+  },
+  {
+    "city": "Villa Unión",
+    "admin": "Sinaloa",
+    "sort": "13404"
+  },
+  {
+    "city": "Valparaíso",
+    "admin": "Zacatecas",
+    "sort": "12919"
+  },
+  {
+    "city": "Juan Aldama",
+    "admin": "Zacatecas",
+    "sort": "14162"
+  },
+  {
+    "city": "Balancán",
+    "admin": "Tabasco",
+    "sort": "11895"
+  },
+  {
+    "city": "Ezequiel Montes",
+    "admin": "Querétaro",
+    "sort": "14053"
+  },
+  {
+    "city": "Guachochi",
+    "admin": "Chihuahua",
+    "sort": "14513"
+  },
+  {
+    "city": "Miahuatlán",
+    "admin": "Puebla",
+    "sort": "13159"
+  },
+  {
+    "city": "Guerrero Negro",
+    "admin": "Baja California",
+    "sort": "13596"
+  },
+  {
+    "city": "San Nicolás de los Ranchos",
+    "admin": "Puebla",
+    "sort": "11734"
+  },
+  {
+    "city": "Calkiní",
+    "admin": "Campeche",
+    "sort": "14934"
+  },
+  {
+    "city": "Vicente Guerrero",
+    "admin": "Baja California",
+    "sort": "12829"
+  },
+  {
+    "city": "Tempoal de Sánchez",
+    "admin": "Veracruz",
+    "sort": "12237"
+  },
+  {
+    "city": "Nacozari de García",
+    "admin": "Sonora",
+    "sort": "12987"
+  },
+  {
+    "city": "El Parral",
+    "admin": "Chiapas",
+    "sort": "11949"
+  },
+  {
+    "city": "Mexicaltzingo",
+    "admin": "México",
+    "sort": "10161"
+  },
+  {
+    "city": "Santa Cruz Amilpas",
+    "admin": "Oaxaca",
+    "sort": "12814"
+  },
+  {
+    "city": "San Miguel Xoxtla",
+    "admin": "Puebla",
+    "sort": "12341"
+  },
+  {
+    "city": "Anenecuilco",
+    "admin": "Morelos",
+    "sort": "11227"
+  },
+  {
+    "city": "Aldama",
+    "admin": "Tamaulipas",
+    "sort": "13661"
+  },
+  {
+    "city": "Ascensión",
+    "admin": "Chihuahua",
+    "sort": "13456"
+  },
+  {
+    "city": "Ángel R. Cabada",
+    "admin": "Veracruz",
+    "sort": "11689"
+  },
+  {
+    "city": "Villa Corzo",
+    "admin": "Chiapas",
+    "sort": "10841"
+  },
+  {
+    "city": "Isla Mujeres",
+    "admin": "Quintana Roo",
+    "sort": "12491"
+  },
+  {
+    "city": "Villa Juárez",
+    "admin": "Sonora",
+    "sort": "13153"
+  },
+  {
+    "city": "Jaltenango",
+    "admin": "Chiapas",
+    "sort": "11875"
+  },
+  {
+    "city": "Nuevo Ideal",
+    "admin": "Durango",
+    "sort": "12850"
+  },
+  {
+    "city": "San Patricio",
+    "admin": "Jalisco",
+    "sort": "7569"
+  },
+  {
+    "city": "San Isidro Buen Suceso",
+    "admin": "Tlaxcala",
+    "sort": "7688"
+  },
+  {
+    "city": "Saucillo",
+    "admin": "Chihuahua",
+    "sort": "11004"
+  },
+  {
+    "city": "Santa María Jalapa del Marqués",
+    "admin": "Oaxaca",
+    "sort": "13148"
+  },
+  {
+    "city": "La Magdalena Chichicaspa",
+    "admin": "México",
+    "sort": "12193"
+  },
+  {
+    "city": "Rayón",
+    "admin": "México",
+    "sort": "8590"
+  },
+  {
+    "city": "El Fuerte",
+    "admin": "Sinaloa",
+    "sort": "12566"
+  },
+  {
+    "city": "Cadereyta",
+    "admin": "Querétaro",
+    "sort": "13347"
+  },
+  {
+    "city": "Santa María Huazolotitlán",
+    "admin": "Oaxaca",
+    "sort": "11400"
+  },
+  {
+    "city": "Santa Ana",
+    "admin": "Sonora",
+    "sort": "12372"
+  },
+  {
+    "city": "Las Veredas",
+    "admin": "Baja California Sur",
+    "sort": "10478"
+  },
+  {
+    "city": "Escuintla",
+    "admin": "Chiapas",
+    "sort": "10624"
+  },
+  {
+    "city": "Dzitbalché",
+    "admin": "Campeche",
+    "sort": "11686"
+  },
+  {
+    "city": "San Pedro Jicayán",
+    "admin": "Oaxaca",
+    "sort": "12387"
+  },
+  {
+    "city": "Altamirano",
+    "admin": "Chiapas",
+    "sort": "9200"
+  },
+  {
+    "city": "Chiautla de Tapia",
+    "admin": "Puebla",
+    "sort": "11776"
+  },
+  {
+    "city": "Tierra Colorada",
+    "admin": "Guerrero",
+    "sort": "10502"
+  },
+  {
+    "city": "Villa Unión",
+    "admin": "Durango",
+    "sort": "10753"
+  },
+  {
+    "city": "Sonoita",
+    "admin": "Sonora",
+    "sort": "11440"
+  },
+  {
+    "city": "Progreso",
+    "admin": "Baja California",
+    "sort": "12557"
+  },
+  {
+    "city": "Maxcanú",
+    "admin": "Yucatán",
+    "sort": "12621"
+  },
+  {
+    "city": "Coacoatzintla",
+    "admin": "Veracruz",
+    "sort": "10482"
+  },
+  {
+    "city": "Muna",
+    "admin": "Yucatán",
+    "sort": "11469"
+  },
+  {
+    "city": "Cuencamé de Ceniceros",
+    "admin": "Durango",
+    "sort": "8876"
+  },
+  {
+    "city": "Lerma",
+    "admin": "Campeche",
+    "sort": "8281"
+  },
+  {
+    "city": "Canatlán",
+    "admin": "Durango",
+    "sort": "10342"
+  },
+  {
+    "city": "San Pedro Ixcatlán",
+    "admin": "Oaxaca",
+    "sort": "11653"
+  },
+  {
+    "city": "San José el Viejo",
+    "admin": "Baja California Sur",
+    "sort": "7222"
+  },
+  {
+    "city": "Etchojoa",
+    "admin": "Sonora",
+    "sort": "9831"
+  },
+  {
+    "city": "González",
+    "admin": "Tamaulipas",
+    "sort": "11212"
+  },
+  {
+    "city": "Villanueva",
+    "admin": "Zacatecas",
+    "sort": "11138"
+  },
+  {
+    "city": "Akil",
+    "admin": "Yucatán",
+    "sort": "10176"
+  },
+  {
+    "city": "San Luis de La Loma",
+    "admin": "Guerrero",
+    "sort": "11090"
+  },
+  {
+    "city": "Chichihualco",
+    "admin": "Guerrero",
+    "sort": "10079"
+  },
+  {
+    "city": "Tetela del Volcán",
+    "admin": "Morelos",
+    "sort": "10199"
+  },
+  {
+    "city": "Platón Sánchez",
+    "admin": "Veracruz",
+    "sort": "10009"
+  },
+  {
+    "city": "Tixkokob",
+    "admin": "Yucatán",
+    "sort": "10968"
+  },
+  {
+    "city": "Acanceh",
+    "admin": "Yucatán",
+    "sort": "10968"
+  },
+  {
+    "city": "Pajacuarán",
+    "admin": "Michoacán de Ocampo",
+    "sort": "10014"
+  },
+  {
+    "city": "Tacotalpa",
+    "admin": "Tabasco",
+    "sort": "8071"
+  },
+  {
+    "city": "San Ignacio Cohuirimpo",
+    "admin": "Sonora",
+    "sort": "10606"
+  },
+  {
+    "city": "Cuatro Ciénegas de Carranza",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "10395"
+  },
+  {
+    "city": "San Juanito",
+    "admin": "Chihuahua",
+    "sort": "10535"
+  },
+  {
+    "city": "Candelaria",
+    "admin": "Campeche",
+    "sort": "9812"
+  },
+  {
+    "city": "Tlahualilo de Zaragoza",
+    "admin": "Durango",
+    "sort": "9517"
+  },
+  {
+    "city": "Cuapiaxtla de Madero",
+    "admin": "Puebla",
+    "sort": "10101"
+  },
+  {
+    "city": "Ciudad Tula",
+    "admin": "Tamaulipas",
+    "sort": "10043"
+  },
+  {
+    "city": "San Ignacio Río Muerto",
+    "admin": "Sonora",
+    "sort": "8435"
+  },
+  {
+    "city": "Tlalixtac de Cabrera",
+    "admin": "Oaxaca",
+    "sort": "10208"
+  },
+  {
+    "city": "Teotlaltzingo",
+    "admin": "Puebla",
+    "sort": "10456"
+  },
+  {
+    "city": "San Gregorio Atzompa",
+    "admin": "Puebla",
+    "sort": "9671"
+  },
+  {
+    "city": "Anáhuac",
+    "admin": "Chihuahua",
+    "sort": "9952"
+  },
+  {
+    "city": "Celestún",
+    "admin": "Yucatán",
+    "sort": "8389"
+  },
+  {
+    "city": "Amatlán de los Reyes",
+    "admin": "Veracruz",
+    "sort": "9123"
+  },
+  {
+    "city": "Xicoténcatl",
+    "admin": "Tamaulipas",
+    "sort": "9593"
+  },
+  {
+    "city": "Rafael Lucio",
+    "admin": "Veracruz",
+    "sort": "8068"
+  },
+  {
+    "city": "Tekit",
+    "admin": "Yucatán",
+    "sort": "9834"
+  },
+  {
+    "city": "Choix",
+    "admin": "Sinaloa",
+    "sort": "9306"
+  },
+  {
+    "city": "Tzucacab",
+    "admin": "Yucatán",
+    "sort": "9967"
+  },
+  {
+    "city": "Coahuitlán",
+    "admin": "Veracruz",
+    "sort": "8566"
+  },
+  {
+    "city": "Tlacotalpan",
+    "admin": "Veracruz",
+    "sort": "7600"
+  },
+  {
+    "city": "Higuera de Zaragoza",
+    "admin": "Sinaloa",
+    "sort": "8976"
+  },
+  {
+    "city": "Cuauhtémoc",
+    "admin": "Colima",
+    "sort": "7513"
+  },
+  {
+    "city": "La Junta",
+    "admin": "Chihuahua",
+    "sort": "8930"
+  },
+  {
+    "city": "Concordia",
+    "admin": "Sinaloa",
+    "sort": "8328"
+  },
+  {
+    "city": "Halachó",
+    "admin": "Yucatán",
+    "sort": "9412"
+  },
+  {
+    "city": "Acacoyagua",
+    "admin": "Chiapas",
+    "sort": "8092"
+  },
+  {
+    "city": "San Diego de la Unión",
+    "admin": "Guanajuato",
+    "sort": "7946"
+  },
+  {
+    "city": "San Juan Ixcaquixtla",
+    "admin": "Puebla",
+    "sort": "8752"
+  },
+  {
+    "city": "Ciudad Ayala",
+    "admin": "Morelos",
+    "sort": "6777"
+  },
+  {
+    "city": "Tepeojuma",
+    "admin": "Puebla",
+    "sort": "8492"
+  },
+  {
+    "city": "Tataltepec de Valdés",
+    "admin": "Oaxaca",
+    "sort": "8869"
+  },
+  {
+    "city": "Kantunilkín",
+    "admin": "Quintana Roo",
+    "sort": "7150"
+  },
+  {
+    "city": "Guadalupe Yancuictlalpan",
+    "admin": "Morelos",
+    "sort": "6385"
+  },
+  {
+    "city": "Bahía Kino",
+    "admin": "Sonora",
+    "sort": "6454"
+  },
+  {
+    "city": "Ahumada",
+    "admin": "Chihuahua",
+    "sort": "8575"
+  },
+  {
+    "city": "El Higo",
+    "admin": "Veracruz",
+    "sort": "7844"
+  },
+  {
+    "city": "Lázaro Cárdenas",
+    "admin": "Chihuahua",
+    "sort": "8704"
+  },
+  {
+    "city": "Altar",
+    "admin": "Sonora",
+    "sort": "8439"
+  },
+  {
+    "city": "Cocorit",
+    "admin": "Sonora",
+    "sort": "7424"
+  },
+  {
+    "city": "Ayotoxco de Guerrero",
+    "admin": "Puebla",
+    "sort": "8558"
+  },
+  {
+    "city": "Antón Lizardo",
+    "admin": "Veracruz",
+    "sort": "6003"
+  },
+  {
+    "city": "Buctzotz",
+    "admin": "Yucatán",
+    "sort": "7515"
+  },
+  {
+    "city": "San Francisco del Mar",
+    "admin": "Oaxaca",
+    "sort": "7650"
+  },
+  {
+    "city": "Tamazulapam Villa del Progreso",
+    "admin": "Oaxaca",
+    "sort": "7707"
+  },
+  {
+    "city": "Huiloapan",
+    "admin": "Veracruz",
+    "sort": "7221"
+  },
+  {
+    "city": "Hopelchén",
+    "admin": "Campeche",
+    "sort": "7295"
+  },
+  {
+    "city": "Santa Eulalia",
+    "admin": "Chihuahua",
+    "sort": "7135"
+  },
+  {
+    "city": "Algodones",
+    "admin": "Baja California",
+    "sort": "6796"
+  },
+  {
+    "city": "Ojo Caliente",
+    "admin": "Aguascalientes",
+    "sort": "6914"
+  },
+  {
+    "city": "San Pedro Amuzgos",
+    "admin": "Oaxaca",
+    "sort": "6664"
+  },
+  {
+    "city": "Tenabo",
+    "admin": "Campeche",
+    "sort": "7543"
+  },
+  {
+    "city": "Leona Vicario",
+    "admin": "Quintana Roo",
+    "sort": "6517"
+  },
+  {
+    "city": "Valle de Guadalupe",
+    "admin": "Jalisco",
+    "sort": "6924"
+  },
+  {
+    "city": "San Antonino Castillo Velasco",
+    "admin": "Oaxaca",
+    "sort": "6009"
+  },
+  {
+    "city": "Temozon",
+    "admin": "Yucatán",
+    "sort": "6553"
+  },
+  {
+    "city": "Bécal",
+    "admin": "Campeche",
+    "sort": "6511"
+  },
+  {
+    "city": "Xochitlan Todos Santos",
+    "admin": "Puebla",
+    "sort": "6336"
+  },
+  {
+    "city": "Puerto San Carlos",
+    "admin": "Baja California Sur",
+    "sort": "5538"
+  },
+  {
+    "city": "Piste",
+    "admin": "Yucatán",
+    "sort": "5528"
+  },
+  {
+    "city": "Teabo",
+    "admin": "Yucatán",
+    "sort": "6115"
+  },
+  {
+    "city": "Tayoltita",
+    "admin": "Durango",
+    "sort": "5124"
+  },
+  {
+    "city": "Calderitas",
+    "admin": "Quintana Roo",
+    "sort": "5326"
+  },
+  {
+    "city": "Soledad Etla",
+    "admin": "Oaxaca",
+    "sort": "5591"
+  },
+  {
+    "city": "Guadalupe y Calvo",
+    "admin": "Chihuahua",
+    "sort": "5816"
+  },
+  {
+    "city": "Panindícuaro",
+    "admin": "Michoacán de Ocampo",
+    "sort": "5565"
+  },
+  {
+    "city": "Palo Alto",
+    "admin": "Aguascalientes",
+    "sort": "5399"
+  },
+  {
+    "city": "Panabá",
+    "admin": "Yucatán",
+    "sort": "5232"
+  },
+  {
+    "city": "Santa María del Oro",
+    "admin": "Durango",
+    "sort": "5878"
+  },
+  {
+    "city": "Esperanza",
+    "admin": "Sonora",
+    "sort": "3836"
+  },
+  {
+    "city": "Angostura",
+    "admin": "Sinaloa",
+    "sort": "5086"
+  },
+  {
+    "city": "Nombre de Dios",
+    "admin": "Durango",
+    "sort": "5302"
+  },
+  {
+    "city": "Pitiquito",
+    "admin": "Sonora",
+    "sort": "5139"
+  },
+  {
+    "city": "X-Cán",
+    "admin": "Yucatán",
+    "sort": "5191"
+  },
+  {
+    "city": "Zapotitlán",
+    "admin": "Puebla",
+    "sort": "5469"
+  },
+  {
+    "city": "Chicxulub Puerto",
+    "admin": "Yucatán",
+    "sort": "5052"
+  },
+  {
+    "city": "Santa Cruz Xoxocotlán",
+    "admin": "Oaxaca",
+    "sort": "93188"
+  },
+  {
+    "city": "Ocozocoautla de Espinosa",
+    "admin": "Chiapas",
+    "sort": "92103"
+  },
+  {
+    "city": "Agua Prieta",
+    "admin": "Sonora",
+    "sort": "91029"
+  },
+  {
+    "city": "San Francisco",
+    "admin": "Sonora",
+    "sort": "89122"
+  },
+  {
+    "city": "Maravatío de Ocampo",
+    "admin": "Michoacán de Ocampo",
+    "sort": "88535"
+  },
+  {
+    "city": "Jilotepec",
+    "admin": "México",
+    "sort": "87927"
+  },
+  {
+    "city": "Ciudad de Atlixco",
+    "admin": "Puebla",
+    "sort": "86690"
+  },
+  {
+    "city": "Guasavito",
+    "admin": "Sinaloa",
+    "sort": "86361"
+  },
+  {
+    "city": "Ciudad Mante",
+    "admin": "Tamaulipas",
+    "sort": "84787"
+  },
+  {
+    "city": "Felipe Carrillo Puerto",
+    "admin": "Quintana Roo",
+    "sort": "81742"
+  },
+  {
+    "city": "Juventino Rosas",
+    "admin": "Guanajuato",
+    "sort": "79214"
+  },
+  {
+    "city": "Sahuayo de Morelos",
+    "admin": "Michoacán de Ocampo",
+    "sort": "78477"
+  },
+  {
+    "city": "Villa Victoria",
+    "admin": "México",
+    "sort": "77819"
+  },
+  {
+    "city": "Huebampo",
+    "admin": "Sonora",
+    "sort": "77682"
+  },
+  {
+    "city": "Tila",
+    "admin": "Chiapas",
+    "sort": "77554"
+  },
+  {
+    "city": "Tecamachalco",
+    "admin": "Puebla",
+    "sort": "77061"
+  },
+  {
+    "city": "La Trinidad",
+    "admin": "Chiapas",
+    "sort": "76917"
+  },
+  {
+    "city": "San Francisco del Rincón",
+    "admin": "Guanajuato",
+    "sort": "71139"
+  },
+  {
+    "city": "San Juan de los Lagos",
+    "admin": "Jalisco",
+    "sort": "69725"
+  },
+  {
+    "city": "Purísima de Bustos",
+    "admin": "Guanajuato",
+    "sort": "68795"
+  },
+  {
+    "city": "Zapotlanejo",
+    "admin": "Jalisco",
+    "sort": "68519"
+  },
+  {
+    "city": "Ixtlahuacán de los Membrillos",
+    "admin": "Jalisco",
+    "sort": "67969"
+  },
+  {
+    "city": "La Barca",
+    "admin": "Jalisco",
+    "sort": "67937"
+  },
+  {
+    "city": "Santa Catarina Otzolotepec",
+    "admin": "Puebla",
+    "sort": "67611"
+  },
+  {
+    "city": "Zihuatanejo",
+    "admin": "Guerrero",
+    "sort": "67408"
+  },
+  {
+    "city": "Venustiano Carranza",
+    "admin": "Chiapas",
+    "sort": "67292"
+  },
+  {
+    "city": "Ocoyoacac",
+    "admin": "Morelos",
+    "sort": "66190"
+  },
+  {
+    "city": "Jocotitlán",
+    "admin": "México",
+    "sort": "65291"
+  },
+  {
+    "city": "Santo Domingo Tehuantepec",
+    "admin": "Oaxaca",
+    "sort": "64639"
+  },
+  {
+    "city": "Apaseo el Alto",
+    "admin": "Guanajuato",
+    "sort": "64443"
+  },
+  {
+    "city": "Salto de Agua",
+    "admin": "Chiapas",
+    "sort": "63446"
+  },
+  {
+    "city": "Puerto Peñasco",
+    "admin": "Sonora",
+    "sort": "62301"
+  },
+  {
+    "city": "Autlán de Navarro",
+    "admin": "Jalisco",
+    "sort": "60572"
+  },
+  {
+    "city": "Melchor Ocampo",
+    "admin": "México",
+    "sort": "57152"
+  },
+  {
+    "city": "Ciudad Cuauhtémoc",
+    "admin": "Veracruz",
+    "sort": "57646"
+  },
+  {
+    "city": "Santiago Tuxtla",
+    "admin": "Veracruz",
+    "sort": "57466"
+  },
+  {
+    "city": "Amealco",
+    "admin": "Querétaro",
+    "sort": "56457"
+  },
+  {
+    "city": "Huixtla",
+    "admin": "Chiapas",
+    "sort": "54332"
+  },
+  {
+    "city": "Tlacotepec",
+    "admin": "Puebla",
+    "sort": "52508"
+  },
+  {
+    "city": "Ixhuatlán de Madero",
+    "admin": "Veracruz",
+    "sort": "54132"
+  },
+  {
+    "city": "Encarnación de Díaz",
+    "admin": "Jalisco",
+    "sort": "53555"
+  },
+  {
+    "city": "Pijijiapan",
+    "admin": "Chiapas",
+    "sort": "53525"
+  },
+  {
+    "city": "Alvarado",
+    "admin": "Veracruz",
+    "sort": "52927"
+  },
+  {
+    "city": "San José Villa de Allende",
+    "admin": "México",
+    "sort": "52641"
+  },
+  {
+    "city": "Taxco de Alarcón",
+    "admin": "Guerrero",
+    "sort": "52217"
+  },
+  {
+    "city": "Berriozábal",
+    "admin": "Chiapas",
+    "sort": "51722"
+  },
+  {
+    "city": "Santa Lucía del Camino",
+    "admin": "Oaxaca",
+    "sort": "49459"
+  },
+  {
+    "city": "Tepeapulco",
+    "admin": "Hidalgo",
+    "sort": "49850"
+  },
+  {
+    "city": "San Pedro Mixtepec",
+    "admin": "Oaxaca",
+    "sort": "48336"
+  },
+  {
+    "city": "Santa Ana Chiautempan",
+    "admin": "Tlaxcala",
+    "sort": "46776"
+  },
+  {
+    "city": "Ciudad Serdán",
+    "admin": "Puebla",
+    "sort": "46778"
+  },
+  {
+    "city": "Jocotepec",
+    "admin": "Jalisco",
+    "sort": "46521"
+  },
+  {
+    "city": "Acatlán de Pérez Figueroa",
+    "admin": "Oaxaca",
+    "sort": "45883"
+  },
+  {
+    "city": "Santa María Huatulco",
+    "admin": "Oaxaca",
+    "sort": "45680"
+  },
+  {
+    "city": "Cuautepec de Hinojosa",
+    "admin": "Hidalgo",
+    "sort": "45527"
+  },
+  {
+    "city": "Guacharachi",
+    "admin": "Chihuahua",
+    "sort": "45544"
+  },
+  {
+    "city": "Ciudad de Huajuapam de León",
+    "admin": "Oaxaca",
+    "sort": "45321"
+  },
+  {
+    "city": "Montemorelos",
+    "admin": "Nuevo León",
+    "sort": "45108"
+  },
+  {
+    "city": "Tres Valles",
+    "admin": "Veracruz",
+    "sort": "44978"
+  },
+  {
+    "city": "Simojovel de Allende",
+    "admin": "Chiapas",
+    "sort": "44295"
+  },
+  {
+    "city": "Zongolica",
+    "admin": "Veracruz",
+    "sort": "43871"
+  },
+  {
+    "city": "Oxchuc",
+    "admin": "Chiapas",
+    "sort": "43350"
+  },
+  {
+    "city": "Pedro Celestino Negrete",
+    "admin": "Durango",
+    "sort": "43447"
+  },
+  {
+    "city": "Hueyapan de Ocampo",
+    "admin": "Veracruz",
+    "sort": "43309"
+  },
+  {
+    "city": "Jesús María",
+    "admin": "Aguascalientes",
+    "sort": "43012"
+  },
+  {
+    "city": "Coyuca de Catalán",
+    "admin": "Guerrero",
+    "sort": "42069"
+  },
+  {
+    "city": "Tequila",
+    "admin": "Jalisco",
+    "sort": "42009"
+  },
+  {
+    "city": "Camargo",
+    "admin": "Chihuahua",
+    "sort": "40221"
+  },
+  {
+    "city": "Matías Romero",
+    "admin": "Oaxaca",
+    "sort": "39828"
+  },
+  {
+    "city": "Tlalixcoyan",
+    "admin": "Veracruz",
+    "sort": "37857"
+  },
+  {
+    "city": "Apan",
+    "admin": "Hidalgo",
+    "sort": "39247"
+  },
+  {
+    "city": "Jiquipilas",
+    "admin": "Chiapas",
+    "sort": "39109"
+  },
+  {
+    "city": "Galeana",
+    "admin": "Nuevo León",
+    "sort": "38930"
+  },
+  {
+    "city": "San Felipe Orizatlán",
+    "admin": "Hidalgo",
+    "sort": "38472"
+  },
+  {
+    "city": "Yajalón",
+    "admin": "Chiapas",
+    "sort": "37833"
+  },
+  {
+    "city": "Mixquiahuala de Juarez",
+    "admin": "Hidalgo",
+    "sort": "37747"
+  },
+  {
+    "city": "Santiago",
+    "admin": "Nuevo León",
+    "sort": "37886"
+  },
+  {
+    "city": "Progreso",
+    "admin": "Yucatán",
+    "sort": "37369"
+  },
+  {
+    "city": "Coatepec Harinas",
+    "admin": "México",
+    "sort": "36269"
+  },
+  {
+    "city": "Ciudad Manuel Doblado",
+    "admin": "Guanajuato",
+    "sort": "37145"
+  },
+  {
+    "city": "Sayula",
+    "admin": "Jalisco",
+    "sort": "36778"
+  },
+  {
+    "city": "Jaral del Progreso",
+    "admin": "Guanajuato",
+    "sort": "36584"
+  },
+  {
+    "city": "José María Morelos",
+    "admin": "Quintana Roo",
+    "sort": "36179"
+  },
+  {
+    "city": "Zacatepec",
+    "admin": "Morelos",
+    "sort": "36159"
+  },
+  {
+    "city": "Tangancícuaro de Arista",
+    "admin": "México",
+    "sort": "35256"
+  },
+  {
+    "city": "Huehuetán",
+    "admin": "Chiapas",
+    "sort": "35017"
+  },
+  {
+    "city": "Bochil",
+    "admin": "Chiapas",
+    "sort": "34997"
+  },
+  {
+    "city": "Ocuilan de Arteaga",
+    "admin": "México",
+    "sort": "34485"
+  },
+  {
+    "city": "Zimapan",
+    "admin": "Hidalgo",
+    "sort": "34476"
+  },
+  {
+    "city": "Santa Ana Nextlalpan",
+    "admin": "México",
+    "sort": "34374"
+  },
+  {
+    "city": "Tepeji del Río de Ocampo",
+    "admin": "Hidalgo",
+    "sort": "34151"
+  },
+  {
+    "city": "Temascalapa",
+    "admin": "Hidalgo",
+    "sort": "33063"
+  },
+  {
+    "city": "San Felipe",
+    "admin": "Guanajuato",
+    "sort": "32831"
+  },
+  {
+    "city": "Capulhuac",
+    "admin": "México",
+    "sort": "30838"
+  },
+  {
+    "city": "Tuzantán",
+    "admin": "Chiapas",
+    "sort": "31755"
+  },
+  {
+    "city": "Petatlán",
+    "admin": "Guerrero",
+    "sort": "31910"
+  },
+  {
+    "city": "Temascaltepec de González",
+    "admin": "México",
+    "sort": "30336"
+  },
+  {
+    "city": "Turicato",
+    "admin": "Michoacán de Ocampo",
+    "sort": "31877"
+  },
+  {
+    "city": "Tecozautla",
+    "admin": "Hidalgo",
+    "sort": "31609"
+  },
+  {
+    "city": "Pichucalco",
+    "admin": "Chiapas",
+    "sort": "31107"
+  },
+  {
+    "city": "Amatenango de la Frontera",
+    "admin": "Chiapas",
+    "sort": "30732"
+  },
+  {
+    "city": "Tepetlaoxtoc",
+    "admin": "México",
+    "sort": "30680"
+  },
+  {
+    "city": "San Rafael",
+    "admin": "Veracruz",
+    "sort": "29631"
+  },
+  {
+    "city": "Xalatlaco",
+    "admin": "México",
+    "sort": "29572"
+  },
+  {
+    "city": "Tequisquiapan",
+    "admin": "Querétaro",
+    "sort": "29799"
+  },
+  {
+    "city": "Ozumba",
+    "admin": "México",
+    "sort": "29114"
+  },
+  {
+    "city": "Juchitepec",
+    "admin": "México",
+    "sort": "29436"
+  },
+  {
+    "city": "Villa Comaltitlán",
+    "admin": "Chiapas",
+    "sort": "28961"
+  },
+  {
+    "city": "Nava",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "26963"
+  },
+  {
+    "city": "San Salvador",
+    "admin": "Hidalgo",
+    "sort": "28637"
+  },
+  {
+    "city": "Las Rosas",
+    "admin": "Chiapas",
+    "sort": "28261"
+  },
+  {
+    "city": "Zacoalco de Torres",
+    "admin": "Jalisco",
+    "sort": "28205"
+  },
+  {
+    "city": "San Felipe Jalapa de Díaz",
+    "admin": "Oaxaca",
+    "sort": "27979"
+  },
+  {
+    "city": "Tehuipango",
+    "admin": "Veracruz",
+    "sort": "26322"
+  },
+  {
+    "city": "Quiroga",
+    "admin": "Michoacán de Ocampo",
+    "sort": "27862"
+  },
+  {
+    "city": "Nochistlán de Mejía",
+    "admin": "Zacatecas",
+    "sort": "27932"
+  },
+  {
+    "city": "Tlalpujahua de Rayón",
+    "admin": "México",
+    "sort": "27788"
+  },
+  {
+    "city": "Villa Luvianos",
+    "admin": "México",
+    "sort": "27860"
+  },
+  {
+    "city": "Salinas Victoria",
+    "admin": "Nuevo León",
+    "sort": "27848"
+  },
+  {
+    "city": "Atlautla",
+    "admin": "México",
+    "sort": "27663"
+  },
+  {
+    "city": "San Juan Guichicovi",
+    "admin": "Oaxaca",
+    "sort": "27646"
+  },
+  {
+    "city": "Zempoala",
+    "admin": "Hidalgo",
+    "sort": "27333"
+  },
+  {
+    "city": "Cuerámaro",
+    "admin": "Guanajuato",
+    "sort": "27308"
+  },
+  {
+    "city": "Atitalaquia",
+    "admin": "Hidalgo",
+    "sort": "26904"
+  },
+  {
+    "city": "Tepehuacán de Guerrero",
+    "admin": "Hidalgo",
+    "sort": "27240"
+  },
+  {
+    "city": "Ixtapa",
+    "admin": "Chiapas",
+    "sort": "27198"
+  },
+  {
+    "city": "San Agustín Tlaxiaca",
+    "admin": "Hidalgo",
+    "sort": "27118"
+  },
+  {
+    "city": "Tlaxcoapan",
+    "admin": "Hidalgo",
+    "sort": "26758"
+  },
+  {
+    "city": "Sabanilla",
+    "admin": "Chiapas",
+    "sort": "26921"
+  },
+  {
+    "city": "Amatepec",
+    "admin": "México",
+    "sort": "27026"
+  },
+  {
+    "city": "Jaltenco",
+    "admin": "México",
+    "sort": "26359"
+  },
+  {
+    "city": "Zacualtipán",
+    "admin": "Hidalgo",
+    "sort": "25987"
+  },
+  {
+    "city": "Santa María Colotepec",
+    "admin": "Oaxaca",
+    "sort": "24076"
+  },
+  {
+    "city": "Huejotzingo",
+    "admin": "Puebla",
+    "sort": "25684"
+  },
+  {
+    "city": "Jalpan",
+    "admin": "Querétaro",
+    "sort": "25550"
+  },
+  {
+    "city": "Santa María Tonameca",
+    "admin": "Oaxaca",
+    "sort": "25130"
+  },
+  {
+    "city": "Sultepec",
+    "admin": "México",
+    "sort": "24986"
+  },
+  {
+    "city": "La Huerta",
+    "admin": "Jalisco",
+    "sort": "24563"
+  },
+  {
+    "city": "San Agustín Loxicha",
+    "admin": "Oaxaca",
+    "sort": "24467"
+  },
+  {
+    "city": "Paraíso",
+    "admin": "Tabasco",
+    "sort": "23830"
+  },
+  {
+    "city": "San Miguel Ocotenco",
+    "admin": "Puebla",
+    "sort": "23824"
+  },
+  {
+    "city": "Tecolutla",
+    "admin": "Veracruz",
+    "sort": "23865"
+  },
+  {
+    "city": "Tepalcatepec",
+    "admin": "Michoacán de Ocampo",
+    "sort": "23842"
+  },
+  {
+    "city": "Soledad Atzompa",
+    "admin": "Veracruz",
+    "sort": "23130"
+  },
+  {
+    "city": "San Juan Cotzocón",
+    "admin": "Oaxaca",
+    "sort": "23686"
+  },
+  {
+    "city": "Ahualulco de Mercado",
+    "admin": "Jalisco",
+    "sort": "23362"
+  },
+  {
+    "city": "Doctor Mora",
+    "admin": "Guanajuato",
+    "sort": "23324"
+  },
+  {
+    "city": "Cuilapan de Guerrero",
+    "admin": "Oaxaca",
+    "sort": "21597"
+  },
+  {
+    "city": "Huitiupán",
+    "admin": "Chiapas",
+    "sort": "23172"
+  },
+  {
+    "city": "Ozuluama de Mascareñas",
+    "admin": "Veracruz",
+    "sort": "23244"
+  },
+  {
+    "city": "Tototlán",
+    "admin": "Jalisco",
+    "sort": "23171"
+  },
+  {
+    "city": "Tamiahua",
+    "admin": "Veracruz",
+    "sort": "23120"
+  },
+  {
+    "city": "San Miguel de Papasquiaro",
+    "admin": "Durango",
+    "sort": "22750"
+  },
+  {
+    "city": "El Bosque",
+    "admin": "Chiapas",
+    "sort": "22606"
+  },
+  {
+    "city": "Magdalena",
+    "admin": "Jalisco",
+    "sort": "22643"
+  },
+  {
+    "city": "Tecali",
+    "admin": "Puebla",
+    "sort": "21992"
+  },
+  {
+    "city": "Yahualica de González Gallo",
+    "admin": "Jalisco",
+    "sort": "22586"
+  },
+  {
+    "city": "Puente Nacional",
+    "admin": "Veracruz",
+    "sort": "22454"
+  },
+  {
+    "city": "Huautla",
+    "admin": "Hidalgo",
+    "sort": "22521"
+  },
+  {
+    "city": "Tepexi de Rodríguez",
+    "admin": "Puebla",
+    "sort": "20598"
+  },
+  {
+    "city": "Acatlán",
+    "admin": "Jalisco",
+    "sort": "22261"
+  },
+  {
+    "city": "Yahualica",
+    "admin": "Hidalgo",
+    "sort": "22228"
+  },
+  {
+    "city": "Chapa de Mota",
+    "admin": "México",
+    "sort": "21746"
+  },
+  {
+    "city": "San Felipe",
+    "admin": "Baja California",
+    "sort": "20750"
+  },
+  {
+    "city": "Axapusco",
+    "admin": "México",
+    "sort": "21915"
+  },
+  {
+    "city": "Ocotlán de Morelos",
+    "admin": "Oaxaca",
+    "sort": "21676"
+  },
+  {
+    "city": "San Martín de las Pirámides",
+    "admin": "México",
+    "sort": "21511"
+  },
+  {
+    "city": "La Resolana",
+    "admin": "Jalisco",
+    "sort": "21584"
+  },
+  {
+    "city": "Acatic",
+    "admin": "Jalisco",
+    "sort": "21530"
+  },
+  {
+    "city": "Santa María Chilchotla",
+    "admin": "Oaxaca",
+    "sort": "20328"
+  },
+  {
+    "city": "Chachahuantla",
+    "admin": "Hidalgo",
+    "sort": "20619"
+  },
+  {
+    "city": "Jitotol",
+    "admin": "Chiapas",
+    "sort": "20606"
+  },
+  {
+    "city": "Chapulhuacán",
+    "admin": "Hidalgo",
+    "sort": "20577"
+  },
+  {
+    "city": "Colonia General Felipe Ángeles",
+    "admin": "Durango",
+    "sort": "20511"
+  },
+  {
+    "city": "Bella Vista",
+    "admin": "Chiapas",
+    "sort": "20142"
+  },
+  {
+    "city": "Villa Hidalgo",
+    "admin": "Jalisco",
+    "sort": "20257"
+  },
+  {
+    "city": "Huanímaro",
+    "admin": "Guanajuato",
+    "sort": "20117"
+  },
+  {
+    "city": "Tepetlixpa",
+    "admin": "México",
+    "sort": "19843"
+  },
+  {
+    "city": "Cruz Grande",
+    "admin": "Guerrero",
+    "sort": "20175"
+  },
+  {
+    "city": "Benemérito",
+    "admin": "Chiapas",
+    "sort": "20193"
+  },
+  {
+    "city": "Naranjos",
+    "admin": "Veracruz",
+    "sort": "20073"
+  },
+  {
+    "city": "Castillo de Teayo",
+    "admin": "Veracruz",
+    "sort": "20037"
+  },
+  {
+    "city": "Atlapexco",
+    "admin": "Hidalgo",
+    "sort": "19812"
+  },
+  {
+    "city": "El Arenal",
+    "admin": "Jalisco",
+    "sort": "19900"
+  },
+  {
+    "city": "Comapa",
+    "admin": "Veracruz",
+    "sort": "19859"
+  },
+  {
+    "city": "Puerto Morelos",
+    "admin": "Quintana Roo",
+    "sort": "19205"
+  },
+  {
+    "city": "Tapalpa",
+    "admin": "Jalisco",
+    "sort": "19506"
+  },
+  {
+    "city": "Amatán",
+    "admin": "Chiapas",
+    "sort": "19348"
+  },
+  {
+    "city": "Jesús María",
+    "admin": "Jalisco",
+    "sort": "19469"
+  },
+  {
+    "city": "Texcaltitlán",
+    "admin": "México",
+    "sort": "19206"
+  },
+  {
+    "city": "Jamiltepec",
+    "admin": "Oaxaca",
+    "sort": "19201"
+  },
+  {
+    "city": "Huehuetla",
+    "admin": "Puebla",
+    "sort": "18803"
+  },
+  {
+    "city": "Cuquío",
+    "admin": "Jalisco",
+    "sort": "17980"
+  },
+  {
+    "city": "Tlalnelhuayocan",
+    "admin": "Veracruz",
+    "sort": "18715"
+  },
+  {
+    "city": "Vista Hermosa de Negrete",
+    "admin": "Michoacán de Ocampo",
+    "sort": "18995"
+  },
+  {
+    "city": "Ixtlahuacán del Río",
+    "admin": "Jalisco",
+    "sort": "19070"
+  },
+  {
+    "city": "Ajacuba",
+    "admin": "Hidalgo",
+    "sort": "18872"
+  },
+  {
+    "city": "Filomeno Mata",
+    "admin": "Veracruz",
+    "sort": "18367"
+  },
+  {
+    "city": "Moloacán",
+    "admin": "Veracruz",
+    "sort": "17504"
+  },
+  {
+    "city": "Santa Cruz Zenzontepec",
+    "admin": "Oaxaca",
+    "sort": "18512"
+  },
+  {
+    "city": "Asunción Nochixtlán",
+    "admin": "Oaxaca",
+    "sort": "18525"
+  },
+  {
+    "city": "San Blas Atempa",
+    "admin": "Oaxaca",
+    "sort": "18406"
+  },
+  {
+    "city": "San José Tenango",
+    "admin": "Oaxaca",
+    "sort": "18316"
+  },
+  {
+    "city": "Xochiatipan de Castillo",
+    "admin": "Hidalgo",
+    "sort": "18157"
+  },
+  {
+    "city": "Juanacatlán",
+    "admin": "Jalisco",
+    "sort": "17955"
+  },
+  {
+    "city": "Cuautitlán",
+    "admin": "Jalisco",
+    "sort": "18138"
+  },
+  {
+    "city": "Zapotlán del Rey",
+    "admin": "Jalisco",
+    "sort": "17893"
+  },
+  {
+    "city": "Unión de San Antonio",
+    "admin": "Jalisco",
+    "sort": "17915"
+  },
+  {
+    "city": "San Bartolo Tutotepec",
+    "admin": "Hidalgo",
+    "sort": "17837"
+  },
+  {
+    "city": "Tlahuelilpan",
+    "admin": "Hidalgo",
+    "sort": "17153"
+  },
+  {
+    "city": "Benito Juárez",
+    "admin": "Veracruz",
+    "sort": "17618"
+  },
+  {
+    "city": "Santos Reyes Nopala",
+    "admin": "Oaxaca",
+    "sort": "17583"
+  },
+  {
+    "city": "Totutla",
+    "admin": "Veracruz",
+    "sort": "17428"
+  },
+  {
+    "city": "Compostela",
+    "admin": "Nayarit",
+    "sort": "17573"
+  },
+  {
+    "city": "Ziracuaretiro",
+    "admin": "Michoacán de Ocampo",
+    "sort": "17394"
+  },
+  {
+    "city": "Cosautlán",
+    "admin": "Veracruz",
+    "sort": "16353"
+  },
+  {
+    "city": "Pisaflores",
+    "admin": "Hidalgo",
+    "sort": "17214"
+  },
+  {
+    "city": "Tecolotlán",
+    "admin": "Jalisco",
+    "sort": "17257"
+  },
+  {
+    "city": "Calnali",
+    "admin": "Hidalgo",
+    "sort": "17163"
+  },
+  {
+    "city": "Ignacio de la Llave",
+    "admin": "Veracruz",
+    "sort": "17105"
+  },
+  {
+    "city": "San Juan Lalana",
+    "admin": "Oaxaca",
+    "sort": "16972"
+  },
+  {
+    "city": "Guadalupe Victoria",
+    "admin": "Puebla",
+    "sort": "16923"
+  },
+  {
+    "city": "Jilotepec",
+    "admin": "Veracruz",
+    "sort": "16682"
+  },
+  {
+    "city": "San Jacinto Amilpas",
+    "admin": "Oaxaca",
+    "sort": "15720"
+  },
+  {
+    "city": "Alfajayucan",
+    "admin": "Hidalgo",
+    "sort": "16859"
+  },
+  {
+    "city": "Chalchihuitán",
+    "admin": "Chiapas",
+    "sort": "16803"
+  },
+  {
+    "city": "Chinampa de Gorostiza",
+    "admin": "Veracruz",
+    "sort": "16741"
+  },
+  {
+    "city": "Santa María Petapa",
+    "admin": "Oaxaca",
+    "sort": "16518"
+  },
+  {
+    "city": "Zapotlán de Juárez",
+    "admin": "Hidalgo",
+    "sort": "16493"
+  },
+  {
+    "city": "Santa Anita",
+    "admin": "Sonora",
+    "sort": "16203"
+  },
+  {
+    "city": "Chiconquiaco",
+    "admin": "Veracruz",
+    "sort": "14394"
+  },
+  {
+    "city": "San Julián",
+    "admin": "Jalisco",
+    "sort": "15890"
+  },
+  {
+    "city": "Cardonal",
+    "admin": "Hidalgo",
+    "sort": "15876"
+  },
+  {
+    "city": "Tenango de Doria",
+    "admin": "Hidalgo",
+    "sort": "15793"
+  },
+  {
+    "city": "Ixhuatlán del Sureste",
+    "admin": "Veracruz",
+    "sort": "15800"
+  },
+  {
+    "city": "Tasquillo",
+    "admin": "Hidalgo",
+    "sort": "15429"
+  },
+  {
+    "city": "Churumuco de Morelos",
+    "admin": "Michoacán de Ocampo",
+    "sort": "15455"
+  },
+  {
+    "city": "Amatitán",
+    "admin": "Jalisco",
+    "sort": "15344"
+  },
+  {
+    "city": "Chilcuautla",
+    "admin": "Hidalgo",
+    "sort": "15284"
+  },
+  {
+    "city": "San Pedro Tapanatepec",
+    "admin": "Oaxaca",
+    "sort": "15152"
+  },
+  {
+    "city": "Zozocolco de Hidalgo",
+    "admin": "Veracruz",
+    "sort": "15031"
+  },
+  {
+    "city": "El Arenal",
+    "admin": "Hidalgo",
+    "sort": "15037"
+  },
+  {
+    "city": "Nopala de Villagran",
+    "admin": "Hidalgo",
+    "sort": "15099"
+  },
+  {
+    "city": "Mineral del Monte",
+    "admin": "Hidalgo",
+    "sort": "14640"
+  },
+  {
+    "city": "Tepetzintla",
+    "admin": "Veracruz",
+    "sort": "14736"
+  },
+  {
+    "city": "Tamuín",
+    "admin": "San Luis Potosí",
+    "sort": "14748"
+  },
+  {
+    "city": "Zontecomatlán de López y Fuentes",
+    "admin": "Veracruz",
+    "sort": "14620"
+  },
+  {
+    "city": "San Andrés Timilpan",
+    "admin": "México",
+    "sort": "14335"
+  },
+  {
+    "city": "Nacozari Viejo",
+    "admin": "Sonora",
+    "sort": "14369"
+  },
+  {
+    "city": "Ciénega de Flores",
+    "admin": "Nuevo León",
+    "sort": "14268"
+  },
+  {
+    "city": "El Barrio de la Soledad",
+    "admin": "Oaxaca",
+    "sort": "14277"
+  },
+  {
+    "city": "Santiago Ixtayutla",
+    "admin": "Oaxaca",
+    "sort": "13041"
+  },
+  {
+    "city": "Almoloya de Alquisiras",
+    "admin": "México",
+    "sort": "14196"
+  },
+  {
+    "city": "El Porvenir de Velasco Suárez",
+    "admin": "Chiapas",
+    "sort": "14121"
+  },
+  {
+    "city": "Santiago Jocotepec",
+    "admin": "Oaxaca",
+    "sort": "14135"
+  },
+  {
+    "city": "Santiago de Anaya",
+    "admin": "Hidalgo",
+    "sort": "14066"
+  },
+  {
+    "city": "Polotitlán de la Ilustración",
+    "admin": "México",
+    "sort": "13851"
+  },
+  {
+    "city": "San Pedro Pochutla",
+    "admin": "Oaxaca",
+    "sort": "13685"
+  },
+  {
+    "city": "Eloxochitlán",
+    "admin": "Puebla",
+    "sort": "12520"
+  },
+  {
+    "city": "Ixcatepec",
+    "admin": "Veracruz",
+    "sort": "13591"
+  },
+  {
+    "city": "Tianguistengo",
+    "admin": "Hidalgo",
+    "sort": "13478"
+  },
+  {
+    "city": "Chalma",
+    "admin": "Veracruz",
+    "sort": "13479"
+  },
+  {
+    "city": "Ilamatlán",
+    "admin": "Veracruz",
+    "sort": "13474"
+  },
+  {
+    "city": "Unión de Tula",
+    "admin": "Jalisco",
+    "sort": "13446"
+  },
+  {
+    "city": "Espita",
+    "admin": "Yucatán",
+    "sort": "11551"
+  },
+  {
+    "city": "Soyaniquilpan",
+    "admin": "México",
+    "sort": "13290"
+  },
+  {
+    "city": "Cocotitlán",
+    "admin": "México",
+    "sort": "12142"
+  },
+  {
+    "city": "Mazatlán Villa de Flores",
+    "admin": "Oaxaca",
+    "sort": "13097"
+  },
+  {
+    "city": "Singuilucan",
+    "admin": "Hidalgo",
+    "sort": "13143"
+  },
+  {
+    "city": "Tapilula",
+    "admin": "Chiapas",
+    "sort": "12887"
+  },
+  {
+    "city": "Maravilla Tenejapa",
+    "admin": "Chiapas",
+    "sort": "12945"
+  },
+  {
+    "city": "Zaragoza",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "11150"
+  },
+  {
+    "city": "Tenango del Aire",
+    "admin": "México",
+    "sort": "12470"
+  },
+  {
+    "city": "Santiago Amoltepec",
+    "admin": "Oaxaca",
+    "sort": "12683"
+  },
+  {
+    "city": "Tepetzintla",
+    "admin": "Puebla",
+    "sort": "11622"
+  },
+  {
+    "city": "Olintla",
+    "admin": "Puebla",
+    "sort": "11517"
+  },
+  {
+    "city": "Ocotepec",
+    "admin": "Chiapas",
+    "sort": "12508"
+  },
+  {
+    "city": "Emiliano Zapata",
+    "admin": "Hidalgo",
+    "sort": "12309"
+  },
+  {
+    "city": "Santa Ana Maya",
+    "admin": "Michoacán de Ocampo",
+    "sort": "12466"
+  },
+  {
+    "city": "Mecatlán",
+    "admin": "Veracruz",
+    "sort": "12332"
+  },
+  {
+    "city": "Tezoatlán de Segura y Luna",
+    "admin": "Oaxaca",
+    "sort": "11034"
+  },
+  {
+    "city": "Álamos",
+    "admin": "Sonora",
+    "sort": "10961"
+  },
+  {
+    "city": "Cuichapa",
+    "admin": "Veracruz",
+    "sort": "12238"
+  },
+  {
+    "city": "Mixtla de Altamirano",
+    "admin": "Veracruz",
+    "sort": "11646"
+  },
+  {
+    "city": "Citlaltépec",
+    "admin": "Veracruz",
+    "sort": "12109"
+  },
+  {
+    "city": "Mitontic",
+    "admin": "Chiapas",
+    "sort": "11906"
+  },
+  {
+    "city": "Chanal",
+    "admin": "Chiapas",
+    "sort": "12181"
+  },
+  {
+    "city": "San Carlos Yautepec",
+    "admin": "Oaxaca",
+    "sort": "12101"
+  },
+  {
+    "city": "Jacala",
+    "admin": "Hidalgo",
+    "sort": "12057"
+  },
+  {
+    "city": "Tlacolulan",
+    "admin": "Veracruz",
+    "sort": "11431"
+  },
+  {
+    "city": "Villa Aldama",
+    "admin": "Veracruz",
+    "sort": "11760"
+  },
+  {
+    "city": "Ojuelos de Jalisco",
+    "admin": "Jalisco",
+    "sort": "11881"
+  },
+  {
+    "city": "Zaragoza",
+    "admin": "Veracruz",
+    "sort": "11354"
+  },
+  {
+    "city": "Abasolo",
+    "admin": "Tamaulipas",
+    "sort": "11862"
+  },
+  {
+    "city": "Tolcayuca",
+    "admin": "Morelos",
+    "sort": "11746"
+  },
+  {
+    "city": "Tlachichilco",
+    "admin": "Veracruz",
+    "sort": "11630"
+  },
+  {
+    "city": "Santa Cruz Itundujia",
+    "admin": "Oaxaca",
+    "sort": "11616"
+  },
+  {
+    "city": "Temamatla",
+    "admin": "México",
+    "sort": "11206"
+  },
+  {
+    "city": "Epazoyucan",
+    "admin": "Hidalgo",
+    "sort": "11522"
+  },
+  {
+    "city": "Chapantongo",
+    "admin": "Hidalgo",
+    "sort": "11389"
+  },
+  {
+    "city": "Joquicingo",
+    "admin": "México",
+    "sort": "11042"
+  },
+  {
+    "city": "Mineral de Angangueo",
+    "admin": "Michoacán de Ocampo",
+    "sort": "11120"
+  },
+  {
+    "city": "San Nicolas Buenos Aires",
+    "admin": "Puebla",
+    "sort": "9972"
+  },
+  {
+    "city": "Tepetlán",
+    "admin": "Veracruz",
+    "sort": "9668"
+  },
+  {
+    "city": "Texcatepec",
+    "admin": "Veracruz",
+    "sort": "10934"
+  },
+  {
+    "city": "San Juanito de Escobedo",
+    "admin": "Jalisco",
+    "sort": "9433"
+  },
+  {
+    "city": "Ciudad Insurgentes",
+    "admin": "Baja California Sur",
+    "sort": "9133"
+  },
+  {
+    "city": "Tecoh",
+    "admin": "Yucatán",
+    "sort": "9134"
+  },
+  {
+    "city": "San Pablo Huixtepec",
+    "admin": "Oaxaca",
+    "sort": "9313"
+  },
+  {
+    "city": "Ixtacomitán",
+    "admin": "Chiapas",
+    "sort": "10772"
+  },
+  {
+    "city": "Emiliano Zapata",
+    "admin": "Chiapas",
+    "sort": "10783"
+  },
+  {
+    "city": "Tezontepec",
+    "admin": "Hidalgo",
+    "sort": "10723"
+  },
+  {
+    "city": "Santa Bárbara",
+    "admin": "Chihuahua",
+    "sort": "10721"
+  },
+  {
+    "city": "Santa Catarina Ayotzingo",
+    "admin": "México",
+    "sort": "10702"
+  },
+  {
+    "city": "Villa Purificación",
+    "admin": "Jalisco",
+    "sort": "10704"
+  },
+  {
+    "city": "Almoloya",
+    "admin": "Hidalgo",
+    "sort": "10638"
+  },
+  {
+    "city": "Santiago Suchilquitongo",
+    "admin": "Oaxaca",
+    "sort": "10397"
+  },
+  {
+    "city": "Jaltocan",
+    "admin": "Hidalgo",
+    "sort": "10265"
+  },
+  {
+    "city": "Coroneo",
+    "admin": "Guanajuato",
+    "sort": "10347"
+  },
+  {
+    "city": "Molango",
+    "admin": "Hidalgo",
+    "sort": "10385"
+  },
+  {
+    "city": "Agua Blanca Iturbide",
+    "admin": "Hidalgo",
+    "sort": "10313"
+  },
+  {
+    "city": "Teocuitatlán de Corona",
+    "admin": "Jalisco",
+    "sort": "10317"
+  },
+  {
+    "city": "Chavinda",
+    "admin": "Michoacán de Ocampo",
+    "sort": "10258"
+  },
+  {
+    "city": "Hecelchakán",
+    "admin": "Campeche",
+    "sort": "10285"
+  },
+  {
+    "city": "Seyé",
+    "admin": "Yucatán",
+    "sort": "8369"
+  },
+  {
+    "city": "San Blas",
+    "admin": "Nayarit",
+    "sort": "10187"
+  },
+  {
+    "city": "La Misión",
+    "admin": "Hidalgo",
+    "sort": "10096"
+  },
+  {
+    "city": "Arteaga",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "8446"
+  },
+  {
+    "city": "Santa Isabel Cholula",
+    "admin": "Puebla",
+    "sort": "9236"
+  },
+  {
+    "city": "San Agustín de las Juntas",
+    "admin": "Oaxaca",
+    "sort": "9342"
+  },
+  {
+    "city": "San Pedro Huamelula",
+    "admin": "Oaxaca",
+    "sort": "10014"
+  },
+  {
+    "city": "Santa María Ajoloapan",
+    "admin": "Morelos",
+    "sort": "9185"
+  },
+  {
+    "city": "Coycoyan de las Flores",
+    "admin": "Guerrero",
+    "sort": "9936"
+  },
+  {
+    "city": "Teotitlán",
+    "admin": "Oaxaca",
+    "sort": "9876"
+  },
+  {
+    "city": "Santa Cruz Atizapán",
+    "admin": "México",
+    "sort": "8909"
+  },
+  {
+    "city": "Cuicatlan",
+    "admin": "Oaxaca",
+    "sort": "9945"
+  },
+  {
+    "city": "Amatenango del Valle",
+    "admin": "Chiapas",
+    "sort": "9913"
+  },
+  {
+    "city": "Jilotlán de los Dolores",
+    "admin": "Jalisco",
+    "sort": "9917"
+  },
+  {
+    "city": "San Pedro Ixtlahuaca",
+    "admin": "Oaxaca",
+    "sort": "8561"
+  },
+  {
+    "city": "Nopaltepec",
+    "admin": "Morelos",
+    "sort": "8182"
+  },
+  {
+    "city": "Huaniqueo de Morales",
+    "admin": "México",
+    "sort": "8093"
+  },
+  {
+    "city": "Hueyotlipan",
+    "admin": "Puebla",
+    "sort": "8511"
+  },
+  {
+    "city": "Hostotipaquillo",
+    "admin": "Jalisco",
+    "sort": "9761"
+  },
+  {
+    "city": "Santo Tomás de los Plátanos",
+    "admin": "México",
+    "sort": "9682"
+  },
+  {
+    "city": "Tzitzio",
+    "admin": "Michoacán de Ocampo",
+    "sort": "8966"
+  },
+  {
+    "city": "Lototla",
+    "admin": "Hidalgo",
+    "sort": "9541"
+  },
+  {
+    "city": "Ecatzingo",
+    "admin": "México",
+    "sort": "9369"
+  },
+  {
+    "city": "Carácuaro",
+    "admin": "Michoacán de Ocampo",
+    "sort": "9485"
+  },
+  {
+    "city": "Comala",
+    "admin": "Colima",
+    "sort": "9442"
+  },
+  {
+    "city": "Coapilla",
+    "admin": "Chiapas",
+    "sort": "9210"
+  },
+  {
+    "city": "Tlahuiltepa",
+    "admin": "Hidalgo",
+    "sort": "9264"
+  },
+  {
+    "city": "Santa María del Tule",
+    "admin": "Oaxaca",
+    "sort": "8918"
+  },
+  {
+    "city": "Santo Domingo Petapa",
+    "admin": "Oaxaca",
+    "sort": "9157"
+  },
+  {
+    "city": "Guerrero",
+    "admin": "Chihuahua",
+    "sort": "7751"
+  },
+  {
+    "city": "Villa Chalcatongo de Hidalgo",
+    "admin": "Oaxaca",
+    "sort": "9066"
+  },
+  {
+    "city": "San Pablo Villa de Mitla",
+    "admin": "Oaxaca",
+    "sort": "7547"
+  },
+  {
+    "city": "Villa Morelos",
+    "admin": "México",
+    "sort": "7806"
+  },
+  {
+    "city": "San Francisco Ixhuatan",
+    "admin": "Oaxaca",
+    "sort": "8980"
+  },
+  {
+    "city": "Tepechitlán",
+    "admin": "Zacatecas",
+    "sort": "8972"
+  },
+  {
+    "city": "Tepetitlan",
+    "admin": "Hidalgo",
+    "sort": "8893"
+  },
+  {
+    "city": "San José de Gracia",
+    "admin": "Aguascalientes",
+    "sort": "8896"
+  },
+  {
+    "city": "Santa María Xadani",
+    "admin": "Oaxaca",
+    "sort": "8795"
+  },
+  {
+    "city": "Ciudad Cerralvo",
+    "admin": "Nuevo León",
+    "sort": "7169"
+  },
+  {
+    "city": "Tlanalapa",
+    "admin": "Hidalgo",
+    "sort": "8662"
+  },
+  {
+    "city": "El Espinal",
+    "admin": "Oaxaca",
+    "sort": "8575"
+  },
+  {
+    "city": "Conkal",
+    "admin": "Yucatán",
+    "sort": "7173"
+  },
+  {
+    "city": "Cacalchen",
+    "admin": "Yucatán",
+    "sort": "6787"
+  },
+  {
+    "city": "Imuris",
+    "admin": "Sonora",
+    "sort": "6924"
+  },
+  {
+    "city": "San Pablo Huitzo",
+    "admin": "Oaxaca",
+    "sort": "7024"
+  },
+  {
+    "city": "San Miguel del Puerto",
+    "admin": "Oaxaca",
+    "sort": "8362"
+  },
+  {
+    "city": "San Sebastián Tecomaxtlahuaca",
+    "admin": "Oaxaca",
+    "sort": "8352"
+  },
+  {
+    "city": "Santiago Yosondúa",
+    "admin": "Oaxaca",
+    "sort": "8330"
+  },
+  {
+    "city": "Texmelucan",
+    "admin": "Oaxaca",
+    "sort": "8323"
+  },
+  {
+    "city": "Tumbiscatío de Ruiz",
+    "admin": "Michoacán de Ocampo",
+    "sort": "6947"
+  },
+  {
+    "city": "Chicomuselo",
+    "admin": "Chiapas",
+    "sort": "7083"
+  },
+  {
+    "city": "Atotonilco de Tula",
+    "admin": "Hidalgo",
+    "sort": "8154"
+  },
+  {
+    "city": "Albarradas",
+    "admin": "Oaxaca",
+    "sort": "7965"
+  },
+  {
+    "city": "San Miguel Quetzaltepec",
+    "admin": "Oaxaca",
+    "sort": "8119"
+  },
+  {
+    "city": "Topolobampo",
+    "admin": "Sinaloa",
+    "sort": "6361"
+  },
+  {
+    "city": "Kinchil",
+    "admin": "Yucatán",
+    "sort": "6307"
+  },
+  {
+    "city": "San Martín Hidalgo",
+    "admin": "Jalisco",
+    "sort": "8092"
+  },
+  {
+    "city": "Solosuchiapa",
+    "admin": "Chiapas",
+    "sort": "8082"
+  },
+  {
+    "city": "Cosalá",
+    "admin": "Sinaloa",
+    "sort": "6577"
+  },
+  {
+    "city": "Tenampa",
+    "admin": "Veracruz",
+    "sort": "6677"
+  },
+  {
+    "city": "San Felipe Tejalapan",
+    "admin": "Oaxaca",
+    "sort": "7862"
+  },
+  {
+    "city": "Tonila",
+    "admin": "Jalisco",
+    "sort": "7919"
+  },
+  {
+    "city": "Temax",
+    "admin": "Yucatán",
+    "sort": "6239"
+  },
+  {
+    "city": "Tecuanipan",
+    "admin": "Puebla",
+    "sort": "6265"
+  },
+  {
+    "city": "Villa Díaz Ordaz",
+    "admin": "Oaxaca",
+    "sort": "6646"
+  },
+  {
+    "city": "Chapultenango",
+    "admin": "Chiapas",
+    "sort": "7644"
+  },
+  {
+    "city": "Dzilam González",
+    "admin": "Yucatán",
+    "sort": "5875"
+  },
+  {
+    "city": "San Bernardino",
+    "admin": "México",
+    "sort": "5667"
+  },
+  {
+    "city": "Omitlán de Juárez",
+    "admin": "Hidalgo",
+    "sort": "7529"
+  },
+  {
+    "city": "Teteles de Avila Castillo",
+    "admin": "Puebla",
+    "sort": "5869"
+  },
+  {
+    "city": "Mapimí",
+    "admin": "Durango",
+    "sort": "5623"
+  },
+  {
+    "city": "Francisco León",
+    "admin": "Chiapas",
+    "sort": "7430"
+  },
+  {
+    "city": "Homun",
+    "admin": "Yucatán",
+    "sort": "6146"
+  },
+  {
+    "city": "Dzidzantun",
+    "admin": "Yucatán",
+    "sort": "7393"
+  },
+  {
+    "city": "Rosales",
+    "admin": "Chihuahua",
+    "sort": "5570"
+  },
+  {
+    "city": "San Diego de Alejandría",
+    "admin": "Jalisco",
+    "sort": "7349"
+  },
+  {
+    "city": "San Antonino Monteverde",
+    "admin": "Oaxaca",
+    "sort": "7305"
+  },
+  {
+    "city": "Chichimila",
+    "admin": "Yucatán",
+    "sort": "5528"
+  },
+  {
+    "city": "Villa Unión",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "6188"
+  },
+  {
+    "city": "Tlilapan",
+    "admin": "Veracruz",
+    "sort": "5258"
+  },
+  {
+    "city": "Tomatlán",
+    "admin": "Veracruz",
+    "sort": "6869"
+  },
+  {
+    "city": "Colipa",
+    "admin": "Veracruz",
+    "sort": "5718"
+  },
+  {
+    "city": "Zacualpan",
+    "admin": "Veracruz",
+    "sort": "7194"
+  },
+  {
+    "city": "Huautepec",
+    "admin": "Oaxaca",
+    "sort": "6299"
+  },
+  {
+    "city": "Santiago",
+    "admin": "Veracruz",
+    "sort": "5790"
+  },
+  {
+    "city": "Ixtapan del Oro",
+    "admin": "México",
+    "sort": "6349"
+  },
+  {
+    "city": "La Grandeza",
+    "admin": "Chiapas",
+    "sort": "7057"
+  },
+  {
+    "city": "Ayotzintepec",
+    "admin": "Oaxaca",
+    "sort": "7102"
+  },
+  {
+    "city": "Texhuacán",
+    "admin": "Veracruz",
+    "sort": "5284"
+  },
+  {
+    "city": "Sotuta",
+    "admin": "Yucatán",
+    "sort": "5548"
+  },
+  {
+    "city": "Tixpehual",
+    "admin": "Yucatán",
+    "sort": "5690"
+  },
+  {
+    "city": "Tlapanaloya",
+    "admin": "Morelos",
+    "sort": "6466"
+  },
+  {
+    "city": "Todos Santos",
+    "admin": "Baja California Sur",
+    "sort": "5148"
+  },
+  {
+    "city": "Tuzamapan",
+    "admin": "Puebla",
+    "sort": "6314"
+  },
+  {
+    "city": "Pinotepa de Don Luis",
+    "admin": "Oaxaca",
+    "sort": "6893"
+  },
+  {
+    "city": "Tenamaxtlán",
+    "admin": "Jalisco",
+    "sort": "7005"
+  },
+  {
+    "city": "Samahil",
+    "admin": "Yucatán",
+    "sort": "5631"
+  },
+  {
+    "city": "Xochicoatlán",
+    "admin": "Hidalgo",
+    "sort": "6954"
+  },
+  {
+    "city": "San Buenaventura",
+    "admin": "Chihuahua",
+    "sort": "6957"
+  },
+  {
+    "city": "San José del Progreso",
+    "admin": "Oaxaca",
+    "sort": "6822"
+  },
+  {
+    "city": "Santiago Yaveo",
+    "admin": "Oaxaca",
+    "sort": "6885"
+  },
+  {
+    "city": "Ocampo",
+    "admin": "Tamaulipas",
+    "sort": "5095"
+  },
+  {
+    "city": "Santiago Maravatío",
+    "admin": "Guanajuato",
+    "sort": "6670"
+  },
+  {
+    "city": "Tuxcueca",
+    "admin": "Jalisco",
+    "sort": "6702"
+  },
+  {
+    "city": "Morelos",
+    "admin": "Coahuila de Zaragoza",
+    "sort": "6720"
+  },
+  {
+    "city": "Santa Lucía Monte Verde",
+    "admin": "Oaxaca",
+    "sort": "6398"
+  },
+  {
+    "city": "Tatatila",
+    "admin": "Veracruz",
+    "sort": "5767"
+  },
+  {
+    "city": "San Juan Mixtepec",
+    "admin": "Oaxaca",
+    "sort": "6680"
+  },
+  {
+    "city": "Gómez Farías",
+    "admin": "Chihuahua",
+    "sort": "5330"
+  },
+  {
+    "city": "Creel",
+    "admin": "Chihuahua",
+    "sort": "5026"
+  },
+  {
+    "city": "Silacayoápam",
+    "admin": "Oaxaca",
+    "sort": "6495"
+  },
+  {
+    "city": "San Jerónimo Tlacochahuaya",
+    "admin": "Oaxaca",
+    "sort": "5491"
+  },
+  {
+    "city": "Atengo",
+    "admin": "Jalisco",
+    "sort": "5475"
+  },
+  {
+    "city": "Peñón Blanco",
+    "admin": "Durango",
+    "sort": "5271"
+  },
+  {
+    "city": "Santa María Yucuhiti",
+    "admin": "Oaxaca",
+    "sort": "6048"
+  },
+  {
+    "city": "San Andrés Huaxpaltepec",
+    "admin": "Oaxaca",
+    "sort": "6168"
+  },
+  {
+    "city": "Nicolás Flores",
+    "admin": "Hidalgo",
+    "sort": "6202"
+  },
+  {
+    "city": "San Antonio Cañada",
+    "admin": "Puebla",
+    "sort": "5590"
+  },
+  {
+    "city": "Chiquilistlán",
+    "admin": "Jalisco",
+    "sort": "6102"
+  },
+  {
+    "city": "Concepción de Buenos Aires",
+    "admin": "Jalisco",
+    "sort": "6088"
+  },
+  {
+    "city": "San Simón de Guerrero",
+    "admin": "México",
+    "sort": "6010"
+  },
+  {
+    "city": "Magdalena Tequisistlán",
+    "admin": "Oaxaca",
+    "sort": "6038"
+  },
+  {
+    "city": "Los Reyes",
+    "admin": "Veracruz",
+    "sort": "5830"
+  },
+  {
+    "city": "San Miguel Panixtlahuaca",
+    "admin": "Oaxaca",
+    "sort": "5930"
+  },
+  {
+    "city": "San Juan Ñumí",
+    "admin": "Oaxaca",
+    "sort": "5747"
+  },
+  {
+    "city": "Tancoco",
+    "admin": "Veracruz",
+    "sort": "5792"
+  },
+  {
+    "city": "Otatitlán",
+    "admin": "Veracruz",
+    "sort": "5703"
+  },
+  {
+    "city": "Metapa",
+    "admin": "Chiapas",
+    "sort": "5743"
+  },
+  {
+    "city": "San Andrés Huayápam",
+    "admin": "Oaxaca",
+    "sort": "5336"
+  },
+  {
+    "city": "San Sebastián del Oeste",
+    "admin": "Jalisco",
+    "sort": "5643"
+  },
+  {
+    "city": "Huejúcar",
+    "admin": "Jalisco",
+    "sort": "5633"
+  },
+  {
+    "city": "Atarjea",
+    "admin": "Guanajuato",
+    "sort": "5610"
+  },
+  {
+    "city": "Xoxocotla",
+    "admin": "Veracruz",
+    "sort": "5446"
+  },
+  {
+    "city": "San Nicolás Tolentino",
+    "admin": "San Luis Potosí",
+    "sort": "5547"
+  },
+  {
+    "city": "Naco",
+    "admin": "Sonora",
+    "sort": "5485"
+  },
+  {
+    "city": "Teojomulco",
+    "admin": "Oaxaca",
+    "sort": "5093"
+  },
+  {
+    "city": "Valle de Juárez",
+    "admin": "Jalisco",
+    "sort": "5389"
+  },
+  {
+    "city": "El Limón",
+    "admin": "Jalisco",
+    "sort": "5379"
+  },
+  {
+    "city": "Ixtapangajoya",
+    "admin": "Chiapas",
+    "sort": "5384"
+  },
+  {
+    "city": "General Bravo",
+    "admin": "Nuevo León",
+    "sort": "5385"
+  },
+  {
+    "city": "Totontepec Villa de Morelos",
+    "admin": "Oaxaca",
+    "sort": "5361"
+  },
+  {
+    "city": "Acula",
+    "admin": "Veracruz",
+    "sort": "5350"
+  },
+  {
+    "city": "Lampazos de Naranjo",
+    "admin": "Nuevo León",
+    "sort": "5305"
+  },
+  {
+    "city": "Santiago Zacatepec",
+    "admin": "Oaxaca",
+    "sort": "5187"
+  },
+  {
+    "city": "San Cristóbal Amatlán",
+    "admin": "Oaxaca",
+    "sort": "5148"
+  },
+  {
+    "city": "San Dionisio del Mar",
+    "admin": "Oaxaca",
+    "sort": "5127"
+  },
+  {
+    "city": "Jalcomulco",
+    "admin": "Veracruz",
+    "sort": "5006"
+  },
+  {
+    "city": "San Jerónimo Coatlán",
+    "admin": "Oaxaca",
+    "sort": "5019"
+  },
+  {
+    "city": "Nautla",
+    "admin": "Veracruz",
+    "sort": "2890"
+  },
+  {
+    "city": "Mazatán",
+    "admin": "Sonora",
+    "sort": "1058"
+  },
+  {
+    "city": "Punta Prieta",
+    "admin": "Baja California",
+    "sort": "112"
+  },
+  {
+    "city": "Pueblo Viejo",
+    "admin": "México",
+    "sort": "9682"
+  },
+  {
+    "city": "Ixtapa Zihuatanejo",
+    "admin": "Guerrero",
+    "sort": "8992"
+  },
+  {
+    "city": "Vícam Pueblo",
+    "admin": "Sonora",
+    "sort": "8578"
+  },
+  {
+    "city": "Tamchen",
+    "admin": "Yucatán",
+    "sort": "6307"
+  },
+  {
+    "city": "San Quintín",
+    "admin": "Baja California",
+    "sort": "5433"
+  },
+  {
+    "city": "San Francisco",
+    "admin": "Jalisco",
+    "sort": "5167"
+  },
+  {
+    "city": "Altata",
+    "admin": "Sinaloa",
+    "sort": "2001"
+  }
+]

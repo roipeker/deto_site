@@ -1,0 +1,1312 @@
+[
+  {
+    "city": "Tehran",
+    "admin": "Tehrān",
+    "sort": "13819000"
+  },
+  {
+    "city": "Mashhad",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "3001184"
+  },
+  {
+    "city": "Eşfahān",
+    "admin": "Eşfahān",
+    "sort": "1961260"
+  },
+  {
+    "city": "Karaj",
+    "admin": "Alborz",
+    "sort": "1592492"
+  },
+  {
+    "city": "Shīrāz",
+    "admin": "Fārs",
+    "sort": "1565572"
+  },
+  {
+    "city": "Tabrīz",
+    "admin": "Āz̄arbāyjān-e Sharqī",
+    "sort": "1558693"
+  },
+  {
+    "city": "Qom",
+    "admin": "Qom",
+    "sort": "1201158"
+  },
+  {
+    "city": "Ahvāz",
+    "admin": "Khūzestān",
+    "sort": "1184788"
+  },
+  {
+    "city": "Kermānshāh",
+    "admin": "Kermānshāh",
+    "sort": "945651"
+  },
+  {
+    "city": "Orūmīyeh",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "736224"
+  },
+  {
+    "city": "Rasht",
+    "admin": "Gīlān",
+    "sort": "679995"
+  },
+  {
+    "city": "Bahār",
+    "admin": "Hamadān",
+    "sort": "673405"
+  },
+  {
+    "city": "Zāhedān",
+    "admin": "Sīstān va Balūchestān",
+    "sort": "587730"
+  },
+  {
+    "city": "Hamadān",
+    "admin": "Hamadān",
+    "sort": "554406"
+  },
+  {
+    "city": "Kermān",
+    "admin": "Kermān",
+    "sort": "537718"
+  },
+  {
+    "city": "Ardabīl",
+    "admin": "Ardabīl",
+    "sort": "529374"
+  },
+  {
+    "city": "Bandar ‘Abbās",
+    "admin": "Hormozgān",
+    "sort": "526648"
+  },
+  {
+    "city": "Arāk",
+    "admin": "Markazī",
+    "sort": "520944"
+  },
+  {
+    "city": "Eslāmshahr",
+    "admin": "Tehrān",
+    "sort": "448129"
+  },
+  {
+    "city": "Zanjān",
+    "admin": "Zanjān",
+    "sort": "433475"
+  },
+  {
+    "city": "Kāshān",
+    "admin": "Eşfahān",
+    "sort": "432557"
+  },
+  {
+    "city": "Yazd",
+    "admin": "Yazd",
+    "sort": "423006"
+  },
+  {
+    "city": "Sanandaj",
+    "admin": "Kordestān",
+    "sort": "412767"
+  },
+  {
+    "city": "Qazvīn",
+    "admin": "Qazvīn",
+    "sort": "402748"
+  },
+  {
+    "city": "Khorramābād",
+    "admin": "Lorestān",
+    "sort": "373416"
+  },
+  {
+    "city": "Madan",
+    "admin": "Khūzestān",
+    "sort": "370180"
+  },
+  {
+    "city": "Shahr-e Qods",
+    "admin": "Tehrān",
+    "sort": "309605"
+  },
+  {
+    "city": "Gorgān",
+    "admin": "Golestān",
+    "sort": "312223"
+  },
+  {
+    "city": "Shahrīār",
+    "admin": "Tehrān",
+    "sort": "309607"
+  },
+  {
+    "city": "Malārd",
+    "admin": "Tehrān",
+    "sort": "281027"
+  },
+  {
+    "city": "Sartā",
+    "admin": "Māzandarān",
+    "sort": "271467"
+  },
+  {
+    "city": "Dezfūl",
+    "admin": "Khūzestān",
+    "sort": "264709"
+  },
+  {
+    "city": "Bābol",
+    "admin": "Māzandarān",
+    "sort": "250217"
+  },
+  {
+    "city": "Sabzevār",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "243700"
+  },
+  {
+    "city": "Āmol",
+    "admin": "Māzandarān",
+    "sort": "237528"
+  },
+  {
+    "city": "Pākdasht",
+    "admin": "Tehrān",
+    "sort": "236319"
+  },
+  {
+    "city": "Najafābād",
+    "admin": "Eşfahān",
+    "sort": "235281"
+  },
+  {
+    "city": "Borūjerd",
+    "admin": "Lorestān",
+    "sort": "234997"
+  },
+  {
+    "city": "Qarchak",
+    "admin": "Tehrān",
+    "sort": "231075"
+  },
+  {
+    "city": "Varāmīn",
+    "admin": "Tehrān",
+    "sort": "225628"
+  },
+  {
+    "city": "Neyshābūr",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "221700"
+  },
+  {
+    "city": "Sāveh",
+    "admin": "Markazī",
+    "sort": "220762"
+  },
+  {
+    "city": "Khomeynī Shahr",
+    "admin": "Eşfahān",
+    "sort": "218737"
+  },
+  {
+    "city": "Nasīm Shahr",
+    "admin": "Tehrān",
+    "sort": "200393"
+  },
+  {
+    "city": "Qā’em Shahr",
+    "admin": "Māzandarān",
+    "sort": "204953"
+  },
+  {
+    "city": "Bojnūrd",
+    "admin": "Khorāsān-e Shomālī",
+    "sort": "199791"
+  },
+  {
+    "city": "Bandar-e Būshehr",
+    "admin": "Būshehr",
+    "sort": "195222"
+  },
+  {
+    "city": "Būkān",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "193501"
+  },
+  {
+    "city": "Semnān",
+    "admin": "Semnān",
+    "sort": "185129"
+  },
+  {
+    "city": "Fardīs",
+    "admin": "Tehrān",
+    "sort": "181174"
+  },
+  {
+    "city": "Khowy",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "182000"
+  },
+  {
+    "city": "Bīrjand",
+    "admin": "Khorāsān-e Jonūbī",
+    "sort": "178020"
+  },
+  {
+    "city": "Marāgheh",
+    "admin": "Āz̄arbāyjān-e Sharqī",
+    "sort": "175255"
+  },
+  {
+    "city": "Sīrjān",
+    "admin": "Kermān",
+    "sort": "175000"
+  },
+  {
+    "city": "Shāhīn Shahr",
+    "admin": "Eşfahān",
+    "sort": "173329"
+  },
+  {
+    "city": "Malāyer",
+    "admin": "Hamadān",
+    "sort": "170237"
+  },
+  {
+    "city": "Mahābād",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "168393"
+  },
+  {
+    "city": "Saqqez",
+    "admin": "Kordestān",
+    "sort": "165258"
+  },
+  {
+    "city": "Bandar-e Māhshahr",
+    "admin": "Khūzestān",
+    "sort": "162797"
+  },
+  {
+    "city": "Rafsanjān",
+    "admin": "Kermān",
+    "sort": "161909"
+  },
+  {
+    "city": "Shahr-e Kord",
+    "admin": "Chahār Maḩāl va Bakhtīārī",
+    "sort": "159775"
+  },
+  {
+    "city": "Golmeh",
+    "admin": "Īlām",
+    "sort": "152894"
+  },
+  {
+    "city": "Gonbad-e Kāvūs",
+    "admin": "Golestān",
+    "sort": "151910"
+  },
+  {
+    "city": "Shāhrūd",
+    "admin": "Semnān",
+    "sort": "150129"
+  },
+  {
+    "city": "Marvdasht",
+    "admin": "Fārs",
+    "sort": "148858"
+  },
+  {
+    "city": "Qūchān",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "145531"
+  },
+  {
+    "city": "Kamālshahr",
+    "admin": "Alborz",
+    "sort": "141166"
+  },
+  {
+    "city": "Jahrom",
+    "admin": "Fārs",
+    "sort": "141634"
+  },
+  {
+    "city": "Torbat-e Ḩeydarīyeh",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "140019"
+  },
+  {
+    "city": "Pīrānshahr",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "138864"
+  },
+  {
+    "city": "Marīvān",
+    "admin": "Kordestān",
+    "sort": "136654"
+  },
+  {
+    "city": "Andīmeshk",
+    "admin": "Khūzestān",
+    "sort": "135116"
+  },
+  {
+    "city": "Shahreẕā",
+    "admin": "Eşfahān",
+    "sort": "134592"
+  },
+  {
+    "city": "Zābol",
+    "admin": "Sīstān va Balūchestān",
+    "sort": "134590"
+  },
+  {
+    "city": "Khorramshahr",
+    "admin": "Khūzestān",
+    "sort": "133097"
+  },
+  {
+    "city": "Marand",
+    "admin": "Āz̄arbāyjān-e Sharqī",
+    "sort": "130825"
+  },
+  {
+    "city": "Jīroft",
+    "admin": "Kermān",
+    "sort": "130429"
+  },
+  {
+    "city": "Salmās",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "127864"
+  },
+  {
+    "city": "Bam",
+    "admin": "Kermān",
+    "sort": "127396"
+  },
+  {
+    "city": "Behbahān",
+    "admin": "Khūzestān",
+    "sort": "122604"
+  },
+  {
+    "city": "Dorūd",
+    "admin": "Lorestān",
+    "sort": "121608"
+  },
+  {
+    "city": "Moḩammad Shahr",
+    "admin": "Alborz",
+    "sort": "119418"
+  },
+  {
+    "city": "Naz̧arābād",
+    "admin": "Alborz",
+    "sort": "119512"
+  },
+  {
+    "city": "Bandar-e Anzalī",
+    "admin": "Gīlān",
+    "sort": "110643"
+  },
+  {
+    "city": "Fasā",
+    "admin": "Fārs",
+    "sort": "110825"
+  },
+  {
+    "city": "Borāzjān",
+    "admin": "Būshehr",
+    "sort": "110567"
+  },
+  {
+    "city": "Bāneh",
+    "admin": "Kordestān",
+    "sort": "110218"
+  },
+  {
+    "city": "Yāsūj",
+    "admin": "Kohgīlūyeh va Bowyer Aḩmad",
+    "sort": "108505"
+  },
+  {
+    "city": "Chābahār",
+    "admin": "Sīstān va Balūchestān",
+    "sort": "106739"
+  },
+  {
+    "city": "Robāţ Karīm",
+    "admin": "Tehrān",
+    "sort": "105393"
+  },
+  {
+    "city": "Khāk-e ‘Alī",
+    "admin": "Qazvīn",
+    "sort": "104417"
+  },
+  {
+    "city": "Kāshmar",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "102282"
+  },
+  {
+    "city": "Shūshtar",
+    "admin": "Khūzestān",
+    "sort": "101878"
+  },
+  {
+    "city": "Ahar",
+    "admin": "Āz̄arbāyjān-e Sharqī",
+    "sort": "100641"
+  },
+  {
+    "city": "Masjed Soleymān",
+    "admin": "Khūzestān",
+    "sort": "100497"
+  },
+  {
+    "city": "Torbat-e Jām",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "100449"
+  },
+  {
+    "city": "Būmahen",
+    "admin": "Tehrān",
+    "sort": "79034"
+  },
+  {
+    "city": "Chahār Dangeh",
+    "admin": "Tehrān",
+    "sort": "49950"
+  },
+  {
+    "city": "Sārī",
+    "admin": "Māzandarān",
+    "sort": ""
+  },
+  {
+    "city": "Īlām",
+    "admin": "Īlām",
+    "sort": ""
+  },
+  {
+    "city": "Abhar",
+    "admin": "Zanjān",
+    "sort": "99285"
+  },
+  {
+    "city": "Kāzerūn",
+    "admin": "Fārs",
+    "sort": "96683"
+  },
+  {
+    "city": "Khowrāsgān",
+    "admin": "Eşfahān",
+    "sort": "86063"
+  },
+  {
+    "city": "Shīrvān",
+    "admin": "Khorāsān-e Shomālī",
+    "sort": "82790"
+  },
+  {
+    "city": "Meybod",
+    "admin": "Yazd",
+    "sort": "80712"
+  },
+  {
+    "city": "Tākestān",
+    "admin": "Qazvīn",
+    "sort": "80299"
+  },
+  {
+    "city": "Bahārestān",
+    "admin": "Eşfahān",
+    "sort": "79023"
+  },
+  {
+    "city": "Alīgūdarz",
+    "admin": "Lorestān",
+    "sort": "78690"
+  },
+  {
+    "city": "Bonāb",
+    "admin": "Āz̄arbāyjān-e Sharqī",
+    "sort": "75332"
+  },
+  {
+    "city": "Ardakān",
+    "admin": "Yazd",
+    "sort": "75271"
+  },
+  {
+    "city": "Naqadeh",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "72975"
+  },
+  {
+    "city": "Oshnavīyeh",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "70030"
+  },
+  {
+    "city": "Bandar-e Genāveh",
+    "admin": "Būshehr",
+    "sort": "64110"
+  },
+  {
+    "city": "Māhdāsht",
+    "admin": "Tehrān",
+    "sort": "62910"
+  },
+  {
+    "city": "Zarand",
+    "admin": "Kermān",
+    "sort": "63744"
+  },
+  {
+    "city": "Mobārakeh",
+    "admin": "Eşfahān",
+    "sort": "62454"
+  },
+  {
+    "city": "Esfarāyen",
+    "admin": "Khorāsān-e Shomālī",
+    "sort": "59490"
+  },
+  {
+    "city": "Dāmghān",
+    "admin": "Semnān",
+    "sort": "59106"
+  },
+  {
+    "city": "Tāybād",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "56562"
+  },
+  {
+    "city": "Zarrīn Shahr",
+    "admin": "Eşfahān",
+    "sort": "55984"
+  },
+  {
+    "city": "Hashtgerd",
+    "admin": "Alborz",
+    "sort": "55640"
+  },
+  {
+    "city": "Ārān Bīdgol",
+    "admin": "Eşfahān",
+    "sort": "55651"
+  },
+  {
+    "city": "Hashtpar",
+    "admin": "Gīlān",
+    "sort": "54178"
+  },
+  {
+    "city": "Bījār",
+    "admin": "Kordestān",
+    "sort": "53871"
+  },
+  {
+    "city": "Sardasht",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "50000"
+  },
+  {
+    "city": "Rāmhormoz",
+    "admin": "Khūzestān",
+    "sort": "49822"
+  },
+  {
+    "city": "Garmsār",
+    "admin": "Semnān",
+    "sort": "48672"
+  },
+  {
+    "city": "Damāvand",
+    "admin": "Tehrān",
+    "sort": "48380"
+  },
+  {
+    "city": "Golpāyegān",
+    "admin": "Eşfahān",
+    "sort": "47849"
+  },
+  {
+    "city": "Aznā",
+    "admin": "Lorestān",
+    "sort": "47489"
+  },
+  {
+    "city": "Bāfq",
+    "admin": "Yazd",
+    "sort": "45453"
+  },
+  {
+    "city": "Darcheh",
+    "admin": "Eşfahān",
+    "sort": "43183"
+  },
+  {
+    "city": "Takāb",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "43702"
+  },
+  {
+    "city": "Sarāb",
+    "admin": "Āz̄arbāyjān-e Sharqī",
+    "sort": "42057"
+  },
+  {
+    "city": "Gonābād",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "40773"
+  },
+  {
+    "city": "Falāvarjān",
+    "admin": "Eşfahān",
+    "sort": "37740"
+  },
+  {
+    "city": "Khalkhāl",
+    "admin": "Ardabīl",
+    "sort": "38521"
+  },
+  {
+    "city": "Kahrīzak",
+    "admin": "Tehrān",
+    "sort": "37527"
+  },
+  {
+    "city": "Rāmsar",
+    "admin": "Māzandarān",
+    "sort": "35997"
+  },
+  {
+    "city": "Sarpol-e Z̄ahāb",
+    "admin": "Kermānshāh",
+    "sort": "34632"
+  },
+  {
+    "city": "Bāft",
+    "admin": "Kermān",
+    "sort": "34517"
+  },
+  {
+    "city": "Gerāsh",
+    "admin": "Fārs",
+    "sort": "34469"
+  },
+  {
+    "city": "Shāhīn Dezh",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "34204"
+  },
+  {
+    "city": "Nāz̧erābād",
+    "admin": "Yazd",
+    "sort": "34237"
+  },
+  {
+    "city": "Khvāf",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "33189"
+  },
+  {
+    "city": "Eshtehārd",
+    "admin": "Alborz",
+    "sort": "29993"
+  },
+  {
+    "city": "Qahderījān",
+    "admin": "Eşfahān",
+    "sort": "30002"
+  },
+  {
+    "city": "Evaz",
+    "admin": "Fārs",
+    "sort": "29987"
+  },
+  {
+    "city": "Rūdehen",
+    "admin": "Tehrān",
+    "sort": "28533"
+  },
+  {
+    "city": "Bardaskan",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "28233"
+  },
+  {
+    "city": "Hādīshahr",
+    "admin": "Āz̄arbāyjān-e Sharqī",
+    "sort": "27842"
+  },
+  {
+    "city": "Fūman",
+    "admin": "Gīlān",
+    "sort": "27763"
+  },
+  {
+    "city": "Abarkūh",
+    "admin": "Yazd",
+    "sort": "27524"
+  },
+  {
+    "city": "Qarah Ẕīā’ od Dīn",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "26767"
+  },
+  {
+    "city": "Semīrom",
+    "admin": "Eşfahān",
+    "sort": "26260"
+  },
+  {
+    "city": "Mahdīshahr",
+    "admin": "Semnān",
+    "sort": "24485"
+  },
+  {
+    "city": "Kelīshād va Sūdarjān",
+    "admin": "Eşfahān",
+    "sort": "23203"
+  },
+  {
+    "city": "Sheybān",
+    "admin": "Khūzestān",
+    "sort": "23211"
+  },
+  {
+    "city": "Goldasht",
+    "admin": "Eşfahān",
+    "sort": "22693"
+  },
+  {
+    "city": "Marvast",
+    "admin": "Yazd",
+    "sort": "21690"
+  },
+  {
+    "city": "Khvānsār",
+    "admin": "Eşfahān",
+    "sort": "20490"
+  },
+  {
+    "city": "Gaz",
+    "admin": "Eşfahān",
+    "sort": "20432"
+  },
+  {
+    "city": "Khowrzūq",
+    "admin": "Eşfahān",
+    "sort": "20301"
+  },
+  {
+    "city": "Abrīsham",
+    "admin": "Eşfahān",
+    "sort": "19406"
+  },
+  {
+    "city": "Maḩmūdābād Nemūneh",
+    "admin": "Qazvīn",
+    "sort": "19669"
+  },
+  {
+    "city": "Kabūdarāhang",
+    "admin": "Hamadān",
+    "sort": "19216"
+  },
+  {
+    "city": "Bandar-e Kong",
+    "admin": "Hormozgān",
+    "sort": "19213"
+  },
+  {
+    "city": "Ashkezar",
+    "admin": "Yazd",
+    "sort": "19123"
+  },
+  {
+    "city": "Abrandābād-e Shāhedīyeh",
+    "admin": "Yazd",
+    "sort": "18309"
+  },
+  {
+    "city": "Kherāmeh",
+    "admin": "Fārs",
+    "sort": "18477"
+  },
+  {
+    "city": "Taft",
+    "admin": "Yazd",
+    "sort": "18464"
+  },
+  {
+    "city": "Lavāsān",
+    "admin": "Tehrān",
+    "sort": "18146"
+  },
+  {
+    "city": "Feyẕābād",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "18120"
+  },
+  {
+    "city": "Dīzīcheh",
+    "admin": "Eşfahān",
+    "sort": "17966"
+  },
+  {
+    "city": "Arsanjān",
+    "admin": "Fārs",
+    "sort": "17642"
+  },
+  {
+    "city": "Sedeh Lanjān",
+    "admin": "Eşfahān",
+    "sort": "17335"
+  },
+  {
+    "city": "Dehāqān",
+    "admin": "Eşfahān",
+    "sort": "16899"
+  },
+  {
+    "city": "Chamgardān",
+    "admin": "Eşfahān",
+    "sort": "16086"
+  },
+  {
+    "city": "Dehaq",
+    "admin": "Eşfahān",
+    "sort": "15828"
+  },
+  {
+    "city": "Tīrān",
+    "admin": "Eşfahān",
+    "sort": "15673"
+  },
+  {
+    "city": "‘Alavīcheh",
+    "admin": "Eşfahān",
+    "sort": "15550"
+  },
+  {
+    "city": "Dastgerd",
+    "admin": "Eşfahān",
+    "sort": "15524"
+  },
+  {
+    "city": "Joghtāy",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "15134"
+  },
+  {
+    "city": "Amlash",
+    "admin": "Gīlān",
+    "sort": "15047"
+  },
+  {
+    "city": "Ardestān",
+    "admin": "Eşfahān",
+    "sort": "14698"
+  },
+  {
+    "city": "Sepīdān",
+    "admin": "Fārs",
+    "sort": "14633"
+  },
+  {
+    "city": "Naţanz",
+    "admin": "Eşfahān",
+    "sort": "14122"
+  },
+  {
+    "city": "Fāmenīn",
+    "admin": "Hamadān",
+    "sort": "14019"
+  },
+  {
+    "city": "Khomām",
+    "admin": "Gīlān",
+    "sort": "12901"
+  },
+  {
+    "city": "Fereydūnshahr",
+    "admin": "Eşfahān",
+    "sort": "13475"
+  },
+  {
+    "city": "Kūshk",
+    "admin": "Eşfahān",
+    "sort": "11264"
+  },
+  {
+    "city": "Shahr-e Herāt",
+    "admin": "Yazd",
+    "sort": "13032"
+  },
+  {
+    "city": "Varzaneh",
+    "admin": "Eşfahān",
+    "sort": "12714"
+  },
+  {
+    "city": "Charmahīn",
+    "admin": "Eşfahān",
+    "sort": "12292"
+  },
+  {
+    "city": "Eyvānekey",
+    "admin": "Semnān",
+    "sort": "12462"
+  },
+  {
+    "city": "Sangān",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "12443"
+  },
+  {
+    "city": "Reẕvānshahr",
+    "admin": "Gīlān",
+    "sort": "12355"
+  },
+  {
+    "city": "Ahram",
+    "admin": "Būshehr",
+    "sort": "12182"
+  },
+  {
+    "city": "Zārach",
+    "admin": "Yazd",
+    "sort": "11691"
+  },
+  {
+    "city": "Bajestān",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "11741"
+  },
+  {
+    "city": "Pīr Bakrān",
+    "admin": "Eşfahān",
+    "sort": "10851"
+  },
+  {
+    "city": "Poldasht",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "11472"
+  },
+  {
+    "city": "Qaşr-e Shīrīn",
+    "admin": "Kermānshāh",
+    "sort": "11202"
+  },
+  {
+    "city": "Shahmīrzād",
+    "admin": "Semnān",
+    "sort": "11191"
+  },
+  {
+    "city": "Şā’īn Qal‘eh",
+    "admin": "Zanjān",
+    "sort": "11083"
+  },
+  {
+    "city": "Rāyen",
+    "admin": "Kermān",
+    "sort": "10286"
+  },
+  {
+    "city": "Galleh Dār",
+    "admin": "Fārs",
+    "sort": "9982"
+  },
+  {
+    "city": "Bastak",
+    "admin": "Hormozgān",
+    "sort": "9959"
+  },
+  {
+    "city": "Mīāndasht",
+    "admin": "Eşfahān",
+    "sort": "9933"
+  },
+  {
+    "city": "Sorkheh",
+    "admin": "Semnān",
+    "sort": "9951"
+  },
+  {
+    "city": "Nashtīfān",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "9730"
+  },
+  {
+    "city": "Jūraqān",
+    "admin": "Hamadān",
+    "sort": "9234"
+  },
+  {
+    "city": "Banārūyeh",
+    "admin": "Fārs",
+    "sort": "9318"
+  },
+  {
+    "city": "Kaleybar",
+    "admin": "Āz̄arbāyjān-e Sharqī",
+    "sort": "9324"
+  },
+  {
+    "city": "Bahābād",
+    "admin": "Yazd",
+    "sort": "9232"
+  },
+  {
+    "city": "Banak",
+    "admin": "Būshehr",
+    "sort": "8753"
+  },
+  {
+    "city": "Pā’īn Chāf",
+    "admin": "Gīlān",
+    "sort": "8840"
+  },
+  {
+    "city": "Zavāreh",
+    "admin": "Eşfahān",
+    "sort": "8830"
+  },
+  {
+    "city": "Azandarīān",
+    "admin": "Hamadān",
+    "sort": "8685"
+  },
+  {
+    "city": "Zāzerān",
+    "admin": "Eşfahān",
+    "sort": "7670"
+  },
+  {
+    "city": "Jamkarān",
+    "admin": "Qom",
+    "sort": "8368"
+  },
+  {
+    "city": "Kahrīz Sang",
+    "admin": "Eşfahān",
+    "sort": "8267"
+  },
+  {
+    "city": "Chāboksar",
+    "admin": "Gīlān",
+    "sort": "8224"
+  },
+  {
+    "city": "Tāzeh Shahr",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "8216"
+  },
+  {
+    "city": "Bahnemīr",
+    "admin": "Māzandarān",
+    "sort": "7906"
+  },
+  {
+    "city": "Mehrdasht",
+    "admin": "Yazd",
+    "sort": "8097"
+  },
+  {
+    "city": "Fīrūraq",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "7903"
+  },
+  {
+    "city": "Khondāb",
+    "admin": "Markazī",
+    "sort": "7810"
+  },
+  {
+    "city": "Kabūd Gonbad",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "7687"
+  },
+  {
+    "city": "Salāmeh",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "7555"
+  },
+  {
+    "city": "Khoshk Bījār",
+    "admin": "Gīlān",
+    "sort": "7478"
+  },
+  {
+    "city": "Roshtkhvār",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "7514"
+  },
+  {
+    "city": "Komījān",
+    "admin": "Markazī",
+    "sort": "7358"
+  },
+  {
+    "city": "Chādegān",
+    "admin": "Eşfahān",
+    "sort": "7037"
+  },
+  {
+    "city": "Bafrū’īyeh",
+    "admin": "Yazd",
+    "sort": "6939"
+  },
+  {
+    "city": "Shabānkāreh",
+    "admin": "Būshehr",
+    "sort": "6975"
+  },
+  {
+    "city": "Chāleshtar",
+    "admin": "Chahār Maḩāl va Bakhtīārī",
+    "sort": "6720"
+  },
+  {
+    "city": "Badalābād",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "6725"
+  },
+  {
+    "city": "Gūged",
+    "admin": "Eşfahān",
+    "sort": "6686"
+  },
+  {
+    "city": "Bāzargān",
+    "admin": "Āz̄arbāyjān-e Gharbī",
+    "sort": "6686"
+  },
+  {
+    "city": "Beyram",
+    "admin": "Fārs",
+    "sort": "6520"
+  },
+  {
+    "city": "Jowzdān",
+    "admin": "Eşfahān",
+    "sort": "6393"
+  },
+  {
+    "city": "Bahman",
+    "admin": "Fārs",
+    "sort": "6484"
+  },
+  {
+    "city": "Kondor",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "6460"
+  },
+  {
+    "city": "Ārādān",
+    "admin": "Semnān",
+    "sort": "6257"
+  },
+  {
+    "city": "Khūr",
+    "admin": "Eşfahān",
+    "sort": "6216"
+  },
+  {
+    "city": "Darjazīn",
+    "admin": "Semnān",
+    "sort": "5997"
+  },
+  {
+    "city": "Mojen",
+    "admin": "Semnān",
+    "sort": "5932"
+  },
+  {
+    "city": "Akbarābād",
+    "admin": "Fārs",
+    "sort": "5837"
+  },
+  {
+    "city": "Naşrābād",
+    "admin": "Eşfahān",
+    "sort": "5751"
+  },
+  {
+    "city": "Meymeh",
+    "admin": "Eşfahān",
+    "sort": "5733"
+  },
+  {
+    "city": "Rīvash",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "5687"
+  },
+  {
+    "city": "Manz̧arīyeh",
+    "admin": "Eşfahān",
+    "sort": "5617"
+  },
+  {
+    "city": "Narjeh",
+    "admin": "Qazvīn",
+    "sort": "5604"
+  },
+  {
+    "city": "Kalāteh-ye Khīj",
+    "admin": "Semnān",
+    "sort": "5651"
+  },
+  {
+    "city": "Chūbar",
+    "admin": "Gīlān",
+    "sort": "5554"
+  },
+  {
+    "city": "Bīdokht",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "5501"
+  },
+  {
+    "city": "Yengī Emām",
+    "admin": "Alborz",
+    "sort": "5234"
+  },
+  {
+    "city": "Ḩannā",
+    "admin": "Eşfahān",
+    "sort": "5358"
+  },
+  {
+    "city": "Bandar-e Rīg",
+    "admin": "Būshehr",
+    "sort": "5257"
+  },
+  {
+    "city": "Abūzeydābād",
+    "admin": "Eşfahān",
+    "sort": "5160"
+  },
+  {
+    "city": "Bīland",
+    "admin": "Khorāsān-e Raẕavī",
+    "sort": "5164"
+  }
+]

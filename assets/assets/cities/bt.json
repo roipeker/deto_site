@@ -1,0 +1,102 @@
+[
+  {
+    "city": "Thimphu",
+    "admin": "Thimphu",
+    "sort": "104000"
+  },
+  {
+    "city": "Paro",
+    "admin": "Paro",
+    "sort": "15000"
+  },
+  {
+    "city": "Wangdue Phodrang",
+    "admin": "Wangdue Phodrang",
+    "sort": "5000"
+  },
+  {
+    "city": "Punakha",
+    "admin": "Punakha",
+    "sort": "5000"
+  },
+  {
+    "city": "Samtse",
+    "admin": "Samtse",
+    "sort": "4981"
+  },
+  {
+    "city": "Tsirang",
+    "admin": "Tsirang",
+    "sort": ""
+  },
+  {
+    "city": "Mongar",
+    "admin": "Mongar",
+    "sort": ""
+  },
+  {
+    "city": "Haa",
+    "admin": "Haa",
+    "sort": ""
+  },
+  {
+    "city": "Samdrup Jongkhar",
+    "admin": "Samdrup Jongkhar",
+    "sort": ""
+  },
+  {
+    "city": "Sarpang",
+    "admin": "Sarpang",
+    "sort": ""
+  },
+  {
+    "city": "Trashigang",
+    "admin": "Trashigang",
+    "sort": ""
+  },
+  {
+    "city": "Pemagatshel",
+    "admin": "Pemagatshel",
+    "sort": ""
+  },
+  {
+    "city": "Tsimasham",
+    "admin": "Chhukha",
+    "sort": ""
+  },
+  {
+    "city": "Trashi Yangtse",
+    "admin": "Trashi Yangtse",
+    "sort": ""
+  },
+  {
+    "city": "Trongsa",
+    "admin": "Trongsa",
+    "sort": ""
+  },
+  {
+    "city": "Zhemgang",
+    "admin": "Zhemgang",
+    "sort": ""
+  },
+  {
+    "city": "Jakar",
+    "admin": "Bumthang",
+    "sort": ""
+  },
+  {
+    "city": "Lhuentse",
+    "admin": "Lhuentse",
+    "sort": ""
+  },
+  {
+    "city": "Daga",
+    "admin": "Dagana",
+    "sort": ""
+  },
+  {
+    "city": "Gasa",
+    "admin": "Gasa",
+    "sort": ""
+  }
+]

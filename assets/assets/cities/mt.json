@@ -1,0 +1,342 @@
+[
+  {
+    "city": "Valletta",
+    "admin": "Valletta",
+    "sort": "6444"
+  },
+  {
+    "city": "Birkirkara",
+    "admin": "Birkirkara",
+    "sort": "24356"
+  },
+  {
+    "city": "Sliema",
+    "admin": "Sliema",
+    "sort": "16854"
+  },
+  {
+    "city": "Mosta",
+    "admin": "Mosta",
+    "sort": "20241"
+  },
+  {
+    "city": "Saint Paul’s Bay",
+    "admin": "San Pawl il-Baħar",
+    "sort": "21046"
+  },
+  {
+    "city": "Fgura",
+    "admin": "Fgura",
+    "sort": "11670"
+  },
+  {
+    "city": "Qormi",
+    "admin": "Qormi",
+    "sort": "16779"
+  },
+  {
+    "city": "Żabbar",
+    "admin": "Żabbar",
+    "sort": "15404"
+  },
+  {
+    "city": "San Ġwann",
+    "admin": "San Ġwann",
+    "sort": "12523"
+  },
+  {
+    "city": "Tarxien",
+    "admin": "Tarxien",
+    "sort": "8583"
+  },
+  {
+    "city": "Naxxar",
+    "admin": "Naxxar",
+    "sort": "13443"
+  },
+  {
+    "city": "Marsaskala",
+    "admin": "Marsaskala",
+    "sort": "12134"
+  },
+  {
+    "city": "Imsida",
+    "admin": "Imsida",
+    "sort": "8545"
+  },
+  {
+    "city": "Gżira",
+    "admin": "Gżira",
+    "sort": "8029"
+  },
+  {
+    "city": "Swieqi",
+    "admin": "Swieqi",
+    "sort": "10064"
+  },
+  {
+    "city": "Żebbuġ",
+    "admin": "Żebbuġ",
+    "sort": "11903"
+  },
+  {
+    "city": "Żejtun",
+    "admin": "Żejtun",
+    "sort": "11508"
+  },
+  {
+    "city": "Santa Venera",
+    "admin": "Santa Venera",
+    "sort": "6932"
+  },
+  {
+    "city": "San Ġiljan",
+    "admin": "San Ġiljan",
+    "sort": "7752"
+  },
+  {
+    "city": "Attard",
+    "admin": "Attard",
+    "sort": "10930"
+  },
+  {
+    "city": "Rabat",
+    "admin": "Rabat",
+    "sort": "11497"
+  },
+  {
+    "city": "Żurrieq",
+    "admin": "Żurrieq",
+    "sort": "10823"
+  },
+  {
+    "city": "Paola",
+    "admin": "Paola",
+    "sort": "7864"
+  },
+  {
+    "city": "Birżebbuġa",
+    "admin": "Birżebbuġa",
+    "sort": "9736"
+  },
+  {
+    "city": "Mellieħa",
+    "admin": "Mellieħa",
+    "sort": "10087"
+  },
+  {
+    "city": "Ħamrun",
+    "admin": "Ħamrun",
+    "sort": "9244"
+  },
+  {
+    "city": "Pietà",
+    "admin": "Pietà",
+    "sort": "4020"
+  },
+  {
+    "city": "Victoria",
+    "admin": "Rabat (Ghawdex)",
+    "sort": "6901"
+  },
+  {
+    "city": "Senglea",
+    "admin": "Isla",
+    "sort": "2784"
+  },
+  {
+    "city": "Siġġiewi",
+    "admin": "Siġġiewi",
+    "sort": "8367"
+  },
+  {
+    "city": "Cospicua",
+    "admin": "Bormla",
+    "sort": "5395"
+  },
+  {
+    "city": "Balzan",
+    "admin": "Balzan",
+    "sort": "3958"
+  },
+  {
+    "city": "Ta’ Xbiex",
+    "admin": "Ta’ Xbiex",
+    "sort": "1804"
+  },
+  {
+    "city": "Luqa",
+    "admin": "Luqa",
+    "sort": "5945"
+  },
+  {
+    "city": "Vittoriosa",
+    "admin": "Birgu",
+    "sort": "2629"
+  },
+  {
+    "city": "Marsa",
+    "admin": "Marsa",
+    "sort": "4401"
+  },
+  {
+    "city": "Għaxaq",
+    "admin": "Għaxaq",
+    "sort": "4722"
+  },
+  {
+    "city": "Lija",
+    "admin": "Lija",
+    "sort": "3070"
+  },
+  {
+    "city": "Xagħra",
+    "admin": "Xagħra",
+    "sort": "4886"
+  },
+  {
+    "city": "Pembroke",
+    "admin": "Pembroke",
+    "sort": "3645"
+  },
+  {
+    "city": "Nadur",
+    "admin": "Nadur",
+    "sort": "4509"
+  },
+  {
+    "city": "Iklin",
+    "admin": "Iklin",
+    "sort": "3130"
+  },
+  {
+    "city": "Floriana",
+    "admin": "Floriana",
+    "sort": "2205"
+  },
+  {
+    "city": "Kalkara",
+    "admin": "Kalkara",
+    "sort": "3014"
+  },
+  {
+    "city": "Imqabba",
+    "admin": "Imqabba",
+    "sort": "3315"
+  },
+  {
+    "city": "Gudja",
+    "admin": "Gudja",
+    "sort": "2997"
+  },
+  {
+    "city": "Marsaxlokk",
+    "admin": "Marsaxlokk",
+    "sort": "3534"
+  },
+  {
+    "city": "Dingli",
+    "admin": "Dingli",
+    "sort": "3608"
+  },
+  {
+    "city": "Kirkop",
+    "admin": "Kirkop",
+    "sort": "2191"
+  },
+  {
+    "city": "Għargħur",
+    "admin": "Għargħur",
+    "sort": "2768"
+  },
+  {
+    "city": "Xewkija",
+    "admin": "Xewkija",
+    "sort": "3300"
+  },
+  {
+    "city": "Imġarr",
+    "admin": "Imġarr",
+    "sort": "3629"
+  },
+  {
+    "city": "Imtarfa",
+    "admin": "Imtarfa",
+    "sort": "2572"
+  },
+  {
+    "city": "Xgħajra",
+    "admin": "Xgħajra",
+    "sort": "1732"
+  },
+  {
+    "city": "Qrendi",
+    "admin": "Qrendi",
+    "sort": "2752"
+  },
+  {
+    "city": "Għajnsielem",
+    "admin": "Għajnsielem",
+    "sort": "3200"
+  },
+  {
+    "city": "Safi",
+    "admin": "Safi",
+    "sort": "2126"
+  },
+  {
+    "city": "Fontana",
+    "admin": "Fontana",
+    "sort": "985"
+  },
+  {
+    "city": "Sannat",
+    "admin": "Sannat",
+    "sort": "2117"
+  },
+  {
+    "city": "Qala",
+    "admin": "Qala",
+    "sort": "2284"
+  },
+  {
+    "city": "Kerċem",
+    "admin": "Kerċem",
+    "sort": "1938"
+  },
+  {
+    "city": "Munxar",
+    "admin": "Munxar",
+    "sort": "1454"
+  },
+  {
+    "city": "Għarb",
+    "admin": "Għarb",
+    "sort": "1539"
+  },
+  {
+    "city": "San Lawrenz",
+    "admin": "San Lawrenz",
+    "sort": "748"
+  },
+  {
+    "city": "Imdina",
+    "admin": "Imdina",
+    "sort": "292"
+  },
+  {
+    "city": "Għasri",
+    "admin": "Għasri",
+    "sort": "525"
+  },
+  {
+    "city": "Santa Luċija",
+    "admin": "Santa Luċija",
+    "sort": ""
+  },
+  {
+    "city": "Żebbuġ",
+    "admin": "Żebbuġ (Ghawdex)",
+    "sort": ""
+  }
+]

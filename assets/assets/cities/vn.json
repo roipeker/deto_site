@@ -1,0 +1,402 @@
+[
+  {
+    "city": "Ho Chi Minh City",
+    "admin": "Hồ Chí Minh",
+    "sort": "13954000"
+  },
+  {
+    "city": "Hanoi",
+    "admin": "Hà Nội",
+    "sort": "8246600"
+  },
+  {
+    "city": "Haiphong",
+    "admin": "Hải Phòng",
+    "sort": "2103500"
+  },
+  {
+    "city": "Cần Thơ",
+    "admin": "Cần Thơ",
+    "sort": "1237300"
+  },
+  {
+    "city": "Biên Hòa",
+    "admin": "Đồng Nai",
+    "sort": "1104000"
+  },
+  {
+    "city": "Thủ Đức",
+    "admin": "Hồ Chí Minh",
+    "sort": "1013795"
+  },
+  {
+    "city": "Quảng Hà",
+    "admin": "Quảng Nam",
+    "sort": "1000000"
+  },
+  {
+    "city": "Huế",
+    "admin": "Thừa Thiên-Huế",
+    "sort": "652572"
+  },
+  {
+    "city": "Bắc Ninh",
+    "admin": "Bắc Ninh",
+    "sort": "520000"
+  },
+  {
+    "city": "Hải Dương",
+    "admin": "Hải Dương",
+    "sort": "507469"
+  },
+  {
+    "city": "Vinh",
+    "admin": "Nghệ An",
+    "sort": "490000"
+  },
+  {
+    "city": "Thanh Hóa",
+    "admin": "Thanh Hóa",
+    "sort": "393294"
+  },
+  {
+    "city": "Nha Trang",
+    "admin": "Khánh Hòa",
+    "sort": "392279"
+  },
+  {
+    "city": "Nam Định",
+    "admin": "Nam Định",
+    "sort": "352108"
+  },
+  {
+    "city": "Buôn Ma Thuột",
+    "admin": "Đắk Lắk",
+    "sort": "340000"
+  },
+  {
+    "city": "Thái Nguyên",
+    "admin": "Thái Nguyên",
+    "sort": "330000"
+  },
+  {
+    "city": "Vũng Tàu",
+    "admin": "Bà Rịa-Vũng Tàu",
+    "sort": "327000"
+  },
+  {
+    "city": "Cà Mau",
+    "admin": "Cà Mau",
+    "sort": "315270"
+  },
+  {
+    "city": "Quy Nhơn",
+    "admin": "Bình Định",
+    "sort": "311000"
+  },
+  {
+    "city": "Sóc Trăng",
+    "admin": "Sóc Trăng",
+    "sort": "300000"
+  },
+  {
+    "city": "Long Xuyên",
+    "admin": "An Giang",
+    "sort": "278658"
+  },
+  {
+    "city": "Việt Trì",
+    "admin": "Phú Thọ",
+    "sort": "277539"
+  },
+  {
+    "city": "Thái Bình",
+    "admin": "Thái Bình",
+    "sort": "268167"
+  },
+  {
+    "city": "Quảng Ngãi",
+    "admin": "Quảng Ngãi",
+    "sort": "260252"
+  },
+  {
+    "city": "Ấp Đa Lợi",
+    "admin": "Lâm Đồng",
+    "sort": "256019"
+  },
+  {
+    "city": "Rạch Giá",
+    "admin": "Kiến Giang",
+    "sort": "250660"
+  },
+  {
+    "city": "Thủ Dầu Một",
+    "admin": "Bình Dương",
+    "sort": "244277"
+  },
+  {
+    "city": "Tuy Hòa",
+    "admin": "Phú Yên",
+    "sort": "242840"
+  },
+  {
+    "city": "Bạc Liêu",
+    "admin": "Bạc Liêu",
+    "sort": "225000"
+  },
+  {
+    "city": "Sa Đéc",
+    "admin": "Đồng Tháp",
+    "sort": "213610"
+  },
+  {
+    "city": "Phan Thiết",
+    "admin": "Bình Thuận",
+    "sort": "205333"
+  },
+  {
+    "city": "Sơn Tây",
+    "admin": "Hà Nội",
+    "sort": "189547"
+  },
+  {
+    "city": "Phan Rang-Tháp Chàm",
+    "admin": "Ninh Thuận",
+    "sort": "179773"
+  },
+  {
+    "city": "Hạ Long",
+    "admin": "Quảng Ninh",
+    "sort": "172915"
+  },
+  {
+    "city": "Hà Tĩnh",
+    "admin": "Hà Tĩnh",
+    "sort": "165396"
+  },
+  {
+    "city": "Đồng Hới",
+    "admin": "Quảng Bình",
+    "sort": "160325"
+  },
+  {
+    "city": "Châu Đốc",
+    "admin": "An Giang",
+    "sort": "157298"
+  },
+  {
+    "city": "Cẩm Phả",
+    "admin": "Quảng Ninh",
+    "sort": "156000"
+  },
+  {
+    "city": "Cao Lãnh",
+    "admin": "Đồng Tháp",
+    "sort": "149837"
+  },
+  {
+    "city": "Lạng Sơn",
+    "admin": "Lạng Sơn",
+    "sort": "148000"
+  },
+  {
+    "city": "Cam Ranh",
+    "admin": "Khánh Hòa",
+    "sort": "146771"
+  },
+  {
+    "city": "Pleiku",
+    "admin": "Gia Lai",
+    "sort": "146073"
+  },
+  {
+    "city": "Tân An",
+    "admin": "Long An",
+    "sort": "137498"
+  },
+  {
+    "city": "Trà Vinh",
+    "admin": "Trà Vinh",
+    "sort": "131360"
+  },
+  {
+    "city": "Ninh Bình",
+    "admin": "Ninh Bình",
+    "sort": "130517"
+  },
+  {
+    "city": "Mỹ Tho",
+    "admin": "Tiền Giang",
+    "sort": "124143"
+  },
+  {
+    "city": "Tây Ninh",
+    "admin": "Tây Ninh",
+    "sort": "126370"
+  },
+  {
+    "city": "Cam Ranh",
+    "admin": "Khánh Hòa",
+    "sort": "125311"
+  },
+  {
+    "city": "Hội An",
+    "admin": "Quảng Nam",
+    "sort": "121716"
+  },
+  {
+    "city": "Hòa Bình",
+    "admin": "Hòa Bình",
+    "sort": "121309"
+  },
+  {
+    "city": "Vĩnh Long",
+    "admin": "Vĩnh Long",
+    "sort": "103314"
+  },
+  {
+    "city": "Mang La",
+    "admin": "Kon Tum",
+    "sort": "105489"
+  },
+  {
+    "city": "Yên Bái",
+    "admin": "Yên Bái",
+    "sort": "96540"
+  },
+  {
+    "city": "Vị Thanh",
+    "admin": "Hậu Giang",
+    "sort": "97200"
+  },
+  {
+    "city": "Lào Cai",
+    "admin": "Lào Cai",
+    "sort": "67206"
+  },
+  {
+    "city": "Bến Tre",
+    "admin": "Bến Tre",
+    "sort": "59442"
+  },
+  {
+    "city": "Bắc Giang",
+    "admin": "Bắc Giang",
+    "sort": "53728"
+  },
+  {
+    "city": "Cao Bằng",
+    "admin": "Cao Bằng",
+    "sort": "41112"
+  },
+  {
+    "city": "Tuyên Quang",
+    "admin": "Tuyên Quang",
+    "sort": "36430"
+  },
+  {
+    "city": "Hà Giang",
+    "admin": "Hà Giang",
+    "sort": "38362"
+  },
+  {
+    "city": "Bắc Kạn",
+    "admin": "Bắc Kạn",
+    "sort": "29227"
+  },
+  {
+    "city": "Sơn La",
+    "admin": "Sơn La",
+    "sort": "19054"
+  },
+  {
+    "city": "Đông Hà",
+    "admin": "Quảng Trị",
+    "sort": "17662"
+  },
+  {
+    "city": "Đà Nẵng",
+    "admin": "Đà Nẵng",
+    "sort": ""
+  },
+  {
+    "city": "Hưng Yên",
+    "admin": "Hưng Yên",
+    "sort": ""
+  },
+  {
+    "city": "Phủ Lý",
+    "admin": "Hà Nam",
+    "sort": ""
+  },
+  {
+    "city": "Vĩnh Yên",
+    "admin": "Vĩnh Phúc",
+    "sort": ""
+  },
+  {
+    "city": "Tam Kỳ",
+    "admin": "Quảng Nam",
+    "sort": ""
+  },
+  {
+    "city": "Điện Biên Phủ",
+    "admin": "Điện Biên",
+    "sort": ""
+  },
+  {
+    "city": "Lai Châu",
+    "admin": "Lai Châu",
+    "sort": ""
+  },
+  {
+    "city": "Đồng Xoài",
+    "admin": "Bình Phước",
+    "sort": ""
+  },
+  {
+    "city": "Đà Lạt",
+    "admin": "Lâm Đồng",
+    "sort": ""
+  },
+  {
+    "city": "Kon Tum",
+    "admin": "Kon Tum",
+    "sort": ""
+  },
+  {
+    "city": "Gia Nghĩa",
+    "admin": "Đắk Nông",
+    "sort": ""
+  },
+  {
+    "city": "Dĩ An",
+    "admin": "Bình Dương",
+    "sort": "73859"
+  },
+  {
+    "city": "Quảng Trị",
+    "admin": "Quảng Trị",
+    "sort": "72722"
+  },
+  {
+    "city": "Phú Quốc",
+    "admin": "Kiến Giang",
+    "sort": "70000"
+  },
+  {
+    "city": "Hà Tiên",
+    "admin": "Kiến Giang",
+    "sort": "47039"
+  },
+  {
+    "city": "Bình Long",
+    "admin": "Bình Phước",
+    "sort": "40279"
+  },
+  {
+    "city": "Luân Châu",
+    "admin": "Điện Biên",
+    "sort": "7335"
+  }
+]

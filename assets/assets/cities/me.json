@@ -1,0 +1,122 @@
+[
+  {
+    "city": "Podgorica",
+    "admin": "Podgorica",
+    "sort": "174515"
+  },
+  {
+    "city": "Ulcinj",
+    "admin": "Ulcinj",
+    "sort": "19921"
+  },
+  {
+    "city": "Budva",
+    "admin": "Budva",
+    "sort": "19218"
+  },
+  {
+    "city": "Pljevlja",
+    "admin": "Pljevlja",
+    "sort": "19136"
+  },
+  {
+    "city": "Herceg Novi",
+    "admin": "Herceg Novi",
+    "sort": "16493"
+  },
+  {
+    "city": "Bijelo Polje",
+    "admin": "Bijelo Polje",
+    "sort": "15883"
+  },
+  {
+    "city": "Cetinje",
+    "admin": "Cetinje",
+    "sort": "13991"
+  },
+  {
+    "city": "Plav",
+    "admin": "Plav",
+    "sort": "13805"
+  },
+  {
+    "city": "Bar",
+    "admin": "Bar",
+    "sort": "13719"
+  },
+  {
+    "city": "Berane",
+    "admin": "Berane",
+    "sort": "11776"
+  },
+  {
+    "city": "Mojkovac",
+    "admin": "Mojkovac",
+    "sort": "10066"
+  },
+  {
+    "city": "Rožaje",
+    "admin": "Rožaje",
+    "sort": "9422"
+  },
+  {
+    "city": "Žabljak",
+    "admin": "Žabljak",
+    "sort": "1937"
+  },
+  {
+    "city": "Andrijevica",
+    "admin": "Andrijevica",
+    "sort": "1073"
+  },
+  {
+    "city": "Tivat",
+    "admin": "Tivat",
+    "sort": ""
+  },
+  {
+    "city": "Tuzi",
+    "admin": "Podgorica",
+    "sort": ""
+  },
+  {
+    "city": "Kotor",
+    "admin": "Kotor",
+    "sort": ""
+  },
+  {
+    "city": "Petnjica",
+    "admin": "Petnjica",
+    "sort": ""
+  },
+  {
+    "city": "Danilovgrad",
+    "admin": "Danilovgrad",
+    "sort": ""
+  },
+  {
+    "city": "Nikšić",
+    "admin": "Nikšić",
+    "sort": ""
+  },
+  {
+    "city": "Gusinje",
+    "admin": "Gusinje",
+    "sort": ""
+  },
+  {
+    "city": "Kolašin",
+    "admin": "Kolašin",
+    "sort": ""
+  },
+  {
+    "city": "Šavnik",
+    "admin": "Šavnik",
+    "sort": ""
+  },
+  {
+    "city": "Plužine",
+    "admin": "Plužine",
+    "sort": ""
+  }
+]

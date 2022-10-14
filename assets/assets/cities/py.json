@@ -1,0 +1,222 @@
+[
+  {
+    "city": "Asunción",
+    "admin": "Asunción",
+    "sort": "524190"
+  },
+  {
+    "city": "Ciudad del Este",
+    "admin": "Alto Paraná",
+    "sort": "320782"
+  },
+  {
+    "city": "San Lorenzo",
+    "admin": "Central",
+    "sort": "287977"
+  },
+  {
+    "city": "Pedro Juan Caballero",
+    "admin": "Amambay",
+    "sort": "115583"
+  },
+  {
+    "city": "Coronel Oviedo",
+    "admin": "Caaguazú",
+    "sort": "88101"
+  },
+  {
+    "city": "San Antonio",
+    "admin": "Central",
+    "sort": "69976"
+  },
+  {
+    "city": "Encarnación",
+    "admin": "Itapúa",
+    "sort": "69868"
+  },
+  {
+    "city": "Areguá",
+    "admin": "Central",
+    "sort": "67487"
+  },
+  {
+    "city": "Concepción",
+    "admin": "Concepción",
+    "sort": "45068"
+  },
+  {
+    "city": "Villarrica",
+    "admin": "Guairá",
+    "sort": "41157"
+  },
+  {
+    "city": "Salto del Guairá",
+    "admin": "Canindeyú",
+    "sort": "37600"
+  },
+  {
+    "city": "San Pedro de Ycuamandiyú",
+    "admin": "San Pedro",
+    "sort": "35021"
+  },
+  {
+    "city": "Pilar",
+    "admin": "Ñeembucú",
+    "sort": "32810"
+  },
+  {
+    "city": "Caacupé",
+    "admin": "Cordillera",
+    "sort": "21696"
+  },
+  {
+    "city": "Paraguarí",
+    "admin": "Paraguarí",
+    "sort": "18881"
+  },
+  {
+    "city": "Filadelfia",
+    "admin": "Boquerón",
+    "sort": "18210"
+  },
+  {
+    "city": "Villa Hayes",
+    "admin": "Presidente Hayes",
+    "sort": "15643"
+  },
+  {
+    "city": "San Juan Bautista",
+    "admin": "Misiones",
+    "sort": "7882"
+  },
+  {
+    "city": "Caazapá",
+    "admin": "Caazapá",
+    "sort": "5504"
+  },
+  {
+    "city": "Fuerte Olimpo",
+    "admin": "Alto Paraguay",
+    "sort": "2475"
+  },
+  {
+    "city": "Itá",
+    "admin": "Central",
+    "sort": "81084"
+  },
+  {
+    "city": "San Ignacio",
+    "admin": "Misiones",
+    "sort": "50468"
+  },
+  {
+    "city": "Ypané",
+    "admin": "Central",
+    "sort": "34943"
+  },
+  {
+    "city": "Yaguarón",
+    "admin": "Paraguarí",
+    "sort": "32000"
+  },
+  {
+    "city": "Ypacaraí",
+    "admin": "Central",
+    "sort": "30150"
+  },
+  {
+    "city": "Tobatí",
+    "admin": "Cordillera",
+    "sort": "23295"
+  },
+  {
+    "city": "Estancia Pozo Colorado",
+    "admin": "Presidente Hayes",
+    "sort": "17727"
+  },
+  {
+    "city": "Bella Vista",
+    "admin": "Amambay",
+    "sort": "16852"
+  },
+  {
+    "city": "Horqueta",
+    "admin": "Concepción",
+    "sort": "16171"
+  },
+  {
+    "city": "Coronel Bogado",
+    "admin": "Itapúa",
+    "sort": "14297"
+  },
+  {
+    "city": "Belén",
+    "admin": "Concepción",
+    "sort": "11359"
+  },
+  {
+    "city": "Hohenau",
+    "admin": "Itapúa",
+    "sort": "5306"
+  },
+  {
+    "city": "Villa del Rosario",
+    "admin": "San Pedro",
+    "sort": "5123"
+  },
+  {
+    "city": "Puerto Casado",
+    "admin": "Alto Paraguay",
+    "sort": "5000"
+  },
+  {
+    "city": "Arroyos y Esteros",
+    "admin": "Cordillera",
+    "sort": "3055"
+  },
+  {
+    "city": "Abaí",
+    "admin": "Caazapá",
+    "sort": "3024"
+  },
+  {
+    "city": "Villa Ygatimí",
+    "admin": "Canindeyú",
+    "sort": "2809"
+  },
+  {
+    "city": "Mariscal José Félix Estigarribia",
+    "admin": "Boquerón",
+    "sort": "2500"
+  },
+  {
+    "city": "Pozo Colorado",
+    "admin": "Presidente Hayes",
+    "sort": "2135"
+  },
+  {
+    "city": "Ñacunday",
+    "admin": "Alto Paraná",
+    "sort": "1250"
+  },
+  {
+    "city": "Capitán Pablo Lagerenza",
+    "admin": "Alto Paraguay",
+    "sort": "1200"
+  },
+  {
+    "city": "General Eugenio A. Garay",
+    "admin": "Boquerón",
+    "sort": "972"
+  },
+  {
+    "city": "Ypejhú",
+    "admin": "Canindeyú",
+    "sort": "600"
+  },
+  {
+    "city": "Puerto Pinasco",
+    "admin": "Presidente Hayes",
+    "sort": "500"
+  }
+]

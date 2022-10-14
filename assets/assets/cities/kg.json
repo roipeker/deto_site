@@ -1,0 +1,192 @@
+[
+  {
+    "city": "Bishkek",
+    "admin": "Bishkek",
+    "sort": "1053900"
+  },
+  {
+    "city": "Osh",
+    "admin": "Osh",
+    "sort": "281900"
+  },
+  {
+    "city": "Jalal-Abad",
+    "admin": "Jalal-Abad",
+    "sort": "89004"
+  },
+  {
+    "city": "Karakol",
+    "admin": "Ysyk-Köl",
+    "sort": "63377"
+  },
+  {
+    "city": "Talas",
+    "admin": "Talas",
+    "sort": "35172"
+  },
+  {
+    "city": "Naryn",
+    "admin": "Naryn",
+    "sort": "34822"
+  },
+  {
+    "city": "Batken",
+    "admin": "Batken",
+    "sort": "12134"
+  },
+  {
+    "city": "Kara-Balta",
+    "admin": "Chüy",
+    "sort": "74133"
+  },
+  {
+    "city": "Tokmok",
+    "admin": "Chüy",
+    "sort": "53231"
+  },
+  {
+    "city": "Özgön",
+    "admin": "Osh",
+    "sort": "49410"
+  },
+  {
+    "city": "Balykchy",
+    "admin": "Ysyk-Köl",
+    "sort": "42380"
+  },
+  {
+    "city": "Kyzyl-Kyya",
+    "admin": "Batken",
+    "sort": "31727"
+  },
+  {
+    "city": "Toktogul",
+    "admin": "Jalal-Abad",
+    "sort": "26115"
+  },
+  {
+    "city": "Kant",
+    "admin": "Chüy",
+    "sort": "21589"
+  },
+  {
+    "city": "Kara-Suu",
+    "admin": "Osh",
+    "sort": "20862"
+  },
+  {
+    "city": "Belovodskoe",
+    "admin": "Chüy",
+    "sort": "21275"
+  },
+  {
+    "city": "Jangy-Nookat",
+    "admin": "Osh",
+    "sort": "21049"
+  },
+  {
+    "city": "Lebedinovka",
+    "admin": "Chüy",
+    "sort": "20709"
+  },
+  {
+    "city": "Mayluu-Suu",
+    "admin": "Jalal-Abad",
+    "sort": "20200"
+  },
+  {
+    "city": "Tash-Kömür",
+    "admin": "Jalal-Abad",
+    "sort": "19310"
+  },
+  {
+    "city": "Kara-Köl",
+    "admin": "Jalal-Abad",
+    "sort": "18843"
+  },
+  {
+    "city": "Novopavlovka",
+    "admin": "Chüy",
+    "sort": "18332"
+  },
+  {
+    "city": "Isfana",
+    "admin": "Batken",
+    "sort": "18244"
+  },
+  {
+    "city": "At-Bashy",
+    "admin": "Naryn",
+    "sort": "15601"
+  },
+  {
+    "city": "Kochkor-Ata",
+    "admin": "Jalal-Abad",
+    "sort": "14814"
+  },
+  {
+    "city": "Kök-Janggak",
+    "admin": "Jalal-Abad",
+    "sort": "15000"
+  },
+  {
+    "city": "Kerben",
+    "admin": "Jalal-Abad",
+    "sort": "14141"
+  },
+  {
+    "city": "Sülüktü",
+    "admin": "Batken",
+    "sort": "13378"
+  },
+  {
+    "city": "Alamedin",
+    "admin": "Chüy",
+    "sort": "11773"
+  },
+  {
+    "city": "Cholpon-Ata",
+    "admin": "Ysyk-Köl",
+    "sort": "11520"
+  },
+  {
+    "city": "Aydarken",
+    "admin": "Batken",
+    "sort": "10331"
+  },
+  {
+    "city": "Shopokov",
+    "admin": "Chüy",
+    "sort": "8749"
+  },
+  {
+    "city": "Bosteri",
+    "admin": "Ysyk-Köl",
+    "sort": "7415"
+  },
+  {
+    "city": "Chaek",
+    "admin": "Naryn",
+    "sort": "7009"
+  },
+  {
+    "city": "Klyuchevka",
+    "admin": "Talas",
+    "sort": "5596"
+  },
+  {
+    "city": "Tash-Döbö",
+    "admin": "Chüy",
+    "sort": "5397"
+  },
+  {
+    "city": "Grigor’evka",
+    "admin": "Ysyk-Köl",
+    "sort": "5133"
+  },
+  {
+    "city": "Darkan",
+    "admin": "Ysyk-Köl",
+    "sort": "6495"
+  }
+]

@@ -1,0 +1,6637 @@
+[
+  {
+    "city": "Tokyo",
+    "admin": "Tōkyō",
+    "sort": "39105000"
+  },
+  {
+    "city": "Ōsaka",
+    "admin": "Ōsaka",
+    "sort": "15490000"
+  },
+  {
+    "city": "Nagoya",
+    "admin": "Aichi",
+    "sort": "9522000"
+  },
+  {
+    "city": "Yokohama",
+    "admin": "Kanagawa",
+    "sort": "3757630"
+  },
+  {
+    "city": "Fukuoka",
+    "admin": "Fukuoka",
+    "sort": "2280000"
+  },
+  {
+    "city": "Sapporo",
+    "admin": "Hokkaidō",
+    "sort": "1961690"
+  },
+  {
+    "city": "Kawasaki",
+    "admin": "Kanagawa",
+    "sort": "1539522"
+  },
+  {
+    "city": "Kōbe",
+    "admin": "Hyōgo",
+    "sort": "1513193"
+  },
+  {
+    "city": "Kyōto",
+    "admin": "Kyōto",
+    "sort": "1464890"
+  },
+  {
+    "city": "Saitama",
+    "admin": "Saitama",
+    "sort": "1320571"
+  },
+  {
+    "city": "Hiroshima",
+    "admin": "Hiroshima",
+    "sort": "1198021"
+  },
+  {
+    "city": "Sendai",
+    "admin": "Miyagi",
+    "sort": "1058070"
+  },
+  {
+    "city": "Chiba",
+    "admin": "Chiba",
+    "sort": "981738"
+  },
+  {
+    "city": "Setagaya",
+    "admin": "Tōkyō",
+    "sort": "940509"
+  },
+  {
+    "city": "Kitakyūshū",
+    "admin": "Fukuoka",
+    "sort": "935084"
+  },
+  {
+    "city": "Sakai",
+    "admin": "Ōsaka",
+    "sort": "823523"
+  },
+  {
+    "city": "Niigata",
+    "admin": "Niigata",
+    "sort": "790646"
+  },
+  {
+    "city": "Hamamatsu",
+    "admin": "Shizuoka",
+    "sort": "788211"
+  },
+  {
+    "city": "Nerima",
+    "admin": "Tōkyō",
+    "sort": "742463"
+  },
+  {
+    "city": "Ōta-ku",
+    "admin": "Tōkyō",
+    "sort": "737187"
+  },
+  {
+    "city": "Kumamoto",
+    "admin": "Kumamoto",
+    "sort": "738385"
+  },
+  {
+    "city": "Sagamihara",
+    "admin": "Kanagawa",
+    "sort": "722973"
+  },
+  {
+    "city": "Okayama",
+    "admin": "Okayama",
+    "sort": "720043"
+  },
+  {
+    "city": "Edogawa",
+    "admin": "Chiba",
+    "sort": "690457"
+  },
+  {
+    "city": "Adachi",
+    "admin": "Tōkyō",
+    "sort": "682326"
+  },
+  {
+    "city": "Shizuoka",
+    "admin": "Shizuoka",
+    "sort": "685589"
+  },
+  {
+    "city": "Honchō",
+    "admin": "Chiba",
+    "sort": "641499"
+  },
+  {
+    "city": "Kawaguchi",
+    "admin": "Saitama",
+    "sort": "593353"
+  },
+  {
+    "city": "Itabashi",
+    "admin": "Tōkyō",
+    "sort": "581337"
+  },
+  {
+    "city": "Suginami-ku",
+    "admin": "Tōkyō",
+    "sort": "583609"
+  },
+  {
+    "city": "Kagoshima",
+    "admin": "Kagoshima",
+    "sort": "593754"
+  },
+  {
+    "city": "Hachiōji",
+    "admin": "Tōkyō",
+    "sort": "575721"
+  },
+  {
+    "city": "Kōtō-ku",
+    "admin": "Tōkyō",
+    "sort": "523117"
+  },
+  {
+    "city": "Himeji",
+    "admin": "Hyōgo",
+    "sort": "527596"
+  },
+  {
+    "city": "Utsunomiya",
+    "admin": "Tochigi",
+    "sort": "518197"
+  },
+  {
+    "city": "Matsuyama",
+    "admin": "Ehime",
+    "sort": "506743"
+  },
+  {
+    "city": "Ichikawa",
+    "admin": "Chiba",
+    "sort": "496657"
+  },
+  {
+    "city": "Matsudo",
+    "admin": "Chiba",
+    "sort": "492367"
+  },
+  {
+    "city": "Higashi-ōsaka",
+    "admin": "Ōsaka",
+    "sort": "490819"
+  },
+  {
+    "city": "Nishinomiya-hama",
+    "admin": "Hyōgo",
+    "sort": "487010"
+  },
+  {
+    "city": "Ōita",
+    "admin": "Ōita",
+    "sort": "477186"
+  },
+  {
+    "city": "Kurashiki",
+    "admin": "Okayama",
+    "sort": "474862"
+  },
+  {
+    "city": "Katsushika-ku",
+    "admin": "Tōkyō",
+    "sort": "453410"
+  },
+  {
+    "city": "Kanazawa",
+    "admin": "Ishikawa",
+    "sort": "462479"
+  },
+  {
+    "city": "Fukuyama",
+    "admin": "Hiroshima",
+    "sort": "459576"
+  },
+  {
+    "city": "Amagasaki",
+    "admin": "Hyōgo",
+    "sort": "450506"
+  },
+  {
+    "city": "Fujisawa",
+    "admin": "Kanagawa",
+    "sort": "436744"
+  },
+  {
+    "city": "Machida",
+    "admin": "Tōkyō",
+    "sort": "434414"
+  },
+  {
+    "city": "Kashiwa",
+    "admin": "Chiba",
+    "sort": "433941"
+  },
+  {
+    "city": "Shinagawa-ku",
+    "admin": "Tōkyō",
+    "sort": "415729"
+  },
+  {
+    "city": "Aomori",
+    "admin": "Aomori",
+    "sort": "425962"
+  },
+  {
+    "city": "Toyota",
+    "admin": "Aichi",
+    "sort": "422106"
+  },
+  {
+    "city": "Takamatsu",
+    "admin": "Kagawa",
+    "sort": "417814"
+  },
+  {
+    "city": "Toyama",
+    "admin": "Toyama",
+    "sort": "413028"
+  },
+  {
+    "city": "Toyonaka",
+    "admin": "Ōsaka",
+    "sort": "401233"
+  },
+  {
+    "city": "Nagasaki",
+    "admin": "Nagasaki",
+    "sort": "404656"
+  },
+  {
+    "city": "Hirakata",
+    "admin": "Ōsaka",
+    "sort": "396694"
+  },
+  {
+    "city": "Gifu",
+    "admin": "Gifu",
+    "sort": "400118"
+  },
+  {
+    "city": "Miyazaki",
+    "admin": "Miyazaki",
+    "sort": "397476"
+  },
+  {
+    "city": "Minamisuita",
+    "admin": "Ōsaka",
+    "sort": "384953"
+  },
+  {
+    "city": "Yokosuka",
+    "admin": "Kanagawa",
+    "sort": "390275"
+  },
+  {
+    "city": "Okazaki",
+    "admin": "Aichi",
+    "sort": "385376"
+  },
+  {
+    "city": "Ichinomiya",
+    "admin": "Aichi",
+    "sort": "378681"
+  },
+  {
+    "city": "Toyohashi",
+    "admin": "Aichi",
+    "sort": "371507"
+  },
+  {
+    "city": "Kita-ku",
+    "admin": "Tōkyō",
+    "sort": "353058"
+  },
+  {
+    "city": "Takasaki",
+    "admin": "Gunma",
+    "sort": "367463"
+  },
+  {
+    "city": "Nagano",
+    "admin": "Nagano",
+    "sort": "367184"
+  },
+  {
+    "city": "Shinjuku",
+    "admin": "Tōkyō",
+    "sort": "346115"
+  },
+  {
+    "city": "Nakano",
+    "admin": "Tōkyō",
+    "sort": "341014"
+  },
+  {
+    "city": "Kawagoe",
+    "admin": "Saitama",
+    "sort": "354195"
+  },
+  {
+    "city": "Wakayama",
+    "admin": "Wakayama",
+    "sort": "353299"
+  },
+  {
+    "city": "Nara",
+    "admin": "Nara",
+    "sort": "352377"
+  },
+  {
+    "city": "Koshigaya",
+    "admin": "Saitama",
+    "sort": "346768"
+  },
+  {
+    "city": "Takatsuki",
+    "admin": "Ōsaka",
+    "sort": "347496"
+  },
+  {
+    "city": "Tokorozawa",
+    "admin": "Saitama",
+    "sort": "341195"
+  },
+  {
+    "city": "Ōtsu",
+    "admin": "Shiga",
+    "sort": "342607"
+  },
+  {
+    "city": "Iwaki",
+    "admin": "Fukushima",
+    "sort": "336111"
+  },
+  {
+    "city": "Hirosaki",
+    "admin": "Aomori",
+    "sort": "335203"
+  },
+  {
+    "city": "Maebashi",
+    "admin": "Gunma",
+    "sort": "331576"
+  },
+  {
+    "city": "Asahikawa",
+    "admin": "Hokkaidō",
+    "sort": "331392"
+  },
+  {
+    "city": "Koriyama",
+    "admin": "Fukushima",
+    "sort": "329706"
+  },
+  {
+    "city": "Kōchi",
+    "admin": "Kōchi",
+    "sort": "325560"
+  },
+  {
+    "city": "Naha",
+    "admin": "Okinawa",
+    "sort": "316048"
+  },
+  {
+    "city": "Toshima",
+    "admin": "Tōkyō",
+    "sort": "297954"
+  },
+  {
+    "city": "Yokkaichi",
+    "admin": "Mie",
+    "sort": "310263"
+  },
+  {
+    "city": "Kasugai",
+    "admin": "Aichi",
+    "sort": "306449"
+  },
+  {
+    "city": "Meguro",
+    "admin": "Tōkyō",
+    "sort": "286905"
+  },
+  {
+    "city": "Ōakashichō",
+    "admin": "Hyōgo",
+    "sort": "299699"
+  },
+  {
+    "city": "Kurume",
+    "admin": "Fukuoka",
+    "sort": "302858"
+  },
+  {
+    "city": "Akita",
+    "admin": "Akita",
+    "sort": "302984"
+  },
+  {
+    "city": "Sumida",
+    "admin": "Tōkyō",
+    "sort": "270823"
+  },
+  {
+    "city": "Morioka",
+    "admin": "Iwate",
+    "sort": "290553"
+  },
+  {
+    "city": "Ibaraki",
+    "admin": "Ōsaka",
+    "sort": "283835"
+  },
+  {
+    "city": "Fukushima",
+    "admin": "Fukushima",
+    "sort": "284282"
+  },
+  {
+    "city": "Tsu",
+    "admin": "Mie",
+    "sort": "273267"
+  },
+  {
+    "city": "Minato",
+    "admin": "Tōkyō",
+    "sort": "258105"
+  },
+  {
+    "city": "Fuchū",
+    "admin": "Tōkyō",
+    "sort": "263093"
+  },
+  {
+    "city": "Mito",
+    "admin": "Ibaraki",
+    "sort": "268750"
+  },
+  {
+    "city": "Ichihara",
+    "admin": "Chiba",
+    "sort": "268038"
+  },
+  {
+    "city": "Yao",
+    "admin": "Nara",
+    "sort": "264913"
+  },
+  {
+    "city": "Nagaoka",
+    "admin": "Niigata",
+    "sort": "263955"
+  },
+  {
+    "city": "Kakogawachō-honmachi",
+    "admin": "Hyōgo",
+    "sort": "260595"
+  },
+  {
+    "city": "Hiratsuka",
+    "admin": "Kanagawa",
+    "sort": "257662"
+  },
+  {
+    "city": "Fukui",
+    "admin": "Fukui",
+    "sort": "260263"
+  },
+  {
+    "city": "Sōka",
+    "admin": "Saitama",
+    "sort": "251390"
+  },
+  {
+    "city": "Bunkyō-ku",
+    "admin": "Tōkyō",
+    "sort": "235981"
+  },
+  {
+    "city": "Tokushima",
+    "admin": "Tokushima",
+    "sort": "254510"
+  },
+  {
+    "city": "Shinozaki",
+    "admin": "Fukuoka",
+    "sort": "252844"
+  },
+  {
+    "city": "Hakodate",
+    "admin": "Hokkaidō",
+    "sort": "251942"
+  },
+  {
+    "city": "Chōfugaoka",
+    "admin": "Tōkyō",
+    "sort": "240359"
+  },
+  {
+    "city": "Shibuya-ku",
+    "admin": "Tōkyō",
+    "sort": "235193"
+  },
+  {
+    "city": "Chigasaki",
+    "admin": "Kanagawa",
+    "sort": "242347"
+  },
+  {
+    "city": "Yato",
+    "admin": "Kanagawa",
+    "sort": "239146"
+  },
+  {
+    "city": "Yamagata",
+    "admin": "Yamagata",
+    "sort": "247234"
+  },
+  {
+    "city": "Tsukuba-kenkyūgakuen-toshi",
+    "admin": "Ibaraki",
+    "sort": "246647"
+  },
+  {
+    "city": "Fuji",
+    "admin": "Shizuoka",
+    "sort": "243739"
+  },
+  {
+    "city": "Sasebo",
+    "admin": "Nagasaki",
+    "sort": "242664"
+  },
+  {
+    "city": "Arakawa",
+    "admin": "Tōkyō",
+    "sort": "217891"
+  },
+  {
+    "city": "Matsumoto",
+    "admin": "Nagano",
+    "sort": "239115"
+  },
+  {
+    "city": "Neya",
+    "admin": "Ōsaka",
+    "sort": "227997"
+  },
+  {
+    "city": "Saga",
+    "admin": "Saga",
+    "sort": "232359"
+  },
+  {
+    "city": "Kasukabe",
+    "admin": "Saitama",
+    "sort": "228975"
+  },
+  {
+    "city": "Ageoshimo",
+    "admin": "Saitama",
+    "sort": "226616"
+  },
+  {
+    "city": "Taitō",
+    "admin": "Tōkyō",
+    "sort": "210528"
+  },
+  {
+    "city": "Takarazuka",
+    "admin": "Hyōgo",
+    "sort": "224055"
+  },
+  {
+    "city": "Atsugichō",
+    "admin": "Kanagawa",
+    "sort": "223815"
+  },
+  {
+    "city": "Ōta",
+    "admin": "Gunma",
+    "sort": "221123"
+  },
+  {
+    "city": "Hachinohe",
+    "admin": "Aomori",
+    "sort": "220612"
+  },
+  {
+    "city": "Nishitōkyō",
+    "admin": "Tōkyō",
+    "sort": "207098"
+  },
+  {
+    "city": "Kure",
+    "admin": "Hiroshima",
+    "sort": "212159"
+  },
+  {
+    "city": "Isesaki",
+    "admin": "Gunma",
+    "sort": "210332"
+  },
+  {
+    "city": "Kodaira",
+    "admin": "Tōkyō",
+    "sort": "196959"
+  },
+  {
+    "city": "Itami",
+    "admin": "Hyōgo",
+    "sort": "198522"
+  },
+  {
+    "city": "Kamirenjaku",
+    "admin": "Tōkyō",
+    "sort": "194460"
+  },
+  {
+    "city": "Nagareyama",
+    "admin": "Chiba",
+    "sort": "200298"
+  },
+  {
+    "city": "Yachiyo",
+    "admin": "Chiba",
+    "sort": "200538"
+  },
+  {
+    "city": "Matsue",
+    "admin": "Shimane",
+    "sort": "201802"
+  },
+  {
+    "city": "Higashi-Hiroshima",
+    "admin": "Hiroshima",
+    "sort": "197347"
+  },
+  {
+    "city": "Hino",
+    "admin": "Tōkyō",
+    "sort": "190598"
+  },
+  {
+    "city": "Suzuka",
+    "admin": "Mie",
+    "sort": "195250"
+  },
+  {
+    "city": "Kumagaya",
+    "admin": "Saitama",
+    "sort": "193190"
+  },
+  {
+    "city": "Yamaguchi",
+    "admin": "Yamaguchi",
+    "sort": "193761"
+  },
+  {
+    "city": "Anjōmachi",
+    "admin": "Aichi",
+    "sort": "188801"
+  },
+  {
+    "city": "Odawara",
+    "admin": "Kanagawa",
+    "sort": "189038"
+  },
+  {
+    "city": "Kishiwada",
+    "admin": "Ōsaka",
+    "sort": "188015"
+  },
+  {
+    "city": "Numazu",
+    "admin": "Shizuoka",
+    "sort": "187653"
+  },
+  {
+    "city": "Tachikawa",
+    "admin": "Tōkyō",
+    "sort": "181115"
+  },
+  {
+    "city": "Kōfu",
+    "admin": "Yamanashi",
+    "sort": "187144"
+  },
+  {
+    "city": "Tottori",
+    "admin": "Tottori",
+    "sort": "187323"
+  },
+  {
+    "city": "Jōetsu",
+    "admin": "Niigata",
+    "sort": "187291"
+  },
+  {
+    "city": "Toyokawa",
+    "admin": "Aichi",
+    "sort": "183965"
+  },
+  {
+    "city": "Chūō-ku",
+    "admin": "Tōkyō",
+    "sort": "169995"
+  },
+  {
+    "city": "Narashino",
+    "admin": "Chiba",
+    "sort": "174990"
+  },
+  {
+    "city": "Uji",
+    "admin": "Kyōto",
+    "sort": "179626"
+  },
+  {
+    "city": "Urayasu",
+    "admin": "Chiba",
+    "sort": "169749"
+  },
+  {
+    "city": "Kamakurayama",
+    "admin": "Kanagawa",
+    "sort": "172929"
+  },
+  {
+    "city": "Hitachi",
+    "admin": "Ibaraki",
+    "sort": "172709"
+  },
+  {
+    "city": "Izumo",
+    "admin": "Shimane",
+    "sort": "171995"
+  },
+  {
+    "city": "Niiza",
+    "admin": "Saitama",
+    "sort": "164653"
+  },
+  {
+    "city": "Sakura",
+    "admin": "Chiba",
+    "sort": "169059"
+  },
+  {
+    "city": "Tomakomai",
+    "admin": "Hokkaidō",
+    "sort": "170223"
+  },
+  {
+    "city": "Nishio",
+    "admin": "Aichi",
+    "sort": "168992"
+  },
+  {
+    "city": "Oyama",
+    "admin": "Tochigi",
+    "sort": "167874"
+  },
+  {
+    "city": "Iwata",
+    "admin": "Shizuoka",
+    "sort": "165688"
+  },
+  {
+    "city": "Takaoka",
+    "admin": "Toyama",
+    "sort": "165880"
+  },
+  {
+    "city": "Obihiro",
+    "admin": "Hokkaidō",
+    "sort": "165684"
+  },
+  {
+    "city": "Hadano",
+    "admin": "Kanagawa",
+    "sort": "164292"
+  },
+  {
+    "city": "Kushiro",
+    "admin": "Hokkaidō",
+    "sort": "165699"
+  },
+  {
+    "city": "Ube",
+    "admin": "Yamaguchi",
+    "sort": "162873"
+  },
+  {
+    "city": "Musashino",
+    "admin": "Tōkyō",
+    "sort": "148971"
+  },
+  {
+    "city": "Miyakonojō",
+    "admin": "Miyazaki",
+    "sort": "159878"
+  },
+  {
+    "city": "Higashimurayama",
+    "admin": "Tōkyō",
+    "sort": "150458"
+  },
+  {
+    "city": "Ōgaki",
+    "admin": "Gifu",
+    "sort": "158386"
+  },
+  {
+    "city": "Matsuzaka",
+    "admin": "Mie",
+    "sort": "158472"
+  },
+  {
+    "city": "Kariya",
+    "admin": "Aichi",
+    "sort": "153178"
+  },
+  {
+    "city": "Hitachi-Naka",
+    "admin": "Ibaraki",
+    "sort": "154311"
+  },
+  {
+    "city": "Tama",
+    "admin": "Tōkyō",
+    "sort": "147252"
+  },
+  {
+    "city": "Tochigi",
+    "admin": "Tochigi",
+    "sort": "153508"
+  },
+  {
+    "city": "Noda",
+    "admin": "Chiba",
+    "sort": "152227"
+  },
+  {
+    "city": "Ueda",
+    "admin": "Nagano",
+    "sort": "152948"
+  },
+  {
+    "city": "Moriguchi",
+    "admin": "Ōsaka",
+    "sort": "141849"
+  },
+  {
+    "city": "Kawashiri",
+    "admin": "Ōsaka",
+    "sort": "152076"
+  },
+  {
+    "city": "Kukichūō",
+    "admin": "Saitama",
+    "sort": "150197"
+  },
+  {
+    "city": "Asaka",
+    "admin": "Saitama",
+    "sort": "143915"
+  },
+  {
+    "city": "Sayama",
+    "admin": "Saitama",
+    "sort": "148324"
+  },
+  {
+    "city": "Komaki",
+    "admin": "Aichi",
+    "sort": "147897"
+  },
+  {
+    "city": "Toda",
+    "admin": "Saitama",
+    "sort": "142352"
+  },
+  {
+    "city": "Imabari",
+    "admin": "Ehime",
+    "sort": "149209"
+  },
+  {
+    "city": "Iruma",
+    "admin": "Saitama",
+    "sort": "145778"
+  },
+  {
+    "city": "Yonago",
+    "admin": "Tottori",
+    "sort": "147210"
+  },
+  {
+    "city": "Misato",
+    "admin": "Chiba",
+    "sort": "141913"
+  },
+  {
+    "city": "Kusatsu",
+    "admin": "Shiga",
+    "sort": "143230"
+  },
+  {
+    "city": "Kakamigahara",
+    "admin": "Gifu",
+    "sort": "143641"
+  },
+  {
+    "city": "Okinawa",
+    "admin": "Okinawa",
+    "sort": "142094"
+  },
+  {
+    "city": "Ashikaga",
+    "admin": "Tochigi",
+    "sort": "142882"
+  },
+  {
+    "city": "Fukayachō",
+    "admin": "Saitama",
+    "sort": "141336"
+  },
+  {
+    "city": "Fujita",
+    "admin": "Shizuoka",
+    "sort": "140947"
+  },
+  {
+    "city": "Kokubunji",
+    "admin": "Tōkyō",
+    "sort": "129619"
+  },
+  {
+    "city": "Ebina",
+    "admin": "Kanagawa",
+    "sort": "135557"
+  },
+  {
+    "city": "Kuwana",
+    "admin": "Mie",
+    "sort": "138798"
+  },
+  {
+    "city": "Minō",
+    "admin": "Ōsaka",
+    "sort": "136976"
+  },
+  {
+    "city": "Koga",
+    "admin": "Ibaraki",
+    "sort": "138237"
+  },
+  {
+    "city": "Ishizaki",
+    "admin": "Miyagi",
+    "sort": "138856"
+  },
+  {
+    "city": "Tsuchiura",
+    "admin": "Ibaraki",
+    "sort": "137825"
+  },
+  {
+    "city": "Koganei",
+    "admin": "Tōkyō",
+    "sort": "127226"
+  },
+  {
+    "city": "Zama",
+    "admin": "Kanagawa",
+    "sort": "130753"
+  },
+  {
+    "city": "Shūnan",
+    "admin": "Yamaguchi",
+    "sort": "137899"
+  },
+  {
+    "city": "Kisarazu",
+    "admin": "Chiba",
+    "sort": "136118"
+  },
+  {
+    "city": "Yaizu",
+    "admin": "Shizuoka",
+    "sort": "136028"
+  },
+  {
+    "city": "Inazawa",
+    "admin": "Aichi",
+    "sort": "134938"
+  },
+  {
+    "city": "Isahaya",
+    "admin": "Nagasaki",
+    "sort": "133512"
+  },
+  {
+    "city": "Ōme",
+    "admin": "Tōkyō",
+    "sort": "132436"
+  },
+  {
+    "city": "Abiko",
+    "admin": "Chiba",
+    "sort": "130290"
+  },
+  {
+    "city": "Narita",
+    "admin": "Chiba",
+    "sort": "130689"
+  },
+  {
+    "city": "Onomichi",
+    "admin": "Hiroshima",
+    "sort": "130143"
+  },
+  {
+    "city": "Iwakuni",
+    "admin": "Yamaguchi",
+    "sort": "128401"
+  },
+  {
+    "city": "Seto",
+    "admin": "Aichi",
+    "sort": "127327"
+  },
+  {
+    "city": "Kadoma",
+    "admin": "Ōsaka",
+    "sort": "118319"
+  },
+  {
+    "city": "Ōmiyachō",
+    "admin": "Shizuoka",
+    "sort": "127252"
+  },
+  {
+    "city": "Ōsaki",
+    "admin": "Miyagi",
+    "sort": "127135"
+  },
+  {
+    "city": "Iizuka",
+    "admin": "Fukuoka",
+    "sort": "126136"
+  },
+  {
+    "city": "Honchō",
+    "admin": "Saitama",
+    "sort": "116477"
+  },
+  {
+    "city": "Daitōchō",
+    "admin": "Ōsaka",
+    "sort": "118799"
+  },
+  {
+    "city": "Matsubara",
+    "admin": "Ōsaka",
+    "sort": "117186"
+  },
+  {
+    "city": "Kirishima",
+    "admin": "Kagoshima",
+    "sort": "123812"
+  },
+  {
+    "city": "Uruma",
+    "admin": "Okinawa",
+    "sort": "122371"
+  },
+  {
+    "city": "Ise",
+    "admin": "Mie",
+    "sort": "122432"
+  },
+  {
+    "city": "Honmachi",
+    "admin": "Kumamoto",
+    "sort": "122134"
+  },
+  {
+    "city": "Kashiwara",
+    "admin": "Nara",
+    "sort": "121604"
+  },
+  {
+    "city": "Urasoe",
+    "admin": "Okinawa",
+    "sort": "115855"
+  },
+  {
+    "city": "Tsuruoka",
+    "admin": "Yamagata",
+    "sort": "121371"
+  },
+  {
+    "city": "Ebetsu",
+    "admin": "Hokkaidō",
+    "sort": "119819"
+  },
+  {
+    "city": "Fujimino",
+    "admin": "Saitama",
+    "sort": "112745"
+  },
+  {
+    "city": "Handa",
+    "admin": "Aichi",
+    "sort": "117544"
+  },
+  {
+    "city": "Kasuga",
+    "admin": "Fukuoka",
+    "sort": "111144"
+  },
+  {
+    "city": "Akishima",
+    "admin": "Tōkyō",
+    "sort": "112110"
+  },
+  {
+    "city": "Kōnosu",
+    "admin": "Saitama",
+    "sort": "116777"
+  },
+  {
+    "city": "Ikoma",
+    "admin": "Nara",
+    "sort": "116174"
+  },
+  {
+    "city": "Aizuwakamatsu",
+    "admin": "Fukushima",
+    "sort": "117924"
+  },
+  {
+    "city": "Nobeoka",
+    "admin": "Miyazaki",
+    "sort": "117711"
+  },
+  {
+    "city": "Beppu",
+    "admin": "Ōita",
+    "sort": "115992"
+  },
+  {
+    "city": "Shibuya",
+    "admin": "Tōkyō",
+    "sort": "102056"
+  },
+  {
+    "city": "Karatsu",
+    "admin": "Saga",
+    "sort": "116052"
+  },
+  {
+    "city": "Fujimi",
+    "admin": "Saitama",
+    "sort": "110400"
+  },
+  {
+    "city": "Nasushiobara",
+    "admin": "Tochigi",
+    "sort": "115602"
+  },
+  {
+    "city": "Tōkai",
+    "admin": "Aichi",
+    "sort": "113144"
+  },
+  {
+    "city": "Kōenchō",
+    "admin": "Hokkaidō",
+    "sort": "115441"
+  },
+  {
+    "city": "Niihama",
+    "admin": "Ehime",
+    "sort": "114971"
+  },
+  {
+    "city": "Sano",
+    "admin": "Tochigi",
+    "sort": "114842"
+  },
+  {
+    "city": "Hatsukaichi",
+    "admin": "Hiroshima",
+    "sort": "114699"
+  },
+  {
+    "city": "Kamagaya",
+    "admin": "Chiba",
+    "sort": "109370"
+  },
+  {
+    "city": "Kakegawa",
+    "admin": "Shizuoka",
+    "sort": "113954"
+  },
+  {
+    "city": "Nagahama",
+    "admin": "Shiga",
+    "sort": "113740"
+  },
+  {
+    "city": "Hōfu",
+    "admin": "Yamaguchi",
+    "sort": "113170"
+  },
+  {
+    "city": "Hikone",
+    "admin": "Shiga",
+    "sort": "113191"
+  },
+  {
+    "city": "Otaru",
+    "admin": "Hokkaidō",
+    "sort": "112452"
+  },
+  {
+    "city": "Higashiōmi",
+    "admin": "Shiga",
+    "sort": "112459"
+  },
+  {
+    "city": "Ōshū",
+    "admin": "Iwate",
+    "sort": "112402"
+  },
+  {
+    "city": "Habikino",
+    "admin": "Ōsaka",
+    "sort": "108373"
+  },
+  {
+    "city": "Ichinoseki",
+    "admin": "Iwate",
+    "sort": "111824"
+  },
+  {
+    "city": "Tondabayashichō",
+    "admin": "Ōsaka",
+    "sort": "108735"
+  },
+  {
+    "city": "Kazo",
+    "admin": "Saitama",
+    "sort": "110622"
+  },
+  {
+    "city": "Ōmuta",
+    "admin": "Fukuoka",
+    "sort": "110054"
+  },
+  {
+    "city": "Shirayamamachi",
+    "admin": "Ishikawa",
+    "sort": "110135"
+  },
+  {
+    "city": "Marugame",
+    "admin": "Kagawa",
+    "sort": "109165"
+  },
+  {
+    "city": "Sandachō",
+    "admin": "Hyōgo",
+    "sort": "109243"
+  },
+  {
+    "city": "Mineshita",
+    "admin": "Shizuoka",
+    "sort": "107416"
+  },
+  {
+    "city": "Ikeda",
+    "admin": "Hyōgo",
+    "sort": "104148"
+  },
+  {
+    "city": "Tajimi",
+    "admin": "Gifu",
+    "sort": "106746"
+  },
+  {
+    "city": "Komatsu",
+    "admin": "Ishikawa",
+    "sort": "106023"
+  },
+  {
+    "city": "Kiryū",
+    "admin": "Gunma",
+    "sort": "105465"
+  },
+  {
+    "city": "Toride",
+    "admin": "Ibaraki",
+    "sort": "103908"
+  },
+  {
+    "city": "Ōnojō",
+    "admin": "Fukuoka",
+    "sort": "101603"
+  },
+  {
+    "city": "Inzai",
+    "admin": "Chiba",
+    "sort": "103677"
+  },
+  {
+    "city": "Chikushino",
+    "admin": "Fukuoka",
+    "sort": "103185"
+  },
+  {
+    "city": "Ginowan",
+    "admin": "Okinawa",
+    "sort": "99256"
+  },
+  {
+    "city": "Saijō",
+    "admin": "Ehime",
+    "sort": "103760"
+  },
+  {
+    "city": "Isehara",
+    "admin": "Kanagawa",
+    "sort": "102088"
+  },
+  {
+    "city": "Sakado",
+    "admin": "Saitama",
+    "sort": "100829"
+  },
+  {
+    "city": "Kawachinagano",
+    "admin": "Ōsaka",
+    "sort": "100415"
+  },
+  {
+    "city": "Kanoya",
+    "admin": "Kagoshima",
+    "sort": "100880"
+  },
+  {
+    "city": "Kōnan",
+    "admin": "Aichi",
+    "sort": "97435"
+  },
+  {
+    "city": "Ashiya",
+    "admin": "Hyōgo",
+    "sort": "94116"
+  },
+  {
+    "city": "Yashio",
+    "admin": "Saitama",
+    "sort": "93283"
+  },
+  {
+    "city": "Inagi",
+    "admin": "Tōkyō",
+    "sort": "92604"
+  },
+  {
+    "city": "Komae",
+    "admin": "Tōkyō",
+    "sort": "83677"
+  },
+  {
+    "city": "Yotsukaidō",
+    "admin": "Chiba",
+    "sort": "93233"
+  },
+  {
+    "city": "Nisshin",
+    "admin": "Aichi",
+    "sort": "92823"
+  },
+  {
+    "city": "Ōbu",
+    "admin": "Aichi",
+    "sort": "92562"
+  },
+  {
+    "city": "Settsu",
+    "admin": "Ōsaka",
+    "sort": "86168"
+  },
+  {
+    "city": "Wakō",
+    "admin": "Saitama",
+    "sort": "84120"
+  },
+  {
+    "city": "Ama",
+    "admin": "Aichi",
+    "sort": "87668"
+  },
+  {
+    "city": "Kitanagoya",
+    "admin": "Aichi",
+    "sort": "86060"
+  },
+  {
+    "city": "Higashiyamato",
+    "admin": "Saitama",
+    "sort": "84260"
+  },
+  {
+    "city": "Takasagochō-takasemachi",
+    "admin": "Hyōgo",
+    "sort": "87220"
+  },
+  {
+    "city": "Warabi",
+    "admin": "Saitama",
+    "sort": "74996"
+  },
+  {
+    "city": "Ayase",
+    "admin": "Kanagawa",
+    "sort": "84257"
+  },
+  {
+    "city": "Owariasahi",
+    "admin": "Aichi",
+    "sort": "82336"
+  },
+  {
+    "city": "Nagaoka",
+    "admin": "Kyōto",
+    "sort": "80423"
+  },
+  {
+    "city": "Kunitachi",
+    "admin": "Tōkyō",
+    "sort": "75133"
+  },
+  {
+    "city": "Shinkai",
+    "admin": "Saitama",
+    "sort": "75247"
+  },
+  {
+    "city": "Kiyose",
+    "admin": "Saitama",
+    "sort": "75389"
+  },
+  {
+    "city": "Kashiba",
+    "admin": "Nara",
+    "sort": "78346"
+  },
+  {
+    "city": "Izumiōtsu",
+    "admin": "Ōsaka",
+    "sort": "74175"
+  },
+  {
+    "city": "Katano",
+    "admin": "Ōsaka",
+    "sort": "76002"
+  },
+  {
+    "city": "Okegawa",
+    "admin": "Saitama",
+    "sort": "74115"
+  },
+  {
+    "city": "Jōyō",
+    "admin": "Kyōto",
+    "sort": "74187"
+  },
+  {
+    "city": "Chiryū",
+    "admin": "Aichi",
+    "sort": "71907"
+  },
+  {
+    "city": "Musashimurayama",
+    "admin": "Tōkyō",
+    "sort": "71183"
+  },
+  {
+    "city": "Kiyosu",
+    "admin": "Aichi",
+    "sort": "69809"
+  },
+  {
+    "city": "Dazaifu",
+    "admin": "Fukuoka",
+    "sort": "72430"
+  },
+  {
+    "city": "Hekinan",
+    "admin": "Aichi",
+    "sort": "72480"
+  },
+  {
+    "city": "Yoshikawa",
+    "admin": "Saitama",
+    "sort": "72139"
+  },
+  {
+    "city": "Tsurugashima",
+    "admin": "Saitama",
+    "sort": "70067"
+  },
+  {
+    "city": "Yawata-shimizui",
+    "admin": "Kyōto",
+    "sort": "70373"
+  },
+  {
+    "city": "Chiyoda-ku",
+    "admin": "Tōkyō",
+    "sort": "67036"
+  },
+  {
+    "city": "Toyoake",
+    "admin": "Aichi",
+    "sort": "69389"
+  },
+  {
+    "city": "Hatogaya-honchō",
+    "admin": "Saitama",
+    "sort": "61379"
+  },
+  {
+    "city": "Fujiidera",
+    "admin": "Ōsaka",
+    "sort": "63338"
+  },
+  {
+    "city": "Kashiwara",
+    "admin": "Ōsaka",
+    "sort": "67757"
+  },
+  {
+    "city": "Kitamoto",
+    "admin": "Saitama",
+    "sort": "65191"
+  },
+  {
+    "city": "Tomigusuku",
+    "admin": "Okinawa",
+    "sort": "64850"
+  },
+  {
+    "city": "Nagakute",
+    "admin": "Aichi",
+    "sort": "62473"
+  },
+  {
+    "city": "Tagajō",
+    "admin": "Miyagi",
+    "sort": "61937"
+  },
+  {
+    "city": "Yamatotakada",
+    "admin": "Nara",
+    "sort": "60791"
+  },
+  {
+    "city": "Hasuda",
+    "admin": "Saitama",
+    "sort": "61473"
+  },
+  {
+    "city": "Ōsakasayama",
+    "admin": "Ōsaka",
+    "sort": "58593"
+  },
+  {
+    "city": "Mukōchō",
+    "admin": "Kyōto",
+    "sort": "56152"
+  },
+  {
+    "city": "Tsushima",
+    "admin": "Aichi",
+    "sort": "60908"
+  },
+  {
+    "city": "Fussa",
+    "admin": "Tōkyō",
+    "sort": "56713"
+  },
+  {
+    "city": "Koja",
+    "admin": "Okinawa",
+    "sort": "58658"
+  },
+  {
+    "city": "Nonoichi",
+    "admin": "Ishikawa",
+    "sort": "57090"
+  },
+  {
+    "city": "Takaishi",
+    "admin": "Ōsaka",
+    "sort": "55910"
+  },
+  {
+    "city": "Zushi",
+    "admin": "Kanagawa",
+    "sort": "56996"
+  },
+  {
+    "city": "Hamura",
+    "admin": "Saitama",
+    "sort": "53970"
+  },
+  {
+    "city": "Shijōnawate",
+    "admin": "Ōsaka",
+    "sort": "55094"
+  },
+  {
+    "city": "Fuchū",
+    "admin": "Hiroshima",
+    "sort": "51096"
+  },
+  {
+    "city": "Shiogama",
+    "admin": "Miyagi",
+    "sort": "51999"
+  },
+  {
+    "city": "Shiraoka",
+    "admin": "Saitama",
+    "sort": "52103"
+  },
+  {
+    "city": "Iwakura",
+    "admin": "Aichi",
+    "sort": "47975"
+  },
+  {
+    "city": "Takahama",
+    "admin": "Aichi",
+    "sort": "48685"
+  },
+  {
+    "city": "Suzukawa",
+    "admin": "Kanagawa",
+    "sort": "48532"
+  },
+  {
+    "city": "Kasuya",
+    "admin": "Fukuoka",
+    "sort": "47981"
+  },
+  {
+    "city": "Inuma",
+    "admin": "Saitama",
+    "sort": "45065"
+  },
+  {
+    "city": "Tōgō",
+    "admin": "Aichi",
+    "sort": "44065"
+  },
+  {
+    "city": "Kumatori",
+    "admin": "Ōsaka",
+    "sort": "43570"
+  },
+  {
+    "city": "Katsuren-haebaru",
+    "admin": "Okinawa",
+    "sort": "40541"
+  },
+  {
+    "city": "Ōizumi",
+    "admin": "Gunma",
+    "sort": "41681"
+  },
+  {
+    "city": "Nakama",
+    "admin": "Fukuoka",
+    "sort": "39634"
+  },
+  {
+    "city": "Miyoshidai",
+    "admin": "Saitama",
+    "sort": "38380"
+  },
+  {
+    "city": "Kanie",
+    "admin": "Aichi",
+    "sort": "36782"
+  },
+  {
+    "city": "Ōharu",
+    "admin": "Aichi",
+    "sort": "32590"
+  },
+  {
+    "city": "Harima",
+    "admin": "Hyōgo",
+    "sort": "33822"
+  },
+  {
+    "city": "Aizumi",
+    "admin": "Tokushima",
+    "sort": "35269"
+  },
+  {
+    "city": "Fusō",
+    "admin": "Aichi",
+    "sort": "34268"
+  },
+  {
+    "city": "Nishihara",
+    "admin": "Okinawa",
+    "sort": "34802"
+  },
+  {
+    "city": "Minamishiro",
+    "admin": "Saitama",
+    "sort": "34012"
+  },
+  {
+    "city": "Kōryō",
+    "admin": "Nara",
+    "sort": "33617"
+  },
+  {
+    "city": "Kaita",
+    "admin": "Hiroshima",
+    "sort": "29793"
+  },
+  {
+    "city": "Ninomiya",
+    "admin": "Kanagawa",
+    "sort": "27536"
+  },
+  {
+    "city": "Mizumaki",
+    "admin": "Fukuoka",
+    "sort": "27822"
+  },
+  {
+    "city": "Chatan",
+    "admin": "Okinawa",
+    "sort": "28167"
+  },
+  {
+    "city": "Ginan",
+    "admin": "Gifu",
+    "sort": "25752"
+  },
+  {
+    "city": "Ōji",
+    "admin": "Nara",
+    "sort": "23731"
+  },
+  {
+    "city": "Sanga",
+    "admin": "Ōsaka",
+    "sort": "23264"
+  },
+  {
+    "city": "Kitajima",
+    "admin": "Tokushima",
+    "sort": "22670"
+  },
+  {
+    "city": "Kasamatsuchō",
+    "admin": "Gifu",
+    "sort": "22415"
+  },
+  {
+    "city": "Kanmaki",
+    "admin": "Nara",
+    "sort": "21145"
+  },
+  {
+    "city": "Yonabaru",
+    "admin": "Okinawa",
+    "sort": "19735"
+  },
+  {
+    "city": "Shōwa",
+    "admin": "Yamanashi",
+    "sort": "20857"
+  },
+  {
+    "city": "Kitagata",
+    "admin": "Gifu",
+    "sort": "18308"
+  },
+  {
+    "city": "Utazu",
+    "admin": "Kagawa",
+    "sort": "18897"
+  },
+  {
+    "city": "Tadaoka-higashi",
+    "admin": "Ōsaka",
+    "sort": "16628"
+  },
+  {
+    "city": "Kawai",
+    "admin": "Nara",
+    "sort": "16983"
+  },
+  {
+    "city": "Ōyamazaki",
+    "admin": "Kyōto",
+    "sort": "15991"
+  },
+  {
+    "city": "Toyoyama",
+    "admin": "Aichi",
+    "sort": "15729"
+  },
+  {
+    "city": "Izumisano",
+    "admin": "Ōsaka",
+    "sort": "99328"
+  },
+  {
+    "city": "Kani",
+    "admin": "Gifu",
+    "sort": "99545"
+  },
+  {
+    "city": "Chikusei",
+    "admin": "Ibaraki",
+    "sort": "99758"
+  },
+  {
+    "city": "Tsuyama",
+    "admin": "Okayama",
+    "sort": "99410"
+  },
+  {
+    "city": "Sakata",
+    "admin": "Yamagata",
+    "sort": "99235"
+  },
+  {
+    "city": "Itoshima",
+    "admin": "Fukuoka",
+    "sort": "98527"
+  },
+  {
+    "city": "Saku",
+    "admin": "Nagano",
+    "sort": "98292"
+  },
+  {
+    "city": "Chitose",
+    "admin": "Hokkaidō",
+    "sort": "97945"
+  },
+  {
+    "city": "Munakata",
+    "admin": "Fukuoka",
+    "sort": "97041"
+  },
+  {
+    "city": "Iida",
+    "admin": "Nagano",
+    "sort": "96642"
+  },
+  {
+    "city": "Ōmura",
+    "admin": "Nagasaki",
+    "sort": "95619"
+  },
+  {
+    "city": "Kamisu",
+    "admin": "Ibaraki",
+    "sort": "95471"
+  },
+  {
+    "city": "Shimada",
+    "admin": "Shizuoka",
+    "sort": "95198"
+  },
+  {
+    "city": "Kanuma",
+    "admin": "Tochigi",
+    "sort": "94591"
+  },
+  {
+    "city": "Shibata",
+    "admin": "Niigata",
+    "sort": "94258"
+  },
+  {
+    "city": "Azumino",
+    "admin": "Nagano",
+    "sort": "93927"
+  },
+  {
+    "city": "Sanjō",
+    "admin": "Niigata",
+    "sort": "93671"
+  },
+  {
+    "city": "Higashi-Matsuyama",
+    "admin": "Saitama",
+    "sort": "92440"
+  },
+  {
+    "city": "Hanamaki Onsen",
+    "admin": "Iwate",
+    "sort": "92815"
+  },
+  {
+    "city": "Kitakami",
+    "admin": "Iwate",
+    "sort": "92348"
+  },
+  {
+    "city": "Satsumasendai",
+    "admin": "Kagoshima",
+    "sort": "91875"
+  },
+  {
+    "city": "Imizuchō",
+    "admin": "Toyama",
+    "sort": "90201"
+  },
+  {
+    "city": "Mihara",
+    "admin": "Hiroshima",
+    "sort": "89972"
+  },
+  {
+    "city": "Kōka",
+    "admin": "Shiga",
+    "sort": "88538"
+  },
+  {
+    "city": "Sakai",
+    "admin": "Fukui",
+    "sort": "87945"
+  },
+  {
+    "city": "Fukuroi",
+    "admin": "Shizuoka",
+    "sort": "86851"
+  },
+  {
+    "city": "Mobara",
+    "admin": "Chiba",
+    "sort": "86446"
+  },
+  {
+    "city": "Gotenba",
+    "admin": "Shizuoka",
+    "sort": "86334"
+  },
+  {
+    "city": "Kameoka",
+    "admin": "Kyōto",
+    "sort": "86112"
+  },
+  {
+    "city": "Kaizuka",
+    "admin": "Ōsaka",
+    "sort": "84356"
+  },
+  {
+    "city": "Iga",
+    "admin": "Mie",
+    "sort": "85883"
+  },
+  {
+    "city": "Kitakōriyamachō",
+    "admin": "Nara",
+    "sort": "84007"
+  },
+  {
+    "city": "Ushiku",
+    "admin": "Ibaraki",
+    "sort": "84505"
+  },
+  {
+    "city": "Sekimachi",
+    "admin": "Gifu",
+    "sort": "85636"
+  },
+  {
+    "city": "Chita",
+    "admin": "Aichi",
+    "sort": "83881"
+  },
+  {
+    "city": "Takayama",
+    "admin": "Gifu",
+    "sort": "85199"
+  },
+  {
+    "city": "Moriyama",
+    "admin": "Shiga",
+    "sort": "83567"
+  },
+  {
+    "city": "Yokotemachi",
+    "admin": "Akita",
+    "sort": "84556"
+  },
+  {
+    "city": "Nakatsu",
+    "admin": "Fukuoka",
+    "sort": "82714"
+  },
+  {
+    "city": "Ōmihachiman",
+    "admin": "Shiga",
+    "sort": "81545"
+  },
+  {
+    "city": "Muroran",
+    "admin": "Hokkaidō",
+    "sort": "81580"
+  },
+  {
+    "city": "Shikokuchūō",
+    "admin": "Ehime",
+    "sort": "82320"
+  },
+  {
+    "city": "Kimitsu",
+    "admin": "Chiba",
+    "sort": "81355"
+  },
+  {
+    "city": "Kashiwazaki",
+    "admin": "Niigata",
+    "sort": "80787"
+  },
+  {
+    "city": "Yonezawa",
+    "admin": "Yamagata",
+    "sort": "80795"
+  },
+  {
+    "city": "Gamagōri",
+    "admin": "Aichi",
+    "sort": "79292"
+  },
+  {
+    "city": "Akiruno",
+    "admin": "Tōkyō",
+    "sort": "79600"
+  },
+  {
+    "city": "Echizen",
+    "admin": "Fukui",
+    "sort": "80264"
+  },
+  {
+    "city": "Natori-shi",
+    "admin": "Miyagi",
+    "sort": "79250"
+  },
+  {
+    "city": "Gyōda",
+    "admin": "Saitama",
+    "sort": "78488"
+  },
+  {
+    "city": "Hannō",
+    "admin": "Saitama",
+    "sort": "79169"
+  },
+  {
+    "city": "Iwamizawa",
+    "admin": "Hokkaidō",
+    "sort": "79361"
+  },
+  {
+    "city": "Mooka",
+    "admin": "Tochigi",
+    "sort": "78665"
+  },
+  {
+    "city": "Maizuru",
+    "admin": "Kyōto",
+    "sort": "78730"
+  },
+  {
+    "city": "Kizugawa",
+    "admin": "Kyōto",
+    "sort": "78035"
+  },
+  {
+    "city": "Honjō",
+    "admin": "Saitama",
+    "sort": "76757"
+  },
+  {
+    "city": "Tsubame",
+    "admin": "Niigata",
+    "sort": "76590"
+  },
+  {
+    "city": "Toyooka",
+    "admin": "Hyōgo",
+    "sort": "77005"
+  },
+  {
+    "city": "Nikkō",
+    "admin": "Tochigi",
+    "sort": "77027"
+  },
+  {
+    "city": "Ryūgasaki",
+    "admin": "Ibaraki",
+    "sort": "76055"
+  },
+  {
+    "city": "Aira",
+    "admin": "Kagoshima",
+    "sort": "76610"
+  },
+  {
+    "city": "Nabari",
+    "admin": "Mie",
+    "sort": "75942"
+  },
+  {
+    "city": "Kai",
+    "admin": "Yamanashi",
+    "sort": "75337"
+  },
+  {
+    "city": "Toyomamachi-teraike",
+    "admin": "Miyagi",
+    "sort": "76164"
+  },
+  {
+    "city": "Daisen",
+    "admin": "Akita",
+    "sort": "76164"
+  },
+  {
+    "city": "Fukuchiyama",
+    "admin": "Kyōto",
+    "sort": "75924"
+  },
+  {
+    "city": "Tosu",
+    "admin": "Saga",
+    "sort": "74673"
+  },
+  {
+    "city": "Kyōtanabe",
+    "admin": "Kyōto",
+    "sort": "73985"
+  },
+  {
+    "city": "Nakatsugawa",
+    "admin": "Gifu",
+    "sort": "75500"
+  },
+  {
+    "city": "Sasagawa",
+    "admin": "Fukushima",
+    "sort": "75128"
+  },
+  {
+    "city": "Tatebayashi",
+    "admin": "Gunma",
+    "sort": "73991"
+  },
+  {
+    "city": "Amakusa",
+    "admin": "Kumamoto",
+    "sort": "74861"
+  },
+  {
+    "city": "Miki",
+    "admin": "Hyōgo",
+    "sort": "74255"
+  },
+  {
+    "city": "Tatsunochō-tominaga",
+    "admin": "Hyōgo",
+    "sort": "73952"
+  },
+  {
+    "city": "Yurihonjō",
+    "admin": "Akita",
+    "sort": "73840"
+  },
+  {
+    "city": "Inuyama",
+    "admin": "Gifu",
+    "sort": "72926"
+  },
+  {
+    "city": "Kasama",
+    "admin": "Ibaraki",
+    "sort": "73521"
+  },
+  {
+    "city": "Shibukawa",
+    "admin": "Gunma",
+    "sort": "73064"
+  },
+  {
+    "city": "Ōtawara",
+    "admin": "Tochigi",
+    "sort": "72923"
+  },
+  {
+    "city": "Ishioka",
+    "admin": "Ibaraki",
+    "sort": "71851"
+  },
+  {
+    "city": "Yukuhashi",
+    "admin": "Fukuoka",
+    "sort": "70922"
+  },
+  {
+    "city": "Katori",
+    "admin": "Chiba",
+    "sort": "71391"
+  },
+  {
+    "city": "Moriya",
+    "admin": "Ibaraki",
+    "sort": "68992"
+  },
+  {
+    "city": "Rittō",
+    "admin": "Shiga",
+    "sort": "69598"
+  },
+  {
+    "city": "Eniwa",
+    "admin": "Hokkaidō",
+    "sort": "70102"
+  },
+  {
+    "city": "Minami-Alps",
+    "admin": "Yamanashi",
+    "sort": "69642"
+  },
+  {
+    "city": "Uwajima",
+    "admin": "Ehime",
+    "sort": "69639"
+  },
+  {
+    "city": "Anan",
+    "admin": "Tokushima",
+    "sort": "69259"
+  },
+  {
+    "city": "Sabae",
+    "admin": "Fukui",
+    "sort": "68666"
+  },
+  {
+    "city": "Tanabe",
+    "admin": "Wakayama",
+    "sort": "68986"
+  },
+  {
+    "city": "Sōja",
+    "admin": "Okayama",
+    "sort": "68551"
+  },
+  {
+    "city": "Ōdate",
+    "admin": "Akita",
+    "sort": "68593"
+  },
+  {
+    "city": "Fuefuki",
+    "admin": "Yamanashi",
+    "sort": "67396"
+  },
+  {
+    "city": "Kashima",
+    "admin": "Ibaraki",
+    "sort": "67001"
+  },
+  {
+    "city": "Hashima",
+    "admin": "Gifu",
+    "sort": "66312"
+  },
+  {
+    "city": "Yachimata",
+    "admin": "Chiba",
+    "sort": "66430"
+  },
+  {
+    "city": "Fukutsu",
+    "admin": "Fukuoka",
+    "sort": "65770"
+  },
+  {
+    "city": "Saiki",
+    "admin": "Ōita",
+    "sort": "66497"
+  },
+  {
+    "city": "Shiojiri",
+    "admin": "Nagano",
+    "sort": "66181"
+  },
+  {
+    "city": "Ina",
+    "admin": "Nagano",
+    "sort": "65670"
+  },
+  {
+    "city": "Itō",
+    "admin": "Shizuoka",
+    "sort": "64473"
+  },
+  {
+    "city": "Yanagawa",
+    "admin": "Fukuoka",
+    "sort": "64120"
+  },
+  {
+    "city": "Miyoshi",
+    "admin": "Aichi",
+    "sort": "62963"
+  },
+  {
+    "city": "Sodegaura",
+    "admin": "Chiba",
+    "sort": "63975"
+  },
+  {
+    "city": "Tamana",
+    "admin": "Kumamoto",
+    "sort": "64206"
+  },
+  {
+    "city": "Tenri",
+    "admin": "Nara",
+    "sort": "63760"
+  },
+  {
+    "city": "Asahi",
+    "admin": "Chiba",
+    "sort": "63507"
+  },
+  {
+    "city": "Tsuruga",
+    "admin": "Fukui",
+    "sort": "63724"
+  },
+  {
+    "city": "Kurihara",
+    "admin": "Miyagi",
+    "sort": "63689"
+  },
+  {
+    "city": "Shiroi",
+    "admin": "Chiba",
+    "sort": "61673"
+  },
+  {
+    "city": "Nago",
+    "admin": "Okinawa",
+    "sort": "63060"
+  },
+  {
+    "city": "Kaga",
+    "admin": "Ishikawa",
+    "sort": "62997"
+  },
+  {
+    "city": "Kōshizuka",
+    "admin": "Kumamoto",
+    "sort": "61997"
+  },
+  {
+    "city": "Fujioka",
+    "admin": "Gunma",
+    "sort": "62608"
+  },
+  {
+    "city": "Tendō",
+    "admin": "Yamagata",
+    "sort": "61981"
+  },
+  {
+    "city": "Itoman",
+    "admin": "Okinawa",
+    "sort": "60903"
+  },
+  {
+    "city": "Mitoyo",
+    "admin": "Kagawa",
+    "sort": "61838"
+  },
+  {
+    "city": "Hita",
+    "admin": "Ōita",
+    "sort": "61755"
+  },
+  {
+    "city": "Aisai",
+    "admin": "Aichi",
+    "sort": "60914"
+  },
+  {
+    "city": "Tamba",
+    "admin": "Hyōgo",
+    "sort": "60824"
+  },
+  {
+    "city": "Sennan",
+    "admin": "Ōsaka",
+    "sort": "59634"
+  },
+  {
+    "city": "Koga",
+    "admin": "Fukuoka",
+    "sort": "59349"
+  },
+  {
+    "city": "Hashimoto",
+    "admin": "Wakayama",
+    "sort": "60058"
+  },
+  {
+    "city": "Yame",
+    "admin": "Fukuoka",
+    "sort": "60196"
+  },
+  {
+    "city": "Shimotsuke",
+    "admin": "Tochigi",
+    "sort": "59404"
+  },
+  {
+    "city": "Towada",
+    "admin": "Aomori",
+    "sort": "60063"
+  },
+  {
+    "city": "Sanyō-Onoda",
+    "admin": "Yamaguchi",
+    "sort": "59648"
+  },
+  {
+    "city": "Jōsō",
+    "admin": "Ibaraki",
+    "sort": "59223"
+  },
+  {
+    "city": "Ogōri",
+    "admin": "Fukuoka",
+    "sort": "58322"
+  },
+  {
+    "city": "Kesennuma",
+    "admin": "Miyagi",
+    "sort": "59341"
+  },
+  {
+    "city": "Hyūga",
+    "admin": "Miyazaki",
+    "sort": "59276"
+  },
+  {
+    "city": "Tahara",
+    "admin": "Aichi",
+    "sort": "59015"
+  },
+  {
+    "city": "Chikuma",
+    "admin": "Nagano",
+    "sort": "58755"
+  },
+  {
+    "city": "Shirakawa",
+    "admin": "Fukushima",
+    "sort": "59044"
+  },
+  {
+    "city": "Chichibu",
+    "admin": "Saitama",
+    "sort": "59101"
+  },
+  {
+    "city": "Kitahiroshima",
+    "admin": "Hokkaidō",
+    "sort": "58125"
+  },
+  {
+    "city": "Tokoname",
+    "admin": "Aichi",
+    "sort": "57507"
+  },
+  {
+    "city": "Date",
+    "admin": "Fukushima",
+    "sort": "58232"
+  },
+  {
+    "city": "Kokawa",
+    "admin": "Wakayama",
+    "sort": "58130"
+  },
+  {
+    "city": "Ishikari",
+    "admin": "Hokkaidō",
+    "sort": "58284"
+  },
+  {
+    "city": "Kosai",
+    "admin": "Shizuoka",
+    "sort": "57682"
+  },
+  {
+    "city": "Choshi",
+    "admin": "Chiba",
+    "sort": "57533"
+  },
+  {
+    "city": "Tōgane",
+    "admin": "Chiba",
+    "sort": "57560"
+  },
+  {
+    "city": "Mizuho",
+    "admin": "Gifu",
+    "sort": "56106"
+  },
+  {
+    "city": "Minokamo",
+    "admin": "Gifu",
+    "sort": "57007"
+  },
+  {
+    "city": "Uki",
+    "admin": "Kumamoto",
+    "sort": "57096"
+  },
+  {
+    "city": "Kudamatsu",
+    "admin": "Yamaguchi",
+    "sort": "56661"
+  },
+  {
+    "city": "Kan’onjichō",
+    "admin": "Kagawa",
+    "sort": "56639"
+  },
+  {
+    "city": "Tama",
+    "admin": "Okayama",
+    "sort": "56431"
+  },
+  {
+    "city": "Murakami",
+    "admin": "Niigata",
+    "sort": "56713"
+  },
+  {
+    "city": "Nōgata",
+    "admin": "Fukuoka",
+    "sort": "55705"
+  },
+  {
+    "city": "Takizawa",
+    "admin": "Iwate",
+    "sort": "56050"
+  },
+  {
+    "city": "Hidaka",
+    "admin": "Saitama",
+    "sort": "54728"
+  },
+  {
+    "city": "Toki",
+    "admin": "Gifu",
+    "sort": "55388"
+  },
+  {
+    "city": "Narutochō-mitsuishi",
+    "admin": "Tokushima",
+    "sort": "55264"
+  },
+  {
+    "city": "Chino",
+    "admin": "Nagano",
+    "sort": "55018"
+  },
+  {
+    "city": "Konan",
+    "admin": "Shiga",
+    "sort": "54392"
+  },
+  {
+    "city": "Funato",
+    "admin": "Wakayama",
+    "sort": "53714"
+  },
+  {
+    "city": "Minamiuonuma",
+    "admin": "Niigata",
+    "sort": "54820"
+  },
+  {
+    "city": "Sakurai",
+    "admin": "Nara",
+    "sort": "54346"
+  },
+  {
+    "city": "Annaka",
+    "admin": "Gunma",
+    "sort": "54602"
+  },
+  {
+    "city": "Nihonmatsu",
+    "admin": "Fukushima",
+    "sort": "54447"
+  },
+  {
+    "city": "Sado",
+    "admin": "Niigata",
+    "sort": "54304"
+  },
+  {
+    "city": "Hanyū",
+    "admin": "Saitama",
+    "sort": "53431"
+  },
+  {
+    "city": "Hamada",
+    "admin": "Shimane",
+    "sort": "53753"
+  },
+  {
+    "city": "Naka",
+    "admin": "Ibaraki",
+    "sort": "53035"
+  },
+  {
+    "city": "Mutsu",
+    "admin": "Aomori",
+    "sort": "53393"
+  },
+  {
+    "city": "Tomiya",
+    "admin": "Miyagi",
+    "sort": "51859"
+  },
+  {
+    "city": "Imarichō-kō",
+    "admin": "Saga",
+    "sort": "52694"
+  },
+  {
+    "city": "Usa",
+    "admin": "Ōita",
+    "sort": "52767"
+  },
+  {
+    "city": "Minami-Sōma",
+    "admin": "Fukushima",
+    "sort": "52619"
+  },
+  {
+    "city": "Miyakojima",
+    "admin": "Okinawa",
+    "sort": "52390"
+  },
+  {
+    "city": "Izumi",
+    "admin": "Kagoshima",
+    "sort": "51893"
+  },
+  {
+    "city": "Bandō",
+    "admin": "Ibaraki",
+    "sort": "51511"
+  },
+  {
+    "city": "Tsukubamirai",
+    "admin": "Ibaraki",
+    "sort": "51134"
+  },
+  {
+    "city": "Arao",
+    "admin": "Kumamoto",
+    "sort": "50570"
+  },
+  {
+    "city": "Satte",
+    "admin": "Saitama",
+    "sort": "49961"
+  },
+  {
+    "city": "Hannan",
+    "admin": "Ōsaka",
+    "sort": "49794"
+  },
+  {
+    "city": "Nanao",
+    "admin": "Ishikawa",
+    "sort": "51001"
+  },
+  {
+    "city": "Sakaidechō",
+    "admin": "Kagawa",
+    "sort": "50577"
+  },
+  {
+    "city": "Yūki",
+    "admin": "Ibaraki",
+    "sort": "50218"
+  },
+  {
+    "city": "Kyōtango",
+    "admin": "Kyōto",
+    "sort": "50857"
+  },
+  {
+    "city": "Miyako",
+    "admin": "Iwate",
+    "sort": "50855"
+  },
+  {
+    "city": "Goshogawara",
+    "admin": "Aomori",
+    "sort": "50757"
+  },
+  {
+    "city": "Susono",
+    "admin": "Shizuoka",
+    "sort": "50510"
+  },
+  {
+    "city": "Nakagawa",
+    "admin": "Fukuoka",
+    "sort": "50186"
+  },
+  {
+    "city": "Higashiura",
+    "admin": "Aichi",
+    "sort": "49252"
+  },
+  {
+    "city": "Yasu",
+    "admin": "Shiga",
+    "sort": "50049"
+  },
+  {
+    "city": "Kameyama",
+    "admin": "Mie",
+    "sort": "49971"
+  },
+  {
+    "city": "Miyoshi",
+    "admin": "Hiroshima",
+    "sort": "50046"
+  },
+  {
+    "city": "Nichinan",
+    "admin": "Miyazaki",
+    "sort": "49899"
+  },
+  {
+    "city": "Chikugo",
+    "admin": "Fukuoka",
+    "sort": "48794"
+  },
+  {
+    "city": "Noshiromachi",
+    "admin": "Akita",
+    "sort": "49625"
+  },
+  {
+    "city": "Tomisato",
+    "admin": "Chiba",
+    "sort": "49470"
+  },
+  {
+    "city": "Suzaka",
+    "admin": "Nagano",
+    "sort": "49393"
+  },
+  {
+    "city": "Tōkamachi",
+    "admin": "Niigata",
+    "sort": "49472"
+  },
+  {
+    "city": "Hikari",
+    "admin": "Yamaguchi",
+    "sort": "49013"
+  },
+  {
+    "city": "Asakura",
+    "admin": "Fukuoka",
+    "sort": "49254"
+  },
+  {
+    "city": "Nomimachi",
+    "admin": "Ishikawa",
+    "sort": "48860"
+  },
+  {
+    "city": "Midori",
+    "admin": "Gunma",
+    "sort": "49190"
+  },
+  {
+    "city": "Yamaga",
+    "admin": "Kumamoto",
+    "sort": "48753"
+  },
+  {
+    "city": "Omitama",
+    "admin": "Ibaraki",
+    "sort": "48555"
+  },
+  {
+    "city": "Suwa",
+    "admin": "Nagano",
+    "sort": "48309"
+  },
+  {
+    "city": "Ami",
+    "admin": "Ibaraki",
+    "sort": "48072"
+  },
+  {
+    "city": "Ōamishirasato",
+    "admin": "Chiba",
+    "sort": "47722"
+  },
+  {
+    "city": "Sanmu",
+    "admin": "Chiba",
+    "sort": "48196"
+  },
+  {
+    "city": "Ishigaki",
+    "admin": "Okinawa",
+    "sort": "48258"
+  },
+  {
+    "city": "Shimotsuchō-kominami",
+    "admin": "Wakayama",
+    "sort": "47697"
+  },
+  {
+    "city": "Ena",
+    "admin": "Gifu",
+    "sort": "47999"
+  },
+  {
+    "city": "Okaya",
+    "admin": "Nagano",
+    "sort": "47499"
+  },
+  {
+    "city": "Tonami",
+    "admin": "Toyama",
+    "sort": "47638"
+  },
+  {
+    "city": "Higashine",
+    "admin": "Yamagata",
+    "sort": "47747"
+  },
+  {
+    "city": "Takeochō-takeo",
+    "admin": "Saga",
+    "sort": "47681"
+  },
+  {
+    "city": "Ono",
+    "admin": "Hyōgo",
+    "sort": "47316"
+  },
+  {
+    "city": "Hitachi-ota",
+    "admin": "Ibaraki",
+    "sort": "47586"
+  },
+  {
+    "city": "Kikugawa",
+    "admin": "Shizuoka",
+    "sort": "47194"
+  },
+  {
+    "city": "Nanto",
+    "admin": "Toyama",
+    "sort": "47390"
+  },
+  {
+    "city": "Gosen",
+    "admin": "Niigata",
+    "sort": "47262"
+  },
+  {
+    "city": "Tomioka",
+    "admin": "Gunma",
+    "sort": "46928"
+  },
+  {
+    "city": "Noboribetsu",
+    "admin": "Hokkaidō",
+    "sort": "46838"
+  },
+  {
+    "city": "Fujiyoshida",
+    "admin": "Yamanashi",
+    "sort": "46659"
+  },
+  {
+    "city": "Sanuki",
+    "admin": "Kagawa",
+    "sort": "46723"
+  },
+  {
+    "city": "Hioki",
+    "admin": "Kagoshima",
+    "sort": "46671"
+  },
+  {
+    "city": "Shimeo",
+    "admin": "Fukuoka",
+    "sort": "46207"
+  },
+  {
+    "city": "Tamagawa",
+    "admin": "Fukuoka",
+    "sort": "45946"
+  },
+  {
+    "city": "Izunokuni",
+    "admin": "Shizuoka",
+    "sort": "46212"
+  },
+  {
+    "city": "Nakai",
+    "admin": "Kōchi",
+    "sort": "46567"
+  },
+  {
+    "city": "Kurayoshi",
+    "admin": "Tottori",
+    "sort": "46269"
+  },
+  {
+    "city": "Kasaoka",
+    "admin": "Okayama",
+    "sort": "46080"
+  },
+  {
+    "city": "Takashima",
+    "admin": "Shiga",
+    "sort": "46246"
+  },
+  {
+    "city": "Kikuchi",
+    "admin": "Kumamoto",
+    "sort": "45971"
+  },
+  {
+    "city": "Hokota",
+    "admin": "Ibaraki",
+    "sort": "45910"
+  },
+  {
+    "city": "Shima",
+    "admin": "Mie",
+    "sort": "45834"
+  },
+  {
+    "city": "Kariya",
+    "admin": "Hyōgo",
+    "sort": "45473"
+  },
+  {
+    "city": "Hokuto",
+    "admin": "Hokkaidō",
+    "sort": "45661"
+  },
+  {
+    "city": "Kitakata",
+    "admin": "Fukushima",
+    "sort": "45590"
+  },
+  {
+    "city": "Sugito",
+    "admin": "Saitama",
+    "sort": "43755"
+  },
+  {
+    "city": "Nanjō",
+    "admin": "Okinawa",
+    "sort": "44318"
+  },
+  {
+    "city": "Sakura",
+    "admin": "Tochigi",
+    "sort": "44777"
+  },
+  {
+    "city": "Tateyama",
+    "admin": "Chiba",
+    "sort": "44692"
+  },
+  {
+    "city": "Iwanuma",
+    "admin": "Miyagi",
+    "sort": "44340"
+  },
+  {
+    "city": "Numata",
+    "admin": "Gunma",
+    "sort": "44782"
+  },
+  {
+    "city": "Nagaizumi",
+    "admin": "Shizuoka",
+    "sort": "43204"
+  },
+  {
+    "city": "Taketoyo",
+    "admin": "Aichi",
+    "sort": "43095"
+  },
+  {
+    "city": "Kikuyō",
+    "admin": "Kumamoto",
+    "sort": "43443"
+  },
+  {
+    "city": "Masuda",
+    "admin": "Shimane",
+    "sort": "44474"
+  },
+  {
+    "city": "Hagi",
+    "admin": "Yamaguchi",
+    "sort": "44118"
+  },
+  {
+    "city": "Otofuke",
+    "admin": "Hokkaidō",
+    "sort": "44049"
+  },
+  {
+    "city": "Goshikichō-aihara-minamidani",
+    "admin": "Hyōgo",
+    "sort": "43914"
+  },
+  {
+    "city": "Himi",
+    "admin": "Toyama",
+    "sort": "43747"
+  },
+  {
+    "city": "Yatomi",
+    "admin": "Aichi",
+    "sort": "43038"
+  },
+  {
+    "city": "Taniyama-chūō",
+    "admin": "Kagoshima",
+    "sort": "42683"
+  },
+  {
+    "city": "Ogimachi",
+    "admin": "Saga",
+    "sort": "43257"
+  },
+  {
+    "city": "Shinshiro",
+    "admin": "Aichi",
+    "sort": "43620"
+  },
+  {
+    "city": "Hokuto",
+    "admin": "Yamanashi",
+    "sort": "43452"
+  },
+  {
+    "city": "Makinohara",
+    "admin": "Shizuoka",
+    "sort": "43061"
+  },
+  {
+    "city": "Shimabara",
+    "admin": "Nagasaki",
+    "sort": "42858"
+  },
+  {
+    "city": "Kōta",
+    "admin": "Aichi",
+    "sort": "42523"
+  },
+  {
+    "city": "Kobayashi",
+    "admin": "Miyazaki",
+    "sort": "43114"
+  },
+  {
+    "city": "Miura",
+    "admin": "Kanagawa",
+    "sort": "41807"
+  },
+  {
+    "city": "Obita",
+    "admin": "Nagasaki",
+    "sort": "41341"
+  },
+  {
+    "city": "Kasai",
+    "admin": "Hyōgo",
+    "sort": "42290"
+  },
+  {
+    "city": "Akaiwa",
+    "admin": "Okayama",
+    "sort": "42341"
+  },
+  {
+    "city": "Futtsu",
+    "admin": "Chiba",
+    "sort": "42280"
+  },
+  {
+    "city": "Nakano",
+    "admin": "Nagano",
+    "sort": "41972"
+  },
+  {
+    "city": "Maniwa",
+    "admin": "Okayama",
+    "sort": "42259"
+  },
+  {
+    "city": "Minamishimabara",
+    "admin": "Nagasaki",
+    "sort": "41903"
+  },
+  {
+    "city": "Shimotsuma",
+    "admin": "Ibaraki",
+    "sort": "41499"
+  },
+  {
+    "city": "Nanbei",
+    "admin": "Kanagawa",
+    "sort": "41259"
+  },
+  {
+    "city": "Yuzawa",
+    "admin": "Akita",
+    "sort": "41601"
+  },
+  {
+    "city": "Masaki",
+    "admin": "Ehime",
+    "sort": "39681"
+  },
+  {
+    "city": "Kitaibaraki",
+    "admin": "Ibaraki",
+    "sort": "41352"
+  },
+  {
+    "city": "Komoro",
+    "admin": "Nagano",
+    "sort": "41066"
+  },
+  {
+    "city": "Unzen",
+    "admin": "Nagasaki",
+    "sort": "41018"
+  },
+  {
+    "city": "Amami",
+    "admin": "Okinawa",
+    "sort": "41049"
+  },
+  {
+    "city": "Sumoto",
+    "admin": "Hyōgo",
+    "sort": "40904"
+  },
+  {
+    "city": "Awaji",
+    "admin": "Hyōgo",
+    "sort": "41127"
+  },
+  {
+    "city": "Uozu",
+    "admin": "Toyama",
+    "sort": "40828"
+  },
+  {
+    "city": "Katō",
+    "admin": "Hyōgo",
+    "sort": "40728"
+  },
+  {
+    "city": "Yomitan",
+    "admin": "Okinawa",
+    "sort": "39791"
+  },
+  {
+    "city": "Komono",
+    "admin": "Mie",
+    "sort": "40329"
+  },
+  {
+    "city": "Agano",
+    "admin": "Niigata",
+    "sort": "40382"
+  },
+  {
+    "city": "Aizawa",
+    "admin": "Kanagawa",
+    "sort": "39260"
+  },
+  {
+    "city": "Ōzu",
+    "admin": "Ehime",
+    "sort": "40289"
+  },
+  {
+    "city": "Itoigawa",
+    "admin": "Niigata",
+    "sort": "40200"
+  },
+  {
+    "city": "Kasumigaura",
+    "admin": "Ibaraki",
+    "sort": "39993"
+  },
+  {
+    "city": "Sagae",
+    "admin": "Yamagata",
+    "sort": "39854"
+  },
+  {
+    "city": "Kurobeshin",
+    "admin": "Toyama",
+    "sort": "39718"
+  },
+  {
+    "city": "Mibu",
+    "admin": "Tochigi",
+    "sort": "39151"
+  },
+  {
+    "city": "Takikawa",
+    "admin": "Hokkaidō",
+    "sort": "39266"
+  },
+  {
+    "city": "Mitsuke",
+    "admin": "Niigata",
+    "sort": "39024"
+  },
+  {
+    "city": "Shibata",
+    "admin": "Miyagi",
+    "sort": "38638"
+  },
+  {
+    "city": "Tamba-Sasayama",
+    "admin": "Hyōgo",
+    "sort": "39245"
+  },
+  {
+    "city": "Higashimatsushima",
+    "admin": "Miyagi",
+    "sort": "38880"
+  },
+  {
+    "city": "Inashiki",
+    "admin": "Ibaraki",
+    "sort": "38853"
+  },
+  {
+    "city": "Yoshinogawa",
+    "admin": "Tokushima",
+    "sort": "38726"
+  },
+  {
+    "city": "Umi",
+    "admin": "Fukuoka",
+    "sort": "37713"
+  },
+  {
+    "city": "Hitachiomiya",
+    "admin": "Ibaraki",
+    "sort": "38836"
+  },
+  {
+    "city": "Ōmagari",
+    "admin": "Akita",
+    "sort": "38794"
+  },
+  {
+    "city": "Sakuragawa",
+    "admin": "Ibaraki",
+    "sort": "38677"
+  },
+  {
+    "city": "Ibusuki",
+    "admin": "Kagoshima",
+    "sort": "38571"
+  },
+  {
+    "city": "Gujō",
+    "admin": "Gifu",
+    "sort": "38747"
+  },
+  {
+    "city": "Nishiwaki",
+    "admin": "Hyōgo",
+    "sort": "38479"
+  },
+  {
+    "city": "Tōkai",
+    "admin": "Ibaraki",
+    "sort": "37700"
+  },
+  {
+    "city": "Misawa",
+    "admin": "Aomori",
+    "sort": "38351"
+  },
+  {
+    "city": "Ibara",
+    "admin": "Okayama",
+    "sort": "38236"
+  },
+  {
+    "city": "Katsuragi",
+    "admin": "Nara",
+    "sort": "37225"
+  },
+  {
+    "city": "Maibara",
+    "admin": "Shiga",
+    "sort": "37374"
+  },
+  {
+    "city": "Tamamura",
+    "admin": "Gunma",
+    "sort": "36041"
+  },
+  {
+    "city": "Seika",
+    "admin": "Kyōto",
+    "sort": "35951"
+  },
+  {
+    "city": "Kannan",
+    "admin": "Shizuoka",
+    "sort": "36607"
+  },
+  {
+    "city": "Tsubata",
+    "admin": "Ishikawa",
+    "sort": "36728"
+  },
+  {
+    "city": "Fuchūchō",
+    "admin": "Hiroshima",
+    "sort": "36754"
+  },
+  {
+    "city": "Sōma",
+    "admin": "Fukushima",
+    "sort": "36752"
+  },
+  {
+    "city": "Mizunami",
+    "admin": "Gifu",
+    "sort": "36721"
+  },
+  {
+    "city": "Komatsushimachō",
+    "admin": "Tokushima",
+    "sort": "36123"
+  },
+  {
+    "city": "Kanada",
+    "admin": "Fukuoka",
+    "sort": "36075"
+  },
+  {
+    "city": "Yasugichō",
+    "admin": "Shimane",
+    "sort": "36713"
+  },
+  {
+    "city": "Uto",
+    "admin": "Kumamoto",
+    "sort": "35947"
+  },
+  {
+    "city": "Morohongō",
+    "admin": "Saitama",
+    "sort": "35370"
+  },
+  {
+    "city": "Rifu",
+    "admin": "Miyagi",
+    "sort": "35521"
+  },
+  {
+    "city": "Miyajima",
+    "admin": "Kumamoto",
+    "sort": "35665"
+  },
+  {
+    "city": "Setouchi",
+    "admin": "Okayama",
+    "sort": "35624"
+  },
+  {
+    "city": "Atami",
+    "admin": "Shizuoka",
+    "sort": "35276"
+  },
+  {
+    "city": "Usuki",
+    "admin": "Ōita",
+    "sort": "35681"
+  },
+  {
+    "city": "Isumi",
+    "admin": "Chiba",
+    "sort": "35570"
+  },
+  {
+    "city": "Minami-Bōsō",
+    "admin": "Chiba",
+    "sort": "35454"
+  },
+  {
+    "city": "Kahoku",
+    "admin": "Ishikawa",
+    "sort": "34936"
+  },
+  {
+    "city": "Kamata",
+    "admin": "Fukuoka",
+    "sort": "35208"
+  },
+  {
+    "city": "Unnan",
+    "admin": "Shimane",
+    "sort": "35366"
+  },
+  {
+    "city": "Ōzu",
+    "admin": "Kumamoto",
+    "sort": "34975"
+  },
+  {
+    "city": "Tamura",
+    "admin": "Fukushima",
+    "sort": "35042"
+  },
+  {
+    "city": "Iyo",
+    "admin": "Ehime",
+    "sort": "34927"
+  },
+  {
+    "city": "Seiyo",
+    "admin": "Ehime",
+    "sort": "34898"
+  },
+  {
+    "city": "Sōsa",
+    "admin": "Chiba",
+    "sort": "34427"
+  },
+  {
+    "city": "Shingū",
+    "admin": "Fukuoka",
+    "sort": "33017"
+  },
+  {
+    "city": "Awa",
+    "admin": "Tokushima",
+    "sort": "34569"
+  },
+  {
+    "city": "Abashiri",
+    "admin": "Hokkaidō",
+    "sort": "34640"
+  },
+  {
+    "city": "Ofunato",
+    "admin": "Iwate",
+    "sort": "34568"
+  },
+  {
+    "city": "Gotō",
+    "admin": "Nagasaki",
+    "sort": "34425"
+  },
+  {
+    "city": "Inabe",
+    "admin": "Mie",
+    "sort": "34323"
+  },
+  {
+    "city": "Shinjō",
+    "admin": "Yamagata",
+    "sort": "34284"
+  },
+  {
+    "city": "Tōon",
+    "admin": "Ehime",
+    "sort": "34195"
+  },
+  {
+    "city": "Shisō",
+    "admin": "Hyōgo",
+    "sort": "34116"
+  },
+  {
+    "city": "Uonuma",
+    "admin": "Niigata",
+    "sort": "34112"
+  },
+  {
+    "city": "Mizuho",
+    "admin": "Saitama",
+    "sort": "32108"
+  },
+  {
+    "city": "Ojiya",
+    "admin": "Niigata",
+    "sort": "33729"
+  },
+  {
+    "city": "Sakaiminato",
+    "admin": "Shimane",
+    "sort": "32503"
+  },
+  {
+    "city": "Ōsawa",
+    "admin": "Fukuoka",
+    "sort": "32609"
+  },
+  {
+    "city": "Taishi",
+    "admin": "Hyōgo",
+    "sort": "33321"
+  },
+  {
+    "city": "Date",
+    "admin": "Hokkaidō",
+    "sort": "33404"
+  },
+  {
+    "city": "Shōbara",
+    "admin": "Hiroshima",
+    "sort": "33409"
+  },
+  {
+    "city": "Hayama",
+    "admin": "Kanagawa",
+    "sort": "31546"
+  },
+  {
+    "city": "Watari",
+    "admin": "Miyagi",
+    "sort": "32846"
+  },
+  {
+    "city": "Minamikyūshū",
+    "admin": "Kagoshima",
+    "sort": "33115"
+  },
+  {
+    "city": "Asakuchi",
+    "admin": "Okayama",
+    "sort": "32669"
+  },
+  {
+    "city": "Shimotoba",
+    "admin": "Kyōto",
+    "sort": "31292"
+  },
+  {
+    "city": "Kamaishi",
+    "admin": "Iwate",
+    "sort": "33061"
+  },
+  {
+    "city": "Bungoōno",
+    "admin": "Ōita",
+    "sort": "33066"
+  },
+  {
+    "city": "Mashiki",
+    "admin": "Kumamoto",
+    "sort": "32587"
+  },
+  {
+    "city": "Wakabadai",
+    "admin": "Hokkaidō",
+    "sort": "33036"
+  },
+  {
+    "city": "Yamanashi",
+    "admin": "Yamanashi",
+    "sort": "32925"
+  },
+  {
+    "city": "Sō",
+    "admin": "Kagoshima",
+    "sort": "32849"
+  },
+  {
+    "city": "Ōiso",
+    "admin": "Kanagawa",
+    "sort": "31121"
+  },
+  {
+    "city": "Kuji",
+    "admin": "Iwate",
+    "sort": "32813"
+  },
+  {
+    "city": "Yufu",
+    "admin": "Ōita",
+    "sort": "32698"
+  },
+  {
+    "city": "Kaizu",
+    "admin": "Gifu",
+    "sort": "32493"
+  },
+  {
+    "city": "Motosu",
+    "admin": "Gifu",
+    "sort": "32664"
+  },
+  {
+    "city": "Shiroishi",
+    "admin": "Miyagi",
+    "sort": "32570"
+  },
+  {
+    "city": "Minamisatsuma",
+    "admin": "Kagoshima",
+    "sort": "32503"
+  },
+  {
+    "city": "Shimanto",
+    "admin": "Kōchi",
+    "sort": "32551"
+  },
+  {
+    "city": "Yorii",
+    "admin": "Saitama",
+    "sort": "32039"
+  },
+  {
+    "city": "Tawaramoto",
+    "admin": "Nara",
+    "sort": "30950"
+  },
+  {
+    "city": "Zentsujichó",
+    "admin": "Kagawa",
+    "sort": "31620"
+  },
+  {
+    "city": "Kōnan",
+    "admin": "Kōchi",
+    "sort": "32123"
+  },
+  {
+    "city": "Namerikawa",
+    "admin": "Toyama",
+    "sort": "32317"
+  },
+  {
+    "city": "Shimizuchō",
+    "admin": "Shizuoka",
+    "sort": "31652"
+  },
+  {
+    "city": "Nagato",
+    "admin": "Yamaguchi",
+    "sort": "32183"
+  },
+  {
+    "city": "Bizen",
+    "admin": "Okayama",
+    "sort": "32077"
+  },
+  {
+    "city": "Ōdachō-ōda",
+    "admin": "Shimane",
+    "sort": "32102"
+  },
+  {
+    "city": "Shima",
+    "admin": "Iwate",
+    "sort": "32036"
+  },
+  {
+    "city": "Yaese",
+    "admin": "Okinawa",
+    "sort": "30974"
+  },
+  {
+    "city": "Chūō",
+    "admin": "Yamanashi",
+    "sort": "31053"
+  },
+  {
+    "city": "Namegata",
+    "admin": "Ibaraki",
+    "sort": "31828"
+  },
+  {
+    "city": "Komagane",
+    "admin": "Nagano",
+    "sort": "31763"
+  },
+  {
+    "city": "Sasaguri",
+    "admin": "Fukuoka",
+    "sort": "31092"
+  },
+  {
+    "city": "Katagami",
+    "admin": "Akita",
+    "sort": "31558"
+  },
+  {
+    "city": "Kuroishi",
+    "admin": "Aomori",
+    "sort": "31604"
+  },
+  {
+    "city": "Maebara",
+    "admin": "Chiba",
+    "sort": "31554"
+  },
+  {
+    "city": "Ayabe",
+    "admin": "Kyōto",
+    "sort": "31537"
+  },
+  {
+    "city": "Yawatahama-shi",
+    "admin": "Ehime",
+    "sort": "31363"
+  },
+  {
+    "city": "Ibaraki",
+    "admin": "Ibaraki",
+    "sort": "31278"
+  },
+  {
+    "city": "Okagaki",
+    "admin": "Fukuoka",
+    "sort": "30891"
+  },
+  {
+    "city": "Hitoyoshi",
+    "admin": "Kumamoto",
+    "sort": "31332"
+  },
+  {
+    "city": "Kaminokawa",
+    "admin": "Tochigi",
+    "sort": "30886"
+  },
+  {
+    "city": "Yaita",
+    "admin": "Tochigi",
+    "sort": "31145"
+  },
+  {
+    "city": "Nantan",
+    "admin": "Kyōto",
+    "sort": "31075"
+  },
+  {
+    "city": "Omaezaki",
+    "admin": "Shizuoka",
+    "sort": "30562"
+  },
+  {
+    "city": "Kamisato",
+    "admin": "Saitama",
+    "sort": "29987"
+  },
+  {
+    "city": "Inami",
+    "admin": "Hyōgo",
+    "sort": "30148"
+  },
+  {
+    "city": "Kanzakimachi-kanzaki",
+    "admin": "Saga",
+    "sort": "30686"
+  },
+  {
+    "city": "Yanai",
+    "admin": "Yamaguchi",
+    "sort": "30461"
+  },
+  {
+    "city": "Yunoshima",
+    "admin": "Gifu",
+    "sort": "30641"
+  },
+  {
+    "city": "Motomiya",
+    "admin": "Fukushima",
+    "sort": "30253"
+  },
+  {
+    "city": "Nanyō",
+    "admin": "Yamagata",
+    "sort": "30343"
+  },
+  {
+    "city": "Ono",
+    "admin": "Fukui",
+    "sort": "30449"
+  },
+  {
+    "city": "Hirakawachō",
+    "admin": "Aomori",
+    "sort": "30326"
+  },
+  {
+    "city": "Togitsu",
+    "admin": "Nagasaki",
+    "sort": "29025"
+  },
+  {
+    "city": "Tsuru",
+    "admin": "Yamanashi",
+    "sort": "30193"
+  },
+  {
+    "city": "Myōkō",
+    "admin": "Niigata",
+    "sort": "30300"
+  },
+  {
+    "city": "Tsuruno",
+    "admin": "Aomori",
+    "sort": "30164"
+  },
+  {
+    "city": "Matsubushi",
+    "admin": "Saitama",
+    "sort": "28494"
+  },
+  {
+    "city": "Sue",
+    "admin": "Fukuoka",
+    "sort": "28489"
+  },
+  {
+    "city": "Yoshida",
+    "admin": "Shizuoka",
+    "sort": "28811"
+  },
+  {
+    "city": "Chikuzen",
+    "admin": "Fukuoka",
+    "sort": "29608"
+  },
+  {
+    "city": "Inagawa",
+    "admin": "Hyōgo",
+    "sort": "29571"
+  },
+  {
+    "city": "Kitaakita",
+    "admin": "Akita",
+    "sort": "29696"
+  },
+  {
+    "city": "Takanezawa",
+    "admin": "Tochigi",
+    "sort": "29123"
+  },
+  {
+    "city": "Tōmi",
+    "admin": "Nagano",
+    "sort": "29213"
+  },
+  {
+    "city": "Shibushi",
+    "admin": "Kagoshima",
+    "sort": "29267"
+  },
+  {
+    "city": "Agui",
+    "admin": "Aichi",
+    "sort": "28176"
+  },
+  {
+    "city": "Kaminoyama",
+    "admin": "Yamagata",
+    "sort": "29141"
+  },
+  {
+    "city": "Ikaruga",
+    "admin": "Nara",
+    "sort": "27330"
+  },
+  {
+    "city": "Kōshū",
+    "admin": "Yamanashi",
+    "sort": "29017"
+  },
+  {
+    "city": "Nirasaki",
+    "admin": "Yamanashi",
+    "sort": "28896"
+  },
+  {
+    "city": "Hanawa",
+    "admin": "Akita",
+    "sort": "28929"
+  },
+  {
+    "city": "Hirado",
+    "admin": "Nagasaki",
+    "sort": "28822"
+  },
+  {
+    "city": "Takahashi",
+    "admin": "Okayama",
+    "sort": "28825"
+  },
+  {
+    "city": "Ogawa",
+    "admin": "Saitama",
+    "sort": "28386"
+  },
+  {
+    "city": "Oyabe",
+    "admin": "Toyama",
+    "sort": "28634"
+  },
+  {
+    "city": "Saito",
+    "admin": "Miyazaki",
+    "sort": "28618"
+  },
+  {
+    "city": "Aioi",
+    "admin": "Hyōgo",
+    "sort": "28350"
+  },
+  {
+    "city": "Asago",
+    "admin": "Hyōgo",
+    "sort": "28586"
+  },
+  {
+    "city": "Izu",
+    "admin": "Shizuoka",
+    "sort": "28493"
+  },
+  {
+    "city": "Tsushima",
+    "admin": "Nagasaki",
+    "sort": "28456"
+  },
+  {
+    "city": "Higashikagawa",
+    "admin": "Kagawa",
+    "sort": "28305"
+  },
+  {
+    "city": "Taiwa",
+    "admin": "Miyagi",
+    "sort": "28307"
+  },
+  {
+    "city": "Hiji",
+    "admin": "Ōita",
+    "sort": "27887"
+  },
+  {
+    "city": "Obama",
+    "admin": "Fukui",
+    "sort": "28142"
+  },
+  {
+    "city": "Honchō",
+    "admin": "Hokkaidō",
+    "sort": "28073"
+  },
+  {
+    "city": "Mima",
+    "admin": "Tokushima",
+    "sort": "28087"
+  },
+  {
+    "city": "Tainai",
+    "admin": "Niigata",
+    "sort": "28004"
+  },
+  {
+    "city": "Yahaba",
+    "admin": "Iwate",
+    "sort": "27638"
+  },
+  {
+    "city": "Kakuda",
+    "admin": "Miyagi",
+    "sort": "27848"
+  },
+  {
+    "city": "Hikawa",
+    "admin": "Shimane",
+    "sort": "27641"
+  },
+  {
+    "city": "Kashima",
+    "admin": "Saga",
+    "sort": "27710"
+  },
+  {
+    "city": "Ōuda-yamaguchi",
+    "admin": "Nara",
+    "sort": "27747"
+  },
+  {
+    "city": "Uchinada",
+    "admin": "Ishikawa",
+    "sort": "26503"
+  },
+  {
+    "city": "Kitsuki",
+    "admin": "Ōita",
+    "sort": "27668"
+  },
+  {
+    "city": "Itako",
+    "admin": "Ibaraki",
+    "sort": "27373"
+  },
+  {
+    "city": "Ukiha",
+    "admin": "Fukuoka",
+    "sort": "27474"
+  },
+  {
+    "city": "Gojō",
+    "admin": "Nara",
+    "sort": "27578"
+  },
+  {
+    "city": "Niimi",
+    "admin": "Okayama",
+    "sort": "27526"
+  },
+  {
+    "city": "Takahagi",
+    "admin": "Ibaraki",
+    "sort": "27251"
+  },
+  {
+    "city": "Awara",
+    "admin": "Fukui",
+    "sort": "27107"
+  },
+  {
+    "city": "Ichikikushikino",
+    "admin": "Kagoshima",
+    "sort": "27080"
+  },
+  {
+    "city": "Akitakata",
+    "admin": "Hiroshima",
+    "sort": "27249"
+  },
+  {
+    "city": "Miki",
+    "admin": "Kagawa",
+    "sort": "26859"
+  },
+  {
+    "city": "Nayoro",
+    "admin": "Hokkaidō",
+    "sort": "27062"
+  },
+  {
+    "city": "Tarui",
+    "admin": "Gifu",
+    "sort": "26558"
+  },
+  {
+    "city": "Yōrō",
+    "admin": "Gifu",
+    "sort": "26565"
+  },
+  {
+    "city": "Miyanaga",
+    "admin": "Fukuoka",
+    "sort": "26690"
+  },
+  {
+    "city": "Ōtake",
+    "admin": "Hiroshima",
+    "sort": "26458"
+  },
+  {
+    "city": "Tōin",
+    "admin": "Mie",
+    "sort": "25658"
+  },
+  {
+    "city": "Shingū",
+    "admin": "Mie",
+    "sort": "26628"
+  },
+  {
+    "city": "Makubetsu",
+    "admin": "Hokkaidō",
+    "sort": "26444"
+  },
+  {
+    "city": "Ōra",
+    "admin": "Gunma",
+    "sort": "25623"
+  },
+  {
+    "city": "Arida",
+    "admin": "Wakayama",
+    "sort": "25737"
+  },
+  {
+    "city": "Kami",
+    "admin": "Kōchi",
+    "sort": "26376"
+  },
+  {
+    "city": "Saikaichō-kobagō",
+    "admin": "Nagasaki",
+    "sort": "26188"
+  },
+  {
+    "city": "Ōguchi",
+    "admin": "Aichi",
+    "sort": "24234"
+  },
+  {
+    "city": "Nagai",
+    "admin": "Yamagata",
+    "sort": "25836"
+  },
+  {
+    "city": "Tosa",
+    "admin": "Kōchi",
+    "sort": "25665"
+  },
+  {
+    "city": "Ōmachi",
+    "admin": "Nagano",
+    "sort": "25883"
+  },
+  {
+    "city": "Miyaki",
+    "admin": "Saga",
+    "sort": "25386"
+  },
+  {
+    "city": "Kunisakimachi-tsurugawa",
+    "admin": "Ōita",
+    "sort": "25790"
+  },
+  {
+    "city": "Ureshinomachi-shimojuku",
+    "admin": "Saga",
+    "sort": "25593"
+  },
+  {
+    "city": "Nogi",
+    "admin": "Tochigi",
+    "sort": "24903"
+  },
+  {
+    "city": "Ishii",
+    "admin": "Tokushima",
+    "sort": "24856"
+  },
+  {
+    "city": "Mimata",
+    "admin": "Miyazaki",
+    "sort": "25474"
+  },
+  {
+    "city": "Fujikawaguchiko",
+    "admin": "Yamanashi",
+    "sort": "25495"
+  },
+  {
+    "city": "Mimasaka",
+    "admin": "Okayama",
+    "sort": "25497"
+  },
+  {
+    "city": "Yamagata",
+    "admin": "Gifu",
+    "sort": "25325"
+  },
+  {
+    "city": "Kamo",
+    "admin": "Niigata",
+    "sort": "25086"
+  },
+  {
+    "city": "Aridagawa",
+    "admin": "Wakayama",
+    "sort": "25169"
+  },
+  {
+    "city": "Tōno",
+    "admin": "Iwate",
+    "sort": "25181"
+  },
+  {
+    "city": "Minowa",
+    "admin": "Nagano",
+    "sort": "24887"
+  },
+  {
+    "city": "Ninohe",
+    "admin": "Iwate",
+    "sort": "25083"
+  },
+  {
+    "city": "Tateyama",
+    "admin": "Toyama",
+    "sort": "24996"
+  },
+  {
+    "city": "Iki",
+    "admin": "Nagasaki",
+    "sort": "24873"
+  },
+  {
+    "city": "Nemuro",
+    "admin": "Hokkaidō",
+    "sort": "24858"
+  },
+  {
+    "city": "Aso",
+    "admin": "Kumamoto",
+    "sort": "24820"
+  },
+  {
+    "city": "Oga",
+    "admin": "Akita",
+    "sort": "24690"
+  },
+  {
+    "city": "Oirase",
+    "admin": "Aomori",
+    "sort": "24407"
+  },
+  {
+    "city": "Gose",
+    "admin": "Nara",
+    "sort": "24317"
+  },
+  {
+    "city": "Nasukarasuyama",
+    "admin": "Tochigi",
+    "sort": "24456"
+  },
+  {
+    "city": "Buzen",
+    "admin": "Fukuoka",
+    "sort": "24369"
+  },
+  {
+    "city": "Sakai",
+    "admin": "Ibaraki",
+    "sort": "24035"
+  },
+  {
+    "city": "Senboku",
+    "admin": "Akita",
+    "sort": "24515"
+  },
+  {
+    "city": "Ōgawara",
+    "admin": "Miyagi",
+    "sort": "23586"
+  },
+  {
+    "city": "Isa",
+    "admin": "Kagoshima",
+    "sort": "24131"
+  },
+  {
+    "city": "Kamiamakusa",
+    "admin": "Kumamoto",
+    "sort": "23973"
+  },
+  {
+    "city": "Misato",
+    "admin": "Miyagi",
+    "sort": "23796"
+  },
+  {
+    "city": "Yugawara",
+    "admin": "Kanagawa",
+    "sort": "23480"
+  },
+  {
+    "city": "Wajimazakimachi",
+    "admin": "Ishikawa",
+    "sort": "23906"
+  },
+  {
+    "city": "Ikeda",
+    "admin": "Gifu",
+    "sort": "23310"
+  },
+  {
+    "city": "Nyūzen",
+    "admin": "Toyama",
+    "sort": "23537"
+  },
+  {
+    "city": "Takehara",
+    "admin": "Hiroshima",
+    "sort": "23631"
+  },
+  {
+    "city": "Hachimantai",
+    "admin": "Iwate",
+    "sort": "23742"
+  },
+  {
+    "city": "Tadotsu",
+    "admin": "Kagawa",
+    "sort": "22813"
+  },
+  {
+    "city": "Miyoshi",
+    "admin": "Tokushima",
+    "sort": "23500"
+  },
+  {
+    "city": "Nasu",
+    "admin": "Tochigi",
+    "sort": "23435"
+  },
+  {
+    "city": "Kumano",
+    "admin": "Hiroshima",
+    "sort": "22760"
+  },
+  {
+    "city": "Nakagusuku",
+    "admin": "Okinawa",
+    "sort": "21924"
+  },
+  {
+    "city": "Yoshioka",
+    "admin": "Gunma",
+    "sort": "22234"
+  },
+  {
+    "city": "Minamata",
+    "admin": "Kumamoto",
+    "sort": "23155"
+  },
+  {
+    "city": "Mine",
+    "admin": "Yamaguchi",
+    "sort": "23236"
+  },
+  {
+    "city": "Gobō",
+    "admin": "Wakayama",
+    "sort": "22744"
+  },
+  {
+    "city": "Nakashunbetsu",
+    "admin": "Hokkaidō",
+    "sort": "23211"
+  },
+  {
+    "city": "Nikaho",
+    "admin": "Akita",
+    "sort": "22981"
+  },
+  {
+    "city": "Meiwa",
+    "admin": "Mie",
+    "sort": "22523"
+  },
+  {
+    "city": "Ōno",
+    "admin": "Gifu",
+    "sort": "22375"
+  },
+  {
+    "city": "Ayagawa",
+    "admin": "Kagawa",
+    "sort": "22730"
+  },
+  {
+    "city": "Mihama",
+    "admin": "Aichi",
+    "sort": "22440"
+  },
+  {
+    "city": "Gōtsuchō",
+    "admin": "Shimane",
+    "sort": "22838"
+  },
+  {
+    "city": "Uenohara",
+    "admin": "Kanagawa",
+    "sort": "22557"
+  },
+  {
+    "city": "Furukawa",
+    "admin": "Gifu",
+    "sort": "22585"
+  },
+  {
+    "city": "Yokoshibahikari",
+    "admin": "Chiba",
+    "sort": "22271"
+  },
+  {
+    "city": "Ōtsuki",
+    "admin": "Yamanashi",
+    "sort": "22356"
+  },
+  {
+    "city": "Takahata",
+    "admin": "Yamagata",
+    "sort": "22242"
+  },
+  {
+    "city": "Murayama",
+    "admin": "Yamagata",
+    "sort": "22222"
+  },
+  {
+    "city": "Honmachi",
+    "admin": "Fukui",
+    "sort": "22047"
+  },
+  {
+    "city": "Shiroishi",
+    "admin": "Saga",
+    "sort": "21902"
+  },
+  {
+    "city": "Bungotakada",
+    "admin": "Ōita",
+    "sort": "21901"
+  },
+  {
+    "city": "Shinhidaka",
+    "admin": "Hokkaidō",
+    "sort": "21873"
+  },
+  {
+    "city": "Fukuyoshi",
+    "admin": "Fukuoka",
+    "sort": "21360"
+  },
+  {
+    "city": "Yabu",
+    "admin": "Hyōgo",
+    "sort": "21813"
+  },
+  {
+    "city": "Mashiko",
+    "admin": "Tochigi",
+    "sort": "21621"
+  },
+  {
+    "city": "Etajima",
+    "admin": "Hiroshima",
+    "sort": "21557"
+  },
+  {
+    "city": "Kami",
+    "admin": "Miyagi",
+    "sort": "21666"
+  },
+  {
+    "city": "Aishō",
+    "admin": "Shiga",
+    "sort": "20913"
+  },
+  {
+    "city": "Matsuura",
+    "admin": "Nagasaki",
+    "sort": "21261"
+  },
+  {
+    "city": "Shisui",
+    "admin": "Chiba",
+    "sort": "20278"
+  },
+  {
+    "city": "Mobetsu",
+    "admin": "Hokkaidō",
+    "sort": "21317"
+  },
+  {
+    "city": "Yachiyo",
+    "admin": "Ibaraki",
+    "sort": "20838"
+  },
+  {
+    "city": "Hino",
+    "admin": "Shiga",
+    "sort": "20945"
+  },
+  {
+    "city": "Furano",
+    "admin": "Hokkaidō",
+    "sort": "21071"
+  },
+  {
+    "city": "Ino",
+    "admin": "Kōchi",
+    "sort": "20750"
+  },
+  {
+    "city": "Shimogamo",
+    "admin": "Shizuoka",
+    "sort": "20499"
+  },
+  {
+    "city": "Nishigō",
+    "admin": "Fukushima",
+    "sort": "20508"
+  },
+  {
+    "city": "Ryūyō",
+    "admin": "Shizuoka",
+    "sort": "19756"
+  },
+  {
+    "city": "Bibai",
+    "admin": "Hokkaidō",
+    "sort": "20507"
+  },
+  {
+    "city": "Susaki",
+    "admin": "Kōchi",
+    "sort": "20424"
+  },
+  {
+    "city": "Namegawa",
+    "admin": "Saitama",
+    "sort": "19885"
+  },
+  {
+    "city": "Sakae",
+    "admin": "Chiba",
+    "sort": "19902"
+  },
+  {
+    "city": "Tobe",
+    "admin": "Ehime",
+    "sort": "20290"
+  },
+  {
+    "city": "Takanabe",
+    "admin": "Miyazaki",
+    "sort": "20030"
+  },
+  {
+    "city": "Rumoi",
+    "admin": "Hokkaidō",
+    "sort": "20260"
+  },
+  {
+    "city": "Hirokawa",
+    "admin": "Fukuoka",
+    "sort": "19801"
+  },
+  {
+    "city": "Hakui",
+    "admin": "Ishikawa",
+    "sort": "20031"
+  },
+  {
+    "city": "Satsuma",
+    "admin": "Kagoshima",
+    "sort": "20093"
+  },
+  {
+    "city": "Fukagawa",
+    "admin": "Hokkaidō",
+    "sort": "20086"
+  },
+  {
+    "city": "Makurazaki",
+    "admin": "Kagoshima",
+    "sort": "19817"
+  },
+  {
+    "city": "Shirahama",
+    "admin": "Wakayama",
+    "sort": "19976"
+  },
+  {
+    "city": "Shōnai",
+    "admin": "Yamagata",
+    "sort": "19977"
+  },
+  {
+    "city": "Yosano",
+    "admin": "Kyōto",
+    "sort": "19726"
+  },
+  {
+    "city": "Echizen",
+    "admin": "Fukui",
+    "sort": "19708"
+  },
+  {
+    "city": "Kitatajima",
+    "admin": "Saitama",
+    "sort": "19362"
+  },
+  {
+    "city": "Karuizawa",
+    "admin": "Gunma",
+    "sort": "19648"
+  },
+  {
+    "city": "Taketa",
+    "admin": "Ōita",
+    "sort": "19688"
+  },
+  {
+    "city": "Fukusaki",
+    "admin": "Hyōgo",
+    "sort": "19143"
+  },
+  {
+    "city": "Ibigawa",
+    "admin": "Gifu",
+    "sort": "19519"
+  },
+  {
+    "city": "Gōdo",
+    "admin": "Gifu",
+    "sort": "18505"
+  },
+  {
+    "city": "Kushiro",
+    "admin": "Hokkaidō",
+    "sort": "19391"
+  },
+  {
+    "city": "Onga",
+    "admin": "Fukuoka",
+    "sort": "18609"
+  },
+  {
+    "city": "Mino",
+    "admin": "Gifu",
+    "sort": "19266"
+  },
+  {
+    "city": "Kamiichi",
+    "admin": "Toyama",
+    "sort": "19318"
+  },
+  {
+    "city": "Iiyama",
+    "admin": "Nagano",
+    "sort": "19279"
+  },
+  {
+    "city": "Mukaiengaru",
+    "admin": "Hokkaidō",
+    "sort": "19358"
+  },
+  {
+    "city": "Taka",
+    "admin": "Hyōgo",
+    "sort": "19227"
+  },
+  {
+    "city": "Ainan",
+    "admin": "Ehime",
+    "sort": "19131"
+  },
+  {
+    "city": "Mure",
+    "admin": "Kagawa",
+    "sort": "18108"
+  },
+  {
+    "city": "Sukumo",
+    "admin": "Kōchi",
+    "sort": "19124"
+  },
+  {
+    "city": "Arita",
+    "admin": "Saga",
+    "sort": "18867"
+  },
+  {
+    "city": "Akune",
+    "admin": "Kagoshima",
+    "sort": "19009"
+  },
+  {
+    "city": "Aizumisato",
+    "admin": "Fukushima",
+    "sort": "19078"
+  },
+  {
+    "city": "Shichigahama",
+    "admin": "Miyagi",
+    "sort": "17793"
+  },
+  {
+    "city": "Eiheiji",
+    "admin": "Fukui",
+    "sort": "18921"
+  },
+  {
+    "city": "Shimomura",
+    "admin": "Nagano",
+    "sort": "18801"
+  },
+  {
+    "city": "Motomachi",
+    "admin": "Hokkaidō",
+    "sort": "18943"
+  },
+  {
+    "city": "Heguri",
+    "admin": "Nara",
+    "sort": "18088"
+  },
+  {
+    "city": "Miyatoko",
+    "admin": "Fukuoka",
+    "sort": "18599"
+  },
+  {
+    "city": "Tatsuno",
+    "admin": "Nagano",
+    "sort": "18503"
+  },
+  {
+    "city": "Misato",
+    "admin": "Akita",
+    "sort": "18493"
+  },
+  {
+    "city": "Yoshimi",
+    "admin": "Saitama",
+    "sort": "18133"
+  },
+  {
+    "city": "Kunitomi",
+    "admin": "Miyazaki",
+    "sort": "18460"
+  },
+  {
+    "city": "Ranzan",
+    "admin": "Saitama",
+    "sort": "17954"
+  },
+  {
+    "city": "Toyono",
+    "admin": "Ōsaka",
+    "sort": "18011"
+  },
+  {
+    "city": "Kitanakagusuku",
+    "admin": "Okinawa",
+    "sort": "17038"
+  },
+  {
+    "city": "Taku",
+    "admin": "Saga",
+    "sort": "18215"
+  },
+  {
+    "city": "Yoichi",
+    "admin": "Hokkaidō",
+    "sort": "18252"
+  },
+  {
+    "city": "Memuro-minami",
+    "admin": "Hokkaidō",
+    "sort": "18329"
+  },
+  {
+    "city": "Shika",
+    "admin": "Ishikawa",
+    "sort": "18275"
+  },
+  {
+    "city": "Oyama",
+    "admin": "Kanagawa",
+    "sort": "18181"
+  },
+  {
+    "city": "Kishi",
+    "admin": "Kanagawa",
+    "sort": "18204"
+  },
+  {
+    "city": "Ōi",
+    "admin": "Kanagawa",
+    "sort": "17062"
+  },
+  {
+    "city": "Kiyama",
+    "admin": "Fukuoka",
+    "sort": "17455"
+  },
+  {
+    "city": "Rikuzen-Takata",
+    "admin": "Iwate",
+    "sort": "18153"
+  },
+  {
+    "city": "Minamishibetsuchō",
+    "admin": "Hokkaidō",
+    "sort": "18138"
+  },
+  {
+    "city": "Shirosato",
+    "admin": "Ibaraki",
+    "sort": "17916"
+  },
+  {
+    "city": "Mitake",
+    "admin": "Gifu",
+    "sort": "17536"
+  },
+  {
+    "city": "Kahoku",
+    "admin": "Yamagata",
+    "sort": "17435"
+  },
+  {
+    "city": "Kitahiroshima",
+    "admin": "Hiroshima",
+    "sort": "17669"
+  },
+  {
+    "city": "Hinode",
+    "admin": "Tōkyō",
+    "sort": "17016"
+  },
+  {
+    "city": "Toba",
+    "admin": "Mie",
+    "sort": "17421"
+  },
+  {
+    "city": "Ebino",
+    "admin": "Miyazaki",
+    "sort": "17508"
+  },
+  {
+    "city": "Shin-Kamigotō",
+    "admin": "Nagasaki",
+    "sort": "17479"
+  },
+  {
+    "city": "Miharu",
+    "admin": "Fukushima",
+    "sort": "17319"
+  },
+  {
+    "city": "Kadogawa",
+    "admin": "Miyazaki",
+    "sort": "17341"
+  },
+  {
+    "city": "Mori",
+    "admin": "Shizuoka",
+    "sort": "17333"
+  },
+  {
+    "city": "Mannō",
+    "admin": "Kagawa",
+    "sort": "17324"
+  },
+  {
+    "city": "Minakami",
+    "admin": "Gunma",
+    "sort": "17223"
+  },
+  {
+    "city": "Minamichita",
+    "admin": "Aichi",
+    "sort": "16805"
+  },
+  {
+    "city": "Tsuiki",
+    "admin": "Fukuoka",
+    "sort": "17067"
+  },
+  {
+    "city": "Yabuki",
+    "admin": "Fukushima",
+    "sort": "16823"
+  },
+  {
+    "city": "Kumage",
+    "admin": "Yamaguchi",
+    "sort": "16666"
+  },
+  {
+    "city": "Ōyodo",
+    "admin": "Nara",
+    "sort": "16469"
+  },
+  {
+    "city": "Katsuura",
+    "admin": "Chiba",
+    "sort": "16723"
+  },
+  {
+    "city": "Kushima",
+    "admin": "Miyazaki",
+    "sort": "16744"
+  },
+  {
+    "city": "Kawagoe",
+    "admin": "Mie",
+    "sort": "15048"
+  },
+  {
+    "city": "Shintomi",
+    "admin": "Miyazaki",
+    "sort": "16495"
+  },
+  {
+    "city": "Sunagawa",
+    "admin": "Hokkaidō",
+    "sort": "16513"
+  },
+  {
+    "city": "Yoshinogari",
+    "admin": "Saga",
+    "sort": "16324"
+  },
+  {
+    "city": "Miyazu",
+    "admin": "Kyōto",
+    "sort": "16564"
+  },
+  {
+    "city": "Mifune",
+    "admin": "Kumamoto",
+    "sort": "16468"
+  },
+  {
+    "city": "Nakanoto",
+    "admin": "Ishikawa",
+    "sort": "16442"
+  },
+  {
+    "city": "Nanbu",
+    "admin": "Aomori",
+    "sort": "16449"
+  },
+  {
+    "city": "Tōhoku",
+    "admin": "Aomori",
+    "sort": "16449"
+  },
+  {
+    "city": "Shiraoi",
+    "admin": "Hokkaidō",
+    "sort": "16364"
+  },
+  {
+    "city": "Ōarai",
+    "admin": "Ibaraki",
+    "sort": "15696"
+  },
+  {
+    "city": "Kumiyama",
+    "admin": "Kyōto",
+    "sort": "15200"
+  },
+  {
+    "city": "Kotoura",
+    "admin": "Tottori",
+    "sort": "16167"
+  },
+  {
+    "city": "Yurihama",
+    "admin": "Tottori",
+    "sort": "15972"
+  },
+  {
+    "city": "Owase",
+    "admin": "Mie",
+    "sort": "16079"
+  },
+  {
+    "city": "Aki",
+    "admin": "Kōchi",
+    "sort": "16090"
+  },
+  {
+    "city": "Minamiminowa",
+    "admin": "Nagano",
+    "sort": "15727"
+  },
+  {
+    "city": "Kanan",
+    "admin": "Ōsaka",
+    "sort": "15497"
+  },
+  {
+    "city": "Nagasu",
+    "admin": "Kumamoto",
+    "sort": "15299"
+  },
+  {
+    "city": "Tachiarai",
+    "admin": "Fukuoka",
+    "sort": "15387"
+  },
+  {
+    "city": "Tsukumiura",
+    "admin": "Ōita",
+    "sort": "15664"
+  },
+  {
+    "city": "Gonohe",
+    "admin": "Aomori",
+    "sort": "15761"
+  },
+  {
+    "city": "Kumano",
+    "admin": "Mie",
+    "sort": "15806"
+  },
+  {
+    "city": "Miyota",
+    "admin": "Nagano",
+    "sort": "15494"
+  },
+  {
+    "city": "Matsushige",
+    "admin": "Tokushima",
+    "sort": "14723"
+  },
+  {
+    "city": "Kasumi",
+    "admin": "Hyōgo",
+    "sort": "15704"
+  },
+  {
+    "city": "Yazu",
+    "admin": "Tottori",
+    "sort": "15642"
+  },
+  {
+    "city": "Yakumo",
+    "admin": "Hokkaidō",
+    "sort": "15674"
+  },
+  {
+    "city": "Ashikita",
+    "admin": "Kumamoto",
+    "sort": "15621"
+  },
+  {
+    "city": "Kasagi",
+    "admin": "Wakayama",
+    "sort": "15565"
+  },
+  {
+    "city": "Tōbetsu",
+    "admin": "Hokkaidō",
+    "sort": "15618"
+  },
+  {
+    "city": "Tone",
+    "admin": "Ibaraki",
+    "sort": "15035"
+  },
+  {
+    "city": "Shizukuishi",
+    "admin": "Iwate",
+    "sort": "15589"
+  },
+  {
+    "city": "Shimanto",
+    "admin": "Kōchi",
+    "sort": "15540"
+  },
+  {
+    "city": "Sayō",
+    "admin": "Hyōgo",
+    "sort": "15508"
+  },
+  {
+    "city": "Kawasaki",
+    "admin": "Fukuoka",
+    "sort": "15134"
+  },
+  {
+    "city": "Daigo",
+    "admin": "Ibaraki",
+    "sort": "15491"
+  },
+  {
+    "city": "Tamaki",
+    "admin": "Mie",
+    "sort": "15113"
+  },
+  {
+    "city": "Kanegasaki",
+    "admin": "Iwate",
+    "sort": "15337"
+  },
+  {
+    "city": "Daisen",
+    "admin": "Tottori",
+    "sort": "15336"
+  },
+  {
+    "city": "Wakuya",
+    "admin": "Miyagi",
+    "sort": "15177"
+  },
+  {
+    "city": "Noto",
+    "admin": "Ishikawa",
+    "sort": "15280"
+  },
+  {
+    "city": "Kurate",
+    "admin": "Fukuoka",
+    "sort": "14901"
+  },
+  {
+    "city": "Kawaminami",
+    "admin": "Miyazaki",
+    "sort": "15151"
+  },
+  {
+    "city": "Kamitonda",
+    "admin": "Wakayama",
+    "sort": "15040"
+  },
+  {
+    "city": "Kujūkuri",
+    "admin": "Chiba",
+    "sort": "14652"
+  },
+  {
+    "city": "Uchiko",
+    "admin": "Ehime",
+    "sort": "15191"
+  },
+  {
+    "city": "Nakanojōmachi",
+    "admin": "Gunma",
+    "sort": "15186"
+  },
+  {
+    "city": "Kutchan",
+    "admin": "Hokkaidō",
+    "sort": "15123"
+  },
+  {
+    "city": "Anpachi",
+    "admin": "Gifu",
+    "sort": "14330"
+  },
+  {
+    "city": "Aizubange",
+    "admin": "Fukushima",
+    "sort": "14906"
+  },
+  {
+    "city": "Haga",
+    "admin": "Tochigi",
+    "sort": "14833"
+  },
+  {
+    "city": "Mitane",
+    "admin": "Akita",
+    "sort": "14944"
+  },
+  {
+    "city": "Nakagawa",
+    "admin": "Tochigi",
+    "sort": "14921"
+  },
+  {
+    "city": "Sera",
+    "admin": "Hiroshima",
+    "sort": "14878"
+  },
+  {
+    "city": "Misaki",
+    "admin": "Ōsaka",
+    "sort": "14629"
+  },
+  {
+    "city": "Mori",
+    "admin": "Hokkaidō",
+    "sort": "14851"
+  },
+  {
+    "city": "Fujisaki",
+    "admin": "Aomori",
+    "sort": "14478"
+  },
+  {
+    "city": "Betsukai",
+    "admin": "Hokkaidō",
+    "sort": "14828"
+  },
+  {
+    "city": "Hirono",
+    "admin": "Iwate",
+    "sort": "14757"
+  },
+  {
+    "city": "Tabuse",
+    "admin": "Yamaguchi",
+    "sort": "14515"
+  },
+  {
+    "city": "Obanazawa",
+    "admin": "Yamagata",
+    "sort": "14760"
+  },
+  {
+    "city": "Kushimoto",
+    "admin": "Wakayama",
+    "sort": "14661"
+  },
+  {
+    "city": "Nishinoomote",
+    "admin": "Kagoshima",
+    "sort": "14694"
+  },
+  {
+    "city": "Ashiya",
+    "admin": "Fukuoka",
+    "sort": "13559"
+  },
+  {
+    "city": "Suō-Ōshima",
+    "admin": "Yamaguchi",
+    "sort": "14605"
+  },
+  {
+    "city": "Shintō",
+    "admin": "Gunma",
+    "sort": "14193"
+  },
+  {
+    "city": "Ichikawamisato",
+    "admin": "Yamanashi",
+    "sort": "14458"
+  },
+  {
+    "city": "Ōki",
+    "admin": "Fukuoka",
+    "sort": "13847"
+  },
+  {
+    "city": "Hasami",
+    "admin": "Nagasaki",
+    "sort": "14332"
+  },
+  {
+    "city": "Miho",
+    "admin": "Ibaraki",
+    "sort": "14355"
+  },
+  {
+    "city": "Asagiri",
+    "admin": "Kumamoto",
+    "sort": "14448"
+  },
+  {
+    "city": "Kihoku",
+    "admin": "Mie",
+    "sort": "14392"
+  },
+  {
+    "city": "Yamada",
+    "admin": "Iwate",
+    "sort": "14388"
+  },
+  {
+    "city": "Itakura",
+    "admin": "Gunma",
+    "sort": "14039"
+  },
+  {
+    "city": "Furukawamen",
+    "admin": "Nagasaki",
+    "sort": "13942"
+  },
+  {
+    "city": "Tsukawaki",
+    "admin": "Ōita",
+    "sort": "14306"
+  },
+  {
+    "city": "Ishikawa",
+    "admin": "Fukushima",
+    "sort": "14222"
+  },
+  {
+    "city": "Taki",
+    "admin": "Mie",
+    "sort": "14160"
+  },
+  {
+    "city": "Kawaii",
+    "admin": "Yamagata",
+    "sort": "14196"
+  },
+  {
+    "city": "Shichinohe",
+    "admin": "Aomori",
+    "sort": "14217"
+  },
+  {
+    "city": "Hokuei",
+    "admin": "Tottori",
+    "sort": "14010"
+  },
+  {
+    "city": "Hayashima",
+    "admin": "Okayama",
+    "sort": "12584"
+  },
+  {
+    "city": "Sakaki",
+    "admin": "Nagano",
+    "sort": "13967"
+  },
+  {
+    "city": "Minamiaizu",
+    "admin": "Fukushima",
+    "sort": "14204"
+  },
+  {
+    "city": "Seirō",
+    "admin": "Niigata",
+    "sort": "13823"
+  },
+  {
+    "city": "Kadena",
+    "admin": "Okinawa",
+    "sort": "13301"
+  },
+  {
+    "city": "Kakunodatemachi",
+    "admin": "Akita",
+    "sort": "14138"
+  },
+  {
+    "city": "Kisanuki",
+    "admin": "Kagoshima",
+    "sort": "14114"
+  },
+  {
+    "city": "Chōsei",
+    "admin": "Chiba",
+    "sort": "13656"
+  },
+  {
+    "city": "Fujikawa",
+    "admin": "Yamanashi",
+    "sort": "14004"
+  },
+  {
+    "city": "Taishi",
+    "admin": "Ōsaka",
+    "sort": "13092"
+  },
+  {
+    "city": "Nachikatsuura",
+    "admin": "Wakayama",
+    "sort": "13930"
+  },
+  {
+    "city": "Tako",
+    "admin": "Chiba",
+    "sort": "13804"
+  },
+  {
+    "city": "Wakasa",
+    "admin": "Fukui",
+    "sort": "13867"
+  },
+  {
+    "city": "Fujimi",
+    "admin": "Nagano",
+    "sort": "13844"
+  },
+  {
+    "city": "Kamigōri",
+    "admin": "Hyōgo",
+    "sort": "13835"
+  },
+  {
+    "city": "Higashimiyoshi",
+    "admin": "Tokushima",
+    "sort": "13776"
+  },
+  {
+    "city": "Hatoyama",
+    "admin": "Saitama",
+    "sort": "13365"
+  },
+  {
+    "city": "Yamanobe",
+    "admin": "Yamagata",
+    "sort": "13610"
+  },
+  {
+    "city": "Shōdoshima",
+    "admin": "Kagawa",
+    "sort": "13646"
+  },
+  {
+    "city": "Chiran",
+    "admin": "Kagoshima",
+    "sort": "13667"
+  },
+  {
+    "city": "Tarumizu",
+    "admin": "Kagoshima",
+    "sort": "13688"
+  },
+  {
+    "city": "Kawatana",
+    "admin": "Nagasaki",
+    "sort": "13370"
+  },
+  {
+    "city": "Okinoshima",
+    "admin": "Shimane",
+    "sort": "13595"
+  },
+  {
+    "city": "Ugo",
+    "admin": "Akita",
+    "sort": "13547"
+  },
+  {
+    "city": "Keisen",
+    "admin": "Fukuoka",
+    "sort": "12876"
+  },
+  {
+    "city": "Wake",
+    "admin": "Okayama",
+    "sort": "13373"
+  },
+  {
+    "city": "Itano",
+    "admin": "Tokushima",
+    "sort": "13087"
+  },
+  {
+    "city": "Inawashiro",
+    "admin": "Fukushima",
+    "sort": "13403"
+  },
+  {
+    "city": "Saka",
+    "admin": "Hiroshima",
+    "sort": "12611"
+  },
+  {
+    "city": "Matsushima",
+    "admin": "Miyagi",
+    "sort": "13151"
+  },
+  {
+    "city": "Tōnoshō",
+    "admin": "Chiba",
+    "sort": "13085"
+  },
+  {
+    "city": "Yakage",
+    "admin": "Okayama",
+    "sort": "13218"
+  },
+  {
+    "city": "Kamikawa",
+    "admin": "Saitama",
+    "sort": "13077"
+  },
+  {
+    "city": "Tanagura",
+    "admin": "Fukushima",
+    "sort": "13264"
+  },
+  {
+    "city": "Hashikami",
+    "admin": "Aomori",
+    "sort": "13176"
+  },
+  {
+    "city": "Motobu",
+    "admin": "Okinawa",
+    "sort": "13073"
+  },
+  {
+    "city": "Shin'onsen",
+    "admin": "Hyōgo",
+    "sort": "13213"
+  },
+  {
+    "city": "Yamato",
+    "admin": "Kumamoto",
+    "sort": "13210"
+  },
+  {
+    "city": "Tonoshō",
+    "admin": "Kagawa",
+    "sort": "12915"
+  },
+  {
+    "city": "Itayanagi",
+    "admin": "Aomori",
+    "sort": "12681"
+  },
+  {
+    "city": "Yuza",
+    "admin": "Yamagata",
+    "sort": "12895"
+  },
+  {
+    "city": "Misaki",
+    "admin": "Okayama",
+    "sort": "12889"
+  },
+  {
+    "city": "Takamori",
+    "admin": "Nagano",
+    "sort": "12650"
+  },
+  {
+    "city": "Asahi",
+    "admin": "Mie",
+    "sort": "11070"
+  },
+  {
+    "city": "Suzu",
+    "admin": "Ishikawa",
+    "sort": "12746"
+  },
+  {
+    "city": "Ashibetsu",
+    "admin": "Hokkaidō",
+    "sort": "12775"
+  },
+  {
+    "city": "Kanra",
+    "admin": "Gunma",
+    "sort": "12567"
+  },
+  {
+    "city": "Kyōtamba",
+    "admin": "Kyōto",
+    "sort": "12714"
+  },
+  {
+    "city": "Shirataka",
+    "admin": "Yamagata",
+    "sort": "12663"
+  },
+  {
+    "city": "Kasaishi",
+    "admin": "Fukushima",
+    "sort": "12282"
+  },
+  {
+    "city": "Kawamata",
+    "admin": "Fukushima",
+    "sort": "12537"
+  },
+  {
+    "city": "Matsukawa",
+    "admin": "Nagano",
+    "sort": "12435"
+  },
+  {
+    "city": "Nobeji",
+    "admin": "Aomori",
+    "sort": "12352"
+  },
+  {
+    "city": "Tsuruta",
+    "admin": "Aomori",
+    "sort": "12211"
+  },
+  {
+    "city": "Higashiagatsuma",
+    "admin": "Gunma",
+    "sort": "12356"
+  },
+  {
+    "city": "Marumori",
+    "admin": "Miyagi",
+    "sort": "12251"
+  },
+  {
+    "city": "Sakawa",
+    "admin": "Kōchi",
+    "sort": "12170"
+  },
+  {
+    "city": "Ōsako",
+    "admin": "Kagoshima",
+    "sort": "12092"
+  },
+  {
+    "city": "Hirao",
+    "admin": "Yamaguchi",
+    "sort": "11831"
+  },
+  {
+    "city": "Hōdatsushimizu",
+    "admin": "Ishikawa",
+    "sort": "12061"
+  },
+  {
+    "city": "Iwanai",
+    "admin": "Hokkaidō",
+    "sort": "11982"
+  },
+  {
+    "city": "Ichinomiya",
+    "admin": "Chiba",
+    "sort": "11622"
+  },
+  {
+    "city": "Iwate",
+    "admin": "Iwate",
+    "sort": "12078"
+  },
+  {
+    "city": "Ryūō",
+    "admin": "Shiga",
+    "sort": "11821"
+  },
+  {
+    "city": "Urakawa",
+    "admin": "Hokkaidō",
+    "sort": "11998"
+  },
+  {
+    "city": "Tosashimizu",
+    "admin": "Kōchi",
+    "sort": "11925"
+  },
+  {
+    "city": "Yamamoto",
+    "admin": "Miyagi",
+    "sort": "11736"
+  },
+  {
+    "city": "Kagamino",
+    "admin": "Okayama",
+    "sort": "11882"
+  },
+  {
+    "city": "Satoshō",
+    "admin": "Okayama",
+    "sort": "10969"
+  },
+  {
+    "city": "Yakushima",
+    "admin": "Kagoshima",
+    "sort": "11829"
+  },
+  {
+    "city": "Kamiita",
+    "admin": "Tokushima",
+    "sort": "11370"
+  },
+  {
+    "city": "Motegi",
+    "admin": "Tochigi",
+    "sort": "11631"
+  },
+  {
+    "city": "Mitai",
+    "admin": "Miyazaki",
+    "sort": "11642"
+  },
+  {
+    "city": "Koori",
+    "admin": "Fukushima",
+    "sort": "11425"
+  },
+  {
+    "city": "Minabe",
+    "admin": "Wakayama",
+    "sort": "11594"
+  },
+  {
+    "city": "Hidaka",
+    "admin": "Hokkaidō",
+    "sort": "11648"
+  },
+  {
+    "city": "Okuizumo",
+    "admin": "Shimane",
+    "sort": "11570"
+  },
+  {
+    "city": "Muroto-misakicho",
+    "admin": "Kōchi",
+    "sort": "11543"
+  },
+  {
+    "city": "Yuasa",
+    "admin": "Wakayama",
+    "sort": "11038"
+  },
+  {
+    "city": "Tagami",
+    "admin": "Niigata",
+    "sort": "11200"
+  },
+  {
+    "city": "Kin",
+    "admin": "Okinawa",
+    "sort": "11252"
+  },
+  {
+    "city": "Higashiizu",
+    "admin": "Shizuoka",
+    "sort": "11389"
+  },
+  {
+    "city": "Kuriyama",
+    "admin": "Hokkaidō",
+    "sort": "11474"
+  },
+  {
+    "city": "Zaō",
+    "admin": "Miyagi",
+    "sort": "11360"
+  },
+  {
+    "city": "Ichikai",
+    "admin": "Tochigi",
+    "sort": "11205"
+  },
+  {
+    "city": "Ichinohe",
+    "admin": "Iwate",
+    "sort": "11296"
+  },
+  {
+    "city": "Chiyoda",
+    "admin": "Gunma",
+    "sort": "10831"
+  },
+  {
+    "city": "Honmachi",
+    "admin": "Hokkaidō",
+    "sort": "11302"
+  },
+  {
+    "city": "Meiwa",
+    "admin": "Gunma",
+    "sort": "10714"
+  },
+  {
+    "city": "Ogose",
+    "admin": "Saitama",
+    "sort": "10905"
+  },
+  {
+    "city": "Ichikawa",
+    "admin": "Hyōgo",
+    "sort": "11023"
+  },
+  {
+    "city": "Yamanouchi",
+    "admin": "Nagano",
+    "sort": "11106"
+  },
+  {
+    "city": "Nakagawa",
+    "admin": "Tokushima",
+    "sort": "10576"
+  },
+  {
+    "city": "Hikawadai",
+    "admin": "Kumamoto",
+    "sort": "11038"
+  },
+  {
+    "city": "Shōō",
+    "admin": "Okayama",
+    "sort": "10933"
+  },
+  {
+    "city": "Miyato",
+    "admin": "Gunma",
+    "sort": "10783"
+  },
+  {
+    "city": "Onna",
+    "admin": "Okinawa",
+    "sort": "10852"
+  },
+  {
+    "city": "Obuse",
+    "admin": "Nagano",
+    "sort": "10510"
+  },
+  {
+    "city": "Hakone",
+    "admin": "Kanagawa",
+    "sort": "10925"
+  },
+  {
+    "city": "Minamiise",
+    "admin": "Mie",
+    "sort": "10926"
+  },
+  {
+    "city": "Matsuda-sōryō",
+    "admin": "Kanagawa",
+    "sort": "10682"
+  },
+  {
+    "city": "Minamisanriku",
+    "admin": "Miyagi",
+    "sort": "10896"
+  },
+  {
+    "city": "Asahi",
+    "admin": "Toyama",
+    "sort": "10852"
+  },
+  {
+    "city": "Ogano",
+    "admin": "Saitama",
+    "sort": "10751"
+  },
+  {
+    "city": "Ōtsuchi",
+    "admin": "Iwate",
+    "sort": "10719"
+  },
+  {
+    "city": "Iwai",
+    "admin": "Tottori",
+    "sort": "10675"
+  },
+  {
+    "city": "Nakayama",
+    "admin": "Yamagata",
+    "sort": "10617"
+  },
+  {
+    "city": "Tokigawa",
+    "admin": "Saitama",
+    "sort": "10470"
+  },
+  {
+    "city": "Shirako",
+    "admin": "Chiba",
+    "sort": "10280"
+  },
+  {
+    "city": "Murata",
+    "admin": "Miyagi",
+    "sort": "10506"
+  },
+  {
+    "city": "Kamikawa",
+    "admin": "Hyōgo",
+    "sort": "10557"
+  },
+  {
+    "city": "Rokunohe",
+    "admin": "Aomori",
+    "sort": "10473"
+  },
+  {
+    "city": "Naganuma",
+    "admin": "Hokkaidō",
+    "sort": "10515"
+  },
+  {
+    "city": "Hōki",
+    "admin": "Tottori",
+    "sort": "10491"
+  },
+  {
+    "city": "Kamifurano",
+    "admin": "Hokkaidō",
+    "sort": "10500"
+  },
+  {
+    "city": "Kihō",
+    "admin": "Mie",
+    "sort": "10404"
+  },
+  {
+    "city": "Kibichūō",
+    "admin": "Okayama",
+    "sort": "10495"
+  },
+  {
+    "city": "Minobu",
+    "admin": "Yamanashi",
+    "sort": "10440"
+  },
+  {
+    "city": "Kiso",
+    "admin": "Nagano",
+    "sort": "10429"
+  },
+  {
+    "city": "Nanbu",
+    "admin": "Tottori",
+    "sort": "10275"
+  },
+  {
+    "city": "Minamiaso",
+    "admin": "Kumamoto",
+    "sort": "10212"
+  },
+  {
+    "city": "Higashikagura",
+    "admin": "Hokkaidō",
+    "sort": "10152"
+  },
+  {
+    "city": "Tokunoshima",
+    "admin": "Okinawa",
+    "sort": "10194"
+  },
+  {
+    "city": "Iizuna",
+    "admin": "Nagano",
+    "sort": "10134"
+  },
+  {
+    "city": "Nishi",
+    "admin": "Kumamoto",
+    "sort": "10121"
+  },
+  {
+    "city": "Shioya",
+    "admin": "Tochigi",
+    "sort": "10152"
+  },
+  {
+    "city": "Kushijima",
+    "admin": "Kumamoto",
+    "sort": "9624"
+  },
+  {
+    "city": "Takahama",
+    "admin": "Fukui",
+    "sort": "10047"
+  },
+  {
+    "city": "Kawara",
+    "admin": "Fukuoka",
+    "sort": "9955"
+  },
+  {
+    "city": "Yaotsu",
+    "admin": "Gifu",
+    "sort": "10070"
+  },
+  {
+    "city": "Rokkasho",
+    "admin": "Aomori",
+    "sort": "10099"
+  },
+  {
+    "city": "Iwashita",
+    "admin": "Kumamoto",
+    "sort": "9963"
+  },
+  {
+    "city": "Kuroshio",
+    "admin": "Kōchi",
+    "sort": "10073"
+  },
+  {
+    "city": "Ōnan",
+    "admin": "Shimane",
+    "sort": "10086"
+  },
+  {
+    "city": "Sakuho",
+    "admin": "Nagano",
+    "sort": "10042"
+  },
+  {
+    "city": "Tsunō",
+    "admin": "Miyazaki",
+    "sort": "9972"
+  },
+  {
+    "city": "Kami-kawabe",
+    "admin": "Gifu",
+    "sort": "9784"
+  },
+  {
+    "city": "Hiranai",
+    "admin": "Aomori",
+    "sort": "9964"
+  },
+  {
+    "city": "Biei",
+    "admin": "Hokkaidō",
+    "sort": "9775"
+  },
+  {
+    "city": "Nakao",
+    "admin": "Kanagawa",
+    "sort": "9272"
+  },
+  {
+    "city": "Akabira",
+    "admin": "Hokkaidō",
+    "sort": "9644"
+  },
+  {
+    "city": "Kawanishichō",
+    "admin": "Nara",
+    "sort": "8303"
+  },
+  {
+    "city": "Yamakita",
+    "admin": "Kanagawa",
+    "sort": "9530"
+  },
+  {
+    "city": "Ikeda",
+    "admin": "Nagano",
+    "sort": "9292"
+  },
+  {
+    "city": "Nakoushi",
+    "admin": "Okinawa",
+    "sort": "9275"
+  },
+  {
+    "city": "Minano",
+    "admin": "Saitama",
+    "sort": "9338"
+  },
+  {
+    "city": "Shimizu",
+    "admin": "Hokkaidō",
+    "sort": "9305"
+  },
+  {
+    "city": "Hirayama",
+    "admin": "Fukuoka",
+    "sort": "8986"
+  },
+  {
+    "city": "Fujisawachō-niinuma",
+    "admin": "Iwate",
+    "sort": "9112"
+  },
+  {
+    "city": "Nagaoki",
+    "admin": "Kumamoto",
+    "sort": "9092"
+  },
+  {
+    "city": "Iijima",
+    "admin": "Nagano",
+    "sort": "9038"
+  },
+  {
+    "city": "Sekimachi",
+    "admin": "Kumamoto",
+    "sort": "8821"
+  },
+  {
+    "city": "Taragi",
+    "admin": "Kumamoto",
+    "sort": "8800"
+  },
+  {
+    "city": "Soeda",
+    "admin": "Fukuoka",
+    "sort": "8786"
+  },
+  {
+    "city": "Ōtaki",
+    "admin": "Chiba",
+    "sort": "8762"
+  },
+  {
+    "city": "Miyada",
+    "admin": "Nagano",
+    "sort": "8616"
+  },
+  {
+    "city": "Nishiōwa",
+    "admin": "Saitama",
+    "sort": "6731"
+  },
+  {
+    "city": "Hakubachō",
+    "admin": "Nagano",
+    "sort": "8621"
+  },
+  {
+    "city": "Takaharu",
+    "admin": "Miyazaki",
+    "sort": "8511"
+  },
+  {
+    "city": "Iwaizumi",
+    "admin": "Iwate",
+    "sort": "8549"
+  },
+  {
+    "city": "Ōwani",
+    "admin": "Aomori",
+    "sort": "8442"
+  },
+  {
+    "city": "Ikata-chō",
+    "admin": "Ehime",
+    "sort": "8253"
+  },
+  {
+    "city": "Karumai",
+    "admin": "Iwate",
+    "sort": "8224"
+  },
+  {
+    "city": "Hanawa",
+    "admin": "Fukushima",
+    "sort": "8209"
+  },
+  {
+    "city": "Mikasa",
+    "admin": "Hokkaidō",
+    "sort": "8153"
+  },
+  {
+    "city": "Tara",
+    "admin": "Saga",
+    "sort": "7903"
+  },
+  {
+    "city": "Yahiko",
+    "admin": "Niigata",
+    "sort": "7655"
+  },
+  {
+    "city": "Yuzawa",
+    "admin": "Niigata",
+    "sort": "7919"
+  },
+  {
+    "city": "Ide",
+    "admin": "Kyōto",
+    "sort": "7453"
+  },
+  {
+    "city": "Manazuru",
+    "admin": "Kanagawa",
+    "sort": "6724"
+  },
+  {
+    "city": "Inakadate",
+    "admin": "Aomori",
+    "sort": "7335"
+  },
+  {
+    "city": "Abira",
+    "admin": "Hokkaidō",
+    "sort": "7569"
+  },
+  {
+    "city": "Kotake",
+    "admin": "Fukuoka",
+    "sort": "7078"
+  },
+  {
+    "city": "Setana",
+    "admin": "Hokkaidō",
+    "sort": "7564"
+  },
+  {
+    "city": "Nakata",
+    "admin": "Kagoshima",
+    "sort": "7514"
+  },
+  {
+    "city": "Inami",
+    "admin": "Wakayama",
+    "sort": "7496"
+  },
+  {
+    "city": "Shiranuka",
+    "admin": "Hokkaidō",
+    "sort": "7539"
+  },
+  {
+    "city": "Chōnan",
+    "admin": "Chiba",
+    "sort": "7368"
+  },
+  {
+    "city": "Yūbari",
+    "admin": "Hokkaidō",
+    "sort": "7430"
+  },
+  {
+    "city": "Shibecha",
+    "admin": "Hokkaidō",
+    "sort": "7422"
+  },
+  {
+    "city": "Esashi",
+    "admin": "Hokkaidō",
+    "sort": "7310"
+  },
+  {
+    "city": "Taga",
+    "admin": "Shiga",
+    "sort": "7237"
+  },
+  {
+    "city": "Hiraizumi",
+    "admin": "Iwate",
+    "sort": "7178"
+  },
+  {
+    "city": "Naka",
+    "admin": "Tokushima",
+    "sort": "7252"
+  },
+  {
+    "city": "Fukaura",
+    "admin": "Aomori",
+    "sort": "7191"
+  },
+  {
+    "city": "Onishi",
+    "admin": "Saitama",
+    "sort": "7011"
+  },
+  {
+    "city": "Nambu",
+    "admin": "Yamanashi",
+    "sort": "7057"
+  },
+  {
+    "city": "Shibayama",
+    "admin": "Chiba",
+    "sort": "6916"
+  },
+  {
+    "city": "Shinmachi",
+    "admin": "Chiba",
+    "sort": "6769"
+  },
+  {
+    "city": "Ogunimachi",
+    "admin": "Yamagata",
+    "sort": "6939"
+  },
+  {
+    "city": "Teshikaga",
+    "admin": "Hokkaidō",
+    "sort": "6937"
+  },
+  {
+    "city": "Aya",
+    "admin": "Miyazaki",
+    "sort": "6867"
+  },
+  {
+    "city": "Nagatoro",
+    "admin": "Saitama",
+    "sort": "6643"
+  },
+  {
+    "city": "Sekigahara",
+    "admin": "Gifu",
+    "sort": "6701"
+  },
+  {
+    "city": "Nagaya",
+    "admin": "Chiba",
+    "sort": "6664"
+  },
+  {
+    "city": "Fukuyama",
+    "admin": "Hokkaidō",
+    "sort": "6754"
+  },
+  {
+    "city": "Kamihonbetsu",
+    "admin": "Hokkaidō",
+    "sort": "6735"
+  },
+  {
+    "city": "Kōchi",
+    "admin": "Shizuoka",
+    "sort": "6684"
+  },
+  {
+    "city": "Ōmachi",
+    "admin": "Saga",
+    "sort": "6156"
+  },
+  {
+    "city": "Ashoro",
+    "admin": "Hokkaidō",
+    "sort": "6684"
+  },
+  {
+    "city": "Shikama",
+    "admin": "Miyagi",
+    "sort": "6580"
+  },
+  {
+    "city": "Nishiharadai",
+    "admin": "Kumamoto",
+    "sort": "6507"
+  },
+  {
+    "city": "Hiroo",
+    "admin": "Hokkaidō",
+    "sort": "6547"
+  },
+  {
+    "city": "Waki",
+    "admin": "Hiroshima",
+    "sort": "5984"
+  },
+  {
+    "city": "Ōishida",
+    "admin": "Yamagata",
+    "sort": "6417"
+  },
+  {
+    "city": "Higashikyōshin",
+    "admin": "Kagoshima",
+    "sort": "6188"
+  },
+  {
+    "city": "Tōma",
+    "admin": "Hokkaidō",
+    "sort": "6371"
+  },
+  {
+    "city": "Wadomari",
+    "admin": "Okinawa",
+    "sort": "6233"
+  },
+  {
+    "city": "Shimonita",
+    "admin": "Gunma",
+    "sort": "6338"
+  },
+  {
+    "city": "Chizu",
+    "admin": "Tottori",
+    "sort": "6332"
+  },
+  {
+    "city": "Izumizaki",
+    "admin": "Fukushima",
+    "sort": "6171"
+  },
+  {
+    "city": "Kusatsu",
+    "admin": "Gunma",
+    "sort": "6058"
+  },
+  {
+    "city": "Asakawa",
+    "admin": "Fukushima",
+    "sort": "6018"
+  },
+  {
+    "city": "Yoshinoyama",
+    "admin": "Nara",
+    "sort": "6101"
+  },
+  {
+    "city": "Ginoza",
+    "admin": "Okinawa",
+    "sort": "5900"
+  },
+  {
+    "city": "Isen",
+    "admin": "Okinawa",
+    "sort": "5958"
+  },
+  {
+    "city": "Shihoro",
+    "admin": "Hokkaidō",
+    "sort": "6027"
+  },
+  {
+    "city": "Matsuzaki",
+    "admin": "Shizuoka",
+    "sort": "5932"
+  },
+  {
+    "city": "Kōzaki",
+    "admin": "Ibaraki",
+    "sort": "5663"
+  },
+  {
+    "city": "Shintoku",
+    "admin": "Hokkaidō",
+    "sort": "5834"
+  },
+  {
+    "city": "Ōhira",
+    "admin": "Miyagi",
+    "sort": "5739"
+  },
+  {
+    "city": "Tatsugō",
+    "admin": "Okinawa",
+    "sort": "5753"
+  },
+  {
+    "city": "China",
+    "admin": "Okinawa",
+    "sort": "5686"
+  },
+  {
+    "city": "Takamori",
+    "admin": "Kumamoto",
+    "sort": "5724"
+  },
+  {
+    "city": "Onagawa",
+    "admin": "Miyagi",
+    "sort": "5662"
+  },
+  {
+    "city": "Hamanaka-sakuraminami",
+    "admin": "Hokkaidō",
+    "sort": "5674"
+  },
+  {
+    "city": "Amagi",
+    "admin": "Okinawa",
+    "sort": "5465"
+  },
+  {
+    "city": "Hachirougata",
+    "admin": "Akita",
+    "sort": "5445"
+  },
+  {
+    "city": "Kuzumaki",
+    "admin": "Iwate",
+    "sort": "5467"
+  },
+  {
+    "city": "Asuka",
+    "admin": "Nara",
+    "sort": "5241"
+  },
+  {
+    "city": "Taiki",
+    "admin": "Hokkaidō",
+    "sort": "5449"
+  },
+  {
+    "city": "Takae",
+    "admin": "Hokkaidō",
+    "sort": "5395"
+  },
+  {
+    "city": "Naie",
+    "admin": "Hokkaidō",
+    "sort": "5235"
+  },
+  {
+    "city": "Yamanaka",
+    "admin": "Yamanashi",
+    "sort": "5170"
+  },
+  {
+    "city": "Ochi",
+    "admin": "Kōchi",
+    "sort": "5111"
+  },
+  {
+    "city": "Shibetsu",
+    "admin": "Hokkaidō",
+    "sort": "5123"
+  },
+  {
+    "city": "Oshamambe",
+    "admin": "Hokkaidō",
+    "sort": "5112"
+  },
+  {
+    "city": "Kaneyama",
+    "admin": "Yamagata",
+    "sort": "5045"
+  },
+  {
+    "city": "Naganohara",
+    "admin": "Gunma",
+    "sort": "5026"
+  },
+  {
+    "city": "Imagane",
+    "admin": "Hokkaidō",
+    "sort": "5052"
+  }
+]

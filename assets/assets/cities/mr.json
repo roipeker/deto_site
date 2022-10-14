@@ -1,0 +1,112 @@
+[
+  {
+    "city": "Nouakchott",
+    "admin": "",
+    "sort": "1077169"
+  },
+  {
+    "city": "Néma",
+    "admin": "Hodh ech Chargui",
+    "sort": "200000"
+  },
+  {
+    "city": "Nouadhibou",
+    "admin": "Dakhlet Nouadhibou",
+    "sort": "118000"
+  },
+  {
+    "city": "Kiffa",
+    "admin": "Assaba",
+    "sort": "110714"
+  },
+  {
+    "city": "Zouerate",
+    "admin": "Tiris Zemmour",
+    "sort": "56345"
+  },
+  {
+    "city": "Rosso",
+    "admin": "Trarza",
+    "sort": "47203"
+  },
+  {
+    "city": "Atar",
+    "admin": "Adrar",
+    "sort": "24021"
+  },
+  {
+    "city": "Tidjikja",
+    "admin": "Tagant",
+    "sort": "19981"
+  },
+  {
+    "city": "Arafat",
+    "admin": "Nouakchott Sud",
+    "sort": ""
+  },
+  {
+    "city": "Aleg",
+    "admin": "Brakna",
+    "sort": "8388"
+  },
+  {
+    "city": "Tevragh Zeina",
+    "admin": "Nouakchott Ouest",
+    "sort": ""
+  },
+  {
+    "city": "Dar Naim",
+    "admin": "Nouakchott Nord",
+    "sort": ""
+  },
+  {
+    "city": "Aioun",
+    "admin": "Hodh el Gharbi",
+    "sort": "1423"
+  },
+  {
+    "city": "Sélibaby",
+    "admin": "Guidimaka",
+    "sort": "460"
+  },
+  {
+    "city": "Akjoujt",
+    "admin": "Inchiri",
+    "sort": "370"
+  },
+  {
+    "city": "Kaédi",
+    "admin": "Gorgol",
+    "sort": ""
+  },
+  {
+    "city": "Boutilimit",
+    "admin": "Trarza",
+    "sort": "14142"
+  },
+  {
+    "city": "Bogué",
+    "admin": "Brakna",
+    "sort": "10415"
+  },
+  {
+    "city": "Timbedgha",
+    "admin": "Hodh ech Chargui",
+    "sort": "245"
+  },
+  {
+    "city": "Chegga",
+    "admin": "Tiris Zemmour",
+    "sort": "10"
+  },
+  {
+    "city": "Fdérik",
+    "admin": "Tiris Zemmour",
+    "sort": "5760"
+  },
+  {
+    "city": "Bîr Mogreïn",
+    "admin": "Tiris Zemmour",
+    "sort": "10"
+  }
+]

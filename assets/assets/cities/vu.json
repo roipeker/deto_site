@@ -1,0 +1,32 @@
+[
+  {
+    "city": "Port-Vila",
+    "admin": "Shefa",
+    "sort": "51437"
+  },
+  {
+    "city": "Luganville",
+    "admin": "Sanma",
+    "sort": "13397"
+  },
+  {
+    "city": "Lakatoro",
+    "admin": "Malampa",
+    "sort": "705"
+  },
+  {
+    "city": "Isangel",
+    "admin": "Tafea",
+    "sort": ""
+  },
+  {
+    "city": "Saratamata",
+    "admin": "Penama",
+    "sort": ""
+  },
+  {
+    "city": "Sola",
+    "admin": "Torba",
+    "sort": ""
+  }
+]

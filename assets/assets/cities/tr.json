@@ -1,0 +1,1757 @@
+[
+  {
+    "city": "Istanbul",
+    "admin": "İstanbul",
+    "sort": "15311000"
+  },
+  {
+    "city": "Ankara",
+    "admin": "Ankara",
+    "sort": "77168"
+  },
+  {
+    "city": "Bağcılar",
+    "admin": "İstanbul",
+    "sort": "556519"
+  },
+  {
+    "city": "Küçükçekmece",
+    "admin": "İstanbul",
+    "sort": "469431"
+  },
+  {
+    "city": "Kâğıthane",
+    "admin": "İstanbul",
+    "sort": "437026"
+  },
+  {
+    "city": "Elazığ",
+    "admin": "Elazığ",
+    "sort": "421726"
+  },
+  {
+    "city": "Esenler",
+    "admin": "İstanbul",
+    "sort": "380709"
+  },
+  {
+    "city": "Esenyurt",
+    "admin": "İstanbul",
+    "sort": "373017"
+  },
+  {
+    "city": "Manisa",
+    "admin": "Manisa",
+    "sort": "356702"
+  },
+  {
+    "city": "Van",
+    "admin": "Van",
+    "sort": "353419"
+  },
+  {
+    "city": "Konak",
+    "admin": "İzmir",
+    "sort": "344678"
+  },
+  {
+    "city": "Hatay",
+    "admin": "Hatay",
+    "sort": "347974"
+  },
+  {
+    "city": "İzmir",
+    "admin": "İzmir",
+    "sort": "329052"
+  },
+  {
+    "city": "Yıldırım",
+    "admin": "Bursa",
+    "sort": "324377"
+  },
+  {
+    "city": "Güngören",
+    "admin": "İstanbul",
+    "sort": "272950"
+  },
+  {
+    "city": "İskenderun",
+    "admin": "Hatay",
+    "sort": "297943"
+  },
+  {
+    "city": "Kocaeli",
+    "admin": "Kocaeli",
+    "sort": "294875"
+  },
+  {
+    "city": "Pendik",
+    "admin": "İstanbul",
+    "sort": "289380"
+  },
+  {
+    "city": "Adana",
+    "admin": "Adana",
+    "sort": "289919"
+  },
+  {
+    "city": "Kütahya",
+    "admin": "Kütahya",
+    "sort": "253335"
+  },
+  {
+    "city": "Avcılar",
+    "admin": "İstanbul",
+    "sort": "233749"
+  },
+  {
+    "city": "Sakarya",
+    "admin": "Sakarya",
+    "sort": "224962"
+  },
+  {
+    "city": "Bursa",
+    "admin": "Bursa",
+    "sort": "211644"
+  },
+  {
+    "city": "Tekirdağ",
+    "admin": "Tekirdağ",
+    "sort": "204001"
+  },
+  {
+    "city": "Tokat",
+    "admin": "Tokat",
+    "sort": "201294"
+  },
+  {
+    "city": "Karaköprü",
+    "admin": "Şanlıurfa",
+    "sort": "195552"
+  },
+  {
+    "city": "Beylikdüzü",
+    "admin": "İstanbul",
+    "sort": "185633"
+  },
+  {
+    "city": "Aydın",
+    "admin": "Aydın",
+    "sort": "191037"
+  },
+  {
+    "city": "Selçuklu",
+    "admin": "Konya",
+    "sort": "188224"
+  },
+  {
+    "city": "Sultanbeyli",
+    "admin": "İstanbul",
+    "sort": "175700"
+  },
+  {
+    "city": "Kayapınar",
+    "admin": "Diyarbakır",
+    "sort": "185626"
+  },
+  {
+    "city": "Meram",
+    "admin": "Konya",
+    "sort": "182444"
+  },
+  {
+    "city": "Ereğli",
+    "admin": "Zonguldak",
+    "sort": "175605"
+  },
+  {
+    "city": "Eskişehir",
+    "admin": "Eskişehir",
+    "sort": "173882"
+  },
+  {
+    "city": "Osmaniye",
+    "admin": "Osmaniye",
+    "sort": "173977"
+  },
+  {
+    "city": "Edirne",
+    "admin": "Edirne",
+    "sort": "166494"
+  },
+  {
+    "city": "Gaziantep",
+    "admin": "Gaziantep",
+    "sort": "160152"
+  },
+  {
+    "city": "Konya",
+    "admin": "Konya",
+    "sort": "157934"
+  },
+  {
+    "city": "Arnavutköy",
+    "admin": "İstanbul",
+    "sort": "156333"
+  },
+  {
+    "city": "Ordu",
+    "admin": "Ordu",
+    "sort": "155117"
+  },
+  {
+    "city": "Çekme",
+    "admin": "İstanbul",
+    "sort": "142546"
+  },
+  {
+    "city": "Kayseri",
+    "admin": "Kayseri",
+    "sort": "126653"
+  },
+  {
+    "city": "Kâhta",
+    "admin": "Adıyaman",
+    "sort": "122774"
+  },
+  {
+    "city": "Tuzla",
+    "admin": "İstanbul",
+    "sort": "107883"
+  },
+  {
+    "city": "Samsun",
+    "admin": "Samsun",
+    "sort": "107510"
+  },
+  {
+    "city": "Sivas",
+    "admin": "Sivas",
+    "sort": "108320"
+  },
+  {
+    "city": "Erzurum",
+    "admin": "Erzurum",
+    "sort": "105317"
+  },
+  {
+    "city": "Malatya",
+    "admin": "Malatya",
+    "sort": "104428"
+  },
+  {
+    "city": "Suruç",
+    "admin": "Şanlıurfa",
+    "sort": "104302"
+  },
+  {
+    "city": "Diyarbakır",
+    "admin": "Diyarbakır",
+    "sort": "102653"
+  },
+  {
+    "city": "Karabük",
+    "admin": "Karabük",
+    "sort": "100749"
+  },
+  {
+    "city": "Mersin",
+    "admin": "Mersin",
+    "sort": "86692"
+  },
+  {
+    "city": "Mardin",
+    "admin": "Mardin",
+    "sort": "86948"
+  },
+  {
+    "city": "Hakkari",
+    "admin": "Hakkâri",
+    "sort": "81424"
+  },
+  {
+    "city": "Karaman",
+    "admin": "Karaman",
+    "sort": "76525"
+  },
+  {
+    "city": "Şanlıurfa",
+    "admin": "Şanlıurfa",
+    "sort": "73498"
+  },
+  {
+    "city": "Antalya",
+    "admin": "Antalya",
+    "sort": "71833"
+  },
+  {
+    "city": "Aksaray",
+    "admin": "Aksaray",
+    "sort": "70359"
+  },
+  {
+    "city": "Balıkesir",
+    "admin": "Balıkesir",
+    "sort": "69341"
+  },
+  {
+    "city": "Trabzon",
+    "admin": "Trabzon",
+    "sort": "65516"
+  },
+  {
+    "city": "Denizli",
+    "admin": "Denizli",
+    "sort": "64331"
+  },
+  {
+    "city": "Kahramanmaraş",
+    "admin": "Kahramanmaraş",
+    "sort": "63284"
+  },
+  {
+    "city": "Düzce",
+    "admin": "Düzce",
+    "sort": "56649"
+  },
+  {
+    "city": "Muğla",
+    "admin": "Muğla",
+    "sort": "56619"
+  },
+  {
+    "city": "Sarıyer",
+    "admin": "İstanbul",
+    "sort": "46729"
+  },
+  {
+    "city": "Iğdır",
+    "admin": "Iğdır",
+    "sort": "45321"
+  },
+  {
+    "city": "Afyonkarahisar",
+    "admin": "Afyonkarahisar",
+    "sort": "44026"
+  },
+  {
+    "city": "Kars",
+    "admin": "Kars",
+    "sort": "41376"
+  },
+  {
+    "city": "Bartın",
+    "admin": "Bartın",
+    "sort": "35992"
+  },
+  {
+    "city": "Uşak",
+    "admin": "Uşak",
+    "sort": "35517"
+  },
+  {
+    "city": "Amasya",
+    "admin": "Amasya",
+    "sort": "32900"
+  },
+  {
+    "city": "Kartal",
+    "admin": "İstanbul",
+    "sort": "20139"
+  },
+  {
+    "city": "Çorum",
+    "admin": "Çorum",
+    "sort": "28879"
+  },
+  {
+    "city": "Batman",
+    "admin": "Batman",
+    "sort": "26730"
+  },
+  {
+    "city": "Rize",
+    "admin": "Rize",
+    "sort": "26989"
+  },
+  {
+    "city": "Siirt",
+    "admin": "Siirt",
+    "sort": "25480"
+  },
+  {
+    "city": "Şırnak",
+    "admin": "Şırnak",
+    "sort": "25059"
+  },
+  {
+    "city": "Ağrı",
+    "admin": "Ağrı",
+    "sort": "24168"
+  },
+  {
+    "city": "Kırklareli",
+    "admin": "Kırklareli",
+    "sort": "24004"
+  },
+  {
+    "city": "Bayburt",
+    "admin": "Bayburt",
+    "sort": "23690"
+  },
+  {
+    "city": "Kastamonu",
+    "admin": "Kastamonu",
+    "sort": "23485"
+  },
+  {
+    "city": "Çanakkale",
+    "admin": "Çanakkale",
+    "sort": "22789"
+  },
+  {
+    "city": "Burdur",
+    "admin": "Burdur",
+    "sort": "22489"
+  },
+  {
+    "city": "Adıyaman",
+    "admin": "Adıyaman",
+    "sort": "22153"
+  },
+  {
+    "city": "Isparta",
+    "admin": "Isparta",
+    "sort": "21406"
+  },
+  {
+    "city": "Yalova",
+    "admin": "Yalova",
+    "sort": "20707"
+  },
+  {
+    "city": "Bolu",
+    "admin": "Bolu",
+    "sort": "21700"
+  },
+  {
+    "city": "Niğde",
+    "admin": "Niğde",
+    "sort": "21663"
+  },
+  {
+    "city": "Nevşehir",
+    "admin": "Nevşehir",
+    "sort": "21121"
+  },
+  {
+    "city": "Giresun",
+    "admin": "Giresun",
+    "sort": "20914"
+  },
+  {
+    "city": "Bitlis",
+    "admin": "Bitlis",
+    "sort": "18684"
+  },
+  {
+    "city": "Zonguldak",
+    "admin": "Zonguldak",
+    "sort": "17879"
+  },
+  {
+    "city": "Ardahan",
+    "admin": "Ardahan",
+    "sort": "16251"
+  },
+  {
+    "city": "Muş",
+    "admin": "Muş",
+    "sort": "15687"
+  },
+  {
+    "city": "Erzincan",
+    "admin": "Erzincan",
+    "sort": "15591"
+  },
+  {
+    "city": "Yozgat",
+    "admin": "Yozgat",
+    "sort": "15235"
+  },
+  {
+    "city": "Kilis",
+    "admin": "Kilis",
+    "sort": "14150"
+  },
+  {
+    "city": "Sinop",
+    "admin": "Sinop",
+    "sort": "13354"
+  },
+  {
+    "city": "Kırşehir",
+    "admin": "Kırşehir",
+    "sort": "13271"
+  },
+  {
+    "city": "Bingöl",
+    "admin": "Bingöl",
+    "sort": "11727"
+  },
+  {
+    "city": "Bilecik",
+    "admin": "Bilecik",
+    "sort": "9722"
+  },
+  {
+    "city": "Çankırı",
+    "admin": "Çankırı",
+    "sort": "9075"
+  },
+  {
+    "city": "Artvin",
+    "admin": "Artvin",
+    "sort": "8719"
+  },
+  {
+    "city": "Gümüşhane",
+    "admin": "Gümüşhane",
+    "sort": "8092"
+  },
+  {
+    "city": "Kırıkkale",
+    "admin": "Kırıkkale",
+    "sort": "7369"
+  },
+  {
+    "city": "Tunceli",
+    "admin": "Tunceli",
+    "sort": "4169"
+  },
+  {
+    "city": "Bafra",
+    "admin": "Samsun",
+    "sort": "97452"
+  },
+  {
+    "city": "Kadirli",
+    "admin": "Osmaniye",
+    "sort": "88527"
+  },
+  {
+    "city": "Kapaklı",
+    "admin": "Tekirdağ",
+    "sort": "85898"
+  },
+  {
+    "city": "Çayırova",
+    "admin": "Kocaeli",
+    "sort": "82494"
+  },
+  {
+    "city": "Karatepe",
+    "admin": "Kocaeli",
+    "sort": "82551"
+  },
+  {
+    "city": "Arsuz",
+    "admin": "Hatay",
+    "sort": "79782"
+  },
+  {
+    "city": "Yüksekova",
+    "admin": "Hakkâri",
+    "sort": "67557"
+  },
+  {
+    "city": "Körfez",
+    "admin": "Kocaeli",
+    "sort": "65786"
+  },
+  {
+    "city": "Aşağıçinik",
+    "admin": "Samsun",
+    "sort": "65724"
+  },
+  {
+    "city": "Tarsus",
+    "admin": "Mersin",
+    "sort": "57737"
+  },
+  {
+    "city": "Beykoz",
+    "admin": "İstanbul",
+    "sort": "51689"
+  },
+  {
+    "city": "Cizre",
+    "admin": "Şırnak",
+    "sort": "50023"
+  },
+  {
+    "city": "Kozlu",
+    "admin": "Zonguldak",
+    "sort": "48381"
+  },
+  {
+    "city": "Akhisar",
+    "admin": "Manisa",
+    "sort": "46167"
+  },
+  {
+    "city": "Nazilli",
+    "admin": "Aydın",
+    "sort": "41330"
+  },
+  {
+    "city": "Ceyhan",
+    "admin": "Adana",
+    "sort": "41124"
+  },
+  {
+    "city": "Yakacık",
+    "admin": "Hatay",
+    "sort": "38959"
+  },
+  {
+    "city": "Ereğli",
+    "admin": "Konya",
+    "sort": "38362"
+  },
+  {
+    "city": "Turgutlu",
+    "admin": "Manisa",
+    "sort": "35674"
+  },
+  {
+    "city": "Samandağ",
+    "admin": "Hatay",
+    "sort": "34641"
+  },
+  {
+    "city": "Bandırma",
+    "admin": "Balıkesir",
+    "sort": "33116"
+  },
+  {
+    "city": "Ödemiş",
+    "admin": "İzmir",
+    "sort": "30580"
+  },
+  {
+    "city": "Salihli",
+    "admin": "Manisa",
+    "sort": "28909"
+  },
+  {
+    "city": "İnegöl",
+    "admin": "Bursa",
+    "sort": "27777"
+  },
+  {
+    "city": "Söke",
+    "admin": "Aydın",
+    "sort": "27558"
+  },
+  {
+    "city": "Siverek",
+    "admin": "Şanlıurfa",
+    "sort": "27527"
+  },
+  {
+    "city": "Çorlu",
+    "admin": "Tekirdağ",
+    "sort": "27187"
+  },
+  {
+    "city": "Tire",
+    "admin": "İzmir",
+    "sort": "27243"
+  },
+  {
+    "city": "Ondokuzmayıs",
+    "admin": "Samsun",
+    "sort": "26337"
+  },
+  {
+    "city": "Marmara Ereğlisi",
+    "admin": "Tekirdağ",
+    "sort": "25873"
+  },
+  {
+    "city": "Lüleburgaz",
+    "admin": "Kırklareli",
+    "sort": "25667"
+  },
+  {
+    "city": "Ceylanpınar",
+    "admin": "Şanlıurfa",
+    "sort": "25781"
+  },
+  {
+    "city": "Akşehir",
+    "admin": "Konya",
+    "sort": "25269"
+  },
+  {
+    "city": "Edremit",
+    "admin": "Balıkesir",
+    "sort": "24115"
+  },
+  {
+    "city": "Bergama",
+    "admin": "İzmir",
+    "sort": "24121"
+  },
+  {
+    "city": "Silopi",
+    "admin": "Şırnak",
+    "sort": "23430"
+  },
+  {
+    "city": "Büyükçekmece",
+    "admin": "İstanbul",
+    "sort": "22394"
+  },
+  {
+    "city": "Nizip",
+    "admin": "Gaziantep",
+    "sort": "22675"
+  },
+  {
+    "city": "Erzin",
+    "admin": "Hatay",
+    "sort": "22477"
+  },
+  {
+    "city": "Polatlı",
+    "admin": "Ankara",
+    "sort": "22558"
+  },
+  {
+    "city": "Akçakoca",
+    "admin": "Düzce",
+    "sort": "22416"
+  },
+  {
+    "city": "Gölcük",
+    "admin": "Kocaeli",
+    "sort": "21544"
+  },
+  {
+    "city": "Zile",
+    "admin": "Tokat",
+    "sort": "21463"
+  },
+  {
+    "city": "Kozluk",
+    "admin": "Batman",
+    "sort": "21380"
+  },
+  {
+    "city": "Kozan",
+    "admin": "Adana",
+    "sort": "20236"
+  },
+  {
+    "city": "Uzunköprü",
+    "admin": "Edirne",
+    "sort": "20237"
+  },
+  {
+    "city": "Bolvadin",
+    "admin": "Afyonkarahisar",
+    "sort": "20139"
+  },
+  {
+    "city": "Soma",
+    "admin": "Manisa",
+    "sort": "18633"
+  },
+  {
+    "city": "Çarşamba",
+    "admin": "Samsun",
+    "sort": "18003"
+  },
+  {
+    "city": "Aliağa",
+    "admin": "İzmir",
+    "sort": "17578"
+  },
+  {
+    "city": "Turhal",
+    "admin": "Tokat",
+    "sort": "17278"
+  },
+  {
+    "city": "Nallıhan",
+    "admin": "Ankara",
+    "sort": "17181"
+  },
+  {
+    "city": "Menemen",
+    "admin": "İzmir",
+    "sort": "16588"
+  },
+  {
+    "city": "Güroymak",
+    "admin": "Bitlis",
+    "sort": "16613"
+  },
+  {
+    "city": "Reyhanlı",
+    "admin": "Hatay",
+    "sort": "16469"
+  },
+  {
+    "city": "Ayvalık",
+    "admin": "Balıkesir",
+    "sort": "16283"
+  },
+  {
+    "city": "Alaşehir",
+    "admin": "Manisa",
+    "sort": "16012"
+  },
+  {
+    "city": "İncirliova",
+    "admin": "Aydın",
+    "sort": "15870"
+  },
+  {
+    "city": "Belen",
+    "admin": "Hatay",
+    "sort": "15629"
+  },
+  {
+    "city": "Bozyazı",
+    "admin": "Mersin",
+    "sort": "15615"
+  },
+  {
+    "city": "Sarıkamış",
+    "admin": "Kars",
+    "sort": "15557"
+  },
+  {
+    "city": "Birecik",
+    "admin": "Şanlıurfa",
+    "sort": "15317"
+  },
+  {
+    "city": "Ünye",
+    "admin": "Ordu",
+    "sort": "15039"
+  },
+  {
+    "city": "Kilimli",
+    "admin": "Zonguldak",
+    "sort": "14889"
+  },
+  {
+    "city": "Battalgazi",
+    "admin": "Malatya",
+    "sort": "14994"
+  },
+  {
+    "city": "Bor",
+    "admin": "Niğde",
+    "sort": "14309"
+  },
+  {
+    "city": "Merzifon",
+    "admin": "Amasya",
+    "sort": "14042"
+  },
+  {
+    "city": "Babaeski",
+    "admin": "Kırklareli",
+    "sort": "13879"
+  },
+  {
+    "city": "Demre",
+    "admin": "Antalya",
+    "sort": "13793"
+  },
+  {
+    "city": "İslahiye",
+    "admin": "Gaziantep",
+    "sort": "13775"
+  },
+  {
+    "city": "Tavşanlı",
+    "admin": "Kütahya",
+    "sort": "13652"
+  },
+  {
+    "city": "Develi",
+    "admin": "Kayseri",
+    "sort": "13411"
+  },
+  {
+    "city": "Bozüyük",
+    "admin": "Bilecik",
+    "sort": "13307"
+  },
+  {
+    "city": "Karakoçan",
+    "admin": "Elazığ",
+    "sort": "13353"
+  },
+  {
+    "city": "Erbaa",
+    "admin": "Tokat",
+    "sort": "13168"
+  },
+  {
+    "city": "Karapınar",
+    "admin": "Konya",
+    "sort": "12989"
+  },
+  {
+    "city": "Bahçe",
+    "admin": "Osmaniye",
+    "sort": "12917"
+  },
+  {
+    "city": "İdil",
+    "admin": "Şırnak",
+    "sort": "12905"
+  },
+  {
+    "city": "Sungurlu",
+    "admin": "Çorum",
+    "sort": "12886"
+  },
+  {
+    "city": "Alanya",
+    "admin": "Antalya",
+    "sort": "12436"
+  },
+  {
+    "city": "Niksar",
+    "admin": "Tokat",
+    "sort": "12577"
+  },
+  {
+    "city": "Urla",
+    "admin": "İzmir",
+    "sort": "12454"
+  },
+  {
+    "city": "Alaplı",
+    "admin": "Zonguldak",
+    "sort": "12105"
+  },
+  {
+    "city": "Hasköy",
+    "admin": "Muş",
+    "sort": "12238"
+  },
+  {
+    "city": "Emet",
+    "admin": "Kütahya",
+    "sort": "12246"
+  },
+  {
+    "city": "Kırkağaç",
+    "admin": "Manisa",
+    "sort": "12162"
+  },
+  {
+    "city": "Ortaköy",
+    "admin": "Aksaray",
+    "sort": "12132"
+  },
+  {
+    "city": "Biga",
+    "admin": "Çanakkale",
+    "sort": "12063"
+  },
+  {
+    "city": "Burhaniye",
+    "admin": "Balıkesir",
+    "sort": "11908"
+  },
+  {
+    "city": "Torbalı",
+    "admin": "İzmir",
+    "sort": "11712"
+  },
+  {
+    "city": "Silifke",
+    "admin": "Mersin",
+    "sort": "11864"
+  },
+  {
+    "city": "Beşikdüzü",
+    "admin": "Trabzon",
+    "sort": "11641"
+  },
+  {
+    "city": "Buldan",
+    "admin": "Denizli",
+    "sort": "11681"
+  },
+  {
+    "city": "Şereflikoçhisar",
+    "admin": "Ankara",
+    "sort": "11683"
+  },
+  {
+    "city": "Çayeli",
+    "admin": "Rize",
+    "sort": "11496"
+  },
+  {
+    "city": "Tekkeköy",
+    "admin": "Samsun",
+    "sort": "11351"
+  },
+  {
+    "city": "Ortakent",
+    "admin": "Muğla",
+    "sort": "11227"
+  },
+  {
+    "city": "Bayındır",
+    "admin": "İzmir",
+    "sort": "11273"
+  },
+  {
+    "city": "Susurluk",
+    "admin": "Balıkesir",
+    "sort": "11268"
+  },
+  {
+    "city": "Anamur",
+    "admin": "Mersin",
+    "sort": "11246"
+  },
+  {
+    "city": "Tosya",
+    "admin": "Kastamonu",
+    "sort": "11239"
+  },
+  {
+    "city": "Viranşehir",
+    "admin": "Şanlıurfa",
+    "sort": "11063"
+  },
+  {
+    "city": "Sarayköy",
+    "admin": "Denizli",
+    "sort": "11042"
+  },
+  {
+    "city": "Side",
+    "admin": "Antalya",
+    "sort": "11000"
+  },
+  {
+    "city": "Sultanhanı",
+    "admin": "Aksaray",
+    "sort": "10884"
+  },
+  {
+    "city": "Emirdağ",
+    "admin": "Afyonkarahisar",
+    "sort": "10914"
+  },
+  {
+    "city": "Yalvaç",
+    "admin": "Isparta",
+    "sort": "10912"
+  },
+  {
+    "city": "Tatvan",
+    "admin": "Bitlis",
+    "sort": "10786"
+  },
+  {
+    "city": "Malkara",
+    "admin": "Tekirdağ",
+    "sort": "10763"
+  },
+  {
+    "city": "Ergani",
+    "admin": "Diyarbakır",
+    "sort": "10528"
+  },
+  {
+    "city": "Serinhisar",
+    "admin": "Denizli",
+    "sort": "10472"
+  },
+  {
+    "city": "Çağlayancerit",
+    "admin": "Kahramanmaraş",
+    "sort": "10435"
+  },
+  {
+    "city": "Midyat",
+    "admin": "Mardin",
+    "sort": "10391"
+  },
+  {
+    "city": "Havza",
+    "admin": "Samsun",
+    "sort": "10338"
+  },
+  {
+    "city": "Selçuk",
+    "admin": "İzmir",
+    "sort": "10227"
+  },
+  {
+    "city": "Çumra",
+    "admin": "Konya",
+    "sort": "10299"
+  },
+  {
+    "city": "Yahyalı",
+    "admin": "Kayseri",
+    "sort": "10283"
+  },
+  {
+    "city": "Kocaali",
+    "admin": "Sakarya",
+    "sort": "10131"
+  },
+  {
+    "city": "Bucak",
+    "admin": "Burdur",
+    "sort": "10094"
+  },
+  {
+    "city": "Kaman",
+    "admin": "Kırşehir",
+    "sort": "10067"
+  },
+  {
+    "city": "Fatsa",
+    "admin": "Ordu",
+    "sort": "9738"
+  },
+  {
+    "city": "Beypazarı",
+    "admin": "Ankara",
+    "sort": "9860"
+  },
+  {
+    "city": "Ahmetli",
+    "admin": "Manisa",
+    "sort": "9790"
+  },
+  {
+    "city": "Çay",
+    "admin": "Afyonkarahisar",
+    "sort": "9761"
+  },
+  {
+    "city": "Kızıltepe",
+    "admin": "Mardin",
+    "sort": "9589"
+  },
+  {
+    "city": "Gebze",
+    "admin": "Kocaeli",
+    "sort": "9269"
+  },
+  {
+    "city": "Boyabat",
+    "admin": "Sinop",
+    "sort": "9418"
+  },
+  {
+    "city": "Bulancak",
+    "admin": "Giresun",
+    "sort": "9343"
+  },
+  {
+    "city": "Akyazı",
+    "admin": "Sakarya",
+    "sort": "9090"
+  },
+  {
+    "city": "Yenice",
+    "admin": "Karabük",
+    "sort": "9170"
+  },
+  {
+    "city": "Palu",
+    "admin": "Elazığ",
+    "sort": "9165"
+  },
+  {
+    "city": "Divriği",
+    "admin": "Sivas",
+    "sort": "9160"
+  },
+  {
+    "city": "Çınarcık",
+    "admin": "Yalova",
+    "sort": "8953"
+  },
+  {
+    "city": "Kulu",
+    "admin": "Konya",
+    "sort": "8905"
+  },
+  {
+    "city": "Tuzluca",
+    "admin": "Iğdır",
+    "sort": "8827"
+  },
+  {
+    "city": "Yeşilhisar",
+    "admin": "Kayseri",
+    "sort": "8647"
+  },
+  {
+    "city": "Doğubayazıt",
+    "admin": "Ağrı",
+    "sort": "8523"
+  },
+  {
+    "city": "Kemer",
+    "admin": "Antalya",
+    "sort": "8449"
+  },
+  {
+    "city": "Bünyan",
+    "admin": "Kayseri",
+    "sort": "8467"
+  },
+  {
+    "city": "Fethiye",
+    "admin": "Muğla",
+    "sort": "8386"
+  },
+  {
+    "city": "Tavas",
+    "admin": "Denizli",
+    "sort": "8408"
+  },
+  {
+    "city": "Kadınhanı",
+    "admin": "Konya",
+    "sort": "8398"
+  },
+  {
+    "city": "Suluova",
+    "admin": "Amasya",
+    "sort": "8332"
+  },
+  {
+    "city": "Çine",
+    "admin": "Aydın",
+    "sort": "8271"
+  },
+  {
+    "city": "Çamaş",
+    "admin": "Ordu",
+    "sort": "8118"
+  },
+  {
+    "city": "Gümüşhacıköy",
+    "admin": "Amasya",
+    "sort": "8121"
+  },
+  {
+    "city": "Afşin",
+    "admin": "Kahramanmaraş",
+    "sort": "8069"
+  },
+  {
+    "city": "Simav",
+    "admin": "Kütahya",
+    "sort": "8003"
+  },
+  {
+    "city": "Çukurca",
+    "admin": "Hakkâri",
+    "sort": "8007"
+  },
+  {
+    "city": "Bahşılı",
+    "admin": "Kırıkkale",
+    "sort": "7907"
+  },
+  {
+    "city": "Boğazlıyan",
+    "admin": "Yozgat",
+    "sort": "7925"
+  },
+  {
+    "city": "Alaçam",
+    "admin": "Samsun",
+    "sort": "7833"
+  },
+  {
+    "city": "Akçaabat",
+    "admin": "Trabzon",
+    "sort": "7600"
+  },
+  {
+    "city": "Toprakkale",
+    "admin": "Osmaniye",
+    "sort": "7803"
+  },
+  {
+    "city": "Kuşadası",
+    "admin": "İzmir",
+    "sort": "7388"
+  },
+  {
+    "city": "Yerköy",
+    "admin": "Yozgat",
+    "sort": "7766"
+  },
+  {
+    "city": "Kınık",
+    "admin": "İzmir",
+    "sort": "7718"
+  },
+  {
+    "city": "Nusaybin",
+    "admin": "Mardin",
+    "sort": "7584"
+  },
+  {
+    "city": "Lice",
+    "admin": "Diyarbakır",
+    "sort": "7643"
+  },
+  {
+    "city": "Zara",
+    "admin": "Sivas",
+    "sort": "7661"
+  },
+  {
+    "city": "Aybastı",
+    "admin": "Ordu",
+    "sort": "7450"
+  },
+  {
+    "city": "Gediz",
+    "admin": "Kütahya",
+    "sort": "7486"
+  },
+  {
+    "city": "Beyşehir",
+    "admin": "Konya",
+    "sort": "7456"
+  },
+  {
+    "city": "Sivrihisar",
+    "admin": "Eskişehir",
+    "sort": "7442"
+  },
+  {
+    "city": "Serik",
+    "admin": "Antalya",
+    "sort": "7336"
+  },
+  {
+    "city": "Keskin",
+    "admin": "Kırıkkale",
+    "sort": "6832"
+  },
+  {
+    "city": "Çiftlikköy",
+    "admin": "Yalova",
+    "sort": "6994"
+  },
+  {
+    "city": "Yeşilyurt",
+    "admin": "Malatya",
+    "sort": "7146"
+  },
+  {
+    "city": "Havran",
+    "admin": "Balıkesir",
+    "sort": "7205"
+  },
+  {
+    "city": "Saruhanlı",
+    "admin": "Manisa",
+    "sort": "7095"
+  },
+  {
+    "city": "Taşköprü",
+    "admin": "Kastamonu",
+    "sort": "7113"
+  },
+  {
+    "city": "Suşehri",
+    "admin": "Sivas",
+    "sort": "7063"
+  },
+  {
+    "city": "Aydıncık",
+    "admin": "Mersin",
+    "sort": "7040"
+  },
+  {
+    "city": "Aşkale",
+    "admin": "Erzurum",
+    "sort": "6943"
+  },
+  {
+    "city": "Sivaslı",
+    "admin": "Uşak",
+    "sort": "6911"
+  },
+  {
+    "city": "Menderes",
+    "admin": "İzmir",
+    "sort": "6799"
+  },
+  {
+    "city": "Şarkışla",
+    "admin": "Sivas",
+    "sort": "6766"
+  },
+  {
+    "city": "Bozdoğan",
+    "admin": "Aydın",
+    "sort": "6739"
+  },
+  {
+    "city": "Cihanbeyli",
+    "admin": "Konya",
+    "sort": "6739"
+  },
+  {
+    "city": "Derik",
+    "admin": "Mardin",
+    "sort": "6684"
+  },
+  {
+    "city": "Seydişehir",
+    "admin": "Konya",
+    "sort": "6683"
+  },
+  {
+    "city": "Sarayönü",
+    "admin": "Konya",
+    "sort": "6574"
+  },
+  {
+    "city": "İpsala",
+    "admin": "Edirne",
+    "sort": "6544"
+  },
+  {
+    "city": "Mut",
+    "admin": "Mersin",
+    "sort": "6556"
+  },
+  {
+    "city": "Manavgat",
+    "admin": "Antalya",
+    "sort": "6308"
+  },
+  {
+    "city": "Yayladağı",
+    "admin": "Hatay",
+    "sort": "6305"
+  },
+  {
+    "city": "Pınarbaşı",
+    "admin": "Kayseri",
+    "sort": "6328"
+  },
+  {
+    "city": "Sındırgı",
+    "admin": "Balıkesir",
+    "sort": "6304"
+  },
+  {
+    "city": "Silivri",
+    "admin": "İstanbul",
+    "sort": "6114"
+  },
+  {
+    "city": "Saray",
+    "admin": "Tekirdağ",
+    "sort": "6183"
+  },
+  {
+    "city": "Göle",
+    "admin": "Ardahan",
+    "sort": "6231"
+  },
+  {
+    "city": "Çarşıbaşı",
+    "admin": "Trabzon",
+    "sort": "6002"
+  },
+  {
+    "city": "Bulanık",
+    "admin": "Muş",
+    "sort": "6186"
+  },
+  {
+    "city": "Sorgun",
+    "admin": "Yozgat",
+    "sort": "6144"
+  },
+  {
+    "city": "Adilcevaz",
+    "admin": "Bitlis",
+    "sort": "6148"
+  },
+  {
+    "city": "Tonya",
+    "admin": "Trabzon",
+    "sort": "6126"
+  },
+  {
+    "city": "Amasra",
+    "admin": "Bartın",
+    "sort": "6085"
+  },
+  {
+    "city": "Arapgir",
+    "admin": "Malatya",
+    "sort": "6120"
+  },
+  {
+    "city": "Aralık",
+    "admin": "Adıyaman",
+    "sort": "6098"
+  },
+  {
+    "city": "Şuhut",
+    "admin": "Afyonkarahisar",
+    "sort": "6099"
+  },
+  {
+    "city": "Türkoğlu",
+    "admin": "Kahramanmaraş",
+    "sort": "5941"
+  },
+  {
+    "city": "Çıralı",
+    "admin": "Antalya",
+    "sort": "6000"
+  },
+  {
+    "city": "Piraziz",
+    "admin": "Giresun",
+    "sort": "5929"
+  },
+  {
+    "city": "Akçadağ",
+    "admin": "Malatya",
+    "sort": "5995"
+  },
+  {
+    "city": "Yıldızeli",
+    "admin": "Sivas",
+    "sort": "5921"
+  },
+  {
+    "city": "Ahlat",
+    "admin": "Bitlis",
+    "sort": "5879"
+  },
+  {
+    "city": "Buharkent",
+    "admin": "Aydın",
+    "sort": "5795"
+  },
+  {
+    "city": "Çifteler",
+    "admin": "Eskişehir",
+    "sort": "5901"
+  },
+  {
+    "city": "Dikili",
+    "admin": "İzmir",
+    "sort": "5805"
+  },
+  {
+    "city": "Çan",
+    "admin": "Çanakkale",
+    "sort": "5826"
+  },
+  {
+    "city": "Çerkezköy",
+    "admin": "Tekirdağ",
+    "sort": "5355"
+  },
+  {
+    "city": "Çatalca",
+    "admin": "İstanbul",
+    "sort": "5811"
+  },
+  {
+    "city": "Çivril",
+    "admin": "Denizli",
+    "sort": "5780"
+  },
+  {
+    "city": "İncesu",
+    "admin": "Kayseri",
+    "sort": "5775"
+  },
+  {
+    "city": "Tirebolu",
+    "admin": "Giresun",
+    "sort": "5722"
+  },
+  {
+    "city": "Acıgöl",
+    "admin": "Nevşehir",
+    "sort": "5748"
+  },
+  {
+    "city": "Patnos",
+    "admin": "Ağrı",
+    "sort": "5653"
+  },
+  {
+    "city": "Doğanhisar",
+    "admin": "Konya",
+    "sort": "5718"
+  },
+  {
+    "city": "Saraykent",
+    "admin": "Yozgat",
+    "sort": "5667"
+  },
+  {
+    "city": "Avanos",
+    "admin": "Nevşehir",
+    "sort": "5675"
+  },
+  {
+    "city": "Ürgüp",
+    "admin": "Nevşehir",
+    "sort": "5607"
+  },
+  {
+    "city": "Yenipazar",
+    "admin": "Aydın",
+    "sort": "5570"
+  },
+  {
+    "city": "Gölhisar",
+    "admin": "Burdur",
+    "sort": "5562"
+  },
+  {
+    "city": "Savaştepe",
+    "admin": "Balıkesir",
+    "sort": "5581"
+  },
+  {
+    "city": "Oğuzeli",
+    "admin": "Gaziantep",
+    "sort": "5577"
+  },
+  {
+    "city": "Beydağ",
+    "admin": "Kayseri",
+    "sort": "5521"
+  },
+  {
+    "city": "Espiye",
+    "admin": "Giresun",
+    "sort": "5318"
+  },
+  {
+    "city": "Ardeşen",
+    "admin": "Rize",
+    "sort": "5488"
+  },
+  {
+    "city": "Çermik",
+    "admin": "Diyarbakır",
+    "sort": "5420"
+  },
+  {
+    "city": "Bodrum",
+    "admin": "Muğla",
+    "sort": "5136"
+  },
+  {
+    "city": "Ayvacık",
+    "admin": "Samsun",
+    "sort": "5375"
+  },
+  {
+    "city": "Haymana",
+    "admin": "Ankara",
+    "sort": "5396"
+  },
+  {
+    "city": "Eynesil",
+    "admin": "Giresun",
+    "sort": "5210"
+  },
+  {
+    "city": "Seferhisar",
+    "admin": "İzmir",
+    "sort": "5269"
+  },
+  {
+    "city": "Sürmene",
+    "admin": "Trabzon",
+    "sort": "5286"
+  },
+  {
+    "city": "Ayancık",
+    "admin": "Sinop",
+    "sort": "5320"
+  },
+  {
+    "city": "Üzümlü",
+    "admin": "Erzincan",
+    "sort": "5312"
+  },
+  {
+    "city": "Beşiri",
+    "admin": "Batman",
+    "sort": "5219"
+  },
+  {
+    "city": "Gökçebey",
+    "admin": "Zonguldak",
+    "sort": "5081"
+  },
+  {
+    "city": "Çobanlar",
+    "admin": "Afyonkarahisar",
+    "sort": "5086"
+  },
+  {
+    "city": "Vakfıkebir",
+    "admin": "Trabzon",
+    "sort": "5032"
+  },
+  {
+    "city": "Eşme",
+    "admin": "Uşak",
+    "sort": "5035"
+  },
+  {
+    "city": "Başmakçı",
+    "admin": "Afyonkarahisar",
+    "sort": "5034"
+  },
+  {
+    "city": "Emirgazi",
+    "admin": "Konya",
+    "sort": "5027"
+  },
+  {
+    "city": "Baskil",
+    "admin": "Elazığ",
+    "sort": "5002"
+  }
+]

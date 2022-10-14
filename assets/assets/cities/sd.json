@@ -1,0 +1,197 @@
+[
+  {
+    "city": "Khartoum",
+    "admin": "Khartoum",
+    "sort": "6017000"
+  },
+  {
+    "city": "Omdurman",
+    "admin": "Khartoum",
+    "sort": "2395159"
+  },
+  {
+    "city": "Khartoum North",
+    "admin": "Khartoum",
+    "sort": "936349"
+  },
+  {
+    "city": "Port Sudan",
+    "admin": "Red Sea",
+    "sort": "579942"
+  },
+  {
+    "city": "Kassala",
+    "admin": "Kassala",
+    "sort": "536009"
+  },
+  {
+    "city": "Nyala",
+    "admin": "South Darfur",
+    "sort": "492984"
+  },
+  {
+    "city": "El Obeid",
+    "admin": "North Kordofan",
+    "sort": "418280"
+  },
+  {
+    "city": "Gedaref",
+    "admin": "Al Gedaref",
+    "sort": "354927"
+  },
+  {
+    "city": "Kūstī",
+    "admin": "White Nile",
+    "sort": "345068"
+  },
+  {
+    "city": "Wad Medani",
+    "admin": "Al Gazira",
+    "sort": "332714"
+  },
+  {
+    "city": "El Fasher",
+    "admin": "North Darfur",
+    "sort": "252609"
+  },
+  {
+    "city": "Kurmuk",
+    "admin": "Blue Nile",
+    "sort": "250000"
+  },
+  {
+    "city": "Shendi",
+    "admin": "River Nile",
+    "sort": "186611"
+  },
+  {
+    "city": "Ed Damazin",
+    "admin": "Blue Nile",
+    "sort": "186051"
+  },
+  {
+    "city": "Kadugli",
+    "admin": "South Kordofan",
+    "sort": "176931"
+  },
+  {
+    "city": "El Geneina",
+    "admin": "West Darfur",
+    "sort": "162981"
+  },
+  {
+    "city": "Al Manāqil",
+    "admin": "Al Gazira",
+    "sort": "151827"
+  },
+  {
+    "city": "Atbara",
+    "admin": "River Nile",
+    "sort": "139768"
+  },
+  {
+    "city": "Sannār",
+    "admin": "Sennar",
+    "sort": "130122"
+  },
+  {
+    "city": "An Nuhūd",
+    "admin": "Western Kordofan",
+    "sort": "108008"
+  },
+  {
+    "city": "EdDamer",
+    "admin": "River Nile",
+    "sort": "103941"
+  },
+  {
+    "city": "Dongola",
+    "admin": "Northern",
+    "sort": "26404"
+  },
+  {
+    "city": "Rabak",
+    "admin": "White Nile",
+    "sort": ""
+  },
+  {
+    "city": "Singa",
+    "admin": "Sennar",
+    "sort": ""
+  },
+  {
+    "city": "Ed Daein",
+    "admin": "East Darfur",
+    "sort": ""
+  },
+  {
+    "city": "Zalingei",
+    "admin": "Central Darfur",
+    "sort": ""
+  },
+  {
+    "city": "El Fula",
+    "admin": "Western Kordofan",
+    "sort": ""
+  },
+  {
+    "city": "Ad Diwem",
+    "admin": "White Nile",
+    "sort": "87068"
+  },
+  {
+    "city": "Tokār",
+    "admin": "Red Sea",
+    "sort": "73202"
+  },
+  {
+    "city": "Umm Ruwaba",
+    "admin": "North Kordofan",
+    "sort": "55742"
+  },
+  {
+    "city": "Abū Ḩamad",
+    "admin": "River Nile",
+    "sort": "50000"
+  },
+  {
+    "city": "Berber",
+    "admin": "River Nile",
+    "sort": "49556"
+  },
+  {
+    "city": "Sawākin",
+    "admin": "Red Sea",
+    "sort": "43337"
+  },
+  {
+    "city": "Haya",
+    "admin": "Red Sea",
+    "sort": "20000"
+  },
+  {
+    "city": "Al Mijlad",
+    "admin": "Western Kordofan",
+    "sort": "19997"
+  },
+  {
+    "city": "Babanūsah",
+    "admin": "Western Kordofan",
+    "sort": "19700"
+  },
+  {
+    "city": "Wādī Ḩalfā’",
+    "admin": "Northern",
+    "sort": "17121"
+  },
+  {
+    "city": "Marawī",
+    "admin": "Northern",
+    "sort": "10234"
+  },
+  {
+    "city": "Karmah an Nuzul",
+    "admin": "Northern",
+    "sort": "3928"
+  }
+]

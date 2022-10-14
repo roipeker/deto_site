@@ -1,0 +1,347 @@
+[
+  {
+    "city": "Niamey",
+    "admin": "Niamey",
+    "sort": "1026848"
+  },
+  {
+    "city": "Maradi",
+    "admin": "Maradi",
+    "sort": "267249"
+  },
+  {
+    "city": "Zinder",
+    "admin": "Zinder",
+    "sort": "235605"
+  },
+  {
+    "city": "Agadez",
+    "admin": "Agadez",
+    "sort": "117770"
+  },
+  {
+    "city": "Tahoua",
+    "admin": "Tahoua",
+    "sort": "115956"
+  },
+  {
+    "city": "Dosso",
+    "admin": "Dosso",
+    "sort": "58671"
+  },
+  {
+    "city": "Diffa",
+    "admin": "Diffa",
+    "sort": "30988"
+  },
+  {
+    "city": "Tillabéri",
+    "admin": "Tillabéri",
+    "sort": "19262"
+  },
+  {
+    "city": "Arlit",
+    "admin": "Agadez",
+    "sort": "78651"
+  },
+  {
+    "city": "Birnin Konni",
+    "admin": "Tahoua",
+    "sort": "65252"
+  },
+  {
+    "city": "Gaya",
+    "admin": "Dosso",
+    "sort": "45465"
+  },
+  {
+    "city": "Ayorou",
+    "admin": "Tillabéri",
+    "sort": "26290"
+  },
+  {
+    "city": "Madaoua",
+    "admin": "Tahoua",
+    "sort": "24804"
+  },
+  {
+    "city": "Nguigmi",
+    "admin": "Diffa",
+    "sort": "17897"
+  },
+  {
+    "city": "Guidan Roumdji",
+    "admin": "Maradi",
+    "sort": "17525"
+  },
+  {
+    "city": "Baléyara",
+    "admin": "Tillabéri",
+    "sort": "16063"
+  },
+  {
+    "city": "Gouré",
+    "admin": "Zinder",
+    "sort": "14639"
+  },
+  {
+    "city": "Galmi",
+    "admin": "Tahoua",
+    "sort": "13888"
+  },
+  {
+    "city": "Kawara",
+    "admin": "Tahoua",
+    "sort": "9064"
+  },
+  {
+    "city": "Takiéta",
+    "admin": "Zinder",
+    "sort": "8554"
+  },
+  {
+    "city": "Dabnou",
+    "admin": "Tahoua",
+    "sort": "7861"
+  },
+  {
+    "city": "Bani Bangou",
+    "admin": "Tillabéri",
+    "sort": "6788"
+  },
+  {
+    "city": "Tyourout",
+    "admin": "Tahoua",
+    "sort": "6470"
+  },
+  {
+    "city": "Kouli Kouara",
+    "admin": "Tillabéri",
+    "sort": "5413"
+  },
+  {
+    "city": "Tounfafi",
+    "admin": "Tahoua",
+    "sort": "9530"
+  },
+  {
+    "city": "Bandio",
+    "admin": "Tillabéri",
+    "sort": "9237"
+  },
+  {
+    "city": "Toulou",
+    "admin": "Tahoua",
+    "sort": "8785"
+  },
+  {
+    "city": "Gidan Idèr",
+    "admin": "Tahoua",
+    "sort": "8582"
+  },
+  {
+    "city": "Baguéy",
+    "admin": "Tahoua",
+    "sort": "7640"
+  },
+  {
+    "city": "Birnin Kazoé",
+    "admin": "Zinder",
+    "sort": "7500"
+  },
+  {
+    "city": "Yaama",
+    "admin": "Tahoua",
+    "sort": "7351"
+  },
+  {
+    "city": "Dafawa",
+    "admin": "Tahoua",
+    "sort": "7002"
+  },
+  {
+    "city": "Taza",
+    "admin": "Tahoua",
+    "sort": "7040"
+  },
+  {
+    "city": "Angoul Dénya",
+    "admin": "Tahoua",
+    "sort": "6937"
+  },
+  {
+    "city": "Dosey",
+    "admin": "Tahoua",
+    "sort": "6968"
+  },
+  {
+    "city": "Toubout",
+    "admin": "Tahoua",
+    "sort": "6785"
+  },
+  {
+    "city": "Laba",
+    "admin": "Tahoua",
+    "sort": "6712"
+  },
+  {
+    "city": "Moussadèye",
+    "admin": "Dosso",
+    "sort": "6742"
+  },
+  {
+    "city": "Bakin Birji I",
+    "admin": "Zinder",
+    "sort": "6702"
+  },
+  {
+    "city": "Sokolé",
+    "admin": "Tahoua",
+    "sort": "6506"
+  },
+  {
+    "city": "Nasarawa",
+    "admin": "Tahoua",
+    "sort": "6426"
+  },
+  {
+    "city": "Madéta II",
+    "admin": "Tahoua",
+    "sort": "6253"
+  },
+  {
+    "city": "Aouloumal",
+    "admin": "Tahoua",
+    "sort": "6178"
+  },
+  {
+    "city": "Bélbéji",
+    "admin": "Zinder",
+    "sort": "6310"
+  },
+  {
+    "city": "Hamdallay",
+    "admin": "Tillabéri",
+    "sort": "6153"
+  },
+  {
+    "city": "Asoudié",
+    "admin": "Tahoua",
+    "sort": "6007"
+  },
+  {
+    "city": "Sabon Birni",
+    "admin": "Dosso",
+    "sort": "5970"
+  },
+  {
+    "city": "Dindi",
+    "admin": "Tahoua",
+    "sort": "5926"
+  },
+  {
+    "city": "Dan Kori",
+    "admin": "Maradi",
+    "sort": "5902"
+  },
+  {
+    "city": "Masalata",
+    "admin": "Tahoua",
+    "sort": "5801"
+  },
+  {
+    "city": "Garadoumé",
+    "admin": "Tahoua",
+    "sort": "5749"
+  },
+  {
+    "city": "Kélénté",
+    "admin": "Tahoua",
+    "sort": "5748"
+  },
+  {
+    "city": "Toudouni",
+    "admin": "Tahoua",
+    "sort": "5848"
+  },
+  {
+    "city": "Djibalé",
+    "admin": "Tahoua",
+    "sort": "5717"
+  },
+  {
+    "city": "Kaora Abdou",
+    "admin": "Tahoua",
+    "sort": "5672"
+  },
+  {
+    "city": "Bouti",
+    "admin": "Diffa",
+    "sort": "5768"
+  },
+  {
+    "city": "Koundoumawa",
+    "admin": "Zinder",
+    "sort": "5700"
+  },
+  {
+    "city": "Soubdou",
+    "admin": "Zinder",
+    "sort": "5741"
+  },
+  {
+    "city": "Riadi Dan Bizo",
+    "admin": "Maradi",
+    "sort": "5481"
+  },
+  {
+    "city": "Souloulou",
+    "admin": "Maradi",
+    "sort": "5424"
+  },
+  {
+    "city": "Mouléla",
+    "admin": "Tahoua",
+    "sort": "5440"
+  },
+  {
+    "city": "Nakoni",
+    "admin": "Tahoua",
+    "sort": "5317"
+  },
+  {
+    "city": "Gandasamou",
+    "admin": "Tahoua",
+    "sort": "5279"
+  },
+  {
+    "city": "Sabonkafi",
+    "admin": "Zinder",
+    "sort": "5389"
+  },
+  {
+    "city": "Jambriji",
+    "admin": "Zinder",
+    "sort": "5304"
+  },
+  {
+    "city": "Malgorou",
+    "admin": "Dosso",
+    "sort": "5115"
+  },
+  {
+    "city": "Dan Gona",
+    "admin": "Tahoua",
+    "sort": "5116"
+  },
+  {
+    "city": "Diambala",
+    "admin": "Tillabéri",
+    "sort": "5007"
+  },
+  {
+    "city": "Djado",
+    "admin": "Agadez",
+    "sort": "10"
+  }
+]

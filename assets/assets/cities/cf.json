@@ -1,0 +1,127 @@
+[
+  {
+    "city": "Bangui",
+    "admin": "Bangui",
+    "sort": "889231"
+  },
+  {
+    "city": "Bimbo",
+    "admin": "Ombella-Mpoko",
+    "sort": "124176"
+  },
+  {
+    "city": "Berbérati",
+    "admin": "Mambéré-Kadéï",
+    "sort": "76918"
+  },
+  {
+    "city": "Bambari",
+    "admin": "Ouaka",
+    "sort": "41356"
+  },
+  {
+    "city": "Bouar",
+    "admin": "Nana-Mambéré",
+    "sort": "40353"
+  },
+  {
+    "city": "Bossangoa",
+    "admin": "Ouham",
+    "sort": "36478"
+  },
+  {
+    "city": "Bria",
+    "admin": "Haute-Kotto",
+    "sort": "35204"
+  },
+  {
+    "city": "Bangassou",
+    "admin": "Mbomou",
+    "sort": "31453"
+  },
+  {
+    "city": "Nola",
+    "admin": "Sangha-Mbaéré",
+    "sort": "26809"
+  },
+  {
+    "city": "Kaga Bandoro",
+    "admin": "Nana-Grébizi",
+    "sort": "24661"
+  },
+  {
+    "city": "Sibut",
+    "admin": "Kémo",
+    "sort": "22419"
+  },
+  {
+    "city": "Mbaïki",
+    "admin": "Lobaye",
+    "sort": "22166"
+  },
+  {
+    "city": "Bozoum",
+    "admin": "Ouham-Pendé",
+    "sort": "20665"
+  },
+  {
+    "city": "Obo",
+    "admin": "Haut-Mbomou",
+    "sort": "12887"
+  },
+  {
+    "city": "Ndélé",
+    "admin": "Bamingui-Bangoran",
+    "sort": "11764"
+  },
+  {
+    "city": "Birao",
+    "admin": "Vakaga",
+    "sort": "10178"
+  },
+  {
+    "city": "Mobaye",
+    "admin": "Basse-Kotto",
+    "sort": "7176"
+  },
+  {
+    "city": "Carnot",
+    "admin": "Mambéré-Kadéï",
+    "sort": "45421"
+  },
+  {
+    "city": "Zemio",
+    "admin": "Haut-Mbomou",
+    "sort": "20000"
+  },
+  {
+    "city": "Kabo",
+    "admin": "Ouham",
+    "sort": "16279"
+  },
+  {
+    "city": "Kouango",
+    "admin": "Ouaka",
+    "sort": "6984"
+  },
+  {
+    "city": "Baboua",
+    "admin": "Nana-Mambéré",
+    "sort": "6812"
+  },
+  {
+    "city": "Bossembele",
+    "admin": "Ombella-Mpoko",
+    "sort": "7287"
+  },
+  {
+    "city": "Ouadda",
+    "admin": "Haute-Kotto",
+    "sort": "5434"
+  },
+  {
+    "city": "Yakossi",
+    "admin": "Mbomou",
+    "sort": "500"
+  }
+]

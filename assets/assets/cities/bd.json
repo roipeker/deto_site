@@ -1,0 +1,97 @@
+[
+  {
+    "city": "Dhaka",
+    "admin": "Dhaka",
+    "sort": "16839000"
+  },
+  {
+    "city": "Chattogram",
+    "admin": "Chittagong",
+    "sort": "2581643"
+  },
+  {
+    "city": "Khulna",
+    "admin": "Khulna",
+    "sort": "1400689"
+  },
+  {
+    "city": "Sylhet",
+    "admin": "Sylhet",
+    "sort": "479837"
+  },
+  {
+    "city": "Rājshāhi",
+    "admin": "Rājshāhi",
+    "sort": "448087"
+  },
+  {
+    "city": "Mymensingh",
+    "admin": "Mymensingh",
+    "sort": "330126"
+  },
+  {
+    "city": "Comilla",
+    "admin": "Chittagong",
+    "sort": "296010"
+  },
+  {
+    "city": "Rangpur",
+    "admin": "Rangpur",
+    "sort": "294265"
+  },
+  {
+    "city": "Brāhmanbāria",
+    "admin": "Chittagong",
+    "sort": "268279"
+  },
+  {
+    "city": "Jessore",
+    "admin": "Khulna",
+    "sort": "243987"
+  },
+  {
+    "city": "Nārāyanganj",
+    "admin": "Dhaka",
+    "sort": "223622"
+  },
+  {
+    "city": "Saidpur",
+    "admin": "Rangpur",
+    "sort": "232209"
+  },
+  {
+    "city": "Barishal",
+    "admin": "Barisāl",
+    "sort": "230000"
+  },
+  {
+    "city": "Narsingdi",
+    "admin": "Dhaka",
+    "sort": "185128"
+  },
+  {
+    "city": "Tāngāil",
+    "admin": "Dhaka",
+    "sort": "180144"
+  },
+  {
+    "city": "Jamālpur",
+    "admin": "Mymensingh",
+    "sort": "167900"
+  },
+  {
+    "city": "Nawābganj",
+    "admin": "Rājshāhi",
+    "sort": "142361"
+  },
+  {
+    "city": "Pābna",
+    "admin": "Rājshāhi",
+    "sort": "137888"
+  },
+  {
+    "city": "Harinākunda",
+    "admin": "Khulna",
+    "sort": "17533"
+  }
+]

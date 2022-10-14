@@ -1,0 +1,627 @@
+[
+  {
+    "city": "Santo Domingo",
+    "admin": "Ozama",
+    "sort": "2581827"
+  },
+  {
+    "city": "Santiago",
+    "admin": "Cibao Norte",
+    "sort": "1343423"
+  },
+  {
+    "city": "Santo Domingo Este",
+    "admin": "Ozama",
+    "sort": "948855"
+  },
+  {
+    "city": "Los Alcarrizos",
+    "admin": "Ozama",
+    "sort": "272776"
+  },
+  {
+    "city": "Higüey",
+    "admin": "Yuma",
+    "sort": "251243"
+  },
+  {
+    "city": "San Cristóbal",
+    "admin": "Valdesia",
+    "sort": "232769"
+  },
+  {
+    "city": "La Vega",
+    "admin": "Cibao Sur",
+    "sort": "220279"
+  },
+  {
+    "city": "San Pedro de Macorís",
+    "admin": "Higuamo",
+    "sort": "195307"
+  },
+  {
+    "city": "San Francisco de Macorís",
+    "admin": "Cibao Nordeste",
+    "sort": "188118"
+  },
+  {
+    "city": "Moca",
+    "admin": "Cibao Norte",
+    "sort": "172294"
+  },
+  {
+    "city": "Puerto Plata",
+    "admin": "Cibao Norte",
+    "sort": "158756"
+  },
+  {
+    "city": "Baní",
+    "admin": "Valdesia",
+    "sort": "145595"
+  },
+  {
+    "city": "Boca Chica",
+    "admin": "Ozama",
+    "sort": "142019"
+  },
+  {
+    "city": "La Romana",
+    "admin": "Yuma",
+    "sort": "139671"
+  },
+  {
+    "city": "San Juan",
+    "admin": "El Valle",
+    "sort": "132177"
+  },
+  {
+    "city": "Bajos de Haina",
+    "admin": "Valdesia",
+    "sort": "124193"
+  },
+  {
+    "city": "Bonao",
+    "admin": "Cibao Sur",
+    "sort": "125338"
+  },
+  {
+    "city": "Barahona",
+    "admin": "Enriquillo",
+    "sort": "83619"
+  },
+  {
+    "city": "Mao",
+    "admin": "Cibao Noroeste",
+    "sort": "76863"
+  },
+  {
+    "city": "Azua",
+    "admin": "Valdesia",
+    "sort": "91345"
+  },
+  {
+    "city": "Villa Altagracia",
+    "admin": "Valdesia",
+    "sort": "84312"
+  },
+  {
+    "city": "Nagua",
+    "admin": "Cibao Nordeste",
+    "sort": "76933"
+  },
+  {
+    "city": "Cotuí",
+    "admin": "Cibao Sur",
+    "sort": "76554"
+  },
+  {
+    "city": "Pedro Brand",
+    "admin": "Ozama",
+    "sort": "74016"
+  },
+  {
+    "city": "El Seibo",
+    "admin": "Yuma",
+    "sort": "66867"
+  },
+  {
+    "city": "Hato Mayor",
+    "admin": "Higuamo",
+    "sort": "61517"
+  },
+  {
+    "city": "Constanza",
+    "admin": "Cibao Sur",
+    "sort": "59052"
+  },
+  {
+    "city": "Jarabacoa",
+    "admin": "Cibao Sur",
+    "sort": "58803"
+  },
+  {
+    "city": "Samaná",
+    "admin": "Cibao Nordeste",
+    "sort": "58156"
+  },
+  {
+    "city": "Yamasá",
+    "admin": "Higuamo",
+    "sort": "55348"
+  },
+  {
+    "city": "Tamboril",
+    "admin": "Cibao Norte",
+    "sort": "51695"
+  },
+  {
+    "city": "Sosúa",
+    "admin": "Cibao Norte",
+    "sort": "49593"
+  },
+  {
+    "city": "Puñal",
+    "admin": "Cibao Norte",
+    "sort": "46516"
+  },
+  {
+    "city": "Las Matas de Farfán",
+    "admin": "El Valle",
+    "sort": "44163"
+  },
+  {
+    "city": "Guerra",
+    "admin": "Ozama",
+    "sort": "43963"
+  },
+  {
+    "city": "Pantanal",
+    "admin": "Yuma",
+    "sort": "43982"
+  },
+  {
+    "city": "Comendador",
+    "admin": "El Valle",
+    "sort": "43894"
+  },
+  {
+    "city": "Yaguate",
+    "admin": "Valdesia",
+    "sort": "42325"
+  },
+  {
+    "city": "Villa Bisonó",
+    "admin": "Cibao Norte",
+    "sort": "42092"
+  },
+  {
+    "city": "Salcedo",
+    "admin": "Cibao Nordeste",
+    "sort": "39557"
+  },
+  {
+    "city": "San José de Ocoa",
+    "admin": "Valdesia",
+    "sort": "39451"
+  },
+  {
+    "city": "San José de Las Matas",
+    "admin": "Cibao Norte",
+    "sort": "38628"
+  },
+  {
+    "city": "Villa González",
+    "admin": "Cibao Norte",
+    "sort": "37349"
+  },
+  {
+    "city": "Gaspar Hernández",
+    "admin": "Cibao Norte",
+    "sort": "37378"
+  },
+  {
+    "city": "Neiba",
+    "admin": "Enriquillo",
+    "sort": "36511"
+  },
+  {
+    "city": "San Lorenzo de Guayubín",
+    "admin": "Cibao Noroeste",
+    "sort": "35923"
+  },
+  {
+    "city": "Sabaneta",
+    "admin": "Cibao Noroeste",
+    "sort": "34540"
+  },
+  {
+    "city": "Villa Riva",
+    "admin": "Cibao Nordeste",
+    "sort": "33663"
+  },
+  {
+    "city": "Bayaguana",
+    "admin": "Higuamo",
+    "sort": "31889"
+  },
+  {
+    "city": "Cambita Garabitos",
+    "admin": "Valdesia",
+    "sort": "31057"
+  },
+  {
+    "city": "Sabana Grande de Boyá",
+    "admin": "Higuamo",
+    "sort": "31096"
+  },
+  {
+    "city": "San Gregorio de Nigua",
+    "admin": "San Cristóbal",
+    "sort": "30268"
+  },
+  {
+    "city": "Jima Abajo",
+    "admin": "Cibao Sur",
+    "sort": "30261"
+  },
+  {
+    "city": "Dajabón",
+    "admin": "Cibao Noroeste",
+    "sort": "28071"
+  },
+  {
+    "city": "Tenares",
+    "admin": "Cibao Nordeste",
+    "sort": "27765"
+  },
+  {
+    "city": "Nizao",
+    "admin": "Valdesia",
+    "sort": "27028"
+  },
+  {
+    "city": "Tamayo",
+    "admin": "Enriquillo",
+    "sort": "26772"
+  },
+  {
+    "city": "Licey al Medio",
+    "admin": "Cibao Norte",
+    "sort": "25539"
+  },
+  {
+    "city": "Villa Tapia",
+    "admin": "Cibao Nordeste",
+    "sort": "24871"
+  },
+  {
+    "city": "Monte Cristi",
+    "admin": "Cibao Noroeste",
+    "sort": "24674"
+  },
+  {
+    "city": "El Factor",
+    "admin": "Cibao Nordeste",
+    "sort": "24240"
+  },
+  {
+    "city": "Laguna Salada",
+    "admin": "Cibao Noroeste",
+    "sort": "23962"
+  },
+  {
+    "city": "Los Llanos",
+    "admin": "Higuamo",
+    "sort": "22573"
+  },
+  {
+    "city": "Fantino",
+    "admin": "Cibao Sur",
+    "sort": "22117"
+  },
+  {
+    "city": "Imbert",
+    "admin": "Cibao Norte",
+    "sort": "22058"
+  },
+  {
+    "city": "San Rafael del Yuma",
+    "admin": "Yuma",
+    "sort": "21967"
+  },
+  {
+    "city": "Vicente Noble",
+    "admin": "Enriquillo",
+    "sort": "21605"
+  },
+  {
+    "city": "San Víctor Abajo",
+    "admin": "Cibao Norte",
+    "sort": "21009"
+  },
+  {
+    "city": "Esperalvillo",
+    "admin": "Higuamo",
+    "sort": "20900"
+  },
+  {
+    "city": "Piedra Blanca",
+    "admin": "Cibao Sur",
+    "sort": "20934"
+  },
+  {
+    "city": "Cercado Abajo",
+    "admin": "El Valle",
+    "sort": "20843"
+  },
+  {
+    "city": "Miches",
+    "admin": "Yuma",
+    "sort": "20813"
+  },
+  {
+    "city": "Padre Las Casas",
+    "admin": "Valdesia",
+    "sort": "20041"
+  },
+  {
+    "city": "Las Terrenas",
+    "admin": "Cibao Nordeste",
+    "sort": "18829"
+  },
+  {
+    "city": "Altamira",
+    "admin": "Cibao Norte",
+    "sort": "18868"
+  },
+  {
+    "city": "Pimentel",
+    "admin": "Cibao Nordeste",
+    "sort": "17864"
+  },
+  {
+    "city": "Tábara Arriba",
+    "admin": "Valdesia",
+    "sort": "17647"
+  },
+  {
+    "city": "Yayas de Viajama",
+    "admin": "Valdesia",
+    "sort": "17620"
+  },
+  {
+    "city": "Villa Isabela",
+    "admin": "Cibao Norte",
+    "sort": "17169"
+  },
+  {
+    "city": "Santo Tomás de Jánico",
+    "admin": "Cibao Norte",
+    "sort": "16993"
+  },
+  {
+    "city": "Guaymate",
+    "admin": "Yuma",
+    "sort": "16558"
+  },
+  {
+    "city": "Sabana de La Mar",
+    "admin": "Higuamo",
+    "sort": "16272"
+  },
+  {
+    "city": "Sabana Grande de Palenque",
+    "admin": "Valdesia",
+    "sort": "15466"
+  },
+  {
+    "city": "Monte Plata",
+    "admin": "Higuamo",
+    "sort": "15532"
+  },
+  {
+    "city": "Castillo",
+    "admin": "Cibao Nordeste",
+    "sort": "15709"
+  },
+  {
+    "city": "Loma de Cabrera",
+    "admin": "Cibao Noroeste",
+    "sort": "15624"
+  },
+  {
+    "city": "Río San Juan",
+    "admin": "Cibao Nordeste",
+    "sort": "15168"
+  },
+  {
+    "city": "Castañuelas",
+    "admin": "Cibao Noroeste",
+    "sort": "14921"
+  },
+  {
+    "city": "Cabral",
+    "admin": "Barahona",
+    "sort": "14823"
+  },
+  {
+    "city": "Las Guáranas",
+    "admin": "Cibao Nordeste",
+    "sort": "14661"
+  },
+  {
+    "city": "Villa Vásquez",
+    "admin": "Cibao Noroeste",
+    "sort": "14424"
+  },
+  {
+    "city": "Arenoso",
+    "admin": "Cibao Nordeste",
+    "sort": "14062"
+  },
+  {
+    "city": "Sabana Iglesia",
+    "admin": "Cibao Norte",
+    "sort": "13348"
+  },
+  {
+    "city": "Los Hidalgos",
+    "admin": "Puerto Plata",
+    "sort": "12639"
+  },
+  {
+    "city": "Vallejuelo",
+    "admin": "El Valle",
+    "sort": "12403"
+  },
+  {
+    "city": "Baitoa",
+    "admin": "Cibao Norte",
+    "sort": "11778"
+  },
+  {
+    "city": "Duvergé",
+    "admin": "Enriquillo",
+    "sort": "12029"
+  },
+  {
+    "city": "Monción",
+    "admin": "Cibao Noroeste",
+    "sort": "11753"
+  },
+  {
+    "city": "Pueblo Viejo",
+    "admin": "Valdesia",
+    "sort": "11235"
+  },
+  {
+    "city": "Jimaní",
+    "admin": "Enriquillo",
+    "sort": "11414"
+  },
+  {
+    "city": "Las Charcas",
+    "admin": "Valdesia",
+    "sort": "11243"
+  },
+  {
+    "city": "Los Almácigos",
+    "admin": "Cibao Noroeste",
+    "sort": "11183"
+  },
+  {
+    "city": "Pedernales",
+    "admin": "Enriquillo",
+    "sort": "11072"
+  },
+  {
+    "city": "Villa Jaragua",
+    "admin": "Enriquillo",
+    "sort": "10619"
+  },
+  {
+    "city": "Las Matas de Santa Cruz",
+    "admin": "Cibao Noroeste",
+    "sort": "10559"
+  },
+  {
+    "city": "Rancho Arriba",
+    "admin": "Valdesia",
+    "sort": "10299"
+  },
+  {
+    "city": "Sabana Larga",
+    "admin": "Valdesia",
+    "sort": "9794"
+  },
+  {
+    "city": "Bohechío",
+    "admin": "El Valle",
+    "sort": "9685"
+  },
+  {
+    "city": "El Cacao",
+    "admin": "Valdesia",
+    "sort": "9540"
+  },
+  {
+    "city": "Pepillo Salcedo",
+    "admin": "Cibao Noroeste",
+    "sort": "9136"
+  },
+  {
+    "city": "La Descubierta",
+    "admin": "Enriquillo",
+    "sort": "8310"
+  },
+  {
+    "city": "Polo",
+    "admin": "Enriquillo",
+    "sort": "8186"
+  },
+  {
+    "city": "Jamao al Norte",
+    "admin": "Cibao Norte",
+    "sort": "7820"
+  },
+  {
+    "city": "Oviedo",
+    "admin": "Enriquillo",
+    "sort": "7296"
+  },
+  {
+    "city": "Restauración",
+    "admin": "Cibao Noroeste",
+    "sort": "7274"
+  },
+  {
+    "city": "Cayetano Germosén",
+    "admin": "Cibao Norte",
+    "sort": "6911"
+  },
+  {
+    "city": "Partido",
+    "admin": "Cibao Noroeste",
+    "sort": "6951"
+  },
+  {
+    "city": "Bánica",
+    "admin": "El Valle",
+    "sort": "6533"
+  },
+  {
+    "city": "Guananico",
+    "admin": "Cibao Norte",
+    "sort": "6333"
+  },
+  {
+    "city": "El Pino",
+    "admin": "Cibao Noroeste",
+    "sort": "6035"
+  },
+  {
+    "city": "Postrer Río",
+    "admin": "Enriquillo",
+    "sort": "5688"
+  },
+  {
+    "city": "Estebanía",
+    "admin": "Valdesia",
+    "sort": "5640"
+  },
+  {
+    "city": "Hostos",
+    "admin": "Cibao Nordeste",
+    "sort": "5497"
+  },
+  {
+    "city": "El Guayabal",
+    "admin": "Valdesia",
+    "sort": "5263"
+  },
+  {
+    "city": "Bávaro",
+    "admin": "Yuma",
+    "sort": "795"
+  }
+]

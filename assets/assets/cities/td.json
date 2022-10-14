@@ -1,0 +1,152 @@
+[
+  {
+    "city": "N’Djamena",
+    "admin": "Ville de N’Djaména",
+    "sort": "1092066"
+  },
+  {
+    "city": "Moundou",
+    "admin": "Logone Occidental",
+    "sort": "142462"
+  },
+  {
+    "city": "Sarh",
+    "admin": "Moyen-Chari",
+    "sort": "108061"
+  },
+  {
+    "city": "Abéché",
+    "admin": "Ouaddaï",
+    "sort": "76492"
+  },
+  {
+    "city": "Goz-Beida",
+    "admin": "Sila",
+    "sort": "66107"
+  },
+  {
+    "city": "Koumra",
+    "admin": "Mandoul",
+    "sort": "39852"
+  },
+  {
+    "city": "Am-Timan",
+    "admin": "Salamat",
+    "sort": "38261"
+  },
+  {
+    "city": "Doba",
+    "admin": "Logone Oriental",
+    "sort": "29597"
+  },
+  {
+    "city": "Bongor",
+    "admin": "Mayo-Kébbi Est",
+    "sort": "27770"
+  },
+  {
+    "city": "Mongo",
+    "admin": "Guéra",
+    "sort": "27763"
+  },
+  {
+    "city": "Ati",
+    "admin": "Batha",
+    "sort": "20695"
+  },
+  {
+    "city": "Laï",
+    "admin": "Tandjilé",
+    "sort": "19382"
+  },
+  {
+    "city": "Mao",
+    "admin": "Kanem",
+    "sort": "19004"
+  },
+  {
+    "city": "Moussoro",
+    "admin": "Barh el Gazel",
+    "sort": "16349"
+  },
+  {
+    "city": "Faya",
+    "admin": "Borkou",
+    "sort": "13400"
+  },
+  {
+    "city": "Bol",
+    "admin": "Lac",
+    "sort": "11700"
+  },
+  {
+    "city": "Biltine",
+    "admin": "Wadi Fira",
+    "sort": "11000"
+  },
+  {
+    "city": "Massenya",
+    "admin": "Chari-Baguirmi",
+    "sort": "3680"
+  },
+  {
+    "city": "Fada",
+    "admin": "Ennedi-Ouest",
+    "sort": "448"
+  },
+  {
+    "city": "Pala",
+    "admin": "Mayo-Kébbi Ouest",
+    "sort": ""
+  },
+  {
+    "city": "Massakory",
+    "admin": "Hadjer-Lamis",
+    "sort": ""
+  },
+  {
+    "city": "Amdjarass",
+    "admin": "Ennedi-Est",
+    "sort": ""
+  },
+  {
+    "city": "Bardaï",
+    "admin": "Tibesti",
+    "sort": ""
+  },
+  {
+    "city": "Kelo",
+    "admin": "Tandjilé",
+    "sort": "96224"
+  },
+  {
+    "city": "Yao",
+    "admin": "Batha",
+    "sort": "91507"
+  },
+  {
+    "city": "Léré",
+    "admin": "Mayo-Kébbi Ouest",
+    "sort": "89237"
+  },
+  {
+    "city": "Fianga",
+    "admin": "Mayo-Kébbi Est",
+    "sort": "42606"
+  },
+  {
+    "city": "Pala Oua",
+    "admin": "Mayo-Kébbi Ouest",
+    "sort": "38975"
+  },
+  {
+    "city": "Oum Hadjer",
+    "admin": "Batha",
+    "sort": "26136"
+  },
+  {
+    "city": "Zouar",
+    "admin": "Tibesti",
+    "sort": "6432"
+  }
+]

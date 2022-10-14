@@ -1,0 +1,207 @@
+[
+  {
+    "city": "Rangoon",
+    "admin": "Yangon",
+    "sort": "5430000"
+  },
+  {
+    "city": "Mandalay",
+    "admin": "Mandalay",
+    "sort": "1225546"
+  },
+  {
+    "city": "Nay Pyi Taw",
+    "admin": "Nay Pyi Taw",
+    "sort": "1160242"
+  },
+  {
+    "city": "Hpa-An",
+    "admin": "Kayin State",
+    "sort": "421525"
+  },
+  {
+    "city": "Bago",
+    "admin": "Bago",
+    "sort": "284179"
+  },
+  {
+    "city": "Myeik",
+    "admin": "Taninthayi",
+    "sort": "266720"
+  },
+  {
+    "city": "Myitkyina",
+    "admin": "Kachin State",
+    "sort": "243031"
+  },
+  {
+    "city": "Pathein",
+    "admin": "Ayeyawady",
+    "sort": "237089"
+  },
+  {
+    "city": "Monywa",
+    "admin": "Sagaing",
+    "sort": "207489"
+  },
+  {
+    "city": "Sittwe",
+    "admin": "Rakhine State",
+    "sort": "181000"
+  },
+  {
+    "city": "Hinthada",
+    "admin": "Ayeyawady",
+    "sort": "180728"
+  },
+  {
+    "city": "Letpandan",
+    "admin": "Bago",
+    "sort": "176571"
+  },
+  {
+    "city": "Myingyan",
+    "admin": "Mandalay",
+    "sort": "163812"
+  },
+  {
+    "city": "Taunggyi",
+    "admin": "Shan State",
+    "sort": "160115"
+  },
+  {
+    "city": "Mudon",
+    "admin": "Mon State",
+    "sort": "152300"
+  },
+  {
+    "city": "Dawei",
+    "admin": "Taninthayi",
+    "sort": "139900"
+  },
+  {
+    "city": "Pyay",
+    "admin": "Bago",
+    "sort": "135308"
+  },
+  {
+    "city": "Pakokku",
+    "admin": "Magway",
+    "sort": "126938"
+  },
+  {
+    "city": "Magway",
+    "admin": "Magway",
+    "sort": "125973"
+  },
+  {
+    "city": "Yenangyaung",
+    "admin": "Magway",
+    "sort": "110553"
+  },
+  {
+    "city": "Taungoo",
+    "admin": "Bago",
+    "sort": "106945"
+  },
+  {
+    "city": "Sagaing",
+    "admin": "Sagaing",
+    "sort": "69917"
+  },
+  {
+    "city": "Hakha",
+    "admin": "Chin State",
+    "sort": "20000"
+  },
+  {
+    "city": "Loikaw",
+    "admin": "Kayah State",
+    "sort": "11000"
+  },
+  {
+    "city": "Mawlamyine",
+    "admin": "Mon State",
+    "sort": "2"
+  },
+  {
+    "city": "Chauk",
+    "admin": "Magway",
+    "sort": "90870"
+  },
+  {
+    "city": "Shwebo",
+    "admin": "Sagaing",
+    "sort": "88914"
+  },
+  {
+    "city": "Pyapon",
+    "admin": "Ayeyawady",
+    "sort": "76741"
+  },
+  {
+    "city": "Kengtung",
+    "admin": "Shan State",
+    "sort": "75865"
+  },
+  {
+    "city": "Allanmyo",
+    "admin": "Magway",
+    "sort": "57897"
+  },
+  {
+    "city": "Thongwa",
+    "admin": "Yangon",
+    "sort": "52496"
+  },
+  {
+    "city": "Ye",
+    "admin": "Mon State",
+    "sort": "50798"
+  },
+  {
+    "city": "Wakema",
+    "admin": "Ayeyawady",
+    "sort": "48405"
+  },
+  {
+    "city": "Namtu",
+    "admin": "Shan State",
+    "sort": "48591"
+  },
+  {
+    "city": "Pyu",
+    "admin": "Bago",
+    "sort": "40386"
+  },
+  {
+    "city": "Nyaungdon",
+    "admin": "Ayeyawady",
+    "sort": "36172"
+  },
+  {
+    "city": "Amarapura",
+    "admin": "Mandalay",
+    "sort": "23200"
+  },
+  {
+    "city": "Haka",
+    "admin": "Sagaing",
+    "sort": "20000"
+  },
+  {
+    "city": "Kale",
+    "admin": "Kayin State",
+    "sort": "5355"
+  },
+  {
+    "city": "Kyaukpyu",
+    "admin": "Rakhine State",
+    "sort": "4261"
+  },
+  {
+    "city": "Labutta",
+    "admin": "Ayeyawady",
+    "sort": "1667"
+  }
+]

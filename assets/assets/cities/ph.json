@@ -1,0 +1,7702 @@
+[
+  {
+    "city": "Manila",
+    "admin": "Manila",
+    "sort": "23971000"
+  },
+  {
+    "city": "Quezon City",
+    "admin": "Quezon",
+    "sort": "2960048"
+  },
+  {
+    "city": "Davao",
+    "admin": "Davao",
+    "sort": "1776949"
+  },
+  {
+    "city": "Caloocan City",
+    "admin": "Caloocan",
+    "sort": "1661584"
+  },
+  {
+    "city": "Zamboanga City",
+    "admin": "Zamboanga",
+    "sort": "977234"
+  },
+  {
+    "city": "Cebu City",
+    "admin": "Cebu",
+    "sort": "964169"
+  },
+  {
+    "city": "Taguig City",
+    "admin": "Taguig",
+    "sort": "886722"
+  },
+  {
+    "city": "Antipolo",
+    "admin": "Rizal",
+    "sort": "887399"
+  },
+  {
+    "city": "Pasig City",
+    "admin": "Pasig",
+    "sort": "803159"
+  },
+  {
+    "city": "Valenzuela",
+    "admin": "Valenzuela",
+    "sort": "714978"
+  },
+  {
+    "city": "Cagayan de Oro",
+    "admin": "Cagayan de Oro",
+    "sort": "728402"
+  },
+  {
+    "city": "City of Parañaque",
+    "admin": "Parañaque",
+    "sort": "689992"
+  },
+  {
+    "city": "Dasmariñas",
+    "admin": "Cavite",
+    "sort": "703141"
+  },
+  {
+    "city": "General Santos",
+    "admin": "General Santos",
+    "sort": "697315"
+  },
+  {
+    "city": "Bacoor",
+    "admin": "Cavite",
+    "sort": "664625"
+  },
+  {
+    "city": "San Jose del Monte",
+    "admin": "Bulacan",
+    "sort": "651813"
+  },
+  {
+    "city": "Makati City",
+    "admin": "Makati",
+    "sort": "629616"
+  },
+  {
+    "city": "Las Piñas City",
+    "admin": "Las Piñas",
+    "sort": "606293"
+  },
+  {
+    "city": "Bacolod",
+    "admin": "Bacolod",
+    "sort": "600783"
+  },
+  {
+    "city": "Muntinlupa City",
+    "admin": "Muntinlupa",
+    "sort": "543445"
+  },
+  {
+    "city": "City of Calamba",
+    "admin": "Laguna",
+    "sort": "539671"
+  },
+  {
+    "city": "Lapu-Lapu City",
+    "admin": "Lapu-Lapu",
+    "sort": "497604"
+  },
+  {
+    "city": "Imus",
+    "admin": "Cavite",
+    "sort": "496794"
+  },
+  {
+    "city": "Mandaluyong City",
+    "admin": "Mandaluyong",
+    "sort": "425758"
+  },
+  {
+    "city": "Angeles City",
+    "admin": "Angeles",
+    "sort": "462928"
+  },
+  {
+    "city": "Pasay City",
+    "admin": "Pasay",
+    "sort": "440656"
+  },
+  {
+    "city": "Marikina City",
+    "admin": "Marikina",
+    "sort": "456059"
+  },
+  {
+    "city": "Iloilo",
+    "admin": "Iloilo",
+    "sort": "457626"
+  },
+  {
+    "city": "General Trias",
+    "admin": "Cavite",
+    "sort": "450583"
+  },
+  {
+    "city": "Rodriguez",
+    "admin": "Rizal",
+    "sort": "443954"
+  },
+  {
+    "city": "Santa Rosa",
+    "admin": "Laguna",
+    "sort": "414812"
+  },
+  {
+    "city": "Biñan",
+    "admin": "Laguna",
+    "sort": "407437"
+  },
+  {
+    "city": "Taytay",
+    "admin": "Rizal",
+    "sort": "386451"
+  },
+  {
+    "city": "Malabon",
+    "admin": "Malabon",
+    "sort": "380522"
+  },
+  {
+    "city": "Tarlac City",
+    "admin": "Tarlac",
+    "sort": "385398"
+  },
+  {
+    "city": "Cainta",
+    "admin": "Rizal",
+    "sort": "376933"
+  },
+  {
+    "city": "Lipa City",
+    "admin": "Batangas",
+    "sort": "372931"
+  },
+  {
+    "city": "Mandaue City",
+    "admin": "Mandaue",
+    "sort": "364116"
+  },
+  {
+    "city": "Butuan",
+    "admin": "Butuan",
+    "sort": "372910"
+  },
+  {
+    "city": "Baguio City",
+    "admin": "Baguio",
+    "sort": "366358"
+  },
+  {
+    "city": "Iligan",
+    "admin": "Iligan",
+    "sort": "363115"
+  },
+  {
+    "city": "Cabuyao",
+    "admin": "Laguna",
+    "sort": "355330"
+  },
+  {
+    "city": "San Fernando",
+    "admin": "Pampanga",
+    "sort": "354666"
+  },
+  {
+    "city": "San Pedro",
+    "admin": "Laguna",
+    "sort": "326001"
+  },
+  {
+    "city": "Batangas",
+    "admin": "Batangas",
+    "sort": "351437"
+  },
+  {
+    "city": "Cabanatuan City",
+    "admin": "Nueva Ecija",
+    "sort": "327325"
+  },
+  {
+    "city": "Cotabato",
+    "admin": "Cotabato",
+    "sort": "325079"
+  },
+  {
+    "city": "Binangonan",
+    "admin": "Rizal",
+    "sort": "313631"
+  },
+  {
+    "city": "Tanza",
+    "admin": "Cavite",
+    "sort": "312116"
+  },
+  {
+    "city": "Puerto Princesa",
+    "admin": "Puerto Princesa",
+    "sort": "307079"
+  },
+  {
+    "city": "Navotas",
+    "admin": "Navotas",
+    "sort": "247543"
+  },
+  {
+    "city": "Tagum",
+    "admin": "Davao del Norte",
+    "sort": "296202"
+  },
+  {
+    "city": "Silang",
+    "admin": "Cavite",
+    "sort": "295644"
+  },
+  {
+    "city": "Mabalacat",
+    "admin": "Pampanga",
+    "sort": "293244"
+  },
+  {
+    "city": "Santa Maria",
+    "admin": "Bulacan",
+    "sort": "289820"
+  },
+  {
+    "city": "San Pablo",
+    "admin": "Laguna",
+    "sort": "285348"
+  },
+  {
+    "city": "Lucena",
+    "admin": "Lucena",
+    "sort": "278924"
+  },
+  {
+    "city": "San Mateo",
+    "admin": "Rizal",
+    "sort": "273306"
+  },
+  {
+    "city": "Talisay",
+    "admin": "Cebu",
+    "sort": "263048"
+  },
+  {
+    "city": "Malolos",
+    "admin": "Bulacan",
+    "sort": "261189"
+  },
+  {
+    "city": "Marilao",
+    "admin": "Bulacan",
+    "sort": "254453"
+  },
+  {
+    "city": "Olongapo",
+    "admin": "Olongapo",
+    "sort": "260317"
+  },
+  {
+    "city": "Tacloban",
+    "admin": "Tacloban",
+    "sort": "251881"
+  },
+  {
+    "city": "Meycauayan",
+    "admin": "Bulacan",
+    "sort": "225673"
+  },
+  {
+    "city": "Ormoc",
+    "admin": "Ormoc",
+    "sort": "230998"
+  },
+  {
+    "city": "Santo Tomas",
+    "admin": "Batangas",
+    "sort": "218500"
+  },
+  {
+    "city": "Valencia",
+    "admin": "Bukidnon",
+    "sort": "216546"
+  },
+  {
+    "city": "Trece Martires City",
+    "admin": "Cavite",
+    "sort": "210503"
+  },
+  {
+    "city": "Naga City",
+    "admin": "Naga",
+    "sort": "209170"
+  },
+  {
+    "city": "Pagadian",
+    "admin": "Zamboanga del Sur",
+    "sort": "210452"
+  },
+  {
+    "city": "Legazpi City",
+    "admin": "Albay",
+    "sort": "209533"
+  },
+  {
+    "city": "Panabo",
+    "admin": "Davao del Norte",
+    "sort": "209230"
+  },
+  {
+    "city": "Marawi City",
+    "admin": "Lanao del Sur",
+    "sort": "207010"
+  },
+  {
+    "city": "Toledo",
+    "admin": "Cebu",
+    "sort": "207314"
+  },
+  {
+    "city": "San Carlos City",
+    "admin": "Pangasinan",
+    "sort": "205424"
+  },
+  {
+    "city": "Kabankalan",
+    "admin": "Negros Occidental",
+    "sort": "200198"
+  },
+  {
+    "city": "Koronadal",
+    "admin": "South Cotabato",
+    "sort": "195398"
+  },
+  {
+    "city": "Tanauan",
+    "admin": "Batangas",
+    "sort": "193936"
+  },
+  {
+    "city": "General Mariano Alvarez",
+    "admin": "Cavite",
+    "sort": "172433"
+  },
+  {
+    "city": "Bago",
+    "admin": "Negros Occidental",
+    "sort": "191210"
+  },
+  {
+    "city": "Malaybalay",
+    "admin": "Bukidnon",
+    "sort": "190712"
+  },
+  {
+    "city": "Digos",
+    "admin": "Davao del Sur",
+    "sort": "188376"
+  },
+  {
+    "city": "Calbayog City",
+    "admin": "Samar",
+    "sort": "186960"
+  },
+  {
+    "city": "Sorsogon",
+    "admin": "Sorsogon",
+    "sort": "182237"
+  },
+  {
+    "city": "Roxas City",
+    "admin": "Capiz",
+    "sort": "179292"
+  },
+  {
+    "city": "Dagupan City",
+    "admin": "Dagupan",
+    "sort": "174302"
+  },
+  {
+    "city": "Mexico",
+    "admin": "Pampanga",
+    "sort": "173403"
+  },
+  {
+    "city": "Lubao",
+    "admin": "Pampanga",
+    "sort": "173502"
+  },
+  {
+    "city": "Polomolok",
+    "admin": "South Cotabato",
+    "sort": "172605"
+  },
+  {
+    "city": "San Miguel",
+    "admin": "Bulacan",
+    "sort": "172073"
+  },
+  {
+    "city": "Baliuag",
+    "admin": "Bulacan",
+    "sort": "168470"
+  },
+  {
+    "city": "Surigao",
+    "admin": "Surigao del Norte",
+    "sort": "171107"
+  },
+  {
+    "city": "Concepcion",
+    "admin": "Tarlac",
+    "sort": "169953"
+  },
+  {
+    "city": "Tuguegarao",
+    "admin": "Cagayan",
+    "sort": "166334"
+  },
+  {
+    "city": "Midsayap",
+    "admin": "Cotabato",
+    "sort": "165376"
+  },
+  {
+    "city": "Pikit",
+    "admin": "Cotabato",
+    "sort": "164646"
+  },
+  {
+    "city": "Naic",
+    "admin": "Cavite",
+    "sort": "160987"
+  },
+  {
+    "city": "Sariaya",
+    "admin": "Quezon",
+    "sort": "161868"
+  },
+  {
+    "city": "Kidapawan",
+    "admin": "Cotabato",
+    "sort": "160791"
+  },
+  {
+    "city": "Pandi",
+    "admin": "Bulacan",
+    "sort": "155115"
+  },
+  {
+    "city": "Cadiz",
+    "admin": "Negros Occidental",
+    "sort": "158544"
+  },
+  {
+    "city": "Ilagan",
+    "admin": "Isabela",
+    "sort": "158218"
+  },
+  {
+    "city": "Danao",
+    "admin": "Cebu",
+    "sort": "156321"
+  },
+  {
+    "city": "Poblacion",
+    "admin": "Cebu",
+    "sort": "153197"
+  },
+  {
+    "city": "Capas",
+    "admin": "Tarlac",
+    "sort": "156056"
+  },
+  {
+    "city": "San Juan",
+    "admin": "San Juan",
+    "sort": "126347"
+  },
+  {
+    "city": "San Jose",
+    "admin": "Occidental Mindoro",
+    "sort": "153267"
+  },
+  {
+    "city": "Minglanilla",
+    "admin": "Cebu",
+    "sort": "151002"
+  },
+  {
+    "city": "Consolacion",
+    "admin": "Cebu",
+    "sort": "148012"
+  },
+  {
+    "city": "San Jose",
+    "admin": "Nueva Ecija",
+    "sort": "150917"
+  },
+  {
+    "city": "Mariveles",
+    "admin": "Bataan",
+    "sort": "149879"
+  },
+  {
+    "city": "Sagay",
+    "admin": "Negros Occidental",
+    "sort": "148894"
+  },
+  {
+    "city": "Santiago",
+    "admin": "Santiago",
+    "sort": "148580"
+  },
+  {
+    "city": "Mati",
+    "admin": "Davao Oriental",
+    "sort": "147547"
+  },
+  {
+    "city": "Calapan",
+    "admin": "Oriental Mindoro",
+    "sort": "145786"
+  },
+  {
+    "city": "Urdaneta",
+    "admin": "Pangasinan",
+    "sort": "144577"
+  },
+  {
+    "city": "Arayat",
+    "admin": "Pampanga",
+    "sort": "144875"
+  },
+  {
+    "city": "Bocaue",
+    "admin": "Bulacan",
+    "sort": "141412"
+  },
+  {
+    "city": "Malasiqui",
+    "admin": "Pangasinan",
+    "sort": "143094"
+  },
+  {
+    "city": "Calabayan",
+    "admin": "Isabela",
+    "sort": "143403"
+  },
+  {
+    "city": "Tabaco",
+    "admin": "Albay",
+    "sort": "140961"
+  },
+  {
+    "city": "Porac",
+    "admin": "Pampanga",
+    "sort": "140751"
+  },
+  {
+    "city": "Ozamiz City",
+    "admin": "Misamis Occidental",
+    "sort": "140334"
+  },
+  {
+    "city": "Tanay",
+    "admin": "Rizal",
+    "sort": "139420"
+  },
+  {
+    "city": "La Trinidad",
+    "admin": "Benguet",
+    "sort": "137404"
+  },
+  {
+    "city": "Candelaria",
+    "admin": "Quezon",
+    "sort": "137881"
+  },
+  {
+    "city": "Dipolog",
+    "admin": "Zamboanga del Norte",
+    "sort": "138141"
+  },
+  {
+    "city": "Jolo",
+    "admin": "Sulu",
+    "sort": "137266"
+  },
+  {
+    "city": "Dumaguete City",
+    "admin": "Negros Oriental",
+    "sort": "134103"
+  },
+  {
+    "city": "Carcar",
+    "admin": "Cebu",
+    "sort": "136453"
+  },
+  {
+    "city": "Nasugbu",
+    "admin": "Batangas",
+    "sort": "136524"
+  },
+  {
+    "city": "Gingoog",
+    "admin": "Misamis Oriental",
+    "sort": "136698"
+  },
+  {
+    "city": "Norzagaray",
+    "admin": "Bulacan",
+    "sort": "136064"
+  },
+  {
+    "city": "Floridablanca",
+    "admin": "Pampanga",
+    "sort": "135542"
+  },
+  {
+    "city": "Angono",
+    "admin": "Rizal",
+    "sort": "130494"
+  },
+  {
+    "city": "Daraga",
+    "admin": "Albay",
+    "sort": "133893"
+  },
+  {
+    "city": "Hagonoy",
+    "admin": "Bulacan",
+    "sort": "133448"
+  },
+  {
+    "city": "Naga",
+    "admin": "Cebu",
+    "sort": "133184"
+  },
+  {
+    "city": "Talavera",
+    "admin": "Nueva Ecija",
+    "sort": "132338"
+  },
+  {
+    "city": "San Carlos",
+    "admin": "Negros Occidental",
+    "sort": "132650"
+  },
+  {
+    "city": "Guagua",
+    "admin": "Pampanga",
+    "sort": "128893"
+  },
+  {
+    "city": "Silay",
+    "admin": "Negros Occidental",
+    "sort": "130478"
+  },
+  {
+    "city": "City of Isabela",
+    "admin": "Basilan",
+    "sort": "130379"
+  },
+  {
+    "city": "Santo Tomas",
+    "admin": "Davao del Norte",
+    "sort": "128667"
+  },
+  {
+    "city": "Rosario",
+    "admin": "Batangas",
+    "sort": "128352"
+  },
+  {
+    "city": "Guimba",
+    "admin": "Nueva Ecija",
+    "sort": "127653"
+  },
+  {
+    "city": "San Fernando",
+    "admin": "La Union",
+    "sort": "125640"
+  },
+  {
+    "city": "Santa Cruz",
+    "admin": "Laguna",
+    "sort": "123574"
+  },
+  {
+    "city": "Magalang",
+    "admin": "Pampanga",
+    "sort": "124188"
+  },
+  {
+    "city": "Gapan",
+    "admin": "Nueva Ecija",
+    "sort": "122968"
+  },
+  {
+    "city": "Bayawan",
+    "admin": "Negros Oriental",
+    "sort": "122747"
+  },
+  {
+    "city": "Tabuk",
+    "admin": "Kalinga",
+    "sort": "121033"
+  },
+  {
+    "city": "Calumpit",
+    "admin": "Bulacan",
+    "sort": "118471"
+  },
+  {
+    "city": "Candaba",
+    "admin": "Pampanga",
+    "sort": "119497"
+  },
+  {
+    "city": "Dinalupihan",
+    "admin": "Bataan",
+    "sort": "118209"
+  },
+  {
+    "city": "Apalit",
+    "admin": "Pampanga",
+    "sort": "117160"
+  },
+  {
+    "city": "Ligao",
+    "admin": "Albay",
+    "sort": "118096"
+  },
+  {
+    "city": "Malita",
+    "admin": "Davao Occidental",
+    "sort": "118197"
+  },
+  {
+    "city": "Plaridel",
+    "admin": "Bulacan",
+    "sort": "114432"
+  },
+  {
+    "city": "Guiguinto",
+    "admin": "Bulacan",
+    "sort": "113415"
+  },
+  {
+    "city": "Los Baños",
+    "admin": "Laguna",
+    "sort": "115353"
+  },
+  {
+    "city": "Samal",
+    "admin": "Davao del Norte",
+    "sort": "116771"
+  },
+  {
+    "city": "Himamaylan",
+    "admin": "Negros Occidental",
+    "sort": "116240"
+  },
+  {
+    "city": "Bongao",
+    "admin": "Tawi-Tawi",
+    "sort": "116118"
+  },
+  {
+    "city": "San Ildefonso",
+    "admin": "Bulacan",
+    "sort": "115713"
+  },
+  {
+    "city": "Mangaldan",
+    "admin": "Pangasinan",
+    "sort": "113185"
+  },
+  {
+    "city": "Iriga City",
+    "admin": "Camarines Sur",
+    "sort": "114457"
+  },
+  {
+    "city": "San Juan",
+    "admin": "Batangas",
+    "sort": "114068"
+  },
+  {
+    "city": "Daet",
+    "admin": "Camarines Norte",
+    "sort": "111700"
+  },
+  {
+    "city": "Rosario",
+    "admin": "Cavite",
+    "sort": "110807"
+  },
+  {
+    "city": "Manolo Fortich",
+    "admin": "Bukidnon",
+    "sort": "113200"
+  },
+  {
+    "city": "Libmanan",
+    "admin": "Camarines Sur",
+    "sort": "112994"
+  },
+  {
+    "city": "Tayabas",
+    "admin": "Quezon",
+    "sort": "112658"
+  },
+  {
+    "city": "Laoag",
+    "admin": "Ilocos Norte",
+    "sort": "111651"
+  },
+  {
+    "city": "Subic",
+    "admin": "Zambales",
+    "sort": "111912"
+  },
+  {
+    "city": "Kawit",
+    "admin": "Cavite",
+    "sort": "107535"
+  },
+  {
+    "city": "Baybay",
+    "admin": "Leyte",
+    "sort": "111848"
+  },
+  {
+    "city": "Pulilan",
+    "admin": "Bulacan",
+    "sort": "108836"
+  },
+  {
+    "city": "Tacurong",
+    "admin": "Sultan Kudarat",
+    "sort": "109319"
+  },
+  {
+    "city": "Cavite City",
+    "admin": "Cavite",
+    "sort": "100674"
+  },
+  {
+    "city": "Naujan",
+    "admin": "Oriental Mindoro",
+    "sort": "109587"
+  },
+  {
+    "city": "Quezon",
+    "admin": "Bukidnon",
+    "sort": "109624"
+  },
+  {
+    "city": "Glan",
+    "admin": "Sarangani",
+    "sort": "109547"
+  },
+  {
+    "city": "Carmona",
+    "admin": "Cavite",
+    "sort": "106256"
+  },
+  {
+    "city": "Bayugan",
+    "admin": "Agusan del Sur",
+    "sort": "109499"
+  },
+  {
+    "city": "Talisay",
+    "admin": "Negros Occidental",
+    "sort": "108909"
+  },
+  {
+    "city": "Lingayen",
+    "admin": "Pangasinan",
+    "sort": "107728"
+  },
+  {
+    "city": "Cawayan",
+    "admin": "Negros Occidental",
+    "sort": "108480"
+  },
+  {
+    "city": "Maramag",
+    "admin": "Bukidnon",
+    "sort": "108293"
+  },
+  {
+    "city": "Tagbilaran City",
+    "admin": "Bohol",
+    "sort": "104976"
+  },
+  {
+    "city": "Carmen",
+    "admin": "Cotabato",
+    "sort": "107603"
+  },
+  {
+    "city": "Pateros",
+    "admin": "Laguna",
+    "sort": "65227"
+  },
+  {
+    "city": "Tiaong",
+    "admin": "Quezon",
+    "sort": "106265"
+  },
+  {
+    "city": "Catbalogan",
+    "admin": "Samar",
+    "sort": "106440"
+  },
+  {
+    "city": "Bulan",
+    "admin": "Sorsogon",
+    "sort": "105190"
+  },
+  {
+    "city": "Maluñgun",
+    "admin": "Sarangani",
+    "sort": "105465"
+  },
+  {
+    "city": "Sultan Kudarat",
+    "admin": "Maguindanao",
+    "sort": "105121"
+  },
+  {
+    "city": "Balanga",
+    "admin": "Bataan",
+    "sort": "104173"
+  },
+  {
+    "city": "Masbate",
+    "admin": "Masbate",
+    "sort": "104522"
+  },
+  {
+    "city": "Sindangan",
+    "admin": "Zamboanga del Norte",
+    "sort": "103952"
+  },
+  {
+    "city": "Paniqui",
+    "admin": "Tarlac",
+    "sort": "103003"
+  },
+  {
+    "city": "San Rafael",
+    "admin": "Bulacan",
+    "sort": "103097"
+  },
+  {
+    "city": "Parang",
+    "admin": "Maguindanao",
+    "sort": "102914"
+  },
+  {
+    "city": "Guihulñgan",
+    "admin": "Negros Oriental",
+    "sort": "102656"
+  },
+  {
+    "city": "Calasiao",
+    "admin": "Pangasinan",
+    "sort": "100471"
+  },
+  {
+    "city": "Santa Cruz",
+    "admin": "Davao del Sur",
+    "sort": "101125"
+  },
+  {
+    "city": "Lamitan",
+    "admin": "Basilan",
+    "sort": "100150"
+  },
+  {
+    "city": "Talipao",
+    "admin": "Sulu",
+    "sort": "100088"
+  },
+  {
+    "city": "Catarman",
+    "admin": "Northern Samar",
+    "sort": "97879"
+  },
+  {
+    "city": "Isulan",
+    "admin": "Sultan Kudarat",
+    "sort": "97490"
+  },
+  {
+    "city": "Kalibo",
+    "admin": "Aklan",
+    "sort": "89127"
+  },
+  {
+    "city": "Ipil",
+    "admin": "Zamboanga Sibugay",
+    "sort": "89401"
+  },
+  {
+    "city": "Prosperidad",
+    "admin": "Agusan del Sur",
+    "sort": "88321"
+  },
+  {
+    "city": "Alabel",
+    "admin": "Sarangani",
+    "sort": "88294"
+  },
+  {
+    "city": "Maasin",
+    "admin": "Southern Leyte",
+    "sort": "87446"
+  },
+  {
+    "city": "Nabunturan",
+    "admin": "Compostela Valley",
+    "sort": "84340"
+  },
+  {
+    "city": "Cabadbaran",
+    "admin": "Agusan del Norte",
+    "sort": "80354"
+  },
+  {
+    "city": "Balagtas",
+    "admin": "Bulacan",
+    "sort": "77018"
+  },
+  {
+    "city": "Virac",
+    "admin": "Catanduanes",
+    "sort": "76520"
+  },
+  {
+    "city": "Poblacion",
+    "admin": "Cebu",
+    "sort": "70595"
+  },
+  {
+    "city": "Pavia",
+    "admin": "Iloilo",
+    "sort": "70388"
+  },
+  {
+    "city": "Oroquieta",
+    "admin": "Misamis Occidental",
+    "sort": "72301"
+  },
+  {
+    "city": "Borongan",
+    "admin": "Eastern Samar",
+    "sort": "71961"
+  },
+  {
+    "city": "Bayombong",
+    "admin": "Nueva Vizcaya",
+    "sort": "67714"
+  },
+  {
+    "city": "Teresa",
+    "admin": "Rizal",
+    "sort": "64072"
+  },
+  {
+    "city": "San Jose",
+    "admin": "Antique",
+    "sort": "65140"
+  },
+  {
+    "city": "Taal",
+    "admin": "Batangas",
+    "sort": "61460"
+  },
+  {
+    "city": "Tandag",
+    "admin": "Surigao del Sur",
+    "sort": "62669"
+  },
+  {
+    "city": "Naval",
+    "admin": "Biliran",
+    "sort": "58187"
+  },
+  {
+    "city": "Caridad",
+    "admin": "Cavite",
+    "sort": "27891"
+  },
+  {
+    "city": "Boac",
+    "admin": "Marinduque",
+    "sort": "57283"
+  },
+  {
+    "city": "Vigan",
+    "admin": "Ilocos Sur",
+    "sort": "53935"
+  },
+  {
+    "city": "Iba",
+    "admin": "Zambales",
+    "sort": "55581"
+  },
+  {
+    "city": "Noveleta",
+    "admin": "Cavite",
+    "sort": "49452"
+  },
+  {
+    "city": "Bangued",
+    "admin": "Abra",
+    "sort": "50382"
+  },
+  {
+    "city": "Tubod",
+    "admin": "Lanao del Norte",
+    "sort": "50073"
+  },
+  {
+    "city": "Mamburao",
+    "admin": "Occidental Mindoro",
+    "sort": "47705"
+  },
+  {
+    "city": "Palayan City",
+    "admin": "Nueva Ecija",
+    "sort": "45383"
+  },
+  {
+    "city": "Baler",
+    "admin": "Aurora",
+    "sort": "43785"
+  },
+  {
+    "city": "Mambajao",
+    "admin": "Camiguin",
+    "sort": "41094"
+  },
+  {
+    "city": "Romblon",
+    "admin": "Romblon",
+    "sort": "40554"
+  },
+  {
+    "city": "Jordan",
+    "admin": "Guimaras",
+    "sort": "39566"
+  },
+  {
+    "city": "San Roque",
+    "admin": "Cavite",
+    "sort": "19335"
+  },
+  {
+    "city": "Shariff Aguak",
+    "admin": "Maguindanao",
+    "sort": "33982"
+  },
+  {
+    "city": "Cabarroguis",
+    "admin": "Quirino",
+    "sort": "33533"
+  },
+  {
+    "city": "Camaligan",
+    "admin": "Camarines Sur",
+    "sort": "25036"
+  },
+  {
+    "city": "Siquijor",
+    "admin": "Siquijor",
+    "sort": "28915"
+  },
+  {
+    "city": "General Emilio Aguinaldo",
+    "admin": "Cavite",
+    "sort": "23973"
+  },
+  {
+    "city": "Bontoc",
+    "admin": "Mountain",
+    "sort": "24104"
+  },
+  {
+    "city": "Lagawe",
+    "admin": "Ifugao",
+    "sort": "18876"
+  },
+  {
+    "city": "Kabugao",
+    "admin": "Apayao",
+    "sort": "16215"
+  },
+  {
+    "city": "Magugpo Poblacion",
+    "admin": "Davao del Norte",
+    "sort": "6726"
+  },
+  {
+    "city": "Basco",
+    "admin": "Batanes",
+    "sort": "9517"
+  },
+  {
+    "city": "Santa Cruz",
+    "admin": "Laguna",
+    "sort": ""
+  },
+  {
+    "city": "Koronadal",
+    "admin": "South Cotabato",
+    "sort": ""
+  },
+  {
+    "city": "San Jose",
+    "admin": "Dinagat Islands",
+    "sort": ""
+  },
+  {
+    "city": "Tabuk",
+    "admin": "Kalinga",
+    "sort": ""
+  },
+  {
+    "city": "Pili",
+    "admin": "Camarines Sur",
+    "sort": ""
+  },
+  {
+    "city": "Alaminos",
+    "admin": "Pangasinan",
+    "sort": "99397"
+  },
+  {
+    "city": "Pili",
+    "admin": "Camarines Sur",
+    "sort": "99196"
+  },
+  {
+    "city": "Oton",
+    "admin": "Iloilo",
+    "sort": "98509"
+  },
+  {
+    "city": "Bislig",
+    "admin": "Surigao del Sur",
+    "sort": "99290"
+  },
+  {
+    "city": "M’lang",
+    "admin": "Cotabato",
+    "sort": "98195"
+  },
+  {
+    "city": "Balayan",
+    "admin": "Batangas",
+    "sort": "95913"
+  },
+  {
+    "city": "Escalante",
+    "admin": "Negros Occidental",
+    "sort": "96159"
+  },
+  {
+    "city": "Balamban",
+    "admin": "Cebu",
+    "sort": "95136"
+  },
+  {
+    "city": "Gerona",
+    "admin": "Tarlac",
+    "sort": "94485"
+  },
+  {
+    "city": "Lopez",
+    "admin": "Quezon",
+    "sort": "94657"
+  },
+  {
+    "city": "Daanbantayan",
+    "admin": "Cebu",
+    "sort": "93502"
+  },
+  {
+    "city": "Monkayo",
+    "admin": "Compostela Valley",
+    "sort": "93937"
+  },
+  {
+    "city": "Lemery",
+    "admin": "Batangas",
+    "sort": "93186"
+  },
+  {
+    "city": "Kabacan",
+    "admin": "Cotabato",
+    "sort": "93822"
+  },
+  {
+    "city": "Indanan",
+    "admin": "Sulu",
+    "sort": "93168"
+  },
+  {
+    "city": "Santa Barbara",
+    "admin": "Pangasinan",
+    "sort": "92187"
+  },
+  {
+    "city": "Palimbang",
+    "admin": "Sultan Kudarat",
+    "sort": "92828"
+  },
+  {
+    "city": "Sablayan",
+    "admin": "Occidental Mindoro",
+    "sort": "92598"
+  },
+  {
+    "city": "Bauan",
+    "admin": "Batangas",
+    "sort": "90819"
+  },
+  {
+    "city": "Salaman",
+    "admin": "Sultan Kudarat",
+    "sort": "91344"
+  },
+  {
+    "city": "Pongotan",
+    "admin": "Compostela Valley",
+    "sort": "90786"
+  },
+  {
+    "city": "Victorias",
+    "admin": "Negros Occidental",
+    "sort": "90101"
+  },
+  {
+    "city": "Pinamalayan",
+    "admin": "Oriental Mindoro",
+    "sort": "90383"
+  },
+  {
+    "city": "Compostela",
+    "admin": "Compostela Valley",
+    "sort": "89884"
+  },
+  {
+    "city": "Polangui",
+    "admin": "Albay",
+    "sort": "89176"
+  },
+  {
+    "city": "Bogo",
+    "admin": "Cebu",
+    "sort": "88867"
+  },
+  {
+    "city": "Banga",
+    "admin": "South Cotabato",
+    "sort": "89164"
+  },
+  {
+    "city": "Surallah",
+    "admin": "South Cotabato",
+    "sort": "89340"
+  },
+  {
+    "city": "Hinigaran",
+    "admin": "Negros Occidental",
+    "sort": "88909"
+  },
+  {
+    "city": "Calabanga",
+    "admin": "Camarines Sur",
+    "sort": "88906"
+  },
+  {
+    "city": "Passi",
+    "admin": "Iloilo",
+    "sort": "88873"
+  },
+  {
+    "city": "Murcia",
+    "admin": "Negros Occidental",
+    "sort": "88868"
+  },
+  {
+    "city": "Calauan",
+    "admin": "Laguna",
+    "sort": "87693"
+  },
+  {
+    "city": "Solana",
+    "admin": "Cagayan",
+    "sort": "88445"
+  },
+  {
+    "city": "Baras",
+    "admin": "Rizal",
+    "sort": "87637"
+  },
+  {
+    "city": "Aroroy",
+    "admin": "Masbate",
+    "sort": "88351"
+  },
+  {
+    "city": "Echague",
+    "admin": "Isabela",
+    "sort": "88410"
+  },
+  {
+    "city": "San Fabian",
+    "admin": "La Union",
+    "sort": "87428"
+  },
+  {
+    "city": "Makilala",
+    "admin": "Cotabato",
+    "sort": "87927"
+  },
+  {
+    "city": "Calaca",
+    "admin": "Batangas",
+    "sort": "87361"
+  },
+  {
+    "city": "Camiling",
+    "admin": "Tarlac",
+    "sort": "87319"
+  },
+  {
+    "city": "Baggao",
+    "admin": "Cagayan",
+    "sort": "87753"
+  },
+  {
+    "city": "Binmaley",
+    "admin": "Pangasinan",
+    "sort": "86881"
+  },
+  {
+    "city": "Nabua",
+    "admin": "Camarines Sur",
+    "sort": "86490"
+  },
+  {
+    "city": "Bantayan",
+    "admin": "Cebu",
+    "sort": "86247"
+  },
+  {
+    "city": "Tagaytay",
+    "admin": "Cavite",
+    "sort": "85330"
+  },
+  {
+    "city": "Cabiao",
+    "admin": "Nueva Ecija",
+    "sort": "85862"
+  },
+  {
+    "city": "Guinobatan",
+    "admin": "Albay",
+    "sort": "85786"
+  },
+  {
+    "city": "Batarasa",
+    "admin": "Palawan",
+    "sort": "85439"
+  },
+  {
+    "city": "Dapitan",
+    "admin": "Zamboanga del Norte",
+    "sort": "85202"
+  },
+  {
+    "city": "Science City of Muñoz",
+    "admin": "Nueva Ecija",
+    "sort": "84308"
+  },
+  {
+    "city": "Bais",
+    "admin": "Negros Oriental",
+    "sort": "84317"
+  },
+  {
+    "city": "Bolinao",
+    "admin": "Pangasinan",
+    "sort": "83979"
+  },
+  {
+    "city": "San Antonio",
+    "admin": "Nueva Ecija",
+    "sort": "83060"
+  },
+  {
+    "city": "Maco",
+    "admin": "Compostela Valley",
+    "sort": "83237"
+  },
+  {
+    "city": "Taytay",
+    "admin": "Palawan",
+    "sort": "83357"
+  },
+  {
+    "city": "Siaton",
+    "admin": "Negros Oriental",
+    "sort": "83082"
+  },
+  {
+    "city": "Mabinay",
+    "admin": "Negros Oriental",
+    "sort": "82953"
+  },
+  {
+    "city": "Tanjay",
+    "admin": "Negros Oriental",
+    "sort": "82642"
+  },
+  {
+    "city": "Calatrava",
+    "admin": "Negros Occidental",
+    "sort": "82540"
+  },
+  {
+    "city": "Carmen",
+    "admin": "Davao del Norte",
+    "sort": "82018"
+  },
+  {
+    "city": "Bulacan",
+    "admin": "Bulacan",
+    "sort": "81232"
+  },
+  {
+    "city": "Siasi",
+    "admin": "Sulu",
+    "sort": "81689"
+  },
+  {
+    "city": "Ubay",
+    "admin": "Bohol",
+    "sort": "81799"
+  },
+  {
+    "city": "Buhi",
+    "admin": "Camarines Sur",
+    "sort": "81306"
+  },
+  {
+    "city": "Matalam",
+    "admin": "Cotabato",
+    "sort": "81355"
+  },
+  {
+    "city": "Lambunao",
+    "admin": "Iloilo",
+    "sort": "81236"
+  },
+  {
+    "city": "Barili",
+    "admin": "Cebu",
+    "sort": "80715"
+  },
+  {
+    "city": "San Jose",
+    "admin": "Batangas",
+    "sort": "79868"
+  },
+  {
+    "city": "Kapalong",
+    "admin": "Davao del Norte",
+    "sort": "81068"
+  },
+  {
+    "city": "Tagoloan",
+    "admin": "Misamis Oriental",
+    "sort": "80319"
+  },
+  {
+    "city": "San Francisco",
+    "admin": "Agusan del Sur",
+    "sort": "80760"
+  },
+  {
+    "city": "Malapatan",
+    "admin": "Sarangani",
+    "sort": "80741"
+  },
+  {
+    "city": "Jaen",
+    "admin": "Nueva Ecija",
+    "sort": "79189"
+  },
+  {
+    "city": "Poblacion",
+    "admin": "Sultan Kudarat",
+    "sort": "79739"
+  },
+  {
+    "city": "Robles",
+    "admin": "Negros Occidental",
+    "sort": "79492"
+  },
+  {
+    "city": "Patikul",
+    "admin": "Sulu",
+    "sort": "79564"
+  },
+  {
+    "city": "Mangatarem",
+    "admin": "Pangasinan",
+    "sort": "79323"
+  },
+  {
+    "city": "Bauang",
+    "admin": "La Union",
+    "sort": "78449"
+  },
+  {
+    "city": "Pagbilao",
+    "admin": "Quezon",
+    "sort": "78700"
+  },
+  {
+    "city": "Pototan",
+    "admin": "Iloilo",
+    "sort": "78298"
+  },
+  {
+    "city": "Limay",
+    "admin": "Bataan",
+    "sort": "78272"
+  },
+  {
+    "city": "Macabebe",
+    "admin": "Pampanga",
+    "sort": "78151"
+  },
+  {
+    "city": "Argao",
+    "admin": "Cebu",
+    "sort": "78187"
+  },
+  {
+    "city": "Bamban",
+    "admin": "Tarlac",
+    "sort": "78260"
+  },
+  {
+    "city": "Bustos",
+    "admin": "Bulacan",
+    "sort": "77199"
+  },
+  {
+    "city": "Narra",
+    "admin": "Palawan",
+    "sort": "77948"
+  },
+  {
+    "city": "Hermosa",
+    "admin": "Bataan",
+    "sort": "77443"
+  },
+  {
+    "city": "Santa Catalina",
+    "admin": "Negros Oriental",
+    "sort": "77501"
+  },
+  {
+    "city": "Manaoag",
+    "admin": "Pangasinan",
+    "sort": "76045"
+  },
+  {
+    "city": "Umingan",
+    "admin": "Pangasinan",
+    "sort": "77074"
+  },
+  {
+    "city": "Bongabong",
+    "admin": "Oriental Mindoro",
+    "sort": "76973"
+  },
+  {
+    "city": "Talakag",
+    "admin": "Bukidnon",
+    "sort": "77027"
+  },
+  {
+    "city": "Palo",
+    "admin": "Leyte",
+    "sort": "76213"
+  },
+  {
+    "city": "Infanta",
+    "admin": "Quezon",
+    "sort": "76186"
+  },
+  {
+    "city": "Santa Rosa",
+    "admin": "Nueva Ecija",
+    "sort": "75649"
+  },
+  {
+    "city": "Pilar",
+    "admin": "Sorsogon",
+    "sort": "75793"
+  },
+  {
+    "city": "Pinamungahan",
+    "admin": "Cebu",
+    "sort": "75131"
+  },
+  {
+    "city": "Libon",
+    "admin": "Albay",
+    "sort": "75073"
+  },
+  {
+    "city": "Bugallon",
+    "admin": "Pangasinan",
+    "sort": "74962"
+  },
+  {
+    "city": "Pozorrubio",
+    "admin": "Pangasinan",
+    "sort": "74729"
+  },
+  {
+    "city": "Dalaguete",
+    "admin": "Cebu",
+    "sort": "74596"
+  },
+  {
+    "city": "Esperanza",
+    "admin": "Sultan Kudarat",
+    "sort": "74696"
+  },
+  {
+    "city": "Balingasag",
+    "admin": "Misamis Oriental",
+    "sort": "74385"
+  },
+  {
+    "city": "Dumangas",
+    "admin": "Iloilo",
+    "sort": "73899"
+  },
+  {
+    "city": "Alicia",
+    "admin": "Isabela",
+    "sort": "73874"
+  },
+  {
+    "city": "Brookes Point",
+    "admin": "Palawan",
+    "sort": "73994"
+  },
+  {
+    "city": "Lala",
+    "admin": "Lanao del Norte",
+    "sort": "73425"
+  },
+  {
+    "city": "Tupi",
+    "admin": "South Cotabato",
+    "sort": "73459"
+  },
+  {
+    "city": "Bula",
+    "admin": "Camarines Sur",
+    "sort": "73143"
+  },
+  {
+    "city": "Jose Abad Santos",
+    "admin": "Davao Occidental",
+    "sort": "73381"
+  },
+  {
+    "city": "Carles",
+    "admin": "Iloilo",
+    "sort": "72637"
+  },
+  {
+    "city": "San Fernando",
+    "admin": "Cebu",
+    "sort": "72224"
+  },
+  {
+    "city": "Bacacay",
+    "admin": "Albay",
+    "sort": "72485"
+  },
+  {
+    "city": "Morong",
+    "admin": "Rizal",
+    "sort": "71151"
+  },
+  {
+    "city": "Catanauan",
+    "admin": "Quezon",
+    "sort": "72752"
+  },
+  {
+    "city": "Sipalay",
+    "admin": "Negros Occidental",
+    "sort": "72448"
+  },
+  {
+    "city": "Camalig",
+    "admin": "Albay",
+    "sort": "72042"
+  },
+  {
+    "city": "Pigcawayan",
+    "admin": "Cotabato",
+    "sort": "72371"
+  },
+  {
+    "city": "Pililla",
+    "admin": "Rizal",
+    "sort": "71535"
+  },
+  {
+    "city": "Gumaca",
+    "admin": "Quezon",
+    "sort": "71942"
+  },
+  {
+    "city": "Calauag",
+    "admin": "Quezon",
+    "sort": "71809"
+  },
+  {
+    "city": "Binalbagan",
+    "admin": "Negros Occidental",
+    "sort": "71407"
+  },
+  {
+    "city": "Talibon",
+    "admin": "Bohol",
+    "sort": "71272"
+  },
+  {
+    "city": "Parang",
+    "admin": "Sulu",
+    "sort": "71495"
+  },
+  {
+    "city": "Goa",
+    "admin": "Camarines Sur",
+    "sort": "71368"
+  },
+  {
+    "city": "Orani",
+    "admin": "Bataan",
+    "sort": "70342"
+  },
+  {
+    "city": "Mauban",
+    "admin": "Quezon",
+    "sort": "71081"
+  },
+  {
+    "city": "Tumauini",
+    "admin": "Isabela",
+    "sort": "70743"
+  },
+  {
+    "city": "Rizal",
+    "admin": "Nueva Ecija",
+    "sort": "70196"
+  },
+  {
+    "city": "Tinambac",
+    "admin": "Camarines Sur",
+    "sort": "70176"
+  },
+  {
+    "city": "San Pascual",
+    "admin": "Batangas",
+    "sort": "69009"
+  },
+  {
+    "city": "Roxas",
+    "admin": "Palawan",
+    "sort": "69624"
+  },
+  {
+    "city": "Indang",
+    "admin": "Cavite",
+    "sort": "68699"
+  },
+  {
+    "city": "Don Carlos",
+    "admin": "Bukidnon",
+    "sort": "69273"
+  },
+  {
+    "city": "La Paz",
+    "admin": "Tarlac",
+    "sort": "68952"
+  },
+  {
+    "city": "Cawayan",
+    "admin": "Masbate",
+    "sort": "69265"
+  },
+  {
+    "city": "Mamungan",
+    "admin": "Lanao del Norte",
+    "sort": "68465"
+  },
+  {
+    "city": "Aparri",
+    "admin": "Cagayan",
+    "sort": "68839"
+  },
+  {
+    "city": "Bagumbayan",
+    "admin": "Maguindanao",
+    "sort": "68947"
+  },
+  {
+    "city": "Buenavista",
+    "admin": "Agusan del Norte",
+    "sort": "68892"
+  },
+  {
+    "city": "San Leonardo",
+    "admin": "Nueva Ecija",
+    "sort": "68536"
+  },
+  {
+    "city": "Tangub",
+    "admin": "Misamis Occidental",
+    "sort": "68389"
+  },
+  {
+    "city": "Bay",
+    "admin": "Laguna",
+    "sort": "67182"
+  },
+  {
+    "city": "Alamada",
+    "admin": "Cotabato",
+    "sort": "68659"
+  },
+  {
+    "city": "Castillejos",
+    "admin": "Zambales",
+    "sort": "67889"
+  },
+  {
+    "city": "Miagao",
+    "admin": "Iloilo",
+    "sort": "68115"
+  },
+  {
+    "city": "Tuburan",
+    "admin": "Cebu",
+    "sort": "68167"
+  },
+  {
+    "city": "Sipocot",
+    "admin": "Camarines Sur",
+    "sort": "68169"
+  },
+  {
+    "city": "Cuyapo",
+    "admin": "Nueva Ecija",
+    "sort": "68066"
+  },
+  {
+    "city": "Santa Barbara",
+    "admin": "Iloilo",
+    "sort": "67630"
+  },
+  {
+    "city": "Rosales",
+    "admin": "Pangasinan",
+    "sort": "66711"
+  },
+  {
+    "city": "Agoo",
+    "admin": "La Union",
+    "sort": "66028"
+  },
+  {
+    "city": "San Mateo",
+    "admin": "Isabela",
+    "sort": "66663"
+  },
+  {
+    "city": "Janiuay",
+    "admin": "Iloilo",
+    "sort": "66786"
+  },
+  {
+    "city": "La Carlota",
+    "admin": "Negros Occidental",
+    "sort": "66664"
+  },
+  {
+    "city": "Bongabon",
+    "admin": "Nueva Ecija",
+    "sort": "66839"
+  },
+  {
+    "city": "Lupon",
+    "admin": "Davao Oriental",
+    "sort": "66979"
+  },
+  {
+    "city": "Botolan",
+    "admin": "Zambales",
+    "sort": "66739"
+  },
+  {
+    "city": "Opol",
+    "admin": "Misamis Oriental",
+    "sort": "66327"
+  },
+  {
+    "city": "Angat",
+    "admin": "Bulacan",
+    "sort": "65617"
+  },
+  {
+    "city": "San Remigio",
+    "admin": "Cebu",
+    "sort": "65744"
+  },
+  {
+    "city": "Oas",
+    "admin": "Albay",
+    "sort": "66084"
+  },
+  {
+    "city": "Malvar",
+    "admin": "Batangas",
+    "sort": "64379"
+  },
+  {
+    "city": "Roxas",
+    "admin": "Isabela",
+    "sort": "65839"
+  },
+  {
+    "city": "Lantapan",
+    "admin": "Bukidnon",
+    "sort": "65974"
+  },
+  {
+    "city": "Kiamba",
+    "admin": "Sarangani",
+    "sort": "65774"
+  },
+  {
+    "city": "Coron",
+    "admin": "Palawan",
+    "sort": "65855"
+  },
+  {
+    "city": "Villasis",
+    "admin": "Pangasinan",
+    "sort": "65047"
+  },
+  {
+    "city": "Lutayan",
+    "admin": "Maguindanao",
+    "sort": "65644"
+  },
+  {
+    "city": "Solano",
+    "admin": "Nueva Vizcaya",
+    "sort": "65287"
+  },
+  {
+    "city": "Nagcarlan",
+    "admin": "Laguna",
+    "sort": "64866"
+  },
+  {
+    "city": "Quezon",
+    "admin": "Palawan",
+    "sort": "65283"
+  },
+  {
+    "city": "Maasin",
+    "admin": "Sarangani",
+    "sort": "64940"
+  },
+  {
+    "city": "Isabela",
+    "admin": "Negros Occidental",
+    "sort": "64516"
+  },
+  {
+    "city": "Saravia",
+    "admin": "Negros Occidental",
+    "sort": "64290"
+  },
+  {
+    "city": "Hilongos",
+    "admin": "Leyte",
+    "sort": "64514"
+  },
+  {
+    "city": "Sibulan",
+    "admin": "Negros Oriental",
+    "sort": "64343"
+  },
+  {
+    "city": "Atimonan",
+    "admin": "Quezon",
+    "sort": "64260"
+  },
+  {
+    "city": "Victoria",
+    "admin": "Tarlac",
+    "sort": "63715"
+  },
+  {
+    "city": "Tuao",
+    "admin": "Cagayan",
+    "sort": "63970"
+  },
+  {
+    "city": "Aliaga",
+    "admin": "Nueva Ecija",
+    "sort": "63543"
+  },
+  {
+    "city": "Sibalom",
+    "admin": "Antique",
+    "sort": "63833"
+  },
+  {
+    "city": "Santa Cruz",
+    "admin": "Zambales",
+    "sort": "63839"
+  },
+  {
+    "city": "Jose Pañganiban",
+    "admin": "Camarines Norte",
+    "sort": "63662"
+  },
+  {
+    "city": "Moncada",
+    "admin": "Tarlac",
+    "sort": "62819"
+  },
+  {
+    "city": "Bansalan",
+    "admin": "Davao del Sur",
+    "sort": "62737"
+  },
+  {
+    "city": "San Fernando",
+    "admin": "Bukidnon",
+    "sort": "63045"
+  },
+  {
+    "city": "Calinog",
+    "admin": "Iloilo",
+    "sort": "62853"
+  },
+  {
+    "city": "Santa Ana",
+    "admin": "Pampanga",
+    "sort": "61537"
+  },
+  {
+    "city": "Kapatagan",
+    "admin": "Lanao del Norte",
+    "sort": "62571"
+  },
+  {
+    "city": "Aurora",
+    "admin": "Quezon",
+    "sort": "62097"
+  },
+  {
+    "city": "Cambanugoy",
+    "admin": "Davao del Norte",
+    "sort": "61893"
+  },
+  {
+    "city": "Baao",
+    "admin": "Camarines Sur",
+    "sort": "61493"
+  },
+  {
+    "city": "Santo Domingo",
+    "admin": "Nueva Ecija",
+    "sort": "61092"
+  },
+  {
+    "city": "Orion",
+    "admin": "Bataan",
+    "sort": "60771"
+  },
+  {
+    "city": "Cabatuan",
+    "admin": "Iloilo",
+    "sort": "61110"
+  },
+  {
+    "city": "Itogon",
+    "admin": "Benguet",
+    "sort": "61498"
+  },
+  {
+    "city": "Tigaon",
+    "admin": "Camarines Sur",
+    "sort": "60524"
+  },
+  {
+    "city": "Abuyog",
+    "admin": "Leyte",
+    "sort": "61216"
+  },
+  {
+    "city": "Tulunan",
+    "admin": "Cotabato",
+    "sort": "60978"
+  },
+  {
+    "city": "Obando",
+    "admin": "Bulacan",
+    "sort": "59978"
+  },
+  {
+    "city": "Rosario",
+    "admin": "La Union",
+    "sort": "60278"
+  },
+  {
+    "city": "Jinoba-an",
+    "admin": "Negros Occidental",
+    "sort": "60865"
+  },
+  {
+    "city": "Malay",
+    "admin": "Aklan",
+    "sort": "60077"
+  },
+  {
+    "city": "Castilla",
+    "admin": "Sorsogon",
+    "sort": "60635"
+  },
+  {
+    "city": "Laoang",
+    "admin": "Northern Samar",
+    "sort": "60607"
+  },
+  {
+    "city": "Matanao",
+    "admin": "Davao del Sur",
+    "sort": "60493"
+  },
+  {
+    "city": "Gubat",
+    "admin": "Sorsogon",
+    "sort": "60294"
+  },
+  {
+    "city": "Paracale",
+    "admin": "Camarines Norte",
+    "sort": "60198"
+  },
+  {
+    "city": "Medellin",
+    "admin": "Cebu",
+    "sort": "59605"
+  },
+  {
+    "city": "Maimbung",
+    "admin": "Sulu",
+    "sort": "59597"
+  },
+  {
+    "city": "San Simon",
+    "admin": "Pampanga",
+    "sort": "59182"
+  },
+  {
+    "city": "Alfonso",
+    "admin": "Cavite",
+    "sort": "59306"
+  },
+  {
+    "city": "San Mariano",
+    "admin": "Isabela",
+    "sort": "60124"
+  },
+  {
+    "city": "Kananya",
+    "admin": "Leyte",
+    "sort": "59696"
+  },
+  {
+    "city": "Ilog",
+    "admin": "Negros Occidental",
+    "sort": "59855"
+  },
+  {
+    "city": "Sigaboy",
+    "admin": "Davao Oriental",
+    "sort": "59891"
+  },
+  {
+    "city": "Ragay",
+    "admin": "Camarines Sur",
+    "sort": "59770"
+  },
+  {
+    "city": "San Francisco",
+    "admin": "Cebu",
+    "sort": "59236"
+  },
+  {
+    "city": "Irosin",
+    "admin": "Sorsogon",
+    "sort": "59267"
+  },
+  {
+    "city": "San Luis",
+    "admin": "Pampanga",
+    "sort": "58551"
+  },
+  {
+    "city": "Roxas",
+    "admin": "Oriental Mindoro",
+    "sort": "58849"
+  },
+  {
+    "city": "Esperanza",
+    "admin": "Agusan del Sur",
+    "sort": "59353"
+  },
+  {
+    "city": "Ibaan",
+    "admin": "Batangas",
+    "sort": "58507"
+  },
+  {
+    "city": "El Salvador",
+    "admin": "Misamis Oriental",
+    "sort": "58771"
+  },
+  {
+    "city": "Mansalay",
+    "admin": "Oriental Mindoro",
+    "sort": "59114"
+  },
+  {
+    "city": "Calatagan",
+    "admin": "Batangas",
+    "sort": "58719"
+  },
+  {
+    "city": "Masantol",
+    "admin": "Pampanga",
+    "sort": "57990"
+  },
+  {
+    "city": "Canlaon",
+    "admin": "Negros Oriental",
+    "sort": "58822"
+  },
+  {
+    "city": "Upi",
+    "admin": "Maguindanao",
+    "sort": "59004"
+  },
+  {
+    "city": "Gattaran",
+    "admin": "Cagayan",
+    "sort": "58874"
+  },
+  {
+    "city": "Barotac Nuevo",
+    "admin": "Iloilo",
+    "sort": "58176"
+  },
+  {
+    "city": "Baganga",
+    "admin": "Davao Oriental",
+    "sort": "58714"
+  },
+  {
+    "city": "Palompon",
+    "admin": "Leyte",
+    "sort": "58313"
+  },
+  {
+    "city": "Asingan",
+    "admin": "Pangasinan",
+    "sort": "57811"
+  },
+  {
+    "city": "Cogan",
+    "admin": "Cebu",
+    "sort": "57897"
+  },
+  {
+    "city": "Dumanjog",
+    "admin": "Cebu",
+    "sort": "57823"
+  },
+  {
+    "city": "Tanauan",
+    "admin": "Leyte",
+    "sort": "57455"
+  },
+  {
+    "city": "New Corella",
+    "admin": "Davao del Norte",
+    "sort": "57913"
+  },
+  {
+    "city": "Santa Maria",
+    "admin": "Davao del Sur",
+    "sort": "57526"
+  },
+  {
+    "city": "Jasaan",
+    "admin": "Misamis Oriental",
+    "sort": "57055"
+  },
+  {
+    "city": "Milagros",
+    "admin": "Masbate",
+    "sort": "57538"
+  },
+  {
+    "city": "Binalonan",
+    "admin": "Pangasinan",
+    "sort": "56382"
+  },
+  {
+    "city": "Alangalang",
+    "admin": "Leyte",
+    "sort": "57185"
+  },
+  {
+    "city": "Uson",
+    "admin": "Masbate",
+    "sort": "57166"
+  },
+  {
+    "city": "Buluan",
+    "admin": "Maguindanao",
+    "sort": "57406"
+  },
+  {
+    "city": "Hagonoy",
+    "admin": "Davao del Sur",
+    "sort": "56919"
+  },
+  {
+    "city": "Lian",
+    "admin": "Batangas",
+    "sort": "56280"
+  },
+  {
+    "city": "Tiwi",
+    "admin": "Albay",
+    "sort": "56444"
+  },
+  {
+    "city": "Ramon",
+    "admin": "Isabela",
+    "sort": "56523"
+  },
+  {
+    "city": "Poblacion",
+    "admin": "Cebu",
+    "sort": "55874"
+  },
+  {
+    "city": "Paombong",
+    "admin": "Bulacan",
+    "sort": "55696"
+  },
+  {
+    "city": "Lagonoy",
+    "admin": "Camarines Sur",
+    "sort": "56714"
+  },
+  {
+    "city": "Basey",
+    "admin": "Samar",
+    "sort": "56685"
+  },
+  {
+    "city": "Pangantocan",
+    "admin": "Bukidnon",
+    "sort": "56580"
+  },
+  {
+    "city": "Placer",
+    "admin": "Masbate",
+    "sort": "56340"
+  },
+  {
+    "city": "Libungan",
+    "admin": "Cotabato",
+    "sort": "56269"
+  },
+  {
+    "city": "Magsaysay",
+    "admin": "Davao del Sur",
+    "sort": "56263"
+  },
+  {
+    "city": "Pila",
+    "admin": "Laguna",
+    "sort": "54613"
+  },
+  {
+    "city": "Diffun",
+    "admin": "Quirino",
+    "sort": "56102"
+  },
+  {
+    "city": "Urbiztondo",
+    "admin": "Pangasinan",
+    "sort": "55557"
+  },
+  {
+    "city": "General Tinio",
+    "admin": "Nueva Ecija",
+    "sort": "55925"
+  },
+  {
+    "city": "Bambang",
+    "admin": "Nueva Vizcaya",
+    "sort": "55789"
+  },
+  {
+    "city": "Batac",
+    "admin": "Ilocos Norte",
+    "sort": "55484"
+  },
+  {
+    "city": "Mulanay",
+    "admin": "Quezon",
+    "sort": "55576"
+  },
+  {
+    "city": "Asturias",
+    "admin": "Cebu",
+    "sort": "55397"
+  },
+  {
+    "city": "Mercedes",
+    "admin": "Camarines Norte",
+    "sort": "55334"
+  },
+  {
+    "city": "Manapla",
+    "admin": "Negros Occidental",
+    "sort": "55083"
+  },
+  {
+    "city": "San Isidro",
+    "admin": "Nueva Ecija",
+    "sort": "54372"
+  },
+  {
+    "city": "Carigara",
+    "admin": "Leyte",
+    "sort": "54656"
+  },
+  {
+    "city": "Estancia",
+    "admin": "Iloilo",
+    "sort": "53200"
+  },
+  {
+    "city": "Pontevedra",
+    "admin": "Negros Occidental",
+    "sort": "54502"
+  },
+  {
+    "city": "Sara",
+    "admin": "Iloilo",
+    "sort": "54637"
+  },
+  {
+    "city": "Santa Cruz",
+    "admin": "Marinduque",
+    "sort": "54692"
+  },
+  {
+    "city": "Masinloc",
+    "admin": "Zambales",
+    "sort": "54529"
+  },
+  {
+    "city": "San Manuel",
+    "admin": "Pangasinan",
+    "sort": "54271"
+  },
+  {
+    "city": "Trento",
+    "admin": "Agusan del Sur",
+    "sort": "54492"
+  },
+  {
+    "city": "Tapas",
+    "admin": "Capiz",
+    "sort": "54423"
+  },
+  {
+    "city": "Minalabac",
+    "admin": "Camarines Sur",
+    "sort": "53981"
+  },
+  {
+    "city": "Titay",
+    "admin": "Zamboanga Sibugay",
+    "sort": "53994"
+  },
+  {
+    "city": "Tagkawayan",
+    "admin": "Quezon",
+    "sort": "54003"
+  },
+  {
+    "city": "Cabagan",
+    "admin": "Isabela",
+    "sort": "53897"
+  },
+  {
+    "city": "Impasugong",
+    "admin": "Bukidnon",
+    "sort": "53863"
+  },
+  {
+    "city": "Magpet",
+    "admin": "Cotabato",
+    "sort": "53800"
+  },
+  {
+    "city": "Kitaotao",
+    "admin": "Bukidnon",
+    "sort": "53796"
+  },
+  {
+    "city": "Sibonga",
+    "admin": "Cebu",
+    "sort": "53424"
+  },
+  {
+    "city": "Pasacao",
+    "admin": "Camarines Sur",
+    "sort": "53461"
+  },
+  {
+    "city": "Ajuy",
+    "admin": "Iloilo",
+    "sort": "53462"
+  },
+  {
+    "city": "Dauis",
+    "admin": "Bohol",
+    "sort": "52492"
+  },
+  {
+    "city": "Guiuan",
+    "admin": "Eastern Samar",
+    "sort": "53361"
+  },
+  {
+    "city": "Lucban",
+    "admin": "Quezon",
+    "sort": "53091"
+  },
+  {
+    "city": "Barobo",
+    "admin": "Surigao del Sur",
+    "sort": "53146"
+  },
+  {
+    "city": "Molave",
+    "admin": "Zamboanga del Sur",
+    "sort": "53140"
+  },
+  {
+    "city": "Buenavista",
+    "admin": "Iloilo",
+    "sort": "52899"
+  },
+  {
+    "city": "Aurora",
+    "admin": "Zamboanga del Sur",
+    "sort": "52995"
+  },
+  {
+    "city": "Hamtic",
+    "admin": "Antique",
+    "sort": "52685"
+  },
+  {
+    "city": "Padre Garcia",
+    "admin": "Batangas",
+    "sort": "51853"
+  },
+  {
+    "city": "Sison",
+    "admin": "Pangasinan",
+    "sort": "52320"
+  },
+  {
+    "city": "Bani",
+    "admin": "Pangasinan",
+    "sort": "52603"
+  },
+  {
+    "city": "San Joaquin",
+    "admin": "Iloilo",
+    "sort": "52617"
+  },
+  {
+    "city": "Burauen",
+    "admin": "Leyte",
+    "sort": "52511"
+  },
+  {
+    "city": "Ibajay",
+    "admin": "Aklan",
+    "sort": "52364"
+  },
+  {
+    "city": "Naguilian",
+    "admin": "La Union",
+    "sort": "52189"
+  },
+  {
+    "city": "Bato",
+    "admin": "Camarines Sur",
+    "sort": "52155"
+  },
+  {
+    "city": "President Roxas",
+    "admin": "Cotabato",
+    "sort": "52512"
+  },
+  {
+    "city": "Claveria",
+    "admin": "Misamis Oriental",
+    "sort": "52478"
+  },
+  {
+    "city": "Alaminos",
+    "admin": "Laguna",
+    "sort": "51619"
+  },
+  {
+    "city": "Leon",
+    "admin": "Iloilo",
+    "sort": "51990"
+  },
+  {
+    "city": "Mabini",
+    "admin": "Batangas",
+    "sort": "50858"
+  },
+  {
+    "city": "Caramoan",
+    "admin": "Camarines Sur",
+    "sort": "51728"
+  },
+  {
+    "city": "Cardona",
+    "admin": "Rizal",
+    "sort": "50143"
+  },
+  {
+    "city": "Bantacan",
+    "admin": "Compostela Valley",
+    "sort": "51466"
+  },
+  {
+    "city": "Ocampo",
+    "admin": "Camarines Sur",
+    "sort": "51073"
+  },
+  {
+    "city": "San Narciso",
+    "admin": "Quezon",
+    "sort": "51058"
+  },
+  {
+    "city": "Aringay",
+    "admin": "La Union",
+    "sort": "50380"
+  },
+  {
+    "city": "Kalamansig",
+    "admin": "Sultan Kudarat",
+    "sort": "50900"
+  },
+  {
+    "city": "Cataingan",
+    "admin": "Masbate",
+    "sort": "50623"
+  },
+  {
+    "city": "Gloria",
+    "admin": "Oriental Mindoro",
+    "sort": "50496"
+  },
+  {
+    "city": "Donsol",
+    "admin": "Sorsogon",
+    "sort": "50281"
+  },
+  {
+    "city": "El Nido",
+    "admin": "Palawan",
+    "sort": "50494"
+  },
+  {
+    "city": "Amulung",
+    "admin": "Cagayan",
+    "sort": "50336"
+  },
+  {
+    "city": "Wao",
+    "admin": "Lanao del Sur",
+    "sort": "50366"
+  },
+  {
+    "city": "Peñablanca",
+    "admin": "Cagayan",
+    "sort": "50300"
+  },
+  {
+    "city": "Pananaw",
+    "admin": "Sulu",
+    "sort": "49849"
+  },
+  {
+    "city": "Pontevedra",
+    "admin": "Capiz",
+    "sort": "49725"
+  },
+  {
+    "city": "Zaragoza",
+    "admin": "Nueva Ecija",
+    "sort": "49387"
+  },
+  {
+    "city": "Alcala",
+    "admin": "Pangasinan",
+    "sort": "48908"
+  },
+  {
+    "city": "Santa Rita",
+    "admin": "Pampanga",
+    "sort": "48209"
+  },
+  {
+    "city": "Rosario",
+    "admin": "Agusan del Sur",
+    "sort": "49610"
+  },
+  {
+    "city": "Dumarao",
+    "admin": "Capiz",
+    "sort": "49506"
+  },
+  {
+    "city": "Odiongan",
+    "admin": "Romblon",
+    "sort": "49284"
+  },
+  {
+    "city": "Kiblawan",
+    "admin": "Davao del Sur",
+    "sort": "49381"
+  },
+  {
+    "city": "Pio Duran",
+    "admin": "Albay",
+    "sort": "49070"
+  },
+  {
+    "city": "Dulag",
+    "admin": "Leyte",
+    "sort": "48992"
+  },
+  {
+    "city": "Carmen",
+    "admin": "Bohol",
+    "sort": "49191"
+  },
+  {
+    "city": "Vinzons",
+    "admin": "Camarines Norte",
+    "sort": "49042"
+  },
+  {
+    "city": "Minalin",
+    "admin": "Pampanga",
+    "sort": "48380"
+  },
+  {
+    "city": "Malabang",
+    "admin": "Lanao del Sur",
+    "sort": "49088"
+  },
+  {
+    "city": "Panay",
+    "admin": "Capiz",
+    "sort": "48890"
+  },
+  {
+    "city": "Libona",
+    "admin": "Bukidnon",
+    "sort": "48965"
+  },
+  {
+    "city": "Dumingag",
+    "admin": "Zamboanga del Sur",
+    "sort": "48881"
+  },
+  {
+    "city": "Inabanga",
+    "admin": "Bohol",
+    "sort": "48534"
+  },
+  {
+    "city": "Barotac Viejo",
+    "admin": "Iloilo",
+    "sort": "48614"
+  },
+  {
+    "city": "Lal-lo",
+    "admin": "Cagayan",
+    "sort": "48733"
+  },
+  {
+    "city": "Bacolor",
+    "admin": "Pampanga",
+    "sort": "48066"
+  },
+  {
+    "city": "New Washington",
+    "admin": "Aklan",
+    "sort": "47955"
+  },
+  {
+    "city": "Siocon",
+    "admin": "Zamboanga del Norte",
+    "sort": "48524"
+  },
+  {
+    "city": "Mahayag",
+    "admin": "Zamboanga del Sur",
+    "sort": "48258"
+  },
+  {
+    "city": "Tuba",
+    "admin": "Baguio",
+    "sort": "48312"
+  },
+  {
+    "city": "Tibigan",
+    "admin": "Bohol",
+    "sort": "47886"
+  },
+  {
+    "city": "Balimbing",
+    "admin": "Tawi-Tawi",
+    "sort": "48055"
+  },
+  {
+    "city": "Talisay",
+    "admin": "Batangas",
+    "sort": "46238"
+  },
+  {
+    "city": "Santa Ignacia",
+    "admin": "Tarlac",
+    "sort": "47538"
+  },
+  {
+    "city": "Malinao",
+    "admin": "Albay",
+    "sort": "47395"
+  },
+  {
+    "city": "Sogod",
+    "admin": "Southern Leyte",
+    "sort": "47552"
+  },
+  {
+    "city": "Pilar",
+    "admin": "Capiz",
+    "sort": "47100"
+  },
+  {
+    "city": "Bunawan",
+    "admin": "Agusan del Sur",
+    "sort": "47512"
+  },
+  {
+    "city": "Isabel",
+    "admin": "Leyte",
+    "sort": "46781"
+  },
+  {
+    "city": "Pilar",
+    "admin": "Bataan",
+    "sort": "46239"
+  },
+  {
+    "city": "Sumisip",
+    "admin": "Basilan",
+    "sort": "47345"
+  },
+  {
+    "city": "Albuera",
+    "admin": "Leyte",
+    "sort": "47151"
+  },
+  {
+    "city": "Ayungon",
+    "admin": "Negros Oriental",
+    "sort": "47102"
+  },
+  {
+    "city": "Banisilan",
+    "admin": "Cotabato",
+    "sort": "46995"
+  },
+  {
+    "city": "Norala",
+    "admin": "South Cotabato",
+    "sort": "46682"
+  },
+  {
+    "city": "Kabasalan",
+    "admin": "Zamboanga Sibugay",
+    "sort": "46884"
+  },
+  {
+    "city": "Tuy",
+    "admin": "Batangas",
+    "sort": "46519"
+  },
+  {
+    "city": "Cordon",
+    "admin": "Isabela",
+    "sort": "46477"
+  },
+  {
+    "city": "Montevista",
+    "admin": "Compostela Valley",
+    "sort": "46558"
+  },
+  {
+    "city": "Narvacan",
+    "admin": "Ilocos Sur",
+    "sort": "46234"
+  },
+  {
+    "city": "Lower Tungawan",
+    "admin": "Zamboanga Sibugay",
+    "sort": "46497"
+  },
+  {
+    "city": "Dingle",
+    "admin": "Iloilo",
+    "sort": "45965"
+  },
+  {
+    "city": "Pagalungan",
+    "admin": "Maguindanao",
+    "sort": "46277"
+  },
+  {
+    "city": "Lupao",
+    "admin": "Nueva Ecija",
+    "sort": "45917"
+  },
+  {
+    "city": "Tayug",
+    "admin": "Pangasinan",
+    "sort": "45241"
+  },
+  {
+    "city": "Pagsanjan",
+    "admin": "Laguna",
+    "sort": "44327"
+  },
+  {
+    "city": "Maluso",
+    "admin": "Basilan",
+    "sort": "45730"
+  },
+  {
+    "city": "Lumba-a-Bayabao",
+    "admin": "Lanao del Sur",
+    "sort": "45909"
+  },
+  {
+    "city": "Tantangan",
+    "admin": "South Cotabato",
+    "sort": "45744"
+  },
+  {
+    "city": "Jones",
+    "admin": "Isabela",
+    "sort": "45628"
+  },
+  {
+    "city": "Talagutong",
+    "admin": "Davao Occidental",
+    "sort": "45540"
+  },
+  {
+    "city": "San Jacinto",
+    "admin": "Pangasinan",
+    "sort": "44351"
+  },
+  {
+    "city": "Victoria",
+    "admin": "Laguna",
+    "sort": "43408"
+  },
+  {
+    "city": "Aguilar",
+    "admin": "Pangasinan",
+    "sort": "45100"
+  },
+  {
+    "city": "Basud",
+    "admin": "Camarines Norte",
+    "sort": "45133"
+  },
+  {
+    "city": "Angadanan",
+    "admin": "Isabela",
+    "sort": "44977"
+  },
+  {
+    "city": "Concepcion",
+    "admin": "Iloilo",
+    "sort": "44633"
+  },
+  {
+    "city": "Buguias",
+    "admin": "Benguet",
+    "sort": "44877"
+  },
+  {
+    "city": "Maria Aurora",
+    "admin": "Aurora",
+    "sort": "44958"
+  },
+  {
+    "city": "San Jose",
+    "admin": "Camarines Sur",
+    "sort": "43973"
+  },
+  {
+    "city": "Manjuyod",
+    "admin": "Negros Oriental",
+    "sort": "44799"
+  },
+  {
+    "city": "Bacnotan",
+    "admin": "La Union",
+    "sort": "44388"
+  },
+  {
+    "city": "Nasipit",
+    "admin": "Agusan del Norte",
+    "sort": "44822"
+  },
+  {
+    "city": "Katipunan",
+    "admin": "Zamboanga del Norte",
+    "sort": "44661"
+  },
+  {
+    "city": "Dolores",
+    "admin": "Eastern Samar",
+    "sort": "44626"
+  },
+  {
+    "city": "Culasi",
+    "admin": "Antique",
+    "sort": "44494"
+  },
+  {
+    "city": "San Pascual",
+    "admin": "Masbate",
+    "sort": "44449"
+  },
+  {
+    "city": "Loon",
+    "admin": "Bohol",
+    "sort": "44224"
+  },
+  {
+    "city": "Banaybanay",
+    "admin": "Davao Oriental",
+    "sort": "44451"
+  },
+  {
+    "city": "Labangan",
+    "admin": "Zamboanga del Sur",
+    "sort": "44262"
+  },
+  {
+    "city": "Bulalacao",
+    "admin": "Oriental Mindoro",
+    "sort": "44366"
+  },
+  {
+    "city": "General Mamerto Natividad",
+    "admin": "Nueva Ecija",
+    "sort": "44311"
+  },
+  {
+    "city": "Maitum",
+    "admin": "Sarangani",
+    "sort": "44185"
+  },
+  {
+    "city": "Cateel",
+    "admin": "Davao Oriental",
+    "sort": "44207"
+  },
+  {
+    "city": "Mandaon",
+    "admin": "Masbate",
+    "sort": "44122"
+  },
+  {
+    "city": "Guinayangan",
+    "admin": "Quezon",
+    "sort": "44045"
+  },
+  {
+    "city": "Labason",
+    "admin": "Zamboanga del Norte",
+    "sort": "43934"
+  },
+  {
+    "city": "Badian",
+    "admin": "Cebu",
+    "sort": "43735"
+  },
+  {
+    "city": "Hinatuan",
+    "admin": "Surigao del Sur",
+    "sort": "43841"
+  },
+  {
+    "city": "Jaro",
+    "admin": "Leyte",
+    "sort": "43758"
+  },
+  {
+    "city": "Loreto",
+    "admin": "Agusan del Sur",
+    "sort": "43880"
+  },
+  {
+    "city": "Kalilangan",
+    "admin": "Bukidnon",
+    "sort": "43711"
+  },
+  {
+    "city": "Laurel",
+    "admin": "Batangas",
+    "sort": "43210"
+  },
+  {
+    "city": "Toboso",
+    "admin": "Negros Occidental",
+    "sort": "43445"
+  },
+  {
+    "city": "Santa Elena",
+    "admin": "Camarines Norte",
+    "sort": "43582"
+  },
+  {
+    "city": "Madridejos",
+    "admin": "Cebu",
+    "sort": "42039"
+  },
+  {
+    "city": "Moises Padilla",
+    "admin": "Negros Occidental",
+    "sort": "43462"
+  },
+  {
+    "city": "Roseller Lim",
+    "admin": "Zamboanga Sibugay",
+    "sort": "43575"
+  },
+  {
+    "city": "Guambog",
+    "admin": "Compostela Valley",
+    "sort": "43552"
+  },
+  {
+    "city": "Abucay",
+    "admin": "Bataan",
+    "sort": "42984"
+  },
+  {
+    "city": "South Upi",
+    "admin": "Maguindanao",
+    "sort": "43197"
+  },
+  {
+    "city": "Villaba",
+    "admin": "Leyte",
+    "sort": "42859"
+  },
+  {
+    "city": "Santo Tomas",
+    "admin": "Pampanga",
+    "sort": "42846"
+  },
+  {
+    "city": "Nueva Valencia",
+    "admin": "Guimaras",
+    "sort": "42771"
+  },
+  {
+    "city": "Panitan",
+    "admin": "Capiz",
+    "sort": "42565"
+  },
+  {
+    "city": "Amadeo",
+    "admin": "Cavite",
+    "sort": "41901"
+  },
+  {
+    "city": "Proper Bansud",
+    "admin": "Oriental Mindoro",
+    "sort": "42671"
+  },
+  {
+    "city": "Tucuran",
+    "admin": "Zamboanga del Sur",
+    "sort": "42429"
+  },
+  {
+    "city": "Llanera",
+    "admin": "Nueva Ecija",
+    "sort": "42281"
+  },
+  {
+    "city": "Balabac",
+    "admin": "Palawan",
+    "sort": "42527"
+  },
+  {
+    "city": "Liloy",
+    "admin": "Zamboanga del Norte",
+    "sort": "42213"
+  },
+  {
+    "city": "Santa Rita",
+    "admin": "Samar",
+    "sort": "42384"
+  },
+  {
+    "city": "Carranglan",
+    "admin": "Nueva Ecija",
+    "sort": "42420"
+  },
+  {
+    "city": "Santa Cruz",
+    "admin": "Occidental Mindoro",
+    "sort": "42417"
+  },
+  {
+    "city": "Polanco",
+    "admin": "Zamboanga del Norte",
+    "sort": "42265"
+  },
+  {
+    "city": "Quezon",
+    "admin": "Nueva Ecija",
+    "sort": "41845"
+  },
+  {
+    "city": "President Quirino",
+    "admin": "Sultan Kudarat",
+    "sort": "42244"
+  },
+  {
+    "city": "Claveria",
+    "admin": "Masbate",
+    "sort": "42142"
+  },
+  {
+    "city": "Aritao",
+    "admin": "Nueva Vizcaya",
+    "sort": "42197"
+  },
+  {
+    "city": "Matnog",
+    "admin": "Sorsogon",
+    "sort": "41989"
+  },
+  {
+    "city": "Bacong",
+    "admin": "Negros Oriental",
+    "sort": "41207"
+  },
+  {
+    "city": "Puerto Galera",
+    "admin": "Oriental Mindoro",
+    "sort": "41961"
+  },
+  {
+    "city": "Anda",
+    "admin": "Pangasinan",
+    "sort": "41548"
+  },
+  {
+    "city": "Kibawe",
+    "admin": "Bukidnon",
+    "sort": "41897"
+  },
+  {
+    "city": "Naga",
+    "admin": "Zamboanga Sibugay",
+    "sort": "41743"
+  },
+  {
+    "city": "Kasibu",
+    "admin": "Nueva Vizcaya",
+    "sort": "41776"
+  },
+  {
+    "city": "Daram",
+    "admin": "Samar",
+    "sort": "41608"
+  },
+  {
+    "city": "San Miguel",
+    "admin": "Surigao del Sur",
+    "sort": "41809"
+  },
+  {
+    "city": "Socorro",
+    "admin": "Oriental Mindoro",
+    "sort": "41585"
+  },
+  {
+    "city": "Tabogon",
+    "admin": "Cebu",
+    "sort": "41432"
+  },
+  {
+    "city": "Santa Cruz",
+    "admin": "Ilocos Sur",
+    "sort": "41366"
+  },
+  {
+    "city": "Tagudin",
+    "admin": "Ilocos Sur",
+    "sort": "41538"
+  },
+  {
+    "city": "Malilipot",
+    "admin": "Albay",
+    "sort": "40857"
+  },
+  {
+    "city": "Gonzaga",
+    "admin": "Cagayan",
+    "sort": "41680"
+  },
+  {
+    "city": "Mondragon",
+    "admin": "Northern Samar",
+    "sort": "41415"
+  },
+  {
+    "city": "Maayon",
+    "admin": "Capiz",
+    "sort": "41226"
+  },
+  {
+    "city": "Alcala",
+    "admin": "Cagayan",
+    "sort": "41295"
+  },
+  {
+    "city": "Santo Tomas",
+    "admin": "La Union",
+    "sort": "40846"
+  },
+  {
+    "city": "Lasam",
+    "admin": "Cagayan",
+    "sort": "41225"
+  },
+  {
+    "city": "La Libertad",
+    "admin": "Negros Oriental",
+    "sort": "41089"
+  },
+  {
+    "city": "Villanueva",
+    "admin": "Misamis Oriental",
+    "sort": "40419"
+  },
+  {
+    "city": "San Juan",
+    "admin": "La Union",
+    "sort": "40507"
+  },
+  {
+    "city": "Vallehermoso",
+    "admin": "Negros Oriental",
+    "sort": "40779"
+  },
+  {
+    "city": "Tagbina",
+    "admin": "Surigao del Sur",
+    "sort": "41051"
+  },
+  {
+    "city": "Tampakan",
+    "admin": "South Cotabato",
+    "sort": "41018"
+  },
+  {
+    "city": "Mobo",
+    "admin": "Masbate",
+    "sort": "40823"
+  },
+  {
+    "city": "Nabas",
+    "admin": "Aklan",
+    "sort": "40632"
+  },
+  {
+    "city": "Maddela",
+    "admin": "Quirino",
+    "sort": "40943"
+  },
+  {
+    "city": "Mambusao",
+    "admin": "Capiz",
+    "sort": "40690"
+  },
+  {
+    "city": "Lobo",
+    "admin": "Batangas",
+    "sort": "40736"
+  },
+  {
+    "city": "Maragondon",
+    "admin": "Cavite",
+    "sort": "40687"
+  },
+  {
+    "city": "Balaoan",
+    "admin": "La Union",
+    "sort": "40339"
+  },
+  {
+    "city": "Valladolid",
+    "admin": "Negros Occidental",
+    "sort": "39996"
+  },
+  {
+    "city": "Bañga",
+    "admin": "Aklan",
+    "sort": "40318"
+  },
+  {
+    "city": "Siay",
+    "admin": "Zamboanga Sibugay",
+    "sort": "40585"
+  },
+  {
+    "city": "Leyte",
+    "admin": "Leyte",
+    "sort": "40397"
+  },
+  {
+    "city": "Panglao",
+    "admin": "Bohol",
+    "sort": "39839"
+  },
+  {
+    "city": "Rizal",
+    "admin": "Occidental Mindoro",
+    "sort": "40429"
+  },
+  {
+    "city": "Taysan",
+    "admin": "Batangas",
+    "sort": "40146"
+  },
+  {
+    "city": "Cabatuan",
+    "admin": "Isabela",
+    "sort": "39990"
+  },
+  {
+    "city": "Dingras",
+    "admin": "Ilocos Norte",
+    "sort": "40127"
+  },
+  {
+    "city": "Payabon",
+    "admin": "Negros Oriental",
+    "sort": "40308"
+  },
+  {
+    "city": "Lilio",
+    "admin": "Laguna",
+    "sort": "39491"
+  },
+  {
+    "city": "Malalag",
+    "admin": "Davao del Sur",
+    "sort": "40158"
+  },
+  {
+    "city": "Plaridel",
+    "admin": "Misamis Occidental",
+    "sort": "39840"
+  },
+  {
+    "city": "Balud",
+    "admin": "Masbate",
+    "sort": "40155"
+  },
+  {
+    "city": "Santo Niño",
+    "admin": "South Cotabato",
+    "sort": "39796"
+  },
+  {
+    "city": "Siniloan",
+    "admin": "Laguna",
+    "sort": "39460"
+  },
+  {
+    "city": "Pamplona",
+    "admin": "Negros Oriental",
+    "sort": "39805"
+  },
+  {
+    "city": "Baco",
+    "admin": "Oriental Mindoro",
+    "sort": "39817"
+  },
+  {
+    "city": "Alimodian",
+    "admin": "Iloilo",
+    "sort": "39722"
+  },
+  {
+    "city": "Tago",
+    "admin": "Surigao del Sur",
+    "sort": "39831"
+  },
+  {
+    "city": "San Nicolas",
+    "admin": "Pangasinan",
+    "sort": "39778"
+  },
+  {
+    "city": "Poblacion",
+    "admin": "Compostela Valley",
+    "sort": "39631"
+  },
+  {
+    "city": "Palauig",
+    "admin": "Zambales",
+    "sort": "39784"
+  },
+  {
+    "city": "Magsaysay",
+    "admin": "Occidental Mindoro",
+    "sort": "39767"
+  },
+  {
+    "city": "Agoncillo",
+    "admin": "Batangas",
+    "sort": "39101"
+  },
+  {
+    "city": "San Nicolas",
+    "admin": "Ilocos Norte",
+    "sort": "38895"
+  },
+  {
+    "city": "Clarin",
+    "admin": "Misamis Occidental",
+    "sort": "39356"
+  },
+  {
+    "city": "Pamplona",
+    "admin": "Camarines Sur",
+    "sort": "39333"
+  },
+  {
+    "city": "Veruela",
+    "admin": "Agusan del Sur",
+    "sort": "39708"
+  },
+  {
+    "city": "Kalingalan Caluang",
+    "admin": "Sulu",
+    "sort": "39549"
+  },
+  {
+    "city": "Buldon",
+    "admin": "Maguindanao",
+    "sort": "39684"
+  },
+  {
+    "city": "Sogod",
+    "admin": "Cebu",
+    "sort": "39447"
+  },
+  {
+    "city": "Talacogon",
+    "admin": "Agusan del Sur",
+    "sort": "39678"
+  },
+  {
+    "city": "Caraga",
+    "admin": "Davao Oriental",
+    "sort": "39704"
+  },
+  {
+    "city": "Alicia",
+    "admin": "Zamboanga Sibugay",
+    "sort": "39456"
+  },
+  {
+    "city": "Manay",
+    "admin": "Davao Oriental",
+    "sort": "39572"
+  },
+  {
+    "city": "Damulog",
+    "admin": "Bukidnon",
+    "sort": "39322"
+  },
+  {
+    "city": "Sual",
+    "admin": "Pangasinan",
+    "sort": "39091"
+  },
+  {
+    "city": "San Dionisio",
+    "admin": "Iloilo",
+    "sort": "39048"
+  },
+  {
+    "city": "Mapandan",
+    "admin": "Pangasinan",
+    "sort": "38058"
+  },
+  {
+    "city": "Cabugao",
+    "admin": "Ilocos Sur",
+    "sort": "38884"
+  },
+  {
+    "city": "Basista",
+    "admin": "Pangasinan",
+    "sort": "37679"
+  },
+  {
+    "city": "Caluya",
+    "admin": "Antique",
+    "sort": "38908"
+  },
+  {
+    "city": "San Fernando",
+    "admin": "Camarines Sur",
+    "sort": "38626"
+  },
+  {
+    "city": "Bangar",
+    "admin": "La Union",
+    "sort": "38041"
+  },
+  {
+    "city": "Margosatubig",
+    "admin": "Zamboanga del Sur",
+    "sort": "38660"
+  },
+  {
+    "city": "Valencia",
+    "admin": "Negros Oriental",
+    "sort": "38733"
+  },
+  {
+    "city": "Samal",
+    "admin": "Bataan",
+    "sort": "38302"
+  },
+  {
+    "city": "Aborlan",
+    "admin": "Palawan",
+    "sort": "38736"
+  },
+  {
+    "city": "Olutanga",
+    "admin": "Zamboanga Sibugay",
+    "sort": "38438"
+  },
+  {
+    "city": "Jamindan",
+    "admin": "Capiz",
+    "sort": "38670"
+  },
+  {
+    "city": "Maasin",
+    "admin": "Iloilo",
+    "sort": "38461"
+  },
+  {
+    "city": "Real",
+    "admin": "Quezon",
+    "sort": "38678"
+  },
+  {
+    "city": "Buug",
+    "admin": "Zamboanga Sibugay",
+    "sort": "38425"
+  },
+  {
+    "city": "San Andres",
+    "admin": "Catanduanes",
+    "sort": "38480"
+  },
+  {
+    "city": "Patnongon",
+    "admin": "Antique",
+    "sort": "38329"
+  },
+  {
+    "city": "Borbon",
+    "admin": "Cebu",
+    "sort": "38187"
+  },
+  {
+    "city": "Santo Domingo",
+    "admin": "Albay",
+    "sort": "37765"
+  },
+  {
+    "city": "Tayasan",
+    "admin": "Negros Oriental",
+    "sort": "38159"
+  },
+  {
+    "city": "Laur",
+    "admin": "Nueva Ecija",
+    "sort": "38263"
+  },
+  {
+    "city": "Bagabag",
+    "admin": "Nueva Vizcaya",
+    "sort": "37985"
+  },
+  {
+    "city": "Luna",
+    "admin": "La Union",
+    "sort": "37318"
+  },
+  {
+    "city": "San Andres",
+    "admin": "Quezon",
+    "sort": "37454"
+  },
+  {
+    "city": "Luuk",
+    "admin": "Sulu",
+    "sort": "37873"
+  },
+  {
+    "city": "Mabuhay",
+    "admin": "Zamboanga Sibugay",
+    "sort": "37390"
+  },
+  {
+    "city": "Marantao",
+    "admin": "Lanao del Sur",
+    "sort": "37763"
+  },
+  {
+    "city": "San Marcelino",
+    "admin": "Zambales",
+    "sort": "37719"
+  },
+  {
+    "city": "Tambulig",
+    "admin": "Zamboanga del Sur",
+    "sort": "37480"
+  },
+  {
+    "city": "Magallanes",
+    "admin": "Sorsogon",
+    "sort": "37411"
+  },
+  {
+    "city": "Oras",
+    "admin": "Eastern Samar",
+    "sort": "37451"
+  },
+  {
+    "city": "San Antonio",
+    "admin": "Zambales",
+    "sort": "37450"
+  },
+  {
+    "city": "Bantay",
+    "admin": "Ilocos Sur",
+    "sort": "37118"
+  },
+  {
+    "city": "Mankayan",
+    "admin": "Benguet",
+    "sort": "37233"
+  },
+  {
+    "city": "Sitangkai",
+    "admin": "Tawi-Tawi",
+    "sort": "37319"
+  },
+  {
+    "city": "Basilisa",
+    "admin": "Surigao del Norte",
+    "sort": "36911"
+  },
+  {
+    "city": "San Enrique",
+    "admin": "Iloilo",
+    "sort": "36911"
+  },
+  {
+    "city": "Moalboal",
+    "admin": "Cebu",
+    "sort": "36930"
+  },
+  {
+    "city": "Imbatug",
+    "admin": "Bukidnon",
+    "sort": "37111"
+  },
+  {
+    "city": "Languyan",
+    "admin": "Tawi-Tawi",
+    "sort": "37096"
+  },
+  {
+    "city": "Sagnay",
+    "admin": "Camarines Sur",
+    "sort": "36841"
+  },
+  {
+    "city": "Magsaysay",
+    "admin": "Misamis Oriental",
+    "sort": "36803"
+  },
+  {
+    "city": "Canaman",
+    "admin": "Camarines Sur",
+    "sort": "36205"
+  },
+  {
+    "city": "Manucan",
+    "admin": "Zamboanga del Norte",
+    "sort": "36887"
+  },
+  {
+    "city": "San Luis",
+    "admin": "Batangas",
+    "sort": "36172"
+  },
+  {
+    "city": "Aurora",
+    "admin": "Isabela",
+    "sort": "36621"
+  },
+  {
+    "city": "Numancia",
+    "admin": "Aklan",
+    "sort": "35693"
+  },
+  {
+    "city": "Enrile",
+    "admin": "Cagayan",
+    "sort": "36705"
+  },
+  {
+    "city": "Cuenca",
+    "admin": "Batangas",
+    "sort": "36235"
+  },
+  {
+    "city": "Las Navas",
+    "admin": "Northern Samar",
+    "sort": "36621"
+  },
+  {
+    "city": "Dinas",
+    "admin": "Zamboanga del Sur",
+    "sort": "36291"
+  },
+  {
+    "city": "Gasan",
+    "admin": "Marinduque",
+    "sort": "36197"
+  },
+  {
+    "city": "Simbahan",
+    "admin": "Sulu",
+    "sort": "36374"
+  },
+  {
+    "city": "Cabanglasan",
+    "admin": "Bukidnon",
+    "sort": "36286"
+  },
+  {
+    "city": "Dagami",
+    "admin": "Leyte",
+    "sort": "36178"
+  },
+  {
+    "city": "Rapu-Rapu",
+    "admin": "Albay",
+    "sort": "36151"
+  },
+  {
+    "city": "Capalonga",
+    "admin": "Camarines Norte",
+    "sort": "36223"
+  },
+  {
+    "city": "Siayan",
+    "admin": "Zamboanga del Norte",
+    "sort": "36236"
+  },
+  {
+    "city": "Pandan",
+    "admin": "Antique",
+    "sort": "35965"
+  },
+  {
+    "city": "Barira",
+    "admin": "Maguindanao",
+    "sort": "36143"
+  },
+  {
+    "city": "Gutalac",
+    "admin": "Zamboanga del Norte",
+    "sort": "36090"
+  },
+  {
+    "city": "Bautista",
+    "admin": "Pangasinan",
+    "sort": "35398"
+  },
+  {
+    "city": "Claveria",
+    "admin": "Surigao del Norte",
+    "sort": "36033"
+  },
+  {
+    "city": "San Antonio",
+    "admin": "Quezon",
+    "sort": "35891"
+  },
+  {
+    "city": "Sibuco",
+    "admin": "Zamboanga del Norte",
+    "sort": "36049"
+  },
+  {
+    "city": "Matanog",
+    "admin": "Maguindanao",
+    "sort": "36034"
+  },
+  {
+    "city": "Jagna",
+    "admin": "Bohol",
+    "sort": "35832"
+  },
+  {
+    "city": "Casiguran",
+    "admin": "Sorsogon",
+    "sort": "35602"
+  },
+  {
+    "city": "Medina",
+    "admin": "Misamis Oriental",
+    "sort": "35612"
+  },
+  {
+    "city": "Guimbal",
+    "admin": "Iloilo",
+    "sort": "35022"
+  },
+  {
+    "city": "Leganes",
+    "admin": "Iloilo",
+    "sort": "34725"
+  },
+  {
+    "city": "Santa Ana",
+    "admin": "Cagayan",
+    "sort": "35688"
+  },
+  {
+    "city": "Pambujan",
+    "admin": "Northern Samar",
+    "sort": "35532"
+  },
+  {
+    "city": "Balasan",
+    "admin": "Iloilo",
+    "sort": "35064"
+  },
+  {
+    "city": "Santa Fe",
+    "admin": "Cebu",
+    "sort": "34471"
+  },
+  {
+    "city": "Mendez-Nuñez",
+    "admin": "Cavite",
+    "sort": "34879"
+  },
+  {
+    "city": "Pola",
+    "admin": "Oriental Mindoro",
+    "sort": "35455"
+  },
+  {
+    "city": "Juban",
+    "admin": "Sorsogon",
+    "sort": "35297"
+  },
+  {
+    "city": "Morong",
+    "admin": "Bataan",
+    "sort": "35394"
+  },
+  {
+    "city": "Sulop",
+    "admin": "Davao del Sur",
+    "sort": "35151"
+  },
+  {
+    "city": "Allacapan",
+    "admin": "Cagayan",
+    "sort": "35234"
+  },
+  {
+    "city": "Gandara",
+    "admin": "Samar",
+    "sort": "35242"
+  },
+  {
+    "city": "Trinidad",
+    "admin": "Bohol",
+    "sort": "35119"
+  },
+  {
+    "city": "Lingig",
+    "admin": "Surigao del Sur",
+    "sort": "35142"
+  },
+  {
+    "city": "Abra de Ilog",
+    "admin": "Occidental Mindoro",
+    "sort": "35176"
+  },
+  {
+    "city": "San Luis",
+    "admin": "Agusan del Sur",
+    "sort": "35196"
+  },
+  {
+    "city": "Munai",
+    "admin": "Lanao del Norte",
+    "sort": "35020"
+  },
+  {
+    "city": "Payao",
+    "admin": "Zamboanga Sibugay",
+    "sort": "34952"
+  },
+  {
+    "city": "Aloguinsan",
+    "admin": "Cebu",
+    "sort": "34466"
+  },
+  {
+    "city": "Dueñas",
+    "admin": "Iloilo",
+    "sort": "34597"
+  },
+  {
+    "city": "Milaor",
+    "admin": "Camarines Sur",
+    "sort": "33963"
+  },
+  {
+    "city": "Laoac East",
+    "admin": "Pangasinan",
+    "sort": "34128"
+  },
+  {
+    "city": "Barugo",
+    "admin": "Leyte",
+    "sort": "34497"
+  },
+  {
+    "city": "Bugasong",
+    "admin": "Antique",
+    "sort": "34676"
+  },
+  {
+    "city": "Mogpog",
+    "admin": "Marinduque",
+    "sort": "34516"
+  },
+  {
+    "city": "Santa Maria",
+    "admin": "Laguna",
+    "sort": "34511"
+  },
+  {
+    "city": "Abulug",
+    "admin": "Cagayan",
+    "sort": "34579"
+  },
+  {
+    "city": "Jalajala",
+    "admin": "Rizal",
+    "sort": "34017"
+  },
+  {
+    "city": "Bonifacio",
+    "admin": "Misamis Occidental",
+    "sort": "34558"
+  },
+  {
+    "city": "Ballesteros",
+    "admin": "Cagayan",
+    "sort": "34488"
+  },
+  {
+    "city": "Santa Maria",
+    "admin": "Pangasinan",
+    "sort": "34220"
+  },
+  {
+    "city": "Bayog",
+    "admin": "Zamboanga del Sur",
+    "sort": "34519"
+  },
+  {
+    "city": "New Panamao",
+    "admin": "Sulu",
+    "sort": "34249"
+  },
+  {
+    "city": "Simunul",
+    "admin": "Tawi-Tawi",
+    "sort": "34245"
+  },
+  {
+    "city": "Talayan",
+    "admin": "Maguindanao",
+    "sort": "34156"
+  },
+  {
+    "city": "San Manuel",
+    "admin": "Isabela",
+    "sort": "34085"
+  },
+  {
+    "city": "Tandubas",
+    "admin": "Tawi-Tawi",
+    "sort": "34316"
+  },
+  {
+    "city": "Sibutu",
+    "admin": "Tawi-Tawi",
+    "sort": "34243"
+  },
+  {
+    "city": "Pinukpuk",
+    "admin": "Kalinga",
+    "sort": "34275"
+  },
+  {
+    "city": "Guindulman",
+    "admin": "Bohol",
+    "sort": "34104"
+  },
+  {
+    "city": "San Quintin",
+    "admin": "Pangasinan",
+    "sort": "33980"
+  },
+  {
+    "city": "General Nakar",
+    "admin": "Quezon",
+    "sort": "34225"
+  },
+  {
+    "city": "Dao",
+    "admin": "Capiz",
+    "sort": "33842"
+  },
+  {
+    "city": "Palapag",
+    "admin": "Northern Samar",
+    "sort": "34034"
+  },
+  {
+    "city": "Tabango",
+    "admin": "Leyte",
+    "sort": "33868"
+  },
+  {
+    "city": "Initao",
+    "admin": "Misamis Oriental",
+    "sort": "33902"
+  },
+  {
+    "city": "Cantilan",
+    "admin": "Surigao del Sur",
+    "sort": "34060"
+  },
+  {
+    "city": "San Remigio",
+    "admin": "Antique",
+    "sort": "34045"
+  },
+  {
+    "city": "Tobias Fornier",
+    "admin": "Antique",
+    "sort": "33816"
+  },
+  {
+    "city": "Lianga",
+    "admin": "Surigao del Sur",
+    "sort": "33869"
+  },
+  {
+    "city": "Lupi Viejo",
+    "admin": "Camarines Sur",
+    "sort": "33897"
+  },
+  {
+    "city": "Catmon",
+    "admin": "Cebu",
+    "sort": "33745"
+  },
+  {
+    "city": "Sibagat",
+    "admin": "Agusan del Sur",
+    "sort": "33957"
+  },
+  {
+    "city": "Bacarra",
+    "admin": "Ilocos Norte",
+    "sort": "33496"
+  },
+  {
+    "city": "Naguilian",
+    "admin": "Isabela",
+    "sort": "33788"
+  },
+  {
+    "city": "Datu Paglas",
+    "admin": "Maguindanao",
+    "sort": "33682"
+  },
+  {
+    "city": "Kadingilan",
+    "admin": "Bukidnon",
+    "sort": "33735"
+  },
+  {
+    "city": "Batan",
+    "admin": "Aklan",
+    "sort": "33484"
+  },
+  {
+    "city": "Capoocan",
+    "admin": "Leyte",
+    "sort": "33721"
+  },
+  {
+    "city": "Batobato",
+    "admin": "Davao Oriental",
+    "sort": "33664"
+  },
+  {
+    "city": "Masiu",
+    "admin": "Lanao del Sur",
+    "sort": "33580"
+  },
+  {
+    "city": "Midsalip",
+    "admin": "Zamboanga del Sur",
+    "sort": "33711"
+  },
+  {
+    "city": "Sapa Sapa",
+    "admin": "Tawi-Tawi",
+    "sort": "33580"
+  },
+  {
+    "city": "Banate",
+    "admin": "Iloilo",
+    "sort": "33376"
+  },
+  {
+    "city": "Getafe",
+    "admin": "Bohol",
+    "sort": "33422"
+  },
+  {
+    "city": "Columbio",
+    "admin": "Sultan Kudarat",
+    "sort": "33527"
+  },
+  {
+    "city": "San Vicente",
+    "admin": "Palawan",
+    "sort": "33507"
+  },
+  {
+    "city": "Calape",
+    "admin": "Bohol",
+    "sort": "33079"
+  },
+  {
+    "city": "Vintar",
+    "admin": "Ilocos Norte",
+    "sort": "33339"
+  },
+  {
+    "city": "Dupax Del Norte",
+    "admin": "Nueva Vizcaya",
+    "sort": "33295"
+  },
+  {
+    "city": "Pandami",
+    "admin": "Sulu",
+    "sort": "33177"
+  },
+  {
+    "city": "Dipaculao",
+    "admin": "Aurora",
+    "sort": "33131"
+  },
+  {
+    "city": "Dumalinao",
+    "admin": "Zamboanga del Sur",
+    "sort": "32928"
+  },
+  {
+    "city": "Lumbang",
+    "admin": "Laguna",
+    "sort": "32330"
+  },
+  {
+    "city": "Dolores",
+    "admin": "Quezon",
+    "sort": "32514"
+  },
+  {
+    "city": "Badoc",
+    "admin": "Ilocos Norte",
+    "sort": "32530"
+  },
+  {
+    "city": "Matalom",
+    "admin": "Leyte",
+    "sort": "32586"
+  },
+  {
+    "city": "Diplahan",
+    "admin": "Zamboanga Sibugay",
+    "sort": "32585"
+  },
+  {
+    "city": "Mayantoc",
+    "admin": "Tarlac",
+    "sort": "32597"
+  },
+  {
+    "city": "Balindong",
+    "admin": "Lanao del Sur",
+    "sort": "32573"
+  },
+  {
+    "city": "Peñaranda",
+    "admin": "Nueva Ecija",
+    "sort": "32269"
+  },
+  {
+    "city": "Alubijid",
+    "admin": "Misamis Oriental",
+    "sort": "32163"
+  },
+  {
+    "city": "Jimalalud",
+    "admin": "Negros Oriental",
+    "sort": "32256"
+  },
+  {
+    "city": "Mallig",
+    "admin": "Isabela",
+    "sort": "32208"
+  },
+  {
+    "city": "Igbaras",
+    "admin": "Iloilo",
+    "sort": "32197"
+  },
+  {
+    "city": "Balimbing",
+    "admin": "Lanao del Norte",
+    "sort": "32115"
+  },
+  {
+    "city": "Tubao",
+    "admin": "La Union",
+    "sort": "31763"
+  },
+  {
+    "city": "Buguey",
+    "admin": "Cagayan",
+    "sort": "32148"
+  },
+  {
+    "city": "Catubig",
+    "admin": "Northern Samar",
+    "sort": "32174"
+  },
+  {
+    "city": "Salug",
+    "admin": "Zamboanga del Norte",
+    "sort": "32134"
+  },
+  {
+    "city": "Tamparan",
+    "admin": "Lanao del Sur",
+    "sort": "32074"
+  },
+  {
+    "city": "Caramoran",
+    "admin": "Catanduanes",
+    "sort": "32114"
+  },
+  {
+    "city": "Bauko",
+    "admin": "Mountain",
+    "sort": "32021"
+  },
+  {
+    "city": "Malangas",
+    "admin": "Zamboanga Sibugay",
+    "sort": "32022"
+  },
+  {
+    "city": "Claveria",
+    "admin": "Cagayan",
+    "sort": "31900"
+  },
+  {
+    "city": "Polillo",
+    "admin": "Quezon",
+    "sort": "31908"
+  },
+  {
+    "city": "Mataas Na Kahoy",
+    "admin": "Batangas",
+    "sort": "30621"
+  },
+  {
+    "city": "Sigma",
+    "admin": "Capiz",
+    "sort": "31688"
+  },
+  {
+    "city": "Sergio Osmeña Sr",
+    "admin": "Zamboanga del Sur",
+    "sort": "31942"
+  },
+  {
+    "city": "Calubian",
+    "admin": "Leyte",
+    "sort": "31646"
+  },
+  {
+    "city": "Merida",
+    "admin": "Leyte",
+    "sort": "31574"
+  },
+  {
+    "city": "Ivisan",
+    "admin": "Capiz",
+    "sort": "31278"
+  },
+  {
+    "city": "Pantabangan",
+    "admin": "Nueva Ecija",
+    "sort": "31763"
+  },
+  {
+    "city": "Magsingal",
+    "admin": "Ilocos Sur",
+    "sort": "31308"
+  },
+  {
+    "city": "Lemery",
+    "admin": "Iloilo",
+    "sort": "31414"
+  },
+  {
+    "city": "President Roxas",
+    "admin": "Capiz",
+    "sort": "31269"
+  },
+  {
+    "city": "Dimataling",
+    "admin": "Zamboanga del Sur",
+    "sort": "31340"
+  },
+  {
+    "city": "Dasol",
+    "admin": "Pangasinan",
+    "sort": "31355"
+  },
+  {
+    "city": "Bagac",
+    "admin": "Bataan",
+    "sort": "31365"
+  },
+  {
+    "city": "Pulupandan",
+    "admin": "Negros Occidental",
+    "sort": "30117"
+  },
+  {
+    "city": "Buenavista",
+    "admin": "Quezon",
+    "sort": "31160"
+  },
+  {
+    "city": "Siraway",
+    "admin": "Zamboanga del Norte",
+    "sort": "31163"
+  },
+  {
+    "city": "Gata",
+    "admin": "Lanao del Sur",
+    "sort": "31141"
+  },
+  {
+    "city": "Paracelis",
+    "admin": "Mountain",
+    "sort": "31168"
+  },
+  {
+    "city": "San Narciso",
+    "admin": "Zambales",
+    "sort": "30759"
+  },
+  {
+    "city": "Tairan Camp",
+    "admin": "Basilan",
+    "sort": "31040"
+  },
+  {
+    "city": "San Miguel",
+    "admin": "Iloilo",
+    "sort": "30115"
+  },
+  {
+    "city": "Balatan",
+    "admin": "Camarines Sur",
+    "sort": "30669"
+  },
+  {
+    "city": "La Paz",
+    "admin": "Agusan del Sur",
+    "sort": "30969"
+  },
+  {
+    "city": "San Isidro",
+    "admin": "Leyte",
+    "sort": "30722"
+  },
+  {
+    "city": "Ganassi",
+    "admin": "Lanao del Sur",
+    "sort": "30802"
+  },
+  {
+    "city": "Aglipay",
+    "admin": "Quirino",
+    "sort": "30714"
+  },
+  {
+    "city": "Gamu",
+    "admin": "Isabela",
+    "sort": "30655"
+  },
+  {
+    "city": "Anilao",
+    "admin": "Iloilo",
+    "sort": "30520"
+  },
+  {
+    "city": "Torrijos",
+    "admin": "Marinduque",
+    "sort": "30476"
+  },
+  {
+    "city": "Pantao-Ragat",
+    "admin": "Lanao del Norte",
+    "sort": "30247"
+  },
+  {
+    "city": "Santa Maria",
+    "admin": "Ilocos Sur",
+    "sort": "30006"
+  },
+  {
+    "city": "Maguing",
+    "admin": "Lanao del Sur",
+    "sort": "30436"
+  },
+  {
+    "city": "Balungao",
+    "admin": "Pangasinan",
+    "sort": "30004"
+  },
+  {
+    "city": "Candijay",
+    "admin": "Bohol",
+    "sort": "30119"
+  },
+  {
+    "city": "Dumalag",
+    "admin": "Capiz",
+    "sort": "30098"
+  },
+  {
+    "city": "Candelaria",
+    "admin": "Zambales",
+    "sort": "30263"
+  },
+  {
+    "city": "Balete",
+    "admin": "Aklan",
+    "sort": "30090"
+  },
+  {
+    "city": "Iguig",
+    "admin": "Cagayan",
+    "sort": "30060"
+  },
+  {
+    "city": "Salay",
+    "admin": "Misamis Oriental",
+    "sort": "29998"
+  },
+  {
+    "city": "Las Nieves",
+    "admin": "Agusan del Norte",
+    "sort": "30240"
+  },
+  {
+    "city": "Dauin",
+    "admin": "Negros Oriental",
+    "sort": "30018"
+  },
+  {
+    "city": "Calintaan",
+    "admin": "Occidental Mindoro",
+    "sort": "30190"
+  },
+  {
+    "city": "Padada",
+    "admin": "Davao del Sur",
+    "sort": "29878"
+  },
+  {
+    "city": "Piagapo",
+    "admin": "Lanao del Sur",
+    "sort": "30132"
+  },
+  {
+    "city": "Marogong",
+    "admin": "Lanao del Sur",
+    "sort": "30118"
+  },
+  {
+    "city": "Makato",
+    "admin": "Aklan",
+    "sort": "29717"
+  },
+  {
+    "city": "Agno",
+    "admin": "Pangasinan",
+    "sort": "29947"
+  },
+  {
+    "city": "Placer",
+    "admin": "Surigao del Norte",
+    "sort": "29616"
+  },
+  {
+    "city": "Bontoc",
+    "admin": "Southern Leyte",
+    "sort": "29799"
+  },
+  {
+    "city": "Ragan Sur",
+    "admin": "Isabela",
+    "sort": "29928"
+  },
+  {
+    "city": "San Roque",
+    "admin": "Northern Samar",
+    "sort": "29882"
+  },
+  {
+    "city": "Buenavista",
+    "admin": "Bohol",
+    "sort": "29711"
+  },
+  {
+    "city": "Balabagan",
+    "admin": "Lanao del Sur",
+    "sort": "29863"
+  },
+  {
+    "city": "San Jacinto",
+    "admin": "Masbate",
+    "sort": "29686"
+  },
+  {
+    "city": "Zamboanguita",
+    "admin": "Negros Oriental",
+    "sort": "29569"
+  },
+  {
+    "city": "Benito Soliven",
+    "admin": "Isabela",
+    "sort": "29752"
+  },
+  {
+    "city": "San Luis",
+    "admin": "Aurora",
+    "sort": "29824"
+  },
+  {
+    "city": "Pasuquin",
+    "admin": "Ilocos Norte",
+    "sort": "29678"
+  },
+  {
+    "city": "Manticao",
+    "admin": "Misamis Oriental",
+    "sort": "29469"
+  },
+  {
+    "city": "Licab",
+    "admin": "Nueva Ecija",
+    "sort": "29269"
+  },
+  {
+    "city": "South Ubian",
+    "admin": "Tawi-Tawi",
+    "sort": "29583"
+  },
+  {
+    "city": "Sumilao",
+    "admin": "Bukidnon",
+    "sort": "29531"
+  },
+  {
+    "city": "Kumalarang",
+    "admin": "Zamboanga del Sur",
+    "sort": "29479"
+  },
+  {
+    "city": "Lavezares",
+    "admin": "Northern Samar",
+    "sort": "29390"
+  },
+  {
+    "city": "Santo Domingo",
+    "admin": "Ilocos Sur",
+    "sort": "29041"
+  },
+  {
+    "city": "Garchitorena",
+    "admin": "Camarines Sur",
+    "sort": "29436"
+  },
+  {
+    "city": "Oslob",
+    "admin": "Cebu",
+    "sort": "29264"
+  },
+  {
+    "city": "Sexmoan",
+    "admin": "Pampanga",
+    "sort": "29076"
+  },
+  {
+    "city": "Dapa",
+    "admin": "Surigao del Norte",
+    "sort": "29006"
+  },
+  {
+    "city": "Hinunangan",
+    "admin": "Southern Leyte",
+    "sort": "29149"
+  },
+  {
+    "city": "Poona-Piagapo",
+    "admin": "Lanao del Norte",
+    "sort": "29183"
+  },
+  {
+    "city": "Jimenez",
+    "admin": "Misamis Occidental",
+    "sort": "28909"
+  },
+  {
+    "city": "Lugus",
+    "admin": "Sulu",
+    "sort": "29043"
+  },
+  {
+    "city": "Tabuelan",
+    "admin": "Cebu",
+    "sort": "28907"
+  },
+  {
+    "city": "Ponot",
+    "admin": "Zamboanga del Norte",
+    "sort": "28881"
+  },
+  {
+    "city": "Babatngon",
+    "admin": "Leyte",
+    "sort": "28823"
+  },
+  {
+    "city": "San Manuel",
+    "admin": "Tarlac",
+    "sort": "28387"
+  },
+  {
+    "city": "Ampatuan",
+    "admin": "Maguindanao",
+    "sort": "28941"
+  },
+  {
+    "city": "Baleno",
+    "admin": "Masbate",
+    "sort": "28855"
+  },
+  {
+    "city": "Mabini",
+    "admin": "Bohol",
+    "sort": "28701"
+  },
+  {
+    "city": "Pilar",
+    "admin": "Bohol",
+    "sort": "28693"
+  },
+  {
+    "city": "Tudela",
+    "admin": "Misamis Occidental",
+    "sort": "28599"
+  },
+  {
+    "city": "Tibiao",
+    "admin": "Antique",
+    "sort": "28703"
+  },
+  {
+    "city": "Santiago",
+    "admin": "Agusan del Norte",
+    "sort": "28657"
+  },
+  {
+    "city": "Basay",
+    "admin": "Negros Oriental",
+    "sort": "28531"
+  },
+  {
+    "city": "Saint Bernard",
+    "admin": "Southern Leyte",
+    "sort": "28414"
+  },
+  {
+    "city": "Doña Remedios Trinidad",
+    "admin": "Bulacan",
+    "sort": "28656"
+  },
+  {
+    "city": "Valencia",
+    "admin": "Bohol",
+    "sort": "28392"
+  },
+  {
+    "city": "Magdalena",
+    "admin": "Laguna",
+    "sort": "27816"
+  },
+  {
+    "city": "Santo Niño",
+    "admin": "Cagayan",
+    "sort": "28537"
+  },
+  {
+    "city": "Kolambugan",
+    "admin": "Lanao del Norte",
+    "sort": "28265"
+  },
+  {
+    "city": "Datu Piang",
+    "admin": "Maguindanao",
+    "sort": "28380"
+  },
+  {
+    "city": "Reina Mercedes Viejo",
+    "admin": "Isabela",
+    "sort": "27900"
+  },
+  {
+    "city": "Libacao",
+    "admin": "Aklan",
+    "sort": "28272"
+  },
+  {
+    "city": "Talusan",
+    "admin": "Zamboanga Sibugay",
+    "sort": "27873"
+  },
+  {
+    "city": "Majayjay",
+    "admin": "Laguna",
+    "sort": "27893"
+  },
+  {
+    "city": "Mainit",
+    "admin": "Surigao del Norte",
+    "sort": "28019"
+  },
+  {
+    "city": "Cabangan",
+    "admin": "Zambales",
+    "sort": "28118"
+  },
+  {
+    "city": "Cuartero",
+    "admin": "Capiz",
+    "sort": "27993"
+  },
+  {
+    "city": "Aloran",
+    "admin": "Misamis Occidental",
+    "sort": "27934"
+  },
+  {
+    "city": "Bayang",
+    "admin": "Lanao del Sur",
+    "sort": "28023"
+  },
+  {
+    "city": "Talisay",
+    "admin": "Camarines Norte",
+    "sort": "27244"
+  },
+  {
+    "city": "San Isidro",
+    "admin": "Northern Samar",
+    "sort": "27867"
+  },
+  {
+    "city": "Dingalan",
+    "admin": "Aurora",
+    "sort": "27878"
+  },
+  {
+    "city": "Alitagtag",
+    "admin": "Batangas",
+    "sort": "26819"
+  },
+  {
+    "city": "Mahaplag",
+    "admin": "Leyte",
+    "sort": "27865"
+  },
+  {
+    "city": "Lapuyan",
+    "admin": "Zamboanga del Sur",
+    "sort": "27737"
+  },
+  {
+    "city": "Zarraga",
+    "admin": "Iloilo",
+    "sort": "27305"
+  },
+  {
+    "city": "Pitogo",
+    "admin": "Zamboanga del Sur",
+    "sort": "27516"
+  },
+  {
+    "city": "Leon Postigo",
+    "admin": "Zamboanga del Norte",
+    "sort": "27639"
+  },
+  {
+    "city": "Villareal",
+    "admin": "Samar",
+    "sort": "27394"
+  },
+  {
+    "city": "Bien Unido",
+    "admin": "Bohol",
+    "sort": "26666"
+  },
+  {
+    "city": "Conner",
+    "admin": "Apayao",
+    "sort": "27552"
+  },
+  {
+    "city": "Macalelon",
+    "admin": "Quezon",
+    "sort": "27312"
+  },
+  {
+    "city": "Ramon Magsaysay",
+    "admin": "Zamboanga del Sur",
+    "sort": "27280"
+  },
+  {
+    "city": "Palanas",
+    "admin": "Masbate",
+    "sort": "27322"
+  },
+  {
+    "city": "San Isidro",
+    "admin": "Isabela",
+    "sort": "27044"
+  },
+  {
+    "city": "Badiangan",
+    "admin": "Iloilo",
+    "sort": "27056"
+  },
+  {
+    "city": "Magarao",
+    "admin": "Camarines Sur",
+    "sort": "26742"
+  },
+  {
+    "city": "San Jose",
+    "admin": "Dinagat Islands",
+    "sort": "26375"
+  },
+  {
+    "city": "Taraka",
+    "admin": "Lanao del Sur",
+    "sort": "27184"
+  },
+  {
+    "city": "Saguiaran",
+    "admin": "Lanao del Sur",
+    "sort": "26712"
+  },
+  {
+    "city": "Quezon",
+    "admin": "Isabela",
+    "sort": "27037"
+  },
+  {
+    "city": "Labrador",
+    "admin": "Pangasinan",
+    "sort": "26811"
+  },
+  {
+    "city": "San Juan",
+    "admin": "Ilocos Sur",
+    "sort": "26674"
+  },
+  {
+    "city": "Tarragona",
+    "admin": "Davao Oriental",
+    "sort": "26996"
+  },
+  {
+    "city": "Santa Margarita",
+    "admin": "Samar",
+    "sort": "26816"
+  },
+  {
+    "city": "Pantar",
+    "admin": "Lanao del Norte",
+    "sort": "26599"
+  },
+  {
+    "city": "Lagindingan",
+    "admin": "Misamis Oriental",
+    "sort": "26363"
+  },
+  {
+    "city": "Sapian",
+    "admin": "Capiz",
+    "sort": "26697"
+  },
+  {
+    "city": "Lauaan",
+    "admin": "Antique",
+    "sort": "26580"
+  },
+  {
+    "city": "Bugho",
+    "admin": "Leyte",
+    "sort": "26658"
+  },
+  {
+    "city": "San Pablo",
+    "admin": "Zamboanga del Sur",
+    "sort": "26648"
+  },
+  {
+    "city": "Macrohon",
+    "admin": "Southern Leyte",
+    "sort": "26580"
+  },
+  {
+    "city": "Malitbog",
+    "admin": "Bukidnon",
+    "sort": "26741"
+  },
+  {
+    "city": "Pandag",
+    "admin": "Maguindanao",
+    "sort": "26356"
+  },
+  {
+    "city": "Poro",
+    "admin": "Cebu",
+    "sort": "26232"
+  },
+  {
+    "city": "Pura",
+    "admin": "Tarlac",
+    "sort": "25781"
+  },
+  {
+    "city": "Casiguran",
+    "admin": "Aurora",
+    "sort": "26564"
+  },
+  {
+    "city": "Bubong",
+    "admin": "Lanao del Sur",
+    "sort": "26514"
+  },
+  {
+    "city": "Mabini",
+    "admin": "Pangasinan",
+    "sort": "26454"
+  },
+  {
+    "city": "Madalum",
+    "admin": "Lanao del Sur",
+    "sort": "26478"
+  },
+  {
+    "city": "Del Gallego",
+    "admin": "Camarines Sur",
+    "sort": "26403"
+  },
+  {
+    "city": "Kayapa",
+    "admin": "Nueva Vizcaya",
+    "sort": "26469"
+  },
+  {
+    "city": "Santa Josefa",
+    "admin": "Agusan del Sur",
+    "sort": "26432"
+  },
+  {
+    "city": "Santa Lucia",
+    "admin": "Ilocos Sur",
+    "sort": "25966"
+  },
+  {
+    "city": "Manito",
+    "admin": "Albay",
+    "sort": "26162"
+  },
+  {
+    "city": "Lamut",
+    "admin": "Ifugao",
+    "sort": "26235"
+  },
+  {
+    "city": "Burgos",
+    "admin": "Isabela",
+    "sort": "26040"
+  },
+  {
+    "city": "Sinait",
+    "admin": "Ilocos Sur",
+    "sort": "25998"
+  },
+  {
+    "city": "Buenavista",
+    "admin": "Marinduque",
+    "sort": "26043"
+  },
+  {
+    "city": "San Pablo",
+    "admin": "Isabela",
+    "sort": "26320"
+  },
+  {
+    "city": "Sanchez-Mira",
+    "admin": "Cagayan",
+    "sort": "26164"
+  },
+  {
+    "city": "Infanta",
+    "admin": "Pangasinan",
+    "sort": "26242"
+  },
+  {
+    "city": "Sierra Bullones",
+    "admin": "Bohol",
+    "sort": "26095"
+  },
+  {
+    "city": "Socorro",
+    "admin": "Surigao del Norte",
+    "sort": "25942"
+  },
+  {
+    "city": "Bobon",
+    "admin": "Northern Samar",
+    "sort": "25964"
+  },
+  {
+    "city": "Dancagan",
+    "admin": "Bukidnon",
+    "sort": "26076"
+  },
+  {
+    "city": "Binidayan",
+    "admin": "Lanao del Sur",
+    "sort": "25965"
+  },
+  {
+    "city": "Tabina",
+    "admin": "Zamboanga del Sur",
+    "sort": "25734"
+  },
+  {
+    "city": "Tubay",
+    "admin": "Agusan del Norte",
+    "sort": "25785"
+  },
+  {
+    "city": "Natividad",
+    "admin": "Pangasinan",
+    "sort": "25771"
+  },
+  {
+    "city": "Talisayan",
+    "admin": "Misamis Oriental",
+    "sort": "25761"
+  },
+  {
+    "city": "Santa Maria",
+    "admin": "Isabela",
+    "sort": "25758"
+  },
+  {
+    "city": "Tarangnan",
+    "admin": "Samar",
+    "sort": "25713"
+  },
+  {
+    "city": "Alegria",
+    "admin": "Cebu",
+    "sort": "25620"
+  },
+  {
+    "city": "Altavas",
+    "admin": "Aklan",
+    "sort": "25639"
+  },
+  {
+    "city": "Lopez Jaena",
+    "admin": "Misamis Occidental",
+    "sort": "25507"
+  },
+  {
+    "city": "Allen",
+    "admin": "Northern Samar",
+    "sort": "25228"
+  },
+  {
+    "city": "Ayuquitan",
+    "admin": "Negros Oriental",
+    "sort": "25513"
+  },
+  {
+    "city": "Tipo-Tipo",
+    "admin": "Basilan",
+    "sort": "25531"
+  },
+  {
+    "city": "Busuanga",
+    "admin": "Palawan",
+    "sort": "25617"
+  },
+  {
+    "city": "Unisan",
+    "admin": "Quezon",
+    "sort": "25448"
+  },
+  {
+    "city": "Sarrat",
+    "admin": "Ilocos Norte",
+    "sort": "25186"
+  },
+  {
+    "city": "Pangil",
+    "admin": "Laguna",
+    "sort": "25026"
+  },
+  {
+    "city": "San Nicolas",
+    "admin": "Batangas",
+    "sort": "23908"
+  },
+  {
+    "city": "Camalaniugan",
+    "admin": "Cagayan",
+    "sort": "25236"
+  },
+  {
+    "city": "San Miguel",
+    "admin": "Bohol",
+    "sort": "25356"
+  },
+  {
+    "city": "Tumbao",
+    "admin": "Maguindanao",
+    "sort": "25439"
+  },
+  {
+    "city": "Talugtug",
+    "admin": "Nueva Ecija",
+    "sort": "25236"
+  },
+  {
+    "city": "Nagtipunan",
+    "admin": "Quirino",
+    "sort": "25399"
+  },
+  {
+    "city": "Paete",
+    "admin": "Laguna",
+    "sort": "24945"
+  },
+  {
+    "city": "Monreal",
+    "admin": "Masbate",
+    "sort": "25164"
+  },
+  {
+    "city": "Paoay",
+    "admin": "Ilocos Norte",
+    "sort": "25001"
+  },
+  {
+    "city": "Poblacion",
+    "admin": "Southern Leyte",
+    "sort": "24800"
+  },
+  {
+    "city": "Kalayaan",
+    "admin": "Laguna",
+    "sort": "24755"
+  },
+  {
+    "city": "San Felipe",
+    "admin": "Zambales",
+    "sort": "25033"
+  },
+  {
+    "city": "Pagudpud",
+    "admin": "Ilocos Norte",
+    "sort": "25098"
+  },
+  {
+    "city": "Quirino",
+    "admin": "Isabela",
+    "sort": "25023"
+  },
+  {
+    "city": "Dimasalang",
+    "admin": "Masbate",
+    "sort": "24909"
+  },
+  {
+    "city": "Ternate",
+    "admin": "Cavite",
+    "sort": "24653"
+  },
+  {
+    "city": "General Luna",
+    "admin": "Quezon",
+    "sort": "24804"
+  },
+  {
+    "city": "Baroy",
+    "admin": "Lanao del Norte",
+    "sort": "24683"
+  },
+  {
+    "city": "Balete",
+    "admin": "Batangas",
+    "sort": "24055"
+  },
+  {
+    "city": "San Enrique",
+    "admin": "Negros Occidental",
+    "sort": "24177"
+  },
+  {
+    "city": "Solsona",
+    "admin": "Ilocos Norte",
+    "sort": "24851"
+  },
+  {
+    "city": "Piat",
+    "admin": "Cagayan",
+    "sort": "24805"
+  },
+  {
+    "city": "Jabonga",
+    "admin": "Agusan del Norte",
+    "sort": "24855"
+  },
+  {
+    "city": "Tugaya",
+    "admin": "Lanao del Sur",
+    "sort": "24778"
+  },
+  {
+    "city": "Santo Tomas",
+    "admin": "Isabela",
+    "sort": "24528"
+  },
+  {
+    "city": "Pamplona",
+    "admin": "Cagayan",
+    "sort": "24781"
+  },
+  {
+    "city": "Lucena",
+    "admin": "Iloilo",
+    "sort": "24314"
+  },
+  {
+    "city": "Tamilisan",
+    "admin": "Zamboanga del Norte",
+    "sort": "24680"
+  },
+  {
+    "city": "Patian",
+    "admin": "Sulu",
+    "sort": "24736"
+  },
+  {
+    "city": "Tuburan",
+    "admin": "Basilan",
+    "sort": "24742"
+  },
+  {
+    "city": "Burdeos",
+    "admin": "Quezon",
+    "sort": "24644"
+  },
+  {
+    "city": "Sagbayan",
+    "admin": "Bohol",
+    "sort": "24335"
+  },
+  {
+    "city": "Carrascal",
+    "admin": "Surigao del Sur",
+    "sort": "24586"
+  },
+  {
+    "city": "Malinao",
+    "admin": "Aklan",
+    "sort": "24517"
+  },
+  {
+    "city": "Garcia Hernandez",
+    "admin": "Bohol",
+    "sort": "24430"
+  },
+  {
+    "city": "Bacolod",
+    "admin": "Lanao del Norte",
+    "sort": "24367"
+  },
+  {
+    "city": "Mina",
+    "admin": "Iloilo",
+    "sort": "24042"
+  },
+  {
+    "city": "Kauswagan",
+    "admin": "Lanao del Norte",
+    "sort": "24193"
+  },
+  {
+    "city": "Alicia",
+    "admin": "Bohol",
+    "sort": "24374"
+  },
+  {
+    "city": "Lagonglong",
+    "admin": "Misamis Oriental",
+    "sort": "24190"
+  },
+  {
+    "city": "Caibiran",
+    "admin": "Biliran",
+    "sort": "24167"
+  },
+  {
+    "city": "Ramain",
+    "admin": "Lanao del Sur",
+    "sort": "24406"
+  },
+  {
+    "city": "San Fernando",
+    "admin": "Romblon",
+    "sort": "24171"
+  },
+  {
+    "city": "San Agustin",
+    "admin": "Romblon",
+    "sort": "24115"
+  },
+  {
+    "city": "Quezon",
+    "admin": "Nueva Vizcaya",
+    "sort": "24055"
+  },
+  {
+    "city": "Bulusan",
+    "admin": "Sorsogon",
+    "sort": "23932"
+  },
+  {
+    "city": "Magallanes",
+    "admin": "Cavite",
+    "sort": "23851"
+  },
+  {
+    "city": "Cavinti",
+    "admin": "Laguna",
+    "sort": "23980"
+  },
+  {
+    "city": "Pitogo",
+    "admin": "Bohol",
+    "sort": "23625"
+  },
+  {
+    "city": "Tangalan",
+    "admin": "Aklan",
+    "sort": "23704"
+  },
+  {
+    "city": "Catigbian",
+    "admin": "Bohol",
+    "sort": "23805"
+  },
+  {
+    "city": "Limbuhan",
+    "admin": "Masbate",
+    "sort": "23744"
+  },
+  {
+    "city": "Pakil",
+    "admin": "Laguna",
+    "sort": "23495"
+  },
+  {
+    "city": "Burgos",
+    "admin": "Pangasinan",
+    "sort": "23749"
+  },
+  {
+    "city": "Kalawit",
+    "admin": "Zamboanga del Norte",
+    "sort": "23812"
+  },
+  {
+    "city": "Candoni",
+    "admin": "Negros Occidental",
+    "sort": "23751"
+  },
+  {
+    "city": "Padre Burgos",
+    "admin": "Quezon",
+    "sort": "23488"
+  },
+  {
+    "city": "Baliguian",
+    "admin": "Zamboanga del Norte",
+    "sort": "23771"
+  },
+  {
+    "city": "Ramos",
+    "admin": "Tarlac",
+    "sort": "22879"
+  },
+  {
+    "city": "Cuyo",
+    "admin": "Palawan",
+    "sort": "23489"
+  },
+  {
+    "city": "Caba",
+    "admin": "La Union",
+    "sort": "23119"
+  },
+  {
+    "city": "Dumaran",
+    "admin": "Palawan",
+    "sort": "23528"
+  },
+  {
+    "city": "Gamay",
+    "admin": "Northern Samar",
+    "sort": "23367"
+  },
+  {
+    "city": "Maibog",
+    "admin": "Southern Leyte",
+    "sort": "23256"
+  },
+  {
+    "city": "Maigo",
+    "admin": "Lanao del Norte",
+    "sort": "23337"
+  },
+  {
+    "city": "Barbasa",
+    "admin": "Antique",
+    "sort": "23359"
+  },
+  {
+    "city": "Calamba",
+    "admin": "Misamis Occidental",
+    "sort": "23227"
+  },
+  {
+    "city": "General Luna",
+    "admin": "Surigao del Norte",
+    "sort": "22853"
+  },
+  {
+    "city": "Calbiga",
+    "admin": "Samar",
+    "sort": "23310"
+  },
+  {
+    "city": "Cajidiocan",
+    "admin": "Romblon",
+    "sort": "23259"
+  },
+  {
+    "city": "Tubungan",
+    "admin": "Iloilo",
+    "sort": "23021"
+  },
+  {
+    "city": "Culion",
+    "admin": "Palawan",
+    "sort": "23213"
+  },
+  {
+    "city": "Carmen",
+    "admin": "Agusan del Norte",
+    "sort": "23172"
+  },
+  {
+    "city": "Baclayon",
+    "admin": "Bohol",
+    "sort": "22461"
+  },
+  {
+    "city": "Pitogo",
+    "admin": "Quezon",
+    "sort": "22798"
+  },
+  {
+    "city": "Prieto Diaz",
+    "admin": "Sorsogon",
+    "sort": "22644"
+  },
+  {
+    "city": "Viga",
+    "admin": "Catanduanes",
+    "sort": "22869"
+  },
+  {
+    "city": "Oteiza",
+    "admin": "Surigao del Sur",
+    "sort": "22855"
+  },
+  {
+    "city": "Lumbatan",
+    "admin": "Lanao del Sur",
+    "sort": "22780"
+  },
+  {
+    "city": "Santa Teresita",
+    "admin": "Batangas",
+    "sort": "21559"
+  },
+  {
+    "city": "Butig",
+    "admin": "Lanao del Sur",
+    "sort": "22768"
+  },
+  {
+    "city": "Lazi",
+    "admin": "Siquijor",
+    "sort": "22488"
+  },
+  {
+    "city": "Magallanes",
+    "admin": "Agusan del Norte",
+    "sort": "22293"
+  },
+  {
+    "city": "Parabcan",
+    "admin": "Camarines Sur",
+    "sort": "22591"
+  },
+  {
+    "city": "Sarangani",
+    "admin": "Davao del Sur",
+    "sort": "22515"
+  },
+  {
+    "city": "Naawan",
+    "admin": "Misamis Oriental",
+    "sort": "22444"
+  },
+  {
+    "city": "Piddig",
+    "admin": "Ilocos Norte",
+    "sort": "22475"
+  },
+  {
+    "city": "Batad",
+    "admin": "Iloilo",
+    "sort": "22157"
+  },
+  {
+    "city": "Santa Fe",
+    "admin": "Leyte",
+    "sort": "22102"
+  },
+  {
+    "city": "Maribojoc",
+    "admin": "Bohol",
+    "sort": "22178"
+  },
+  {
+    "city": "San Jose",
+    "admin": "Negros Oriental",
+    "sort": "21956"
+  },
+  {
+    "city": "Anini-y",
+    "admin": "Antique",
+    "sort": "22018"
+  },
+  {
+    "city": "Salcedo",
+    "admin": "Eastern Samar",
+    "sort": "22136"
+  },
+  {
+    "city": "Bato",
+    "admin": "Catanduanes",
+    "sort": "21748"
+  },
+  {
+    "city": "San Agustin",
+    "admin": "Isabela",
+    "sort": "22096"
+  },
+  {
+    "city": "Madamba",
+    "admin": "Lanao del Sur",
+    "sort": "22050"
+  },
+  {
+    "city": "Gigaquit",
+    "admin": "Surigao del Norte",
+    "sort": "21849"
+  },
+  {
+    "city": "Guipos",
+    "admin": "Zamboanga del Sur",
+    "sort": "21738"
+  },
+  {
+    "city": "Looc",
+    "admin": "Romblon",
+    "sort": "21799"
+  },
+  {
+    "city": "MacArthur",
+    "admin": "Leyte",
+    "sort": "21578"
+  },
+  {
+    "city": "Cabucgayan",
+    "admin": "Biliran",
+    "sort": "21542"
+  },
+  {
+    "city": "San Fernando",
+    "admin": "Masbate",
+    "sort": "21600"
+  },
+  {
+    "city": "Tigbao",
+    "admin": "Zamboanga del Sur",
+    "sort": "21675"
+  },
+  {
+    "city": "Cagwait",
+    "admin": "Surigao del Sur",
+    "sort": "21747"
+  },
+  {
+    "city": "Can-Avid",
+    "admin": "Eastern Samar",
+    "sort": "21682"
+  },
+  {
+    "city": "Rancheria Payau",
+    "admin": "Zamboanga del Sur",
+    "sort": "21559"
+  },
+  {
+    "city": "Pandan",
+    "admin": "Catanduanes",
+    "sort": "21473"
+  },
+  {
+    "city": "Tolosa",
+    "admin": "Leyte",
+    "sort": "20708"
+  },
+  {
+    "city": "Inopacan",
+    "admin": "Leyte",
+    "sort": "21389"
+  },
+  {
+    "city": "Clarin",
+    "admin": "Bohol",
+    "sort": "21158"
+  },
+  {
+    "city": "Linamon",
+    "admin": "Lanao del Norte",
+    "sort": "21269"
+  },
+  {
+    "city": "Mabitac",
+    "admin": "Laguna",
+    "sort": "21275"
+  },
+  {
+    "city": "Llorente",
+    "admin": "Eastern Samar",
+    "sort": "21459"
+  },
+  {
+    "city": "Kitcharao",
+    "admin": "Agusan del Norte",
+    "sort": "21278"
+  },
+  {
+    "city": "Ronda",
+    "admin": "Cebu",
+    "sort": "21005"
+  },
+  {
+    "city": "Luna",
+    "admin": "Apayao",
+    "sort": "21297"
+  },
+  {
+    "city": "Barcelona",
+    "admin": "Sorsogon",
+    "sort": "20987"
+  },
+  {
+    "city": "Lugait",
+    "admin": "Misamis Oriental",
+    "sort": "20559"
+  },
+  {
+    "city": "Dupax del Sur",
+    "admin": "Nueva Vizcaya",
+    "sort": "21224"
+  },
+  {
+    "city": "Hindang",
+    "admin": "Leyte",
+    "sort": "20849"
+  },
+  {
+    "city": "Aguinaldo",
+    "admin": "Santiago",
+    "sort": "21128"
+  },
+  {
+    "city": "Luna",
+    "admin": "Isabela",
+    "sort": "20697"
+  },
+  {
+    "city": "Luisiana",
+    "admin": "Laguna",
+    "sort": "20859"
+  },
+  {
+    "city": "Banting",
+    "admin": "Sulu",
+    "sort": "20799"
+  },
+  {
+    "city": "San Guillermo",
+    "admin": "Isabela",
+    "sort": "20915"
+  },
+  {
+    "city": "Samboan",
+    "admin": "Cebu",
+    "sort": "20373"
+  },
+  {
+    "city": "Kawayan",
+    "admin": "Biliran",
+    "sort": "20455"
+  },
+  {
+    "city": "Banaue",
+    "admin": "Ifugao",
+    "sort": "20652"
+  },
+  {
+    "city": "Sapang Dalaga",
+    "admin": "Misamis Occidental",
+    "sort": "20490"
+  },
+  {
+    "city": "Caoayan",
+    "admin": "Ilocos Sur",
+    "sort": "19574"
+  },
+  {
+    "city": "Kapay",
+    "admin": "Lanao del Sur",
+    "sort": "20581"
+  },
+  {
+    "city": "Magsaysay",
+    "admin": "Lanao del Norte",
+    "sort": "20463"
+  },
+  {
+    "city": "Piñan",
+    "admin": "Zamboanga del Norte",
+    "sort": "20221"
+  },
+  {
+    "city": "Danao",
+    "admin": "Bohol",
+    "sort": "20245"
+  },
+  {
+    "city": "Villa Verde",
+    "admin": "Nueva Vizcaya",
+    "sort": "20118"
+  },
+  {
+    "city": "Del Carmen",
+    "admin": "Surigao del Norte",
+    "sort": "20127"
+  },
+  {
+    "city": "Dagohoy",
+    "admin": "Bohol",
+    "sort": "19874"
+  },
+  {
+    "city": "Malabuyoc",
+    "admin": "Cebu",
+    "sort": "19770"
+  },
+  {
+    "city": "Valderrama",
+    "admin": "Antique",
+    "sort": "19971"
+  },
+  {
+    "city": "Mulundo",
+    "admin": "Lanao del Sur",
+    "sort": "19932"
+  },
+  {
+    "city": "San Miguel",
+    "admin": "Zamboanga del Sur",
+    "sort": "19838"
+  },
+  {
+    "city": "Santiago",
+    "admin": "Ilocos Sur",
+    "sort": "19471"
+  },
+  {
+    "city": "San Miguel",
+    "admin": "Leyte",
+    "sort": "19753"
+  },
+  {
+    "city": "Sinacaban",
+    "admin": "Misamis Occidental",
+    "sort": "19671"
+  },
+  {
+    "city": "Tigbauan",
+    "admin": "Iloilo",
+    "sort": "19603"
+  },
+  {
+    "city": "Tingloy",
+    "admin": "Batangas",
+    "sort": "19215"
+  },
+  {
+    "city": "Santa Teresita",
+    "admin": "Cagayan",
+    "sort": "19573"
+  },
+  {
+    "city": "Cabusao",
+    "admin": "Camarines Sur",
+    "sort": "19257"
+  },
+  {
+    "city": "Pugo",
+    "admin": "La Union",
+    "sort": "19337"
+  },
+  {
+    "city": "Rizal",
+    "admin": "Kalinga",
+    "sort": "19554"
+  },
+  {
+    "city": "Tublay",
+    "admin": "Benguet",
+    "sort": "19429"
+  },
+  {
+    "city": "Pastrana",
+    "admin": "Leyte",
+    "sort": "19359"
+  },
+  {
+    "city": "Buruanga",
+    "admin": "Aklan",
+    "sort": "19357"
+  },
+  {
+    "city": "Siruma",
+    "admin": "Camarines Sur",
+    "sort": "19419"
+  },
+  {
+    "city": "Cervantes",
+    "admin": "Ilocos Sur",
+    "sort": "19449"
+  },
+  {
+    "city": "Espiritu",
+    "admin": "Ilocos Norte",
+    "sort": "19297"
+  },
+  {
+    "city": "Marihatag",
+    "admin": "Surigao del Sur",
+    "sort": "19441"
+  },
+  {
+    "city": "Alcoy",
+    "admin": "Cebu",
+    "sort": "19186"
+  },
+  {
+    "city": "Jiabong",
+    "admin": "Samar",
+    "sort": "19205"
+  },
+  {
+    "city": "Tadian",
+    "admin": "Mountain",
+    "sort": "19341"
+  },
+  {
+    "city": "La Paz",
+    "admin": "Leyte",
+    "sort": "19174"
+  },
+  {
+    "city": "Kapangan",
+    "admin": "Benguet",
+    "sort": "19297"
+  },
+  {
+    "city": "Diadi",
+    "admin": "Nueva Vizcaya",
+    "sort": "19236"
+  },
+  {
+    "city": "Atok",
+    "admin": "Benguet",
+    "sort": "19218"
+  },
+  {
+    "city": "Rizal",
+    "admin": "Cagayan",
+    "sort": "19077"
+  },
+  {
+    "city": "San Teodoro",
+    "admin": "Oriental Mindoro",
+    "sort": "19121"
+  },
+  {
+    "city": "Lumbayanague",
+    "admin": "Lanao del Sur",
+    "sort": "19091"
+  },
+  {
+    "city": "San Gabriel",
+    "admin": "La Union",
+    "sort": "18943"
+  },
+  {
+    "city": "Malimono",
+    "admin": "Surigao del Norte",
+    "sort": "18852"
+  },
+  {
+    "city": "Duero",
+    "admin": "Bohol",
+    "sort": "18861"
+  },
+  {
+    "city": "Santander",
+    "admin": "Cebu",
+    "sort": "18527"
+  },
+  {
+    "city": "Cortes",
+    "admin": "Bohol",
+    "sort": "18344"
+  },
+  {
+    "city": "Candon",
+    "admin": "Ilocos Sur",
+    "sort": "18828"
+  },
+  {
+    "city": "Rizal",
+    "admin": "Laguna",
+    "sort": "18332"
+  },
+  {
+    "city": "Sebaste",
+    "admin": "Antique",
+    "sort": "18816"
+  },
+  {
+    "city": "Madalag",
+    "admin": "Aklan",
+    "sort": "18890"
+  },
+  {
+    "city": "Taft",
+    "admin": "Eastern Samar",
+    "sort": "18786"
+  },
+  {
+    "city": "Nunuñgan",
+    "admin": "Lanao del Norte",
+    "sort": "18827"
+  },
+  {
+    "city": "Balilihan",
+    "admin": "Bohol",
+    "sort": "18694"
+  },
+  {
+    "city": "Paglat",
+    "admin": "Maguindanao",
+    "sort": "18727"
+  },
+  {
+    "city": "Baliangao",
+    "admin": "Misamis Occidental",
+    "sort": "18433"
+  },
+  {
+    "city": "Bilar",
+    "admin": "Bohol",
+    "sort": "18512"
+  },
+  {
+    "city": "Bombon",
+    "admin": "Camarines Sur",
+    "sort": "17995"
+  },
+  {
+    "city": "Paluan",
+    "admin": "Occidental Mindoro",
+    "sort": "18566"
+  },
+  {
+    "city": "Tinoc",
+    "admin": "Ifugao",
+    "sort": "18475"
+  },
+  {
+    "city": "Mayorga",
+    "admin": "Leyte",
+    "sort": "18071"
+  },
+  {
+    "city": "Cagdianao",
+    "admin": "Dinagat Islands",
+    "sort": "18350"
+  },
+  {
+    "city": "Gitagum",
+    "admin": "Misamis Oriental",
+    "sort": "17920"
+  },
+  {
+    "city": "Santa Fe",
+    "admin": "Nueva Vizcaya",
+    "sort": "18276"
+  },
+  {
+    "city": "Almeria",
+    "admin": "Biliran",
+    "sort": "17954"
+  },
+  {
+    "city": "Marcos",
+    "admin": "Ilocos Norte",
+    "sort": "18010"
+  },
+  {
+    "city": "Pinabacdao",
+    "admin": "Samar",
+    "sort": "18136"
+  },
+  {
+    "city": "San Jose",
+    "admin": "Northern Samar",
+    "sort": "17641"
+  },
+  {
+    "city": "Loay",
+    "admin": "Bohol",
+    "sort": "17855"
+  },
+  {
+    "city": "Libjo",
+    "admin": "Dinagat Islands",
+    "sort": "18051"
+  },
+  {
+    "city": "Buadiposo-Buntong",
+    "admin": "Lanao del Sur",
+    "sort": "18046"
+  },
+  {
+    "city": "Bucay",
+    "admin": "Abra",
+    "sort": "17953"
+  },
+  {
+    "city": "Santa Fe",
+    "admin": "Romblon",
+    "sort": "17802"
+  },
+  {
+    "city": "Anda",
+    "admin": "Bohol",
+    "sort": "17778"
+  },
+  {
+    "city": "Cortes",
+    "admin": "Surigao del Sur",
+    "sort": "17924"
+  },
+  {
+    "city": "San Rafael",
+    "admin": "Iloilo",
+    "sort": "17795"
+  },
+  {
+    "city": "Flora",
+    "admin": "Apayao",
+    "sort": "17944"
+  },
+  {
+    "city": "Marabut",
+    "admin": "Samar",
+    "sort": "17842"
+  },
+  {
+    "city": "Jovellar",
+    "admin": "Albay",
+    "sort": "17795"
+  },
+  {
+    "city": "Biliran",
+    "admin": "Biliran",
+    "sort": "17662"
+  },
+  {
+    "city": "Catarman",
+    "admin": "Camiguin",
+    "sort": "17569"
+  },
+  {
+    "city": "Pinili",
+    "admin": "Ilocos Norte",
+    "sort": "17626"
+  },
+  {
+    "city": "Esperanza",
+    "admin": "Masbate",
+    "sort": "17534"
+  },
+  {
+    "city": "Kiangan",
+    "admin": "Ifugao",
+    "sort": "17691"
+  },
+  {
+    "city": "Loboc",
+    "admin": "Bohol",
+    "sort": "17418"
+  },
+  {
+    "city": "Sibutao",
+    "admin": "Zamboanga del Norte",
+    "sort": "17453"
+  },
+  {
+    "city": "Palanan",
+    "admin": "Isabela",
+    "sort": "17684"
+  },
+  {
+    "city": "Matagob",
+    "admin": "Leyte",
+    "sort": "17522"
+  },
+  {
+    "city": "Libertad",
+    "admin": "Antique",
+    "sort": "17507"
+  },
+  {
+    "city": "Boljoon",
+    "admin": "Cebu",
+    "sort": "17525"
+  },
+  {
+    "city": "San Jorge",
+    "admin": "Samar",
+    "sort": "17579"
+  },
+  {
+    "city": "Lubang",
+    "admin": "Occidental Mindoro",
+    "sort": "17437"
+  },
+  {
+    "city": "Tagana-an",
+    "admin": "Surigao del Norte",
+    "sort": "17323"
+  },
+  {
+    "city": "Santa Magdalena",
+    "admin": "Sorsogon",
+    "sort": "17096"
+  },
+  {
+    "city": "Alcantara",
+    "admin": "Romblon",
+    "sort": "17171"
+  },
+  {
+    "city": "Saguday",
+    "admin": "Quirino",
+    "sort": "17137"
+  },
+  {
+    "city": "Calayan",
+    "admin": "Cagayan",
+    "sort": "17410"
+  },
+  {
+    "city": "Alcantara",
+    "admin": "Cebu",
+    "sort": "16910"
+  },
+  {
+    "city": "Sudipen",
+    "admin": "La Union",
+    "sort": "17187"
+  },
+  {
+    "city": "Tomas Oppus",
+    "admin": "Southern Leyte",
+    "sort": "16990"
+  },
+  {
+    "city": "Dilasag",
+    "admin": "Aurora",
+    "sort": "17102"
+  },
+  {
+    "city": "Ginatilan",
+    "admin": "Cebu",
+    "sort": "16906"
+  },
+  {
+    "city": "Famy",
+    "admin": "Laguna",
+    "sort": "16791"
+  },
+  {
+    "city": "Tubaran",
+    "admin": "Lanao del Sur",
+    "sort": "16896"
+  },
+  {
+    "city": "La Paz",
+    "admin": "Abra",
+    "sort": "16493"
+  },
+  {
+    "city": "Madrid",
+    "admin": "Surigao del Sur",
+    "sort": "16653"
+  },
+  {
+    "city": "San Juan",
+    "admin": "Siquijor",
+    "sort": "16363"
+  },
+  {
+    "city": "Zumarraga",
+    "admin": "Samar",
+    "sort": "16279"
+  },
+  {
+    "city": "San Miguel",
+    "admin": "Palawan",
+    "sort": "16424"
+  },
+  {
+    "city": "Arteche",
+    "admin": "Eastern Samar",
+    "sort": "16360"
+  },
+  {
+    "city": "Panukulan",
+    "admin": "Quezon",
+    "sort": "16376"
+  },
+  {
+    "city": "Alegria",
+    "admin": "Surigao del Norte",
+    "sort": "16184"
+  },
+  {
+    "city": "Bingawan",
+    "admin": "Iloilo",
+    "sort": "16164"
+  },
+  {
+    "city": "Leso",
+    "admin": "Aklan",
+    "sort": "15639"
+  },
+  {
+    "city": "Alabat",
+    "admin": "Quezon",
+    "sort": "15936"
+  },
+  {
+    "city": "Tankal",
+    "admin": "Lanao del Norte",
+    "sort": "16075"
+  },
+  {
+    "city": "Quezon",
+    "admin": "Quezon",
+    "sort": "15886"
+  },
+  {
+    "city": "Despujols",
+    "admin": "Romblon",
+    "sort": "15940"
+  },
+  {
+    "city": "San Tomas",
+    "admin": "Pangasinan",
+    "sort": "14878"
+  },
+  {
+    "city": "Santa Catalina",
+    "admin": "Ilocos Sur",
+    "sort": "14493"
+  },
+  {
+    "city": "Julita",
+    "admin": "Leyte",
+    "sort": "15598"
+  },
+  {
+    "city": "Kabayan",
+    "admin": "Benguet",
+    "sort": "15806"
+  },
+  {
+    "city": "Sulat",
+    "admin": "Eastern Samar",
+    "sort": "15758"
+  },
+  {
+    "city": "San Miguel",
+    "admin": "Catanduanes",
+    "sort": "15680"
+  },
+  {
+    "city": "Mayoyao",
+    "admin": "Ifugao",
+    "sort": "15621"
+  },
+  {
+    "city": "Anao-aon",
+    "admin": "Surigao del Norte",
+    "sort": "15347"
+  },
+  {
+    "city": "Ambaguio",
+    "admin": "Nueva Vizcaya",
+    "sort": "15472"
+  },
+  {
+    "city": "San Policarpo",
+    "admin": "Eastern Samar",
+    "sort": "15365"
+  },
+  {
+    "city": "Magdiwang",
+    "admin": "Romblon",
+    "sort": "15385"
+  },
+  {
+    "city": "Pudtol",
+    "admin": "Apayao",
+    "sort": "15491"
+  },
+  {
+    "city": "Victoria",
+    "admin": "Northern Samar",
+    "sort": "15361"
+  },
+  {
+    "city": "Libagon",
+    "admin": "Southern Leyte",
+    "sort": "15244"
+  },
+  {
+    "city": "Tubod",
+    "admin": "Surigao del Norte",
+    "sort": "15043"
+  },
+  {
+    "city": "Motiong",
+    "admin": "Samar",
+    "sort": "15276"
+  },
+  {
+    "city": "Maydolong",
+    "admin": "Eastern Samar",
+    "sort": "15314"
+  },
+  {
+    "city": "Tagoloan",
+    "admin": "Lanao del Norte",
+    "sort": "15091"
+  },
+  {
+    "city": "Rizal",
+    "admin": "Zamboanga del Norte",
+    "sort": "15052"
+  },
+  {
+    "city": "Silvino Lobos",
+    "admin": "Northern Samar",
+    "sort": "15100"
+  },
+  {
+    "city": "Patnanungan",
+    "admin": "Quezon",
+    "sort": "15052"
+  },
+  {
+    "city": "Bangui",
+    "admin": "Ilocos Norte",
+    "sort": "15019"
+  },
+  {
+    "city": "Santa",
+    "admin": "Ilocos Sur",
+    "sort": "14992"
+  },
+  {
+    "city": "Tatarikan",
+    "admin": "Lanao del Sur",
+    "sort": "15057"
+  },
+  {
+    "city": "Antequera",
+    "admin": "Bohol",
+    "sort": "14990"
+  },
+  {
+    "city": "Tayum",
+    "admin": "Abra",
+    "sort": "14869"
+  },
+  {
+    "city": "Mahinog",
+    "admin": "Camiguin",
+    "sort": "14634"
+  },
+  {
+    "city": "Matungao",
+    "admin": "Lanao del Norte",
+    "sort": "14756"
+  },
+  {
+    "city": "San Juan",
+    "admin": "Southern Leyte",
+    "sort": "14912"
+  },
+  {
+    "city": "Calanogas",
+    "admin": "Lanao del Sur",
+    "sort": "14985"
+  },
+  {
+    "city": "Lagangilang",
+    "admin": "Abra",
+    "sort": "14914"
+  },
+  {
+    "city": "Bacuag",
+    "admin": "Surigao del Norte",
+    "sort": "14881"
+  },
+  {
+    "city": "Dimiao",
+    "admin": "Bohol",
+    "sort": "14889"
+  },
+  {
+    "city": "San Julian",
+    "admin": "Eastern Samar",
+    "sort": "14800"
+  },
+  {
+    "city": "Batuan",
+    "admin": "Masbate",
+    "sort": "14610"
+  },
+  {
+    "city": "Belison",
+    "admin": "Antique",
+    "sort": "14129"
+  },
+  {
+    "city": "Nampicuan",
+    "admin": "Nueva Ecija",
+    "sort": "14471"
+  },
+  {
+    "city": "Larena",
+    "admin": "Siquijor",
+    "sort": "14454"
+  },
+  {
+    "city": "Lope de Vega",
+    "admin": "Northern Samar",
+    "sort": "14690"
+  },
+  {
+    "city": "Quinapundan",
+    "admin": "Eastern Samar",
+    "sort": "14507"
+  },
+  {
+    "city": "Boston",
+    "admin": "Davao Oriental",
+    "sort": "14618"
+  },
+  {
+    "city": "Maria",
+    "admin": "Siquijor",
+    "sort": "14385"
+  },
+  {
+    "city": "Pualas",
+    "admin": "Lanao del Sur",
+    "sort": "14526"
+  },
+  {
+    "city": "Bakun",
+    "admin": "Benguet",
+    "sort": "14535"
+  },
+  {
+    "city": "Bagulin",
+    "admin": "La Union",
+    "sort": "14428"
+  },
+  {
+    "city": "Sison",
+    "admin": "Surigao del Norte",
+    "sort": "14290"
+  },
+  {
+    "city": "General MacArthur",
+    "admin": "Eastern Samar",
+    "sort": "14411"
+  },
+  {
+    "city": "Araceli",
+    "admin": "Palawan",
+    "sort": "14434"
+  },
+  {
+    "city": "Bokod",
+    "admin": "Benguet",
+    "sort": "14435"
+  },
+  {
+    "city": "Kinogitan",
+    "admin": "Misamis Oriental",
+    "sort": "14091"
+  },
+  {
+    "city": "Balangiga",
+    "admin": "Eastern Samar",
+    "sort": "14341"
+  },
+  {
+    "city": "Mapanas",
+    "admin": "Northern Samar",
+    "sort": "14234"
+  },
+  {
+    "city": "Santol",
+    "admin": "La Union",
+    "sort": "14166"
+  },
+  {
+    "city": "San Vicente",
+    "admin": "Ilocos Sur",
+    "sort": "13118"
+  },
+  {
+    "city": "Batuan",
+    "admin": "Bohol",
+    "sort": "13845"
+  },
+  {
+    "city": "Sampaloc",
+    "admin": "Quezon",
+    "sort": "13629"
+  },
+  {
+    "city": "Hinabangan",
+    "admin": "Samar",
+    "sort": "13693"
+  },
+  {
+    "city": "Lanuza",
+    "admin": "Surigao del Sur",
+    "sort": "13642"
+  },
+  {
+    "city": "Dakit",
+    "admin": "Southern Leyte",
+    "sort": "13436"
+  },
+  {
+    "city": "Baras",
+    "admin": "Catanduanes",
+    "sort": "13484"
+  },
+  {
+    "city": "Libertad",
+    "admin": "Misamis Oriental",
+    "sort": "12948"
+  },
+  {
+    "city": "San Clemente",
+    "admin": "Tarlac",
+    "sort": "13181"
+  },
+  {
+    "city": "Santa Marcela",
+    "admin": "Apayao",
+    "sort": "13317"
+  },
+  {
+    "city": "Giporlos",
+    "admin": "Eastern Samar",
+    "sort": "13117"
+  },
+  {
+    "city": "Agutaya",
+    "admin": "Palawan",
+    "sort": "12867"
+  },
+  {
+    "city": "Tinglayan",
+    "admin": "Kalinga",
+    "sort": "13148"
+  },
+  {
+    "city": "Silago",
+    "admin": "Southern Leyte",
+    "sort": "13116"
+  },
+  {
+    "city": "Agdangan",
+    "admin": "Quezon",
+    "sort": "12764"
+  },
+  {
+    "city": "Culaba",
+    "admin": "Leyte",
+    "sort": "12972"
+  },
+  {
+    "city": "Sagay",
+    "admin": "Camiguin",
+    "sort": "12826"
+  },
+  {
+    "city": "Lawaan",
+    "admin": "Eastern Samar",
+    "sort": "13003"
+  },
+  {
+    "city": "Burgos",
+    "admin": "Ilocos Sur",
+    "sort": "12793"
+  },
+  {
+    "city": "Perez",
+    "admin": "Quezon",
+    "sort": "12767"
+  },
+  {
+    "city": "Santo Niño",
+    "admin": "Samar",
+    "sort": "12519"
+  },
+  {
+    "city": "Balbalan",
+    "admin": "Kalinga",
+    "sort": "12914"
+  },
+  {
+    "city": "Pilar",
+    "admin": "Cebu",
+    "sort": "12506"
+  },
+  {
+    "city": "Magsaysay",
+    "admin": "Palawan",
+    "sort": "12603"
+  },
+  {
+    "city": "San Vicente",
+    "admin": "Camarines Norte",
+    "sort": "12579"
+  },
+  {
+    "city": "Pidigan",
+    "admin": "Abra",
+    "sort": "12475"
+  },
+  {
+    "city": "Anao",
+    "admin": "Tarlac",
+    "sort": "12208"
+  },
+  {
+    "city": "Capul",
+    "admin": "Northern Samar",
+    "sort": "12323"
+  },
+  {
+    "city": "Tagoloan",
+    "admin": "Lanao del Sur",
+    "sort": "12602"
+  },
+  {
+    "city": "Hinundayan",
+    "admin": "Southern Leyte",
+    "sort": "12398"
+  },
+  {
+    "city": "Currimao",
+    "admin": "Ilocos Norte",
+    "sort": "12215"
+  },
+  {
+    "city": "Calanasan",
+    "admin": "Apayao",
+    "sort": "12550"
+  },
+  {
+    "city": "Lila",
+    "admin": "Bohol",
+    "sort": "12240"
+  },
+  {
+    "city": "Josefina",
+    "admin": "Zamboanga del Sur",
+    "sort": "12205"
+  },
+  {
+    "city": "Tabontabon",
+    "admin": "Leyte",
+    "sort": "11902"
+  },
+  {
+    "city": "Gainza",
+    "admin": "Camarines Sur",
+    "sort": "11584"
+  },
+  {
+    "city": "Agcogon",
+    "admin": "Romblon",
+    "sort": "11759"
+  },
+  {
+    "city": "Lapinig",
+    "admin": "Northern Samar",
+    "sort": "11844"
+  },
+  {
+    "city": "Nueva Era",
+    "admin": "Ilocos Norte",
+    "sort": "11968"
+  },
+  {
+    "city": "Mutia",
+    "admin": "Zamboanga del Norte",
+    "sort": "11726"
+  },
+  {
+    "city": "Carmen",
+    "admin": "Surigao del Sur",
+    "sort": "11720"
+  },
+  {
+    "city": "Dolores",
+    "admin": "Abra",
+    "sort": "11512"
+  },
+  {
+    "city": "Biri",
+    "admin": "Northern Samar",
+    "sort": "11274"
+  },
+  {
+    "city": "Manabo",
+    "admin": "Abra",
+    "sort": "11611"
+  },
+  {
+    "city": "Sablan",
+    "admin": "Benguet",
+    "sort": "11588"
+  },
+  {
+    "city": "Alburquerque",
+    "admin": "Bohol",
+    "sort": "11246"
+  },
+  {
+    "city": "Sagada",
+    "admin": "Mountain",
+    "sort": "11510"
+  },
+  {
+    "city": "Tudela",
+    "admin": "Cebu",
+    "sort": "11304"
+  },
+  {
+    "city": "Padre Burgos",
+    "admin": "Southern Leyte",
+    "sort": "11159"
+  },
+  {
+    "city": "Sevilla",
+    "admin": "Bohol",
+    "sort": "11376"
+  },
+  {
+    "city": "Calatrava",
+    "admin": "Romblon",
+    "sort": "11342"
+  },
+  {
+    "city": "Rosario",
+    "admin": "Northern Samar",
+    "sort": "10949"
+  },
+  {
+    "city": "Bagamanoc",
+    "admin": "Catanduanes",
+    "sort": "11086"
+  },
+  {
+    "city": "Salcedo",
+    "admin": "Ilocos Sur",
+    "sort": "11110"
+  },
+  {
+    "city": "Balingoan",
+    "admin": "Misamis Oriental",
+    "sort": "11020"
+  },
+  {
+    "city": "Panaon",
+    "admin": "Misamis Occidental",
+    "sort": "10797"
+  },
+  {
+    "city": "San Juan",
+    "admin": "Abra",
+    "sort": "10688"
+  },
+  {
+    "city": "Suyo",
+    "admin": "Ilocos Sur",
+    "sort": "10766"
+  },
+  {
+    "city": "Burgos",
+    "admin": "Ilocos Norte",
+    "sort": "10759"
+  },
+  {
+    "city": "San Ricardo",
+    "admin": "Southern Leyte",
+    "sort": "10500"
+  },
+  {
+    "city": "Dinagat",
+    "admin": "Dinagat Islands",
+    "sort": "10621"
+  },
+  {
+    "city": "Pasil",
+    "admin": "Kalinga",
+    "sort": "10577"
+  },
+  {
+    "city": "Galimuyod",
+    "admin": "Ilocos Sur",
+    "sort": "10244"
+  },
+  {
+    "city": "Pilar",
+    "admin": "Surigao del Norte",
+    "sort": "10374"
+  },
+  {
+    "city": "Pintuyan",
+    "admin": "Southern Leyte",
+    "sort": "10202"
+  },
+  {
+    "city": "Corcuera",
+    "admin": "Romblon",
+    "sort": "10112"
+  },
+  {
+    "city": "Plaridel",
+    "admin": "Quezon",
+    "sort": "10129"
+  },
+  {
+    "city": "Natonin",
+    "admin": "Mountain",
+    "sort": "10339"
+  },
+  {
+    "city": "Pilar",
+    "admin": "Abra",
+    "sort": "10146"
+  },
+  {
+    "city": "Balangkayan",
+    "admin": "Eastern Samar",
+    "sort": "10185"
+  },
+  {
+    "city": "Sugbongkogon",
+    "admin": "Misamis Oriental",
+    "sort": "9764"
+  },
+  {
+    "city": "Hingyon",
+    "admin": "Ifugao",
+    "sort": "9930"
+  },
+  {
+    "city": "San Isidro",
+    "admin": "Bohol",
+    "sort": "9909"
+  },
+  {
+    "city": "Panganiban",
+    "admin": "Catanduanes",
+    "sort": "9713"
+  },
+  {
+    "city": "Sabangan",
+    "admin": "Mountain",
+    "sort": "9621"
+  },
+  {
+    "city": "Corella",
+    "admin": "Bohol",
+    "sort": "9479"
+  },
+  {
+    "city": "Loreto",
+    "admin": "Dinagat Islands",
+    "sort": "9690"
+  },
+  {
+    "city": "Santa Monica",
+    "admin": "Surigao del Norte",
+    "sort": "9423"
+  },
+  {
+    "city": "Almagro",
+    "admin": "Samar",
+    "sort": "9273"
+  },
+  {
+    "city": "Lubuagan",
+    "admin": "Kalinga",
+    "sort": "9323"
+  },
+  {
+    "city": "Quirino",
+    "admin": "Ilocos Sur",
+    "sort": "9306"
+  },
+  {
+    "city": "Concepcion",
+    "admin": "Misamis Occidental",
+    "sort": "9324"
+  },
+  {
+    "city": "San Antonio",
+    "admin": "Northern Samar",
+    "sort": "8882"
+  },
+  {
+    "city": "Burgos",
+    "admin": "La Union",
+    "sort": "9006"
+  },
+  {
+    "city": "Tagapul-an",
+    "admin": "Samar",
+    "sort": "8805"
+  },
+  {
+    "city": "Bayabas",
+    "admin": "Surigao del Sur",
+    "sort": "8979"
+  },
+  {
+    "city": "San Sebastian",
+    "admin": "Samar",
+    "sort": "8704"
+  },
+  {
+    "city": "San Ildefonso",
+    "admin": "Ilocos Sur",
+    "sort": "8190"
+  },
+  {
+    "city": "Hunduan",
+    "admin": "Ifugao",
+    "sort": "8866"
+  },
+  {
+    "city": "San Esteban",
+    "admin": "Ilocos Sur",
+    "sort": "8381"
+  },
+  {
+    "city": "Tanudan",
+    "admin": "Kalinga",
+    "sort": "8746"
+  },
+  {
+    "city": "Gigmoto",
+    "admin": "Catanduanes",
+    "sort": "8712"
+  },
+  {
+    "city": "San Isidro",
+    "admin": "Surigao del Norte",
+    "sort": "8519"
+  },
+  {
+    "city": "Hernani",
+    "admin": "Eastern Samar",
+    "sort": "8531"
+  },
+  {
+    "city": "Tunga",
+    "admin": "Leyte",
+    "sort": "7656"
+  },
+  {
+    "city": "Anahawan",
+    "admin": "Southern Leyte",
+    "sort": "8429"
+  },
+  {
+    "city": "Alfonso Castañeda",
+    "admin": "Nueva Vizcaya",
+    "sort": "8539"
+  },
+  {
+    "city": "Sadanga",
+    "admin": "Mountain",
+    "sort": "8427"
+  },
+  {
+    "city": "Hipadpad",
+    "admin": "Eastern Samar",
+    "sort": "8439"
+  },
+  {
+    "city": "Ferrol",
+    "admin": "Romblon",
+    "sort": "8005"
+  },
+  {
+    "city": "Banayoyo",
+    "admin": "Ilocos Sur",
+    "sort": "7931"
+  },
+  {
+    "city": "Libertad",
+    "admin": "Zamboanga del Norte",
+    "sort": "8119"
+  },
+  {
+    "city": "Pagsanghan",
+    "admin": "Samar",
+    "sort": "7959"
+  },
+  {
+    "city": "Tubajon",
+    "admin": "Dinagat Islands",
+    "sort": "8119"
+  },
+  {
+    "city": "Talalora",
+    "admin": "Samar",
+    "sort": "7856"
+  },
+  {
+    "city": "Looc",
+    "admin": "Occidental Mindoro",
+    "sort": "7802"
+  },
+  {
+    "city": "Rizal",
+    "admin": "Quezon",
+    "sort": "7667"
+  },
+  {
+    "city": "San Jose de Buan",
+    "admin": "Samar",
+    "sort": "7767"
+  },
+  {
+    "city": "Binuangan",
+    "admin": "Misamis Oriental",
+    "sort": "7441"
+  },
+  {
+    "city": "Alilem",
+    "admin": "Ilocos Sur",
+    "sort": "7361"
+  },
+  {
+    "city": "Matuguinao",
+    "admin": "Samar",
+    "sort": "7364"
+  },
+  {
+    "city": "San Vicente",
+    "admin": "Northern Samar",
+    "sort": "6928"
+  },
+  {
+    "city": "San Emilio",
+    "admin": "Ilocos Sur",
+    "sort": "7206"
+  },
+  {
+    "city": "Cagayancillo",
+    "admin": "Palawan",
+    "sort": "6884"
+  },
+  {
+    "city": "Peñarrubia",
+    "admin": "Abra",
+    "sort": "6951"
+  },
+  {
+    "city": "Sikatuna",
+    "admin": "Bohol",
+    "sort": "6906"
+  },
+  {
+    "city": "Limasawa",
+    "admin": "Southern Leyte",
+    "sort": "6191"
+  },
+  {
+    "city": "Guinisiliban",
+    "admin": "Camiguin",
+    "sort": "6685"
+  },
+  {
+    "city": "Enrique Villanueva",
+    "admin": "Siquijor",
+    "sort": "6790"
+  },
+  {
+    "city": "Besao",
+    "admin": "Mountain",
+    "sort": "6873"
+  },
+  {
+    "city": "Maripipi",
+    "admin": "Biliran",
+    "sort": "6373"
+  },
+  {
+    "city": "Luba",
+    "admin": "Abra",
+    "sort": "6518"
+  },
+  {
+    "city": "Sallapadan",
+    "admin": "Abra",
+    "sort": "6389"
+  },
+  {
+    "city": "Mercedes",
+    "admin": "Eastern Samar",
+    "sort": "6112"
+  },
+  {
+    "city": "Jones",
+    "admin": "Romblon",
+    "sort": "5737"
+  },
+  {
+    "city": "Divilaca",
+    "admin": "Isabela",
+    "sort": "5827"
+  },
+  {
+    "city": "Dinapigue",
+    "admin": "Isabela",
+    "sort": "5821"
+  },
+  {
+    "city": "San Quintin",
+    "admin": "Abra",
+    "sort": "5705"
+  },
+  {
+    "city": "San Benito",
+    "admin": "Surigao del Norte",
+    "sort": "5663"
+  },
+  {
+    "city": "Villaviciosa",
+    "admin": "Abra",
+    "sort": "5675"
+  },
+  {
+    "city": "Tubo",
+    "admin": "Abra",
+    "sort": "5674"
+  },
+  {
+    "city": "Taganak",
+    "admin": "Tawi-Tawi",
+    "sort": "5683"
+  },
+  {
+    "city": "Nagbukel",
+    "admin": "Ilocos Sur",
+    "sort": "5465"
+  },
+  {
+    "city": "Maslog",
+    "admin": "Eastern Samar",
+    "sort": "5463"
+  }
+]

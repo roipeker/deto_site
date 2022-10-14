@@ -1,0 +1,452 @@
+[
+  {
+    "city": "Havana",
+    "admin": "La Habana",
+    "sort": "2141652"
+  },
+  {
+    "city": "Santiago de Cuba",
+    "admin": "Santiago de Cuba",
+    "sort": "444851"
+  },
+  {
+    "city": "Holguín",
+    "admin": "Holguín",
+    "sort": "350191"
+  },
+  {
+    "city": "Camagüey",
+    "admin": "Camagüey",
+    "sort": "321992"
+  },
+  {
+    "city": "Santa Clara",
+    "admin": "Villa Clara",
+    "sort": "247436"
+  },
+  {
+    "city": "Bayamo",
+    "admin": "Granma",
+    "sort": "235107"
+  },
+  {
+    "city": "Guantánamo",
+    "admin": "Guantánamo",
+    "sort": "228436"
+  },
+  {
+    "city": "Carlos Manuel de Céspedes",
+    "admin": "Camagüey",
+    "sort": "224488"
+  },
+  {
+    "city": "Arroyo Naranjo",
+    "admin": "La Habana",
+    "sort": "210053"
+  },
+  {
+    "city": "Las Tunas",
+    "admin": "Las Tunas",
+    "sort": "202105"
+  },
+  {
+    "city": "Pinar del Río",
+    "admin": "Pinar del Río",
+    "sort": "188614"
+  },
+  {
+    "city": "Cienfuegos",
+    "admin": "Cienfuegos",
+    "sort": "164924"
+  },
+  {
+    "city": "Manzanillo",
+    "admin": "Granma",
+    "sort": "150999"
+  },
+  {
+    "city": "Centro Habana",
+    "admin": "La Habana",
+    "sort": "140234"
+  },
+  {
+    "city": "Matanzas",
+    "admin": "Matanzas",
+    "sort": "145246"
+  },
+  {
+    "city": "Ciego de Ávila",
+    "admin": "Ciego de Ávila",
+    "sort": "143449"
+  },
+  {
+    "city": "Sancti Spíritus",
+    "admin": "Sancti Spíritus",
+    "sort": "138504"
+  },
+  {
+    "city": "Guanabacoa",
+    "admin": "La Habana",
+    "sort": "115180"
+  },
+  {
+    "city": "Contramaestre",
+    "admin": "Santiago de Cuba",
+    "sort": "106002"
+  },
+  {
+    "city": "Mayarí",
+    "admin": "Holguín",
+    "sort": "102354"
+  },
+  {
+    "city": "San José de las Lajas",
+    "admin": "Mayabeque",
+    "sort": "73136"
+  },
+  {
+    "city": "Artemisa",
+    "admin": "Artemisa",
+    "sort": "59130"
+  },
+  {
+    "city": "Nueva Gerona",
+    "admin": "Isla de la Juventud",
+    "sort": "45577"
+  },
+  {
+    "city": "San Luis",
+    "admin": "Santiago de Cuba",
+    "sort": "88496"
+  },
+  {
+    "city": "Jagüey Grande",
+    "admin": "Matanzas",
+    "sort": "87771"
+  },
+  {
+    "city": "Consolación del Sur",
+    "admin": "Pinar del Río",
+    "sort": "87500"
+  },
+  {
+    "city": "Cárdenas",
+    "admin": "Matanzas",
+    "sort": "86700"
+  },
+  {
+    "city": "Baracoa",
+    "admin": "Guantánamo",
+    "sort": "79797"
+  },
+  {
+    "city": "Palma Soriano",
+    "admin": "Santiago de Cuba",
+    "sort": "76500"
+  },
+  {
+    "city": "Moa",
+    "admin": "Holguín",
+    "sort": "73053"
+  },
+  {
+    "city": "Colón",
+    "admin": "Matanzas",
+    "sort": "72000"
+  },
+  {
+    "city": "Florida",
+    "admin": "Camagüey",
+    "sort": "71676"
+  },
+  {
+    "city": "Placetas",
+    "admin": "Villa Clara",
+    "sort": "71208"
+  },
+  {
+    "city": "Gibara",
+    "admin": "Holguín",
+    "sort": "71126"
+  },
+  {
+    "city": "Güines",
+    "admin": "Mayabeque",
+    "sort": "66892"
+  },
+  {
+    "city": "Yara",
+    "admin": "Granma",
+    "sort": "59415"
+  },
+  {
+    "city": "Morón",
+    "admin": "Ciego de Ávila",
+    "sort": "59371"
+  },
+  {
+    "city": "Jovellanos",
+    "admin": "Matanzas",
+    "sort": "58685"
+  },
+  {
+    "city": "Bartolomé Masó",
+    "admin": "Granma",
+    "sort": "56460"
+  },
+  {
+    "city": "Sagua la Grande",
+    "admin": "Villa Clara",
+    "sort": "53077"
+  },
+  {
+    "city": "Trinidad",
+    "admin": "Sancti Spíritus",
+    "sort": "51994"
+  },
+  {
+    "city": "Jobabo",
+    "admin": "Las Tunas",
+    "sort": "47350"
+  },
+  {
+    "city": "Salvador",
+    "admin": "Guantánamo",
+    "sort": "45773"
+  },
+  {
+    "city": "Remedios",
+    "admin": "Villa Clara",
+    "sort": "45621"
+  },
+  {
+    "city": "San Juan y Martínez",
+    "admin": "Pinar del Río",
+    "sort": "44344"
+  },
+  {
+    "city": "Bahía Honda",
+    "admin": "Artemisa",
+    "sort": "43483"
+  },
+  {
+    "city": "Jatibonico",
+    "admin": "Sancti Spíritus",
+    "sort": "42959"
+  },
+  {
+    "city": "Mariel",
+    "admin": "Artemisa",
+    "sort": "42500"
+  },
+  {
+    "city": "Niquero",
+    "admin": "Granma",
+    "sort": "41252"
+  },
+  {
+    "city": "Chambas",
+    "admin": "Ciego de Ávila",
+    "sort": "41000"
+  },
+  {
+    "city": "Nuevitas",
+    "admin": "Camagüey",
+    "sort": "38995"
+  },
+  {
+    "city": "Los Palacios",
+    "admin": "Pinar del Río",
+    "sort": "38731"
+  },
+  {
+    "city": "Caibarién",
+    "admin": "Villa Clara",
+    "sort": "38479"
+  },
+  {
+    "city": "Güira de Melena",
+    "admin": "Artemisa",
+    "sort": "37838"
+  },
+  {
+    "city": "Caimito",
+    "admin": "Artemisa",
+    "sort": "36813"
+  },
+  {
+    "city": "Guane",
+    "admin": "Pinar del Río",
+    "sort": "35718"
+  },
+  {
+    "city": "Guamá Abajo",
+    "admin": "Santiago de Cuba",
+    "sort": "35516"
+  },
+  {
+    "city": "La Palma",
+    "admin": "Pinar del Río",
+    "sort": "35346"
+  },
+  {
+    "city": "Banes",
+    "admin": "Holguín",
+    "sort": "34452"
+  },
+  {
+    "city": "San Antonio de los Baños",
+    "admin": "Artemisa",
+    "sort": "33811"
+  },
+  {
+    "city": "Mella",
+    "admin": "Santiago de Cuba",
+    "sort": "33667"
+  },
+  {
+    "city": "San Luis",
+    "admin": "Pinar del Río",
+    "sort": "33039"
+  },
+  {
+    "city": "Baraguá",
+    "admin": "Ciego de Ávila",
+    "sort": "32909"
+  },
+  {
+    "city": "Cabaiguán",
+    "admin": "Sancti Spíritus",
+    "sort": "32000"
+  },
+  {
+    "city": "Madruga",
+    "admin": "Mayabeque",
+    "sort": "30640"
+  },
+  {
+    "city": "Alquízar",
+    "admin": "Artemisa",
+    "sort": "29616"
+  },
+  {
+    "city": "Quivicán",
+    "admin": "Mayabeque",
+    "sort": "29253"
+  },
+  {
+    "city": "Primero de Enero",
+    "admin": "Ciego de Ávila",
+    "sort": "29117"
+  },
+  {
+    "city": "San Cristóbal",
+    "admin": "Artemisa",
+    "sort": "29119"
+  },
+  {
+    "city": "Venezuela",
+    "admin": "Ciego de Ávila",
+    "sort": "28470"
+  },
+  {
+    "city": "Ciro Redondo",
+    "admin": "Ciego de Ávila",
+    "sort": "28370"
+  },
+  {
+    "city": "Viñales",
+    "admin": "Pinar del Río",
+    "sort": "27771"
+  },
+  {
+    "city": "Majagua",
+    "admin": "Ciego de Ávila",
+    "sort": "26830"
+  },
+  {
+    "city": "San Antonio del Sur",
+    "admin": "Guantánamo",
+    "sort": "26509"
+  },
+  {
+    "city": "Batabanó",
+    "admin": "Mayabeque",
+    "sort": "25664"
+  },
+  {
+    "city": "Limonar",
+    "admin": "Matanzas",
+    "sort": "25421"
+  },
+  {
+    "city": "Nueva Paz",
+    "admin": "Mayabeque",
+    "sort": "24277"
+  },
+  {
+    "city": "Bauta",
+    "admin": "Artemisa",
+    "sort": "23557"
+  },
+  {
+    "city": "Abreus",
+    "admin": "Cienfuegos",
+    "sort": "23144"
+  },
+  {
+    "city": "Guanajay",
+    "admin": "Artemisa",
+    "sort": "22839"
+  },
+  {
+    "city": "Lajas",
+    "admin": "Cienfuegos",
+    "sort": "22602"
+  },
+  {
+    "city": "San Nicolás",
+    "admin": "Mayabeque",
+    "sort": "21563"
+  },
+  {
+    "city": "Varadero",
+    "admin": "Matanzas",
+    "sort": "21170"
+  },
+  {
+    "city": "Manuel Tames",
+    "admin": "Guantánamo",
+    "sort": "21237"
+  },
+  {
+    "city": "Florencia",
+    "admin": "Ciego de Ávila",
+    "sort": "21150"
+  },
+  {
+    "city": "Melena del Sur",
+    "admin": "Mayabeque",
+    "sort": "20646"
+  },
+  {
+    "city": "Candelaria",
+    "admin": "Artemisa",
+    "sort": "19523"
+  },
+  {
+    "city": "Najasa",
+    "admin": "Camagüey",
+    "sort": "15579"
+  },
+  {
+    "city": "Imías",
+    "admin": "Guantánamo",
+    "sort": "9699"
+  },
+  {
+    "city": "Caimanera",
+    "admin": "Guantánamo",
+    "sort": "8790"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "city": "Aleppo",
+    "admin": "Ḩalab",
+    "sort": "1916781"
+  },
+  {
+    "city": "Damascus",
+    "admin": "Dimashq",
+    "sort": "1754000"
+  },
+  {
+    "city": "Homs",
+    "admin": "Ḩimş",
+    "sort": "775404"
+  },
+  {
+    "city": "Latakia",
+    "admin": "Al Lādhiqīyah",
+    "sort": "700000"
+  },
+  {
+    "city": "Ḩamāh",
+    "admin": "Ḩamāh",
+    "sort": "696863"
+  },
+  {
+    "city": "Ar Raqqah",
+    "admin": "Ar Raqqah",
+    "sort": "299824"
+  },
+  {
+    "city": "Dayr az Zawr",
+    "admin": "Dayr az Zawr",
+    "sort": "271800"
+  },
+  {
+    "city": "Al Qāmishlī",
+    "admin": "Al Ḩasakah",
+    "sort": "184231"
+  },
+  {
+    "city": "Idlib",
+    "admin": "Idlib",
+    "sort": "165000"
+  },
+  {
+    "city": "Dar‘ā",
+    "admin": "Dar‘ā",
+    "sort": "146481"
+  },
+  {
+    "city": "Jaramānā",
+    "admin": "Rīf Dimashq",
+    "sort": "114363"
+  },
+  {
+    "city": "Al Ḩasakah",
+    "admin": "Al Ḩasakah",
+    "sort": "128100"
+  },
+  {
+    "city": "Al Ḩajar al Aswad",
+    "admin": "Rīf Dimashq",
+    "sort": "101827"
+  },
+  {
+    "city": "Dūmā",
+    "admin": "Rīf Dimashq",
+    "sort": "123494"
+  },
+  {
+    "city": "As Salamīyah",
+    "admin": "Ḩamāh",
+    "sort": "110683"
+  },
+  {
+    "city": "As Safīrah",
+    "admin": "Ḩalab",
+    "sort": "106460"
+  },
+  {
+    "city": "Ţarţūs",
+    "admin": "Ţarţūs",
+    "sort": "89457"
+  },
+  {
+    "city": "Dārayyā",
+    "admin": "Rīf Dimashq",
+    "sort": "84044"
+  },
+  {
+    "city": "Ath Thawrah",
+    "admin": "Ar Raqqah",
+    "sort": "84000"
+  },
+  {
+    "city": "As Suwaydā’",
+    "admin": "As Suwaydā’",
+    "sort": "64730"
+  },
+  {
+    "city": "Ḩarastā",
+    "admin": "Rīf Dimashq",
+    "sort": "45974"
+  },
+  {
+    "city": "Al Qunayţirah",
+    "admin": "Al Qunayţirah",
+    "sort": "37022"
+  },
+  {
+    "city": "Ma‘arrat an Nu‘mān",
+    "admin": "Idlib",
+    "sort": "90000"
+  },
+  {
+    "city": "Manbij",
+    "admin": "Ḩalab",
+    "sort": "78255"
+  },
+  {
+    "city": "Jablah",
+    "admin": "Al Lādhiqīyah",
+    "sort": "75505"
+  },
+  {
+    "city": "Nawá",
+    "admin": "Dar‘ā",
+    "sort": "63676"
+  },
+  {
+    "city": "At Tall",
+    "admin": "Rīf Dimashq",
+    "sort": "63554"
+  },
+  {
+    "city": "Ar Rastan",
+    "admin": "Ḩimş",
+    "sort": "61176"
+  },
+  {
+    "city": "Khān Shaykhūn",
+    "admin": "Idlib",
+    "sort": "55843"
+  },
+  {
+    "city": "An Nabk",
+    "admin": "Rīf Dimashq",
+    "sort": "52502"
+  },
+  {
+    "city": "Ālbū Kamāl",
+    "admin": "Dayr az Zawr",
+    "sort": "52020"
+  },
+  {
+    "city": "Tadmur",
+    "admin": "Ḩimş",
+    "sort": "51323"
+  },
+  {
+    "city": "Al Mayādīn",
+    "admin": "Dayr az Zawr",
+    "sort": "48922"
+  },
+  {
+    "city": "‘Āmūdā",
+    "admin": "Al Ḩasakah",
+    "sort": "47580"
+  },
+  {
+    "city": "Yabrūd",
+    "admin": "Rīf Dimashq",
+    "sort": "47136"
+  },
+  {
+    "city": "Al Quşayr",
+    "admin": "Ḩimş",
+    "sort": "46772"
+  },
+  {
+    "city": "Tallbīsah",
+    "admin": "Ḩimş",
+    "sort": "45853"
+  },
+  {
+    "city": "Jisr ash Shughūr",
+    "admin": "Idlib",
+    "sort": "44322"
+  },
+  {
+    "city": "Bāniyās",
+    "admin": "Ţarţūs",
+    "sort": "43151"
+  },
+  {
+    "city": "Tādif",
+    "admin": "Ḩalab",
+    "sort": "41786"
+  },
+  {
+    "city": "Sarāqib",
+    "admin": "Idlib",
+    "sort": "39901"
+  },
+  {
+    "city": "Jayrūd",
+    "admin": "Rīf Dimashq",
+    "sort": "39903"
+  },
+  {
+    "city": "Al Mālikīyah",
+    "admin": "Al Ḩasakah",
+    "sort": "39000"
+  },
+  {
+    "city": "Hajīn",
+    "admin": "Dayr az Zawr",
+    "sort": "37935"
+  },
+  {
+    "city": "Ma‘arratmişrīn",
+    "admin": "Idlib",
+    "sort": "37490"
+  },
+  {
+    "city": "Al Qaryatayn",
+    "admin": "Ḩimş",
+    "sort": "37820"
+  },
+  {
+    "city": "Maşyāf",
+    "admin": "Ḩamāh",
+    "sort": "37109"
+  },
+  {
+    "city": "‘Afrīn",
+    "admin": "Ḩalab",
+    "sort": "36562"
+  },
+  {
+    "city": "Dayr Ḩāfir",
+    "admin": "Ḩalab",
+    "sort": "35409"
+  },
+  {
+    "city": "Tallkalakh",
+    "admin": "Ḩimş",
+    "sort": "35445"
+  },
+  {
+    "city": "Qadsayyā",
+    "admin": "Rīf Dimashq",
+    "sort": "33571"
+  },
+  {
+    "city": "Tall Salḩab",
+    "admin": "Ḩamāh",
+    "sort": "35000"
+  },
+  {
+    "city": "Ţafas",
+    "admin": "Dar‘ā",
+    "sort": "32236"
+  },
+  {
+    "city": "Şāfītā",
+    "admin": "Ţarţūs",
+    "sort": "32213"
+  },
+  {
+    "city": "Jāsim",
+    "admin": "Dar‘ā",
+    "sort": "31683"
+  },
+  {
+    "city": "I‘zāz",
+    "admin": "Ḩalab",
+    "sort": "31534"
+  },
+  {
+    "city": "Ra’s al ‘Ayn",
+    "admin": "Al Ḩasakah",
+    "sort": "29347"
+  },
+  {
+    "city": "Şūrān",
+    "admin": "Ḩamāh",
+    "sort": "29100"
+  },
+  {
+    "city": "Tall Rif‘at",
+    "admin": "Ḩalab",
+    "sort": "27086"
+  },
+  {
+    "city": "Az Zabadānī",
+    "admin": "Rīf Dimashq",
+    "sort": "26285"
+  },
+  {
+    "city": "Aş Şanamayn",
+    "admin": "Dar‘ā",
+    "sort": "26268"
+  },
+  {
+    "city": "Şaydnāyā",
+    "admin": "Rīf Dimashq",
+    "sort": "25194"
+  },
+  {
+    "city": "Ţayyibat al Imām",
+    "admin": "Ḩamāh",
+    "sort": "24105"
+  },
+  {
+    "city": "Salqīn",
+    "admin": "Idlib",
+    "sort": "23700"
+  },
+  {
+    "city": "Qaţanā",
+    "admin": "Rīf Dimashq",
+    "sort": "22831"
+  },
+  {
+    "city": "Binnish",
+    "admin": "Idlib",
+    "sort": "21848"
+  },
+  {
+    "city": "Ḩārim",
+    "admin": "Idlib",
+    "sort": "21934"
+  },
+  {
+    "city": "‘Adrā",
+    "admin": "Rīf Dimashq",
+    "sort": "20559"
+  },
+  {
+    "city": "Buşrá ash Shām",
+    "admin": "Dar‘ā",
+    "sort": "19683"
+  },
+  {
+    "city": "Izra",
+    "admin": "Dar‘ā",
+    "sort": "19158"
+  },
+  {
+    "city": "Muḩradah",
+    "admin": "Ḩamāh",
+    "sort": "17578"
+  },
+  {
+    "city": "Tall ‘Aran",
+    "admin": "Ḩalab",
+    "sort": "17767"
+  },
+  {
+    "city": "As Suqaylibīyah",
+    "admin": "Ḩamāh",
+    "sort": "17313"
+  },
+  {
+    "city": "Kafr Zaytā",
+    "admin": "Ḩamāh",
+    "sort": "17052"
+  },
+  {
+    "city": "Shahbā",
+    "admin": "As Suwaydā’",
+    "sort": "16745"
+  },
+  {
+    "city": "Al Laţāminah",
+    "admin": "Ḩamāh",
+    "sort": "16267"
+  },
+  {
+    "city": "Tasīl",
+    "admin": "Dar‘ā",
+    "sort": "15985"
+  },
+  {
+    "city": "As Sukhnah",
+    "admin": "Ḩimş",
+    "sort": "16173"
+  },
+  {
+    "city": "Kafr Nubl",
+    "admin": "Idlib",
+    "sort": "15455"
+  },
+  {
+    "city": "Şalkhad",
+    "admin": "As Suwaydā’",
+    "sort": "15000"
+  },
+  {
+    "city": "Sarmīn",
+    "admin": "Idlib",
+    "sort": "14530"
+  },
+  {
+    "city": "Tall Abyaḑ",
+    "admin": "Ar Raqqah",
+    "sort": "14825"
+  },
+  {
+    "city": "Jindayris",
+    "admin": "Ḩalab",
+    "sort": "13661"
+  },
+  {
+    "city": "Ad Duraykīsh",
+    "admin": "Ţarţūs",
+    "sort": "13244"
+  },
+  {
+    "city": "Buşrá al Ḩarīr",
+    "admin": "Dar‘ā",
+    "sort": "13315"
+  },
+  {
+    "city": "Al Muzayrīb",
+    "admin": "Dar‘ā",
+    "sort": "12640"
+  },
+  {
+    "city": "‘Anadān",
+    "admin": "Ḩalab",
+    "sort": "11918"
+  },
+  {
+    "city": "Ghabāghib",
+    "admin": "Dar‘ā",
+    "sort": "11802"
+  },
+  {
+    "city": "Jarābulus",
+    "admin": "Ḩalab",
+    "sort": "11570"
+  },
+  {
+    "city": "Al Atārib",
+    "admin": "Ḩalab",
+    "sort": "10657"
+  },
+  {
+    "city": "Al Musayfirah",
+    "admin": "Dar‘ā",
+    "sort": "10466"
+  },
+  {
+    "city": "Armanāz",
+    "admin": "Idlib",
+    "sort": "10296"
+  },
+  {
+    "city": "Tayr Ma‘lah",
+    "admin": "Ḩimş",
+    "sort": "7728"
+  },
+  {
+    "city": "Ḩīsh",
+    "admin": "Idlib",
+    "sort": "8817"
+  },
+  {
+    "city": "Taftanāz",
+    "admin": "Idlib",
+    "sort": "8540"
+  },
+  {
+    "city": "Umm Walad",
+    "admin": "Dar‘ā",
+    "sort": "7547"
+  },
+  {
+    "city": "Al Kafr",
+    "admin": "As Suwaydā’",
+    "sort": "7458"
+  },
+  {
+    "city": "Al Mazra‘ah",
+    "admin": "As Suwaydā’",
+    "sort": "7547"
+  },
+  {
+    "city": "Killī",
+    "admin": "Idlib",
+    "sort": "7157"
+  },
+  {
+    "city": "Tall Tamr",
+    "admin": "Al Ḩasakah",
+    "sort": "7285"
+  },
+  {
+    "city": "Saḩam al Jawlān",
+    "admin": "Dar‘ā",
+    "sort": "6572"
+  },
+  {
+    "city": "‘Ayn ‘Īsá",
+    "admin": "Ar Raqqah",
+    "sort": "6730"
+  },
+  {
+    "city": "Naşīb",
+    "admin": "Dar‘ā",
+    "sort": "5780"
+  },
+  {
+    "city": "Iḩsim",
+    "admin": "Idlib",
+    "sort": "5870"
+  },
+  {
+    "city": "Ra’s al Khashūfah",
+    "admin": "Ţarţūs",
+    "sort": "5499"
+  },
+  {
+    "city": "Al Quţaylibīyah",
+    "admin": "Al Lādhiqīyah",
+    "sort": "5566"
+  },
+  {
+    "city": "Al Mulayḩah al Gharbīyah",
+    "admin": "Dar‘ā",
+    "sort": "5454"
+  },
+  {
+    "city": "‘Assāl al Ward",
+    "admin": "Rīf Dimashq",
+    "sort": "5812"
+  },
+  {
+    "city": "Dayr al Bukht",
+    "admin": "Dar‘ā",
+    "sort": "5381"
+  },
+  {
+    "city": "Darkūsh",
+    "admin": "Idlib",
+    "sort": "5295"
+  },
+  {
+    "city": "Ḩisyā’",
+    "admin": "Ḩimş",
+    "sort": "5435"
+  },
+  {
+    "city": "Shaykh al Ḩadīd",
+    "admin": "Ḩalab",
+    "sort": "5063"
+  }
+]

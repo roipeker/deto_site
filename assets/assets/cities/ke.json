@@ -1,0 +1,317 @@
+[
+  {
+    "city": "Nairobi",
+    "admin": "Nairobi City",
+    "sort": "5545000"
+  },
+  {
+    "city": "Meru",
+    "admin": "Meru",
+    "sort": "1833000"
+  },
+  {
+    "city": "Mombasa",
+    "admin": "Mombasa",
+    "sort": "1200000"
+  },
+  {
+    "city": "Kisumu",
+    "admin": "Kisumu",
+    "sort": "409928"
+  },
+  {
+    "city": "Nakuru",
+    "admin": "Nakuru",
+    "sort": "307990"
+  },
+  {
+    "city": "Eldoret",
+    "admin": "Uasin Gishu",
+    "sort": "193830"
+  },
+  {
+    "city": "Machakos",
+    "admin": "Machakos",
+    "sort": "114109"
+  },
+  {
+    "city": "Thika",
+    "admin": "Kiambu",
+    "sort": "99322"
+  },
+  {
+    "city": "Nyeri",
+    "admin": "Nyeri",
+    "sort": "98908"
+  },
+  {
+    "city": "Mumias",
+    "admin": "Kakamega",
+    "sort": "99987"
+  },
+  {
+    "city": "Malindi",
+    "admin": "Kilifi",
+    "sort": "94016"
+  },
+  {
+    "city": "Kakamega",
+    "admin": "Kakamega",
+    "sort": "91778"
+  },
+  {
+    "city": "Garissa",
+    "admin": "Garissa",
+    "sort": "65881"
+  },
+  {
+    "city": "Kitale",
+    "admin": "Trans Nzoia",
+    "sort": "63245"
+  },
+  {
+    "city": "Bungoma",
+    "admin": "Bungoma",
+    "sort": "55857"
+  },
+  {
+    "city": "Wajir",
+    "admin": "Wajir",
+    "sort": "45771"
+  },
+  {
+    "city": "Isiolo",
+    "admin": "Isiolo",
+    "sort": "45989"
+  },
+  {
+    "city": "Embu",
+    "admin": "Embu",
+    "sort": "41092"
+  },
+  {
+    "city": "Kisii",
+    "admin": "Kisii",
+    "sort": "37531"
+  },
+  {
+    "city": "Busia",
+    "admin": "Busia",
+    "sort": "30777"
+  },
+  {
+    "city": "Homa Bay",
+    "admin": "Homa Bay",
+    "sort": "32174"
+  },
+  {
+    "city": "Kericho",
+    "admin": "Kericho",
+    "sort": "30023"
+  },
+  {
+    "city": "Mandera",
+    "admin": "Mandera",
+    "sort": "30433"
+  },
+  {
+    "city": "Kitui",
+    "admin": "Kitui",
+    "sort": "29062"
+  },
+  {
+    "city": "Moyale",
+    "admin": "Marsabit",
+    "sort": "24837"
+  },
+  {
+    "city": "Lamu",
+    "admin": "Lamu",
+    "sort": "24525"
+  },
+  {
+    "city": "Maralal",
+    "admin": "Samburu",
+    "sort": "20841"
+  },
+  {
+    "city": "Eldama Ravine",
+    "admin": "Baringo",
+    "sort": "17581"
+  },
+  {
+    "city": "Kapsabet",
+    "admin": "Nandi",
+    "sort": "17918"
+  },
+  {
+    "city": "Marsabit",
+    "admin": "Marsabit",
+    "sort": "17127"
+  },
+  {
+    "city": "Lodwar",
+    "admin": "Turkana",
+    "sort": "16981"
+  },
+  {
+    "city": "Namanga",
+    "admin": "",
+    "sort": "13193"
+  },
+  {
+    "city": "Hola",
+    "admin": "Tana River",
+    "sort": "6931"
+  },
+  {
+    "city": "Kiambu",
+    "admin": "Kiambu",
+    "sort": ""
+  },
+  {
+    "city": "Kabarnet",
+    "admin": "Baringo",
+    "sort": ""
+  },
+  {
+    "city": "Migori",
+    "admin": "Migori",
+    "sort": ""
+  },
+  {
+    "city": "Iten",
+    "admin": "Elgeyo/Marakwet",
+    "sort": ""
+  },
+  {
+    "city": "Kerugoya",
+    "admin": "Kirinyaga",
+    "sort": ""
+  },
+  {
+    "city": "Nyamira",
+    "admin": "Nyamira",
+    "sort": ""
+  },
+  {
+    "city": "Sotik Post",
+    "admin": "Bomet",
+    "sort": ""
+  },
+  {
+    "city": "Murang’a",
+    "admin": "Murang’a",
+    "sort": ""
+  },
+  {
+    "city": "Siaya",
+    "admin": "Siaya",
+    "sort": ""
+  },
+  {
+    "city": "Kapenguria",
+    "admin": "West Pokot",
+    "sort": ""
+  },
+  {
+    "city": "Mwatate",
+    "admin": "Taita/Taveta",
+    "sort": ""
+  },
+  {
+    "city": "Wote",
+    "admin": "Makueni",
+    "sort": ""
+  },
+  {
+    "city": "Kajiado",
+    "admin": "Kajiado",
+    "sort": ""
+  },
+  {
+    "city": "Narok",
+    "admin": "Narok",
+    "sort": ""
+  },
+  {
+    "city": "Ol Kalou",
+    "admin": "Nyandarua",
+    "sort": ""
+  },
+  {
+    "city": "Kwale",
+    "admin": "Kwale",
+    "sort": ""
+  },
+  {
+    "city": "Rumuruti",
+    "admin": "Laikipia",
+    "sort": ""
+  },
+  {
+    "city": "Kendu Bay",
+    "admin": "Homa Bay",
+    "sort": "91248"
+  },
+  {
+    "city": "Athi River",
+    "admin": "Machakos",
+    "sort": "81302"
+  },
+  {
+    "city": "Kilifi",
+    "admin": "Kilifi",
+    "sort": "80339"
+  },
+  {
+    "city": "Sotik",
+    "admin": "Bomet",
+    "sort": "71285"
+  },
+  {
+    "city": "Voi",
+    "admin": "Taita/Taveta",
+    "sort": "36487"
+  },
+  {
+    "city": "Nanyuki",
+    "admin": "Laikipia",
+    "sort": "31577"
+  },
+  {
+    "city": "Naivasha",
+    "admin": "Nakuru",
+    "sort": "14563"
+  },
+  {
+    "city": "Mwingi",
+    "admin": "Kitui",
+    "sort": "11219"
+  },
+  {
+    "city": "Dadaab",
+    "admin": "Garissa",
+    "sort": "5723"
+  },
+  {
+    "city": "Karungu",
+    "admin": "Migori",
+    "sort": "2376"
+  },
+  {
+    "city": "Witu",
+    "admin": "Lamu",
+    "sort": "5380"
+  },
+  {
+    "city": "Konza",
+    "admin": "Machakos",
+    "sort": "2004"
+  },
+  {
+    "city": "Tsavo",
+    "admin": "Taita/Taveta",
+    "sort": "414"
+  }
+]

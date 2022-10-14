@@ -1,0 +1,562 @@
+[
+  {
+    "city": "Cairo",
+    "admin": "Al Qāhirah",
+    "sort": "19787000"
+  },
+  {
+    "city": "Giza",
+    "admin": "Al Jīzah",
+    "sort": "5598402"
+  },
+  {
+    "city": "Alexandria",
+    "admin": "Al Iskandarīyah",
+    "sort": "4870000"
+  },
+  {
+    "city": "Shubrā al Khaymah",
+    "admin": "Al Qalyūbīyah",
+    "sort": "1025569"
+  },
+  {
+    "city": "Al Manşūrah",
+    "admin": "Ad Daqahlīyah",
+    "sort": "960423"
+  },
+  {
+    "city": "Ḩalwān",
+    "admin": "Al Qāhirah",
+    "sort": "619293"
+  },
+  {
+    "city": "Port Said",
+    "admin": "Būr Sa‘īd",
+    "sort": "524433"
+  },
+  {
+    "city": "Suez",
+    "admin": "As Suways",
+    "sort": "516959"
+  },
+  {
+    "city": "Ţanţā",
+    "admin": "Al Gharbīyah",
+    "sort": "429503"
+  },
+  {
+    "city": "Asyūţ",
+    "admin": "Asyūţ",
+    "sort": "389307"
+  },
+  {
+    "city": "Al Fayyūm",
+    "admin": "Al Fayyūm",
+    "sort": "315940"
+  },
+  {
+    "city": "Az Zaqāzīq",
+    "admin": "Ash Sharqīyah",
+    "sort": "285097"
+  },
+  {
+    "city": "Ismailia",
+    "admin": "Al Ismā‘īlīyah",
+    "sort": "293184"
+  },
+  {
+    "city": "Kafr ad Dawwār",
+    "admin": "Al Buḩayrah",
+    "sort": "262748"
+  },
+  {
+    "city": "Aswān",
+    "admin": "Aswān",
+    "sort": "267913"
+  },
+  {
+    "city": "Damanhūr",
+    "admin": "Al Buḩayrah",
+    "sort": "244043"
+  },
+  {
+    "city": "Al Minyā",
+    "admin": "Al Minyā",
+    "sort": "236043"
+  },
+  {
+    "city": "Damietta",
+    "admin": "Dumyāţ",
+    "sort": "206664"
+  },
+  {
+    "city": "Qinā",
+    "admin": "Qinā",
+    "sort": "201191"
+  },
+  {
+    "city": "Banī Suwayf",
+    "admin": "Banī Suwayf",
+    "sort": "193048"
+  },
+  {
+    "city": "Luxor",
+    "admin": "Al Uqşur",
+    "sort": "202232"
+  },
+  {
+    "city": "Sūhāj",
+    "admin": "Sūhāj",
+    "sort": "193931"
+  },
+  {
+    "city": "Shibīn al Kawm",
+    "admin": "Al Minūfīyah",
+    "sort": "177112"
+  },
+  {
+    "city": "Al ‘Arīsh",
+    "admin": "Shamāl Sīnā’",
+    "sort": "178651"
+  },
+  {
+    "city": "Banhā",
+    "admin": "Al Qalyūbīyah",
+    "sort": "157701"
+  },
+  {
+    "city": "Al Ghardaqah",
+    "admin": "Al Baḩr al Aḩmar",
+    "sort": "160901"
+  },
+  {
+    "city": "Kafr ash Shaykh",
+    "admin": "Kafr ash Shaykh",
+    "sort": "147393"
+  },
+  {
+    "city": "Madīnat as Sādis min Uktūbar",
+    "admin": "Al Jīzah",
+    "sort": "154093"
+  },
+  {
+    "city": "Mallawī",
+    "admin": "Al Minyā",
+    "sort": "139929"
+  },
+  {
+    "city": "Disūq",
+    "admin": "Kafr ash Shaykh",
+    "sort": "143404"
+  },
+  {
+    "city": "Bilbays",
+    "admin": "Ash Sharqīyah",
+    "sort": "141285"
+  },
+  {
+    "city": "Idfū",
+    "admin": "Aswān",
+    "sort": "133772"
+  },
+  {
+    "city": "Mīt Ghamr",
+    "admin": "Ad Daqahlīyah",
+    "sort": "121039"
+  },
+  {
+    "city": "Jirjā",
+    "admin": "Sūhāj",
+    "sort": "102597"
+  },
+  {
+    "city": "Munūf",
+    "admin": "Al Minūfīyah",
+    "sort": "117240"
+  },
+  {
+    "city": "Maţrūḩ",
+    "admin": "Maţrūḩ",
+    "sort": "108774"
+  },
+  {
+    "city": "Akhmīm",
+    "admin": "Sūhāj",
+    "sort": "101509"
+  },
+  {
+    "city": "Ziftá",
+    "admin": "Al Gharbīyah",
+    "sort": "93740"
+  },
+  {
+    "city": "Manfalūţ",
+    "admin": "Asyūţ",
+    "sort": "82585"
+  },
+  {
+    "city": "Banī Mazār",
+    "admin": "Al Minyā",
+    "sort": "79553"
+  },
+  {
+    "city": "Maghāghah",
+    "admin": "Al Minyā",
+    "sort": "75657"
+  },
+  {
+    "city": "Al Qūşīyah",
+    "admin": "Asyūţ",
+    "sort": "69388"
+  },
+  {
+    "city": "Abnūb",
+    "admin": "Asyūţ",
+    "sort": "67526"
+  },
+  {
+    "city": "Hihyā",
+    "admin": "Ash Sharqīyah",
+    "sort": "66702"
+  },
+  {
+    "city": "Al Minshāh",
+    "admin": "Sūhāj",
+    "sort": "65484"
+  },
+  {
+    "city": "Samannūd",
+    "admin": "Al Gharbīyah",
+    "sort": "57177"
+  },
+  {
+    "city": "Abū Qīr",
+    "admin": "Al Iskandarīyah",
+    "sort": "37997"
+  },
+  {
+    "city": "Al Karnak",
+    "admin": "Al Uqşur",
+    "sort": "26488"
+  },
+  {
+    "city": "Al Balyanā",
+    "admin": "Sūhāj",
+    "sort": "46997"
+  },
+  {
+    "city": "Al Khārjah",
+    "admin": "Al Wādī al Jadīd",
+    "sort": "49991"
+  },
+  {
+    "city": "Naj‘ Ḩammādī",
+    "admin": "Qinā",
+    "sort": "45038"
+  },
+  {
+    "city": "Al Badārī",
+    "admin": "Asyūţ",
+    "sort": "42770"
+  },
+  {
+    "city": "Dayr Mawās",
+    "admin": "Al Minyā",
+    "sort": "40640"
+  },
+  {
+    "city": "Fāraskūr",
+    "admin": "Dumyāţ",
+    "sort": "36850"
+  },
+  {
+    "city": "Qiman al ‘Arūs",
+    "admin": "Banī Suwayf",
+    "sort": "28246"
+  },
+  {
+    "city": "Qahā",
+    "admin": "Al Qalyūbīyah",
+    "sort": "26694"
+  },
+  {
+    "city": "Hirrīyat Raznah",
+    "admin": "Ash Sharqīyah",
+    "sort": "24359"
+  },
+  {
+    "city": "Mīt Namā",
+    "admin": "Al Qalyūbīyah",
+    "sort": "21321"
+  },
+  {
+    "city": "Kafr Shukr",
+    "admin": "Al Minūfīyah",
+    "sort": "23390"
+  },
+  {
+    "city": "Shārūnah",
+    "admin": "Al Minyā",
+    "sort": "22221"
+  },
+  {
+    "city": "Banī Murr",
+    "admin": "Asyūţ",
+    "sort": "20065"
+  },
+  {
+    "city": "Al Madāmūd",
+    "admin": "Al Uqşur",
+    "sort": "15091"
+  },
+  {
+    "city": "Sunbāţ",
+    "admin": "Al Gharbīyah",
+    "sort": "20599"
+  },
+  {
+    "city": "Al Qays",
+    "admin": "Al Minyā",
+    "sort": "20603"
+  },
+  {
+    "city": "Dayr Abū Ḩinnis",
+    "admin": "Al Minyā",
+    "sort": "19638"
+  },
+  {
+    "city": "Banī Ḩasan ash Shurūq",
+    "admin": "Al Minyā",
+    "sort": "18218"
+  },
+  {
+    "city": "Biyahmū",
+    "admin": "Al Fayyūm",
+    "sort": "17486"
+  },
+  {
+    "city": "Birqāsh",
+    "admin": "Al Jīzah",
+    "sort": "14172"
+  },
+  {
+    "city": "Dishāshah",
+    "admin": "Banī Suwayf",
+    "sort": "11844"
+  },
+  {
+    "city": "Mīt Damsīs",
+    "admin": "Ad Daqahlīyah",
+    "sort": "11528"
+  },
+  {
+    "city": "Aţ Ţūr",
+    "admin": "Janūb Sīnā’",
+    "sort": "12733"
+  },
+  {
+    "city": "Qufādah",
+    "admin": "Al Minyā",
+    "sort": "9948"
+  },
+  {
+    "city": "Shanhūr",
+    "admin": "Qinā",
+    "sort": "9314"
+  },
+  {
+    "city": "Dayr as Sanqūrīyah",
+    "admin": "Al Minyā",
+    "sort": "8911"
+  },
+  {
+    "city": "Dayr al Jarnūs",
+    "admin": "Al Minyā",
+    "sort": "6504"
+  },
+  {
+    "city": "Ra’s Ghārib",
+    "admin": "Al Baḩr al Aḩmar",
+    "sort": "100000"
+  },
+  {
+    "city": "Samālūţ",
+    "admin": "Al Minyā",
+    "sort": "91475"
+  },
+  {
+    "city": "Armant",
+    "admin": "Qinā",
+    "sort": "76457"
+  },
+  {
+    "city": "Kawm Umbū",
+    "admin": "Aswān",
+    "sort": "71596"
+  },
+  {
+    "city": "Būr Fu’ād",
+    "admin": "Būr Sa‘īd",
+    "sort": "70417"
+  },
+  {
+    "city": "Rosetta",
+    "admin": "Al Buḩayrah",
+    "sort": "68947"
+  },
+  {
+    "city": "Isnā",
+    "admin": "Qinā",
+    "sort": "68656"
+  },
+  {
+    "city": "Abū Qurqāş",
+    "admin": "Al Minyā",
+    "sort": "63264"
+  },
+  {
+    "city": "Dandarah",
+    "admin": "Qinā",
+    "sort": "53109"
+  },
+  {
+    "city": "Maţāy",
+    "admin": "Al Minyā",
+    "sort": "46903"
+  },
+  {
+    "city": "Şān al Ḩajar al Qiblīyah",
+    "admin": "Ash Sharqīyah",
+    "sort": "43157"
+  },
+  {
+    "city": "Ihnāsyā al Madīnah",
+    "admin": "Banī Suwayf",
+    "sort": "40001"
+  },
+  {
+    "city": "Darāw",
+    "admin": "Aswān",
+    "sort": "38400"
+  },
+  {
+    "city": "Al Ḩusaynīyah",
+    "admin": "Ash Sharqīyah",
+    "sort": "30825"
+  },
+  {
+    "city": "Safājā",
+    "admin": "Al Baḩr al Aḩmar",
+    "sort": "28261"
+  },
+  {
+    "city": "Kafr Sa‘d",
+    "admin": "Dumyāţ",
+    "sort": "22500"
+  },
+  {
+    "city": "Qifţ",
+    "admin": "Qinā",
+    "sort": "22063"
+  },
+  {
+    "city": "Sīwah",
+    "admin": "Maţrūḩ",
+    "sort": "23080"
+  },
+  {
+    "city": "Naqādah",
+    "admin": "Qinā",
+    "sort": "21530"
+  },
+  {
+    "city": "Şā al Ḩajar",
+    "admin": "Al Gharbīyah",
+    "sort": "20568"
+  },
+  {
+    "city": "Al Ḩībah",
+    "admin": "Al Baḩr al Aḩmar",
+    "sort": "16209"
+  },
+  {
+    "city": "Sakhā",
+    "admin": "Kafr ash Shaykh",
+    "sort": "14733"
+  },
+  {
+    "city": "Qantīr",
+    "admin": "Ash Sharqīyah",
+    "sort": "13660"
+  },
+  {
+    "city": "Sidmant al Jabal",
+    "admin": "Al Fayyūm",
+    "sort": "13119"
+  },
+  {
+    "city": "Dayr al Barshā",
+    "admin": "Al Minyā",
+    "sort": "14297"
+  },
+  {
+    "city": "Aḑ Ḑab‘ah",
+    "admin": "Maţrūḩ",
+    "sort": "14212"
+  },
+  {
+    "city": "Burj al ‘Arab",
+    "admin": "Al Iskandarīyah",
+    "sort": "12625"
+  },
+  {
+    "city": "Sawādah",
+    "admin": "Al Minyā",
+    "sort": "10571"
+  },
+  {
+    "city": "Abjīj",
+    "admin": "Al Fayyūm",
+    "sort": "10057"
+  },
+  {
+    "city": "Ţihnā al Jabal",
+    "admin": "Al Minyā",
+    "sort": "7387"
+  },
+  {
+    "city": "As Sallūm",
+    "admin": "Maţrūḩ",
+    "sort": "8445"
+  },
+  {
+    "city": "Shalātīn",
+    "admin": "Al Baḩr al Aḩmar",
+    "sort": "6731"
+  },
+  {
+    "city": "Al ‘Alamayn",
+    "admin": "Maţrūḩ",
+    "sort": "2413"
+  },
+  {
+    "city": "Mandīshah",
+    "admin": "Al Jīzah",
+    "sort": "9016"
+  },
+  {
+    "city": "Qaşr al Farāfirah",
+    "admin": "Al Wādī al Jadīd",
+    "sort": "5000"
+  },
+  {
+    "city": "Al Qaşr",
+    "admin": "Al Wādī al Jadīd",
+    "sort": "4474"
+  },
+  {
+    "city": "Barnīs",
+    "admin": "Al Baḩr al Aḩmar",
+    "sort": "10"
+  }
+]

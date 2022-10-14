@@ -1,0 +1,417 @@
+[
+  {
+    "city": "Santa Cruz",
+    "admin": "Santa Cruz",
+    "sort": "3151676"
+  },
+  {
+    "city": "La Paz",
+    "admin": "La Paz",
+    "sort": "2867504"
+  },
+  {
+    "city": "Sucre",
+    "admin": "Chuquisaca",
+    "sort": "300000"
+  },
+  {
+    "city": "Cochabamba",
+    "admin": "Cochabamba",
+    "sort": "632013"
+  },
+  {
+    "city": "Oruro",
+    "admin": "Oruro",
+    "sort": "264683"
+  },
+  {
+    "city": "Oruro",
+    "admin": "Oruro",
+    "sort": "246501"
+  },
+  {
+    "city": "Warnes",
+    "admin": "Santa Cruz",
+    "sort": "214216"
+  },
+  {
+    "city": "Potosí",
+    "admin": "Potosí",
+    "sort": "189652"
+  },
+  {
+    "city": "Tarija",
+    "admin": "Tarija",
+    "sort": "179528"
+  },
+  {
+    "city": "Sacaba",
+    "admin": "Cochabamba",
+    "sort": "172466"
+  },
+  {
+    "city": "Quillacollo",
+    "admin": "Cochabamba",
+    "sort": "137182"
+  },
+  {
+    "city": "Montero",
+    "admin": "Santa Cruz",
+    "sort": "112837"
+  },
+  {
+    "city": "Trinidad",
+    "admin": "El Beni",
+    "sort": "101454"
+  },
+  {
+    "city": "Cobija",
+    "admin": "Pando",
+    "sort": "46267"
+  },
+  {
+    "city": "Yacuiba",
+    "admin": "Tarija",
+    "sort": "97296"
+  },
+  {
+    "city": "Riberalta",
+    "admin": "El Beni",
+    "sort": "74014"
+  },
+  {
+    "city": "Villa Tunari",
+    "admin": "Cochabamba",
+    "sort": "71386"
+  },
+  {
+    "city": "Puerto Villarroel",
+    "admin": "Cochabamba",
+    "sort": "46627"
+  },
+  {
+    "city": "Villamontes",
+    "admin": "Tarija",
+    "sort": "39800"
+  },
+  {
+    "city": "Guayaramerín",
+    "admin": "El Beni",
+    "sort": "36008"
+  },
+  {
+    "city": "Camiri",
+    "admin": "Santa Cruz",
+    "sort": "33838"
+  },
+  {
+    "city": "Tiquipaya",
+    "admin": "Cochabamba",
+    "sort": "31264"
+  },
+  {
+    "city": "Viacha",
+    "admin": "La Paz",
+    "sort": "29108"
+  },
+  {
+    "city": "Bermejo",
+    "admin": "Tarija",
+    "sort": "28285"
+  },
+  {
+    "city": "Llallagua",
+    "admin": "Potosí",
+    "sort": "28069"
+  },
+  {
+    "city": "Villazón",
+    "admin": "Potosí",
+    "sort": "28045"
+  },
+  {
+    "city": "Uyuni",
+    "admin": "Potosí",
+    "sort": "26958"
+  },
+  {
+    "city": "San Borja",
+    "admin": "El Beni",
+    "sort": "24610"
+  },
+  {
+    "city": "San Ignacio de Velasco",
+    "admin": "Santa Cruz",
+    "sort": "23569"
+  },
+  {
+    "city": "Tupiza",
+    "admin": "Potosí",
+    "sort": "23100"
+  },
+  {
+    "city": "Patacamaya",
+    "admin": "La Paz",
+    "sort": "22858"
+  },
+  {
+    "city": "Capinota",
+    "admin": "Cochabamba",
+    "sort": "19477"
+  },
+  {
+    "city": "San José de Chiquitos",
+    "admin": "Santa Cruz",
+    "sort": "16942"
+  },
+  {
+    "city": "Vallegrande",
+    "admin": "Santa Cruz",
+    "sort": "16837"
+  },
+  {
+    "city": "Mapiri",
+    "admin": "La Paz",
+    "sort": "16520"
+  },
+  {
+    "city": "Portachuelo",
+    "admin": "Santa Cruz",
+    "sort": "16408"
+  },
+  {
+    "city": "Comarapa",
+    "admin": "Santa Cruz",
+    "sort": "15919"
+  },
+  {
+    "city": "Punata",
+    "admin": "Cochabamba",
+    "sort": "14742"
+  },
+  {
+    "city": "Villa Yapacaní",
+    "admin": "Santa Cruz",
+    "sort": "14589"
+  },
+  {
+    "city": "Ascensión",
+    "admin": "Santa Cruz",
+    "sort": "14429"
+  },
+  {
+    "city": "Vinto",
+    "admin": "Cochabamba",
+    "sort": "14180"
+  },
+  {
+    "city": "Chulumani",
+    "admin": "La Paz",
+    "sort": "13204"
+  },
+  {
+    "city": "Santa Ana de Yacuma",
+    "admin": "El Beni",
+    "sort": "12783"
+  },
+  {
+    "city": "Rurrenabaque",
+    "admin": "El Beni",
+    "sort": "11749"
+  },
+  {
+    "city": "Puerto Suárez",
+    "admin": "Santa Cruz",
+    "sort": "11564"
+  },
+  {
+    "city": "Torotoro",
+    "admin": "Potosí",
+    "sort": "10535"
+  },
+  {
+    "city": "Puerto Quijarro",
+    "admin": "Santa Cruz",
+    "sort": "10392"
+  },
+  {
+    "city": "Roboré",
+    "admin": "Santa Cruz",
+    "sort": "10036"
+  },
+  {
+    "city": "Challapata",
+    "admin": "Oruro",
+    "sort": "9114"
+  },
+  {
+    "city": "Achacachi",
+    "admin": "La Paz",
+    "sort": "8857"
+  },
+  {
+    "city": "Aiquile",
+    "admin": "Cochabamba",
+    "sort": "7381"
+  },
+  {
+    "city": "Reyes",
+    "admin": "El Beni",
+    "sort": "7376"
+  },
+  {
+    "city": "Cliza",
+    "admin": "Cochabamba",
+    "sort": "6534"
+  },
+  {
+    "city": "Charagua",
+    "admin": "Santa Cruz",
+    "sort": "6780"
+  },
+  {
+    "city": "San Ramón",
+    "admin": "El Beni",
+    "sort": "6490"
+  },
+  {
+    "city": "San Carlos",
+    "admin": "Santa Cruz",
+    "sort": "6353"
+  },
+  {
+    "city": "Uncia",
+    "admin": "Potosí",
+    "sort": "5709"
+  },
+  {
+    "city": "Camargo",
+    "admin": "Chuquisaca",
+    "sort": "4502"
+  },
+  {
+    "city": "Sicasica",
+    "admin": "La Paz",
+    "sort": "3831"
+  },
+  {
+    "city": "Magdalena",
+    "admin": "El Beni",
+    "sort": "3445"
+  },
+  {
+    "city": "Samaipata",
+    "admin": "Santa Cruz",
+    "sort": "2926"
+  },
+  {
+    "city": "Padilla",
+    "admin": "Chuquisaca",
+    "sort": "2920"
+  },
+  {
+    "city": "Tarabuco",
+    "admin": "Chuquisaca",
+    "sort": "2428"
+  },
+  {
+    "city": "Baures",
+    "admin": "El Beni",
+    "sort": "2422"
+  },
+  {
+    "city": "Coroico",
+    "admin": "La Paz",
+    "sort": "2319"
+  },
+  {
+    "city": "Sorata",
+    "admin": "La Paz",
+    "sort": "2217"
+  },
+  {
+    "city": "Cuevo",
+    "admin": "Santa Cruz",
+    "sort": "1637"
+  },
+  {
+    "city": "San Matías",
+    "admin": "Santa Cruz",
+    "sort": "6352"
+  },
+  {
+    "city": "Betanzos",
+    "admin": "Potosí",
+    "sort": "4847"
+  },
+  {
+    "city": "San Javier",
+    "admin": "Santa Cruz",
+    "sort": "4210"
+  },
+  {
+    "city": "Apolo",
+    "admin": "La Paz",
+    "sort": "4189"
+  },
+  {
+    "city": "Quime",
+    "admin": "La Paz",
+    "sort": "4045"
+  },
+  {
+    "city": "San Lorenzo",
+    "admin": "Tarija",
+    "sort": "3000"
+  },
+  {
+    "city": "Entre Ríos",
+    "admin": "Tarija",
+    "sort": "2685"
+  },
+  {
+    "city": "Corocoro",
+    "admin": "La Paz",
+    "sort": "1884"
+  },
+  {
+    "city": "San Rafael",
+    "admin": "Santa Cruz",
+    "sort": "1201"
+  },
+  {
+    "city": "Puerto Acosta",
+    "admin": "La Paz",
+    "sort": "1123"
+  },
+  {
+    "city": "Sabaya",
+    "admin": "Oruro",
+    "sort": "573"
+  },
+  {
+    "city": "Llica",
+    "admin": "Potosí",
+    "sort": "553"
+  },
+  {
+    "city": "Charaña",
+    "admin": "La Paz",
+    "sort": "197"
+  },
+  {
+    "city": "Villa Martín Colchak",
+    "admin": "Potosí",
+    "sort": "10"
+  },
+  {
+    "city": "Puerto Heath",
+    "admin": "La Paz",
+    "sort": "10"
+  },
+  {
+    "city": "Piso Firme",
+    "admin": "El Beni",
+    "sort": "72"
+  }
+]

@@ -1,0 +1,657 @@
+[
+  {
+    "city": "Kampala",
+    "admin": "Kampala",
+    "sort": "1659600"
+  },
+  {
+    "city": "Mbale",
+    "admin": "Mbale",
+    "sort": "402368"
+  },
+  {
+    "city": "Arua",
+    "admin": "Arua",
+    "sort": "250000"
+  },
+  {
+    "city": "Tororo",
+    "admin": "Tororo",
+    "sort": "150000"
+  },
+  {
+    "city": "Gulu",
+    "admin": "Gulu",
+    "sort": "146858"
+  },
+  {
+    "city": "Lira",
+    "admin": "Lira",
+    "sort": "135445"
+  },
+  {
+    "city": "Mbarara",
+    "admin": "Mbarara",
+    "sort": "83700"
+  },
+  {
+    "city": "Jinja",
+    "admin": "Jinja",
+    "sort": "72931"
+  },
+  {
+    "city": "Kasese",
+    "admin": "Kasese",
+    "sort": "67269"
+  },
+  {
+    "city": "Masaka",
+    "admin": "Masaka",
+    "sort": "65373"
+  },
+  {
+    "city": "Kitgum",
+    "admin": "Kitgum",
+    "sort": "56891"
+  },
+  {
+    "city": "Busia",
+    "admin": "Busia",
+    "sort": "47100"
+  },
+  {
+    "city": "Iganga",
+    "admin": "Iganga",
+    "sort": "45024"
+  },
+  {
+    "city": "Kabale",
+    "admin": "Kabale",
+    "sort": "44600"
+  },
+  {
+    "city": "Fort Portal",
+    "admin": "Kabarole",
+    "sort": "42670"
+  },
+  {
+    "city": "Mityana",
+    "admin": "Mityana",
+    "sort": "41131"
+  },
+  {
+    "city": "Adjumani",
+    "admin": "Adjumani",
+    "sort": "34700"
+  },
+  {
+    "city": "Masindi",
+    "admin": "Masindi",
+    "sort": "31486"
+  },
+  {
+    "city": "Pallisa",
+    "admin": "Pallisa",
+    "sort": "30745"
+  },
+  {
+    "city": "Nebbi",
+    "admin": "Nebbi",
+    "sort": "30354"
+  },
+  {
+    "city": "Moyo",
+    "admin": "Moyo",
+    "sort": "22434"
+  },
+  {
+    "city": "Kayunga",
+    "admin": "Kayunga",
+    "sort": "21704"
+  },
+  {
+    "city": "Mubende",
+    "admin": "Mubende",
+    "sort": "18936"
+  },
+  {
+    "city": "Pakwach",
+    "admin": "Nwoya",
+    "sort": "17541"
+  },
+  {
+    "city": "Kamuli",
+    "admin": "Kamuli",
+    "sort": "12764"
+  },
+  {
+    "city": "Ntungamo",
+    "admin": "Ntungamo",
+    "sort": "16400"
+  },
+  {
+    "city": "Kiboga",
+    "admin": "Kiboga",
+    "sort": "14512"
+  },
+  {
+    "city": "Sironko",
+    "admin": "Sironko",
+    "sort": "14100"
+  },
+  {
+    "city": "Kisoro",
+    "admin": "Kisoro",
+    "sort": "12900"
+  },
+  {
+    "city": "Kumi",
+    "admin": "Kumi",
+    "sort": "13000"
+  },
+  {
+    "city": "Mpigi",
+    "admin": "Mpigi",
+    "sort": "11082"
+  },
+  {
+    "city": "Katakwi",
+    "admin": "Katakwi",
+    "sort": "8400"
+  },
+  {
+    "city": "Nakasongola",
+    "admin": "Nakasongola",
+    "sort": "6921"
+  },
+  {
+    "city": "Koboko",
+    "admin": "Koboko",
+    "sort": ""
+  },
+  {
+    "city": "Kalangala",
+    "admin": "Kalangala",
+    "sort": "5200"
+  },
+  {
+    "city": "Soroti",
+    "admin": "Soroti",
+    "sort": "1038"
+  },
+  {
+    "city": "Kaberamaido",
+    "admin": "Kaberamaido",
+    "sort": "3400"
+  },
+  {
+    "city": "Bugiri",
+    "admin": "Bugiri",
+    "sort": ""
+  },
+  {
+    "city": "Moroto",
+    "admin": "Moroto",
+    "sort": "371"
+  },
+  {
+    "city": "Hoima",
+    "admin": "Hoima",
+    "sort": ""
+  },
+  {
+    "city": "Wakiso",
+    "admin": "Wakiso",
+    "sort": ""
+  },
+  {
+    "city": "Kapchorwa",
+    "admin": "Kapchorwa",
+    "sort": ""
+  },
+  {
+    "city": "Bundibugyo",
+    "admin": "Bundibugyo",
+    "sort": ""
+  },
+  {
+    "city": "Yumbe",
+    "admin": "Yumbe",
+    "sort": ""
+  },
+  {
+    "city": "Mukono",
+    "admin": "Mukono",
+    "sort": ""
+  },
+  {
+    "city": "Kaabong",
+    "admin": "Kaabong",
+    "sort": "1137"
+  },
+  {
+    "city": "Lyantonde",
+    "admin": "Lyantonde",
+    "sort": ""
+  },
+  {
+    "city": "Bududa",
+    "admin": "Bududa",
+    "sort": ""
+  },
+  {
+    "city": "Manafwa",
+    "admin": "Manafwa",
+    "sort": ""
+  },
+  {
+    "city": "Luwero",
+    "admin": "Luwero",
+    "sort": ""
+  },
+  {
+    "city": "Mayuge",
+    "admin": "Mayuge",
+    "sort": ""
+  },
+  {
+    "city": "Namutumba",
+    "admin": "Namutumba",
+    "sort": ""
+  },
+  {
+    "city": "Kaliro",
+    "admin": "Kaliro",
+    "sort": ""
+  },
+  {
+    "city": "Amudat",
+    "admin": "Amudat",
+    "sort": ""
+  },
+  {
+    "city": "Bukwo",
+    "admin": "Bukwa",
+    "sort": ""
+  },
+  {
+    "city": "Kibiito",
+    "admin": "Kabarole",
+    "sort": ""
+  },
+  {
+    "city": "Kibuku",
+    "admin": "Kibuku",
+    "sort": ""
+  },
+  {
+    "city": "Maracha",
+    "admin": "Maracha",
+    "sort": ""
+  },
+  {
+    "city": "Buikwe",
+    "admin": "Buikwe",
+    "sort": ""
+  },
+  {
+    "city": "Kagadi",
+    "admin": "Kibaale",
+    "sort": ""
+  },
+  {
+    "city": "Binyin",
+    "admin": "Kween",
+    "sort": ""
+  },
+  {
+    "city": "Bulambuli",
+    "admin": "Bulambuli",
+    "sort": ""
+  },
+  {
+    "city": "Namayingo",
+    "admin": "Namayingo",
+    "sort": ""
+  },
+  {
+    "city": "Apac",
+    "admin": "Apac",
+    "sort": ""
+  },
+  {
+    "city": "Butebo",
+    "admin": "Pallisa",
+    "sort": ""
+  },
+  {
+    "city": "Kiryandongo",
+    "admin": "Kiryandongo",
+    "sort": ""
+  },
+  {
+    "city": "Busesa",
+    "admin": "Iganga",
+    "sort": ""
+  },
+  {
+    "city": "Butaleja",
+    "admin": "Butaleja",
+    "sort": ""
+  },
+  {
+    "city": "Bukomansimbi",
+    "admin": "Bukomansimbi",
+    "sort": ""
+  },
+  {
+    "city": "Luuka Town",
+    "admin": "Luuka",
+    "sort": ""
+  },
+  {
+    "city": "Serere",
+    "admin": "Serere",
+    "sort": ""
+  },
+  {
+    "city": "Zombo",
+    "admin": "Zombo",
+    "sort": ""
+  },
+  {
+    "city": "Nsiika",
+    "admin": "Buhweju",
+    "sort": ""
+  },
+  {
+    "city": "Rubanda",
+    "admin": "Kabale",
+    "sort": ""
+  },
+  {
+    "city": "Ntara",
+    "admin": "Kamwenge",
+    "sort": ""
+  },
+  {
+    "city": "Kalungu",
+    "admin": "Kalungu",
+    "sort": ""
+  },
+  {
+    "city": "Rukungiri",
+    "admin": "Rukungiri",
+    "sort": ""
+  },
+  {
+    "city": "Bushenyi",
+    "admin": "Buhweju",
+    "sort": ""
+  },
+  {
+    "city": "Gombe",
+    "admin": "Butambala",
+    "sort": ""
+  },
+  {
+    "city": "Kanungu",
+    "admin": "Kanungu",
+    "sort": ""
+  },
+  {
+    "city": "Bupoto",
+    "admin": "Manafwa",
+    "sort": ""
+  },
+  {
+    "city": "Rubirizi",
+    "admin": "Rubirizi",
+    "sort": ""
+  },
+  {
+    "city": "Kyenjojo",
+    "admin": "Kyenjojo",
+    "sort": ""
+  },
+  {
+    "city": "Kyegegwa",
+    "admin": "Kyegegwa",
+    "sort": ""
+  },
+  {
+    "city": "Kole",
+    "admin": "Kole",
+    "sort": ""
+  },
+  {
+    "city": "Ibanda",
+    "admin": "Ibanda",
+    "sort": ""
+  },
+  {
+    "city": "Bulisa",
+    "admin": "Buliisa",
+    "sort": ""
+  },
+  {
+    "city": "Mparo",
+    "admin": "Kabale",
+    "sort": ""
+  },
+  {
+    "city": "Mitoma",
+    "admin": "Mitooma",
+    "sort": ""
+  },
+  {
+    "city": "Bukedea",
+    "admin": "Bukedea",
+    "sort": ""
+  },
+  {
+    "city": "Amolatar",
+    "admin": "Amolatar",
+    "sort": ""
+  },
+  {
+    "city": "Kasanda",
+    "admin": "Mubende",
+    "sort": ""
+  },
+  {
+    "city": "Kasaali",
+    "admin": "Rakai",
+    "sort": ""
+  },
+  {
+    "city": "Dokolo",
+    "admin": "Dokolo",
+    "sort": ""
+  },
+  {
+    "city": "Kakumiro",
+    "admin": "Kibaale",
+    "sort": ""
+  },
+  {
+    "city": "Sembabule",
+    "admin": "Sembabule",
+    "sort": ""
+  },
+  {
+    "city": "Rakai",
+    "admin": "Rakai",
+    "sort": ""
+  },
+  {
+    "city": "Kinoni",
+    "admin": "Sheema",
+    "sort": ""
+  },
+  {
+    "city": "Kibingo",
+    "admin": "Sheema",
+    "sort": ""
+  },
+  {
+    "city": "Lwengo",
+    "admin": "Lwengo",
+    "sort": ""
+  },
+  {
+    "city": "Butalangu",
+    "admin": "Nakaseke",
+    "sort": ""
+  },
+  {
+    "city": "Kanoni",
+    "admin": "Gomba",
+    "sort": ""
+  },
+  {
+    "city": "Alebtong",
+    "admin": "Alebtong",
+    "sort": ""
+  },
+  {
+    "city": "Amuria",
+    "admin": "Amuria",
+    "sort": ""
+  },
+  {
+    "city": "Abim",
+    "admin": "Abim",
+    "sort": ""
+  },
+  {
+    "city": "Ngora",
+    "admin": "Ngora",
+    "sort": ""
+  },
+  {
+    "city": "Kalaki",
+    "admin": "Kaberamaido",
+    "sort": ""
+  },
+  {
+    "city": "Kamwenge",
+    "admin": "Kamwenge",
+    "sort": ""
+  },
+  {
+    "city": "Isingiro",
+    "admin": "Isingiro",
+    "sort": ""
+  },
+  {
+    "city": "Buyende",
+    "admin": "Buyende",
+    "sort": ""
+  },
+  {
+    "city": "Palenga",
+    "admin": "Gulu",
+    "sort": ""
+  },
+  {
+    "city": "Lamwo",
+    "admin": "Lamwo",
+    "sort": ""
+  },
+  {
+    "city": "Oyam",
+    "admin": "Oyam",
+    "sort": ""
+  },
+  {
+    "city": "Agago",
+    "admin": "Agago",
+    "sort": ""
+  },
+  {
+    "city": "Napak",
+    "admin": "Napak",
+    "sort": ""
+  },
+  {
+    "city": "Nabilatuk",
+    "admin": "Nakapiripirit",
+    "sort": ""
+  },
+  {
+    "city": "Kiruhura",
+    "admin": "Kiruhura",
+    "sort": ""
+  },
+  {
+    "city": "Kotido",
+    "admin": "Kotido",
+    "sort": ""
+  },
+  {
+    "city": "Nwoya",
+    "admin": "Nwoya",
+    "sort": ""
+  },
+  {
+    "city": "Pader",
+    "admin": "Pader",
+    "sort": ""
+  },
+  {
+    "city": "Otuke",
+    "admin": "Otuke",
+    "sort": ""
+  },
+  {
+    "city": "Amuru",
+    "admin": "Amuru",
+    "sort": ""
+  },
+  {
+    "city": "Nakapiripirit",
+    "admin": "Nakapiripirit",
+    "sort": ""
+  },
+  {
+    "city": "Kyankwanzi",
+    "admin": "Kyankwanzi",
+    "sort": ""
+  },
+  {
+    "city": "Ntoroko",
+    "admin": "Ntoroko",
+    "sort": ""
+  },
+  {
+    "city": "Kitamilo",
+    "admin": "Buvuma",
+    "sort": ""
+  },
+  {
+    "city": "Bombo",
+    "admin": "Luwero",
+    "sort": "75000"
+  },
+  {
+    "city": "Entebbe",
+    "admin": "Wakiso",
+    "sort": "69958"
+  },
+  {
+    "city": "Kibale",
+    "admin": "Kibaale",
+    "sort": "5200"
+  },
+  {
+    "city": "Katwe",
+    "admin": "Kasese",
+    "sort": "1957"
+  },
+  {
+    "city": "Masindi Port",
+    "admin": "Kiryandongo",
+    "sort": "8319"
+  }
+]

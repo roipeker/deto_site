@@ -1,0 +1,87 @@
+[
+  {
+    "city": "Juba",
+    "admin": "Central Equatoria",
+    "sort": "372410"
+  },
+  {
+    "city": "Bor",
+    "admin": "Jonglei",
+    "sort": "315351"
+  },
+  {
+    "city": "Yei",
+    "admin": "Central Equatoria",
+    "sort": "185000"
+  },
+  {
+    "city": "Wau",
+    "admin": "Western Bahr el Ghazal",
+    "sort": "163442"
+  },
+  {
+    "city": "Malakal",
+    "admin": "Upper Nile",
+    "sort": "147450"
+  },
+  {
+    "city": "Aweil",
+    "admin": "Northern Bahr el Ghazal",
+    "sort": "46705"
+  },
+  {
+    "city": "Yambio",
+    "admin": "Western Equatoria",
+    "sort": "40382"
+  },
+  {
+    "city": "Rumbek",
+    "admin": "Lakes",
+    "sort": "32083"
+  },
+  {
+    "city": "Torit",
+    "admin": "Eastern Equatoria",
+    "sort": "17957"
+  },
+  {
+    "city": "Bentiu",
+    "admin": "Unity",
+    "sort": "7781"
+  },
+  {
+    "city": "Kuacjok",
+    "admin": "Warrap",
+    "sort": ""
+  },
+  {
+    "city": "Gogrial",
+    "admin": "Warrap",
+    "sort": "50065"
+  },
+  {
+    "city": "Maridi",
+    "admin": "Western Equatoria",
+    "sort": "14224"
+  },
+  {
+    "city": "Kapoeta",
+    "admin": "Eastern Equatoria",
+    "sort": "7042"
+  },
+  {
+    "city": "Melut",
+    "admin": "Upper Nile",
+    "sort": "6407"
+  },
+  {
+    "city": "Nimule",
+    "admin": "Eastern Equatoria",
+    "sort": "242"
+  },
+  {
+    "city": "Nasir",
+    "admin": "Upper Nile",
+    "sort": "1741"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "city": "Conakry",
+    "admin": "Conakry",
+    "sort": "1667864"
+  },
+  {
+    "city": "Guéckédou",
+    "admin": "N’Zérékoré",
+    "sort": "221715"
+  },
+  {
+    "city": "Siguiri",
+    "admin": "Kankan",
+    "sort": "183875"
+  },
+  {
+    "city": "N’Zérékoré",
+    "admin": "N’Zérékoré",
+    "sort": "168121"
+  },
+  {
+    "city": "Kindia",
+    "admin": "Kindia",
+    "sort": "117062"
+  },
+  {
+    "city": "Boké",
+    "admin": "Boké",
+    "sort": "116270"
+  },
+  {
+    "city": "Kankan",
+    "admin": "Kankan",
+    "sort": "114009"
+  },
+  {
+    "city": "Labé",
+    "admin": "Labé",
+    "sort": "107695"
+  },
+  {
+    "city": "Mamou",
+    "admin": "Mamou",
+    "sort": "71153"
+  },
+  {
+    "city": "Faranah",
+    "admin": "Faranah",
+    "sort": "19469"
+  },
+  {
+    "city": "Forécariah",
+    "admin": "Kindia",
+    "sort": "12358"
+  },
+  {
+    "city": "Kamsar",
+    "admin": "Boké",
+    "sort": "68999"
+  },
+  {
+    "city": "Kissidougou",
+    "admin": "Faranah",
+    "sort": "66815"
+  },
+  {
+    "city": "Macenta",
+    "admin": "N’Zérékoré",
+    "sort": "43102"
+  },
+  {
+    "city": "Dabola",
+    "admin": "Faranah",
+    "sort": "38617"
+  },
+  {
+    "city": "Télimélé",
+    "admin": "Kindia",
+    "sort": "30311"
+  },
+  {
+    "city": "Tougué",
+    "admin": "Labé",
+    "sort": "25531"
+  },
+  {
+    "city": "Fria",
+    "admin": "Boké",
+    "sort": "23729"
+  },
+  {
+    "city": "Pita",
+    "admin": "Mamou",
+    "sort": "20052"
+  },
+  {
+    "city": "Kérouané",
+    "admin": "Kankan",
+    "sort": "15406"
+  },
+  {
+    "city": "Koundara",
+    "admin": "Boké",
+    "sort": "13990"
+  },
+  {
+    "city": "Kouroussa",
+    "admin": "Kankan",
+    "sort": "14223"
+  },
+  {
+    "city": "Beyla",
+    "admin": "N’Zérékoré",
+    "sort": "13204"
+  },
+  {
+    "city": "Gaoual",
+    "admin": "Boké",
+    "sort": "7461"
+  },
+  {
+    "city": "Dalaba",
+    "admin": "Mamou",
+    "sort": "6349"
+  },
+  {
+    "city": "Dinguiraye",
+    "admin": "Faranah",
+    "sort": "6062"
+  },
+  {
+    "city": "Mali",
+    "admin": "Labé",
+    "sort": "5479"
+  },
+  {
+    "city": "Yomou",
+    "admin": "N’Zérékoré",
+    "sort": "3614"
+  },
+  {
+    "city": "Boffa",
+    "admin": "Boké",
+    "sort": "2332"
+  }
+]

@@ -1,0 +1,687 @@
+[
+  {
+    "city": "Athens",
+    "admin": "Attikí",
+    "sort": "664046"
+  },
+  {
+    "city": "Thessaloníki",
+    "admin": "Kentrikí Makedonía",
+    "sort": "315196"
+  },
+  {
+    "city": "Piraeus",
+    "admin": "Attikí",
+    "sort": "163688"
+  },
+  {
+    "city": "Pátra",
+    "admin": "Dytikí Elláda",
+    "sort": "167446"
+  },
+  {
+    "city": "Peristéri",
+    "admin": "Attikí",
+    "sort": "139981"
+  },
+  {
+    "city": "Lárisa",
+    "admin": "Thessalía",
+    "sort": "144651"
+  },
+  {
+    "city": "Irákleio",
+    "admin": "Kríti",
+    "sort": "140730"
+  },
+  {
+    "city": "Kallithéa",
+    "admin": "Attikí",
+    "sort": "100641"
+  },
+  {
+    "city": "Níkaia",
+    "admin": "Attikí",
+    "sort": "89380"
+  },
+  {
+    "city": "Glyfáda",
+    "admin": "Attikí",
+    "sort": "87305"
+  },
+  {
+    "city": "Vólos",
+    "admin": "Thessalía",
+    "sort": "86046"
+  },
+  {
+    "city": "Néa Ionía",
+    "admin": "Attikí",
+    "sort": "67134"
+  },
+  {
+    "city": "Chalándri",
+    "admin": "Attikí",
+    "sort": "74192"
+  },
+  {
+    "city": "Palaió Fáliro",
+    "admin": "Attikí",
+    "sort": "64021"
+  },
+  {
+    "city": "Výronas",
+    "admin": "Attikí",
+    "sort": "61308"
+  },
+  {
+    "city": "Agía Paraskeví",
+    "admin": "Attikí",
+    "sort": "59704"
+  },
+  {
+    "city": "Ioánnina",
+    "admin": "Ípeiros",
+    "sort": "65574"
+  },
+  {
+    "city": "Ródos",
+    "admin": "Notío Aigaío",
+    "sort": "56969"
+  },
+  {
+    "city": "Chaniá",
+    "admin": "Kríti",
+    "sort": "53910"
+  },
+  {
+    "city": "Lamía",
+    "admin": "Stereá Elláda",
+    "sort": "52006"
+  },
+  {
+    "city": "Komotiní",
+    "admin": "Anatolikí Makedonía kai Thráki",
+    "sort": "50990"
+  },
+  {
+    "city": "Kozáni",
+    "admin": "Dytikí Makedonía",
+    "sort": "41066"
+  },
+  {
+    "city": "Vrilíssia",
+    "admin": "Attikí",
+    "sort": "30741"
+  },
+  {
+    "city": "Néa Filadélfeia",
+    "admin": "Attikí",
+    "sort": "25734"
+  },
+  {
+    "city": "Péfki",
+    "admin": "Attikí",
+    "sort": "21415"
+  },
+  {
+    "city": "Trípoli",
+    "admin": "Peloponnísos",
+    "sort": "30866"
+  },
+  {
+    "city": "Mytilíni",
+    "admin": "Voreío Aigaío",
+    "sort": "27871"
+  },
+  {
+    "city": "Kérkyra",
+    "admin": "Ionía Nísia",
+    "sort": "24838"
+  },
+  {
+    "city": "Lykóvrysi",
+    "admin": "Attikí",
+    "sort": "9738"
+  },
+  {
+    "city": "Zefýri",
+    "admin": "Attikí",
+    "sort": "9454"
+  },
+  {
+    "city": "Psychikó",
+    "admin": "Attikí",
+    "sort": "9529"
+  },
+  {
+    "city": "Ermoúpoli",
+    "admin": "Notío Aigaío",
+    "sort": "12260"
+  },
+  {
+    "city": "Tríkala",
+    "admin": "Thessalía",
+    "sort": "61653"
+  },
+  {
+    "city": "Chalkída",
+    "admin": "Stereá Elláda",
+    "sort": "59125"
+  },
+  {
+    "city": "Sérres",
+    "admin": "Kentrikí Makedonía",
+    "sort": "58287"
+  },
+  {
+    "city": "Alexandroúpoli",
+    "admin": "Anatolikí Makedonía kai Thráki",
+    "sort": "57812"
+  },
+  {
+    "city": "Xánthi",
+    "admin": "Anatolikí Makedonía kai Thráki",
+    "sort": "56122"
+  },
+  {
+    "city": "Kateríni",
+    "admin": "Kentrikí Makedonía",
+    "sort": "55997"
+  },
+  {
+    "city": "Kavála",
+    "admin": "Anatolikí Makedonía kai Thráki",
+    "sort": "54027"
+  },
+  {
+    "city": "Kalamáta",
+    "admin": "Peloponnísos",
+    "sort": "53041"
+  },
+  {
+    "city": "Chaïdári",
+    "admin": "Attikí",
+    "sort": "45642"
+  },
+  {
+    "city": "Agrínio",
+    "admin": "Dytikí Elláda",
+    "sort": "46899"
+  },
+  {
+    "city": "Dráma",
+    "admin": "Anatolikí Makedonía kai Thráki",
+    "sort": "44823"
+  },
+  {
+    "city": "Véroia",
+    "admin": "Kentrikí Makedonía",
+    "sort": "43158"
+  },
+  {
+    "city": "Kardítsa",
+    "admin": "Thessalía",
+    "sort": "38554"
+  },
+  {
+    "city": "Kos",
+    "admin": "Notío Aigaío",
+    "sort": "33387"
+  },
+  {
+    "city": "Réthymno",
+    "admin": "Kríti",
+    "sort": "32468"
+  },
+  {
+    "city": "Kórinthos",
+    "admin": "Peloponnísos",
+    "sort": "30176"
+  },
+  {
+    "city": "Giannitsá",
+    "admin": "Kentrikí Makedonía",
+    "sort": "29789"
+  },
+  {
+    "city": "Chíos",
+    "admin": "Voreío Aigaío",
+    "sort": "26850"
+  },
+  {
+    "city": "Elefsína",
+    "admin": "Attikí",
+    "sort": "24910"
+  },
+  {
+    "city": "Salamína",
+    "admin": "Attikí",
+    "sort": "25370"
+  },
+  {
+    "city": "Pýrgos",
+    "admin": "Dytikí Elláda",
+    "sort": "24359"
+  },
+  {
+    "city": "Mégara",
+    "admin": "Attikí",
+    "sort": "23456"
+  },
+  {
+    "city": "Kilkís",
+    "admin": "Kentrikí Makedonía",
+    "sort": "22914"
+  },
+  {
+    "city": "Thebes",
+    "admin": "Stereá Elláda",
+    "sort": "22883"
+  },
+  {
+    "city": "Lefkáda",
+    "admin": "Ionía Nísia",
+    "sort": "22652"
+  },
+  {
+    "city": "Áno Sýros",
+    "admin": "Notío Aigaío",
+    "sort": "21507"
+  },
+  {
+    "city": "Livadeiá",
+    "admin": "Stereá Elláda",
+    "sort": "21379"
+  },
+  {
+    "city": "Aígio",
+    "admin": "Dytikí Elláda",
+    "sort": "20422"
+  },
+  {
+    "city": "Préveza",
+    "admin": "Ípeiros",
+    "sort": "19042"
+  },
+  {
+    "city": "Náousa",
+    "admin": "Kentrikí Makedonía",
+    "sort": "18882"
+  },
+  {
+    "city": "Orestiáda",
+    "admin": "Anatolikí Makedonía kai Thráki",
+    "sort": "18426"
+  },
+  {
+    "city": "Spárti",
+    "admin": "Peloponnísos",
+    "sort": "16239"
+  },
+  {
+    "city": "Thérmi",
+    "admin": "Kentrikí Makedonía",
+    "sort": "16004"
+  },
+  {
+    "city": "Alexándreia",
+    "admin": "Kentrikí Makedonía",
+    "sort": "14821"
+  },
+  {
+    "city": "Paianía",
+    "admin": "Attikí",
+    "sort": "14595"
+  },
+  {
+    "city": "Néa Alikarnassós",
+    "admin": "Kríti",
+    "sort": "12925"
+  },
+  {
+    "city": "Náfplio",
+    "admin": "Peloponnísos",
+    "sort": "14203"
+  },
+  {
+    "city": "Náfpaktos",
+    "admin": "Dytikí Elláda",
+    "sort": "13415"
+  },
+  {
+    "city": "Kastoriá",
+    "admin": "Dytikí Makedonía",
+    "sort": "13387"
+  },
+  {
+    "city": "Kálymnos",
+    "admin": "Notío Aigaío",
+    "sort": "12324"
+  },
+  {
+    "city": "Glyká Nerá",
+    "admin": "Attikí",
+    "sort": "11049"
+  },
+  {
+    "city": "Loutráki",
+    "admin": "Peloponnísos",
+    "sort": "11564"
+  },
+  {
+    "city": "Anatolí",
+    "admin": "Ípeiros",
+    "sort": "9798"
+  },
+  {
+    "city": "Kiáto",
+    "admin": "Peloponnísos",
+    "sort": "9812"
+  },
+  {
+    "city": "Týrnavos",
+    "admin": "Thessalía",
+    "sort": "11069"
+  },
+  {
+    "city": "Diavatá",
+    "admin": "Kentrikí Makedonía",
+    "sort": "9890"
+  },
+  {
+    "city": "Néa Moudaniá",
+    "admin": "Kentrikí Makedonía",
+    "sort": "9342"
+  },
+  {
+    "city": "Pórto Ráfti",
+    "admin": "Attikí",
+    "sort": "9686"
+  },
+  {
+    "city": "Néa Artáki",
+    "admin": "Stereá Elláda",
+    "sort": "9489"
+  },
+  {
+    "city": "Argostóli",
+    "admin": "Ionía Nísia",
+    "sort": "9748"
+  },
+  {
+    "city": "Néa Michanióna",
+    "admin": "Kentrikí Makedonía",
+    "sort": "8775"
+  },
+  {
+    "city": "Síndos",
+    "admin": "Kentrikí Makedonía",
+    "sort": "9289"
+  },
+  {
+    "city": "Fársala",
+    "admin": "Thessalía",
+    "sort": "9298"
+  },
+  {
+    "city": "Spáta",
+    "admin": "Attikí",
+    "sort": "9198"
+  },
+  {
+    "city": "Néa Péramos",
+    "admin": "Attikí",
+    "sort": "8333"
+  },
+  {
+    "city": "Siteía",
+    "admin": "Kríti",
+    "sort": "9348"
+  },
+  {
+    "city": "Didymóteicho",
+    "admin": "Anatolikí Makedonía kai Thráki",
+    "sort": "9263"
+  },
+  {
+    "city": "Epanomí",
+    "admin": "Kentrikí Makedonía",
+    "sort": "8979"
+  },
+  {
+    "city": "Chrysoúpoli",
+    "admin": "Anatolikí Makedonía kai Thráki",
+    "sort": "8885"
+  },
+  {
+    "city": "Mourniés",
+    "admin": "Kríti",
+    "sort": "7553"
+  },
+  {
+    "city": "Kalampáka",
+    "admin": "Thessalía",
+    "sort": "8330"
+  },
+  {
+    "city": "Giánnouli",
+    "admin": "Thessalía",
+    "sort": "7847"
+  },
+  {
+    "city": "Lagkadás",
+    "admin": "Kentrikí Makedonía",
+    "sort": "7764"
+  },
+  {
+    "city": "Almyrós",
+    "admin": "Thessalía",
+    "sort": "7955"
+  },
+  {
+    "city": "Koufália",
+    "admin": "Kentrikí Makedonía",
+    "sort": "7850"
+  },
+  {
+    "city": "Néa Kallikráteia",
+    "admin": "Kentrikí Makedonía",
+    "sort": "7238"
+  },
+  {
+    "city": "Elassóna",
+    "admin": "Thessalía",
+    "sort": "7338"
+  },
+  {
+    "city": "Chalástra",
+    "admin": "Kentrikí Makedonía",
+    "sort": "7270"
+  },
+  {
+    "city": "Lávrio",
+    "admin": "Attikí",
+    "sort": "7078"
+  },
+  {
+    "city": "Karpenísi",
+    "admin": "Stereá Elláda",
+    "sort": "7183"
+  },
+  {
+    "city": "Marathónas",
+    "admin": "Attikí",
+    "sort": "7170"
+  },
+  {
+    "city": "Polýkastro",
+    "admin": "Kentrikí Makedonía",
+    "sort": "7064"
+  },
+  {
+    "city": "Káto Achaḯa",
+    "admin": "Dytikí Elláda",
+    "sort": "6618"
+  },
+  {
+    "city": "Aígina",
+    "admin": "Attikí",
+    "sort": "6867"
+  },
+  {
+    "city": "Litóchoro",
+    "admin": "Kentrikí Makedonía",
+    "sort": "6995"
+  },
+  {
+    "city": "Aridaía",
+    "admin": "Kentrikí Makedonía",
+    "sort": "6561"
+  },
+  {
+    "city": "Néo Karlovási",
+    "admin": "Voreío Aigaío",
+    "sort": "6708"
+  },
+  {
+    "city": "Néoi Epivátes",
+    "admin": "Kentrikí Makedonía",
+    "sort": "5984"
+  },
+  {
+    "city": "Río",
+    "admin": "Dytikí Elláda",
+    "sort": "5252"
+  },
+  {
+    "city": "Soúda",
+    "admin": "Kríti",
+    "sort": "6358"
+  },
+  {
+    "city": "Kounoupidianá",
+    "admin": "Kríti",
+    "sort": "6334"
+  },
+  {
+    "city": "Anávyssos",
+    "admin": "Attikí",
+    "sort": "6202"
+  },
+  {
+    "city": "Agriá",
+    "admin": "Thessalía",
+    "sort": "5191"
+  },
+  {
+    "city": "Messíni",
+    "admin": "Peloponnísos",
+    "sort": "6065"
+  },
+  {
+    "city": "Mýrina",
+    "admin": "Voreío Aigaío",
+    "sort": "5711"
+  },
+  {
+    "city": "Polýgyros",
+    "admin": "Kentrikí Makedonía",
+    "sort": "6121"
+  },
+  {
+    "city": "Megalópoli",
+    "admin": "Peloponnísos",
+    "sort": "5748"
+  },
+  {
+    "city": "Filiatrá",
+    "admin": "Peloponnísos",
+    "sort": "5969"
+  },
+  {
+    "city": "Nerokoúros",
+    "admin": "Kríti",
+    "sort": "5531"
+  },
+  {
+    "city": "Diónysos",
+    "admin": "Attikí",
+    "sort": "5651"
+  },
+  {
+    "city": "Psachná",
+    "admin": "Stereá Elláda",
+    "sort": "5827"
+  },
+  {
+    "city": "Xylókastro",
+    "admin": "Peloponnísos",
+    "sort": "5500"
+  },
+  {
+    "city": "Fílyro",
+    "admin": "Kentrikí Makedonía",
+    "sort": "5495"
+  },
+  {
+    "city": "Kremastí",
+    "admin": "Notío Aigaío",
+    "sort": "5363"
+  },
+  {
+    "city": "Siátista",
+    "admin": "Dytikí Makedonía",
+    "sort": "5490"
+  },
+  {
+    "city": "Féres",
+    "admin": "Anatolikí Makedonía kai Thráki",
+    "sort": "5457"
+  },
+  {
+    "city": "Tympáki",
+    "admin": "Kríti",
+    "sort": "5285"
+  },
+  {
+    "city": "Vrontádos",
+    "admin": "Voreío Aigaío",
+    "sort": "5323"
+  },
+  {
+    "city": "Archángelos",
+    "admin": "Notío Aigaío",
+    "sort": "5384"
+  },
+  {
+    "city": "Skýdra",
+    "admin": "Kentrikí Makedonía",
+    "sort": "5406"
+  },
+  {
+    "city": "Kyparissía",
+    "admin": "Peloponnísos",
+    "sort": "5131"
+  },
+  {
+    "city": "Néa Anchiálos",
+    "admin": "Thessalía",
+    "sort": "5132"
+  },
+  {
+    "city": "Kárystos",
+    "admin": "Stereá Elláda",
+    "sort": "5112"
+  },
+  {
+    "city": "Orchomenós",
+    "admin": "Stereá Elláda",
+    "sort": "5238"
+  },
+  {
+    "city": "Gargaliánoi",
+    "admin": "Peloponnísos",
+    "sort": "5007"
+  }
+]

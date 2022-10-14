@@ -1,0 +1,257 @@
+[
+  {
+    "city": "Tirana",
+    "admin": "Tiranë",
+    "sort": "418495"
+  },
+  {
+    "city": "Vlorë",
+    "admin": "Vlorë",
+    "sort": "130827"
+  },
+  {
+    "city": "Kamëz",
+    "admin": "Tiranë",
+    "sort": "126777"
+  },
+  {
+    "city": "Fier",
+    "admin": "Fier",
+    "sort": "120655"
+  },
+  {
+    "city": "Durrës",
+    "admin": "Durrës",
+    "sort": "113249"
+  },
+  {
+    "city": "Shkodër",
+    "admin": "Shkodër",
+    "sort": "112276"
+  },
+  {
+    "city": "Elbasan",
+    "admin": "Elbasan",
+    "sort": "78703"
+  },
+  {
+    "city": "Korçë",
+    "admin": "Korçë",
+    "sort": "51152"
+  },
+  {
+    "city": "Berat",
+    "admin": "Berat",
+    "sort": "36496"
+  },
+  {
+    "city": "Gjirokastër",
+    "admin": "Gjirokastër",
+    "sort": "23437"
+  },
+  {
+    "city": "Lezhë",
+    "admin": "Lezhë",
+    "sort": "15510"
+  },
+  {
+    "city": "Kukës",
+    "admin": "Kukës",
+    "sort": "16719"
+  },
+  {
+    "city": "Peshkopi",
+    "admin": "Dibër",
+    "sort": "13251"
+  },
+  {
+    "city": "Sarandë",
+    "admin": "Vlorë",
+    "sort": "41000"
+  },
+  {
+    "city": "Lushnjë",
+    "admin": "Fier",
+    "sort": "31105"
+  },
+  {
+    "city": "Kavajë",
+    "admin": "Tiranë",
+    "sort": "29354"
+  },
+  {
+    "city": "Pogradec",
+    "admin": "Korçë",
+    "sort": "20848"
+  },
+  {
+    "city": "Fushë-Krujë",
+    "admin": "Durrës",
+    "sort": "18477"
+  },
+  {
+    "city": "Laç",
+    "admin": "Lezhë",
+    "sort": "17086"
+  },
+  {
+    "city": "Sukth",
+    "admin": "Durrës",
+    "sort": "15966"
+  },
+  {
+    "city": "Patos",
+    "admin": "Fier",
+    "sort": "15397"
+  },
+  {
+    "city": "Kuçovë",
+    "admin": "Berat",
+    "sort": "12654"
+  },
+  {
+    "city": "Librazhd-Qendër",
+    "admin": "Elbasan",
+    "sort": "12691"
+  },
+  {
+    "city": "Krujë",
+    "admin": "Durrës",
+    "sort": "11721"
+  },
+  {
+    "city": "Burrel",
+    "admin": "Dibër",
+    "sort": "10862"
+  },
+  {
+    "city": "Gramsh",
+    "admin": "Elbasan",
+    "sort": "8440"
+  },
+  {
+    "city": "Shijak",
+    "admin": "Durrës",
+    "sort": "7568"
+  },
+  {
+    "city": "Libonik",
+    "admin": "Korçë",
+    "sort": "8922"
+  },
+  {
+    "city": "Belsh",
+    "admin": "Elbasan",
+    "sort": "8781"
+  },
+  {
+    "city": "Rrëshen",
+    "admin": "Lezhë",
+    "sort": "8803"
+  },
+  {
+    "city": "Ballsh",
+    "admin": "Fier",
+    "sort": "7657"
+  },
+  {
+    "city": "Mamurras",
+    "admin": "Lezhë",
+    "sort": "8282"
+  },
+  {
+    "city": "Divjakë",
+    "admin": "Fier",
+    "sort": "8445"
+  },
+  {
+    "city": "Bulqizë",
+    "admin": "Dibër",
+    "sort": "8177"
+  },
+  {
+    "city": "Shëngjin",
+    "admin": "Lezhë",
+    "sort": "8091"
+  },
+  {
+    "city": "Vau i Dejës",
+    "admin": "Shkodër",
+    "sort": "8117"
+  },
+  {
+    "city": "Rrogozhinë",
+    "admin": "Tiranë",
+    "sort": "7049"
+  },
+  {
+    "city": "Librazhd",
+    "admin": "Elbasan",
+    "sort": "6937"
+  },
+  {
+    "city": "Bilisht",
+    "admin": "Korçë",
+    "sort": "7114"
+  },
+  {
+    "city": "Peqin",
+    "admin": "Elbasan",
+    "sort": "6353"
+  },
+  {
+    "city": "Cërrik",
+    "admin": "Elbasan",
+    "sort": "6695"
+  },
+  {
+    "city": "Roskovec",
+    "admin": "Fier",
+    "sort": "6657"
+  },
+  {
+    "city": "Përmet",
+    "admin": "Gjirokastër",
+    "sort": "5945"
+  },
+  {
+    "city": "Prrenjas",
+    "admin": "Elbasan",
+    "sort": "5847"
+  },
+  {
+    "city": "Krumë",
+    "admin": "Kukës",
+    "sort": "6006"
+  },
+  {
+    "city": "Delvinë",
+    "admin": "Vlorë",
+    "sort": "5754"
+  },
+  {
+    "city": "Bajram Curri",
+    "admin": "Kukës",
+    "sort": "5340"
+  },
+  {
+    "city": "Tepelenë",
+    "admin": "Gjirokastër",
+    "sort": "4342"
+  },
+  {
+    "city": "Ersekë",
+    "admin": "Korçë",
+    "sort": "3746"
+  },
+  {
+    "city": "Çorovodë",
+    "admin": "Berat",
+    "sort": "4051"
+  },
+  {
+    "city": "Pukë",
+    "admin": "Shkodër",
+    "sort": "3607"
+  }
+]

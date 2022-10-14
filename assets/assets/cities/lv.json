@@ -1,0 +1,217 @@
+[
+  {
+    "city": "Riga",
+    "admin": "Rīga",
+    "sort": "614618"
+  },
+  {
+    "city": "Daugavpils",
+    "admin": "Daugavpils",
+    "sort": "80627"
+  },
+  {
+    "city": "Liepāja",
+    "admin": "Liepāja",
+    "sort": "67964"
+  },
+  {
+    "city": "Jelgava",
+    "admin": "Jelgavas Novads",
+    "sort": "55336"
+  },
+  {
+    "city": "Jūrmala",
+    "admin": "Jūrmala",
+    "sort": "50248"
+  },
+  {
+    "city": "Ventspils",
+    "admin": "Ventspils",
+    "sort": "33372"
+  },
+  {
+    "city": "Rēzekne",
+    "admin": "Rēzeknes Novads",
+    "sort": "26839"
+  },
+  {
+    "city": "Valmiera",
+    "admin": "Valmiera",
+    "sort": "22971"
+  },
+  {
+    "city": "Ogre",
+    "admin": "Ogres Novads",
+    "sort": "22978"
+  },
+  {
+    "city": "Jēkabpils",
+    "admin": "Jēkabpils Novads",
+    "sort": "21629"
+  },
+  {
+    "city": "Salaspils",
+    "admin": "Salaspils Novads",
+    "sort": "17905"
+  },
+  {
+    "city": "Mārupe",
+    "admin": "Mārupes Novads",
+    "sort": "16826"
+  },
+  {
+    "city": "Tukums",
+    "admin": "Tukuma Novads",
+    "sort": "16691"
+  },
+  {
+    "city": "Cēsis",
+    "admin": "Cēsu Novads",
+    "sort": "14815"
+  },
+  {
+    "city": "Sigulda",
+    "admin": "Siguldas Novads",
+    "sort": "14396"
+  },
+  {
+    "city": "Olaine",
+    "admin": "Olaines Novads",
+    "sort": "10324"
+  },
+  {
+    "city": "Kuldīga",
+    "admin": "Kuldīgas Novads",
+    "sort": "10109"
+  },
+  {
+    "city": "Bauska",
+    "admin": "Bauskas Novads",
+    "sort": "9840"
+  },
+  {
+    "city": "Saldus",
+    "admin": "Saldus Novads",
+    "sort": "9679"
+  },
+  {
+    "city": "Talsi",
+    "admin": "Talsu Novads",
+    "sort": "8816"
+  },
+  {
+    "city": "Dobele",
+    "admin": "Dobeles Novads",
+    "sort": "8731"
+  },
+  {
+    "city": "Ludza",
+    "admin": "Ludzas Novads",
+    "sort": "7473"
+  },
+  {
+    "city": "Krāslava",
+    "admin": "Krāslavas Novads",
+    "sort": "7289"
+  },
+  {
+    "city": "Ādaži",
+    "admin": "Ādažu Novads",
+    "sort": "7154"
+  },
+  {
+    "city": "Aizkraukle",
+    "admin": "Aizkraukles Novads",
+    "sort": "7044"
+  },
+  {
+    "city": "Līvāni",
+    "admin": "Līvānu Novads",
+    "sort": "7035"
+  },
+  {
+    "city": "Gulbene",
+    "admin": "Gulbenes Novads",
+    "sort": "6982"
+  },
+  {
+    "city": "Limbaži",
+    "admin": "Limbažu Novads",
+    "sort": "6888"
+  },
+  {
+    "city": "Madona",
+    "admin": "Madonas Novads",
+    "sort": "6792"
+  },
+  {
+    "city": "Alūksne",
+    "admin": "Alūksnes Novads",
+    "sort": "6535"
+  },
+  {
+    "city": "Preiļi",
+    "admin": "Preiļu Novads",
+    "sort": "6161"
+  },
+  {
+    "city": "Balvi",
+    "admin": "Balvu Novads",
+    "sort": "5840"
+  },
+  {
+    "city": "Ķekava",
+    "admin": "Ķekavas Novads",
+    "sort": "5134"
+  },
+  {
+    "city": "Smiltene",
+    "admin": "Smiltenes Novads",
+    "sort": "5151"
+  },
+  {
+    "city": "Valka",
+    "admin": "Valkas Novads",
+    "sort": "4510"
+  },
+  {
+    "city": "Ulbroka",
+    "admin": "Ropažu Novads",
+    "sort": "3102"
+  },
+  {
+    "city": "Saulkrasti",
+    "admin": "Saulkrastu Novads",
+    "sort": "3120"
+  },
+  {
+    "city": "Varakļāni",
+    "admin": "Varakļānu Novads",
+    "sort": "1730"
+  },
+  {
+    "city": "Ropaži",
+    "admin": "Ropažu Novads",
+    "sort": "1661"
+  },
+  {
+    "city": "Ikšķile",
+    "admin": "Ogres Novads",
+    "sort": "7278"
+  },
+  {
+    "city": "Baloži",
+    "admin": "Ķekavas Novads",
+    "sort": "6780"
+  },
+  {
+    "city": "Lielvārde",
+    "admin": "Ogres Novads",
+    "sort": "5907"
+  },
+  {
+    "city": "Iecava",
+    "admin": "Bauskas Novads",
+    "sort": "5736"
+  }
+]

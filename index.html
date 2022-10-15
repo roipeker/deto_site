@@ -36,7 +36,7 @@
     <img class="center" aria-hidden="true" src="splash/img/light-1x.png" alt="">
 </picture>
 <script>
-      var serviceWorkerVersion = '1645532257';
+      var serviceWorkerVersion = '4201957354';
       var scriptLoaded = false;
       function loadMainDartJs() {
         if (scriptLoaded) {
@@ -44,7 +44,7 @@
         }
         scriptLoaded = true;
         var scriptTag = document.createElement("script");
-        scriptTag.src = "main.dart.js";
+        scriptTag.src = "main.dart.js?v="+serviceWorkerVersion;
         scriptTag.type = "application/javascript";
         document.body.append(scriptTag);
       }
